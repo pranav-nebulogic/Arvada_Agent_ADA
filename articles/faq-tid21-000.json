@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-21-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "str_permit",
+    "category": "short_term_rentals",
+    "tags": [
+      "main",
+      "changes",
+      "taking",
+      "effect",
+      "ordinance",
+      "approved",
+      "arvada",
+      "city",
+      "Short Term Rentals"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=21"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-are-the-main-changes-taking-effect-may-1-2026",
+    "faq_category_name": "Short Term Rentals"
+  },
+  "content": {
+    "title": "What are the main changes taking effect May 1, 2026?",
+    "summary": "The ordinance approved by Arvada City Council makes the following changes: Only real persons with an ownership interest in the property can obtain an STR permit; either an LLC or an individual can own an STR property Stronger enforcement provisions are in place, including mandatory fines in the City…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What are the main changes taking effect May 1, 2026?",
+        "a": "The ordinance approved by Arvada City Council makes the following changes: Only real persons with an ownership interest in the property can obtain an STR permit; either an LLC or an individual can own an STR property Stronger enforcement provisions are in place, including mandatory fines in the City's code for operating an STR without a permit or for being in violation of City building code"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

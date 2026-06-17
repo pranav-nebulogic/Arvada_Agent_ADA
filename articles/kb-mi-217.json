@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "exempt",
+      "purchases",
+      "converted",
+      "taxable",
+      "buyer",
+      "code",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/333/Exempt-Purchases-Converted-to-Taxable-Us"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-217",
+    "spreadsheet_id": "MI-217",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Exempt Purchases Converted to Taxable Use",
+    "summary": "The Arvada Municipal Code mandates a use tax on tangible personal property that is used, stored, or consumed within the city if no sales tax was paid at the time of purchase. Businesses withdrawing items from inventory for personal or business use must remit this tax, and sellers must prove that sales were exempt if audited. Additionally, certain conditions, such as damage or theft, may exempt items from being taxed upon withdrawal from inventory.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a use tax on purchases of tangible personal property (not including inventory) that are used, stored, consumed, or distributed within the City on which no sales tax was paid at the time of purchase. If any item was originally purchased for wholesale and is subsequently withdrawn from inventory for use by the buyer either personally or in the buyer's business, the cost of the item withdrawn is subject to use tax.\n\nA buyer's obligation to remit use tax on goods removed from inventory does not relieve the seller's burden to show that sales were properly exempted. If the seller is audited, and exempted sales are disallowed, the seller will be required to show that the purchaser was properly licensed and the items purchased were resold. The seller, therefore, assumes some risk in exempting sales that the City later determines is not exempt, as the City will assess taxes, penalties, and interest against the seller despite any indemnification by the buyer.\n\nIf any item was originally purchased for wholesale and is subsequently deemed to be unusable or not of a quality that can be sold in the regular course of the business due to damage or imperfection, the unpaid disposition of such property does not constitute a taxable withdrawal from inventory. However, if the property is unusable or not of a quality that can be sold in the regular course of business, it must collect sales tax from the purchaser on the sale price unless the sale is otherwise exempt. If the property is stolen then the involuntary withdrawal of the inventory does not constitute a taxable use.\n\n## Example\n\n- Business Use - XYZ Office Furniture has an executive chair in inventory. The president of the firm needs a new chair for his office. Because XYZ is a dealer in office chairs, they purchase them for resale, and thus tax-free. The taxable incident occurs when the chair is withdrawn from inventory for use by the business. Use tax then becomes due on the cost of the executive chair.\n- Donated Goods - The local discount grocery store donates food products to a charitable organization. The food would be subject to use tax at cost. The grocer is considered the user of the food because the business is donating the food.\n- Employee Meals - The employees at Olde Town Café are allowed to eat at the café free of charge whenever they are working a shift. Those meals that are provided to the employee free of charge are subject to use tax on the cost of the meal. When meals are recorded as a sale, but then discounted at 100% (Employee Comp Meals) - no money received, then the costs of the meals are subject to use tax and should be reported by applying the cost of goods sold percentage to the total of the Employee Comp Meals.\n- Research and Development or Quality Control Testing - ABC Manufacturing Company withdraws products from a self-produced inventory to conduct quality control testing and research and development. Any items purchased for resale and taken out of inventory are liable for use tax on the cost of the property withdrawn.\n- Samples (Purchased Inventory) - The greenhouse participates in a Home and Garden Show each year. The greenhouse purchases seed packets from a vendor and provide the seed packets as part of a free growing kit during the show. The kits and seed packets are subject to use tax at the time they are withdrawn from inventory\n- Samples (Self-Produced Inventory) - A manufacturer of food products provide samples to customers in order to promote new products. The product samples are taken out of inventory and sent to customers at no cost. The acquisition cost of the food product used for samples is subject to use tax at the time the items are withdrawn from inventory.\n- Unusable Product Sold as a By-Product - A manufacturer that sells waste or byproducts to a recycler the manufacturer must collect sales tax on the sales price of the waste or by-products unless the materials are sold to a reseller. If, however, the manufacturer simply disposes of such property without a sale, there is no taxable event.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "damage",
+      "destruction",
+      "nonconforming",
+      "signs",
+      "generally",
+      "repaired",
+      "after",
+      "only",
+      "provided",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-4-2"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-4. NONCONFORMING SIGNS"
+  },
+  "content": {
+    "title": "9-1-4-2. Damage to or destruction of nonconforming signs.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-4-2. Damage to or destruction of nonconforming signs.",
+        "a": "A.\tGenerally. Nonconforming signs may be repaired after damage only as provided in this Section, except that this Section does not apply to historic signs within the OT zoning district (see Section 6-1-7-2, Historic Signs; Exceptions to Nonconformity and Abandonment).\nB.\tLimitations on Repair or Replacement. In the event that a nonconforming sign is damaged or destroyed, by any means, to the extent of more than 50 percent of its replacement cost prior to such destruction (as determined by the City), such sign shall not be restored except in conformance with the applicable requirements of Chapter 6, Signs."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

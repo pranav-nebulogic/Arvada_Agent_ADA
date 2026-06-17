@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "standardized",
+      "nonresidential",
+      "buildings",
+      "generally",
+      "propose",
+      "utilize",
+      "corporate",
+      "architecture",
+      "subject",
+      "standards"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-2-7"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-2. BUILDING AND STRUCTURE DESIGN STANDARDS"
+  },
+  "content": {
+    "title": "5-1-2-7. Standardized nonresidential buildings.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-2-7. Standardized nonresidential buildings.",
+        "a": "A.\tGenerally. Nonresidential buildings that propose to utilize a standardized corporate architecture are subject to the standards of this Subsection.\nB.\tGeneral Standards.\n  1.\tNew principal buildings that express a standardized corporate identity shall incorporate at least two of the following elements to create a façade and building design that is consistent with those on an existing principal building that is visible from the proposed building and located within 500 feet:\n    a.\tA comparable roofline or roof material;\n    b.\tComparable or complimentary façade colors and materials;\n    c.\tComparable pedestrian entry locations or entryway architecture; or\n    d.\tComparable amounts and proportions of glazing on street-facing façades."
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-2-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

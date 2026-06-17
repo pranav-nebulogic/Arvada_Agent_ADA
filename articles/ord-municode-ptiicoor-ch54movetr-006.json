@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mtc",
+      "part",
+      "pedestrians",
+      "amended",
+      "model",
+      "traffic",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-36"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-36. - MTC Part 8 \"Pedestrians\" amended.",
+    "summary": "The Model Traffic Code is hereby amended by amending section 802 of Part 8 to read\n               as follows:\n802. Pedestrians' right-of-way in crosswalks.\n(1)\nWhen traffic control signals are not in place or not in operation, the driver of a\n                  vehicle shall yield the right-of-way, s…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-36. - MTC Part 8 \"Pedestrians\" amended.",
+        "a": "The Model Traffic Code is hereby amended by amending section 802 of Part 8 to read\n               as follows:\n802. Pedestrians' right-of-way in crosswalks.\n(1)\nWhen traffic control signals are not in place or not in operation, the driver of a\n                  vehicle shall yield the right-of-way, slowing down or stopping if need be to so yield,\n                  to a pedestrian crossing the roadway within a crosswalk when the pedestrian is upon\n                  the half of the roadway upon which the vehicle is traveling or when the pedestrian\n                  is approaching so closely from the opposite half of the roadway as to be in danger.\n(2)\nSubsection (1) of this section shall not apply under the conditions stated in section\n                  803.\n(3)\nNo pedestrian shall suddenly leave a curb or other place of safety and ride a bicycle,\n                  ride an electrical assisted bicycle, ride an electric scooter, walk, or run into the\n                  path of a moving vehicle that is so close as to constitute an immediate hazard.\n(4)\nWhenever any vehicle is stopped at a marked crosswalk or at any unmarked crosswalk\n                  at an intersection to permit a pedestrian to cross the roadway, the driver of any\n                  other vehicle approaching from the rear shall not overtake and pass such stopped vehicle.\n(5)\nWhenever special pedestrian-control signals exhibiting \"Walk\" or \"Don't Walk\" word\n                  or symbol indications are in place, as declared in the traffic control manual adopted\n                  by the department of transportation, such signals shall indicate and require as follows:\n(a)\n\"Walk\" (steady): While the \"Walk\" indication is steadily illuminated, pedestrians\n                  facing such signal may proceed across the roadway in the direction of the signal indication\n                  and shall be given the right-of-way by the drivers of all vehicles.\n(b)\n\"Don't Walk\" (steady): While the \"Don't Walk\" indication is steadily illuminated,\n                  no pedestrian shall enter the roadway in the direction of the signal indication.\n(c)\n\"Don't Walk\" (flashing): Whenever the \"Don't Walk\" indication is flashing, no pedestrian\n                  shall start to cross the roadway in the direction of such signal indication, but any\n                  pedestrian who has partly completed crossing during the \"Walk\" indication shall proceed\n                  to a sidewalk or to a safety island, and all drivers of vehicles shall yield to any\n                  such pedestrian.\n(d)\nWhenever a signal system provides for the stopping of all vehicular traffic and the\n                  exclusive movement of pedestrians and \"Walk\" and \"Don't Walk\" signal indications control\n                  such pedestrian movement, pedestrians may cross in any direction between corners of\n                  the intersection offering the shortest route within the boundaries of the intersection\n                  while the \"Walk\" indication is exhibited, if signals and other official devices direct\n                  pedestrian movement in such manner consistent with section 803(4).\n(6)\nAny person who violates any provision of this section commits a class A traffic infraction.\n(\nOrd. No. 4384, § 2, 4-15-2013\n; Ord. No.\n4772\n, § 2, 8-16-2021; Ord. No.\n4838\n, § 1, 3-20-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-36"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

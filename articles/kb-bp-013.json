@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "crime",
+      "prevention",
+      "environmental",
+      "design",
+      "cpted",
+      "criminal",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1401/Crime-Prevention-Through-Environmental-D"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-013",
+    "spreadsheet_id": "BP-013",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Crime Prevention Through Environmental Design (CPTED)",
+    "summary": "Crime Prevention Through Environmental Design (CPTED) is an approach aimed at reducing criminal behavior by modifying the environment. Officers can assess properties and offer recommendations to enhance safety and quality of life. For assessments, individuals can contact 720-898-6883.",
+    "body": "Crime Prevention Through Environmental Design (CPTED) is a multi-disciplinary approach to deterring criminal behavior through environmental design. CPTED strategies rely upon the ability to influence offender decisions that precede criminal acts by affecting the built, social and administrative environment.\n\nAn officer will assess your property and provide any suggestions that may help increase quality of life and decrease crime.\n\nFor more information or to request an assessment please call 720-898-6883.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

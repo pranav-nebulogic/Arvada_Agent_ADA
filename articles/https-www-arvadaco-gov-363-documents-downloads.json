@@ -1,0 +1,96 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "development",
+    "source_urls": [
+      "https://www.arvadaco.gov/363/Documents-Downloads"
+    ],
+    "scraped_at": "2026-06-10T11:05:23.293570+00:00",
+    "content_hash": "ce503004a1963f0ebcbab398319f56b2a42ea379c2a205f177eca0255d4ff224",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Documents and Downloads for Development Applications",
+    "summary": "The City of Arvada Development Team provides guides and checklists to assist applicants in compiling complete applications for development projects. Applicants are responsible for understanding the Land Development Code and Engineering Code requirements and demonstrating compliance in their applications.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Relevant Codes",
+        "text": "Familiarize yourself with the most recent Land Development Code (LDC) and the City Engineering Code of Standards and Specifications for the Design and Construction of Public Improvements.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Use Provided Guides and Checklists",
+        "text": "Utilize the available process guides, checklists, and forms to prepare your application thoroughly. These include guides for development plan review, neighborhood meetings, annexations, zoning, and more.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 3,
+        "title": "Contact City Staff for Assistance",
+        "text": "If you have questions about the guides or application process, contact the City Planner, City Development Engineer, or the Community and Economic Development Department at 720-898-7435 or via email at communitydevelopment@arvada.org.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Land Development Code (LDC)",
+        "description": "The most recent Land Development Code outlining development requirements.",
+        "where_to_get": "Available online via the City of Arvada website.",
+        "example": null
+      },
+      {
+        "name": "Engineering Code of Standards and Specifications",
+        "description": "Standards and specifications for design and construction of public improvements.",
+        "where_to_get": "Available online via the City of Arvada website.",
+        "example": null
+      },
+      {
+        "name": "Process Guides and Checklists",
+        "description": "Various guides and checklists to assist with specific development application types and requirements.",
+        "where_to_get": "Available online via the City of Arvada website.",
+        "example": null
+      }
+    ],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Community and Economic Development Department",
+      "phone": "720-898-7435",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Annexation",
+      "Certificate of Compliance",
+      "Comprehensive Plan Amendment",
+      "Conditional Use",
+      "Easement or ROW Exhibit",
+      "Major Modification",
+      "Minor Modification",
+      "Master Development Plan",
+      "Planned Unit Development (PUD)",
+      "PLAT Information",
+      "Revocable License",
+      "Site Plan",
+      "Zoning or Rezoning"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1870
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "emergency",
+      "responder",
+      "radio",
+      "coverage",
+      "existing",
+      "buildings"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-79"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-79. - I.F.C. Section 1103.2, Emergency responder radio coverage in existing buildings.",
+    "summary": "Section 1103.2. Emergency responder radio coverage in existing buildings,\nis hereby amended in its entirety to read as follows:\n\"\n1103.2. IFC Section 1103.2. Emergency responder radio coverage in existing buildings.\nBuildings undergoing alterations in accordance with Section 505 of the International…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-79. - I.F.C. Section 1103.2, Emergency responder radio coverage in existing buildings.",
+        "a": "Section 1103.2. Emergency responder radio coverage in existing buildings,\nis hereby amended in its entirety to read as follows:\n\"\n1103.2. IFC Section 1103.2. Emergency responder radio coverage in existing buildings.\nBuildings undergoing alterations in accordance with Section 505 of the International\n                  Existing Building Code (Alteration - Level 3), and Section 507 of the International\n                  Existing Building Code (Additions), shall comply with the Emergency Responder Radio\n                  Coverage provisions in Section 510 of the IFC.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-79"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

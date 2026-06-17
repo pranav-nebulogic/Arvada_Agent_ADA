@@ -1,0 +1,51 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-44-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "reserve",
+      "room",
+      "community",
+      "months",
+      "advance",
+      "Reserve a Community Room"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=44"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/when-can-i-reserve-a-room",
+    "faq_category_name": "Reserve a Community Room"
+  },
+  "content": {
+    "title": "When can I reserve a room?",
+    "summary": "You may reserve a Community Room up to 2 months in advance.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "When can I reserve a room?",
+        "a": "You may reserve a Community Room up to 2 months in advance."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

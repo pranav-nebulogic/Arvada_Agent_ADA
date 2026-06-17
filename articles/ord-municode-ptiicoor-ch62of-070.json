@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "purposes",
+      "article",
+      "certain",
+      "terms",
+      "shall",
+      "meanings"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-151"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-151. - Definitions.",
+    "summary": "For the purposes of this article, certain terms shall have the meanings ascribed to\n               them in this section, unless the context clearly indicates otherwise:\nAdult\nmeans a person 21 years of age or older.\nLoiter\nmeans to be dilatory, to stand idly around, to linger, delay or wander about,…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-151. - Definitions.",
+        "a": "For the purposes of this article, certain terms shall have the meanings ascribed to\n               them in this section, unless the context clearly indicates otherwise:\nAdult\nmeans a person 21 years of age or older.\nLoiter\nmeans to be dilatory, to stand idly around, to linger, delay or wander about, or\n               to remain idle in or about a public place, whether in or out of a vehicle.\nPermit\nor\nallow\nmeans to consent, to tolerate, to give permission, to authorize, or to give opportunity\n               through ineffective or insufficient control.\nPublic place\nmeans in or upon the public streets, highways, roads, alleys, parks, playgrounds\n               or other public grounds, public buildings, private property open to the public, places\n               of amusement, eating places, parking lots, vacant lots, private or public school parking\n               lots and grounds, or any similar place.\n(\nOrd. No. 4084, § 1, 8-20-2007\n)\nCross reference—\nDefinitions,\n§ 1-2\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-151"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

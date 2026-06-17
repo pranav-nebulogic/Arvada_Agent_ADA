@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "presiding",
+      "judge",
+      "appointment",
+      "city",
+      "council",
+      "shall",
+      "appoint"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-72"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-72. - Presiding judge.",
+    "summary": "(a)\nAppointment.\nThe city council shall appoint a presiding municipal court judge who shall be compensated\n               pursuant to an employment agreement, and who shall report directly to city council.\n               Pursuant to the city charter, the presiding municipal court judge shall be a re…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-72. - Presiding judge.",
+        "a": "(a)\nAppointment.\nThe city council shall appoint a presiding municipal court judge who shall be compensated\n               pursuant to an employment agreement, and who shall report directly to city council.\n               Pursuant to the city charter, the presiding municipal court judge shall be a resident\n               of the city.\n(b)\nSupervisory duties.\nThe city council hereby designates the court administrator as the clerk of the municipal\n               court. The court administrator shall report directly to the presiding municipal court\n               judge.\n(Code 1981, § 18-41; Ord. No. 3676, § 1, 1-22-2001; Ord. No.\n4680\n, § 1, 3-18-2019; Ord.\n4736\n, § 1, 8-3-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-72"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

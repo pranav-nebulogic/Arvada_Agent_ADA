@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "obscenity",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "sell",
+      "offer"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-54"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-54. - Obscenity.",
+    "summary": "(a)\nIt shall be unlawful for any person to sell, offer for sale or display in any place\n               open to the public, whether for a fee or not, any obscene material.\n(b)\nAs used in this section, the term \"obscene material\" shall include any film, picture,\n               book, magazine, recordin…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-54. - Obscenity.",
+        "a": "(a)\nIt shall be unlawful for any person to sell, offer for sale or display in any place\n               open to the public, whether for a fee or not, any obscene material.\n(b)\nAs used in this section, the term \"obscene material\" shall include any film, picture,\n               book, magazine, recording or other object which:\n(1)\nThe average person, applying contemporary community standards, would find, taken as\n               a whole, appeals to the prurient interest; and\n(2)\nDepicts or describes, in a patently offensive way, any ultimate sexual act, whether\n               normal or perverted or actual or simulated, masturbation, excretory functions, sadomasochism\n               or a lewd exhibition of the genitals; and\n(3)\nTaken as a whole, lacks serious literary, artistic, political or scientific value.\n(Code 1960, § 17-11; Code 1981, § 21-24)\nState Law reference—\nSimilar provisions, C.R.S. §§ 18-7-101, 18-7-103."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-54"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

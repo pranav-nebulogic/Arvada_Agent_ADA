@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "interpretation",
+      "land",
+      "zoning",
+      "district",
+      "tables",
+      "generally",
+      "division",
+      "describe",
+      "which",
+      "uses"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-2-1"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-2. LAND USE BY ZONING DISTRICT"
+  },
+  "content": {
+    "title": "3-1-2-1. Interpretation of land use by zoning district tables.",
+    "summary": "A.\tGenerally. The tables set out in this Division describe which land uses are permitted \"as-of-right,\" permitted if certain conditions are met, permitted after public hearing if certain conditions are met, and not allowed in each zoning district.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-2-1. Interpretation of land use by zoning district tables.",
+        "a": "A.\tGenerally. The tables set out in this Division describe which land uses are permitted \"as-of-right,\" permitted if certain conditions are met, permitted after public hearing if certain conditions are met, and not allowed in each zoning district. Each listed use is defined in Chapter 11, Measurements, Rules of Construction, and Definitions.\nB.\tLegend. The following symbols are used in the tables in this Division to identify the types of uses allowed:\n  1.\t\"A\" means allowed \"as-of-right.\" These uses are subject to administrative review for compliance with the general requirements of this Code.\n  2.\t\"L\" means \"limited use.\" Limited uses are subject to administrative review for compliance with specific standards that pertain to the use, as well as the general requirements of this Code.\n  3.\t\"C\" means \"conditional use.\" Conditional uses are subject to public hearing review for compliance with specific standards that pertain to the use, the general standards for all conditional uses, and the general requirements of this Code.\n  4.\tA blank cell means that the use is prohibited in the specified zoning district.\nC.\tUse-Specific Standards. Regardless of whether a use is classified as allowed by right, allowed as a limited use, or allowed as a conditional use, there may be additional standards applicable to that use. The use-specific standards that would apply are referenced in the right-hand column of the table.\nD.\tMultiple Uses. In instances where a proposed development will combine more than one listed use, each listed use shall be evaluated independently for compliance with applicable standards."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

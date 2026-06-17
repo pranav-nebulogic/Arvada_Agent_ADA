@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "form",
+      "conveyance",
+      "quality",
+      "title",
+      "generally",
+      "lands",
+      "interests",
+      "required",
+      "conveyed",
+      "under"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-3-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-3. LAND DEDICATION; FEES-IN-LIEU; AND DEVELOPMENT FEES"
+  },
+  "content": {
+    "title": "8-4-3-3. Form of conveyance; quality of title.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-3-3. Form of conveyance; quality of title.",
+        "a": "A.\tGenerally. All lands or interests required to be conveyed under this Division shall be conveyed to the City by proper dedication upon an approved and executed final plat or by special warranty deed, without restriction, at the City's option.\nB.\tQuality of Title; Evidence.\n  1.\tTitle shall be free and clear of any and all financial liens and encumbrances, and shall not have any conditions of title (e.g., deed restrictions, covenants, easements, agreements, etc.) that could interfere with the City's possession and use of the dedicated property.\n  2.\tThe City may require a title commitment for the real estate that is proposed for dedication. Said evidence of title shall be current to within 180 days of the application date and updated to close the gap between the initial title commitment and the date of the dedication."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

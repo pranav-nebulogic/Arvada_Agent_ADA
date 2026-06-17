@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "attachment",
+      "jurors",
+      "contempt",
+      "failure",
+      "appear",
+      "all",
+      "cases"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-44"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-44. - Attachment for jurors; contempt for failure to appear.",
+    "summary": "In all cases where a person shall be summoned as a juror to try any case before the\n               municipal court and shall fail to attend at the time and place appointed in such summons,\n               the court shall have power to issue an attachment, directed to any police officer\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-44. - Attachment for jurors; contempt for failure to appear.",
+        "a": "In all cases where a person shall be summoned as a juror to try any case before the\n               municipal court and shall fail to attend at the time and place appointed in such summons,\n               the court shall have power to issue an attachment, directed to any police officer\n               of the city or the sheriff of the county, commanding him forthwith to bring before\n               such court the body of such juror so failing to attend, to show cause why he should\n               not be punished for contempt. On the appearance of such juror on such attachment,\n               it shall be lawful for such court to punish him for contempt or wholly discharge him,\n               if a satisfactory excuse is given.\n(Code 1960, § 1-12; Code 1981, § 18-32)\nState Law reference—\nPenalties for failure to perform jury service, C.R.S. § 13-71-117."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-44"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

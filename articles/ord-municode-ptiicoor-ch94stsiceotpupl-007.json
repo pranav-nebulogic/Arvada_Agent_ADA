@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "depositing",
+      "etc",
+      "rubbish",
+      "person",
+      "shall",
+      "sweep",
+      "deposit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-6"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-6. - Depositing, etc., of rubbish, etc.",
+    "summary": "No person shall sweep or deposit any hay, straw, manure, litter, papers, handbills,\n               filth, ashes, old clothes or rubbish of any kind or nature whatsoever on any street,\n               alley, sidewalk, ditch, canal or any public place or upon any vacant lot of the city\n               o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-6. - Depositing, etc., of rubbish, etc.",
+        "a": "No person shall sweep or deposit any hay, straw, manure, litter, papers, handbills,\n               filth, ashes, old clothes or rubbish of any kind or nature whatsoever on any street,\n               alley, sidewalk, ditch, canal or any public place or upon any vacant lot of the city\n               or set fire to any of the foregoing material within 40 feet of any building, unless\n               such fire is in a stove or other appliance suited to such purpose.\n(\nOrd. No. 4098, § 2, 11-19-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "dentists",
+      "dental",
+      "laboratories",
+      "prosthetic",
+      "accordance",
+      "appliance",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/317/Dentists-Dental-Laboratories"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-183",
+    "spreadsheet_id": "MI-183",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Dentists & Dental Laboratories",
+    "summary": "The sale of custom-made dental prosthetic appliances is exempt from sales/use tax when sold for individual use as directed by a licensed dentist. However, supplies and materials that do not become part of these prosthetic devices, as well as certain office supplies, are taxable. Additionally, dental practices can purchase prescription drugs and anesthetics tax-free, while laboratories can buy materials for prosthetics under a wholesale exemption, but non-component supplies remain taxable.",
+    "body": "The sale of a dental prosthetic appliance custom-made by a dental laboratory when sold for the direct personal use of a specific individual in accordance with a written directive issued by a licensed practitioner of dentistry is exempt from sales/use tax.\n\nExamples of \"prosthetic devices\" include such items as the use of inlays, crowns, replacement of lost teeth, bands, brackets, bridges, retainers, and other band attachments, which aid in dental bodily functions.\n\nPurchase of supplies and materials that do not become constituent parts of a \"prosthetic device\" is taxable. Office and dental equipment, tools and instruments, materials or supplies (floss, cups, and mouthwash), or other supply-type items are taxable.\n\nPrescription drugs and anesthetics, including oxygen and nitrous oxide, purchased by a dental practice and administered in individual doses to patients in connection with the rendering of services, are exempt.\n\nLaboratories that manufacture prosthetic dental appliances may purchase materials that become a physical component part of the appliance tax-free for resale under the wholesale exemption. Materials and supplies used in the manufacturing process that do not become a component part of the prosthetic dental appliance do not meet the wholesale exemption and are taxable to the laboratory.\n\n## Example\n\nA dental practice purchases amalgam, latex gloves, toothbrushes, paper bibs, mouthwash, a tooth crown, and a bridge fitted to a specific patient.\n\nThe amalgam, crown, and bridge are purchased by the dental practice tax-free. The crown and bridge are prosthetic dental appliances that are custom-made for a specific individual, and the amalgam will be used to fill the patient's cavities.\n\nThe other supplies purchased are taxable to the practice. The materials used to take the impressions for the crown and bridge are also taxable because they do not become a component part of the prosthetic dental appliance.\n\nThe laboratory purchases the materials to make the crown and bridge tax-free under the wholesale exemption. The supplies used by the laboratory in manufacturing the crown and bridge which are not physically present in the completed prosthetic dental appliance are taxable to the laboratory.\n\n## Taxable Sales\n\nMany items are given away to patients by a dentist free of charge such as toothbrushes, floss, toys, and stickers. These items are taxable to the dentist. However, some dentists are making taxable retail sales which are subject to sales tax. Sales tax should be charged when the following items are sold to the patient and the sales tax should be separately stated on the sales invoice or receipt. These items should be purchased for resale by the dentist. When the dentist resells the items to patients, sales tax should be collected and remitted to the proper taxing authorities.\n\nElectric toothbrushes / replacement heads (such as Sonicare, and Braun)\n\n## Taxable Purchases\n\n- Burs, rotary grinding, and polishing instruments\n- Cotton pellets, rolls, gauze, and sponges\n- Crown forms\n- Disposable impression trays\n- Disposable needles and paper points\n- Educational books, publications\n- Envelopes, files, stationery\n- Floss, toothbrushes, toothpaste, mouthwash\n- Fluoride paste and solutions / bleach\n- Germicides and sterilization solutions\n- Gloves, uniforms\n- Handpiece, contra-angles, and prophy angles\n- Impression materials\n- Magazines\n- Paper goods, napkins, towels, cups, bibs, etc.\n- Plaster, gypsum, and investments\n- Postcards, greeting cards\n- Sterilization pouches or bags\n- Surgical, operative, and endodontic instruments\n- Surgical soaps and lotions\n- Syringes\n- Tooth polishing cups and brushes\n- Whitening kits\n- X-ray film, film mounts and related products\n\n## Non-Taxable Purchases\n\n(See Definition for Prosthetic Devices and Medical Supplies)\n\n- Alloy, composite, and other filling materials\n- Anesthetic (Lidocaine)\n- Anesthetic gases (nitrous oxide)\n- Cavity liners\n- Cements\n- Gold, platinum, and silver\n- Denture reline and repair materials\n- Medicaments - substances used in therapy\n- Mercury\n- Novocain\n- Orthodontic appliances, ligatures\n- Pins, posts\n- Sutures\n- Teeth\n- Temporary cavity-filling materials\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

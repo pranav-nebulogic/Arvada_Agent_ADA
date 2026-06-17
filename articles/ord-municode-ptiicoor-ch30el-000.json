@@ -1,0 +1,52 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "elections",
+      "footnotes",
+      "charter",
+      "reference",
+      "iii",
+      "city",
+      "council"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nCharter reference—\nElections, Ch. III; the city council, § 4.1 et seq.; sale of park property requires\n               election, § 13.2; amendments to Charter, § 13.9.\nCross reference—\nAny ordinance calling an election saved from repeal, § 1-10(a)(16); administration, ch. 2.\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 30 - ELECTIONS",
+        "a": "Footnotes:\n--- (\n1\n) ---\nCharter reference—\nElections, Ch. III; the city council, § 4.1 et seq.; sale of park property requires\n               election, § 13.2; amendments to Charter, § 13.9.\nCross reference—\nAny ordinance calling an election saved from repeal, § 1-10(a)(16); administration, ch. 2.\nState Law reference—\nConstitutional authority of city as to elections, Colo. Const. Art. XX, § 6; Municipal\n               Election Code, C.R.S. § 31-10-101 et seq."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

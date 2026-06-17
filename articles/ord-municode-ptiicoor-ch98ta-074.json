@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exemptions",
+      "shall",
+      "exempt",
+      "provisions",
+      "article",
+      "following",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-245"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-245. - Exemptions.",
+    "summary": "There shall be exempt from the provisions of this article the following:\n(1)\nAll sales and purchases as provided in\nsection 98-70\n(5) by any purchaser or vendor where the purchaser is a permanent resident who has\n                  entered into a written agreement with a vendor for the occupancy or u…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-245. - Exemptions.",
+        "a": "There shall be exempt from the provisions of this article the following:\n(1)\nAll sales and purchases as provided in\nsection 98-70\n(5) by any purchaser or vendor where the purchaser is a permanent resident who has\n                  entered into a written agreement with a vendor for the occupancy or use for lodging\n                  for a period of at least 30 consecutive days during the calendar year.\n(2)\nAll sales to the United States of America, to the state, its departments or institutions\n                  and political subdivisions thereof, which are acting in their governmental capacities,\n                  and to all sales to the city or any department thereof.\n(3)\nAll sales to religious, charitable, and eleemosynary corporations, in the conduct\n                  of their regular religious, charitable, and eleemosynary functions and activities.\n(Code 1981, § 31-105; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-245"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

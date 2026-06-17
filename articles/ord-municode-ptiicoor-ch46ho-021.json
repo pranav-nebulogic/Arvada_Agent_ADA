@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "amount",
+      "rent",
+      "authority",
+      "lease",
+      "dwelling",
+      "accommodations",
+      "therein"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-50",
+      "§ 14-19"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-50. - Amount of rent.",
+    "summary": "The authority may rent or lease the dwelling accommodations therein only at rentals\n               within the financial reach of such persons of low income.\n(Code 1981, § 14-19; Ord. No. 1248, § 8(1)(b), 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-210(1)(b).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-50. - Amount of rent.",
+        "a": "The authority may rent or lease the dwelling accommodations therein only at rentals\n               within the financial reach of such persons of low income.\n(Code 1981, § 14-19; Ord. No. 1248, § 8(1)(b), 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-210(1)(b)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-50",
+      "§ 14-19"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

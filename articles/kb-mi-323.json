@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "permit monitoring",
+      "application status",
+      "staff comments",
+      "review process",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/611/Monitoring-Permit-Project-Application-Pr"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-323",
+    "spreadsheet_id": "MI-323",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Monitoring Permit & Project Application Process",
+    "summary": "The Permit Portal allows users to monitor permits and development projects by logging in to access reviews and inspection results. Applicants will receive email notifications for any changes or actions required, and they can view detailed information, staff comments, and respond to requests directly through the portal. To find specific permits, users can search by permit/project number and review associated attachments and comments.",
+    "body": "Permits and development projects can easily be monitored through the Permit Portal. Users will need to be logged in to see information on reviews and inspection results.\n\n1. **Locate Permit / Project to Review:**  \n\tE-mail notifications to the applicant will be sent when a change has been made and/or there is a request for the applicant to complete an action. Applicants can utilize the Permit Portal to stay up to date on all permits/projects. Once logged into the Permit Portal dashboard, select the permit/project number to view more information. If you are not connected to the permit/project you will need to search for the permit. Steps on how to search for permits is located Under Searching for Records.\n2. **Review Permit / Project:**  \n\tInformation about the permit/project is located in each tab. Any attachments to the record will be located under Permit Information, which can be found under attachments.\n3. **Finding Comments from Staff:**  \n\tSelect the review tab to see all of the reviews on the record. Select \"More Info\" to see comments from staff.\n4. **Reviewing and Responding to Staff Comments:**  \n\tComments from staff will be under \"more info.\" If a reviewer requests more information on the project, you will be able to comment on the review and add attachments (select the paper clip) from the pop-up window. Once you select the \"Submit\" button, an email will be sent to the staff member assigned.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

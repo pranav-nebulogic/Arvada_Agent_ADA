@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "information",
+      "technology",
+      "incident",
+      "management",
+      "access",
+      "appropriate",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/194/Information-Technology"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-274",
+    "spreadsheet_id": "MI-274",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Information Technology",
+    "summary": "The Information Technology department aims to enhance city performance and productivity through reliable, innovative, and accessible technology solutions. It focuses on incident prevention and management, IT security, resource management, and improving processes while fostering resident and staff engagement through self-service tools. Additionally, the department emphasizes effective project delivery, support, and the centralization of services to improve overall efficiency and affordability.",
+    "body": "## Mission\n\nTo improve City performance and productivity through technology.\n\n## About\n\nWe serve the organization and the community by providing:\n\n### Reliability\n\n- **Incident Prevention**: Monitor systems to identify potential problems before becoming critical\n- **Incident Management**: Minimize disruption and resolve issues quickly\n- **IT Security**: Secure technology to provide appropriate access to data and information\n\n### Innovation\n\n- **Resource Management**: Effectively forecast needs, managing our workload and providing timely support\n- **Improved Processes**: Ongoing evaluation of data for streamlining our processes and procedures\n- **Limited Liability**: Replace aging technology that hinders innovation and poses security risks\n\n### Access\n\n- **Resident Experience**: Provide self-service tools and technologies encouraging resident engagement while ensuring transparency of government and a consistent resident experience.\n- **Staff Experience**: Provide collaborative tools and resources to meet the needs of our internal customers efficiently and effectively.\n\n### Partnership\n\n- **Project Delivery**: Evaluate and improve project management, vendor management, and stakeholder engagement\n- **Support**: Apply consistency and standards to provide a high level of service to all of our customers\n- **Centralization:** Identify and centralize services where needed to improve effectiveness, efficiency, and affordability",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

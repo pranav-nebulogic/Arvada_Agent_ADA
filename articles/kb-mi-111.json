@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "business",
+      "licenses",
+      "license",
+      "issue",
+      "located",
+      "sales",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/253/Business-Licenses"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-111",
+    "spreadsheet_id": "MI-111",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Business Licenses",
+    "summary": "Arvada mandates a business license for any business operating within the city or engaging in sales activities, which also includes a sales and use tax account. Businesses must obtain approval from the Planning department before a license can be issued, and applications are processed online through MUNIRevs, with licenses being free and non-expiring, except for food trucks and short-term rentals. To close a business license, the account must be current, and all final returns must be filed within 10 days of closure.",
+    "body": "Arvada requires a business license for any business located in the City or any business that comes into the city to sell, lease, rent, deliver or install tangible personal property. When you hold an Arvada business license, you will also have a sales and use tax account to file taxes. We do not issue a separate sales and use tax license.\n\nIf your business is going to be physically located in the City of Arvada, it must be approved by the Planning department before a business license can be issued. Confirm the zoning of your intended location by calling Planning at 720-898-7435 or [[email protected]](/cdn-cgi/l/email-protection#164659525677646077727738796471).\n\n## Applying for a Business License\n\nArvada has partnered with MUNIRevs to process online licensing and tax payments. Taxpayers can apply for a license using the [MUNIRevs web portal](https://arvada.munirevs.com/). Business licenses are free and do not expire, except food trucks and short term rental, which expire annually. Once a business license has been issued, you will be assigned a sales and use tax return that you are required to file in order to keep your license active. If you have specific questions, please call Revenue at 720-898-7100.\n\n## Closing a Business License\n\nIf you need to close your account and it is current, please use the [Business License Closure form.](https://arvada-forms.app.transform.civicplus.com/forms/31744) We cannot close a delinquent account until all returns have been filed and paid. You are required to file your final return and close your account 10 days after the closure.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

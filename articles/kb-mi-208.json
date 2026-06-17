@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "emergency",
+      "notifications",
+      "evacuation",
+      "notices",
+      "active",
+      "alerts",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/680/Emergency-Notifications"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-208",
+    "spreadsheet_id": "MI-208",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Emergency Notifications",
+    "summary": "The article provides information on emergency evacuation notices, including a map for active alerts and details on three types of notices: mandatory evacuation, voluntary evacuation, and pre-evacuation. Mandatory evacuations require immediate departure due to imminent threats, while voluntary evacuations are recommended but not required, and pre-evacuations suggest preparing to leave soon without an immediate requirement.",
+    "body": "## Active Alerts\n\nThis map will show active emergency evacuation notices. You can use the address search bar or click around on the map. If there are no evacuation notices, the map will be blank. Additionally, Jeffcom911 has a [map of active Lookout Alerts across Jefferson County](https://www.jeffcom911co.gov/activealerts/).\n\niFrames are not supported on this page.\n\n## Types of Evacuation Notices\n\nThere are three types of evacuation notices that you may encounter.\n\n1. **Mandatory evacuation:**Evacuate immediately. An imminent threat to life and property exists and individuals MUST evacuate in accordance with the instructions of local officials.\n2. **Voluntary Evacuation:**Advantageous to evacuate but NOT required. A threat to life and property exists or is likely to exist in the immediate future. Individuals are NOT required to evacuate, however, it would be to their advantage to do so.\n3. **Pre-Evacuation:** Advantageous to evacuate but NOT required. There is a hazard in your area that may require you to evacuate in the near future. Everyone should be prepared to leave at a moment's notice. If you feel you are in danger and want to leave, do so. If you need additional time to evacuate, you should consider leaving now. If you need to arrange for transportation assistance, you should do so immediately. If you have livestock or other large animals, you should consider removing them from the hazard area now.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

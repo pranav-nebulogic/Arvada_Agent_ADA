@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "planning",
+      "commission",
+      "powers",
+      "duties",
+      "generally",
+      "decisions",
+      "hear",
+      "find",
+      "facts",
+      "whether"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-2-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-2. ELECTED AND APPOINTED OFFICIALS"
+  },
+  "content": {
+    "title": "8-1-2-2. Planning commission.",
+    "summary": "A.\tPowers and Duties; Generally.\n  1.\tDecisions. The Planning Commission shall hear and find facts as to whether the following types of applications comply with the requirements of this LDC:\n    a.\tAlternative Sign Programs.\n  2.\tRecommendations.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-2-2. Planning commission.",
+        "a": "A.\tPowers and Duties; Generally.\n  1.\tDecisions. The Planning Commission shall hear and find facts as to whether the following types of applications comply with the requirements of this LDC:\n    a.\tAlternative Sign Programs.\n  2.\tRecommendations. The Planning Commission shall consider and recommend to the City Council approval, approval with conditions, or disapproval of the following types of applications or petitions:\n    a.\tAnnexations;\n    b.\tHeight Exceptions;\n    c.\tMajor Subdivision Preliminary Plats;\n    d.\tMajor Modifications;\n    e.\tZoning and Rezoning;\n    f.\tConditional Uses;\n    g.\tPUD Development Plans (Planned Unit Developments);\n    h.\tCombined PUD Development Plans/Final Development Plans (Planned Unit Developments); and\n    i.\tVacation of Right-of-Way and Access Easements.\nB.\tPowers and Duties; Initiated Land Development Code Amendments and Other Duties. The Planning Commission may also initiate proposed changes to the LDC and advise the City Council on such proposed changes, and shall perform such other duties as the City Council may be ordinance, resolution or motion prescribe.\nC.\tPowers and Duties; Comprehensive Plan.\n  1.\tComprehensive Planning. Upon request by the City Council, the Planning Commission shall have the power to prepare a Comprehensive Plan as a guide for future zoning and rezoning and shall have lawful and comprehensive studies made in conjunction therewith. Any plan so prepared shall be made with the general purpose of carrying out the objective of providing for the considered planning and orderly physical development of the City and applicable surrounding areas. The Planning Commission shall also actively promote implementation of any such Comprehensive Plan and other adopted plans, through its powers and duties as set out in this Section.\n  2.\tOther Plans. Upon request by the City Council or the Director, the Planning Commission shall be responsible for adopting other land use plans, open space/parks/trails plans, special area plans, corridor plans, and similar plans, and any updates or amendments to such plans. The Planning Commission shall also actively promote implementation of the Comprehensive Plan and other adopted plans, through its powers and duties as set out in this Section.\n(Ord. No. 4793, § 6, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

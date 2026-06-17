@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "additional",
+      "standards",
+      "detached",
+      "temporary",
+      "signs",
+      "generally",
+      "section",
+      "apply",
+      "attached",
+      "buildings"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-6-2"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-6. TEMPORARY SIGNS"
+  },
+  "content": {
+    "title": "6-1-6-2. Additional standards for detached temporary signs.",
+    "summary": "A.\tGenerally. The standards of this Section apply to temporary signs that are not attached to buildings. Temporary signs that are attached to buildings are subject to the standards of Section 6-1-6-1, Additional Standards for Attached Temporary Signs.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-6-2. Additional standards for detached temporary signs.",
+        "a": "A.\tGenerally. The standards of this Section apply to temporary signs that are not attached to buildings. Temporary signs that are attached to buildings are subject to the standards of Section 6-1-6-1, Additional Standards for Attached Temporary Signs. The standards of this Section are applied in conjunction with all other applicable standards of this Article. Duration of display is limited by Section 6-1-6-3, Duration of Display of Temporary Signs.\nB.\tDetached Temporary Signs. Detached temporary signs are allowed according to the standards in Table 6-1-6-2, Detached Temporary Signs.\n(Ord. No. 4851, § 4, 7-10-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-6-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

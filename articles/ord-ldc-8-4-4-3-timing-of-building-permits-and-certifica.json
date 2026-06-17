@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "timing",
+      "building",
+      "permits",
+      "certificates",
+      "occupancy",
+      "generally",
+      "relation",
+      "installation",
+      "development",
+      "infrastructure"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-4-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-4. PUBLIC IMPROVEMENTS, WARRANTIES, AND UTILITIES"
+  },
+  "content": {
+    "title": "8-4-4-3. Timing of building permits and certificates of occupancy.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-4-3. Timing of building permits and certificates of occupancy.",
+        "a": "A.\tGenerally. The timing of building permits and certificates of occupancy in relation to the installation of development infrastructure, landscaping, recreational amenities, and utilities shall be as set out in this Section.\nB.\tTiming of Building Permits.\n  1.\tPrior to issuance of a building permit for above-ground construction, the owner/developer shall install:\n    a.\tAll utilities, including water, sanitary sewer, storm sewer and storm water detention, and all-weather access; and\n    b.\tDedicate all required utility, drainage, and construction easements.\n  2.\tWhere required by the City, the owner/developer shall dedicate an emergency access easement prior to the issuance of a building permit for the development or any phase of the development.\nC.\tTiming of Certificates of Occupancy. The following events, as applicable, shall occur prior to issuance of a certificate of occupancy:\n  1.\tConstruction of any required emergency access lane;\n  2.\tWidening of existing streets and/or construction of new streets, and construction of sidewalks, ramps for the disabled, noise fencing or other improvements required by this LDC, but not directly related to emergency vehicle access, for any building(s) which would be served or affected by such improvements;\n  3.\tInstallation, at the owner's/developer's sole expense, of all required landscaping improvements and recreational amenities, including but not limited to seeding or plugging of any landscaped area to be seeded or plugged for establishment of drought tolerant grass, and successful establishment of such grasses;\n  4.\tInstallation of all fencing shown on an approved, final development plan, or site plan;\n  5.\tInstallation, signing, and striping of all parking and hard-surface access areas;\n  6.\tScreening from view of all roof-mounted and wall-mounted mechanical equipment; and\n  7.\tInstallation of trash collection and enclosures, recycling bins or compaction areas.\nD.\tAdjustment of Permit Schedule.\n  1.\tAdjustment Authorized. The Director may adjust the schedule of incomplete improvements upon a finding that the schedule cannot be reasonably met due to extenuating circumstances, and the City is provided with acceptable security to guarantee completion of the improvements.\n  2.\tSecurity for Landscaping Improvements and Recreational Amenities.\n    a.\tIf the developer has not completed its obligations under Subsections C.3., above, but is otherwise in compliance with any subdivision agreement or other terms of development approval, the developer may escrow funds to the City, in which case the City may, in its sole discretion, issue certificates of occupancy subject to the provisions set forth in this Subsection.\n    b.\tThe escrow of funds shall be subject to the approval of the Director, in an amount equal to 150 percent of the estimated cost of providing the required landscaping improvements and recreational amenities. The estimates for such costs shall be made by a landscape contractor acceptable to the City. If the City rejects any estimate provided by the owner/developer, the City, in its sole discretion, may obtain an estimate of the costs of the improvements and amenities, which shall be binding on the owner/developer in determining the amount of funds to be escrowed.\n    c.\tThe City shall release any escrowed funds only upon the completion of the landscaping improvements and recreational amenities by the owner/developer.\n    d.\tIn the event of default by the owner/developer, the City may, in its sole discretion, withhold certificates of occupancy for the subject development or, if the City elects to issue certificates of occupancy, the City may retain all escrowed funds and apply all funds toward the completion of the required landscaping improvements and recreational amenities. The manner and method in which the City elects to undertake and complete the obligations of a defaulting owner/developer shall be within the sole discretion of the City; provided, however, that nothing herein shall obligate the City to install or complete the landscaping improvements and recreational amenities and nothing herein shall prevent, prohibit, or limit the remedies available to the City to enforce the owner's/developer's obligations."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-4-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

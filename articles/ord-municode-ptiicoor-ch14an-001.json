@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "purpose",
+      "intent",
+      "city",
+      "council",
+      "finds",
+      "fact",
+      "necessary"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-1"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-1. - Purpose.",
+    "summary": "It is the intent of city council, and council finds it in fact necessary, to exercise\n               to the fullest extent possible its authority to provide for the regulation and control\n               of animals, including, but not limited to, licensing, prohibiting and punishing cruelty\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-1. - Purpose.",
+        "a": "It is the intent of city council, and council finds it in fact necessary, to exercise\n               to the fullest extent possible its authority to provide for the regulation and control\n               of animals, including, but not limited to, licensing, prohibiting and punishing cruelty\n               to animals, regulating the keeping of animals, prohibiting the running-at-large of\n               animals, impoundment and disposition of impounded animals, and that such matters are\n               in the interest of and are necessary in order to preserve and protect the public health,\n               safety, and welfare.\n(Code 1981, § 6-1; Ord. No. 3496, § 2, 12-14-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

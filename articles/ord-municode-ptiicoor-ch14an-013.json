@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rabies",
+      "vaccination",
+      "required",
+      "owner",
+      "custodian",
+      "any",
+      "dog"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-31"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-31. - Rabies vaccination required.",
+    "summary": "(a)\nVaccination required.\nThe owner or custodian of any dog or cat shall have such dog or cat vaccinated against\n               rabies by a licensed state veterinarian, unless such owner or custodian presents to\n               the animal management officer a written statement from a state licensed v…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-31. - Rabies vaccination required.",
+        "a": "(a)\nVaccination required.\nThe owner or custodian of any dog or cat shall have such dog or cat vaccinated against\n               rabies by a licensed state veterinarian, unless such owner or custodian presents to\n               the animal management officer a written statement from a state licensed veterinarian\n               that vaccination against rabies would be detrimental to the health of such dog or\n               cat. Such vaccination shall be performed on or before the appropriate anniversary\n               date of the initial vaccination as determined by the compendium of animal rabies control\n               C.R.S. § 25-4-615(2). Any person who acquires within the city a dog or cat shall have\n               such dog or cat vaccinated within 30 days of such acquisition or within 30 days after\n               the dog or cat reaches four months of age, whichever occurs later.\n(b)\nUnlawful to possess unvaccinated dog or cat.\nIt is unlawful for any person to possess any dog or cat which has not been vaccinated\n               for rabies as provided for in subsection (a) of this section or which cannot be identified\n               as having a current certificate of vaccination.\n(\nOrd. No. 4060, § 2, 3-19-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-31"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

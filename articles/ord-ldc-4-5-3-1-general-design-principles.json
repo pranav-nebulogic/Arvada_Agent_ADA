@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "general",
+      "design",
+      "principles",
+      "generally",
+      "circulation",
+      "systems",
+      "within",
+      "subject",
+      "property",
+      "provide"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-3-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-3. PARKING AND LOADING DESIGN"
+  },
+  "content": {
+    "title": "4-5-3-1. General design principles.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-3-1. General design principles.",
+        "a": "A.\tGenerally. Circulation systems within a subject property shall provide for continuous traffic flow with efficient, non-conflicting movement throughout the site.\nB.\tVehicular-Pedestrian Conflicts.\n  1.\tConflicts between areas of significant pedestrian movement and vehicular circulation shall be minimized.\n  2.\tRequired drive-through stacking areas shall not intersect with pedestrian access to a public entrance of a building.\nC.\tConfiguration of Parking Lots. If differentiated, short-term and long-term parking shall be clearly signed, and short-term parking areas shall generally be located closer to the primary public entrances of principal buildings.\n  1.\tParking lots and loading areas shall have access from a clearly defined drive aisle not less than 18 feet in width for one-way traffic and 24 feet in width for two-way traffic.\n  2.\tParking spaces shall be marked on the pavement surface with striping, or change of color or material.\nD.\tParking in the Front Setbacks. Parking shall not be permitted within the front setback or frontage zone on any lot, except for single-family detached and duplex lots and multiplex sites with parking on paved driveways.\nE.\tParking Areas Surface. All off-street parking spaces and areas required by Division 4-5-2-2, Parking Requirements Tables, vehicular access and drive aisles, and stacking areas shall be surfaced with bituminous asphalt, concrete, or other approved equivalent surface approved by the Director. Recycled asphalt, gravel, or similar compacted materials are not an acceptable parking surface.\n  1.\tAny area used to park vehicles on a single-family or duplex lot, which is not an off-street parking space required by Table 4-5-2-2A, Residential Land Use Parking Standards, shall be clearly delineated, improved with concrete, asphalt, stone pavers, gravel or rock (provided the installation is sufficient to support vehicles), maintained free of weeds and display no visible dirt surface. However, no more than 60 percent of the front or street side yards shall be paved with an impervious material.\n(Ord. No. 4793, § 3, 3-21-2022; Ord. No. 4905, § 39, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

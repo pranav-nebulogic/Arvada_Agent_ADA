@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "award",
+      "city",
+      "select",
+      "most",
+      "qualified",
+      "responsible",
+      "responsive"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-47"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-47. - Award.",
+    "summary": "(a)\nAward.\nThe city will select the most qualified responsible and responsive bidder to receive\n               the award. The award shall be based on the provisions of this chapter, the administrative\n               policy, the specifications set forth in the solicitation, and the selection criteria…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-47. - Award.",
+        "a": "(a)\nAward.\nThe city will select the most qualified responsible and responsive bidder to receive\n               the award. The award shall be based on the provisions of this chapter, the administrative\n               policy, the specifications set forth in the solicitation, and the selection criteria\n               deemed appropriate to the solicitation. Because an award by itself does not mean the\n               award has also been approved, no vendor may claim reliance upon an award.\n(b)\nVariations.\nA variation to the terms of a solicitation requested and submitted by a contractor\n               is not agreed to by the fact of an award by the city. The city shall enter into a\n               contract or issue a purchase order on the same terms and conditions that were included\n               in the solicitation, except the city may, in its sole discretion, negotiate terms\n               and conditions with the selected vendor within the scope of the solicitation. The\n               city may also consider variation requests when selecting a bidder for an award. An\n               award may be cancelled by the city if negotiations concerning a term or a condition\n               or a requested variation are unsuccessful.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-47"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

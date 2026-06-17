@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "yacht",
+      "club",
+      "sewer",
+      "line",
+      "replacement",
+      "arvadaco",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1520/Yacht-Club-Sewer-Line-Replacement"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-612",
+    "spreadsheet_id": "MI-612",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Yacht Club Sewer Line Replacement",
+    "summary": "The Yacht Club Sewer Line Replacement project aims to replace and upsize an aging sewer line that serves the Arvada community, extending from W. 68th Avenue through the Yacht Club neighborhood to Tennyson and W. 61st Place. Currently in the design phase, construction is expected to begin in early 2027, with coordination ongoing with unincorporated Adams County for permitting and timelines.",
+    "body": "## Overview\n\nThis project is the next phase of the sewer line replacements that have been completed along [Sheridan](http://arvadaco.gov/sheridansewer) and [Tennyson](http://arvadaco.gov/tennysonsewer). This project section will be from W. 68th Avenue moving through the Yacht Club neighborhood to Tennyson and W. 61st Place.\n\nThe sewer line serves the Arvada community from the north and west portions of Arvada all the way to the southeast side. The pipe is reaching the end of its useful life and has capacity limitations. The sewer line needs to be replaced and upsized to continue reliably serving the community.\n\nThis section of Arvada’s sewer line runs through unincorporated Adams County. Timelines and permitting are being coordinated with the county.\n\n## Timeline\n\nUpdated 5/11/26\n\nThe project is currently under design. Various sewer line alignments are being evaluated to determine the most effective design. Crews may be on site conducting utility locates, surveying, and potholing to confirm the locations of existing utilities.\n\n**Construction is anticipated to begin in early 2027.**More information, including timelines and construction impacts, will be shared as that information becomes available.\n\n## Project area map\n\n![Map of the sewer line replacement project area from 68th Ave near Sheridan to Tennyson and 61st Pl.](/ImageRepository/Document?documentId=7562)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

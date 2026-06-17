@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "district",
+      "boundaries",
+      "noise",
+      "source",
+      "identified",
+      "measured",
+      "more"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-93"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-93. - District boundaries.",
+    "summary": "When a noise source can be identified and its noise is measured in more than one use\n               district, the sound pressure level limits of the most restrictive use district shall\n               apply at that district boundary.\n(Code 1981, § 19-21; Ord. No. 2208, § 1, 9-16-1985)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-93. - District boundaries.",
+        "a": "When a noise source can be identified and its noise is measured in more than one use\n               district, the sound pressure level limits of the most restrictive use district shall\n               apply at that district boundary.\n(Code 1981, § 19-21; Ord. No. 2208, § 1, 9-16-1985)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-93"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

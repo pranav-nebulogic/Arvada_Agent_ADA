@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "cemeteries",
+      "funeral",
+      "homes",
+      "morticians",
+      "sale",
+      "time",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/302/Cemeteries-Funeral-Homes-Morticians"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-118",
+    "spreadsheet_id": "MI-118",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Cemeteries, Funeral Homes & Morticians",
+    "summary": "Sales of funeral-related items such as vaults, urns, and caskets are taxable at the time of sale, with specific rules for pre-need contracts and third-party payments. Services provided by cemetery or mortuary staff are not taxable, but materials used for these services are. Perpetual care charges for cemetery maintenance are also non-taxable, while equipment purchases by cemeteries are subject to tax.",
+    "body": "Sales of vaults, urns, caskets, grave boxes, burial clothing, granite bases, etc., are taxable at the time of sale. The \"time of sale\" depends upon the terms of the contract. In a pre-need contract, the sale occurs when the property passes to the purchaser.\n\nSales or use tax is paid on lawn crypts at the time of purchase by the cemetery or mortician if purchased as finished products. If the lawn crypts are erected by contractors, then the contractor is responsible for using a tax on the materials used.\n\nSales of memorial plaques, headstones, and grave markers are taxable. If installation charges are separately stated on the invoice, those charges are not subject to tax.\n\nServices rendered by cemetery or mortuary staff are not taxable. Anything used for these services is taxable at the time of purchase. This includes but is not limited to, sales of:\n\n- Flowers\n- Cards\n- Programs\n- Etc.\n\nPerpetual care is a charge for maintenance and lawn care of the cemetery grounds and markers. These services are not taxable to the purchaser. Equipment purchases and supplies used by the cemetery are subject to tax.\n\nPayment by a third party is not tax-exempt. This includes payments from government entities like:\n\n- The Veteran's Administration\n- Department of Social Services\n- Victim's Compensation\n\nThese guidelines apply regardless of how payments are made to the funeral home, mortuary, or cemetery.\n\n## Examples\n\n- The Department of Social Services pays part of the funeral cost for a low-income person. The amount paid is a third-party payment and is not considered a tax-exempt sale to the government. The funeral home must collect sales tax on items sold to the family of the deceased.\n- A couple purchased a pre-need insurance plan from a local mortuary. The mortuary placed the funds in a trust account, consistent with Colorado law. That transaction is not taxable until the time of need and use of the goods and services.\n\nNote: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

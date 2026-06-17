@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "revocable",
+      "right",
+      "license",
+      "agreement",
+      "generally",
+      "used",
+      "allow",
+      "encroachment",
+      "private",
+      "structures"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-5-8"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-5. SITE DEVELOPMENT AND TEMPORARY USES"
+  },
+  "content": {
+    "title": "8-3-5-8. Revocable right-of-way license agreement.",
+    "summary": "A.\tGenerally.\n  1.\tA Revocable Right-of-Way License Agreement may be used to allow for the encroachment of private structures into public property, right-of-way or public easements.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-5-8. Revocable right-of-way license agreement.",
+        "a": "A.\tGenerally.\n  1.\tA Revocable Right-of-Way License Agreement may be used to allow for the encroachment of private structures into public property, right-of-way or public easements. Revocable right-of-way license agreements are issued by the City Council, as provided in Section 8-2-2-2, Decision-Making Tracks By Application Type.\n  2.\tThe City is not obligated to execute a Revocable Right-of-Way License Agreement, even if the approval criteria of this Section are met, and may deny or condition an approval of a Revocable Right-of-Way License Agreement in the lawful exercise of its discretion with respect to the management and control of City property.\nB.\tApproval Criteria. An application to encroach into public property, right-of-way or public easements may be approved if it complies with the following criteria:\n  1.\tThe Applicant agrees to the terms of a Revocable Right-of-Way License Agreement in a form approved by the City Attorney, including any insurance provisions and provisions that indemnify and hold the City harmless from future damages or liability claims;\n  2.\tThe proposed sign, structure, or use complies with all applicable use, development, and design standards set forth in this LDC and the City of Arvada Municipal Code that have not otherwise been modified or waived; and\n  3.\tThe proposed sign, structure, or use shall not interfere with street intersection visibility, materially impede access to utilities or other facilities, or in any other way adversely affect the public health, safety, or welfare.\nC.\tApproval Conditions. The City may impose such conditions on a Revocable Right-of-Way License Agreement as it determines are necessary to protect the City's interest in its rights-of-way or other affected property, and to ensure that the risks and potential costs related to the encroachment are the responsibility of the Applicant."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-5-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

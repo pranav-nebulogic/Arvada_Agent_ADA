@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fees",
+      "all",
+      "new",
+      "applications",
+      "licenses",
+      "shall",
+      "accompanied"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-226"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-226. - Fees.",
+    "summary": "All new applications for licenses shall be accompanied by an application fee of $50.00\n               and a yearly license fee of $50.00, for a total of $100.00. Thereafter, licenses shall\n               be subject to a yearly license fee of $50.00.\n(Code 1981, § 6-105; Ord. No. 3496, § 2, 12-14-199…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-226. - Fees.",
+        "a": "All new applications for licenses shall be accompanied by an application fee of $50.00\n               and a yearly license fee of $50.00, for a total of $100.00. Thereafter, licenses shall\n               be subject to a yearly license fee of $50.00.\n(Code 1981, § 6-105; Ord. No. 3496, § 2, 12-14-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-226"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

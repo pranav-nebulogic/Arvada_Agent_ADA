@@ -1,0 +1,52 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "local",
+      "parking",
+      "regulations",
+      "footnotes",
+      "editor",
+      "note",
+      "ord"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — ARTICLE IV. - LOCAL PARKING REGULATIONS",
+    "summary": "Footnotes:\n--- (\n4\n) ---\nEditor's note—\nOrd. No. 4561, § 2, adopted Aug. 29, 2016\n, amended and restated former Art. IV, Divs. 1, 2, in its entirety to read as herein\n               set out. Former Art. IV pertained to similar subject matter and derived from\nOrd. No. 4384, § 3, 4-15-2013\n;\nOrd. No. …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE IV. - LOCAL PARKING REGULATIONS",
+        "a": "Footnotes:\n--- (\n4\n) ---\nEditor's note—\nOrd. No. 4561, § 2, adopted Aug. 29, 2016\n, amended and restated former Art. IV, Divs. 1, 2, in its entirety to read as herein\n               set out. Former Art. IV pertained to similar subject matter and derived from\nOrd. No. 4384, § 3, 4-15-2013\n;\nOrd. No. 4456, §§ 1—3, 9-15-2014\n."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

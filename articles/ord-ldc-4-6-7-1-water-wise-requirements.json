@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "water",
+      "wise",
+      "requirements",
+      "generally",
+      "landscaping",
+      "techniques",
+      "used",
+      "provided",
+      "section",
+      "restrictions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-7-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-7. ADDITIONAL TECHNICAL REQUIREMENTS"
+  },
+  "content": {
+    "title": "4-6-7-1. Water-wise requirements.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-7-1. Water-wise requirements.",
+        "a": "A.\tGenerally. Water-wise landscaping techniques shall be used as provided in this Section.\nB.\tRestrictions on High-Water-Demand Landscapes.\n  1.\tHigh water-demand landscapes (such as irrigated cool season turf grass) are limited to areas of high pedestrian activity, streetscape areas, primary entrance features, clubhouse grounds, wetland plantings, or in yards on single-family, duplex, multiplex, manufactured home, and cluster housing lots.\n  2.\tHigh-water-demand turf shall be minimized to the extent practicable and not exceed 50 percent of the total common landscaped area in residential projects and 35 percent of the landscaped area in nonresidential or mixed-use projects.\n  3.\tHigh-water-demand turf is specifically prohibited in the following (unless approved by the Director after reviewing evidence of a water-efficient irrigation system):\n    a.\tParking lot islands;\n    b.\tSlopes greater than 4:1;\n    c.\tStreet medians;\n    d.\tStormwater detention ponds, unless designed for active recreation or needed as part of required wetlands; and\n    e.\tAny space less than eight feet wide.\nC.\tGrouping Plants According to Water Needs. All plantings should be grouped according to their water needs to minimize water use.\nD.\tSoil Amendments. The Director shall maintain a list of approved soil amendments, or classes or characteristics of soil amendments, which shall be incorporated into landscape planting areas as follows:\n  1.\tPrior to planting, all sites for plantings shall be prepared with soil amendments at a rate of three cubic yards per 1,000 square feet, to a minimum depth of six inches. A lesser amount shall be allowed if a soil test shows that such amendment is not necessary for water retention and deep rooting of plant materials.\n  2.\tIf the specified plant material requires less fertile soil, those areas may have less soil amendments installed if approved by the Director. Such areas shall be identified on the landscape plan.\nE.\tExisting Topsoil. Existing topsoil shall be salvaged and stockpiled for use as soil amendments or topsoil. No topsoil shall be removed from the subject property unless the City approves the transfer of topsoil to a City-owned park or open space area, or to another location owned by the owner of the subject property.\nF.\tIrrigation. The landscape plan shall label or note the type of irrigation to be applied to each plant hydrozone to ensure that plants receive only the needed water. In addition, the plan shall include:\n  1.\tA rain sensor with automatic shut-off of the system during periods of high moisture;\n  2.\tA drip, sub-surface, bubbler or low volume irrigation system for all planting strips less than eight feet wide, and all planting beds involving trees, shrubs, perennials, and groundcover; and\n  3.\tAn irrigation clock that allows programming to meet the differential needs of the specified planting plan.\nG.\tRestrictive Covenants Regarding Turf. Any restrictive covenant that becomes effective after July 15, 2003 shall not prohibit the use of water-wise landscaping or require more than 50 percent high-water-demand turf. This provision shall not restrict the individual and voluntary use of a greater percentage of high-water-demand turf."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-7-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

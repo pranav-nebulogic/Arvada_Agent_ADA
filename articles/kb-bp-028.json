@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "radio amplifier",
+      "BDA",
+      "first responder communication",
+      "fire code",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/416/Radio-Amplification"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-028",
+    "spreadsheet_id": "BP-028",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Radio Amplifier Permit",
+    "summary": "All commercial structures in Arvada must undergo radio amplification testing in accordance with the International Fire Code Section 510 before a Certificate of Occupancy can be issued. An approved installer is required to verify radio frequency, and if an amplification system is necessary, a permit must be obtained. Additionally, installations will be subject to annual inspections to ensure compliance and proper maintenance.",
+    "body": "All commercial structures are required to be tested for radio amplification as per the City of Arvada adopted International Fire Code Section 510. An approved installer will be required to test your location to verify radio frequency before your Certificate of Occupancy can be issued. If an amplification system (BDA) is required, a permit will be required to install the system.\n\n## Getting Started\n\nReview the list of required documents and steps in the following before beginning the application process. Once you are ready to apply, you will login to the [Permit Portal]([NEW PORTAL URL]), enter the required information, and upload PDF plans and related documents to your application.\n\nRadio Amplification permits will be issued to a Licensed Radio Amplification professional. Please review contractor qualifications and download applications before applying for permits\n\nA review will be completed by the Radio Systems Administrator for the City of Arvada. The review could take up to 15 days to be completed. Once the review is completed you will be notified via e-mail to complete the payment and print your permit.\n\n## Fees\n\nThe following are the fees that will be charged for your permit. A fee calculator is available online at the [Permit Portal]([NEW PORTAL URL]).\n\n| Fee Type | Amount |\n| --- | --- |\n| Building Permit Fee | $0 |\n| Use Tax | Variable |\n\n## Required Submittal Documents\n\nPermit applications must be submitted with the correct documentation. Applications that are submitted without the proper documentation will not be accepted. As BDA systems are installed in the City of Arvada, and are meant to amplify the current LMR system, these sets of minimum parameters must be met to gain approval from the Radio System Administrator for approval.\n\n1. Proposed BDA make/model\n\t1. Type A (channelized to exact frequencies), if Type A, check Freq list.\n\t\t2. Type B (Band) check bandwidth.\n2. Proper installation\n\t1. NEMA enclosure of BDA and UPS\n\t\t2. UPS with 24 hours of backup power\n\t\t3. Monitoring via Fire Panel\n3. Documented installation location (where in building), power levels, test results including oscillation rejection.\n\n## Before Occupancy\n\nProof of Coverage as defined in Section 510 of the adopted International Fire Code must be uploaded and attached to the permit via the Permit Portal before occupancy of the building can occur.\n\n## After Installation\n\nAll radio amplification installations will be inspected annually as part of a regular fire inspection to verify that annual maintenance has been performed by an approved service provider and system operation has been maintained as designed. Owners of the buildings must have annual inspections on systems completed and available for review during the inspection. These records must be kept on file and available when requested.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

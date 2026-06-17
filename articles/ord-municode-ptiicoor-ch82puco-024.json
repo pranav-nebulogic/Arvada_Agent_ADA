@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contract",
+      "formation",
+      "form",
+      "subject",
+      "limitations",
+      "chapter",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-63"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-63. - Contract formation.",
+    "summary": "(a)\nForm of contract.\nSubject to the limitations of this chapter, the city may use any contract appropriate\n               to the procurement which best promotes the interests of the city.\n(b)\nNo indemnification.\nIn accordance with Section 1 of Article XI of the Colorado Constitution, the city\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-63. - Contract formation.",
+        "a": "(a)\nForm of contract.\nSubject to the limitations of this chapter, the city may use any contract appropriate\n               to the procurement which best promotes the interests of the city.\n(b)\nNo indemnification.\nIn accordance with Section 1 of Article XI of the Colorado Constitution, the city\n               shall not agree to indemnify any third party.\n(c)\nWaiver of jury trial.\nAny person entering into a contract for the sale or provisions of any type of good,\n               service, or professional service to the city waives the right to a jury trial related\n               to any contract claim.\n(d)\nOrdinances rules, regulations, and orders.\nEach contractor shall be responsible for remaining fully informed of and complying\n               with all applicable laws, ordinances, rules, regulations, and orders of the city,\n               county, state, federal or other governmental entities having jurisdiction over the\n               work or otherwise governing or affecting the goods or services supplied to the city\n               under the contract.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-63"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

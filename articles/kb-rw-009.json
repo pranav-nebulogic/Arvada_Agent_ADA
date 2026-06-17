@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "floodplain",
+      "flood zone",
+      "development permit",
+      "drainage",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/650/Right-of-Way-Permits"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-009",
+    "spreadsheet_id": "RW-009",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Floodplain Development Permit",
+    "summary": "Property owners in floodplains may need a floodplain development permit before constructing, altering, regrading, or filling their property to prevent issues for neighboring areas. It is essential to consult the Engineering Division for guidance and to access the permit application. Additional resources include floodplain regulations, an interactive floodplain map, and a flood preparedness page for further information.",
+    "body": "### Floodplain Development Permits\n\nIf your property is in a floodplain, a floodplain development permit may be required in order to build on, alter, regrade, or fill your property. Always check with the Engineering Division prior to construction. \n\nThis permit may be required to ensure that your project does not cause problems on other properties. The [permit application (PDF)](https://www.arvadaco.gov/DocumentCenter/View/967) can be obtained through the Engineering Division. View the [Floodplain Regulations in the Arvada Land Development Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-1ENQU_DIV4-1-2FLRE) to learn how to build responsibly in a high-hazard flood zone. If you have any questions please contact the Engineering Division at 720-898-7640. View an [interactive floodplain map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=6dea6f00d3f14106b3c8350de9b38a78) and find additional information on the [Flood Preparedness page](https://www.arvadaco.gov/697).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

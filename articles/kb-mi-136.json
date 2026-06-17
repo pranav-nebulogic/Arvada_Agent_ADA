@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "announces",
+      "land",
+      "acquisition",
+      "replacement",
+      "water",
+      "treatment",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1390/City-of-Arvada-Announces-Land-Acquisitio"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-136",
+    "spreadsheet_id": "MI-136",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "City of Arvada Announces Land Acquisition for Replacement Water Treatment Plant, Continues Legacy of Water Resilience",
+    "summary": "The City of Arvada has approved the acquisition of land for a new water treatment plant, located west of Highway 93, as part of its long-term water infrastructure planning. The site was selected after extensive community engagement and is expected to provide operational and financial advantages, with construction slated to begin in 2026 and operations anticipated by 2030, funded through bonds rather than general tax dollars. This project aims to ensure safe and reliable water for both current and future residents, addressing the limitations of the existing facility built in 1979.",
+    "body": "![aerial map with circle at the new site west of Highway 93 and W 66th Ave](/ImageRepository/Document?documentId=6461)The City of Arvada has selected and approved the purchase of a site for the replacement of the Arvada Water Treatment Plant. Located just west of Highway 93 and W 64th Parkway at 6809 State Highway 93, the land will be annexed into the City as part of the acquisition, marking a significant step forward in Arvada’s long-term water infrastructure planning.\n\n**Site Selection Process**\n\nIn 2023, the City conducted a siting study to identify viable locations that would meet both present and future demands for water treatment. The site selection process included community engagement with over 1,500 interactions with the online forum and feedback from more than 150 participants. Key themes from the community included cost effectiveness, preservation of open space, and ensuring continued safe and reliable delivery of high-quality water.\n\nThe final site chosen meets many critical criteria that make it the most cost-effective and operationally feasible option for the long term. The City took great care in selecting a location that provides not only financial and operational advantages today, but also the space and adaptability needed to serve the community for generations to come.\n\nKey factors that made this site the preferred choice include:\n\n- Lower potential of groundwater, reducing construction costs and long-term maintenance.\n- Property shape that allows for easier construction and efficient site layout.\n- Minimal disruption to the natural viewscape in the area.\n- Better terrain for construction and operations.\n- A property size that provides flexibility for future expansions or new treatment processes as technology and regulations evolve.\n- Elevation that enables water to be delivered by gravity to most of the city, increasing resilience with fewer pump stations.\n\n**Funding and Timeline**\n\nConstruction is expected to begin in 2026, with an anticipated operational date in 2030. The project is using bond funding, supported by customer rates, fees, and developer-paid system development charges, not by general tax dollars. By issuing bonds, the City can spread the cost of large-scale improvement projects over time. This helps ease rate increases to customers, while ensuring that those who benefit from the infrastructure improvements cover the costs of the project in future years.\n\nOnce constructed, the new facility is intended to last for decades, with the capacity to evolve alongside changing needs and advances in water treatment. This project represents a legacy investment in Arvada’s future—ensuring safe, reliable water for current residents and generations to come.\n\n“As Arvada continues to focus on being adaptable and future ready, ensuring safe, reliable water for our community remains a top priority,” said Director of Infrastructure Jacqueline Rhoades. “This land purchase marks a key milestone in our commitment to modernizing critical infrastructure while planning responsibly for decades ahead.”\n\n**Background**\n\nThe existing Arvada Water Treatment Plant, built in 1979, was designed for seasonal use and is approaching the end of its useful life. While renovating or rebuilding on the current site was considered, it was determined not to be a viable option. Remaining at the existing location would be more expensive and would not resolve design challenges or resilience concerns, including the risks associated with being located in the inundation zone of two dams. Additionally, the limited space at the current site would constrain flexibility, making it difficult to accommodate future expansion or add new treatment processes that may be required under evolving regulatory standards.\n\nVisit the [Water Treatment Plant Replacement webpage](/886) for more information.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

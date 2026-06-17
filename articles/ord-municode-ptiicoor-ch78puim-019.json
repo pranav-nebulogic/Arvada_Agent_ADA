@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "combination",
+      "projects",
+      "more",
+      "than",
+      "one",
+      "project",
+      "combined"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-20"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-20. - Combination of projects.",
+    "summary": "(a)\nMore than one project may be combined in one improvement district when the council\n               determines that such projects may be combined together in an efficient and an economical\n               improvement district.\n(b)\nIf in the combination of projects, they shall be separate and distin…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-20. - Combination of projects.",
+        "a": "(a)\nMore than one project may be combined in one improvement district when the council\n               determines that such projects may be combined together in an efficient and an economical\n               improvement district.\n(b)\nIf in the combination of projects, they shall be separate and distinct by reason of\n               substantial difference in their character or location, or otherwise, each such project\n               shall be considered as a unit or quasi-improvement district for the purpose of petition,\n               remonstrance and assessment.\n(c)\nIn case of such combination, the council shall designate the project and the area\n               constituting each such unit, and in the absence of an arbitrary and an unreasonable\n               abuse of discretion, its determination that there is or is not such a combination\n               and its determination of the project and the area constituting each such unit shall\n               be final and conclusive.\n(d)\nThe costs of acquiring or improving, or acquiring and improving, each such project\n               shall be segregated from the levy of assessments, and an equitable share of the incidental\n               costs shall be allocated to each such unit.\n(Code 1981, § 27-21; Ord. No. 551, § 11, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-20"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

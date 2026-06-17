@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "application",
+      "service",
+      "payment",
+      "fees",
+      "tapping",
+      "inspection",
+      "due"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-34"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-34. - Application for service and payment of fees.",
+    "summary": "(a)\nTapping and inspection fees are due at the time the invoice for a water or sewer stub-in\n               is issued by the department of utilities.\n(b)\nNo water or sewer tap will be authorized by the city for new construction or remodeling\n               without valid building or other applicable …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-34. - Application for service and payment of fees.",
+        "a": "(a)\nTapping and inspection fees are due at the time the invoice for a water or sewer stub-in\n               is issued by the department of utilities.\n(b)\nNo water or sewer tap will be authorized by the city for new construction or remodeling\n               without valid building or other applicable permits issued by the building inspection\n               division and certified by the department of utilities.\n(c)\nWater and sewer system development charges for all classes of residential and nonresidential\n               buildings within the city, plus a prorated portion of the water system development\n               charge for irrigation of open space when applicable, as early as the time an approved\n               building permit is presented to the utilities manager, shall be paid at the time of\n               building permit issuance. If the building permit expires, then the system development\n               charges which have been paid will also expire and will be credited toward payment\n               of the new required system development charges, as a system development credit. The\n               system development charges to be paid are those in existence at the time payment is\n               made. System development charges will be paid to the city by one of the following\n               methods: (1) cash, (2) wire transfer with confirmed receipt by the city's bank, (3)\n               cashier's check issued by an institution, (4) official check issued by a financial\n               institution, or (5) a check certified by a financial institution. If system development\n               charges are paid by some other type of check, the check must clear the bank before\n               a temporary certificate of occupancy or a certificate of occupancy is issued for a\n               building. An irrigation tap can be used only for irrigation purposes.\n(d)\nIf water for construction purposes is to be obtained from the service line to the\n               property before the building is connected to the city main, then the water meter must\n               be purchased and set prior to obtaining water through the stub-in. Water used during\n               construction and prior to temporary or permanent occupancy will be metered and charges\n               for construction water will be based upon the rate schedule as provided for in\nsections 102-170\nthrough\n102-174\n. It shall be unlawful for any person to install or to use any water from a straight-through\n               pipe at any meter pit or vault.\n(e)\nThe city will not issue either a temporary certificate of occupancy or certificate\n               of occupancy until all water and sewer fees, including construction water charges,\n               are paid. Model homes or show homes are included in this requirement.\n(f)\nNo water or sewer tap will be authorized for existing buildings and properties until\n               the customer classification is verified by the department of utilities and all requirements\n               of this Code have been met. System development charges for existing buildings and\n               properties must be paid by one of the methods in subsection (c) of this section before\n               a general public improvement permit is issued by the engineering division. If paid\n               by some other type of check, the check must clear the bank before a general public\n               improvement permit is issued by the engineering division.\n(g)\nThe interconnected water service lines to adjacent units in the same townhouse residential\n               facility shall be equipped with curb stop valves and installed in common areas of\n               the facility that are owned and maintained by the homeowner's association. Irrigation\n               water for the townhouse residential facility with interconnected water service lines\n               to the units may be connected after the single water meter to the building.\n(Code 1981, § 33-4; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2855, § 2, 10-21-1991;\n               Ord. No. 3127, §§ 4, 5, 10-24-1994; Ord. No. 3202, § 2, 8-7-1995; Ord. No. 3262, §\n               4, 4-15-1996; Ord. No. 3272, § 2, 6-17-1996; Ord. No. 3403, § 3, 10-20-1997; Ord.\n               No. 4819, § 5, 10-17-2022, eff. 7-1-2023;\nOrd. No. 4832\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-34"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

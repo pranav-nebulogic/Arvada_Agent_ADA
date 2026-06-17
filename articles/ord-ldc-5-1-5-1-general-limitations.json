@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "general",
+      "limitations",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "accessory",
+      "buildings",
+      "structures",
+      "lots"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-5-1"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-5. SUPPLEMENT STANDARDS FOR RESIDENTIAL LAND USES (EXCEPT MULTIFAMILY)"
+  },
+  "content": {
+    "title": "5-1-5-1. General limitations.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-5-1. General limitations.",
+        "a": "A.\tGenerally. The standards of this Section apply to all accessory buildings and accessory structures on lots that are developed with residential uses (except vertically mixed-use buildings and multifamily buildings, which are subject to Division 5-1-6, Supplemental Standards for Nonresidential and Multifamily Land Uses).\nB.\tTiming of Construction or Installation. No accessory buildings or accessory structures shall be allowed on a subject property until after all required permits and approvals for the principal use or activity have been issued.\nC.\tRelationship to Other Standards. Accessory buildings and accessory structures shall comply with all applicable zoning districts standards where located and the building design standards in Division 5-1-2-3, General Building Design Standards, except as expressly allowed or exempted in this Division.\nD.\tLocation.\n  1.\tNo accessory building or accessory structure shall be located within any public easement, utility easement, or ditch easement, except as otherwise expressly agreed to in writing by the entity that holds the easement rights.\n  2.\tWalls of detached accessory buildings or accessory structures that are identified in this Division shall be set back at least five feet from any principal building or other accessory structure. Nothing in this Section shall prohibit an accessory garage that is located five feet or more from the principal dwelling unit from being attached to the principal building by a breezeway or similar open structure.\nE.\tMaximum Coverage. Except as otherwise expressly allowed in this Division, and except for accessory recreational facilities (e.g., swimming pools or tennis courts), accessory buildings and accessory structures shall not cover cumulatively more land than the principal building.\nF.\tMaximum Height. Except for antennas and as otherwise expressly allowed in this Division, the height limitations set forth in the underlying zoning districts shall apply to all accessory buildings and accessory structures.\nG.\tDwelling Unit Prohibited. Except as expressly allowed by Section 5-1-5-2, Accessory Dwelling Units, no dwelling unit shall be located in any accessory structure or accessory building.\nH.\tLimits on Mobile Homes, Manufactured Homes, and Recreational Vehicles. No mobile home, manufactured home, or recreational vehicle shall be used for an accessory use.\nI.\tFabric Accessory Structures. Fabric accessory structures are not allowed, except in the cases of:\n  1.\tMini-structures; and\n  2.\tShade structures in rear yards of single-family residential, duplex, multiplex, or townhome buildings.\n(Ord. No. 4905, §§ 62, 63, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

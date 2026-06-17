@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "owner",
+      "responsibilities",
+      "guards",
+      "required",
+      "ditch",
+      "pass",
+      "through"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-5"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-5. - Owner responsibilities.",
+    "summary": "(a)\nGuards required.\nIf an owner's ditch pass through a flume or covered ditch having a cross-sectional\n               area equal to or greater than 50 square inches and a length of 20 feet or more, the\n               owner shall ensure that the flume or covered ditch area is guarded at the intake e…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-5. - Owner responsibilities.",
+        "a": "(a)\nGuards required.\nIf an owner's ditch pass through a flume or covered ditch having a cross-sectional\n               area equal to or greater than 50 square inches and a length of 20 feet or more, the\n               owner shall ensure that the flume or covered ditch area is guarded at the intake end\n               by suitable bars of steel or wood, spaced not to exceed five inches from centers vertically\n               or horizontally, or some other form of guard equivalent thereto in the opinion of\n               the city's engineering division. It shall be unlawful for any owner to fail to have\n               such guards in place.\n(b)\nClearing required.\nAll owners shall ensure that any canal or ditch, including any ditch rights-of-way\n               within the city, are free from rubbish and weeds.\n(1)\nIt shall be unlawful for any owner to fail to keep any canal or ditch, including any\n               ditch rights-of-way within the city, free from rubbish, weeds, and other materials\n               at all times.\n(2)\nIt shall be unlawful for any owner to permit any waste or overflow water or any water\n               from any canal, ditch, tail ditch, waste ditch, or any part thereof to flow in or\n               upon any street, or alley in the city so as to damage the same in any way.\n(c)\nGood condition required.\nAn owner shall ensure that all embankments or other parts of any canal or ditch are\n               maintained in good repair and condition so that the waters within are not wasted and\n               will not flood or damage the premises of others. Failure to do so shall be unlawful.\n(d)\nTail ditch required during repair or maintenance required.\nDuring any repair or maintenance activities, the owner must make a tail ditch so\n               as to return the water within the canal or ditch with as little waste as possible\n               into the stream from which it was taken. Failure to do so shall be unlawful.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

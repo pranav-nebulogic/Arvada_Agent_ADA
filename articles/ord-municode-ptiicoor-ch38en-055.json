@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "smoking",
+      "prohibited",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "smoke"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-304",
+      "§ 25-14"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-304. - Smoking prohibited.",
+    "summary": "It shall be unlawful for any person to smoke in any public place or sports arena as\n               defined in this division or a cigar-tobacco bar as defined in C.R.S. § 25-14-203.\n(Ord. No.\n4003\n, § 1, 6-5-2006; Ord. No.\n4127\n, § 3, 10-6-2008; Ord. No.\n4501\n, § 3, 5-4-2015; Ord. No.\n4773\n, § 2, 8-1…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-304. - Smoking prohibited.",
+        "a": "It shall be unlawful for any person to smoke in any public place or sports arena as\n               defined in this division or a cigar-tobacco bar as defined in C.R.S. § 25-14-203.\n(Ord. No.\n4003\n, § 1, 6-5-2006; Ord. No.\n4127\n, § 3, 10-6-2008; Ord. No.\n4501\n, § 3, 5-4-2015; Ord. No.\n4773\n, § 2, 8-16-2021;\nOrd. No. 4805\n, § 1, 6-27-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-304",
+      "§ 25-14"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

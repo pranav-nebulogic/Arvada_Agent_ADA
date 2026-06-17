@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "climatic",
+      "geographical",
+      "design",
+      "criteria",
+      "table",
+      "hereby"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-181"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-181. - I.R.C. Section R301.2, Climatic and geographical design criteria.",
+    "summary": "Table R301.2(1) of Section R301.2. Climatic and geographical design criteria,\nis hereby amended in its entirety to read as follows:\n\"Table R301.2(1)\nCLIMATIC AND GEOGRAPHICAL DESIGN CRITERIA\nGround and Roof Snow Load\np\nWind Design\nSeismic Design Category\nf\nSubject to Damage From\nWinter Design Temp\ne…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-181. - I.R.C. Section R301.2, Climatic and geographical design criteria.",
+        "a": "Table R301.2(1) of Section R301.2. Climatic and geographical design criteria,\nis hereby amended in its entirety to read as follows:\n\"Table R301.2(1)\nCLIMATIC AND GEOGRAPHICAL DESIGN CRITERIA\nGround and Roof Snow Load\np\nWind Design\nSeismic Design Category\nf\nSubject to Damage From\nWinter Design Temp\ne\nIce\nBarrier Underlayment Reuired\nh\nFlood Hazards\ng\nAir Freezing Index\ni\nMean Annual Temp\nj\nIECC Zone\nSpeed (mph)\nd\nTopo-graphic Effects\nk\nWeathering\na\nFrost-line Depth\nb\nTermite\nc\n30 psf\n136 V\nult\nE. of Hwy 93 150 V\nult\nW. of Hwy 93 Exp.C\nYes\n\"B\"\nSevere\n36\"\nSlight\n1° F\nNo\nNFIP: Nov. 20, 1972\nFIRM: January 15, 2021 for Jefferson County and September 28, 2018 for Adams County,\n                                 or as amended and most recently adopted by the city.\n500-1000\n50.5\n5b\nManual J Design Criteria\nn\nElevation\nLatitude\nWinter Heating 99% Dry Bulb\nSummer Cooling 1% Dry Bulb\nAltitude Correction Factor\nIndoor Design Temp.\nDesign Temp. Cooling\nHeating Temp. Difference\n5453' E. of Hwy. 93; Varies W. of Hwy. 93\n40 ° North\n1°\n91°\n.832 E. of Hwy. 93; Varies W. of Hwy. 93\n70 °\n75 °\n69 °\nCooling Temperature Difference\nWind Velocity Heating\nWind Velocity Cooling\nCoincident Wet Bulb\nDaily Range\nWinter Humidity\nSummer Humidity\n—\n16 °\n15 mph\n7.5\nmph\n60\nHigh (H)\n30%\n50%\n—\n(Ord. No.\n4738\n, § 6, 9-14-2020; Ord. No.\n4753\n, § 1, 3-1-2021)\n_____"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-181"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

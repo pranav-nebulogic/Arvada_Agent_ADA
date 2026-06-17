@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "site",
+      "disturbance",
+      "permit",
+      "transfers",
+      "sale",
+      "individual",
+      "lots"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-56"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-56. - Site disturbance permit transfers; sale of individual lots.",
+    "summary": "(a)\nTransfers.\nIn the event an owner sells, conveys, assigns, dedicates, or otherwise effectuates\n               a change in ownership of all or part of a site, subdivision filing, or lot that is\n               subject to a site disturbance permit, the new owner of the site, subdivision filing,\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-56. - Site disturbance permit transfers; sale of individual lots.",
+        "a": "(a)\nTransfers.\nIn the event an owner sells, conveys, assigns, dedicates, or otherwise effectuates\n               a change in ownership of all or part of a site, subdivision filing, or lot that is\n               subject to a site disturbance permit, the new owner of the site, subdivision filing,\n               or lot, or their authorized representative must agree with and be subject to the terms\n               and conditions of the site disturbance permit as approved and that are applicable\n               to the portion of the site acquired by the new owner. Any term or condition contained\n               in the original site disturbance permit that could apply to any or all of the property\n               sold, conveyed, assigned, dedicated, or otherwise transferred to the new owner will\n               remain in effect as to the property that is conveyed.\n(1)\nTransfer of the site disturbance permit to a new owner as set forth herein will become\n               effective upon payment by the new owner to the city of a site disturbance permit transfer\n               fee. Should the new owner fail to pay the fee within 14 days of the transfer, the\n               new owner must apply for a new site disturbance permit.\n(2)\nThe director may also require a new owner to complete a permit transfer form or any\n               other process deemed necessary by the director to transfer the permit.\n(3)\nUpon a transfer described in this subsection (a), the new owner must, within 14 days\n               of the transfer, designate a new site disturbance permit contact person to the site,\n               inform the city of the change of contact person, and take any other action deemed\n               necessary by the director to facilitate the transfer of the permit.\n(b)\nSale of individual lots.\nThe permittee's obligations under this article for an individual lot end after the\n               following conditions have been met:\n(1)\nThe lot has been sold to a private homeowner for private residential use;\n(2)\nA certificate of occupancy or equivalent is maintained on-site or electronically and\n               is available for review upon request by the city or division;\n(3)\nThe lot is less than one-half acre of land disturbance activity;\n(4)\nAll construction activity on the lot by the permittee is complete, including the installation\n               of sediment and erosion control measures that minimize sediment from exiting the lot,\n               or the installation of temporary stabilization on remaining disturbance where the\n               permittee is not responsible for final stabilization (e.g. backyards);\n(5)\nThe permittee is not responsible for final stabilization of the remaining disturbed\n               areas on the lot; and\n(6)\nThe SWMP is modified to indicate that the lot is no longer part of the construction\n               activity.\nThe permittee's obligations for the rest of the development continue as established\n               by this article.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-56"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

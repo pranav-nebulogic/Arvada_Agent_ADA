@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contents",
+      "issuance",
+      "subpoenas",
+      "each",
+      "subpoena",
+      "shall",
+      "state"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-7"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-7. - Contents and issuance of subpoenas.",
+    "summary": "Each subpoena shall state the name of the case, the name of the witness to whom the\n               subpoena is directed, that the witness is required to appear to give testimony on\n               the date and at the time and place stated and shall be issued by the municipal judge,\n               cle…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-7. - Contents and issuance of subpoenas.",
+        "a": "Each subpoena shall state the name of the case, the name of the witness to whom the\n               subpoena is directed, that the witness is required to appear to give testimony on\n               the date and at the time and place stated and shall be issued by the municipal judge,\n               clerk or deputy clerk of the court or any attorney where appearance has been noted\n               in the court record.\n(Code 1960, § 1-22; Code 1981, § 18-11)\nState Law reference—\nSubpoenas in municipal court, C.R.S. § 13-10-111."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

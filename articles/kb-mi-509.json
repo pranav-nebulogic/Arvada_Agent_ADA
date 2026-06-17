@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "snow",
+      "plow",
+      "park",
+      "trails",
+      "routes",
+      "control",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/565/Snow-Plow-Park-Trails-Routes"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-509",
+    "spreadsheet_id": "MI-509",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Snow Plow Park / Trails Routes",
+    "summary": "The City of Arvada's Parks Department is responsible for clearing nearly 150 miles of trails, sidewalks, and parking lots during snowstorms, prioritizing routes based on safety. Priority 1 routes, including those connecting to schools and recreation centers, are cleared first, followed by primary and secondary use parks and trails. An interactive map is available for residents to view the plow routes and their prioritization.",
+    "body": "![Plowed Trail](/ImageRepository/Document?documentID=714 \"Plowed Trail\")\n\n## What Trails Does The City Plow?\n\nFor street plowing, visit [Snow and Ice Control](/503/Snow-Ice-Control).\n\nThe Parks Department for the City of Arvada is responsible for clearing nearly 150 miles of trails, sidewalks, and parking lots across the city during a snowstorm. The map below highlights the different areas of the city the parks crews are responsible for, as well the priority level for each route.\n\nPlow routes are prioritized by safety, with trails connecting to schools and recreation centers cleared first.\n\n- Priority 1 - Red: Recreation Centers and School Routes\n- Priority 2 - Blue: Primary Use Parks and System Trails\n- Priority 3 - Purple: Secondary Use Parks, Internal and Secondary Trails\n- Priority 3 - \\*Orange: Secondary Use Parks, Internal and Secondary Trails\n  - \\*For the safety of our staff, Priority 3 Orange routes are not maintained during extreme weather events during periods of heavy snow and wind.\n\n[Watch this YouTube video to see all the different tools the Parks Department uses](https://youtu.be/B6JjY_re4H4?feature=shared&t=5) to keep the City's trails safe during a snowstorm.\n\n## Interactive Parks Snow Plow Routes Map\n\nUse the interactive parks snow plow routes map below for a detailed look at plow routes prioritization and locations. [View the interactive Parks Snow Plow Routes Map in a separate window](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=6bf982e2d6a04cf4af4cd7df37b67950).\n\niFrames are not supported on this page.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "development",
+    "tags": [
+      "area",
+      "planning",
+      "town",
+      "plan",
+      "along",
+      "approved",
+      "Planning & Zoning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/171/Sub-Area-Planning-New-Town"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/development/pz-013",
+    "spreadsheet_id": "PZ-013",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Sub-Area Planning: New Town",
+    "summary": "The New Town Sub-Area Plan was approved by the City Council on June 4, 2023, serving as the guiding document for future development in the New Town Sub-Area, which includes areas along Wadsworth Boulevard and Bypass, as well as the Arvada Marketplace shopping center. This plan outlines the framework for development between the G Line tracks to the north and Interstate 70 to the south.",
+    "body": "The New Town Sub-Area Plan was approved by City Council on June 4, 2023. The plan will now act as the guiding document for new development in the New Town Sub-Area generally defined as the areas along Wadsworth Boulevard and Bypass between the G Line tracks on the north and Interstate 70 on the south. The Arvada Marketplace shopping center along 52nd Avenue is also included in this area.\n\n[**Review the Approved New Town Sub-Area Plan**](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68bf47358423f)\n\n![Aerial View of City of Arvada](/ImageRepository/Document?documentId=176)\n\n## Maps\n\n- [Map of the New Town Sub-Area Boundaries (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68b56e8d1804f)\n\n## Background Documents\n\n- [A Vision for New Town Arvada - Urban Land Institute Report (2019) (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68b568db43e54)\n- [Arvada City Center Urban Design and Redevelopment Plan (1980) (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68b5691a921ef)\n- [Arvada City Center Urban Renewal Plan (1981) (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68b5690b9eead)\n- [Arvada Transit Station Framework Plan (2007) (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68b568f4217b7)\n- [Olde Town Station Urban Renewal Area Plan (2010) (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68b568df3ed85)\n- [Southeast Arvada Neighborhood Development Plan (1979) (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68b56933a616b)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

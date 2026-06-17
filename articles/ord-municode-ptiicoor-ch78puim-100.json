@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "assessment",
+      "hearing",
+      "time",
+      "place",
+      "designated",
+      "council",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-101"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-101. - Assessment hearing.",
+    "summary": "(a)\nAt the time and the place so designated, the council shall hear and shall determine\n               any written complaint, protest or objection filed as hereinabove provided, any verbal\n               views expressed in respect to the proposed assessments, to the assessment roll or\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-101. - Assessment hearing.",
+        "a": "(a)\nAt the time and the place so designated, the council shall hear and shall determine\n               any written complaint, protest or objection filed as hereinabove provided, any verbal\n               views expressed in respect to the proposed assessments, to the assessment roll or\n               to the assessment procedure; and the council may adjourn the hearing from time-to-time.\n(b)\nThe council by resolution shall have power in its discretion to revise, correct, confirm\n               or set aside any assessment and to order that such assessment be made de novo.\n(Code 1981, § 27-102; Ord. No. 551, § 42, 5-14-1964)\nState Law reference—\nHearing on objections, C.R.S. § 31-25-521."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-101"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "violation",
+      "penalties",
+      "event",
+      "any",
+      "owner",
+      "lot",
+      "parcel"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-358"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-358. - Violation and penalties.",
+    "summary": "(a)\nIn the event any owner of any lot, parcel of land, or any real property within the\n               legal boundaries of the city shall neglect, fail, or refuse to pay the charges or\n               fees fixed by this article, the city may pursue any remedy available at law or equity\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-358. - Violation and penalties.",
+        "a": "(a)\nIn the event any owner of any lot, parcel of land, or any real property within the\n               legal boundaries of the city shall neglect, fail, or refuse to pay the charges or\n               fees fixed by this article, the city may pursue any remedy available at law or equity\n               to enforce and collect the service charge. The city may also recover, in addition\n               to service charges due, all court costs, attorney's fees and interest on the amount\n               owing.\n(b)\nIn addition to other civil collection procedures, all fees and charges, together with\n               all interest and penalties for default in payment, and all costs in collecting the\n               same, until paid, shall constitute a perpetual lien on the property, on a parity with\n               the tax lien of general, state, county, city, town or school taxes, and no sale of\n               such property to enforce any general, state, county, city, town or school tax or other\n               liens shall extinguish the perpetual lien for such fees, charges, interest, penalties\n               and costs. The procedure for filing the lien shall be pursuant to\nchapter 59\nentitled \"municipal liens.\"\n(c)\nDelinquent charges and fees may be collected as any other debt owed to the city at\n               the option of the city.\n(d)\nEnforcement of this subsection shall be in a court of competent jurisdiction in the\n               District Court of Jefferson County or Adams County as may be the case based on physical\n               location of the property. No remedy provided herein shall be exclusive, but the same\n               shall be cumulative.\n(Code 1981, § 33-258; Ord. No. 3701, § 1, 6-18-2001;\nOrd. No. 4042, § 8, 12-11-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-358"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

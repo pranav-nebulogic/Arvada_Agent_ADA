@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "grants",
+      "portal",
+      "grant",
+      "application",
+      "platform",
+      "applications",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1024/City-of-Arvada-Grants-Portal"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-139",
+    "spreadsheet_id": "MI-139",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "City of Arvada Grants Portal",
+    "summary": "The City of Arvada has launched a new online platform for submitting applications for Human Services and Community Development Block grants. This portal is designed to streamline the grant application process for users.",
+    "body": "The City of Arvada has a new online grant application platform for the Human Services and Community Development Block grant applications. [Utilize this platform for all of your grant application needs.](https://www.grantinterface.com/Home/Logon?urlkey=arvada)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

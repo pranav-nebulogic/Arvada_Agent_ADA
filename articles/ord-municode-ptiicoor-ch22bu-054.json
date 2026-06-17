@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-201"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-201. - Definitions.",
+    "summary": "The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nApplicant\nmeans an individual, and/or all general and/or limited partners of a pa…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-201. - Definitions.",
+        "a": "The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nApplicant\nmeans an individual, and/or all general and/or limited partners of a partnership,\n               or all members of the board of directors or shareholders of a corporation that applies\n               for a license pursuant to this chapter.\nContract for purchase\nmeans a contract entered into between a pawnbroker and a customer pursuant to which\n               money is advanced to the customer by the pawnbroker on the delivery of tangible personal\n               property by the customer on the condition that the customer, for a fixed price and\n               within a fixed period of time, not to exceed 90 days, has the option to cancel said\n               contract.\nFixed price\nmeans the amount agreed upon to cancel a contract for purchase during the option\n               period. Said fixed price shall not exceed:\n(1)\nOne-tenth of the original purchase price for each month, plus the original purchase\n                  price, on amounts of $50.00 or over; or\n(2)\nOne-fifth of the original purchase price for each month, plus the original purchase\n                  price, on amounts under $50.00.\nFixed time\nmeans that period of time, not to exceed 90 days, as set forth in a contract for\n               purchase, for an option to cancel said contract.\nManager\nmeans an individual employee of a pawnbroker who directs the business of the pawnbroker\n               and who is in direct control of the pawnbroking business.\nOption\nmeans the fixed time and the fixed price agreed upon by the customer and the pawnbroker\n               in which a contract for purchase may be but does not have to be rescinded by the customer.\nPawnbroker\nmeans a person regularly engaged in the business of making contracts for purchase\n               or purchase transactions in the course of his business.\nPawnbroking\nmeans the business of a pawnbroker.\nPurchase transaction\nmeans the purchase by a pawnbroker in the course of his business of tangible personal\n               property for resale, other than newly manufactured tangible personal property which\n               has not previously been sold at retail, when such purchase does not constitute a contract\n               for purchase.\nTangible personal property\nmeans all personal property other than choses in action, securities, or printed evidences\n               of indebtedness, which property is deposited with or otherwise actually delivered\n               into the possession of a pawnbroker in the course of his business in connection with\n               a contract for purchase or purchase transaction.\n(Code 1981, § 23-1; Ord. No. 3238, § 1, 12-18-1995)\nCross reference—\nDefinitions,\n§ 1-2\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-201"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

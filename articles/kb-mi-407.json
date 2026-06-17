@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "pierce",
+      "street",
+      "sidewalk",
+      "improvements",
+      "awarded",
+      "cdot",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1036/Pierce-Street-Improvements"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-407",
+    "spreadsheet_id": "MI-407",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Pierce Street Sidewalk Improvements",
+    "summary": "The City has received a grant from the Colorado Department of Transportation to construct 1,500 linear feet of sidewalk along Pierce Street, enhancing pedestrian safety near Secrest Elementary School. The project, which began planning in 2022, is expected to start construction in 2026 after necessary design approvals and right-of-way acquisitions are completed.",
+    "body": "## Overview\n\nThe City has been awarded a grant through the Colorado Department of Transportation (CDOT) Safe Routes to School Program to build out 1,500 linear feet of sidewalk along Pierce Street south of Secrest Elementary School.\n\nThe funding was awarded in 2022. The design and planning process for the project are underway. This project requires close coordination with CDOT as well as the acquisition of additional right-of-way through the corridor. Construction is anticipated to begin in 2026.\n\nThis project will improve pedestrian safety and connectivity through the area. We appreciate your patience while the City team works diligently to bring the project to fruition.\n\n## Timeline\n\n- **2021:**City applies for Safe Routes to School Grant\n- **2022:**City awarded Grant, project established\n- **2022 to 2023:**Planning and Intergovernmental Agreement (IGA) with CDOT\n- **2023 to 2026:**Project design, Right-of-Way acquisition, CDOT approvals\n- **2026:**Construction (approx. 3-4 months)\n\n![map of location for sidewalk planned for west side of Pierce Street](/ImageRepository/Document?documentID=4100 \"map of location for sidewalk planned for west side of Pierce Street\")\n\n### [FAQs](/Faq.aspx?TID=84)\n\n[Why is this project taking so long?](#)\n:   This project is part of a federal grant program and is being overseen by CDOT. Both federal and state requirements must be closely followed. This can extend timelines for planning prior to approval for construction. The project also requires right-of-way acquisition to build the sidewalk. This part of the process can also extend the timeline to construction.\n\n[What is being done about speeding along the corridor?](#)\n:   The City continues to monitor traffic conditions along Pierce Street. In 2023, a speed study resulted in the implementation of a speed radar sign. Speed data show that the sign has helped significantly reduce speeds, particularly for northbound traffic. The team continues to monitor speeds along the corridor.\n\n/FAQ.aspx\n\n## Contact\n\nPlease contact the Engineering Division with questions. Submit a ticket through [Ask Arvada](/898) or call (720) 898-7640 and a team member will be in touch.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

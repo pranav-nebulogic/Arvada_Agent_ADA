@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "right",
+      "way",
+      "permit",
+      "required",
+      "person",
+      "except",
+      "employee"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-294"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-294. - Right-of-way permit required.",
+    "summary": "(a)\nPermit required.\nNo person, except an employee or official of the city or a person exempted by contract\n               with the city, shall undertake or permit to be undertaken any construction, excavation,\n               or work in the public rights-of-way without first obtaining a permit from …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-294. - Right-of-way permit required.",
+        "a": "(a)\nPermit required.\nNo person, except an employee or official of the city or a person exempted by contract\n               with the city, shall undertake or permit to be undertaken any construction, excavation,\n               or work in the public rights-of-way without first obtaining a permit from the city\n               as set forth in this article. A copy of each permit obtained, along with associated\n               documents, including a traffic control plan, shall be maintained on the job site and\n               available for inspection upon request by any officer or employee of the city.\n(b)\nConstruction, excavation, or work area.\nNo permittee shall perform construction, excavation, or work in an area larger or\n               at a location different, or for a longer period of time than that specified in the\n               permit or permit application. If, after construction, excavation, or work is commenced\n               under an approved permit, it becomes necessary to perform construction, excavation,\n               or work in a larger or different area than originally requested under the application\n               or for a longer period of time, the permittee shall notify the director immediately,\n               and within 24 hours shall file a supplementary application for the additional construction,\n               excavation, or work.\n(c)\nAcceptance by city of infrastructure in new developments.\nThe construction of public infrastructure in new developments is the responsibility\n               of the developer of the land. Ownership of that infrastructure remains with the developer\n               of the land until acceptance by the city. Any person performing work on infrastructure\n               that is within a public way, but prior to acceptance by the city, shall obtain a permit\n               from the city and permission from the owner of the infrastructure in the public way.\n               Prior to the issuance of a permit from the city, any person planning to perform work\n               on infrastructure of another owner shall obtain that owner's permission. This financial\n               obligation shall apply only to the work in the public way done by the permittee. The\n               city will not accept for dedication public rights-of-way, or other property where\n               work performed is not in accordance with applicable city specifications.\n(d)\nSurcharge when no permit.\nAny person or utilities found to be conducting any work activity other than emergency\n               work within the public right-of-way without having first obtained the required permit\n               shall immediately cease all activity (exclusive of actions required to stabilize the\n               area) and shall be required to obtain a permit before work may be restarted. A surcharge\n               of $250.00 or double the permit fee, whichever is greater, shall be required in addition\n               to all applicable permit fees.\n(e)\nRoutine maintenance exemption.\nAny utilities may undertake routine maintenance on existing facilities without obtaining\n               a permit from the city providing compliance with each and every condition including:\n(1)\nNo work occurs on any collector or arterial street before 8:30 a.m. or after 3:30\n               p.m., as specified in\nsection 78-303\n.\n(2)\nSafe work area traffic signing and barricading is provided in accordance with part\n               VI of the Manual on Uniform Traffic Control Devices and as defined in\nsection 78-303\n, \"Traffic Control.\" A traffic control plan must be on file with the city traffic\n               engineer and available at the work site for inspection, upon request, by any officer\n               or employee of the city.\n(3)\nThe routine maintenance work does not involve any material disturbance of right-of-way\n               infrastructure improvements.\n(4)\nThe routine maintenance work does not involve any activities that generate noise levels\n               that constitute a public nuisance as defined in the noise control provisions of\nchapter 38\n.\n(Code 1981, § 27-203; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-294"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

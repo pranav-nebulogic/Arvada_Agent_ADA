@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "options",
+      "upon",
+      "noncompliance",
+      "event",
+      "person",
+      "fails",
+      "comply",
+      "notice",
+      "violation",
+      "stop"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "10-1-3-4"
+    ],
+    "chapter": "Chapter 10 ENFORCEMENT",
+    "article": "ARTICLE 10-1. ENFORCEMENT",
+    "division": "DIVISION 10-1-3. ENFORCEMENT PROCEDURES"
+  },
+  "content": {
+    "title": "10-1-3-4. Options upon noncompliance.",
+    "summary": "In the event a person fails to comply with a notice of violation or stop work order, or to remedy the violation to the satisfaction of the Code Enforcement Officer within the required time period, then the Code Enforcement Officer shall determine whether to subject the violator to the civil remedies…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "10-1-3-4. Options upon noncompliance.",
+        "a": "In the event a person fails to comply with a notice of violation or stop work order, or to remedy the violation to the satisfaction of the Code Enforcement Officer within the required time period, then the Code Enforcement Officer shall determine whether to subject the violator to the civil remedies listed in Section 10-1-2-2, Remedies, to criminal liability pursuant to Section 10-1-2-3, Penalties, or to any other remedy available in law or in equity."
+      }
+    ],
+    "ordinance_refs": [
+      "10-1-3-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

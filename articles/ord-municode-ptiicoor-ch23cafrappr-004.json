@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "technical",
+      "qualifications",
+      "planned",
+      "services",
+      "operations",
+      "application",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH23CAFRAPPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:29.502011+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 23-35"
+    ],
+    "chapter": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS"
+  },
+  "content": {
+    "title": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS — Sec. 23-35. - Technical qualifications, planned services and operations.",
+    "summary": "(a)\nThe application shall describe the applicant's planned initial and proposed cable\n               services geographic area, including a map of all areas proposed to be served and proposed\n               dates for offering service to each area. The application shall additionally state\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 23-35. - Technical qualifications, planned services and operations.",
+        "a": "(a)\nThe application shall describe the applicant's planned initial and proposed cable\n               services geographic area, including a map of all areas proposed to be served and proposed\n               dates for offering service to each area. The application shall additionally state\n               whether the applicant proposes to provide cable services to the entire franchise area,\n               and if so, a proposed timetable for meeting that goal.\n(b)\nIf the applicant has or asserts existing authority to access the public right-of-way\n               in any of the initial or proposed service areas listed in subsection (a) above, the\n               applicant shall state the basis for such authority or asserted authority and attach\n               the relevant agreements or other documentation of such authority.\n(c)\nThe applicant shall describe with particularity its planned residential cable services,\n               including basic cable services, other cable programming service tiers, and any additional\n               pay-per-view, on-demand or digital services; and the projected rates for each category\n               or tier or service.\n(d)\nThe applicant shall describe with particularity its planned system technical design,\n               upstream and downstream capacity and speed, provision for analog or digital services\n               or packages, distribution of fiber, planned count of households per residential node,\n               and any other information necessary to demonstrate that the applicant's technology\n               will be deployed so as to be able to successfully offer cable services in the proposed\n               locations.\n(e)\nThe applicant shall describe with particularity its planned non-residential cable\n               services.\n(f)\nThe applicant shall describe its planned construction and extension or phase schedule,\n               as applicable, including system extension plans or policy; and describe the current\n               status of the applicant's existing or proposed arrangements with area utilities, including\n               pole attachments, vault, or conduit sharing agreements as applicable.\n(g)\nThe applicant shall describe its plan to ensure that the safety, functioning and appearance\n               of property and convenience and safety of other persons not be adversely affected\n               by installation or construction of the applicant's facilities, and that property owners\n               are justly compensated for any damages caused by the installation, construction, operation\n               or removal of the facilities.\n(h)\nThe applicant shall describe its plan to comply with the subscriber privacy protections\n               set forth in 47 U.S.C. section 551, and the privacy protections of Arvada's local\n               cable customer service standards.\n(\nOrd. No. 4078, § 1, 7-16-07\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 23-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

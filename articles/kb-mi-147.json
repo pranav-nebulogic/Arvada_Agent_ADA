@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "codes",
+      "charter",
+      "code",
+      "municipal",
+      "municode",
+      "please",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/162/Codes-Law"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-147",
+    "spreadsheet_id": "MI-147",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Codes & Law",
+    "summary": "Arvada's government structure and land use regulations are defined by its City Charter and Municipal Code, which can be accessed through MuniCode. The Land Development Code outlines zoning regulations, including permissible uses, lot sizes, and building placements. Additional reference documents, such as the Adopted Building Code and Engineering Code of Standards and Specifications, are also available online.",
+    "body": "Codes and laws determine Arvada's government structure, provide guidance on what is lawful within the City's limits, and regulate how the land can be used.\n\n## City Charter\n\nThe City's charter can be found on MuniCode. For background information, please explore [City Charter](/163/City-Charter).\n\n## Municipal Code\n\nThe City's Code of Ordinances (Municipal Code) includes not only the City's codes, but references to state law and much more. Please visit MuniCode for the latest version of Arvada's City Code. If you're looking for reference documents, the Adopted Building Code and the Engineering Code of Standards and Specifications are available online.\n\nVisit [Municode](https://www.municode.com/library/co/arvada/codes/code_of_ordinances).\n\n## Zoning\n\nThe Land Development Code (LDC) specifies what zones can be used for various purposes. The LDC includes important information about lot sizes, building placement, and much more. Explore [Zoning](/168/Zoning) to discover information about allowed and conditional uses, plants, signs, and other important topics.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

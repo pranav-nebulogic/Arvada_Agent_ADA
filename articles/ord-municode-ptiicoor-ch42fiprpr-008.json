@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "board",
+      "appeals",
+      "established",
+      "hereby",
+      "amended",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-38"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-38. - I.F.C. Section 109.1, Board of appeals established.",
+    "summary": "Section 109.1. Board of appeals established,\nis hereby amended to read as follows:\n\"109.1. Board of appeals established.\nIn order to hear and decide appeals of orders, decisions, or determinations made\n                  by the fire code official relative to the application and interpretation of this…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-38. - I.F.C. Section 109.1, Board of appeals established.",
+        "a": "Section 109.1. Board of appeals established,\nis hereby amended to read as follows:\n\"109.1. Board of appeals established.\nIn order to hear and decide appeals of orders, decisions, or determinations made\n                  by the fire code official relative to the application and interpretation of this code,\n                  there is hereby created a board of appeals. The board of appeals shall be known as\n                  the\nBuilding Code Advisory Board (BCAB).\nThe BCAB shall be appointed by the governing body and shall hold office at its pleasure.\n                  The fire code official of the responsible fire district shall be an ex-officio member\n                  of said board but shall not vote on any matter before the board. Rules of procedure\n                  for conducting the Board's business shall be as set forth in\nsection 18-36\nof the administrative code, as amended, in Article II\nChapter 18\nof the Arvada City Code.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-38"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

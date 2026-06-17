@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "events",
+    "tags": [
+      "special",
+      "events",
+      "checklist",
+      "event",
+      "accessible",
+      "parking",
+      "Special Event Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1322/Special-Events-ADA-Checklist"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/events/se-008",
+    "spreadsheet_id": "SE-008",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Special Events ADA Checklist",
+    "summary": "Event coordinators are responsible for ensuring that events comply with accessibility guidelines and laws, making them inclusive for all attendees. Key considerations include providing accessible parking and pathways, clearly marking accessible entrances and restrooms, designating seating areas, and ensuring effective communication about accommodations. An ADA Liaison should be appointed to address accessibility concerns, and all promotional materials should include an accessibility statement to inform attendees of available accommodations.",
+    "body": "## Make your events accessible to everyone\n\nThe event coordinator is responsible for complying with all applicable guidelines, laws and regulations.\n\nCreating an accessible event makes it better for everyone. This list will help you make your event inclusive for attendees, volunteers, and staff. Consider printing this page and checking off each of the following for your event.\n\n### Parking & Route\n\n- ⬜ **Parking****& Transportation:** Clearly identify accessible parking (must be the shortest accessible route from parking to the event entrance) and identify accessible public transportation routes.\n- ⬜ **Pathway:** Identify the accessible pathway from the parking/public transportation to the event entrance. Look for curb ramps, smooth and flatter surfaces, and temporary barriers.\n- ⬜ **Entrance:** Identify and clearly mark the accessible entrance. If there is a door or gate, ensure appropriate door pull force and closing speed, or the existence of an automatic door.  If unsure, consider propping the door or gate open, or having a staff member open the door for all entrants.\n\n### Facilities\n\n- ⬜ **Restrooms:**Clearly mark the accessible restrooms. An accessible restroom must consist of an entry door of at least 32\" and be equipped with at least one large accessible stall. Make sure the restroom is on an accessible route.\n- ⬜ **Seating:**Designate an accessible seating area (at least 2% of the total seating available). If the event is standing room only, consider designating a seating area for those with mobility disabilities.\n- ⬜ **Temperature:** If your event is outside, be aware of temperature fluctuations. Some people are unable to control their body temperature, so consider cooling or warming tents and resources.  A medical or safety area/tent can be used for this purpose as well.\n- ⬜ **Sign Language Interpreter:** Designate a section for Deaf/hard of hearing participants in the line of sight of the interpreter captioning. Plan lighting so that the interpreter remains easily visible throughout the event.\n\n### Communication\n\n- ⬜ **ADA Liaison:**Designate someone as the ADA Liaison for your event and ensure their contact information is available in any event communications so attendees can reach out for any questions, concerns or accommodations. The City of Arvada Special Events and Public Arts Manager can provide consultation or support, as needed.\n- ⬜ **Effective Communication:**Ensure that all communications about your event are done in an accessible way – whether online, email, print media, radio or television. Consider screen readers, ASL interpreters, alternative text and plain language.\n- ⬜ **Accessibility Statement:** All publicity materials should include an accessibility statement.  Example of an event accessibility statement: \"We are committed to creating an inclusive and accessible environment for all attendees. We strive to provide an event that is welcoming, accommodating and supportive of diverse accessibility needs. To request a disability-related accommodation, please contact (event organizer or ADA liaison) within 3 business days of the event.”\n\n**Tip:** Provide a place for accommodation requests on your flyer to inform people of all abilities they are welcome, and you will accommodate them.\n\n### Have more questions?\n\nView [A Planning Guide for Making Temporary Events Accessible to People With Disabilities](https://adata.org/guide/planning-guide-making-temporary-events-accessible-people-disabilities) from the ADA National Network",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

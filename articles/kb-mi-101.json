@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "bike",
+      "training",
+      "course",
+      "street",
+      "acre",
+      "additional",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/633/Bike-Training-Course"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-101",
+    "spreadsheet_id": "MI-101",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Bike Training Course",
+    "summary": "The City of Arvada offers a Bicycle Training Course located at 5151 Allison Street, designed as a car-free environment for individuals to learn and practice cycling and pedestrian skills. The course, which is open during regular park hours, will undergo redesign in 2025 to enhance its appeal and functionality for users of all ages, with new features and educational signage to be installed by Spring 2026. Additionally, Bicycle Colorado provides \\\"Learn to Ride\\\" classes at the facility from April to October.",
+    "body": "## What is the bike training course?\n\nThe training course is a scaled down, car-free street network for people to learn, practice, and build confidence as a pedestrian or cyclist.\n\nThe City's Bicycle Training Course is located outside of the Jefferson County Head Start School at 51st and Yarrow (5151 Allison Street). This unique course is a half-acre streetscape built to the same specifications as Arvada streets, plus additional obstacles for skills training. The course is available for group educational programs as well as for families to visit on their own, just like the other Arvada parks.\n\n- **Address**: 5151 Allison Street\n- **Hours**: Regular park hours (dawn to dusk) apply\n\n## Bicycle Colorado\n\nIn April through October, Bicycle Colorado offers their \"Learn to Ride\" classes at the Arvada Bicycle Training Center. For all the dates and more information about the classes including how to register, visit the [Bicycle Colorado website](https://www.bicyclecolorado.org/initiatives/bike-school/learn-to-ride/).\n\n## Redesigning the Course\n\nIn 2025, the City redesigned the course to make it a more welcoming space for kids, teens, and adults to practice cycling, rolling, or being a pedestrian.\n\nThe new design focuses on adding color, new elements for learning cyclists and pedestrians, and educational signage to guide users on the course when no formal programming is going on. Portions of the new design will be installed in Spring of 2026.\n\n![Design rendering for the bike training course with lane markings for various road features](/ImageRepository/Document?documentId=7180)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

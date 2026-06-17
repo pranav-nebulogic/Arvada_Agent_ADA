@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "base",
+      "stations",
+      "including",
+      "alternative",
+      "tower",
+      "structures",
+      "small",
+      "cell",
+      "facilities",
+      "right"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-4-2"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-4. ADDITIONAL STANDARDS BY FACILITY TYPE"
+  },
+  "content": {
+    "title": "7-1-4-2. Base stations including alternative tower structures and small cell facilities not in the right-of-way.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-4-2. Base stations including alternative tower structures and small cell facilities not in the right-of-way.",
+        "a": "A.\tGenerally. Antennas, Alternative Tower Structures, Small Cell Facilities not in the Right-of-Way and Related Accessory Equipment installed as a Base Station facility, shall be of a neutral, non-reflective color that is identical to, or closely compatible with, the color of the supporting structure, or use other camouflage/concealment design techniques so as to make the antenna, alternative tower structure, and related facilities as visually unobtrusive as possible. Such facilities shall be architecturally compatible with respect to attachments and colored to match the building or structure to which they are attached.\nB.\tNon-conformity. If placed on a structure or building which is non-conforming due to setbacks or height, the addition of antennas or equipment must not increase the non-conformity.\nC.\tFaçade mounted. Façade mounted WCFs, including the antenna, support structures and screening, shall not protrude out from the building face more than two feet, nor shall it extend above the top of the building or the parapet wall, or, in the case of a pitched roof, above the fascia. Façade mounted WCFs may allowed on rooftop penthouses provided these same criteria apply.\nD.\tRoof Mounted. Roof mounted WCFs shall be approved only where an Applicant demonstrates a façade mounted WCF is inadequate to provide service and evaluated for approval based upon the following criteria:\n  1.\tRoof mounted whip antennas shall extend no more than 12 feet above the parapet of any flat roof or ridge of a sloped roof or penthouse to which they are attached;\n  2.\tRoof mounted panel antennas shall extend no more than seven feet above the parapet of a flat roof or ridge of a sloped roof to which they are mounted\nE.\tAlternative Tower Structures. Alternative Tower Structures (ATS) shall be designed and constructed to look like a building, facility, structure, or other natural feature or man-made structure typically found in the area.\n  1.\tAn ATS shall be compatible with the surrounding architecture, topography, and landscape.\n  2.\tAn ATS shall be the maximum size needed to obtain coverage objectives while maintaining compatibility with the context and character of the surrounding area. Height or size of the proposed ATS should be minimized as much as possible.\nF.\tRelated Accessory Equipment. Related Accessory Equipment shall be located to be as unobtrusive as possible. Equipment such as RRUs/RRHs shall be placed behind the parapet or located near the center of the rooftop such that it will not be visible from the surrounding area. Any equipment that will be visible shall be screened from view using camouflage/concealment techniques. No Related Accessory Equipment shall be permitted on a sloped roof."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

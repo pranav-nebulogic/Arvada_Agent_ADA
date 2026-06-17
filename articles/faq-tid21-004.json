@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-21-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "str_permit",
+    "category": "short_term_rentals",
+    "tags": [
+      "operate",
+      "short",
+      "term",
+      "rental",
+      "permit",
+      "only",
+      "issued",
+      "name",
+      "Short Term Rentals"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=21"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/who-can-operate-a-short-term-rental",
+    "faq_category_name": "Short Term Rentals"
+  },
+  "content": {
+    "title": "Who can operate a short-term rental?",
+    "summary": "A permit may only be issued in the name of one natural person 18 years of age or older who has an ownership interest of 20% or more in the property for which the permit is issued or who is the named beneficiary of a trust holding the property to be permitted.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Who can operate a short-term rental?",
+        "a": "A permit may only be issued in the name of one natural person 18 years of age or older who has an ownership interest of 20% or more in the property for which the permit is issued or who is the named beneficiary of a trust holding the property to be permitted."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

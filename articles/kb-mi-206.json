@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "electronic",
+      "database",
+      "retailer",
+      "held",
+      "harmless",
+      "state",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/329/Electronic-Database-Use-Retailer-Held-Ha"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-206",
+    "spreadsheet_id": "MI-206",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Electronic Database Use Retailer Held Harmless",
+    "summary": "Retailers that collect and remit sales tax may utilize a state-certified electronic database to identify tax jurisdictions and can be held harmless for any tax, penalty, or interest owed due to errors in this database, provided they use the most current information at the time of sale. Retailers must maintain records to demonstrate compliance, but this protection does not apply in cases of fraud or deceptive practices. This summary serves as a general guide and should be used alongside the full Arvada tax code for legal purposes.",
+    "body": "Any retailer that collects and remits sales tax to the finance director as provided in this article may use an electronic database of state addresses that is certified by the state department of revenue pursuant to C.R.S. § 39-26-105.3, to determine the jurisdictions to which tax is owed.\n\nAny retailer that uses the data contained in an electronic database certified by the state department of revenue pursuant to C.R.S. § 39-26-105.3, to determine the jurisdictions to which tax is owed may be granted held harmless for any tax, penalty, or interest owed the city that otherwise would be due solely as a result of an error in the electronic database\n\nPer [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) section 98-108, a retail business must meet the following requirement in order to be granted held harmless for any tax, penalty, and interest owed to the city.\n\n- The retailer must demonstrate that it uses the most current information available in the such database at the time the sale occurred.\n- Each retailer shall keep and preserve such records to demonstrate that it uses the most current information available in the electronic database on the date the sale occurred.\n\nNotwithstanding the above, if the error is collecting and remitting as a result of a deceptive representation, a false representation, or fraud, the provision of this section shall not apply.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

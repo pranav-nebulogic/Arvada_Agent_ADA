@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "low",
+      "rentals",
+      "purpose",
+      "intent",
+      "article",
+      "authorize",
+      "impose"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-76"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-76. - Low rentals.",
+    "summary": "It is the purpose and intent of this article to authorize and impose a duty on the\n               authority to provide safe and sanitary dwelling accommodations at such rentals that\n               persons of low income can afford to live in such dwelling accommodations. To this\n               end, t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-76. - Low rentals.",
+        "a": "It is the purpose and intent of this article to authorize and impose a duty on the\n               authority to provide safe and sanitary dwelling accommodations at such rentals that\n               persons of low income can afford to live in such dwelling accommodations. To this\n               end, the authority from time-to-time shall reduce its rents and other charges for\n               such dwelling accommodations to the extent that it deems such action expedient; but\n               the authority shall not reduce its rents or other charges if such action is in violation\n               of any contract between the authority and an obligee or would result in an insufficiency\n               of revenues from the project to meet the costs of the operation and maintenance thereof,\n               to meet all obligations of the authority as same mature, and to create reasonable\n               reserves for such contingencies as the authority determines.\n(Code 1981, § 14-45; Ord. No. 1248, § 27, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-229."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-76"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

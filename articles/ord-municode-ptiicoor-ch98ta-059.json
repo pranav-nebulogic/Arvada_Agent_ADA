@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "arvada",
+      "plaza",
+      "independence",
+      "center",
+      "cooperation",
+      "agreement",
+      "credit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-109"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-109. - Arvada Plaza and Independence Center Cooperation Agreement Credit.",
+    "summary": "Notwithstanding any other provisions of this chapter, there shall be granted to each\n               person obligated to remit the sales tax on retail sales transactions occurring at\n               retail sales outlets on the property, described in Exhibits A* and B* to the Cooperation\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-109. - Arvada Plaza and Independence Center Cooperation Agreement Credit.",
+        "a": "Notwithstanding any other provisions of this chapter, there shall be granted to each\n               person obligated to remit the sales tax on retail sales transactions occurring at\n               retail sales outlets on the property, described in Exhibits A* and B* to the Cooperation\n               Agreement dated July 15, 2013, by and between the City of Arvada and the Arvada Urban\n               Renewal Authority (the \"agreement\") and incorporated herein by this reference, a tax\n               credit against collection of the tax equal to the amount of the retail sales fee paid\n               to the public improvement company as described in the agreement. The amount of the\n               credit shall not exceed the amount of the sales tax, but in any event not more than\n               three percent on taxable sales. This credit shall terminate when the collection of\n               the retail sales fee terminates. For purposes of this section, the term \"retail sales\n               fee\" shall have the same meaning as the definition of \"PIF\" or \"Public Improvement\n               Fee\" in the agreement, which fee is imposed on retail sales transactions occurring\n               at retail sales outlets on the property. The credit authorized hereby shall be effective\n               only upon the recording of the Public Improvement Company covenants described in the\n               agreement, which, among other matters, shall create an obligation by retailers to\n               collect and remit the retail sales fee to the public improvement company. At the option\n               of the city, the city may function as the public improvement company.\n(\nOrd. No. 4396, § 2, 7-15-2013\n)\n*Note—\nExhibits A and B are not set out herein. Copies can be found in the city offices."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-109"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

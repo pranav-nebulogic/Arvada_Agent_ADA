@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "park",
+      "system",
+      "master",
+      "plan",
+      "parks",
+      "community",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/509/Arvada-Park-System-Master-Plan"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-068",
+    "spreadsheet_id": "MI-068",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Park System Master Plan",
+    "summary": "The City of Arvada's 2016 Parks, Trails and Open Space Master Plan aims to address the needs of the growing community by enhancing the park system through increased connectivity, new parks, and expanded amenities. Public input highlighted themes of community engagement, wellness, and the importance of protecting natural areas, leading to the concept of \\\"Green Spines\\\" to link parks with transit and cultural destinations. The plan was adopted by the Arvada City Council in April 2016.",
+    "body": "![Park Spring](/ImageRepository/Document?documentID=611 \"Park Spring\")\n\n## Imagine Arvada: The Future of Our Parks, Community, Nature and Wellness\n\nThe [City of Arvada's 2016 Parks, Trails and Open Space Master Plan (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68c0b26db9532) directs big-picture decisions and funding priorities to ensure that the City's parks system meets the needs of the growing community, changing demographics, development patterns, and outdoor recreation needs.\n\n## Background and Summary\n\nIn July 2015 as part of the Park System Master Plan process, the City met with key stakeholder groups and invited public input online and in person. Four themes emerged during this phase of gathering information: Community, Parks, Wellness, and Nature. The themes support the Master Plan's big idea of \"Green Spines\" which aims to connect the community to the park system, transit options, and cultural destinations with routes designed for biking, walking, and active (self-propelled) transportation.\n\nOther themes that emerged include:\n\n- Residents enjoy the park system but want more information on park and trail events and amenities.\n- Creating new parks and expanding activity and amenities in parks are highly supported.\n- The public desires system equity and greater connectivity of the local trail system to parks, open spaces, cultural destinations, and regional trails. This connectivity can encourage outdoor recreation, which can also benefit public health and wellness.\n- The Arvada community passionately supports the protection and expansion of natural areas.\n\nThe [2016 Parks, Trails and Open Space Master Plan (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68c0b26db9532) was adopted by the Arvada City Council in April 2016.\n\nHave questions? Please contact us via [Ask Arvada](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

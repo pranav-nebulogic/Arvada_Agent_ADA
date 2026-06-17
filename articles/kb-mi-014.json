@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "simms",
+      "intersection",
+      "acres",
+      "improvements",
+      "acquisition",
+      "addition",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1085/64th-Simms-Intersection"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-014",
+    "spreadsheet_id": "MI-014",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "64th & Simms Intersection",
+    "summary": "The City of Arvada, in collaboration with CDOT and FHWA, plans to improve the intersection at West 64th Avenue and Simms Street, which will involve replacing traffic signals, enhancing curb ramps and sidewalks, and modifying turn islands. The project will have minor impacts on the nearby Ralston Park Addition, including the acquisition of a small amount of land and temporary trail closures, but is expected to have a de minimis impact on the park's amenities. Construction is anticipated to start in Fall 2026, with further details to be provided upon project approval.",
+    "body": "The City of Arvada, in partnership with the Colorado Department of Transportation (CDOT) and Federal Highway Administration (FHWA), is proposing intersection improvements at West 64th Avenue and Simms Street. Work would include:\n\n- traffic signal replacement\n- curb ramp and sidewalk improvements\n- turn island modification or removal\n\nThe project would have **minor impacts on the Ralston Park Addition**as follows:\n\n- acquisition of approximately 0.045 acres of right-of-way and 0.010 acres of temporary easement\n- shifting approximately 43 feet of existing fence away from the intersection by approximately 7 feet\n- temporary closure of the off-street trail access point during construction (approximately 3 weeks)\n\nAll temporarily disturbed areas would be restored upon project completion. None of the Ralston Park Addition amenities will be directly impacted. Indirect visual and noise impacts caused by construction will be minimized to the extent practicable.\n\nThe impact area, as displayed in the map, refers to the northwest corner of Ralston Park Addition or the southeast corner of the 64th and Simms intersection.\n\n![southeast corner of the intersection of Simms and 64th Avenue circled as impact area](/ImageRepository/Document?documentId=4187)\n\nAs a publicly owned recreational area, the Ralston Park Addition is protected by Section 4(f) of the Department of Transportation Act. It is anticipated that FHWA will determine that the project will have a de minimis impact on Ralston Park Addition. A de minimis impact is defined as \"One that, after taking into account any measure to minimize harm, results in a determination that the project would not adversely affect the activities, features, or attributes qualifying a park, recreation area, or refuge for protection under Section 4(f).\"\n\nPursuant to Section 4(f) of the Department of Transportation Act, the City provided opportunity for public review and comment on the project as it relates to Ralston Park Addition. Comments were accepted in June 2024. Please [submit questions to the project team via Ask Arvada](/898).\n\n## Project Details\n\nConstruction is anticipated to begin as soon as Fall 2026. Upon project approval, this page will be updated with project details, including an estimated project timeline and anticipated construction impacts.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

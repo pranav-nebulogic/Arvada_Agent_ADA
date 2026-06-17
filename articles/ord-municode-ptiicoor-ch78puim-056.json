@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "materials",
+      "services",
+      "all",
+      "construction",
+      "contracts",
+      "under",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-57"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-57. - Materials and services.",
+    "summary": "All construction contracts under this article shall provide, among other things, that\n               the person entering into the contract with the city will pay for all materials furnished\n               and for services rendered for the performance of the contract and that any person\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-57. - Materials and services.",
+        "a": "All construction contracts under this article shall provide, among other things, that\n               the person entering into the contract with the city will pay for all materials furnished\n               and for services rendered for the performance of the contract and that any person\n               furnishing the materials or rendering the services may maintain an action to recover\n               for the same against the obligor in the undertaking as though the person were named\n               therein. Final settlement shall be effected substantially as required by C.R.S. §\n               38-26-107, and all laws thereunto enabling.\n(Code 1981, § 27-58; Ord. No. 551, § 19(I), 5-14-1964)\nState Law reference—\nSupplier may file statement, notice, withholding funds, C.R.S. § 38-26-107."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-57"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

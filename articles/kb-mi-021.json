@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "commission",
+      "community",
+      "events",
+      "festivals",
+      "family",
+      "activities",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1200/About-Us"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-021",
+    "spreadsheet_id": "MI-021",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "About Us",
+    "summary": "The Arvada Festivals Commission, established in 2000, consists of 25 community volunteers dedicated to planning and coordinating events that celebrate the Arvada community. The Commission hosts six annual festivals featuring family-oriented activities, cultural performances, and food, fostering community engagement and participation.",
+    "body": "## Celebrating with Family Fun and Activities\n\nThe Arvada Festivals Commission was established by the Arvada City Council in 2000 with a membership of twenty five community volunteers.\n\nThe mission of the Arvada Festivals Commission is to create, plan, coordinate and present events that celebrate Arvada as a community. Festivals Commission events are diverse, family-oriented and multi-generational. Many of these events are partnerships with community-based, non-profit organizations and leverage the Commission’s efforts to produce community events.\n\nThe City of Arvada’s Festivals Commission produces six festivals each year! Fun and free activities are the hallmarks of these events. Participants enjoy cultural performances, fly kites, eat some great BBQ and drink different ales, pales, and more. These events sow the seeds of fun and reap the bounty of exuberant participation with all who join in the celebrations!\n\n**Arvada Festivals Commission**  \n8101 Ralston Road, Arvada, CO 80002  \n(720) 898-7403\n\n[Contact Us](/1268/)\n\n1. ![Group of people sitting around a big table having a meeting](/ImageRepository/Document?documentID=5073 \"Group of people sitting around a big table having a meeting\")\n2. ![Ghostbusters ambulance with people standing in front of it](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 \"Ghostbusters ambulance with people standing in front of it\")\n3. ![Ladies in a golf cart](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 \"Ladies in a golf cart\")\n\n1. [1\n   Group of people sitting around a big table having a meeting](#targetImage)\n2. [2\n   Ghostbusters ambulance with people standing in front of it](#targetImage)\n3. [3\n   Ladies in a golf cart](#targetImage)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

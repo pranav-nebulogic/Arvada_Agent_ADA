@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "extended",
+      "period",
+      "any",
+      "member",
+      "attains",
+      "age",
+      "years"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-127"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-127. - Extended period.",
+    "summary": "Any member who attains the age of 55 years and who is otherwise eligible for retirement\n               may be continued in service for periods not to extend beyond his attainment of age\n               60 years; provided, such continuance in service is:\n(1)\nRequested by him in writing; and\n(2)\nRecomm…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-127. - Extended period.",
+        "a": "Any member who attains the age of 55 years and who is otherwise eligible for retirement\n               may be continued in service for periods not to extend beyond his attainment of age\n               60 years; provided, such continuance in service is:\n(1)\nRequested by him in writing; and\n(2)\nRecommended by the chief of police and approved by the city manager. Upon his retirement\n                  he shall be entitled to a pension provided for in\nsection 86-151\n. In no event shall a member be retained in service beyond the age of 60 years.\n(Code 1960, § 19-8; Code 1981, § 26-62)\nState Law reference—\nRetirement pension under statutory system, C.R.S. § 31-30-610."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-127"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

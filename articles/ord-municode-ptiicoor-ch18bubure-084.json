@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "general",
+      "hereby",
+      "amended",
+      "read",
+      "follows",
+      "following"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-212"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-212. - I.R.C. Section AF103.1, General.",
+    "summary": "Section AF103.1 General,\nis hereby amended to read as follows:\n\"\nAF103.1. General.\nThe following construction techniques are intended to resist radon entry and prepare\n                  new buildings containing dwelling units for post-construction radon mitigation, if\n                  necessary (se…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-212. - I.R.C. Section AF103.1, General.",
+        "a": "Section AF103.1 General,\nis hereby amended to read as follows:\n\"\nAF103.1. General.\nThe following construction techniques are intended to resist radon entry and prepare\n                  new buildings containing dwelling units for post-construction radon mitigation, if\n                  necessary (see Figure AF103). These techniques are required throughout the City of\n                  Arvada.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-212"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

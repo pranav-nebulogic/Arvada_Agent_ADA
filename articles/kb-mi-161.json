@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "community",
+      "response",
+      "impact",
+      "team",
+      "crit",
+      "mission",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/202/Community-Response-Impact-Team"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-161",
+    "spreadsheet_id": "MI-161",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Community Response Impact Team",
+    "summary": "The Community Response Impact Team (CRIT) in Arvada consists of police officers dedicated to forming partnerships with local residents, apartment managers, and business owners to address crime and improve community quality of life. Their mission focuses on resolving crime-related issues in high-crime areas through innovative law enforcement strategies, and they also offer free training classes to the community. For more information on classes, residents can visit the city's crime prevention webpage or contact the CRIT team directly.",
+    "body": "## About Us\n\nThe Community Response Impact Team (CRIT) consists of five full-service police officers and a sergeant assigned to specific communities of interest to establish problem-solving partnerships with residents, apartment managers and business owners.\n\n## Mission\n\nThe mission of the CRIT is to address criminal activity and statistical trends that have a negative impact on the quality of life for citizens of Arvada. The team concentrates on high crime areas and problem properties that present a drain on patrol and the criminal investigation bureau.\n\n- Identify and resolve crime-related issues to improve the quality of life in those neighborhoods.\n- Apply creative and advanced technical resources to provide support and concentrated law enforcement efforts toward achieving long-term resolution of high crime areas and problem properties.\n\n## Classes Offered\n\nThe CRIT provides free training to the community throughout the year. For more information or to register classes, visit our [crime prevention class webpage](https://www.arvadaco.gov/530/Classes) or call the CRIT team at 720-898-6881.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

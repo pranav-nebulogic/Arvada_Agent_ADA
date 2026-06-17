@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "false",
+      "reporting",
+      "campaign",
+      "violations",
+      "shall",
+      "violation",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-11"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-11. - False reporting of campaign violations.",
+    "summary": "It shall be a violation of this section for a person to make or cause to be made a\n               written complaint to the city clerk when such person knows that the facts and circumstances\n               set forth in such complaint did not occur. In the event it is determined that a written\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-11. - False reporting of campaign violations.",
+        "a": "It shall be a violation of this section for a person to make or cause to be made a\n               written complaint to the city clerk when such person knows that the facts and circumstances\n               set forth in such complaint did not occur. In the event it is determined that a written\n               complaint filed pursuant to this section contains false statements, an investigation\n               shall be conducted and the results of such investigation shall be made to the city\n               clerk and city attorney. The city clerk may issue a notice of violation and an order\n               to show cause. The procedures set forth in chapter 2, division 3 of this City Code\n               shall be followed including the appointment of a hearing officer by the city manager.\n               In no instance shall such administrative hearing be set more than 60 calendar days\n               from the date of the appointment of the hearing officer. The decision of the hearing\n               officer shall be final and subject to review by the Jefferson County District Court\n               pursuant to Rule 106(a)(4) of the Colorado Rules of Civil Procedure.\n(Code 1981, § 11-11; Ord. No. 3511, § 2, 2-1-1999;\nOrd. No. 4400, § 6, 8-19-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-11"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

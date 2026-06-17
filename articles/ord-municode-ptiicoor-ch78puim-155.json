@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "contractor",
+      "licensing",
+      "footnotes",
+      "editor",
+      "note",
+      "ord",
+      "adopted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 787-181"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — ARTICLE II. - CONTRACTOR LICENSING",
+    "summary": "Footnotes:\n--- (\n2\n) ---\nEditor's note—\nOrd. No.\n4749\n, § 1, adopted Jan. 25, 2021, repealed the former Art. II., §§ 787-181—78-191, and\n               enacted a new Art. II as set out herein. The former Art. II pertained to similar subject\n               matter and derived from 1960 Code, §§ 7-49, …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE II. - CONTRACTOR LICENSING",
+        "a": "Footnotes:\n--- (\n2\n) ---\nEditor's note—\nOrd. No.\n4749\n, § 1, adopted Jan. 25, 2021, repealed the former Art. II., §§ 787-181—78-191, and\n               enacted a new Art. II as set out herein. The former Art. II pertained to similar subject\n               matter and derived from 1960 Code, §§ 7-49, 7-50—7-56; 1981 Code, §§ 27-167—27-176;\n               Ord. No. 2089, §§ 1, 2, adopted Sept. 4, 1984; Ord. No. 2381, §§ 1, 2, adopted Jan.\n               5, 1987; Ord. No. 2444, §§ 1, 2, adopted Sept. 21, 1987; Ord. No. 2968, § 1, adopted\n               April 5, 1993; Ord. No. 3113, § 1, adopted Sept 19, 1994; Ord. No. 3239, §§ 1, 2,\n               adopted Dec. 18, 1995; Ord. No. 3319, §§ 1, 2, adopted Dec. 18, 1996; Ord. No. 3500,\n               § 1, adopted Jan. 4, 1999; Ord. No. 3725, §§ 1—3, adopted Oct. 22, 2001; Ord. No.\n               4047. § 2, adopted Jan. 8, 2007 ; Ord. No. 4148, § 1, adopted Oct. 19, 2009."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 787-181"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "drive",
+      "through",
+      "facilities",
+      "generally",
+      "subject",
+      "standards",
+      "section",
+      "design",
+      "location",
+      "uses"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-6-2"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-6. SUPPLEMENT STANDARDS FOR NONRESIDENTIAL AND MULTIFAMILY LAND USE"
+  },
+  "content": {
+    "title": "5-1-6-2. Drive-through facilities.",
+    "summary": "A.\tGenerally. Drive-through facilities are subject to the standards of this Section.\nB.\tDesign Standards.\n  1.\tLocation. Uses with drive-through facilities shall be located on properties with frontage on an arterial or collector street.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-6-2. Drive-through facilities.",
+        "a": "A.\tGenerally. Drive-through facilities are subject to the standards of this Section.\nB.\tDesign Standards.\n  1.\tLocation. Uses with drive-through facilities shall be located on properties with frontage on an arterial or collector street. Drive-through facilities are prohibited in the OT zoning district.\n  2.\tSpeakers.\n    a.\tSpeakers shall not be oriented towards an adjacent residential zone district unless an intervening building exists. Where an intervening building does not exist, the following shall also apply to minimize the speaker noise impact on an adjacent property:\n      i.\tIf the speaker is located within 15 feet or more of the property line, a solid wall with a minimum height of six feet shall be installed on the property line.\n  3.\tCG and MX Zoning Districts. In CG and MX zoning districts, a drive-through facility shall be subject to the following:\n    a.\tIn CG and MX-S zoning district, a drive-through lane may be located in the area between a building and a public street. The drive-through lane shall be screened from the public street by an Option B bufferyard, per Division 4-6-5-3, Bufferyard Options, or a low decorative wall to a minimum height of 48 inches. If a low screen wall is installed, the construction material shall be aesthetically consistent with the first floor exterior color and materials used on the principal building or provide a comparable level of quality.\n    b.\tIn the MX-U zoning district, a drive-through lane shall not be located in the area between a building and a public street. The drive-through windows shall not face a public street.\n    c.\tIn the MX-T zoning district, a drive-through lane shall be designed so that it is enclosed within the envelope of the building, the drive through windows are not visible from adjacent public streets and the drive-through lane shall not be located in the area between a building and a public street.\nC.\tStacking. Drive-through lanes shall meet the applicable requirements of Section 4-5-3-6, Vehicle Stacking. Additional stacking may be required if the Director finds that, based on pertinent data, the drive-through configuration would likely otherwise create congestion on adjacent streets due to queuing at the drive-in or drive-through stations.\n(Ord. No. 4793, § 4, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-6-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

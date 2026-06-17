@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "estimation",
+      "population",
+      "residential",
+      "development",
+      "generally",
+      "projected",
+      "dwelling",
+      "unit",
+      "housing",
+      "type"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-3-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-3. LAND DEDICATION; FEES-IN-LIEU; AND DEVELOPMENT FEES"
+  },
+  "content": {
+    "title": "8-4-3-2. Estimation of population of residential development.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-3-2. Estimation of population of residential development.",
+        "a": "A.\tGenerally. The projected population per dwelling unit by housing type that is set out in Table 8-4-3-2, Projected Population Per Dwelling Unit by Housing Type shall be used in all calculations involving population that are set out in this Division.\nB.\tChange in Status of Housing for Older Persons; Recalculation. In the event that a development that is proposed as \"housing for older persons\" fails to qualify for such status under the applicable provisions of the Federal Fair Housing Act or pertinent regulations, or after having achieved such status thereafter relinquishes or otherwise fails to maintain such status, the projected population per dwelling unit shall be adjusted as provided in Table 8-4-3-2, Projected Population Per Dwelling Unit by Housing Type, based on the type of dwelling units that the development then includes. At the time the \"housing for older persons\" status is lost, additional land dedication or cash-in-lieu payment shall thereafter be required as provided in this Division, based upon the net new projected population."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "initiation",
+      "prosecution",
+      "peace",
+      "officer",
+      "finds",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-116"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-116. - Initiation of prosecution.",
+    "summary": "(a)\nInitiation of prosecution.\nWhen a peace officer finds any person has acted in violation of this article, he\n               or she may issue a summons and complaint to that person, firm, or corporation by means\n               set forth in\nchapter 58\nof this Code.\n(b)\nUnattended or abandoned locat…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-116. - Initiation of prosecution.",
+        "a": "(a)\nInitiation of prosecution.\nWhen a peace officer finds any person has acted in violation of this article, he\n               or she may issue a summons and complaint to that person, firm, or corporation by means\n               set forth in\nchapter 58\nof this Code.\n(b)\nUnattended or abandoned locations.\nFor unattended or abandoned locations, a copy of a summons and complaint shall be\n               posted on the premises in a conspicuous place at or near the entrance to such premises,\n               and the summons and complaint shall be mailed by certified mail, with return receipt\n               requested or a certificate of mailing, to the last known address of the owner, occupant,\n               or both.\n(Ord. No.\n4739\n, § 4, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-116"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

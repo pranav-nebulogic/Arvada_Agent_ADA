@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "sales",
+      "use",
+      "tax",
+      "obligations",
+      "license",
+      "permit",
+      "nothing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH53MENDIMA"
+    ],
+    "scraped_at": "2026-06-10T12:02:40.728035+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 53-71"
+    ],
+    "chapter": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA"
+  },
+  "content": {
+    "title": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA — Sec. 53-71. - Sales and use tax obligations; license and permit obligations.",
+    "summary": "(a)\nNothing herein shall exempt or relieve any person or entity who engages in any act,\n               action, transaction, or event otherwise constituting a taxable event or creating a\n               tax liability to the city from the collection and/or remittance of such taxes in accordance\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 53-71. - Sales and use tax obligations; license and permit obligations.",
+        "a": "(a)\nNothing herein shall exempt or relieve any person or entity who engages in any act,\n               action, transaction, or event otherwise constituting a taxable event or creating a\n               tax liability to the city from the collection and/or remittance of such taxes in accordance\n               with article III of\nchapter 98\nof this Code. The violation of any such requirement or obligation, or any other applicable\n               provision of\nchapter 98\n, shall be punishable in accordance with the provisions of such chapter.\n(b)\nNothing herein shall exempt or relieve any person or entity from any requirement to\n               otherwise obtain a business license, permit, or other approval prior to engaging in\n               any act, action, transaction, or event requiring such business license, permit, or\n               other approval including, but not limited to, a land use approval, business license,\n               or building, mechanical, plumbing, electrical, or other type of permit. The violation\n               of any such requirement or obligation shall be punishable in accordance with such\n               provision of this Code or other law establishing such requirement or obligation.\n(\nOrd. No. 4393, § 7(Att. A), 7-1-2013\n;\nOrd. No. 4548, § 1, 5-2-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 53-71"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

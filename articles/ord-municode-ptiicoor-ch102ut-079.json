@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "unmetered",
+      "standby",
+      "fire",
+      "protection",
+      "service",
+      "charge",
+      "bimonthly"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-178"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-178. - Unmetered standby fire protection service charge.",
+    "summary": "Bimonthly charges for unmetered standby fire protection service is as follows:\nIn City\nOut of City\na. Fire hydrants, each\n$9.31\n$13.97\nb. Automatic sprinkler system:\n⅝″—¾″ service line\n$9.31\n$13.97\n1″ service line\n$9.31\n$13.97\n1¼″ service line\n$18.64\n$27.94\n1½″ service line\n$18.64\n$27.94\n2″ service …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-178. - Unmetered standby fire protection service charge.",
+        "a": "Bimonthly charges for unmetered standby fire protection service is as follows:\nIn City\nOut of City\na. Fire hydrants, each\n$9.31\n$13.97\nb. Automatic sprinkler system:\n⅝″—¾″ service line\n$9.31\n$13.97\n1″ service line\n$9.31\n$13.97\n1¼″ service line\n$18.64\n$27.94\n1½″ service line\n$18.64\n$27.94\n2″ service line\n$27.91\n$41.87\n3″ service line\n$37.19\n$55.78\n4″ service line\n$55.85\n$83.78\n6″ service line\n$74.45\n$111.69\n8″ service line\n$88.09\n$132.16\n(Code 1981, § 33-93; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 3403, § 25, 10-20-1997;\n               Ord. No. 3489, § 6, 10-26-1998; Ord. No.\n4784\n, § 10, 11-15-2021;\nOrd. No. 4817\n, § 9, 10-17-2022, eff. 1-1-2023;\nOrd. No. 4858\n, § 9, 10-16-2023;\nOrd. No. 4879\n, § 9, 10-21-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-178"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

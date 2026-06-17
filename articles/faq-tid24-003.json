@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-24-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "building_permit",
+    "category": "building_permits",
+    "tags": [
+      "review",
+      "times",
+      "permits",
+      "require",
+      "plan",
+      "roofing",
+      "residential",
+      "plumbing",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=24"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-are-the-review-times",
+    "faq_category_name": "Building Permits"
+  },
+  "content": {
+    "title": "What are the review times?",
+    "summary": "Permits that do not require a plan review (Roofing, Residential Plumbing, Electrical and Mechanical) are typically issued within one business day of a completed application submission. Major projects like New Single Family and Commercial require a plan review and can take 4 to 6 weeks to complete th…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What are the review times?",
+        "a": "Permits that do not require a plan review (Roofing, Residential Plumbing, Electrical and Mechanical) are typically issued within one business day of a completed application submission. Major projects like New Single Family and Commercial require a plan review and can take 4 to 6 weeks to complete the first plan review."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

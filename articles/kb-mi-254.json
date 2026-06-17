@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "help",
+      "address",
+      "homelessness",
+      "efforts",
+      "community",
+      "below",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1485/Help-address-homelessness"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-254",
+    "spreadsheet_id": "MI-254",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Help address homelessness",
+    "summary": "The City is actively seeking community involvement to address homelessness through donations and support. Contributions can be made to a fund for essential services, or individuals can purchase items from an Amazon Wish List for those in need. Residents are encouraged to stay informed about the City’s efforts and opportunities for engagement by signing up for the Homelessness Response email list.",
+    "body": "Homelessness is a community problem that will take a community solution. Your time and efforts, no matter how large or small, could make the difference needed in one person's life. Below is a list of ways you can help support the effort to address homelessness.\n\n## Donate to the City's efforts\n\nThe City has a fund through the Colorado Gives Foundation where you can give directly to our efforts to address homelessness. Your donations will help us provide:\n\n- Transportation (RTD voucher, bus tickets)\n- Move-in kits (mattresses, cleaning items, toilet paper, soap, microwave, etc.)\n- Security deposits for housing\n- Fees for vital documents\n- Emergency motel vouchers\n- Basic needs (socks, gloves, snacks)\n\n[Visit our Colorado Gives page to help out](https://www.coloradogives.org/story/Arvadahomelessnavigation).\n\n## Purchase needed items\n\nThe City has an Amazon Wish List where you can purchase needed cold weather and sheltering items for our neighbors experiencing homelessness. [View the list on Amazon](https://www.amazon.com/hz/wishlist/ls/LBK0XZ9TTFTB?ref_=list_d_wl_lfu_nav_2).\n\n## Stay informed\n\nStay up to date with progress on the City’s response to homelessness, including opportunities to attend community meetings, provide feedback, and volunteer, by signing up for the [Homelessness Response email list](https://www.arvadaco.gov/list.aspx?ListID=282).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "substances",
+      "releasing",
+      "toxic",
+      "vapors",
+      "footnotes",
+      "state",
+      "law"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 18-18"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — ARTICLE IV. - SUBSTANCES RELEASING TOXIC VAPORS",
+    "summary": "Footnotes:\n--- (\n3\n) ---\nState Law reference—\nAbusing toxic vapors, C.R.S. § 18-18-412.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE IV. - SUBSTANCES RELEASING TOXIC VAPORS",
+        "a": "Footnotes:\n--- (\n3\n) ---\nState Law reference—\nAbusing toxic vapors, C.R.S. § 18-18-412."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 18-18"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

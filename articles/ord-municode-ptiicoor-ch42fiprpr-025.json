@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "pump",
+      "riser",
+      "room",
+      "size",
+      "hereby",
+      "amended"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-70"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-70. - I.F.C. Section 901.4.6, Pump and riser room size.",
+    "summary": "Section 901.4.6. Pump and riser room size,\nis hereby amended to read as follows:\n\"Sec. 901.4.6. Pump and riser room size.\nWhere provided, fire pump rooms and\nautomatic sprinkler system\nriser rooms shall be designed with adequate space for all equipment necessary for\n                  the installatio…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-70. - I.F.C. Section 901.4.6, Pump and riser room size.",
+        "a": "Section 901.4.6. Pump and riser room size,\nis hereby amended to read as follows:\n\"Sec. 901.4.6. Pump and riser room size.\nWhere provided, fire pump rooms and\nautomatic sprinkler system\nriser rooms shall be designed with adequate space for all equipment necessary for\n                  the installation, as defined by the manufacturer, with sufficient working space around\n                  the stationary equipment. Clearances around equipment to elements of permanent construction,\n                  including other installed equipment and appliances, shall be sufficient to allow inspection,\n                  service, repair or replacement without removing such elements of permanent construction\n                  or disabling the function of a required fire-resistance-rated assembly. Fire pump\n                  and\nautomatic sprinkler system\nriser rooms shall be provided with doors and unobstructed passageways large enough\n                  to allow removal of the largest piece of equipment. The room shall provide a minimum\n                  of 36 square feet working space around a fire pump or\nautomatic sprinkler system\nriser.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-70"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

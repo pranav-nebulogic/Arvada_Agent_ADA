@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "required",
+      "maintenance",
+      "warranties",
+      "public",
+      "improvements",
+      "within",
+      "rights",
+      "located",
+      "existing",
+      "proposed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-4-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-4. PUBLIC IMPROVEMENTS, WARRANTIES, AND UTILITIES"
+  },
+  "content": {
+    "title": "8-4-4-4. Required maintenance and warranties.",
+    "summary": "A.\tPublic Improvements within Rights-of-Way.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-4-4. Required maintenance and warranties.",
+        "a": "A.\tPublic Improvements within Rights-of-Way. Public improvements that are located within existing or proposed rights-of-way are subject to the maintenance and warranty requirements of Chapter 78, Article V, Arvada City Code.\nB.\tCity acceptance of improvements/warranty.\n  1.\tAll improvements constructed by the owner/developer in public rights-of-way, easements, streets, or alleys shall become the property of the City immediately upon acceptance of said improvements by the City, and the owner/developer warrants said improvements for two years from the date of acceptance by the City.\nC.\tLandscaping and Fencing.\n  1.\tMaintenance Responsibility. The owner/developer, or heirs, successors, assigns or transferees, including any property owners association created by the owner/developer, shall maintain into perpetuity all installed landscaping and fencing that is required by a PUD final development plan, or site plan. This obligation to maintain shall arise regardless whether the landscaping and fencing, as actually installed, fails to specifically conform to the requirements of the final approved plan and regardless whether the owner/developer or the City installs the landscaping and fencing.\n  2.\tMinimum Maintenance Requirements.\n    a.\tAll plants shall be maintained continually in a healthy condition in accordance with generally accepted professional horticultural standards and practices. Plants that die or are unhealthy shall be replaced according to the approved landscape plan.\n    b.\tRegular pruning and trimming shall be performed to maintain health and an attractive appearance and to permit the plants to achieve their intended form and height.\n    c.\tLandscape areas shall remain free of weeds, litter, junk, rubbish and other nuisances and obstructions."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-4-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

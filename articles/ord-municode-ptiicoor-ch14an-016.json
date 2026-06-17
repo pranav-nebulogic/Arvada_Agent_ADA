@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "city",
+      "council",
+      "hereby",
+      "finds",
+      "declares"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-41"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-41. - Legislative declaration.",
+    "summary": "The city council hereby finds and declares as a matter of legislative determination\n               that a dog licensing program will promote responsible pet ownership and animal welfare.\n               It is the intent of city council, and city council finds it necessary to exercise\n               t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-41. - Legislative declaration.",
+        "a": "The city council hereby finds and declares as a matter of legislative determination\n               that a dog licensing program will promote responsible pet ownership and animal welfare.\n               It is the intent of city council, and city council finds it necessary to exercise\n               to the fullest extent possible its authority to license dogs and identify dogs and\n               cats to preserve and protect the public health, safety, and welfare.\n(\nOrd. No. 4060, § 2, 3-19-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-41"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

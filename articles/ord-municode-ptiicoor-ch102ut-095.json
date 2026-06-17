@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "user",
+      "charges",
+      "each",
+      "connected",
+      "property",
+      "owner",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-206"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-206. - User charges.",
+    "summary": "Each connected property owner or user of the city sewer system is required to pay\n               to the city a user charge based upon the following rate schedule according to the\n               classified strength of sewage:\n(1)\nNormal strength charges:\nBi-monthly usage (gallons)\nRate\na. Service cha…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-206. - User charges.",
+        "a": "Each connected property owner or user of the city sewer system is required to pay\n               to the city a user charge based upon the following rate schedule according to the\n               classified strength of sewage:\n(1)\nNormal strength charges:\nBi-monthly usage (gallons)\nRate\na. Service charge, regardless of usage\n$10.44\nb. All usage, per 1,000 gallons\n$7.46\n(2)\nPlus, extra strength charges as follows:\nPer\nPound\na. BOD in excess of 300 mg/l\n$0.76\nb. SS in excess of 330 mg/l\n$0.82\nc. TKN in excess of 35 mg/l\n$1.59\n(Code 1981, § 33-110; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, §§ 35, 36, 10-16-1989;\n               Ord. No. 2763, §§ 19, 20, 11-5-1990; Ord. No. 2855, §§ 17, 18, 10-21-1991; Ord. No.\n               2931, § 24, 10-19-1992; Ord. No. 3023, § 10, 11-15-1993; Ord. No. 3127, § 23, 10-24-1994;\n               Ord. No. 3223, § 22, 10-23-1995; Ord. No. 3297, § 15, 10-21-1996; Ord. No. 3403, §\n               29, 10-20-1997; Ord. No. 3489, § 9, 10-26-1998; Ord. No. 3560, § 19, 10-11-1999; Ord.\n               No. 3650, § 17, 10-23-2000; Ord. No. 3722, § 17, 10-8-2001; Ord. No. 3773, § 15, 10-21-2002;\n               Ord. No. 3839, § 15, 10-13-2003; Ord. No. 3920, § 15, 11-8-2004;\nOrd. No. 4027, § 15, 10-16-2006\n; Ord. No. 4099, § 15, 11-19-2007, eff. 1-1-2008;\nOrd. No. 4140, § 1, 11-17-2008, eff. 1-1-2009\n;\nOrd. No. 4185, § 3, 10-19-2009, eff. 1-1-2010\n;\nOrd. No. 4234, § 1, 10-25-2010, eff. 1-1-2011\n;\nOrd. No. 4306, § 1, 10-24-2011, eff. 1-1-2012\n;\nOrd. No. 4360, § 1, 10-22-2012, eff. 1-1-2013\n;\nOrd. No. 4410, § 1, 10-21-13, eff. 1-1-14\n;\nOrd. No. 4463, § 1, 10-20-2014, eff. 1-1-2015\n;\nOrd. No. 4522, § 1, 10-19-2015, eff. 1-1-2016\n;\nOrd. No. 4570, § 1, 10-17-2016\n;\nOrd. No. 4656\n, § 1, eff. 1-1-2019; Ord. No.\n4710\n, § 1, 10-21-2019; Ord. No.\n4747\n, § 1, 11-2-2020; Ord. No.\n4785\n, § 1, 11-15-2021;\nOrd. No. 4818\n, § 1, 10-17-2022;\nOrd. No. 4859\n, § 1, 10-16-2023;\nOrd. No. 4880\n, § 1, 10-21-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-206"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

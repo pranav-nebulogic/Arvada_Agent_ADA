@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "purchasing",
+      "business",
+      "information",
+      "purpose",
+      "vendors",
+      "working",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/191/Purchasing"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-438",
+    "spreadsheet_id": "MI-438",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Purchasing",
+    "summary": "The City of Arvada's Purchasing program aims to provide high-quality customer service through effective administration of formal solicitations and sound business practices. Vendors can participate in the bidding process by registering with the BidNet Direct E-Purchasing System, as the city does not maintain its own vendor registration. The program emphasizes ethical practices, performance management, and handles surplus property through a central store, with periodic auctions to benefit the city's General Fund.",
+    "body": "## Purpose\n\nThe Purpose of the City of Arvada Purchasing program is to provide the highest quality customer service in administering formal solicitations, researching sources, solving challenges, ensuring sound business controls and providing the best value for our customers. Learn about [Working with the City - Information for Vendors](https://www.arvadaco.gov/937/Working-with-the-City---Information-for-).\n\n## Bidding Process\n\nThe City of Arvada does not register vendors for potential business in our system at this time. The City posts formal solicitations on the [BidNet Direct E-Purchasing System](https://www.bidnetdirect.com/). You may register as a vendor with Bidnet. Related information can be found on our Bidding Information page.\n\n## Ethical Practices\n\nThe City of Arvada is committed to exercising stewardship in its use and development of all resources in the most economical, efficient, and effective way. Ethics refers to established standards of right and wrong that prescribe what people ought to do, in relation to duties, principles, specific virtues, or benefits to society. The City of Arvada is a member of the National Institute of Governmental Purchasing (NIGP) and abides by that organization's Code of Ethics, which can be reviewed on the [NIGP website](http://www.nigp.org/home/about-nigp/code-of-ethics).\n\n## Performance Measures\n\nThe City of Arvada has incorporated Performance Management into its organizational culture. When vendors submit offers to the City in response to solicitations for services, they are asked to identify methods and goals by which they will monitor and report their performance while providing services to the City.\n\n## Shipments to the City of Arvada\n\nThe Purchasing Program operates a Central Stores and Receiving function located at:\n\n7800 W 62nd Avenue  \nArvada CO 80004  \nPhone: 720-898-7095\n\nMerchandise intended for City Hall and the City Hall Annex, and related staff, should be delivered to the above location.\n\nExceptions might include next-day and air / priority delivery, desk-top office supplies, and items intended for installation at the City Hall complex. These items may be addressed to the specific recipient's work location address.\n\nCentral Stores hours of operation are:  \nMonday through Friday 7:30 am to 2 pm.\n\n## Surplus\n\nThe City of Arvada utilizes the Central Store, run by Jim McLaughlin, to handle all of our surplus property. Periodically, surplus property is sent to Roller Auction and those items are auctioned off with a portion of those proceeds going back into the City's General Fund. For further information, please visit [Roller Auction](https://www.rollerauction.com).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

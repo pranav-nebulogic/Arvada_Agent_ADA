@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "lighting",
+      "curfew",
+      "generally",
+      "reduced",
+      "turned",
+      "provided",
+      "article",
+      "minimum",
+      "reduction",
+      "hour"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-8-2-6"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-8. EXTERIOR LIGHTING",
+    "division": "DIVISION 4-8-2. GENERAL LIGHTING STANDARDS"
+  },
+  "content": {
+    "title": "4-8-2-6. Lighting curfew.",
+    "summary": "A.\tGenerally. Lighting shall be reduced or turned off as provided in this Article.\nB.\tMinimum Reduction. One hour after the close of business, all illumination shall be reduced by at least 70 percent, and remain in that state until at least one hour prior to open of business.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-8-2-6. Lighting curfew.",
+        "a": "A.\tGenerally. Lighting shall be reduced or turned off as provided in this Article.\nB.\tMinimum Reduction. One hour after the close of business, all illumination shall be reduced by at least 70 percent, and remain in that state until at least one hour prior to open of business. This reduction in illumination may be achieved by dimming the lamps within a light fixture (luminaire), and/or turning off a luminaire or a portion of a multi-luminaire assemblage.\nC.\tExemptions and Special Conditions.\n  1.\tResidential uses (including residential units in mixed-use buildings).\n  2.\tLighting that is subject to Section 4-8-2-5, Outdoor Recreation Lighting Standards, shall be reduced by 50 percent immediately after the end of play and shall be fully turned off:\n    a.\tOne hour after the end of play; and\n    b.\tWhen the facility is not in use.\n  3.\tLighting in excess of the minimum reduction may be used for security lighting provided that it is equipped with an adjustable distance/ranged setting and an amicable detector set to minimize nuisance trips from normal passing traffic and is to be timed to turn off after not more than 15 minutes after motion activation.\n(Ord. No. 4793, § 3, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-8-2-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

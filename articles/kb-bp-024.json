@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "proof",
+      "insurance",
+      "charges",
+      "company",
+      "court",
+      "letter",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/399/No-Proof-of-Insurance-Charges"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-024",
+    "spreadsheet_id": "BP-024",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "No Proof of Insurance Charges",
+    "summary": "To dismiss a No Proof of Insurance charge in Arvada, you must provide a detailed letter from your insurance company confirming coverage for the specified vehicle at the time of the violation. The letter must include specific information such as the policy number and vehicle details, and it can be submitted via fax or email. If proof of insurance cannot be provided, a court plea will be necessary.",
+    "body": "In order to dismiss a No Proof of Insurance charge, we must be able to confirm you were a covered driver in the specified vehicle on the date and time of the violation.\n\nConsistent with the Model Traffic Code as adopted by the City of Arvada, the Arvada Municipal Court will not accept an Insurance ID card after a No Proof of Insurance ticket has been issued. The court **requires**a detailed letter from your Insurance Agent / Company providing all of the following:\n\n- Letter must be on company letterhead\n- Letter must be dated\n- Policy Number\n- Defendant's name\n- Year, Make and Model of vehicle\n- Statement of coverage for the defendant driving the specified vehicle on the **date and time** of the violation\n\nThis letter can be faxed to 720-898-7164 or [emailed](/cdn-cgi/l/email-protection#40292e333532212e2325002132362124216e2f3227). If you or your agent have any questions, please feel free to contact the Arvada Municipal Court office at 720-898-7150.\n\nIf you cannot provide proof of insurance, you will be required to enter a plea in court.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

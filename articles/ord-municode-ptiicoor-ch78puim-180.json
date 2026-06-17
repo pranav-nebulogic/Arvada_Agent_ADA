@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "police",
+      "powers",
+      "permittee",
+      "rights",
+      "hereunder",
+      "subject",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-293"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-293. - Police powers.",
+    "summary": "The permittee's rights hereunder are subject to the police powers of the city, which\n               include the power to adopt and enforce ordinances, including amendments to this article,\n               necessary to the safety, health, and welfare of the public. The permittee shall comply\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-293. - Police powers.",
+        "a": "The permittee's rights hereunder are subject to the police powers of the city, which\n               include the power to adopt and enforce ordinances, including amendments to this article,\n               necessary to the safety, health, and welfare of the public. The permittee shall comply\n               with all applicable laws and ordinances enacted, or hereafter enacted, by the city\n               or any other legally constituted governmental unit having lawful jurisdiction over\n               the subject matter hereof. The city reserves the right to exercise its police powers,\n               notwithstanding anything in this article and the permit to the contrary. Any conflict\n               between the provisions of this article or the permit, and any other present or future\n               lawful exercise of the city's police powers, shall be resolved in favor of the latter.\n(Code 1981, § 27-202; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-293"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

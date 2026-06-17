@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "use",
+      "unexpected",
+      "balance",
+      "proceeds",
+      "any",
+      "bond",
+      "remaining"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-71"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-71. - Use of unexpected balance of proceeds.",
+    "summary": "Any unexpected balance of bond proceeds remaining after the completion of the project\n               for which such bonds were issued shall be paid immediately into the fund created for\n               the payment of the principal of and the interest on the bonds and shall be used therefor,\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-71. - Use of unexpected balance of proceeds.",
+        "a": "Any unexpected balance of bond proceeds remaining after the completion of the project\n               for which such bonds were issued shall be paid immediately into the fund created for\n               the payment of the principal of and the interest on the bonds and shall be used therefor,\n               subject to the provisions as to the times and the methods for their payment as stated\n               in the bonds and in the proceedings authorizing their issuance.\n(Code 1981, § 27-72; Ord. No. 551, § 25(G), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-71"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

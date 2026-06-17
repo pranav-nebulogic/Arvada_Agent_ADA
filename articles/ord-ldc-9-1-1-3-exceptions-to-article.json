@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "exceptions",
+      "article",
+      "generally",
+      "section",
+      "lists",
+      "situations",
+      "where",
+      "technical",
+      "nonconformity",
+      "considered"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-1-3"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "9-1-1-3. Exceptions to article.",
+    "summary": "A.\tGenerally. This Section lists the situations where a technical nonconformity is considered \"conforming\" for the purposes of this LDC.\nB.\tRN Zoning District.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-1-3. Exceptions to article.",
+        "a": "A.\tGenerally. This Section lists the situations where a technical nonconformity is considered \"conforming\" for the purposes of this LDC.\nB.\tRN Zoning District. Lots of record within the RN zoning district (all subdistricts), regardless of their area or dimensions, and existing buildings on said lots of record, are deemed to be conforming lots and conforming buildings if legally established, respectively. To the extent they are used for single-family detached residential purposes, they are also deemed to be conforming as to density.\nC.\tPartitions. Lots that are created by judicial partition are deemed to be conforming lots.\nD.\tVested Rights. This Article does not apply to site-specific development plans for which rights are vested, during the period of vested rights.\nE.\tAcquisition for Public Use. When lot area or set back are reduced as a result of land acquired by Federal, State, or local government, or any other public agency, for a public purpose, and the remaining lot is a least 60 percent of the required minimum standard for the zoning district in which it is located, then the lot or structure is deemed to be in compliance with the minimum standards of this Code.\nF.\tFueling/Service Stations. Where more than two fueling/service stations exist within 660 feet of the intersection of two arterial streets, they shall not be considered as a nonconforming use due to their proximity to each other.\nG.\tConditional Uses. Uses that are listed as conditional uses in Division 3-1-2, Land Use by Zoning District, but were established prior to the effective date of this LDC or are the subject of a valid approval that pre-dates the effective date of this LDC shall be deemed to be \"conforming uses\" under this LDC."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-1-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

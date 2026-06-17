@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "false",
+      "reporting",
+      "any",
+      "person",
+      "intentionally",
+      "knowingly",
+      "recklessly"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-383"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-383. - False reporting.",
+    "summary": "Any person who intentionally, knowingly or recklessly gives false or misleading information\n               or who makes any false statement concerning any allegation of a violation of this\n               Code or in the course of an investigation of any allegation of a violation of this\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-383. - False reporting.",
+        "a": "Any person who intentionally, knowingly or recklessly gives false or misleading information\n               or who makes any false statement concerning any allegation of a violation of this\n               Code or in the course of an investigation of any allegation of a violation of this\n               Code shall be subject to prosecution pursuant to\nsection 62-58\n.\n(Code 1981, § 2-63; Ord. No. 3088, § 2, 6-27-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-383"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

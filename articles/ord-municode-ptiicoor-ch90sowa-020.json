@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "designation",
+      "recyclable",
+      "materials",
+      "city",
+      "manager",
+      "shall",
+      "periodically"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-58"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-58. - Designation of recyclable materials.",
+    "summary": "(a)\nThe city manager shall, periodically, after consultation with representatives of the\n               licensed haulers operating within the city and representatives from recycling processing\n               facilities in the region determine which items shall be designated for recycling collection.…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-58. - Designation of recyclable materials.",
+        "a": "(a)\nThe city manager shall, periodically, after consultation with representatives of the\n               licensed haulers operating within the city and representatives from recycling processing\n               facilities in the region determine which items shall be designated for recycling collection.\n               The list of designated recyclables shall be kept on file for public inspection in\n               the city clerk's Office.\n(b)\nIf market factors or other circumstances arise during a calendar year that severely\n               impact a hauler's ability to comply with this Chapter, the hauler may provide such\n               information in writing to the city manager with a request that a particular material\n               be removed from the list of materials designated for recycling. The hauler requesting\n               the change shall continue to collect the recyclable materials designated by the city\n               manager until the city manager notifies all licensed haulers that a particular item\n               has been removed from the list of designated recyclable materials. A hauler may offer\n               collection of additional recyclable materials not designated by the city manager at\n               any time, upon written notice to the city manager and the city clerk.\n(c)\nAll haulers shall be responsible for notifying their customers, no less than annually,\n               of the items designated for recycling and how to prepare materials for recycling.\n(d)\nThe city manager is authorized to promulgate such rules and regulations as are necessary\n               to effectuate the implementation and enforcement of this chapter.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-58"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

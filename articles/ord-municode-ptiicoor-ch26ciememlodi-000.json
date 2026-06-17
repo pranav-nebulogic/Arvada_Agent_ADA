@@ -1,0 +1,52 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "civil",
+      "emergency",
+      "local",
+      "disaster",
+      "footnotes",
+      "charter",
+      "reference"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nCharter reference—\nIntergovernmental agreements, § 13.5; continuity of government, § 13.7.\nCross reference—\nAdministration, ch. 2; emergency services, ch. 34; fire prevention and protection, ch. 42.\nState Law reference—\nDisaster emergency act, C.R.S. § 24-32-2101 et seq.; co…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER",
+        "a": "Footnotes:\n--- (\n1\n) ---\nCharter reference—\nIntergovernmental agreements, § 13.5; continuity of government, § 13.7.\nCross reference—\nAdministration, ch. 2; emergency services, ch. 34; fire prevention and protection, ch. 42.\nState Law reference—\nDisaster emergency act, C.R.S. § 24-32-2101 et seq.; compensation benefits to volunteer\n               workers in disaster emergency services, C.R.S. § 24-32-2201 et seq.; Civil Defense\n               Liability Act, C.R.S. § 24-32-2301 et seq."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

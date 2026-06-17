@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "other",
+      "prohibitory",
+      "provisions",
+      "affected",
+      "nothing",
+      "article",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH53MENDIMA"
+    ],
+    "scraped_at": "2026-06-10T12:02:40.728035+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 53-23"
+    ],
+    "chapter": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA"
+  },
+  "content": {
+    "title": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA — Sec. 53-23. - Other prohibitory provisions not affected.",
+    "summary": "Nothing in this article II shall be construed as repealing, modifying, or negating\n               any other prohibitory provision of this Code including, but not limited to, section\n               3-2-1-9 of\nchapter 3\nof part III (Land Development Code).\n(\nOrd. No. 4393, § 7(Att. A), 7-1-2013\n; Ord.…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 53-23. - Other prohibitory provisions not affected.",
+        "a": "Nothing in this article II shall be construed as repealing, modifying, or negating\n               any other prohibitory provision of this Code including, but not limited to, section\n               3-2-1-9 of\nchapter 3\nof part III (Land Development Code).\n(\nOrd. No. 4393, § 7(Att. A), 7-1-2013\n; Ord. No.\n4728\n, § 15, 5-18-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 53-23"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

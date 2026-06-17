@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "zoning",
+      "annexed",
+      "land",
+      "generally",
+      "process",
+      "annexation",
+      "initial",
+      "standards",
+      "procedures",
+      "apply"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-2-4"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-2. ESTABLISHMENT OF ZONING DISTRICTS"
+  },
+  "content": {
+    "title": "2-1-2-4. Zoning of annexed land.",
+    "summary": "A.\tGenerally. Zoning of annexed land or land in the process of annexation is an initial zoning. The standards and procedures that apply to zoning of annexed land are the same as those applied to a rezoning of property within the City limits.\nB.\tTiming of Adoption of Zoning Ordinance.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-2-4. Zoning of annexed land.",
+        "a": "A.\tGenerally. Zoning of annexed land or land in the process of annexation is an initial zoning. The standards and procedures that apply to zoning of annexed land are the same as those applied to a rezoning of property within the City limits.\nB.\tTiming of Adoption of Zoning Ordinance. An ordinance proposing zoning of a parcel or parcels to be annexed shall not be finally adopted by the City Council before the date of final adoption of the annexation ordinance, but the annexation ordinance and the zoning ordinance for the annexed property may be processed concurrently, and at the City's discretion may be combined into a single ordinance as may be permitted by state law.\nC.\tCompliance with State Law. All annexations to the City shall meet the requirements of C.R.S. § 31-12-101, et seq., the \"Municipal Annexation Act of 1965,\" as amended."
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-2-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

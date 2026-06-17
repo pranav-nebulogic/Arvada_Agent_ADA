@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "application",
+      "addition",
+      "generally",
+      "applicable",
+      "design",
+      "standards",
+      "section",
+      "above",
+      "division"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-4-1"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-4. ADDITIONAL STANDARDS BY FACILITY TYPE"
+  },
+  "content": {
+    "title": "7-1-4-1. Purpose and application.",
+    "summary": "A.\tPurpose.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-4-1. Purpose and application.",
+        "a": "A.\tPurpose. In addition to the Generally Applicable Design Standards in Section 7-1-3-1 above, the purpose of this Division is to identify the specific design standards applicable to the various types of WCF's while continuing to minimize the impact on surrounding community, consistent with this Code.\nB.\tApplication. The specific design standards set forth in this Division shall apply to each of the various types of WFC's governed by this Article as specified herein; provided, however, that the City may waive these requirements if it determines that the goals of this Division are better served thereby. Such determination shall be in writing, identify the relevant goals, and specify how such goals are better served by a waiver."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

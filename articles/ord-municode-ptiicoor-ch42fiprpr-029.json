@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "alarms",
+      "hereby",
+      "amended",
+      "read",
+      "follows",
+      "added"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-74"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-74. - I.F.C. Section 903.4.2, Alarms.",
+    "summary": "Section 903.4.2. Alarms\n, is hereby amended to read as follows and with the added subsection:\n\"\n903.4.2. Alarms.\nAn approved audible/visual alarm device, located on the exterior of the building\n                  in an approved location, shall be connected to each automatic sprinkler system. Such\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-74. - I.F.C. Section 903.4.2, Alarms.",
+        "a": "Section 903.4.2. Alarms\n, is hereby amended to read as follows and with the added subsection:\n\"\n903.4.2. Alarms.\nAn approved audible/visual alarm device, located on the exterior of the building\n                  in an approved location, shall be connected to each automatic sprinkler system. Such\n                  sprinkler waterflow alarm devices shall be activated by waterflow equivalent to the\n                  flow of a single sprinkler of the smallest orifice size installed in the system. Where\n                  a fire alarm system is installed, actuation of the automatic sprinkler system shall\n                  actuate the building fire alarm system and cause notification as set forth in Section\n                  907.5. When buildings have multiple tenant spaces notification devices shall be installed\n                  in accordance with Section 907.5 in each tenant space.\n903.4.2.1 Audible and visual signals.\nAudible and visual fire alarm notification devices shall be connected to every automatic\n                     sprinkler system. Such audible and visual devices shall be activated throughout the\n                     building upon water flow. When buildings have multiple tenant spaces, notification\n                     devices shall be installed in accordance with Section 907.5 in each tenant space.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-74"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

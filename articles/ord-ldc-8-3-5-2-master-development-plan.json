@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "master",
+      "development",
+      "plan",
+      "generally",
+      "purpose",
+      "provide",
+      "mechanism",
+      "which",
+      "ensured",
+      "phased"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-5-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-5. SITE DEVELOPMENT AND TEMPORARY USES"
+  },
+  "content": {
+    "title": "8-3-5-2. Master development plan.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-5-2. Master development plan.",
+        "a": "A.\tGenerally. The purpose of the Master Development Plan is to provide a mechanism by which it can be ensured that phased site development including structure placement, vehicular and pedestrian mobility, infrastructure and amenities are developed and phased to conform to this LDC.\nB.\tApplicability. A Master Development Plan shall be required for any site where two or more phases of development are anticipated or when two or more parcels of property are to be developed, unless waived at the discretion of the Director.\nC.\tPhasing Plan. A phasing plan for site grading, installation of site improvements, and landscaping and amenities necessary to support each phase of development must be approved as part of the Master Development Plan. The phasing plan is not required to prescribe a timeline or sequence for development, but shall provide for proportionate installation of improvements and amenities that must be included when each phase of development is constructed.\nD.\tApplication Requirements. At a minimum, the master development plan shall include the following information. Additional information may be required at the discretion of the Director:\n  1.\tUses proposed;\n  2.\tIntensity or density of uses proposed;\n  3.\tLocation of public or private open space;\n  4.\tLocations of existing and proposed buildings on the site;\n  5.\tVehicular and pedestrian networks proposed;\n  6.\tArchitectural and landscape guidelines;\n  7.\tMaster grading and drainage plan;\n  8.\tMaster utilities plan; and\n  9.\tMaster traffic study.\nE.\tApproval Criteria. A Master Development Plan shall be reviewed for compliance with the following criteria:\n  1.\tThe proposed Master Development Plan is consistent with the Comprehensive Plan and other adopted City ordinances, resolutions and regulations.\n  2.\tThe Master Development Plan establishes logical and orderly development phases that address land use, development, infrastructure, open space and other related improvements, as necessary, in accordance with this LDC.\nF.\tModification. A modification to a previously approved Master Development Plan shall be treated as a new application, except when the following apply:\n  1.\tThe modification is within the general scope of the purpose and intent of the original approval;\n  2.\tThe modification does not add more than 20 percent of the square footage of any building in the original Master Development Plan;\n  3.\tThe modification does not increase the proposed density beyond that allowed in the zone district; and\n  4.\tThe modification will not require an updated master grading and drainage plan, master utility plan or master traffic study, as determined by the Director."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-5-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

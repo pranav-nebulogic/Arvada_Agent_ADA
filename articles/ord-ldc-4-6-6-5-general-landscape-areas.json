@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "general",
+      "landscape",
+      "areas",
+      "generally",
+      "except",
+      "provided",
+      "subsection",
+      "below",
+      "landscaping",
+      "requirements"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-6-5"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-6 REQUIREMENTS BY LANDSCAPE AREA"
+  },
+  "content": {
+    "title": "4-6-6-5. General landscape areas.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-6-5. General landscape areas.",
+        "a": "A.\tGenerally. Except as provided in Subsection B., below, the landscaping requirements of this Section apply to all permeable areas of the subject property that are not otherwise a designated required planting area pursuant to Division 4-6-5, Landscape Areas and Bufferyards or Section 4-6-6-1, Street Trees, through Section 4-6-6-4, Foundation Plantings, inclusive.\nB.\tExceptions. The requirements of this Section do not apply to:\n  1.\tPreserved open space; and\n  2.\tIrrigation canals, irrigation ditches, reservoirs, and appurtenant maintenance areas (whether owned in fee simple or as easements).\nC.\tPlanting Requirements. General landscape areas shall be planted with at least:\n  1.\tOne canopy or evergreen tree, or two ornamental trees per 3,000 square feet of landscape surface area;\n  2.\tA minimum of ten percent of all trees shall be evergreen; and\n  3.\t75 percent vegetative ground coverage at maturity, excluding tree canopy.\nD.\tShrub Requirements. Shrubs shall be planted at a maximum spacing of five feet on center.\nE.\tPlanting on Steeper Slopes. On slopes greater than 3:1, the following can be planted:\n  1.\tTrees and shrubs; and\n  2.\tGroundcovers.\n(Ord. No. 4793, § 3, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-6-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

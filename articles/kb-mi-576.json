@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "utility",
+      "auto",
+      "step",
+      "online",
+      "bill",
+      "page",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1526/Utility-auto-pay-step-by-step"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-576",
+    "spreadsheet_id": "MI-576",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Utility auto-pay step-by-step",
+    "summary": "To set up online auto-pay for your City of Arvada utility billing account, visit the Pay My Bill page and either log in or register for a new account. After adding your account details and selecting your notification preferences, choose the AutoPay option, add a payment method, and confirm your payment frequency to complete the enrollment process.",
+    "body": "Please follow these instructions to set up your City of Arvada utility billing account with online auto-pay.\n\n## Step 1\n\nVisit the [Pay My Bill page](https://www.arvadaco.gov/453/Pay-My-Bill) and click the \"Pay Online\" link. You may want to bookmark this page for future use.\n\n![screenshot of Pay My Bill page with \\\"Pay Online\\\" button](/ImageRepository/Document?documentId=7523)\n\n## Step 2\n\nLog in or click \"Register Now\" if you do not have an existing online account.\n\n![](/ImageRepository/Document?documentId=7536)\n\n## Step 3\n\nClick \"Accounts\". Click \"Add Account\" when setting up an account for the first time.\n\n![](/ImageRepository/Document?documentId=7529)![](/ImageRepository/Document?documentId=7530)\n\n## Step 4\n\nFill in your account and customer number that can be found at the top of your utility bill. Select email and / or text notification preferences.\n\n![screenshot of account information including account and customer number and notification preferences](/ImageRepository/Document?documentId=7528)\n\n## Step 5\n\nOnce the account is added, select the \"AutoPay\" button.\n\n![](/ImageRepository/Document?documentId=7527)\n\n## Step 6\n\nClick \"Add a Payment Method\" if the preferred payment method is not listed.\n\n![](/ImageRepository/Document?documentId=7533)\n\n## Step 7\n\nSelect Credit, Debit, or E-Check tab and fill in your payment information.\n\n![](/ImageRepository/Document?documentId=7532)\n\n## Step 8\n\nThe frequency for payment is required to be set to the bill due date. Select \"Create AutoPay\" to confirm enrollment.\n\n![](/ImageRepository/Document?documentId=7531)\n\nAfter your selection is complete, the AutoPay toggle will be shown as activated with your listed payment method.\n\n![](/ImageRepository/Document?documentId=7534)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

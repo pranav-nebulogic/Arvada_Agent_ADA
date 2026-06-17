@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "recreation",
+      "partners",
+      "https",
+      "district",
+      "county",
+      "park",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/642/Recreation-Partners"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-454",
+    "spreadsheet_id": "MI-454",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Recreation Partners",
+    "summary": "The City of Arvada collaborates with several recreational partners, including the Apex Parks and Recreation District, Hyland Hills Park and Recreation District, Susan M. Duncan Family YMCA, and Prospect Recreation and Park District, to enhance community recreational services. Additionally, Arvada oversees the permitting and scheduling of organized sports activities on public fields, covering sports such as soccer, lacrosse, rugby, baseball, and softball.",
+    "body": "## The City of Arvada partners with the following districts and recreational establishments to serve Arvada:\n\n- [Apex Parks and Recreation District (Arvada, CO)](https://apexprd.org/)\n- [Hyland Hills Park and Recreation District (Southwest Adams County)](https://www.hylandhills.org/)\n- [Susan M. Duncan Family YMCA (Arvada, CO)](https://www.denverymca.org/arvada)\n- [Prospect Recreation and Park District (Northern Jefferson County)](https://www.prospectdistrict.org/)\n\n## Sports Complex Permitting and Scheduling\n\nThe City of Arvada manages the permitting and scheduling of organized sports activities, including soccer, lacrosse, rugby, baseball, and softball on the city's public fields.\n\n[Visit the Sports Complex Permitting and Scheduling page](/649) to learn more.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

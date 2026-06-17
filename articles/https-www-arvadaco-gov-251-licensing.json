@@ -1,0 +1,114 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "licensing",
+    "source_urls": [
+      "https://www.arvadaco.gov/251/Licensing"
+    ],
+    "scraped_at": "2026-06-10T10:57:17.127054+00:00",
+    "content_hash": "4816b712c4d1a76dc7f589eea8adf2729f15609b082dbe236c6bb03fd4e00bef",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Business and Licensing Information in the City of Arvada",
+    "summary": "Various licenses and permits are required for conducting business in the City of Arvada. This article provides an overview of the main city permitting and licensing areas, including business licenses, contractor licenses, food truck permits, liquor licenses, residential permits, right-of-way permits, short term rental licenses, special event permits, and other specialized licenses.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Obtain a Business License",
+        "text": "All businesses that sell into or are located in Arvada, including home based businesses, must obtain a business license. Business licenses are free and do not expire, except for food trucks and short term rentals which expire annually.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Obtain a Contractor License",
+        "text": "Contractors who want to obtain a building permit or city right-of-way permit need to obtain a contractor's license.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Obtain Commercial and Developer Permits",
+        "text": "For permits related to commercial or development endeavors, visit the Planning and Development page.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Obtain Food Truck Permits",
+        "text": "To operate a food truck in Arvada, you must hold both a business license and a food truck permit.",
+        "portal_url": null
+      },
+      {
+        "n": 5,
+        "title": "Obtain a Liquor License",
+        "text": "A liquor license is required for special events, bars, restaurants, and other businesses that serve alcohol.",
+        "portal_url": null
+      },
+      {
+        "n": 6,
+        "title": "Obtain Residential Permits",
+        "text": "Permits are required for both interior and exterior residential building projects within the City of Arvada.",
+        "portal_url": null
+      },
+      {
+        "n": 7,
+        "title": "Obtain Right-of-Way Permits",
+        "text": "Permits are required for general public improvements constructed on public right-of-way, easements, other public property, and utility services on private property between the property line and the building.",
+        "portal_url": null
+      },
+      {
+        "n": 8,
+        "title": "Obtain Short Term Rental Licenses",
+        "text": "If you plan to operate a short term rental in your home, a room or rooms in your home, or in an accessory dwelling unit, you must hold both a business license and a short term rental license.",
+        "portal_url": null
+      },
+      {
+        "n": 9,
+        "title": "Obtain Special Event Permits",
+        "text": "A special event permit is required if the event is held on public property, is open to the general public (free or ticketed), or anticipates more than 100 people attending or participating.",
+        "portal_url": null
+      },
+      {
+        "n": 10,
+        "title": "Obtain Other Licenses",
+        "text": "Certain businesses require licensing and permitting through the City Clerk's Office, including adult-only businesses, kennel licenses, massage parlors, and trash hauler licenses.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Revenue or Planning",
+      "phone": "720-898-7100 for business licenses; 720-898-7435 for building or development",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Business License",
+      "Contractor License",
+      "Food Truck Permit",
+      "Liquor License",
+      "Residential Building Permit",
+      "Right-of-Way Permit",
+      "Short Term Rental License",
+      "Special Event Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2245
+}

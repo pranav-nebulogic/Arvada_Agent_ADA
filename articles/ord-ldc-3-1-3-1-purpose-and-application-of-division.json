@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "application",
+      "division",
+      "specific",
+      "standards",
+      "primary",
+      "land",
+      "uses",
+      "those",
+      "zoning"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-3-1"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-3. USE-SPECIFIC STANDARDS FOR PRIMARY LAND USE"
+  },
+  "content": {
+    "title": "3-1-3-1. Purpose and application of division.",
+    "summary": "A.\tPurpose.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-3-1. Purpose and application of division.",
+        "a": "A.\tPurpose. The purpose of this Division is to set out use-specific standards for primary land uses in those zoning districts in which the uses are classified Limited (\"L\") or Conditional (\"C\") in the tables of Division 3-1-2, Land Use by Zoning District.\nB.\tApplication.\n  1.\tSection 3-1-3-2, Residential Standards, to Section 3-1-3-10, Agricultural Standards, inclusive, set out the use-specific standards that apply to each land use in zoning districts in which the land use is classified as Limited (\"L\") or Conditional (\"C\")."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

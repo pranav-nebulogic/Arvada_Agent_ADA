@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "criminal",
+      "attempt",
+      "shall",
+      "unlawful",
+      "person",
+      "commit",
+      "offense"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-74"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-74. - Criminal attempt.",
+    "summary": "(a)\nIt shall be unlawful for a person to attempt to commit an offense. A person commits\n               criminal attempt if, acting with the kind of culpability otherwise required for commission\n               of an offense, he engages in conduct constituting a substantial step toward the commission\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-74. - Criminal attempt.",
+        "a": "(a)\nIt shall be unlawful for a person to attempt to commit an offense. A person commits\n               criminal attempt if, acting with the kind of culpability otherwise required for commission\n               of an offense, he engages in conduct constituting a substantial step toward the commission\n               of the offense. A substantial step is any conduct, whether act, omission, or possession,\n               which is strongly corroborative of the firmness of the actor's purpose to complete\n               the commission of the offense. Factual or legal impossibility of committing the offense\n               is not a defense if the offense could have been committed had the attendant circumstances\n               been as the actor believed them to be, nor is it a defense that the crime attempted\n               was actually perpetrated by the accused.\n(b)\nA person who engages in conduct intending to aid another to commit an offense commits\n               criminal attempt if the conduct would establish his complicity under\nsection 62-73\nwere the offense committed by the other person, even if the other is not guilty of\n               committing or attempting the offense.\n(c)\nIt is an affirmative defense to a charge under this section that the defendant abandoned\n               his effort to commit the crime or otherwise prevented its commission, under circumstances\n               manifesting the complete and voluntary renunciation of his criminal intent.\n(d)\nCriminal attempt shall be punishable by a fine or imprisonment not to exceed the limits\n               established in\nsection 1-5\n, except that if a person is found to have attempted an offense that is non-jailable,\n               that attempt shall be punishable by a fine not to exceed the limits established in\nsection 1-5\n.\n(\nOrd. No. 4076, § 2, 7-16-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-74"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

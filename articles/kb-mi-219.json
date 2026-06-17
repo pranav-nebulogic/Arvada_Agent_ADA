@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "facial",
+      "recognition",
+      "technology",
+      "criminal",
+      "investigative",
+      "basis",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/917/Facial-Recognition-Technology"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-219",
+    "spreadsheet_id": "MI-219",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Facial Recognition Technology",
+    "summary": "The Arvada Police Department (APD) has implemented facial recognition technology as an investigative tool to assist in identifying unknown suspects and at-risk individuals, while ensuring it is not the sole basis for establishing probable cause. Following the passage of Senate Bill 22-113 in 2022, the APD posted a draft accountability report for public comment and received none; the report was approved by the Arvada City Council on October 23, 2023, and the technology will be utilized starting January 21, 2024. The APD is committed to transparency and compliance with regulations governing the use of this technology.",
+    "body": "The Arvada Police Department (APD) has in the past successfully used facial recognition technology as an investigative tool. This technology can be used to help law enforcement generate leads as to the identity of unknown criminal suspects or missing or otherwise at-risk persons. Facial recognition technology does not replace other investigative techniques. Officers may not use facial recognition technology as the sole basis to establish probable cause in a criminal investigation.\n\nIn 2022, the State legislature passed Senate Bill 22-113, which added sections 24-18-301 through 309 to the Colorado Revised Statutes. These laws govern the use of facial recognition technology by governmental agencies, including law enforcement. Governmental agencies are now required to take several steps before utilizing facial recognition technology. Among these steps are requirements that the agency post a draft “accountability report” to its website. This accountability report documents various information about the specific facial recognition technology application that the agency will utilize, and how it will be used.\n\nThe APD posted the draft accountability report to its website on September 13, 2023, and sought public comment at three community meetings held on September 25th, 26th, and 27th, 2023. The APD received no comments. In accordance with statutory requirements, the [accountability report](/DocumentCenter/View/2256) was approved by the Arvada City Council on October 23, 2023. The APD began utilizing facial recognition technology on January 21, 2024.\n\nCommunity members can review information presented at the community meetings below. The APD continues to accept comments about its use of facial recognition technology. You may contact us at (720) 898-6668 or email at [[email protected]](/cdn-cgi/l/email-protection#f0918286919491809f9c99939580999fb0918286919491de9f8297).\n\n## Facial Recognition Technology Overview\n\nFacial Recognition Technology is a software tool that uses machine learning and algorithms to analyze images Identifies and measures facial features within images. It compares probe unknown images against a gallery of known images and is used to assess the likelihood that the images being compared potentially show the same person.\n\nImage quality is integral to utilizing Facial Recognition Technology successfully. Potential matches are used only to generate leads for follow-up; no immediate law enforcement is undertaken without further verification.\n\n## Facial Recognition Technology System\n\nAPD shares criminal justice information with other law enforcement agencies through Colorado Information Sharing Consortium (CISC). CISC facilitates use of the Lumen platform, including Facial Recognition software. Lumen is an investigative application originally developed by a Colorado company, later purchased by LexisNexis.\n\nLaw enforcement users upload probe images to Lumen's Facial Recognition program and they are compared against shared booking photos from CISC agencies. The system then provides a score that indicates the likelihood of a match between the two photos.\n\nLumen’s Facial Recognition program ranked very high in standardized tests of similar systems, including specifically in mitigating potential bias effects.\n\n## Use of Facial Recognition as an Investigative Tool\n\nAPD will use Facial Recognition Technology in compliance with [Department Policy PM 703](https://public.powerdms.com/APD10/documents/1870457), which governs its use. It will be used to assist in ID of subjects while ensuring that improper or incorrect ID does not lead to the arrest of an innocent person. APD will be transparent with the public with regard to Facial Recognition information collection, receipt, access, use, dissemination, and purging practices in accordance with CRS § 24-72-304, pertaining to the release of criminal justice records.\n\nFacial Recognition searches will not be performed based solely on:\n\n- a subject’s religious, political, or social views or activities;\n- their participation in a particular noncriminal organization or lawful event; or\n- their race, ethnicity, citizenship, place of origin, age, disability, gender, gender identity, sexual orientation, or other classification protected by law (CRS § 24-18-307(2)).\n\nMembers shall not use Facial Recognition to create a record depicting any individual’s exercise of rights guaranteed by the first amendment of the United States constitution and by section 10 or article II of the Colorado constitution (CRS § 24-18-307(3)).\n\nUsers must complete mandated training prior to utilization of the FR software, to include:\n\n- Proper and legal use;\n- Obtaining high resolution images and avoiding manipulation of photos for best comparison;\n- How to interpret and act upon Facial Recognition results;\n- Meaningful human review;\n- Appropriate information sharing; and\n- Documentation of FR usage and appropriately deleting probe images after they are initially captured.\n\n## 2025 Facial Recognition Statistics\n\n- 13,396 total incidents investigated by Arvada PD\n- 4,932 total arrests\n- 97 investigations utilized facial recognition technology\n  - 44 positive matches returned\n  - 53 no matches found",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

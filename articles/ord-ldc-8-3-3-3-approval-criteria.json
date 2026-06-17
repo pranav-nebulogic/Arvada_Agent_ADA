@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "approval",
+      "criteria",
+      "generally",
+      "annexations",
+      "reviewed",
+      "compliance",
+      "following",
+      "whether",
+      "annexation",
+      "accord"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-3-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-3. ANNEXATION AND DISCONNECTION"
+  },
+  "content": {
+    "title": "8-3-3-3. Approval criteria.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-3-3. Approval criteria.",
+        "a": "A.\tGenerally. All annexations shall be reviewed for compliance with the following criteria:\n  1.\tWhether the annexation is in accord with the Comprehensive Plan and the best interests of the City would be served by annexation of the subject property;\n  2.\tWhether the subject property is capable of being integrated into the City and developed in compliance with all applicable provisions of this Code, the Arvada City Code, and the terms of an annexation agreement that is simultaneously approved with the annexation;\n  3.\tWhether, at the time any development of the subject property is completed, there will be capacity to adequately serve residents of such area with all necessary utilities, facilities, and public services."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "flood",
+      "insurance",
+      "program",
+      "property",
+      "areas",
+      "available",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/698/Flood-Insurance"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-008",
+    "spreadsheet_id": "RW-008",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Flood Insurance",
+    "summary": "Flood insurance is essential for protecting property owners from financial loss due to flooding, which is not covered by standard homeowner's insurance. Available through the National Flood Insurance Program (NFIP), costs depend on coverage and flood risk, with Arvada residents eligible for a 25% discount due to the city's Class 5 Rating. To obtain flood insurance, property owners should verify their floodplain status and contact their insurance agent, keeping in mind a 30-day waiting period for policy activation.",
+    "body": "Just a few inches of water can cause tens of thousands of dollars in property damage. Flood insurance is the best way to protect yourself and your loved ones from financial loss.\n\n## About flood insurance\n\n- Flood insurance is available through the [National Flood Insurance Program (NFIP)](https://www.floodsmart.gov/).\n- This Federal program provides flood insurance to property owners in exchange for the careful management of flood-prone areas by local communities.\n- Costs vary depending on how much insurance you buy, what it covers, and your property's flood risk.\n- Regular homeowner's insurance does not cover damage caused by floods.\n\n### Steps to getting flood insurance\n\n1. Find out if your property is located in a floodplain [via this searchable map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=6dea6f00d3f14106b3c8350de9b38a78) or by calling the Engineering Division at 720-898-7640.\n2. If your property is in a floodplain, contact your insurance agent. Arvada residents are eligible for a discount on insurance premiums (more information below).\n   - The Federal Emergency Management Agency (FEMA) has an [online tool that provides quote estimates](https://www.floodsmart.gov/policy-quote/).\n3. Generally, there is a 30-day waiting period for your policy to take effect.\n4. For more information on flooding and flood insurance, [visit the Floodsmart website](http://www.floodsmart.gov) or contact your insurance agent.\n\n### Insurance discounts\n\nArvada holds a Class 5 Rating by the NFIP's Community Rating System (CRS). This rating provides a 25% discount on flood insurance premiums to properties in particular flood hazard areas.\n\nAs a part of the accreditation process for the CRS program, the City must provide a progress report on the Jefferson County Hazard Mitigation Plan. View [Arvada's Progress Report](https://www.arvadaco.gov/1284/Community-Rating-System-Activity-510---F).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

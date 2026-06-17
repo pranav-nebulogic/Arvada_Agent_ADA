@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "levy",
+      "tax",
+      "payment",
+      "effective",
+      "date",
+      "levied",
+      "against"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-33"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-33. - Levy of tax; payment; effective date.",
+    "summary": "(a)\nThere is levied on and against each provider a tax in the amount of $0.455 per line\n               each month on the occupation and business of providing basic local exchange service\n               at retail to residents of the city.\n(b)\nAll providers shall submit with the tax payment a statemen…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-33. - Levy of tax; payment; effective date.",
+        "a": "(a)\nThere is levied on and against each provider a tax in the amount of $0.455 per line\n               each month on the occupation and business of providing basic local exchange service\n               at retail to residents of the city.\n(b)\nAll providers shall submit with the tax payment a statement containing the provider's\n               current monthly line count as of the last calendar day of the month.\n(c)\nFor each provider, the tax levied by this chapter shall commence on the effective\n               date of this article or on the date the provider first provides basic local exchange\n               service within the city, whichever is later.\n(d)\nAll providers shall pay this tax each month effective on the last business day of\n               each calendar month.\n(Code 1981, § 31-18; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

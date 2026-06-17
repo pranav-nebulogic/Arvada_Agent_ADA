@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "mayors",
+      "incorporation",
+      "present",
+      "november",
+      "frie",
+      "robert",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/584/Arvada-Mayors-from-1904-Incorporation-to"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-066",
+    "spreadsheet_id": "MI-066",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Mayors from 1904 Incorporation to Present",
+    "summary": "Arvada has had a series of mayors since its incorporation in 1904, with Lauren Simpson currently serving from November 7, 2023. The mayors have included notable figures such as Marc Williams, who served from 2011 to 2023, and Robert Frie, who held the position multiple times between 1981 and 2011. The list highlights the city's leadership changes over the years, reflecting its governance history.",
+    "body": "| Name | Term |\n| --- | --- |\nArvada Mayors and the years they served\n\n| [Lauren Simpson](/823) | November 7, 2023 to Present |\n| Marc Williams | November 7, 2011 to November 7, 2023 |\n| Robert Frie | November 12, 2007 to November 7, 2011 |\n| Ken Fellman | November 8, 1999 to November 12, 2007 |\n| Robert Frie | November 11, 1991 to November 8, 1999 |\n| Lynn Easton | November 13, 1989 to November 11, 1991 |\n| Robert Frie | November 9, 1981 to November 13, 1989 |\n| Vesta Miller | November 12, 1979 to November 8, 1981 |\n| Kenneth Gorrell | November 14, 1977 to November 12, 1979 |\n| Donald Feland | November 12, 1973 to November 14, 1977 |\n| Kenneth Gorrell | August 28, 1973 to November 12, 1973 |\n| Joseph Horan | March 16, 1973 to August 28, 1973 |\n| Lawrence McGinley | January 9, 1971 to March 16, 1973 |\n| Robert Johnson | November 10, 1969 to January 9, 1971 |\n| Richard Bartlett | November 8, 1965 to November 10, 1969 |\n| Ann Jackson | November 12, 1963 to November 08, 1965 |\n| Dr. Gail Gilbert | November 12, 1957 to November 12, 1963 |\n| Lloyd Collins | 1955 to 1957 |\n| H.M. Shulenburg | 1952 to 1955 |\n| Dr. Thomas Mills | 1950 to 1952 |\n| James G. Biggins Jr. | 1936 to 1940 |\n| William J. Bennett | 1929 to 1936 |\n| A.J. Miller | 1926 to 1929 |\n| A.E. Brown | 1925 to 1926 |\n| F.C. Murchinson | 1924 to 1925 |\n| Pliny O. Clark | 1923 to 1924 |\n| Dr. Richard Russell | 1917 to 1923 |\n| A.L. Davis | 1915 to 1917 |\n| Charles McFadden | 1913 to 1915 |\n| E.A. Brandon | 1911 to 1913 |\n| Walton Nicoli | 1909 to 1911 |\n| Dr. Richard Russell | 1908 to 1909 |\n| Morton Alexander | 1907 to 1908 |\n| Charles Wood | 1905 to 1907 |\n| Dr. Richard Russell | 1904 to 1905 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

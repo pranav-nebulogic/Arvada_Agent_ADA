@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "duration",
+      "correction",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "operate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-94"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-94. - Duration correction.",
+    "summary": "It shall be unlawful for any person to operate or permit to be operated any stationary\n               source of noise within any land use category which creates a fluctuating noise or\n               is intermittent and creates a tenth percentile noise level which is more than 15 dB(A)\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-94. - Duration correction.",
+        "a": "It shall be unlawful for any person to operate or permit to be operated any stationary\n               source of noise within any land use category which creates a fluctuating noise or\n               is intermittent and creates a tenth percentile noise level which is more than 15 dB(A)\n               greater than the ambient noise level, measured when the source is quiet, but in no\n               case shall the tenth percentile level exceed 70 dB(A) in residential land use categories.\n(Code 1981, § 19-22; Ord. No. 2208, § 1, 9-16-1985)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-94"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "cooperative",
+      "construction",
+      "case",
+      "work",
+      "done",
+      "agreement",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-63"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-63. - Cooperative construction.",
+    "summary": "(a)\nIn the case of construction work done by agreement with the city and with one or more\n               public bodies or with the federal government (or any combination thereof) for any\n               project or any portion thereof in any improvement district, the city may enter into\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-63. - Cooperative construction.",
+        "a": "(a)\nIn the case of construction work done by agreement with the city and with one or more\n               public bodies or with the federal government (or any combination thereof) for any\n               project or any portion thereof in any improvement district, the city may enter into\n               and may carry out any contract or may establish or may comply with the rules and regulations\n               concerning labor and materials and other related matters in connection with any project\n               or any portion thereof as the city may deem desirable or as may be requested by the\n               federal government or by any public body which is a party to any such contract with\n               the city that may assist in the financing of any project or any part thereof, regardless\n               of whether the city is a party to any construction contract or to any other contract\n               appertaining to incurring costs of the project.\n(b)\nAny project any portion of the cost of which may be defrayed by the city by the levy\n               of special assessments hereunder may be acquired with the cooperation and the assistance\n               of, or under a contract let by, or with labor, or supplies and materials, or all of\n               such furnished by any one or more such public bodies or by the federal government\n               (or any combination thereof).\n(c)\nAdvantage may be taken of any offer from any source to complete any project on a division\n               of expense or responsibility.\n(d)\nThe engineer, on behalf of and in the name of the city, is authorized to acquire or\n               improve, or acquire and improve, any such project in such a manner when so authorized\n               by the ordinance creating the improvement district or by any amendment thereto.\n(Code 1981, § 27-64; Ord. No. 551, § 22, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-63"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

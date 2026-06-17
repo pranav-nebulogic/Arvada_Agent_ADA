@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "transit",
+      "generally",
+      "nonresidential",
+      "multifamily",
+      "residential",
+      "developments",
+      "incorporate",
+      "stop",
+      "locations",
+      "within"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-4-4-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-4. ACCESS, CIRCULATION, MOBILITY, AND UTILITIES",
+    "division": "DIVISION 4-4-4. TRANSIT"
+  },
+  "content": {
+    "title": "4-4-4-1. Transit.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-4-4-1. Transit.",
+        "a": "A.\tGenerally. Nonresidential and multifamily residential developments shall incorporate bus stop locations within their site plan if requested by RTD, and each such bus stop location shall be designed to accommodate a bus shelter and passenger-loading apron complying with RTD design criteria, and may include a passenger shelter sized to accommodate anticipated usage.\nB.\tPedestrian Connection. All existing and proposed bus stops and Park-n-Ride facilities identified by RTD shall be linked by paved walkways to at least one sidewalk and to at least one internal walkway within each adjacent nonresidential and multifamily development that contains more than one building.\nC.\tTiming. Any bus stop facilities requested by RTD on an existing street shall be constructed during the first phase of development."
+      }
+    ],
+    "ordinance_refs": [
+      "4-4-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

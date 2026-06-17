@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-43-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "classes",
+      "held",
+      "offered",
+      "periodically",
+      "throughout",
+      "year",
+      "sign",
+      "first",
+      "Women's Self Defense Class"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=43"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/when-are-the-classes-held",
+    "faq_category_name": "Women's Self Defense Class"
+  },
+  "content": {
+    "title": "When are the Classes Held?",
+    "summary": "Classes are offered periodically throughout the year and sign up is on a first come, first served basis. The next set of classes will be held as follows: Will be updated once classes are available",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "When are the Classes Held?",
+        "a": "Classes are offered periodically throughout the year and sign up is on a first come, first served basis. The next set of classes will be held as follows: Will be updated once classes are available"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

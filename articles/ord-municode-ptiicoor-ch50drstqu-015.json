@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "right",
+      "entry",
+      "generally",
+      "necessary",
+      "make",
+      "inspection",
+      "perform"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-39"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-39. - Right of entry.",
+    "summary": "(a)\nGenerally.\nWhere it is necessary to make an inspection or perform other work necessary to implement\n               or administer this article, or where the director has reasonable cause to believe\n               that there exists upon a structure or premises a condition or violation of this arti…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-39. - Right of entry.",
+        "a": "(a)\nGenerally.\nWhere it is necessary to make an inspection or perform other work necessary to implement\n               or administer this article, or where the director has reasonable cause to believe\n               that there exists upon a structure or premises a condition or violation of this article\n               that poses an immediate risk of harm to the city's MS4 or a serious threat to the\n               health, safety, and welfare of the public, the director shall have the authority to\n               enter the structure or premises at all reasonable times based upon the circumstances\n               to inspect or to perform the duties imposed upon the director under this article.\n               This right of entry exists to protect the environment by reducing or preventing pollutants\n               from entering into the city's MS4 and to protect the health, safety, and welfare of\n               the public.\n(b)\nOccupied premises.\nIf the structure or premises is occupied, the director shall present credentials\n               to the occupant and request entry, unless the city has an easement allowing entry,\n               or unless the structure or the building is located on common property of an HOA or\n               other similar entity. If, after presentation of the director's credentials, entry\n               is refused, the director shall have recourse to every remedy provided by law to secure\n               entry, including seeking a warrant for entry.\n(c)\nUnoccupied premises.\nIf the structure or premises is unoccupied, the director shall first make a reasonable\n               effort to contact the owner or other person having charge or control of the structure\n               or premises and request entry, unless the city has an easement allowing entry or unless\n               the structure or building is located on common property of an HOA or other similar\n               entity. If entry is refused or unable to be obtained, the director shall have recourse\n               to every remedy provided by law to secure entry, including seeking a warrant for entry.\n(d)\nWarrant process.\nIf entry is refused or unable to be obtained, and if there is reasonable cause to\n               believe there exists upon a structure or a premises a violation of this article, the\n               director may apply to the municipal court for a warrant, if the violation involves\n               a serious threat to the health, safety, and welfare of the public, and if the violation\n               is not also a violation prohibited by state statute for which a search warrant could\n               be issued by a district or county court. The warrant may authorize entry on the structure\n               or premises to inspect for the presence of a discharge or spill, to test or sample\n               a discharge or spill, inspect for a connection to the MS4, to determine compliance\n               with, or lack of, a site disturbance permit, or to otherwise determine compliance\n               with this article.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-39"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

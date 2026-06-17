@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "sales",
+      "filing",
+      "information",
+      "page",
+      "moved",
+      "please",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/254/Sales-Tax-Filing"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-488",
+    "spreadsheet_id": "MI-488",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Sales Tax Filing",
+    "summary": "The information regarding sales tax filing has been relocated. For details, please visit the Sales Tax Information page.",
+    "body": "The information on this page has moved. Please visit the [Sales Tax Information](/243) page.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

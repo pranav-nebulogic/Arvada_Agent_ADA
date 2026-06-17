@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "resale",
+      "certificate",
+      "relieves",
+      "vendor",
+      "burden",
+      "proving",
+      "sale"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-88"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-88. - Resale certificate.",
+    "summary": "(a)\nA resale certificate relieves a vendor from the burden of proving that a sale of tangible\n               personal property or taxable service is not a retail sale only if the vendor accepts\n               the resale certificate in good faith from a purchaser who is engaged in the business\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-88. - Resale certificate.",
+        "a": "(a)\nA resale certificate relieves a vendor from the burden of proving that a sale of tangible\n               personal property or taxable service is not a retail sale only if the vendor accepts\n               the resale certificate in good faith from a purchaser who is engaged in the business\n               of selling tangible personal or taxable services, and who, at the time of purchase,\n               intends to sell the tangible person property or taxable service in a retail sale in\n               the regular course of business. The purchaser does not have the option of paying consumer\n               use tax later on purchases for business and personal use items. The vendor is responsible\n               for the collection of sales tax in questionable situations. If there is a dispute\n               between the purchaser and the vendor as to whether a transaction is exempt from taxation,\n               the vendor must collect sales tax and the purchaser must pay it. The purchaser may\n               then apply to the city for a refund of the taxes in dispute under\nsection 98-74\n.\n(b)\nRequirements for proper documentation for resale sales:\n(1)\nName of business;\n(2)\nAddress of business;\n(3)\nItem or service purchased;\n(4)\nColorado resale number or license number from purchaser's home state.\n(Code 1981, § 31-62.1; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-88"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

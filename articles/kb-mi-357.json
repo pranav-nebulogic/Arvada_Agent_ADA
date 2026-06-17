@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "notice",
+      "assessment",
+      "appeals",
+      "protest",
+      "deficiency",
+      "estimated",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/357/Notice-of-Assessment-Appeals-Protest"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-357",
+    "spreadsheet_id": "MI-357",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Notice of Assessment,  Appeals & Protest",
+    "summary": "The City of Arvada issues a Notice of Assessment to taxpayers when a tax deficiency is identified, requiring immediate action to address the payment due. Taxpayers can file a written protest within 30 days to contest the assessment, but this does not halt interest accrual. Protests must adhere to specific requirements outlined in the city's regulations, and resolutions may involve informal conferences or formal hearings conducted by the Finance Director or a designated Hearing Officer.",
+    "body": "When the City of Arvada determines that a tax deficiency exists, a Notice of Assessment is issued to the taxpayer. This is a legal notice and demand for payment and should be read carefully, as immediate action is required. The City may issue a Notice of Assessment for a tax deficiency or estimated tax deficiency resulting from:\n\n- An audit of a taxpayer's records\n- An underpayment of the amount due on a City tax return\n- Failure to file a City tax return (estimated assessment\n- Failure to provide adequate records for an audit (estimated assessment)\n\nEstimated return assessments, issued for failure to file a City tax return, may be adjusted if the actual return is filed. The return must report the actual tax liability and be filed on or before the payment due date listed on the Notice of Assessment.\n\n## Penalties & Interest\n\nA Notice of Assessment will include penalty and interest charges for failing to timely report and pay taxes due. A penalty of 10% is assessed on the tax due. Interest accrues on the tax due in whole-month increments on the 21st of each month at the rate of 1% per month. [The Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) empowers the Finance Director to abate penalty charges for a good cause. Requests for abatement of penalty should be made in writing on or before the due date shown on the assessment. The Code prohibits the abatement of properly assessed interest.\n\n## Payment Due Date\n\nA Notice of Assessment becomes final, due, and payable 30 days from the date of assessment (the due date listed on the Notice of Assessment) unless, within that 30‐day period, the taxpayer files a written protest requesting review and modification of the assessment. All protests must be postmarked on or before the payment due date shown on the Notice of Assessment. This deadline cannot be extended. Protests must be filed in accordance with the **Rules and Procedures for Sales and Use Tax Administrative Hearings**. A timely filed protest does not stop the accrual of interest during the local hearing process or during subsequent appeals.\n\n## Filing a Protest\n\nTaxpayers are advised to review the **Rules and Procedures for Sales and Use Tax Administrative Hearings** to file a protest. This regulation outlines the process for resolving disputes and contains the requirements for proper filing. Protests must contain, without limitation, the following:\n\n- The taxpayer's name, address, and account number (if any)\n- The name, address, and telephone number of any legal representative of the taxpayer\n- The taxable period(s) involved\n- The taxpayer's assertion of the amount of tax and/or interest and penalties in dispute\n- An itemized list of specific transactions that are being protested\n- A specific statement in response to the City's findings and determinations with which the taxpayer does not agree. The taxpayer must set forth the facts relied upon, together with a statement of the law in support of their position on the protested issues\n- Any constraints that the taxpayer may have concerning the date of the hearing, which is to be held within 90 days after receipt of the protest\n- The signature of the taxpayer or its corporate agent\n\n## Protest Resolution\n\nWhen the City receives a properly filed, timely protest, the Finance Director may schedule an informal conference, or proceed to hear. An informal conference with the taxpayer is an attempt to resolve the issues without holding a formal hearing. Participation in the informal conference does not waive any of the taxpayer's or the City's rights to an administrative hearing or a pre-hearing conference as provided in A.C.C. § 2-181.\n\nHearings are held in accordance with the **Rules and Procedures for Sales and Use Tax Administrative Hearings** which are conducted before the Finance Director or before a duly appointed Hearing Officer. Legal counsel for the City will be present at the hearing. The taxpayer may also have their counsel present.\n\nThe Hearing Officer's decision can be reviewed by the District Court or, in some cases, by the Colorado Department of Revenue.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

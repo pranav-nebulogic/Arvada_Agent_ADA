@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "service",
+      "process",
+      "summons",
+      "complaint",
+      "issued",
+      "pursuant",
+      "chapter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-4"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-4. - Service of process; summons or summons and complaint.",
+    "summary": "(a)\nA summons or summons and complaint issued pursuant to this chapter shall be served\n               personally upon the defendant and a copy given to him.\n(b)\nIn lieu of personal service, service may be made by leaving a copy of the summons\n               or summons and complaint at the defendant'…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-4. - Service of process; summons or summons and complaint.",
+        "a": "(a)\nA summons or summons and complaint issued pursuant to this chapter shall be served\n               personally upon the defendant and a copy given to him.\n(b)\nIn lieu of personal service, service may be made by leaving a copy of the summons\n               or summons and complaint at the defendant's usual place of abode with some person\n               over the age of 18 years residing therein or by mailing a copy to the defendant's\n               last known address by certified mail, return receipt requested, not less than five\n               days prior to the time the defendant is required to appear.\n(Code 1960, § 1-23(a); Code 1981, § 18-8)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "written",
+      "determination",
+      "city",
+      "council",
+      "time",
+      "within",
+      "days"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-33"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-33. - Written determination by city council.",
+    "summary": "(a)\nTime.\nWithin 35 days after completing the public hearing held under this article, the city\n               council shall adopt a resolution regarding the proposed service plan.\n(b)\nApproval.\nIf the proposed service plan is approved, a resolution of approval shall be adopted.\n(c)\nDisapproval.\nIf t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-33. - Written determination by city council.",
+        "a": "(a)\nTime.\nWithin 35 days after completing the public hearing held under this article, the city\n               council shall adopt a resolution regarding the proposed service plan.\n(b)\nApproval.\nIf the proposed service plan is approved, a resolution of approval shall be adopted.\n(c)\nDisapproval.\nIf the proposed service plan is disapproved, a resolution of disapproval shall be\n               adopted. The resolution shall include the reasons for such disapproval.\n(d)\nConditional approval.\nIf the proposed service plan is conditionally approved, the amendments to be made\n               in or additional information relating to the proposed service plan, together with\n               the reasons for such amendments or additional information, shall also be set forth\n               in writing, and the public hearing shall be continued until such amendments or additional\n               information are incorporated in the proposed service plan. Upon the incorporation\n               of such amendments or additional information in the proposed service plan, the city\n               council shall adopt a resolution of approval.\n(e)\nAppeal.\nA resolution passed by the city council shall document the city council's determination.\n               No action or proceeding, at law or in equity, to review any acts or proceedings or\n               question the validity of the city council's determination pursuant to this chapter,\n               whether based upon irregularities or jurisdictional defects, shall be maintained in\n               the district court of the relevant county unless commenced within 28 days after the\n               passage of the city council's resolution or thereafter any legal proceedings shall\n               be barred.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

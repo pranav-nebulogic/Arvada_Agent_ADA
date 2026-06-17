@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedure",
+      "place",
+      "previously",
+      "omitted",
+      "property",
+      "upon",
+      "assessment"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-114"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-114. - Procedure to place previously omitted property upon assessment roll.",
+    "summary": "(a)\nWhenever by mistake, inadvertence or for any cause any tract otherwise subject to\n               assessment within any district shall have been omitted from the assessment roll for\n               any project, the council may upon its own motion or upon the application of the owner\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-114. - Procedure to place previously omitted property upon assessment roll.",
+        "a": "(a)\nWhenever by mistake, inadvertence or for any cause any tract otherwise subject to\n               assessment within any district shall have been omitted from the assessment roll for\n               any project, the council may upon its own motion or upon the application of the owner\n               of any tract within such district charged with the lien of an assessment for any project,\n               assess the same in accordance with the special benefits accruing to such omitted tract\n               by reason of such project and in proportion to the assessment levied upon other tracts\n               in such district.\n(b)\nIn any such case the council shall first pass a resolution setting forth that certain\n               tract therein described where omitted from such assessment and notifying all persons\n               who may desire to object thereto to appear at a meeting of the council at a time specified\n               in such resolution and to present their objection thereto and directing the engineer\n               to report to the council at or prior to the date fixed for such hearing the amount\n               which should be borne by each such tract so omitted, which notice resolution shall\n               be published and shall be given by mail to the last-known owner of each such tract.\n(c)\nAt the conclusion of such hearing or any adjournment thereof, the council shall consider\n               the matter as though each such tract had been included upon the original roll and\n               may confirm the same or any portion thereof by ordinance.\n(d)\nThereupon the assessment on such roll of each omitted tract shall be collected, the\n               payment of which shall be secured by an assessment lien; and a claim of lien for which\n               may be filed for record in the office of the county clerk as other assessments, as\n               provided in\nsection 78-113\nhereof.\n(Code 1981, § 27-114.1; Ord. No. 551, § 55, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-114"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

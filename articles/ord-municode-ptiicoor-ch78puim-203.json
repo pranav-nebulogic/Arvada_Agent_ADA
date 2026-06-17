@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalty",
+      "any",
+      "person",
+      "firm",
+      "corporation",
+      "shall",
+      "violate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-316"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-316. - Penalty.",
+    "summary": "If any person, firm, or corporation shall violate or cause the violation of any of\n               the provisions of this article, such person shall be held liable for each and every\n               day or portion thereof during which a violation is committed, continues, or is permitted,\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-316. - Penalty.",
+        "a": "If any person, firm, or corporation shall violate or cause the violation of any of\n               the provisions of this article, such person shall be held liable for each and every\n               day or portion thereof during which a violation is committed, continues, or is permitted,\n               and upon determination of any such violation such person, firm, or corporation shall\n               be required to pay a fine, charge, or fee for each such violation. The hearing officer\n               shall be empowered to issue an order to cease and desist and/or to issue an order\n               authorizing the city manager or designee to take necessary action to draw upon the\n               cash escrow or letter of credit in the event of a determination of a violation of\n               this article by any person, firm, or corporation.\n(Code 1981, § 27-225; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-316"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

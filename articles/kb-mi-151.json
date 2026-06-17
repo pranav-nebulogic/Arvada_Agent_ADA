@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "colorado",
+      "home",
+      "rule",
+      "cities",
+      "challenge",
+      "governor",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1417/Colorado-Home-rule-Cities-Challenge-Gove"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-151",
+    "spreadsheet_id": "MI-151",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Colorado Home-rule Cities Challenge Governor’s Executive Overreach and Withholding of State Funding",
+    "summary": "The cities of Arvada, Aurora, Lafayette, and Westminster have filed a motion for a preliminary injunction against Governor Jared Polis’s executive orders, which they claim unlawfully condition state grant funding on compliance with \\\"Strategic Growth Laws\\\" and infringe on their home-rule authority. The mayors argue that these orders create significant barriers to obtaining housing grants and threaten local governance, while also undermining efforts to address the state's housing crisis. They seek to halt enforcement of the orders until the legal case is resolved, citing potential irreparable harm to their funding opportunities.",
+    "body": "Arvada, CO — The Cities of Arvada, Aurora, Lafayette, and Westminster have filed a joint motion seeking a preliminary injunction to block enforcement of Governor Jared Polis’s unconstitutional executive orders that unlawfully condition state grant funding on compliance with so-called “Strategic Growth Laws,” and undermining the Cities’ home-rule authority.\n\nIssued in May and August 2025, the executive orders direct multiple state agencies to establish a “Compliance Framework” that imposes funding penalties that the state legislature did not authorize. Given the state’s substantial budget shortfall, the executive orders make it practically impossible for the Cities to obtain state housing grants. Denying funding to cities undermines the Governor’s goal of addressing the state’s housing crisis.\n\n“These Executive Orders are an overreach of executive authority and a direct threat to Colorado’s tradition of home rule,” said City of Arvada Mayor Lauren Simpson.\n\n“The Governor had unlawfully tied grant funding to his housing agenda, depriving local governments of our ability to tailor solutions that fit our communities as well as our residents of due process to have their voices heard on these projects that impact their lives. Arvada, like our partner cities in this litigation, is a pro-housing community, but we are against one-size-fits-all mandates and preemption of our Constitutional rights,” she continued.\n\n“The City of Lafayette has demonstrated a strong commitment to affordable housing for many years. Lafayette leads Boulder County communities in our percentage of affordable housing and is on track to meet its 12% goal of deed-restricted affordable housing units by 2035, “ said City of Lafayette Mayor JD Mangat.\n\nThe Governor’s executive orders will cause immediate and irreparable harm by deprioritizing cities for essential state and federal funding opportunities without any avenue for appeal, and the cities are asking the court to pause enforcement of the orders until the case can be fully heard.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

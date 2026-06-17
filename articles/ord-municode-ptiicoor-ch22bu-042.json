@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "transfer",
+      "ownership",
+      "application",
+      "shall",
+      "made",
+      "licensing",
+      "authority"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-172"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-172. - Transfer of ownership.",
+    "summary": "(a)\nApplication shall be made to the licensing authority prior to any transfer of ownership\n               on forms prepared and furnished by the city clerk. In determining whether to permit\n               a transfer of ownership, the licensing authority shall consider the requirements of\nsection 22…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-172. - Transfer of ownership.",
+        "a": "(a)\nApplication shall be made to the licensing authority prior to any transfer of ownership\n               on forms prepared and furnished by the city clerk. In determining whether to permit\n               a transfer of ownership, the licensing authority shall consider the requirements of\nsection 22-177\n. The licensing authority may cause a hearing on the application for transfer of ownership\n               to be held. No such hearing shall be held by the licensing authority until public\n               notice has been given as provided in\nsection 22-168\nherein and written notice of the hearing has been provided to applicant at least\n               ten days prior to the hearing.\n(b)\nWhen a license has been issued to a husband and wife or to general or limited partners,\n               the death of a spouse or partner shall not require the surviving spouse or partner\n               to obtain a new license. All rights and privileges granted under the original license\n               shall continue in full force and effect as to such survivors until the license is\n               transferred, revoked or otherwise cancelled.\n(c)\nA licensee shall report each transfer or change of financial interest in the license\n               to the licensing authority within 30 days after the transfer or change. A report shall\n               be required for transfers of capital stock of a public corporation; except that a\n               report shall not be required for transfers of stock totaling less than ten percent\n               on one year, but any transfer of controlling interest shall be reported, regardless\n               of size.\n(Code 1981, § 16-12; Ord. No. 3292, § 1, 10-21-1996)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-172"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

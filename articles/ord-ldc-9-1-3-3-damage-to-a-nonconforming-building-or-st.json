@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "damage",
+      "nonconforming",
+      "building",
+      "structure",
+      "cost",
+      "repair",
+      "percent",
+      "more",
+      "appraised",
+      "value"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-3-3"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-3. NONCONFORMING BUILDINGS AND STRUCTURES"
+  },
+  "content": {
+    "title": "9-1-3-3. Damage to a nonconforming building or structure.",
+    "summary": "A.\tCost of Repair is 50 Percent or More of Appraised Value.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-3-3. Damage to a nonconforming building or structure.",
+        "a": "A.\tCost of Repair is 50 Percent or More of Appraised Value. If a nonconforming building or structure is damaged to the extent that the cost of repair is 50 percent or more of the appraised value of the subject property (including the building or structure) for ad valorem tax purposes, then future construction on the subject property shall conform to the requirements of this LDC.\nB.\tCost of Repair is Less than 50 Percent of Appraised Value. If a nonconforming building or structure is damaged to the extent that the cost of repair is less than 50 percent of the appraised value of the subject property (including the building or structure) for ad valorem tax purposes, then restoration is allowed, provided that it is commenced within six months after the damage, and completed within 12 months after commencement."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

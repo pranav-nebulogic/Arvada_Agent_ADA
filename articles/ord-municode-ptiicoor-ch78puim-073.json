@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "time",
+      "contract",
+      "sell",
+      "bonds",
+      "termination",
+      "council",
+      "enter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-74"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-74. - Time of contract to sell bonds; termination.",
+    "summary": "The council may enter into a contract to sell bonds at any time; but, any other provisions\n               hereof notwithstanding, if the council so contracts before it awards a construction\n               contract or otherwise contracts for acquiring or improving, or acquiring and improving,\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-74. - Time of contract to sell bonds; termination.",
+        "a": "The council may enter into a contract to sell bonds at any time; but, any other provisions\n               hereof notwithstanding, if the council so contracts before it awards a construction\n               contract or otherwise contracts for acquiring or improving, or acquiring and improving,\n               the project, the council may terminate the contract to sell the bonds if, before the\n               awarding of the construction contract or otherwise contracting for the acquisition\n               or improvement, or acquisition and improvement, of the project, it determines not\n               to acquire or improve, or acquire and improve, the project and if the council has\n               not elected to proceed under\nsection 78-47\nor\n78-48\nhereof but has elected to proceed by independent contract pursuant to\nsection 78-46\n(1), if at all.\n(Code 1981, § 27-75; Ord. No. 551, § 25(J), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-74"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

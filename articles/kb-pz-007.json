@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "development",
+    "tags": [
+      "olde",
+      "town",
+      "residential",
+      "neighborhood",
+      "district",
+      "based",
+      "Planning & Zoning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/222/OT-RN-Olde-Town-Residential-Neighborhood"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/development/pz-007",
+    "spreadsheet_id": "PZ-007",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "OT-RN  (Olde Town Residential Neighborhood) District",
+    "summary": "The Olde Town Residential Neighborhood (OT-RN) District in Arvada aims to preserve the historic character of the area through form-based zoning that permits a mix of residential, commercial, and community uses. Allowed uses include single-family homes, duplexes, multiplexes, and various limited commercial activities, with specific regulations outlined in the Land Development Code for each category.",
+    "body": "The intent of the Olde Town form-based zoning districts is to protect the established historic character of Olde Town Arvada based on the City's adopted plans and design guidelines for the area. The Olde Town Residential Neighborhood zoning district is a mixed-use zone district allowing multiplex, single-family, duplex, and accessory building form types.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#taba41480b3-2a05-48b2-b942-1225cbebdab1_0)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Single-Family Detached | A | N/A |\n| Duplex | A | N/A |\n| Multiplex | A | N/A |\n| Boarding, Lodging, or Rooming House | A | N/A |\n| Group Home, FFHA | L | 3-1-3-3 |\n| Group Home, Not Specified Above | C | 3-1-3-1 |\n| Live-Work Unit | L | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#taba41480b3-2a05-48b2-b942-1225cbebdab1_1)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Bar / Tavern / Nightclub | L | 3-1-3-4 |\n| Bed and Breakfast | L | 3-1-3-4 |\n| Brew Pub / Distillery Pub / Limited Winery | L | 3-1-3-4 |\n| Recreation, Outdoor (other) | L | 3-1-3-4 |\n| Restaurant | L | 3-1-3-4 |\n| Restaurant, Fast Food | L | 3-1-3-4 |\n\n1. [Commercial Uses](#taba41480b3-2a05-48b2-b942-1225cbebdab1_2)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Art Studio / Makerspace | L | 3-1-3-5 |\n| Office, General or Professional | A | N/A |\n| Retail Sales and Services Type 1 | L | 3-1-3-5 |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#taba41480b3-2a05-48b2-b942-1225cbebdab1_3)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Day Care Center, Adult or Child | A | N/A |\n| Medical Office | A | N/A |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | L | 3-1-3-6 |\n| Private School, Kindergarten, Elementary, Middle, or High | A | N/A |\n| Private School, Vocational, Trade, College, or University | A | N/A |\n\n1. [Utility & Communications Uses](#taba41480b3-2a05-48b2-b942-1225cbebdab1_4)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Minor | L | 3-1-3-9 |\n| Other Wireless Communications Facilities | L | Chapter 7 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

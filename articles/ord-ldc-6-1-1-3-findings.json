@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "findings",
+      "city",
+      "finds",
+      "content",
+      "neutrality",
+      "viewpoint",
+      "fundamental",
+      "fairness",
+      "regulation",
+      "review"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-1-3"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-1. PURPOSE; PUBLIC INTERESTS; FINDINGS; AND RELATIONSHIP TO OTHER REGULATIONS"
+  },
+  "content": {
+    "title": "6-1-1-3. Findings.",
+    "summary": "The City finds that:\n  1.\tContent-neutrality, viewpoint neutrality, and fundamental fairness in regulation and review are essential to ensuring an appropriate balance between the important, substantial, and compelling interests set out in Section 6-1-1-2, Public Interests, and the constitutionally-p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-1-3. Findings.",
+        "a": "The City finds that:\n  1.\tContent-neutrality, viewpoint neutrality, and fundamental fairness in regulation and review are essential to ensuring an appropriate balance between the important, substantial, and compelling interests set out in Section 6-1-1-2, Public Interests, and the constitutionally-protected right to free expression.\n  2.\tThe regulations set out in this Article are unrelated to the suppression of constitutionally-protected free expression, do not relate to the content of protected messages that may be displayed on signs, and do not relate to the viewpoint of individual speakers.\n  3.\tThe incidental restriction on the freedom of speech that may result from the regulation of signs pursuant to this Article is no greater than is essential to the furtherance of the important, substantial, and compelling interests that are advanced herein.\n  4.\tRegulation of the location, number, materials, height, sign area, form, and duration of display of temporary signs is essential to preventing sign clutter.\n  5.\tTemporary signs may be degraded, damaged, moved, or destroyed by wind, rain, snow, ice, and sun, and after such degradation, damage, movement, or destruction, such signs harm the safety and aesthetics of the City's streets if they are not removed.\n  6.\tCertain classifications of speech are not constitutionally protected due to the harm that they cause to individuals or the community.\n  7.\tThis Article represents the City's best effort to advance the City's legitimate, important, substantial, and compelling interests while ensuring consistency with an evolving legal framework. This Article is based on extensive public involvement and legal research so that on the date of adoption it is calibrated to community consensus regarding aesthetics and consistent with controlling law."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-1-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

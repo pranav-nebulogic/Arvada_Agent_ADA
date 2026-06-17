@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "burden",
+      "proof",
+      "unless",
+      "otherwise",
+      "provided",
+      "ordinance",
+      "except"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-180"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-180. - Burden of proof.",
+    "summary": "(a)\nUnless otherwise provided by ordinance, and except as provided in this section, the\n               party requesting the hearing and seeking to have an administrative determination of\n               the city modified or overturned shall assume the burden of proof. In matters falling\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-180. - Burden of proof.",
+        "a": "(a)\nUnless otherwise provided by ordinance, and except as provided in this section, the\n               party requesting the hearing and seeking to have an administrative determination of\n               the city modified or overturned shall assume the burden of proof. In matters falling\n               under the provisions of\nsection 70-170\n, the city shall assume the burden of proof.\n(b)\nBurden of proof shall mean the affirmative obligation of a party to present evidence\n               and argument sufficient to convince the hearing officer, to the appropriate legal\n               standard set forth in this article, of the correctness and merit of that party's position.\n               The opposing party shall not have an affirmative obligation to present evidence and\n               argument, but must do so to challenge or rebut any evidence proffered by the party\n               bearing the burden of proof.\n(c)\nThe standard of proof shall be that generally applicable to review of administrative\n               actions of a local government entity or agency in the state.\n(1)\nIn those matters involving review of the city's actions pursuant to\nsection 70-170\n, that standard of proof shall be substantial and competent evidence supporting the\n               administrative determination of an appointing authority. Substantial and competent\n               evidence is that which a reasonable mind might accept as adequate to support a conclusion.\n(2)\nUnless otherwise provided by ordinance, other hearings held pursuant to this article\n               shall be subject to a proof standard of a preponderance of the evidence by the party\n               bearing the burden of proof. A preponderance of the evidence is evidence which is\n               of greater weight or more convincing than the evidence which is offered in opposition\n               to it.\n(d)\nThe party bearing the burden of proof shall go first in presentation at any hearing,\n               inclusive of any preliminary statements, presentation of the evidence, and in closing\n               statements. In addition, the party bearing the burden of proof shall have a final\n               rebuttal after presentation by the opposing party.\n(Code 1981, § 2-145; Ord. No. 3608, §§ 1, 2, 4-3-2003;\nOrd. No. 4049, § 1, 1-8-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-180"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

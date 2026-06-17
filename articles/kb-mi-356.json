@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "noise",
+      "control",
+      "excessive",
+      "loud",
+      "ordinance",
+      "unreasonable",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/914/Noise-Control"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-356",
+    "spreadsheet_id": "MI-356",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Noise Control",
+    "summary": "The City of Arvada enforces a Noise Control ordinance that prohibits unreasonable noise detrimental to public health and safety, particularly between the hours of 9 p.m. and 7 a.m. For special events that generate excessive noise, such as concerts or block parties, a permit is required to obtain relief from this ordinance.",
+    "body": "The City of Arvada's Noise Control ordinance addresses the prohibition of unreasonable noise and the manner in which the ordinance is enforced. Unreasonable noise includes excessive, unnecessary, or unusually loud noises within City limits that are of detriment to public health, comfort, convenience, safety, and the welfare of community members. **Generally speaking, excessive or unusually loud noise that takes place between 9 p.m. and 7 a.m. is not allowed.** [Read Arvada's Noise Control ordinance for specific details regarding unreasonable noise and how the City enforces noise control.](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN_ARTIINOCO)\n\n## Special Events and Noise\n\nIf hosting a special event with excessive loud noise, such as a concert, park event, block party, etc., a permit for relief from the Noise Control ordinance is required. This applies to events with excessive loud noise that take place on both public and private property. [This can be obtained by following the steps outlined in the Special Event permitting process.](https://www.arvadaco.gov/670/Special-Event-Permit-for-All-Other-Event)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

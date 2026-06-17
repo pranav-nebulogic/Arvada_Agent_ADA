@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "division"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-151"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-151. - Definitions.",
+    "summary": "The following words, terms, and phrases, when used in this division, shall have the\n               following meanings:\nLoading and/or unloading\nmeans the continuous and uninterrupted activity of placing property into or removing\n               property from a vehicle, or the receiving or discharging…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-151. - Definitions.",
+        "a": "The following words, terms, and phrases, when used in this division, shall have the\n               following meanings:\nLoading and/or unloading\nmeans the continuous and uninterrupted activity of placing property into or removing\n               property from a vehicle, or the receiving or discharging of passengers from a vehicle.\nTime,\nin the context of hours set forth on any traffic control sign, means mountain standard\n               time, or mountain daylight time, depending on the date as prescribed by state law.\nTraffic control sign\nmeans a temporary or permanent sign or structure on, above, or adjacent to a street\n               or in a parking structure or lot placed by authority of a city official having jurisdiction\n               for the purpose of regulating, warning, or guiding traffic, or limiting, regulating,\n               restricting, or prohibiting the parking, standing, or stopping of vehicles.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-151"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

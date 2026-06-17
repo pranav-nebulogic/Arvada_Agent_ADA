@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "iii",
+      "nuisances",
+      "footnotes",
+      "editor",
+      "note",
+      "ord",
+      "adopted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 38-121"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — ARTICLE III. - NUISANCES",
+    "summary": "Footnotes:\n--- (\n2\n) ---\nEditor's note—\nOrd. No. 4095, § 1, adopted November 19, 2007\n, repealed Art. III, §§ 38-121—38-134, 38-161—38-171, in its entirety, which pertained\n               to nuisances. Section 2 of said ordinance enacted provisions designated as a new Art.\n               III, §§ 38-…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE III. - NUISANCES",
+        "a": "Footnotes:\n--- (\n2\n) ---\nEditor's note—\nOrd. No. 4095, § 1, adopted November 19, 2007\n, repealed Art. III, §§ 38-121—38-134, 38-161—38-171, in its entirety, which pertained\n               to nuisances. Section 2 of said ordinance enacted provisions designated as a new Art.\n               III, §§ 38-121—38-125, 38-141, 38-161, to read as herein set out. See the Code Comparative\n               Table for a detailed analysis of inclusion.\nCross reference—\nNuisance animals, § 14-53.\nState Law reference—\nPower of city council to define, abate and fine for nuisances, C.R.S. § 31-15-401;\n               abatement of public nuisances, C.R.S. § 16-13-301 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 38-121"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

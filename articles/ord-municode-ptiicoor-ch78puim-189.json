@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "time",
+      "completion",
+      "all",
+      "work",
+      "covered",
+      "permit",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-302"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-302. - Time of completion.",
+    "summary": "All work covered by the permit shall be completed by the date stated on the application.\n               Permits shall be void if work has not commenced six months after issuance, unless\n               the director has granted an extension. Cash escrows or letters of credit deposited\n               a…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-302. - Time of completion.",
+        "a": "All work covered by the permit shall be completed by the date stated on the application.\n               Permits shall be void if work has not commenced six months after issuance, unless\n               the director has granted an extension. Cash escrows or letters of credit deposited\n               as a performance warranty/guarantee for individual permits will be returned after\n               voiding of the permit, with administrative and any other the city costs deducted.\n(Code 1981, § 27-211; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-302"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

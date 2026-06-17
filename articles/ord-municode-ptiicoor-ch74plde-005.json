@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "chair",
+      "rules",
+      "records",
+      "planning",
+      "commission",
+      "shall",
+      "elect"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-63"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-63. - Chair; rules; records.",
+    "summary": "The planning commission shall elect its chairperson from among the appointed members\n               and create and fill such other of its offices as it may determine. The term of the\n               chairperson shall be one year, with eligibility for reelection. The commission shall\n               ho…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-63. - Chair; rules; records.",
+        "a": "The planning commission shall elect its chairperson from among the appointed members\n               and create and fill such other of its offices as it may determine. The term of the\n               chairperson shall be one year, with eligibility for reelection. The commission shall\n               hold at least one regular meeting in each month. It shall adopt rules for transaction\n               of business and shall keep a record of its resolutions, transactions, findings and\n               determinations, which record shall be a public record.\n(Code 1960, § 2-22; Code 1981, § 25-33)\nState Law reference—\nSimilar provisions, C.R.S. § 31-23-204."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-63"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

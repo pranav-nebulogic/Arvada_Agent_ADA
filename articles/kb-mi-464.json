@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "report",
+      "crime",
+      "emergency",
+      "online",
+      "crimes",
+      "emergencies",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/555/Report-a-Crime"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-464",
+    "spreadsheet_id": "MI-464",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Report a Crime",
+    "summary": "To report a crime in Arvada, call 911 for emergencies or 303-980-7300 for non-emergency issues. Non-emergency crimes can be reported online if there is no suspect information, the crime is non-violent and occurred more than 30 minutes ago. Certain crimes, such as assaults and auto accidents, must be reported directly to the police rather than online.",
+    "body": "## Emergencies\n\nIf you are experiencing a safety, medical, or another emergency**, dial 911** on your phone. If you cannot speak to a dispatcher, you may be able to **text 911**.\n\nOnline reporting is **not monitored** 24/7.\n\nDo **not** submit crimes in progress or emergencies using any of the available forms.\n\n## Non-Emergency Crimes\n\n### Reporting Online\n\nYou **may**complete a report online if **all**of the following apply:\n\n- There is **no suspect** information\n- The crime is **non-emergency**and **not violent**\n- Crime is **not in progress**\n- Crime happened **more than 30 minutes ago**\n\nFor the following crimes:\n\n- Criminal Mischief/Vandalism\n- Defacing Property/Graffiti\n- Fraud\n- Garage Burglary\n- Identity Theft\n- Supplemental Report\n- Theft\n\nYou **cannot** complete a report online if **any** of the following apply:\n\n- The suspect's identity is known\n- The crime is an **emergency or****violent**\n- Crime is**in progress**\n- Crime happened**less than 30 minutes ago**\n\nThe following crimes cannot be reported online to Arvada PD:\n\n- Any type of Assault\n- Domestic Violence Related\n- Auto Accidents\n- Stolen License Plate\n- Stolen Vehicles\n- Stolen Weapons, Guns, Ammunition, etc.\n\nThese items should be reported immediately to (303) 980-7300, or **911 if the situation is an emergency**\n\nIf the incident you need to report meets the above criteria, [complete your report online](https://secure.coplogic.com/dors/startreport/300004805).\n\nThe Arvada Police Department's online reporting service is provided for your convenience to report non-emergency crimes or incidents that have occurred within the City limits of Arvada. This report is for your information or insurance purposes only. If a case number is assigned, it will be provided within three days via email, or by U.S. Postal Service if an email address is not available. A Police Services Technician may call you if more information is required.\n\n### Jeffcom 911 (Dispatch)\n\nThe [Jefferson County Communication Center](https://www.jeffcom911co.gov/) answers 911 and non emergency lines for the Arvada Police Department and the Arvada Fire Protection District.\n\n**For emergencies, call 911.**For non-emergency public safety issues, call **303-980-7300**.\n\n### In Person\n\nVisit your local Arvada Police Department sector to report a crime in person. If you're not sure where your sector, explore a map and contact details at [Police Sectors in Arvada](/550/Sector-Policing).\n\n## Submit a Crime Tip\n\nIf you want to remain anonymous and have information about a crime to share, [Submit a Crime Tip](/585) online. If you want to submit a tip about a crime in progress, call 303-980-7300.\n\n## Additional Information\n\n### Auto Accidents\n\nThe Arvada Police Department cannot complete accident reports online. If an officer was not called to the scene of an accident, the involved drivers should complete a report online as soon as possible with the [State of Colorado Division of Motor Vehicles](https://dmv.colorado.gov/report-accident).\n\n### Internet Fraud\n\nThe Arvada Police Department investigates some Internet cases that allege criminal intent. However, the Arvada Police Department will not investigate complaints that allege inferior quality, merchant issues or cases that do not meet theft statute requirements. The Arvada Police Department will screen each complaint on a case-by-case basis. The decision to prosecute is solely that of the District Attorney's Office.\n\n### Parking Violations\n\nParking Enforcement is a shared responsibility between LAZ Parking and the Arvada Police Department.\n\n- For parking complaints in and around Olde Town Arvada, please [email LAZ Parking](/cdn-cgi/l/email-protection#bbcbdac9d0dac9cddadfdafbd7dac1cbdac9d0d2d5dc95d8d4d6) or 720-364-8587\n- For ongoing issues with permit restriction violations related to city parks and schools, please [email LAZ Parking](/cdn-cgi/l/email-protection#deaebfacb5bfaca8bfbabf9eb2bfa4aebfacb5b7b0b9f0bdb1b3) or 720-364-8587.\n- For parking permits visit [City Parking Permits](/465/Parking-Permit-Registration)\n- For urgent parking concerns (blocking a driveway/roadway/fire hydrant), contact the Arvada Police Department at 303-980-7300.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

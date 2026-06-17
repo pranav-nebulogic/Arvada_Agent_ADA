@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definition",
+      "purposes",
+      "chapter",
+      "terms",
+      "park",
+      "public",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-21"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-21. - Definition.",
+    "summary": "For the purposes of this chapter, the terms \"park\" and \"public park\" shall be defined\n               to include any recreation facility located within the city, owned by either the city\n               or the North Jeffco Metropolitan Park and Recreation District, including, but not\n               li…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-21. - Definition.",
+        "a": "For the purposes of this chapter, the terms \"park\" and \"public park\" shall be defined\n               to include any recreation facility located within the city, owned by either the city\n               or the North Jeffco Metropolitan Park and Recreation District, including, but not\n               limited to, swimming pools, tennis courts, ice rinks, basketball courts, pedestrian\n               and bicycle paths, green belts, picnic facilities, lawns and gardens.\n(Code 1960, § 17-35; Code 1981, § 22-1)\nCross reference—\nDefinitions,\n§ 1-2\n.\nState Law reference—\nMetropolitan recreation districts, C.R.S. § 32-2-101 et seq.; special district elections,\n               C.R.S. § 32-1-801 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-21"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

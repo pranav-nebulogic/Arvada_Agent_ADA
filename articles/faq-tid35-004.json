@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-35-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "reduce",
+      "exposure",
+      "pfas",
+      "manufacturers",
+      "consumers",
+      "limit",
+      "stop",
+      "use",
+      "Water - PFAS Information"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=35"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-can-we-reduce-our-exposure-to-pfas",
+    "faq_category_name": "Water - PFAS Information"
+  },
+  "content": {
+    "title": "How can we reduce our exposure to PFAS?",
+    "summary": "Manufacturers and consumers can limit or stop the use of products containing PFAS. Look for \"PFAS free\" statements or commitments from manufacturers on the products you buy. If you are still concerned and want to use a Point of Use filter ensure that it states \"PFAS-removing\" and maintain filters ac…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How can we reduce our exposure to PFAS?",
+        "a": "Manufacturers and consumers can limit or stop the use of products containing PFAS. Look for \"PFAS free\" statements or commitments from manufacturers on the products you buy. If you are still concerned and want to use a Point of Use filter ensure that it states \"PFAS-removing\" and maintain filters according to instructions. If you choose to use bottled water, use a brand that clearly states treatment with \"reverse osmosis\" or \"ion exchange\". Note that the FDA, not the EPA, regulates bottled water. At this time there are no specific regulations for PFAS in bottled water. The State and Federal governments have also created new regulations on the manufacture and sale of PFAS-containing products. Colorado's HB22-1345 is one example."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

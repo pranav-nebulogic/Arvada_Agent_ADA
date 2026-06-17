@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "connection",
+      "city",
+      "water",
+      "system",
+      "property",
+      "owners",
+      "using"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-35"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-35. - Connection to the city water system of property owners using shallow groundwater for their drinking water supply.",
+    "summary": "Property owners using shallow groundwater for their drinking water supply may connect\n               to the city water supply system under the following circumstances:\n(1)\nThe property and water use is located within the municipal boundaries of the city\n                  as of January 1, 1998. A pro…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-35. - Connection to the city water system of property owners using shallow groundwater for their drinking water supply.",
+        "a": "Property owners using shallow groundwater for their drinking water supply may connect\n               to the city water supply system under the following circumstances:\n(1)\nThe property and water use is located within the municipal boundaries of the city\n                  as of January 1, 1998. A property that annexes after January 1, 1998 is not eligible\n                  to utilize this provision.\n(2)\nAn occupied residential unit has been in existence prior to January 1, 1998 and the\n                  sole source of water for the unit is from an existing shallow (less than 60 feet deep)\n                  groundwater well. The existing water supply must be:\na.\nContaminated and not suitable as a drinking water supply under the Colorado Department\n                  of Public Health and Environment rules and regulations; or\nb.\nPhysically no longer adequate for domestic use.\n(3)\nAll connection costs including the meter, meter pit, plumbing, tapping fees, inspections,\n                  main extension, etc., shall be borne by the property owner. The connection work shall\n                  be in compliance with the engineering specifications and building regulations of the\n                  city.\n(4)\nThe cost of the water tap may be deferred until the ownership of the property changes.\n                  When the property ownership changes the cost of the tap shall be due and payable immediately.\n                  The cost of the tap shall be determined in accordance with the system development\n                  charges in effect at the time payment is made.\n(5)\nThe property owner shall be responsible for the payment of the monthly service and\n                  rate charges associated with the delivery of treated water through the city water\n                  system. All ordinance provisions regarding the payment for water received through\n                  the city system shall remain in full force.\n(6)\nIn the event the water system development charge is not paid, collection of said fee\n                  may be pursued pursuant to the provisions of\nchapter 59\nentitled \"municipal liens.\" If the property becomes vacant before system development\n                  charges have been paid, the tap will be disconnected and not eligible for any system\n                  development charge credits for future development.\n(Code 1981, § 33-4.1; Ord. No. 3461, § 1, 7-6-1998;\nOrd. No. 4042, § 8, 12-11-2006\n; Ord. No. 4819, § 6, 10-17-2022, eff. 7-1-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

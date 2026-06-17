@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "default",
+      "authority",
+      "nothing",
+      "article",
+      "shall",
+      "construed",
+      "limiting"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-53"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-53. - Default by authority.",
+    "summary": "Nothing in this article shall be construed as limiting the power of the authority\n               to vest in:\n(1)\nAn obligee the right, in the event of default by the authority, to take possession\n                  of a housing project or cause the appointment of a receiver thereof, free from all\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-53. - Default by authority.",
+        "a": "Nothing in this article shall be construed as limiting the power of the authority\n               to vest in:\n(1)\nAn obligee the right, in the event of default by the authority, to take possession\n                  of a housing project or cause the appointment of a receiver thereof, free from all\n                  the restrictions imposed by this article with respect to rentals, tenant selection,\n                  manner of operation or otherwise;\n(2)\nObligees, pursuant to\nsection 46-64\n, the right, in the event of default by the authority, to acquire title to a housing\n                  project or the property mortgaged by the housing authority, free from all the restrictions\n                  imposed by this article except those imposed by\nsections 46-64\nand\n46-68\n.\n(Code 1981, § 14-22; Ord. No. 1248, § 8(2), 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-210(2)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-53"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

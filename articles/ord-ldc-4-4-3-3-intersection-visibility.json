@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "intersection",
+      "visibility",
+      "generally",
+      "zoning",
+      "districts",
+      "corner",
+      "nothing",
+      "erected",
+      "placed",
+      "parked"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-4-3-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-4. ACCESS, CIRCULATION, MOBILITY, AND UTILITIES",
+    "division": "DIVISION 4-4-3. STREETS"
+  },
+  "content": {
+    "title": "4-4-3-3. Intersection visibility.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-4-3-3. Intersection visibility.",
+        "a": "A.\tGenerally. In all zoning districts, on any corner lot, nothing shall be erected, placed, parked, planted, or allowed to grow in such a manner as materially to impede visibility at the intersection.\nB.\tMinimum Sight Distances.\n  1.\tThe minimum sight distances shall be in compliance with the Transportation Standards in the Engineering Code of Standards and Specifications and the current standards of the American Association of State Highway and Transportation Officials (AASHTO \"Green Book\")\nC.\tSight Triangles at Driveways. On the front property line of any lot or tract, no structure, fence, wall, sign, or planting that will obstruct vision between a height of 24 inches and eight feet above the driveway or above the grade of the approach lane shall be erected, placed, or maintained within the triangular area formed by the edge of the driveway and the front lot line, extending a distance of five feet into the lot along the driveway, and ten feet along the front lot line away from the driveway.\nD.\tModification of Sight Distances and Sight Triangles.\n  1.\tThe Director may modify the minimum sight distances set out in Subsection B., above, where accepted engineering practice would indicate that a modified distance either greater or lesser, would be appropriate or necessary to protect public health, safety or welfare.\n  2.\tThe Director may modify the provisions of Subsection C., above, during the development approval process in order to allow for fences, walls, or plantings, if the Applicant demonstrates that the movement can be made safely considering sight distance, anticipated pedestrian and bicycle movements, and street geometrics."
+      }
+    ],
+    "ordinance_refs": [
+      "4-4-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

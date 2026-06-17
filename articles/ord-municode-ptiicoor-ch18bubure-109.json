@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "test",
+      "pressure",
+      "hereby",
+      "amended",
+      "entirety",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-325"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-325. - I.F.G.C. Section 406.4.1, Test pressure.",
+    "summary": "Section 406.4.1. Test pressure,\nis hereby amended in its entirety to read as follows:\n\"\n406.4.1. Test pressure.\nThe test pressure to be used shall be no less than 1 ½ times the proposed maximum\n                  working pressure, but not less than 10 psig (69 kPa gauge), irrespective of design\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-325. - I.F.G.C. Section 406.4.1, Test pressure.",
+        "a": "Section 406.4.1. Test pressure,\nis hereby amended in its entirety to read as follows:\n\"\n406.4.1. Test pressure.\nThe test pressure to be used shall be no less than 1 ½ times the proposed maximum\n                  working pressure, but not less than 10 psig (69 kPa gauge), irrespective of design\n                  pressure. Where the test pressure exceeds 125 psig (862 kPa gauge), the test pressure\n                  shall not exceed a value that produces a hoop stress in the piping greater than 50\n                  percent of the specified minimum yield strength of the pipe.\"\n(Ord. No.\n4738\n, § 9, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-325"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

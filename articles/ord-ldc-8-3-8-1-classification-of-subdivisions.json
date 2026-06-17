@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "classification",
+      "subdivisions",
+      "generally",
+      "there",
+      "types",
+      "purposes",
+      "minor",
+      "major",
+      "subdivision",
+      "containing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-8-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-8. SUBDIVISIONS"
+  },
+  "content": {
+    "title": "8-3-8-1. Classification of subdivisions.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-8-1. Classification of subdivisions.",
+        "a": "A.\tGenerally. There are two types of subdivisions for the purposes of this LDC: minor subdivisions and major subdivisions.\nB.\tMinor Subdivision.\n  1.\tA minor subdivision is a subdivision:\n    a.\tContaining nine or fewer lots or any number of air-space units, where the subject property was not originally subdivided by a Minor Subdivision Plat;\n    b.\tThat is processed in conjunction with a Site Plan regardless of the number of lots; or\n    c.\tFor boundary line/lot line adjustments, correction of errors on an approved Major Subdivision Final Plat or for vacation of utility easements.\n  2.\tMinor Subdivisions are processed administratively through a Minor Subdivision Plat.\nC.\tMajor Subdivision.\n  1.\tA major subdivision is a subdivision:\n    a.\tContaining ten or more lots; or\n    b.\tThat involves further subdivision of a lot or tract that was created by Minor Subdivision Plat, regardless of the number of lots or tracts that would be created by the proposed subdivision.\n  2.\tMajor subdivisions are processed by:\n    a.\tA Major Subdivision Concept Plan;\n    b.\tA Major Subdivision Preliminary Plat; and\n    c.\tA Major Subdivision Final Plat."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-8-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

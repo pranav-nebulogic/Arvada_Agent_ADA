@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "alternatives",
+      "subdivision",
+      "standards",
+      "article",
+      "subject",
+      "approval",
+      "director",
+      "prior",
+      "application",
+      "pursuant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-2-1-6"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-2. SUBDIVISION STANDARDS",
+    "division": "DIVISION 4-2-1. SUBDIVISION STANDARDS"
+  },
+  "content": {
+    "title": "4-2-1-6. Alternatives to subdivision standards.",
+    "summary": "Alternatives to the standards in this Article shall be subject to approval by the Director prior to approval of the subdivision application pursuant to Section 8-3-11-3, Administrative Minor Modifications.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-2-1-6. Alternatives to subdivision standards.",
+        "a": "Alternatives to the standards in this Article shall be subject to approval by the Director prior to approval of the subdivision application pursuant to Section 8-3-11-3, Administrative Minor Modifications."
+      }
+    ],
+    "ordinance_refs": [
+      "4-2-1-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

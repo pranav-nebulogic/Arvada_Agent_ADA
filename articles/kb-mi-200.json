@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "drone",
+      "first",
+      "responder",
+      "officers",
+      "allows",
+      "program",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1533/Drone-First-Responder-DFR"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-200",
+    "spreadsheet_id": "MI-200",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Drone First Responder (DFR)",
+    "summary": "The Arvada Police Department is launching a Drone as First Responder (DFR) program to improve situational awareness and response times during emergencies by deploying drones to provide real-time aerial information before officers arrive. The program is limited to specific incidents that enhance public safety, such as in-progress crimes and searches for missing persons, and is governed by strict policies to ensure privacy and accountability. All DFR operations will be documented, and information will be accessible through a transparency portal.",
+    "body": "## Overview\n\nThe Arvada Police Department is implementing a Drone as First Responder (DFR) program to enhance situational awareness and improve response to calls for service. This program allows trained personnel to deploy drones to certain incidents before officers arrive on scene.\n\n## How It Works\n\nWhen appropriate, a drone can be launched to provide real-time aerial information to responding officers. This allows officers to better understand the situation before arrival and make more informed decisions.\n\n### Public Safety Benefits\n\n- Improved situational awareness for responding officers\n- Faster information gathering during emergencies\n- More efficient use of resources, including prioritizing responses\n\n### Appropriate Use\n\nDFR deployments are limited to calls where aerial support would provide a clear public safety benefit, or otherwise to support City operations, such as:\n\n- In-progress crimes\n- Searches for suspects or missing persons\n- Hazardous or high-risk situations\n- Evaluating damage to City infrastructure\n\n### Safeguards and Privacy Protections\n\n- Drone use is governed by strict Department policy, laws, and FAA regulations\n- Drones are not used for random surveillance or general monitoring\n- Flights are conducted for specific public safety purposes only\n- All operations are documented and subject to review\n\n## Transparency and Accountability\n\nThe Department is committed to using drone technology responsibly, with clear limitations and oversight to protect community privacy while enhancing safety. Information about all DFR flights are available in the [DFR transparency portal](https://cloud.skydio.com/dashboard/d5a0507e-f4f1-41cc-a666-40dabdaa2286).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "february",
+      "business",
+      "chase",
+      "address",
+      "blvd",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1498/New-Businesses-February-2026"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-344",
+    "spreadsheet_id": "MI-344",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses February 2026",
+    "summary": "In February 2026, several new businesses opened in Arvada, Colorado, including ADA Sign Depot Inc, Chase ABB, and My Salon Suite of Arvada Colorado. Other notable additions are Chuck and Dons Pet Food, Mountain Rise Baking Company, and Watermill Auto & Pet Wash, among others. Each business has been assigned a specific address and contact number for inquiries.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew business listings for the month of February 2026\n\n| ADA Sign Depot Inc | 7295 W 56TH AVE ARVADA CO 80002 | 858-357-6019 |\n| Arvada IP LLC | 12191 W 64TH AVE ARVADA CO 80004 | 888-362-4502 |\n| Chase ABB | 6105 CHASE ST ARVADA CO 80003 | 720-419-4186 |\n| Chuck and Dons Pet Food | 7721 WADSWORTH BLVD B ARVADA CO 80003 | 651-240-5257 |\n| DiVito Dream Makers | 6390 GARDENIA ST 150 ARVADA CO 80004 | 303-565-2399 |\n| Gateway Arvada Ridge | 5458 LEE ST ARVADA CO 80002 | 303-420-7777 |\n| Magpie Human Systems | 6610 HOLMAN ST ARVADA CO 80004 | 720-900-0928 |\n| Mountain Rise Baking Company | ARVADA CO 80004 | 774-279-7569 |\n| My Book Cellar LLC | ARVADA CO 80003 | 303-915-7310 |\n| My Salon Suite of Arvada Colorado | 7330 W 52ND AVE ARVADA CO 80002 | 303-578-0040 |\n| Rose Interiors LLC | ARVADA CO 80002 | 847-917-9662 |\n| Sigma8Hive Consulting | ARVADA CO 80004 | 720-233-8407 |\n| Simply Floors and Paint | 5945 WARD RD ARVADA CO 80004 | 303-456-4660 |\n| Spanda Mind Body Therapy PLLC | 7703 RALSTON RD ARVADA CO 80002 | 720-484-8342 |\n| SRI Decks | 6612 FIG ST ARVADA CO 80004 | 303-421-6548 |\n| Stone Leaf Pottery | 6611 W 58TH PL ARVADA CO 80003 | 303-463-8081 |\n| Style and Spruce | ARVADA CO 80004 | 303-906-9034 |\n| Sugar Mama Cookies LLC | ARVADA CO 80003 | 972-841-6572 |\n| Two Brothers Heating & Cooling LLC | ARVADA CO 80004 | 318-548-5436 |\n| United Snow Removal and Landscaping LLC | ARVADA CO 80004 | 303-862-6986 |\n| US Lawns of Denver | ARVADA CO 80005 | 303-880-9738 |\n| Watermill Auto & Pet Wash | 9144 HOWELL ST ARVADA CO 80005 | 303-551-8118 |\n| Westwood Academy | 12665 W 52ND AVE 100 | 720-207-4935 |\n| WHB Enterprises LLC | ARVADA CO 80005 | 480-213-4513 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

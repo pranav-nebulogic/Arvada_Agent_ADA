@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "intent",
+      "purpose",
+      "city",
+      "owns",
+      "operates",
+      "public"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-271"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-271. - Legislative intent and purpose.",
+    "summary": "The city owns and operates a public water system that supplies safe drinking water\n               to citizens. As the operator of a public water system, the city is required to comply\n               with Colorado State regulations that protect city drinking water from potential contamination\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-271. - Legislative intent and purpose.",
+        "a": "The city owns and operates a public water system that supplies safe drinking water\n               to citizens. As the operator of a public water system, the city is required to comply\n               with Colorado State regulations that protect city drinking water from potential contamination\n               from an uncontrolled cross-connection. The City Council has determined that an uncontrolled\n               cross-connection presents a risk to the integrity of the public water system and to\n               the health and safety of the public. It is the intent of the City Council to protect\n               the city's water system from contamination due to backflow from a private water system,\n               and to provide for the maintenance of a continuing cross-connection control program\n               to help prevent the contamination of the city's water system. The purpose of this\n               article is to comply with Colorado health and safety laws and regulations that require\n               the city to protect its public water system from contaminants or pollutants that could\n               enter the distribution system by backflow from a customer's water supply system through\n               the service connection.\n(\nOrd. No. 4829\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-271"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

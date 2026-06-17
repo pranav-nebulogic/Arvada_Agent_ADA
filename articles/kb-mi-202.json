@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "drugs",
+      "prescription",
+      "counter",
+      "drug",
+      "over",
+      "substance",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/324/Drugs"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-202",
+    "spreadsheet_id": "MI-202",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Drugs",
+    "summary": "Drugs are categorized as either prescription medications, which require a doctor's directive, or over-the-counter (OTC) drugs, which can be purchased without a prescription. OTC drugs, such as pain relievers and cough syrups, are taxable when bought by consumers, while prescription drugs are exempt from sales tax when dispensed according to a licensed practitioner's order. Examples illustrate that purchases made without a written prescription are subject to tax, while those made with a prescription are not.",
+    "body": "A drug is a substance intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease or other conditions. Drugs are classified as substances obtainable only by physician directives (prescription and/or chart-ordered drugs) or as \"over-the-counter\" preparations available to the general public (non-prescription drugs).\n\n## Taxable Drugs\n\nAn \"over the counter\" drug is a medical substance that may be sold without a prescription and which is prepackaged for use by the consumer, properly labeled, and is unadulterated (\"in pure form\") in accordance with the requirements of the Colorado Food and Drug Act (CRS 25-5-402) and the Federal Food, Drug, and Cosmetic Act (Title 21 USC. 301 et seq., 52 Stat. 1040 et seq.).\n\n\"Over counter\" drugs such as aspirin, pain relievers, cold capsules, cough syrups, anti-bacterial ointments, creams, petroleum jelly, etc., are taxable when purchased by individuals without a written prescription.\n\n## Tax Exempt Drugs\n\n### Prescription or Other Written / Electronic Directive\n\nA prescription drug means a drug that, prior to being dispensed or delivered, is required by the federal Food, Drug, and Cosmetic Act, 21 USC. Sect. 301, et. seq., as amended, to state at a minimum the symbol \"Rx Only\", and is dispensed in accordance with any written or electronic order dated and signed by a licensed practitioner of the healing arts, or given orally by a practitioner and immediately reduced to writing by the pharmacist, assistant pharmacist, or pharmacy intern, specifying the name and any required information of the patient for whom the medicine, drug or poison is offered and directions, if any, to be placed on the label.\n\nA license to practice chiropractic does not grant the right to prescribe or administer drugs or to administer anesthetics - See CRS 12-33-118.\n\nSales of prescription drugs of any sort for other-than-human use are exempt (e.g. animal prescriptions) when prior to being dispensed or delivered, is required by the federal Food, Drug, and Cosmetic Act, 21 USC. Sect. 301, et. seq., as amended, to state at a minimum the symbol \"Rx Only\", and is dispensed in accordance with any order in writing, dated and signed by a licensed veterinarian specifying the animal for which the medicine or drug is offered and directions, if any, to be placed on the label.\n\n## Examples\n\n- John receives a written prescription for penicillin from his physician, which he delivers to the neighborhood pharmacy. The pharmacy dispenses the drug according to the instructions detailed in the prescription which specify the name and address of the person for whom the medicine or drug is ordered, the name of the drug, and directions for use. Neither the purchase of the drug by the pharmacy nor the sale of the medication to John is subject to sales or use tax.\n- John makes an appointment to see his physician and requests and receives a flu shot. He also relates an incident in which he sustained a blow to his cheek resulting in a small laceration. His physician determines that suturing of the laceration is needed. As part of this procedure, he injects a solution to anesthetize the area. His physician also provides John with 8 pain pills and directs him to take 2 tablets every 4 hours if needed for discomfort. A specific charge is made for the flu shot on his billing; however, a charge is not made for the anesthetic injection or the pills. The physician's purchases of medications furnished by a doctor, which are not specifically billed to the patient, are also exempt from sales or use tax.\n- Betty calls her physician complaining of cold symptoms. He tells her to take aspirin and cough syrup. Betty goes to the drugstore to buy these items per her conversation with her physician. The items are taxable because there is no written prescription and are purchased \"over the counter\".\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

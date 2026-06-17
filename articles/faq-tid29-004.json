@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-29-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "sober",
+      "living",
+      "facilities",
+      "regulated",
+      "house",
+      "bill",
+      "went",
+      "into",
+      "Group Homes"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=29"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-are-sober-living-facilities-regulated",
+    "faq_category_name": "Group Homes"
+  },
+  "content": {
+    "title": "How are sober living facilities regulated?",
+    "summary": "House Bill 19-1009, which went into effect in 2019, introduces new legislation that provides oversight for Sober Living Facilities. After January 1, 2020, all Sober Living Facilities will have to obtain certification from the Colorado Office of Behavioral Health in the Department of Human Services, …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How are sober living facilities regulated?",
+        "a": "House Bill 19-1009, which went into effect in 2019, introduces new legislation that provides oversight for Sober Living Facilities. After January 1, 2020, all Sober Living Facilities will have to obtain certification from the Colorado Office of Behavioral Health in the Department of Human Services, unless the facility is chartered by Oxford House, or has operated as a recovery residence in Colorado for 30 or more years. The certification requirements will be established by the Colorado Office of Behavioral Health. Sober Living Facilities, like all other properties in the City, must also comply with the City's building, land use, and criminal codes, and any other applicable laws. The City will enforce against any violations of these laws."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

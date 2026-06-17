@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "consignment",
+      "sales",
+      "code",
+      "personal",
+      "property",
+      "tangible",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/309/Consignment-Sales"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-011",
+    "spreadsheet_id": "BP-011",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Consignment Sales",
+    "summary": "The Arvada Municipal Code mandates that sales tax must be collected on the full sales price of tangible personal property sold at retail, including goods on consignment. Sellers, including agents like auctioneers and sales representatives, are responsible for collecting and remitting this tax, even if they act on behalf of another party. The code also outlines what constitutes \\\"engaged in business\\\" within the city, which includes various activities related to the sale and distribution of goods.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property and certain taxable services in the City of Arvada (COA) by the ultimate user or consumer. This also includes a use tax upon using, storing, distributing, or otherwise consuming in the COA any article of tangible personal property purchased, leased, or rented from sources outside the COA on which a lawfully imposed sales tax has not been paid.\n\nAny seller who takes goods on consignment must collect sales tax on the full sales price when the goods are sold at retail. Even though the seller (the consignee) may be acting as an agent in selling goods for the consignor, this does not relieve the consignee of the responsibility to collect the sales tax. The Arvada Municipal Code defines the term \"retailer\" to include any person who sells goods as a direct or indirect agent of or obtains such property sold from a dealer, distributor, supervisor, or employer.\n\n## Agents: Salespersons, Auctioneers, & Manufacturer's Representatives\n\nThe Arvada Municipal Code defines \"retailer\" as \"...any person selling, leasing, or renting, or granting a license to use tangible personal property or services at retail.\" Specifically included in this definition are auctioneers, as well as salespersons and representatives who make sales as a direct or indirect agent of another party (principal). An agent is a person authorized by another to act for him/her or one authorized to transact the business of a principal. Examples of agents include salespeople, auctioneers, and manufacturer's representatives. An agent is responsible for the collection and remittance of the sales tax whenever the principal of the agent is not licensed to collect sales tax.\n\nArvada's Municipal Code defines \"engaged in business in the City\" as performing or providing services or selling, leasing, renting, delivering, or installing tangible personal property for storage, use, or consumption within the City. This includes but is not limited to maintaining a place of business, sending or maintaining employees or agents to solicit business or to install, repair, or demonstrate products, etc., owning, leases, or rents real property, or making continuous deliveries into the taxing jurisdiction which establishes a minimum connection with the taxing jurisdiction.\n\n## Examples\n\n- John has a retail outlet for goods made by local artisans. The craftspeople place their goods on consignment with John to be sold to the general public. As the retailer, John must collect sales tax on the sales of the consigned goods.\n- Charlie operates an auction house and takes goods on consignment from businesses seeking to dispose of outdated or overstocked items, estates needing to liquidate assets such as furniture, etc., or anyone with items they want to sell. As the retailer, Charlie must collect sales tax on the sales of the consigned goods.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

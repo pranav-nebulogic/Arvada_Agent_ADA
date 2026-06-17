@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contractor",
+      "owner",
+      "responsibility",
+      "licensed",
+      "occupant",
+      "responsible",
+      "installation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-103"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-103. - Contractor/owner responsibility.",
+    "summary": "(a)\nThe licensed contractor or owner/occupant responsible for the installation of waterflow\n               control plumbing fittings specified in this division will provide information upon\n               request to the building inspection division certifying that the fittings are in conformance\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-103. - Contractor/owner responsibility.",
+        "a": "(a)\nThe licensed contractor or owner/occupant responsible for the installation of waterflow\n               control plumbing fittings specified in this division will provide information upon\n               request to the building inspection division certifying that the fittings are in conformance\n               with the maximum waterflow to volumes stipulated herein. Testing reports by a recognized,\n               independent testing laboratory or reports of tests performed by the manufacturer,\n               using established principles of mechanics, are acceptable.\n(b)\nAll waterflow control fittings installed as specified in this division will be maintained\n               in a sanitary working condition and free of defects which may reduce the effectiveness\n               of water conservation.\n(Code 1981, § 33-53; Ord. No. 2574, § 1, 11-21-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-103"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

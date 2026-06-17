@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "step",
+      "formal",
+      "application",
+      "checklist",
+      "materials",
+      "compile",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/378/Step-2-Your-Formal-Application"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-519",
+    "spreadsheet_id": "MI-519",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Step 2: Your Formal Application",
+    "summary": "To submit a formal application for land development in Arvada, applicants must compile materials using a custom checklist provided by their designated planner, which includes a complete online application form, proof of ownership, and title commitment. The updated process utilizes the SMART License & Permits portal for document management, requiring all submitted documents to be bookmarked and combined into a single PDF, following specific formatting protocols. For subsequent reviews, applicants must provide both a written response to staff comments and revised plans, adhering to the same submission guidelines.",
+    "body": "## Compile Materials\n\n### Custom Checklist\n\nYour designated planner will provide you with a custom checklist of documents to be submitted as part of your formal application after your pre-application meeting. The checklist will be available through SMART License & Permits. Following your checklist will expedite the process. Use your checklist to compile all materials, documents and information to ensure your application is ready for submittal.\n\n### Core Requirements\n\nThe following materials are required for all Land Development Applications.\n\n- Complete Online Application Form and Payment of Processing Fees\n- Legal Description, Current Proof of Ownership Authorization (if necessary), Title Commitment\n\n## Submittal Document Requirements\n\nThe City of Arvada has implemented an updated process to simplify and improve the management of Development Documents. Documents will be transmitted between the City and the Developer/Applicant/Contractor through the SMART License & Permits portal found at [Arvada Permits Site](http://www.arvadapermits.org/). The review and markup of documents is done collaboratively among departments through Bluebeam, a PDF viewer and review system. A Bluebeam reader ([Bluebeam Vu](https://www.bluebeam.com/solutions/vu/)) is available for free to members of the public and development teams who would like to view and respond via this system. Other PDF management software, such as Adobe, can also be used but these software packages may not have as many tools as those available through Bluebeam. More sophisticated Bluebeam versions are also available for purchase by going to [Bluebeam](https://www.bluebeam.com/) and selecting \"Solutions\".\n\n### Preparing & Submitting the Initial Document for Development Projects\n\nThe [Bluebeam Document Management Protocol (PDF)](/DocumentCenter/View/353) should be followed when creating documents to be submitted for review by the City for various types of development projects. Please provide this information to your design team so they are able to include the appropriate bookmarks and format for easier document management.\n\n1. All pages of documents submitted to the City must be bookmarked for ease of locating information within the plan sets. Bookmarks must include the page number and general title or description of the page contents.\n2. The applicant must combine all pages into a single PDF document in the following order:\n   1. Plans\n   2. Reports\n   3. Legal Documents\n   4. Miscellaneous Documents\n\n**Important**: Please ensure that the bookmarks for each page are retained when combining documents.\n\n1. The single PDF document must be renamed in accordance with the correct naming convention (discussed later on this page) before being submitted to the City.\n2. When uploading documents to your development case through the SMART License & Permits portal, a single large document may take some time to load depending on your network configuration or internet connection speed. If you have difficulties, please check these items and retry the upload. If you've made multiple attempts to upload your document, the network and internet connections have been checked, and you still have not had success, please contact the Planning Department administrative staff for troubleshooting and assistance. The staff will review the program history, identify your upload attempts and assist you with the issue.\n\n### Preparing & Submitting Document for any Second & Future Reviews\n\nWhen creating documents addressing issues noted on the second and subsequent reviews, the following protocol is to be used. Note, two documents must be provided for these reviews, a written response document (text) and a revised plans document that follows the same protocol as the original submittal document.\n\n### Response Document\n\nThe applicant must provide a text response document that addresses each comment made by staff. If multiple consultants or designers are responding to comments, please combine all documents into a single PDF and follow the naming convention noted in the previous using the word \"Response\" in the name (ex: 2nd Submittal Applicant Response)\n\n## Revised Plan Document\n\nAll pages of documents submitted to the City must be bookmarked for ease of locating information within the plan sets. Bookmarks must include the page number and general title or description of the page contents.\n\nThe applicant must combine all pages into a single PDF document in the following order:\n\n1. Plans\n2. Reports\n3. Legal Documents\n4. Miscellaneous Documents\n\n### Naming Convention\n\nDocuments**submitted by the applicant** will be titled as:\n\n- Review Iteration\\_Submittal Documents\n  - And\n- Review Iteration\\_Applicant Response\n\nDocuments **returned from staf****f** will be:\n\n- Review Iteration\\_Comments\\_Date\n\nExample:\n\n- 1st Submittal Documents\n- 1st Review Comments February 16, 2022\n- 2nd Submittal Documents\n- 2nd Submittal Applicant Response\n- 2nd Review Comments 04-02-2022\n- 3rd Submittal Documents\n- 3rd Submittal Applicant Response\n\n**Important**: Please ensure that the bookmarks for each page are retained when combining documents.\n\nThe single PDF document must follow the naming convention noted in the previous (ex: 2nd Submittal Documents)\n\n## Submit Your Formal Application\n\nOnce your application materials are compiled submit your application using SMART License & Permits ([Arvada Permits Site](https://aca-prod.accela.com/ARVADA)).\n\n**Warning:**Incomplete applications and/or documents will not be accepted, resulting in a delay in the review process.\n\n**Note:** Providing a complete set of detailed plans and all required reports and studies will facilitate movement through the development review process.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

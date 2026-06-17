@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "applicability",
+      "division",
+      "create",
+      "adaptable",
+      "well",
+      "connected",
+      "transportation",
+      "system",
+      "provides"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-4-3-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-4. ACCESS, CIRCULATION, MOBILITY, AND UTILITIES",
+    "division": "DIVISION 4-4-3. STREETS"
+  },
+  "content": {
+    "title": "4-4-3-1. Purpose and applicability of division.",
+    "summary": "A.\tPurpose. The purpose of this Division is to create an adaptable and well-connected transportation system that provides superior access to all sidewalks, trails, bike lanes, transit, and streets, that minimize impacts on air quality, and that reduces reliance on the automobile.\nB.\tApplicability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-4-3-1. Purpose and applicability of division.",
+        "a": "A.\tPurpose. The purpose of this Division is to create an adaptable and well-connected transportation system that provides superior access to all sidewalks, trails, bike lanes, transit, and streets, that minimize impacts on air quality, and that reduces reliance on the automobile.\nB.\tApplicability. The standards of this Division shall apply to all development in the City, except insofar as they are in conflict with more specific standards that are applicable to the development."
+      }
+    ],
+    "ordinance_refs": [
+      "4-4-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

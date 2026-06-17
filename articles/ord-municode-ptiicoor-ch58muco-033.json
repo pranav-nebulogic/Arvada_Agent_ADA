@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "employment",
+      "agreement",
+      "each",
+      "municipal",
+      "judge",
+      "except",
+      "presiding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-79"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-79. - Employment agreement.",
+    "summary": "Each municipal judge, except the presiding judge, shall execute an employment agreement\n               which may be subject to renewal on an annual calendar basis at the sole discretion\n               of the city council. The presiding judge shall be responsible for notifying the city\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-79. - Employment agreement.",
+        "a": "Each municipal judge, except the presiding judge, shall execute an employment agreement\n               which may be subject to renewal on an annual calendar basis at the sole discretion\n               of the city council. The presiding judge shall be responsible for notifying the city\n               council at least 60 calendar days before the employment agreements of the associate\n               and relief judges are to expire. The city council shall retain the sole discretion\n               whether to renew an employment agreement with any municipal judge. Failure to renew\n               the employment agreement of a particular judge by the city council shall result in\n               automatic termination of that municipal judge at the end of the calendar year. The\n               city council shall not be obliged to divulge the reasons, if any exists, for nonrenewal\n               of any employment contract with any municipal judge.\n(Code 1981, § 18-48; Ord. No. 3676, § 1, 1-22-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-79"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "recording",
+      "filing",
+      "requirements",
+      "generally",
+      "after",
+      "final",
+      "approval",
+      "annexation",
+      "ordinance",
+      "applicant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-3-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-3. ANNEXATION AND DISCONNECTION"
+  },
+  "content": {
+    "title": "8-3-3-5. Recording and filing requirements.",
+    "summary": "A.\tGenerally. After the final approval of the annexation map and ordinance, the Applicant shall submit to the Director signed mylar maps of the annexed property containing original signatures.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-3-5. Recording and filing requirements.",
+        "a": "A.\tGenerally. After the final approval of the annexation map and ordinance, the Applicant shall submit to the Director signed mylar maps of the annexed property containing original signatures. The Director may also require a digital copy of the map in a format approved by the Director.\nB.\tReferral to City Clerk. Upon receipt of the documents described in Subsection A., the Director shall forward such documents to the City Clerk. The City Clerk shall:\n  1.\tCause the annexation map, two copies of the certified annexation ordinance, the annexation agreement, if applicable, and any other written agreements or documents which the Director requires to be recorded, and all other necessary filings as required by C.R.S. § 31-12-113 to be recorded in the County or Counties in which the subject property is located; and\n  2.\tThe Applicant shall pay all recording fees."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-3-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

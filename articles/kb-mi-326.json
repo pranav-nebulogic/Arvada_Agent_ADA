@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "municipal",
+      "code",
+      "shoveling",
+      "walkways",
+      "snow",
+      "blowing",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/411/Municipal-Code-for-Shoveling-Walkways"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-326",
+    "spreadsheet_id": "MI-326",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Municipal Code for Shoveling Walkways",
+    "summary": "Arvada residents are reminded that the Municipal Code mandates the removal of snow, ice, and slush from sidewalks within 24 hours after a snowfall. This requirement applies to property owners of premises other than one- or two-family dwellings and includes all walkways, exterior stairs, driveways, and parking areas. For further details, residents can contact Neighborhood Services at 720-898-7465.",
+    "body": "![Person Snow Blowing](/ImageRepository/Document?documentID=370 \"Person Snow Blowing\")\n\nJust a friendly reminder to Arvada residents that the Arvada Municipal Code requires that snow, ice, and slush **be removed from sidewalks within 24 hours after the end of a snowfall**.\n\nThe [Municipal Code Sec. 18-491. I.P.M.C. Section 302.3.3](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE_ARTXIINPRMACO_S18-491I.SE302.3.3SNREGE), Snow Removal Generally reads:\n\nThe owner of any premises other than a one- or two-family dwelling unit, or agent thereof, shall remove from sidewalk and sidewalk areas snow, ice, or slush within 24 hours of the end of any snowfall or ice storm. For purposes of enforcement of this section 302.3.3, \"sidewalk\" means that portion of a street between the curb lines or the lateral lines of a roadway and the adjacent property lines intended for the use of pedestrians. It also includes all other walkways where ever they may be located on the property, exterior stairs, driveways, parking spaces, and similar areas.\n\nFor more information contact Neighborhood Services at 720-898-7465.\n\n## Featured Video\n\nView more videos on our [YouTube](https://www.youtube.com/user/cityofarvada/playlists) channel.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

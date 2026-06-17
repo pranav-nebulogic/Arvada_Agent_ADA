@@ -1,0 +1,55 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "table",
+      "acronyms",
+      "sets",
+      "used",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "11-2-2-1"
+    ],
+    "chapter": "Chapter 11 MEASUREMENTS, RULES OF CONSTRUCTION, AND DEFINITIONS",
+    "article": "ARTICLE 11-2. ACRONYMS",
+    "division": "DIVISION 11-2-2. ACRONYMS"
+  },
+  "content": {
+    "title": "11-2-2-1. Table of acronyms.",
+    "summary": "Table 11-2-2, Table of Acronyms, sets out the acronyms that are used in this Code.\n(Ord. No. 4867, § 7, 2-12-2024)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "11-2-2-1. Table of acronyms.",
+        "a": "Table 11-2-2, Table of Acronyms, sets out the acronyms that are used in this Code.\n(Ord. No. 4867, § 7, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "11-2-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

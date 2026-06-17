@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "schedule",
+      "sales",
+      "tax",
+      "hereby",
+      "imposed",
+      "all",
+      "commodities"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-76"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-76. - Schedule of sales tax.",
+    "summary": "There is hereby imposed a tax on all sales of commodities and services specified in\nsection 98-66\n, and not otherwise exempt in\nsection 98-70\n, in the amount of 3.46 percent of the purchase price. In order to avoid fractions\n               of pennies, the following brackets shall be applicable to al…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-76. - Schedule of sales tax.",
+        "a": "There is hereby imposed a tax on all sales of commodities and services specified in\nsection 98-66\n, and not otherwise exempt in\nsection 98-70\n, in the amount of 3.46 percent of the purchase price. In order to avoid fractions\n               of pennies, the following brackets shall be applicable to all taxable transactions:\n(1)\nOn sales amounting to $0.18 to and including $0.31, a tax of $0.01;\n(2)\nOn sales amounting to $0.32 to and including $0.62, a tax of $0.02;\n(3)\nOn sales amounting to $0.63 to and including $0.93, tax of $0.03;\n(4)\nOn sales in excess of $1.00, the tax shall be 3.46 percent on each full dollar of\n                  the sales price, plus the tax shown on the above schedule for the applicable fractional\n                  part of a dollar of the sale price.\n(Code 1981, § 31-50; Ord. No. 3783, § 2, 12-16-2002; Ord. No. 3980, § 2, 12-12-2005)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-76"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

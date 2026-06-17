@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "floodplain",
+      "hearing",
+      "officer",
+      "generally",
+      "purposes",
+      "administering",
+      "regulations",
+      "forth",
+      "division",
+      "director"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-1-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-1. CITY STAFF AND REFERRAL AGENCIES"
+  },
+  "content": {
+    "title": "8-1-1-5. Floodplain hearing officer.",
+    "summary": "A.\tGenerally. For purposes of administering the floodplain regulations set forth in Division 4-1-2, Floodplain Regulations, the Director of the Department of Public Works shall appoint a qualified Floodplain Hearing Officer.\nB.\tDuties and Responsibilities.\n  1.\tAdministrative Reviews.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-1-5. Floodplain hearing officer.",
+        "a": "A.\tGenerally. For purposes of administering the floodplain regulations set forth in Division 4-1-2, Floodplain Regulations, the Director of the Department of Public Works shall appoint a qualified Floodplain Hearing Officer.\nB.\tDuties and Responsibilities.\n  1.\tAdministrative Reviews. The Floodplain Hearing Officer shall be responsible for conducting an Administrative Review of all allegations of error in any requirement, decision, or determination made by the Floodplain Administrator in the enforcement or administration of the floodplain regulations.\n  2.\tVariances from Floodplain Regulations. The Floodplain Hearing Officer shall be responsible for reviewing floodplain variance applications seeking hardship relief from application of the floodplain regulations and shall take final action to approve, approve with conditions, or deny such application.\nC.\tConduct of Administrative Review Proceedings. The Floodplain Hearing Officer shall conduct all Administrative Reviews and requests for a variance in accordance with the provisions governing the conduct of administrative hearings set forth in Chapter 2, Article V, Division 3, Arvada City Code."
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-1-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

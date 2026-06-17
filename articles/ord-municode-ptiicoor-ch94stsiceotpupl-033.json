@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "maintenance",
+      "responsibility",
+      "shall",
+      "present",
+      "future",
+      "owner",
+      "property"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-68"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-68. - Maintenance responsibility.",
+    "summary": "It shall be the responsibility of present and future owner of property adjacent to\n               all streets to provide for the maintenance of all facilities and landscape area from\n               the property line out to the main traveled portion of the roadway. This shall include,\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-68. - Maintenance responsibility.",
+        "a": "It shall be the responsibility of present and future owner of property adjacent to\n               all streets to provide for the maintenance of all facilities and landscape area from\n               the property line out to the main traveled portion of the roadway. This shall include,\n               but is not limited to, the curb, gutter, sidewalks and landscaping, except where the\n               rear lot line of a residential property is adjacent to the street. This section shall\n               be applicable to all property within the city.\n(Code 1981, § 30-83; Ord. No. 1432, § 12, 3-6-1978; Ord. No. 3018, § 2, 11-15-1993;\n               Ord. No. 3860, § 10, 3-15-2004)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-68"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "exemptions",
+      "partial",
+      "article",
+      "does",
+      "apply",
+      "signs",
+      "type",
+      "installed",
+      "posted",
+      "required"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-2-2"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-2. APPLICABILITY; EXEMPTIONS; PERMIT EXCEPTIONS; SIGN DISTRICTS; AND MEASUREMENTS"
+  },
+  "content": {
+    "title": "6-1-2-2. Exemptions and partial exemptions.",
+    "summary": "A.\tExemptions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-2-2. Exemptions and partial exemptions.",
+        "a": "A.\tExemptions. This Article does not apply to signs of any type installed or posted (or required to be installed or posted) by the Federal government, the State of Colorado, Jefferson County (within its jurisdiction), Adams County (within its jurisdiction), the City, the Regional Transportation District, or a School District (collectively, \"Governmental Entities\") that are located in whole or in part within the City, on property owned or controlled by the Governmental Entity. Such signs include but are not limited to street signs and permanent traffic control devices, temporary signs that are used in conjunction with traffic control, and other signs that said entities display, require, or license to be displayed upon property that they own or control.\nB.\tPartial Exemptions. The following signs are subject only to Subsections D., E.1., E.2., E.3., and F. of Section 6-1-3-1, Prohibited Signs and Sign Elements, and to Section 6-1-3-2, No Regulation Based on Content; Exceptions, and shall not require a sign permit:\n  1.\tSigns that are not visible from any of the following areas due to the configuration of the building(s) or structure(s) or the topography of the site upon which the signs are located: residential lots, abutting property not under common ownership, public rights of way, or property located at a higher elevation than the property upon which the sign is displayed.\n  2.\tSigns that are not legible from abutting property or rights-of-way due to the configuration of the building(s) or structure(s) or the topography of the site upon which the signs are located or the orientation or setback or typeface of the sign, provided that the sign area is not more than 32 square feet.\n  3.\tSigns that are applied to or painted on a utility cabinet or pedestal, provided that:\n    a.\tThe cabinet or pedestal is in use for its principal purpose as a utility cabinet or pedestal and the sign does not interfere with such use;\n    b.\tThe cabinet or pedestal is not larger than four feet in horizontal dimension and five feet in vertical dimension; and\n    c.\tThe owner of the utility cabinet or pedestal consents to the installation of the sign."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

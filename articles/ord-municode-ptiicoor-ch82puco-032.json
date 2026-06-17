@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "informal",
+      "contract",
+      "claim",
+      "dispute",
+      "notice",
+      "required",
+      "deadline"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-93"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-93. - Informal contract claim dispute notice—required.",
+    "summary": "(a)\nDeadline for filing informal contract claim dispute notice.\nA claimant must file an informal contract claim dispute notice not later than 14\n               days after the claimant knows or should have known of the facts giving rise to the\n               claim, whichever is earlier.\n(b)\nMethod of…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-93. - Informal contract claim dispute notice—required.",
+        "a": "(a)\nDeadline for filing informal contract claim dispute notice.\nA claimant must file an informal contract claim dispute notice not later than 14\n               days after the claimant knows or should have known of the facts giving rise to the\n               claim, whichever is earlier.\n(b)\nMethod of filing informal contract claim dispute notice.\nThe claimant shall contact the purchasing manager in writing and provide information\n               specific enough for the purchasing manager to understand which contract is at issue,\n               the nature of the occurrence giving rise to the contract dispute or disputes, the\n               nature of the injury asserted by the contractor, and any suggested resolution to the\n               asserted claim or claims.\n(c)\nResolution of informal contract claim dispute.\nThe purchasing manager is authorized to review and respond to an informal contract\n               claim dispute notice. The purchasing manager shall, as soon as is practicable, respond\n               to the claimant in writing, stating the reason or reasons for the decision reached\n               by the purchasing manager. The purchasing manager's response must contain a copy of\n               the city's formal contract claim form.\n(d)\nEffect of failure to file informal contract dispute notice.\nFailure of a claimant to timely file an informal contract claim dispute notice shall\n               be deemed a waiver of the right to file a formal contract claim.\n(e)\nAppeal from denial of informal contract claim notice.\nShould the informal contract claim dispute resolution process set forth herein not\n               resolve the matter to the claimant's satisfaction, the claimant may then file a formal\n               contract claim as set forth in\nsection 82-93\n.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-93"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

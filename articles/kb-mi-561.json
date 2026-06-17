@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "transportation",
+      "committee",
+      "studies",
+      "agendas",
+      "aspx",
+      "bike",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/278/Transportation-Committee"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-561",
+    "spreadsheet_id": "MI-561",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Transportation Committee",
+    "summary": "The Transportation Committee is a citizen-led group focused on enhancing the safety, efficiency, and sustainability of the city's multi-modal transportation system through project prioritization and funding evaluations. Meetings are held at City Hall on the fourth Wednesday of each month at 5:30 pm, and the committee consists of 12 volunteer members who serve three-year terms and must be residents. Recruitment for new members will begin in December.",
+    "body": "## Overview\n\nThe Transportation Committee is a citizens’ committee that studies, recommends, and participates in a variety of efforts to foster a safe, efficient, and sustainable multi-modal transportation system. The Committee is involved in the prioritization of projects, bike, and pedestrian studies, and evaluating transportation funding options.\n\n## Meeting Information\n\n- 5:30 pm\n- 4th Wednesday of each month\n- City Hall\n\n### [Upcoming Meetings and Agendas](/calendar.aspx?CID=43)\n\n1. #### Wed, Jun. 24\n\n   **[Transportation Committee Meeting](/Calendar.aspx?EID=3522)**\n\n1. #### Wed, Jul. 22\n\n   **[Transportation Committee Meeting](/Calendar.aspx?EID=3511)**\n\n[View All](/calendar.aspx?CID=43)\n\n/Calendar.aspx\n\n## Board Details\n\n- 12 members\n- 3 year terms\n- Volunteer appointment\n- Must be a resident to serve\n\n## Interested in Joining the Transportation Committee?\n\nRecruitment to fill vacancies on boards and commissions will begin in December. You can review the application process on the main [Boards, Commissions and Committees page](/248/Boards-Commissions-and-Committees).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

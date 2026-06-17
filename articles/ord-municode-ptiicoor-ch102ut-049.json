@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "irrigation",
+      "water",
+      "landscaped",
+      "common",
+      "area",
+      "annual",
+      "allocation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-109"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-109. - Irrigation water to landscaped common area.",
+    "summary": "(a)\nThe annual allocation of water for irrigation of the total landscaped common area\n               is included in the annual allocation of water acquired when the tap fee is purchased\n               for the residential or nonresidential type of property as set forth in\nsections 102-34\n,\n102-161\n(3…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-109. - Irrigation water to landscaped common area.",
+        "a": "(a)\nThe annual allocation of water for irrigation of the total landscaped common area\n               is included in the annual allocation of water acquired when the tap fee is purchased\n               for the residential or nonresidential type of property as set forth in\nsections 102-34\n,\n102-161\n(3) and\n102-163\n(3). The city will permit installation of up to three service connections to the city\n               water main for the common area irrigation system by the property owner or responsible\n               caretaker association upon payment of connection costs, tapping and inspection fees\n               as set forth in\nsections 102-44\nand\n102-164\n(a)(1) and (2) or\nsection 102-166\n(a)(1) and (2). Each landscaped common area irrigation service connection will be\n               assigned a service address and billing account in the name of the property owner or\n               responsible caretaker association. The department of utilities prior to issuance of\n               building permits must approve the landscape and irrigation plans.\n(b)\nAll determinations concerning qualification as landscaped common area, non-water conserving\n               open space, water conserving open space or nonirrigated open space, and all determinations\n               as to the size and type of irrigation tap required, shall be at the sole discretion\n               of the director of utilities or his duly authorized representative, consistent with\n               the provisions of this article I. Any such determination involving area demarcations\n               or calculations, or volumetric calculations, shall be made available to the user for\n               inspection, upon request.\n(Code 1981, § 33-61; Ord. No. 3202, § 4, 8-7-1995; Ord. No. 3262, § 7, 4-15-1996)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-109"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

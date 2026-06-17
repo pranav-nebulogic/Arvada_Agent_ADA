@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sign",
+      "districts",
+      "generally",
+      "recognition",
+      "city",
+      "place",
+      "diverse",
+      "physical",
+      "character",
+      "different"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-2-4"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-2. APPLICABILITY; EXEMPTIONS; PERMIT EXCEPTIONS; SIGN DISTRICTS; AND MEASUREMENTS"
+  },
+  "content": {
+    "title": "6-1-2-4. Sign districts.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-2-4. Sign districts.",
+        "a": "A.\tGenerally. In recognition that the City is a place of diverse physical character, and that different areas of the City have different functional characteristics, this Article includes standards for signs that are based on the sign district in which the signs are located.\nB.\tSign Districts Created. The following sign districts are created:\n  1.\tOlde Town/Commercial, Neighborhood (OT, CN)\n  2.\tMixed-Use/Commercial/Industrial (MX,C,I)\n  3.\tMultifamily Residential (RM)\n  4.\tSingle-Family Residential (RS)\nC.\tRelationship to Zoning Districts. Sign districts shall correspond to zoning districts as provided in Table 6-1-2-4, Sign Districts.\nD.\tRelationship to Planned Unit Development. Planned unit developments that are approved after the effective date of this LDC shall include sign district designations as set out in Table 6-1-2-4, Sign Districts, or shall be processed with an application for a sign design program pursuant to Section 8-3-7-2, Alternative Sign Programs.\n(Ord. No. 4851, § 4, 7-10-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-2-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

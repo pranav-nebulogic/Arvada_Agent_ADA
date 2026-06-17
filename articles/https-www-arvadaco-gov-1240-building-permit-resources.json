@@ -1,0 +1,44 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/1240/Building-Permit-Resources"
+    ],
+    "scraped_at": "2026-06-10T11:05:18.236054+00:00",
+    "content_hash": "af56c1c16034001b8817b41363d1dbc1b2ee82f38906c361a2f7e449f1209d7c",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Building Permit Resources",
+    "summary": "This page provides resources related to building permits in the City of Arvada, CO. It includes information on managing notifications, saving form progress, and accessing building permit services.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": null,
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1148
+}

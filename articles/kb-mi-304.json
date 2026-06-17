@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "contractor login",
+      "AEC license",
+      "password reset",
+      "dashboard",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/605/Logging-in-as-a-Contractor"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-304",
+    "spreadsheet_id": "MI-304",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Logging in as a Contractor",
+    "summary": "Contractors in Arvada must log into the Permit Portal using their active Arvada license number, which begins with AEC. Returning users can sign in with their license number and password, while new users must reset their temporary password before accessing the system. Once logged in, contractors can manage permits, schedule inspections, and view project details from their dashboard.",
+    "body": "At the [Permit Portal]([NEW PORTAL URL]) contractors are requested to log into the system using their Arvada license number (starts with AEC). If you are new to the system please continue to the steps for \"New Contractor.\"\n\nThe following steps will show you how to successfully log into the system with your contractor license if you are a returning user.\n\n**Note:** Your contractor license must be active with the City of Arvada to use the Permit Portal.\n\n1. **Sign in:** Once on the homepage for the Permit Portal, at the top of your screen find the text box next to \"Arvada Contractor.\" Enter in your Arvada license number.\n2. **Enter license number and password:**Enter your Arvada license number in the text box that says user name. Enter in your password. If you are new to the system, you will have a temporary password that was provided to you at the time of your license issuance. Select \"Login.\"  \n\t**Note:** If you are logging in for your first time, or it has been 90 days since you changed your password last, you may be prompted to update your password.\n3. **Dashboard view:**  \n\tOnce you are logged into the system, you will see your dashboard. All permits and projects that are linked to you Arvada license number will be displayed here. From the dashboard you can schedule an inspection, pay fees, and re-print permits. All review notes and inspection results can be viewed by selecting the blue permit/project number. For more information, see [Monitoring Permit and Project Application Process](https://www.arvadaco.gov/611/Monitoring-Permit-Project-Application-Pr).\n\nIf you are new to the Permit Portal, you will need to change your password before applying for permits or scheduling inspections.\n\n1. **Initiate password reset:** Select \"Forgot Password\" at the top right of the page header. Select \"Contractor.\" Enter your Arvada License Number that was provided at registration. Select \"Reset Password.\"\n2. **Review email:** Review email for reset link. An email will be sent to the user account that was provided at registration. When email is received, select the “Reset Password’ link within the email.\n3. **Create new password:** Create new password and security questions. You will now enter a new personal password for your account and set two security questions. When finished, select “Save and Login” on the screen.\n4. **Continue to user dashboard:** Select \"Continue\" and you will now be logged into your account and ready to apply for permits and schedule inspections.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

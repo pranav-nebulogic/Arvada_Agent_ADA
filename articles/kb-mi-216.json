@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "excess",
+      "sales",
+      "collected",
+      "amount",
+      "period",
+      "applying",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/331/Excess-Sales-Tax"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-216",
+    "spreadsheet_id": "MI-216",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Excess Sales Tax",
+    "summary": "Excess sales tax refers to any amount collected by a retailer that exceeds the tax calculated based on the applicable city rate, which must be reported and remitted to the City of Arvada. Retailers cannot retain excess tax and must either refund it to identifiable customers or remit it to the city on a pro-rata basis. Additionally, under-collections at one store cannot offset over-collections at another, and any excess tax identified during an audit must be addressed according to the city's regulations.",
+    "body": "Excess tax shall mean that amount of City tax collected during a reporting period that is in excess of the amount yielded by applying the rate imposed by section 98-68 to City net taxable sales and services and which excessive collection must be remitted to the City.\n\nNo retailer shall retain any tax collected in excess of the tax computed but shall report such excess collections on the return for the period in which it was collected and include it in the calculation of tax due. If it is not possible to determine to whom the excess tax is due, the vendor should remit excess tax on a pro-rata basis to the City of Arvada (Arvada tax rate divided by the total combined tax rate). The retention by the vendor of any excess tax amounts or the intentional failure to remit punctually to the city the full amount required to be remitted is a violation of the Arvada Municipal Code - Chapter 98.\n\nIf a retailer operates more than one store within the city, any under-collection of sales tax in one store may not offset against an over-collection of sales tax in another store.\n\nIf the tax can be identified as having come from a specific taxpayer, the excess sales tax may be refunded to the taxpayer.\n\n## Example\n\nBob's Liquor store was audited by the City of Arvada. During the audit, it was discovered that Bob's cash register was programmed to collect a 9.25% sales tax rate. Bob has an accountant that prepares the monthly sales tax returns. Based on the sales tax returns filed, Bob remits sales tax at a rate of 7.96%. The accountant did not realize that a wrong tax rate was being collected and that there was excess sales tax generated. During the audit, the auditor identified a rate of 1.29% = (9.25% − 7.96%) in excess sales tax. Bob was advised to reprogram the cash register to the correct sales tax rate and to refund or remit the excess sales taxes collected either by:\n\n- Refund the tax to each customer(s), if they can be identified\n- Remit the excess to the State/City on a pro-rata basis\n- The City would assess the entire amount of the excess tax if the taxpayer is audited\n\nThe taxpayer may not retain any portion of the excess sales taxes. If the taxes are to be refunded or remitted on a pro-rata basis, proof must be provided that any and all excess tax due to the customer or State was actually paid.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

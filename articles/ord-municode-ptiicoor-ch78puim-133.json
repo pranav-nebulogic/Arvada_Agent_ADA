@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "issuance",
+      "refunding",
+      "bonds",
+      "any",
+      "issued",
+      "under",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-134"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-134. - Issuance of refunding bonds.",
+    "summary": "(a)\nAny bonds issued under this article may be refunded pursuant to an ordinance to be\n               adopted by the council in the manner herein provided for issuance of other bonds.\n               Refunding bonds so issued may be secured in such manner and may be made payable from\n               s…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-134. - Issuance of refunding bonds.",
+        "a": "(a)\nAny bonds issued under this article may be refunded pursuant to an ordinance to be\n               adopted by the council in the manner herein provided for issuance of other bonds.\n               Refunding bonds so issued may be secured in such manner and may be made payable from\n               such sources as was provided in the ordinance authorizing their issuance.\n(b)\nThe security for the payment of the refunding bonds shall not be greater than the\n               security for the payment of the bonds refunded, nor shall there be pledged for the\n               payment of the refunding bonds revenues which are not pledged for the payment of the\n               bonds refunded, unless approved by a majority of those qualified taxpaying electors\n               (as designated in\nsection 11.3\nof the Charter) voting on a proposal authorizing the city to issue such refunding\n               bonds.\n(c)\nRefunding bonds so issued may be sold at public or at private sale or may be exchanged\n               dollar for dollar for the bonds to be refunded.\n(d)\nIf sold, the proceeds of sale may be escrowed for the payment of the bonds to be refunded\n               in such manner as may be provided in the ordinance authorizing the refunding bonds.\n(e)\nNo bonds may be refunded hereunder unless they either mature or are callable for redemption\n               under their terms within 12 months from the date of issuance of the refunding bonds\n               or unless the holders thereof voluntarily surrender them for exchange or payment.\n(Code 1981, § 27-134; Ord. No. 551, § 75, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-134"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "specific",
+      "standards",
+      "optional",
+      "premises",
+      "licenses",
+      "pursuant",
+      "provisions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-121",
+      "§ 44-3"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-121. - Specific standards for optional premises licenses.",
+    "summary": "(a)\nPursuant to the provisions of C.R.S. § 44-3-310, specific standards as set forth in\n               this section are adopted for optional premises licenses and optional premises for\n               hotel and restaurant licenses.\n(b)\nAs used in this chapter, the words \"optional premises\" and \"outdo…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-121. - Specific standards for optional premises licenses.",
+        "a": "(a)\nPursuant to the provisions of C.R.S. § 44-3-310, specific standards as set forth in\n               this section are adopted for optional premises licenses and optional premises for\n               hotel and restaurant licenses.\n(b)\nAs used in this chapter, the words \"optional premises\" and \"outdoor sports and recreational\n               facility\" shall mean the same as defined in the Colorado Liquor Code, C.R.S. § 44-3-103.\n(c)\nThe outdoor sports and recreational facility, in conjunction with which the license\n               is sought, shall be a golf course, country club, racetrack, aquatic facility or equestrian\n               facility. There shall be no restriction on the size of such an outdoor sports and\n               recreational facility. No one licensee shall have more than six optional premises\n               on such outdoor sports and recreational facility.\n(d)\nEach applicant shall submit to the local licensing authority a map of the premises\n               on which is shown the following:\n(1)\nThe location of the outdoor sports and recreational facility;\n(2)\nThe location of all proposed optional premises;\n(3)\nThe seating, if any;\n(4)\nRestroom facilities, if any;\n(5)\nRestrictions, if any, to access to the optional premises; and\n(6)\nLocation of secured area or areas for use in storing malt, vinous and spirituous liquors\n               for future use on the optional premises.\n(e)\nEach applicant shall also submit to the local licensing authority a written statement\n               setting forth what will be done to secure the optional premises and storage area and\n               the reason why the local licensing authority should grant the license.\n(\nOrd. No. 4670\n, § 1, 12-17-2018)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-121",
+      "§ 44-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

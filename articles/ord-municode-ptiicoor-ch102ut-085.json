@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "division"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-201"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-201. - Definitions.",
+    "summary": "The following words, terms and phrases, when used in this division, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nBiochemical oxygen demand (BOD)\nmeans an element of quality index and means the …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-201. - Definitions.",
+        "a": "The following words, terms and phrases, when used in this division, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nBiochemical oxygen demand (BOD)\nmeans an element of quality index and means the quantity of oxygen utilized in the\n               biochemical oxidation of organic matter under standard laboratory procedure in five\n               days at 20 degrees centigrade, expressed in milligrams per liter (mg/l).\nExtra strength sewage\nmeans any sewage/wastewater having a strength in excess of 300 mg/l BOD and/or 300\n               mg/l SS, regardless of generating source.\nNormal strength sewage\nmeans any sewage/wastewater having a strength of less than 300 mg/l BOD and 300 mg/l\n               SS or less, regardless of generating source. Wastewater from residential facilities\n               is assumed to be 300 mg/l BOD and 300 mg/l SS or less.\nQuality\ndescribes the degree or amount of BOD and suspended solids (SS) contained in the\n               wastewater or sewage. It also may be referred to as \"strength\" and is used for classification\n               of types of sewage for rate-making purposes.\nSewage\nor\nwastewater\nare used interchangeably and mean water and liquid that has been used and is a combination\n               of the liquid and water-carried wastes discharged from residences, commercial buildings,\n               industrial plants, manufacturing plants and institutions.\nSuspended solids\nmeans an element of quality index and denotes the total suspended matter that either\n               floats on the surface of or is in suspension in water, wastewater or other liquids\n               and which are largely removable by laboratory filtering, expressed in milligrams per\n               liter (mg/l).\nTotal kjeldahl nitrogen (TKN)\nmeans an element of quality index and denotes the organic nitrogen content in wastewater\n               expressed in milligrams per liter (mg/l).\n(Code 1981, § 33-105; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2855, § 16, 10-21-1991;\n               Ord. No. 2931, § 21, 10-19-1992)\nCross reference—\nDefinitions,\n§ 1-2\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-201"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

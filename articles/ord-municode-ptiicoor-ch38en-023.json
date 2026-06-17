@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "landfilling",
+      "dumping",
+      "throwing",
+      "placing",
+      "any",
+      "rubbish",
+      "cans"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-141"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-141. - Landfilling and dumping.",
+    "summary": "(a)\nDumping, throwing or placing any rubbish, cans, boxes, trash, debris, grass clippings\n               or other waste materials on any private or public place in the city is hereby declared\n               to be a nuisance and prohibited.\n(b)\nDisposal or storage of rubbish, cans, boxes, trash, debr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-141. - Landfilling and dumping.",
+        "a": "(a)\nDumping, throwing or placing any rubbish, cans, boxes, trash, debris, grass clippings\n               or other waste materials on any private or public place in the city is hereby declared\n               to be a nuisance and prohibited.\n(b)\nDisposal or storage of rubbish, cans, boxes, trash, debris, grass clippings or other\n               waste materials on private or public property by covering such waste materials with\n               earth, dirt, sand, or other organic material is hereby declared to be a nuisance and\n               prohibited.\n(c)\nComposting, which shall mean the mixing of shredded and decayed organic matter with\n               dirt or earth for the purpose of fertilizing and conditioning soil to support plant\n               growth, shall not be deemed a violation of this section unless it creates a nuisance\n               by means of a foul odor, or other miscellaneous condition.\n(\nOrd. No. 4095, § 2, 11-19-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-141"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

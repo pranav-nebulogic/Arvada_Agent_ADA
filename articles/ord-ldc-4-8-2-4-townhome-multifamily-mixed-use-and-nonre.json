@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "townhome",
+      "multifamily",
+      "mixed",
+      "nonresidential",
+      "lighting",
+      "standards",
+      "generally",
+      "exterior",
+      "uses",
+      "conform"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-8-2-4"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-8. EXTERIOR LIGHTING",
+    "division": "DIVISION 4-8-2. GENERAL LIGHTING STANDARDS"
+  },
+  "content": {
+    "title": "4-8-2-4. Townhome, multifamily, mixed-use, and nonresidential lighting standards.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-8-2-4. Townhome, multifamily, mixed-use, and nonresidential lighting standards.",
+        "a": "A.\tGenerally. Exterior lighting on multifamily, mixed-use and nonresidential uses shall conform to the requirements of this section.\nB.\tExterior Fixture Types.\n  1.\t\"No cut-off\" fixtures may be used for:\n    a.\tDecorative purposes, provided that their luminaires produce no more than 1,500 lumens per fixture, and they are not installed more than eight feet above adjacent grade; and\n    b.\tIllumination of individual balconies, decks (including rooftop), or porches, provided that their luminaires produce no more than 1,500 lumens per fixture."
+      }
+    ],
+    "ordinance_refs": [
+      "4-8-2-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

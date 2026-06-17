@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "past",
+      "elections",
+      "election",
+      "results",
+      "https",
+      "munidocs",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/292/Past-Elections"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-396",
+    "spreadsheet_id": "MI-396",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Past Elections",
+    "summary": "The article provides information on past elections, including links to election results for Arvada, Jefferson County, and Adams County from various years. It also details the availability of candidate records, which include affidavits, campaign finance records, and committee registrations, maintained for one year after an election defeat or departure from office. Additionally, it notes that council district maps are redrawn every ten years following the federal census or as needed due to population changes.",
+    "body": "## Election Results\n\n- [Arvada combined election results (2013 to present)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=56bb270bdc3e5)\n- [Jefferson County election results (2008 to present)](https://www.jeffco.us/578/Election-Results)\n- [Adams County election results (2000 to present)](https://www.adamscountycoelections.gov/past-elections/#PastElections)\n\n## Candidate Records\n\n[Candidate Records](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=567c5404ef4b0) include:\n\n- Candidate Affidavits\n- Campaign Finance records\n- Candidate Committee registrations\n\nSearch for the candidate you would like to research, then the election they participated in. These candidate records are kept for 1 year after an election defeat, or until 1 year after an elected councilmember leaves office.\n\n## Council District Maps\n\n[District Maps](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=5742d853ea33a) are redrawn regularly every ten years, after each federal census. They may also be redrawn by order of the City Council due to changes in population.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

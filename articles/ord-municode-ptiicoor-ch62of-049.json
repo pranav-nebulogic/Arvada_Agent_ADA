@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "same",
+      "property",
+      "person",
+      "commits",
+      "crime",
+      "criminal",
+      "tampering"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-80"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-80. - Same—Property.",
+    "summary": "A person commits the crime of criminal tampering if that person tampers with property\n               of another with intent to cause injury, inconvenience, or annoyance to that person\n               or to another or if he knowingly makes an unauthorized connection with property of\n               a u…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-80. - Same—Property.",
+        "a": "A person commits the crime of criminal tampering if that person tampers with property\n               of another with intent to cause injury, inconvenience, or annoyance to that person\n               or to another or if he knowingly makes an unauthorized connection with property of\n               a utility.\n(Ord. No.\n4847\n, § 3, 7-10-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-80"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "duties",
+      "mayor",
+      "addition",
+      "set",
+      "forth",
+      "section",
+      "charter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-32",
+      "§ 2-33"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-32. - Duties of mayor.",
+    "summary": "In addition to the duties set forth in\nsection 4.5\nof the Charter, the mayor shall have the power to solemnize marriages.\n(Code 1981, § 2-33; Ord. No. 3861, § 1(2-33) 4-12-2004)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-32. - Duties of mayor.",
+        "a": "In addition to the duties set forth in\nsection 4.5\nof the Charter, the mayor shall have the power to solemnize marriages.\n(Code 1981, § 2-33; Ord. No. 3861, § 1(2-33) 4-12-2004)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-32",
+      "§ 2-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

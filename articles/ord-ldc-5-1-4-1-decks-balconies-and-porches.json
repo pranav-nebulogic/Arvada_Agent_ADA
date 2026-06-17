@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "decks",
+      "balconies",
+      "porches",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "zoning",
+      "districts",
+      "certain"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-4-1"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-4. SUPPLEMENT STANDARDS FOR ALL LAND USES"
+  },
+  "content": {
+    "title": "5-1-4-1. Decks, balconies, and porches.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-4-1. Decks, balconies, and porches.",
+        "a": "A.\tGenerally. The standards of this Section apply to decks, balconies, and porches in all zoning districts.\n  1.\tCertain decks, balconies, and porches may encroach into required setbacks as permitted by Section 2-1-10-1, Exceptions to Setback Standards.\n  2.\tDecks, balconies, and porches shall not encroach upon utility easements, access easements, ditch easements, public rights-of-way, or adjacent property unless the Applicant provides proof of consent from the owner of the affected easement or property.\nB.\tDecks and Balconies. No deck shall have a surface that is elevated higher than the floor level line or roofline of the second floor of the principal building. Balconies may be located above the second floor.\nC.\tCovered and/or Enclosed Porches or Patios. Covered and/or enclosed porches are subject to the same requirements as the building to which they are attached except Section 2-1-10-1, Exceptions to Setback Standards.\nD.\tAesthetics. Decks, balconies and porches shall be aesthetically consistent with the principal building."
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

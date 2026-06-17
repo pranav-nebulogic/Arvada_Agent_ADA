@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "other",
+      "temporary",
+      "uses",
+      "subject",
+      "division",
+      "procedures",
+      "review",
+      "criteria",
+      "forth",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-4-12"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-4. TEMPORARY USES"
+  },
+  "content": {
+    "title": "3-1-4-12. Other temporary uses.",
+    "summary": "Subject to this Division and the procedures and review criteria set forth in Section 8-3-5-5, Temporary Use Permit, the Director may approve other temporary uses and activities or special events if it is determined that such uses would not jeopardize the health, safety or general welfare, or be inju…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-4-12. Other temporary uses.",
+        "a": "Subject to this Division and the procedures and review criteria set forth in Section 8-3-5-5, Temporary Use Permit, the Director may approve other temporary uses and activities or special events if it is determined that such uses would not jeopardize the health, safety or general welfare, or be injurious or detrimental to properties adjacent to, or in the vicinity of, the proposed location of the activity.\n(Ord. No. 4793, § 2, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-4-12"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

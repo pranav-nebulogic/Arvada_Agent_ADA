@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedures",
+      "administration",
+      "directed",
+      "determine",
+      "cash",
+      "flow",
+      "past"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-233"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-233. - Procedures.",
+    "summary": "The administration is directed to determine the cash flow for the past two years and\n               the anticipated cash flow requirement for the current year to ascertain the reasonable\n               working capital balance necessary for proper operation plus knowledge for determination\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-233. - Procedures.",
+        "a": "The administration is directed to determine the cash flow for the past two years and\n               the anticipated cash flow requirement for the current year to ascertain the reasonable\n               working capital balance necessary for proper operation plus knowledge for determination\n               of proper maturities on investments. The director of finance shall establish and verify\n               the methods used for cash flow determination. The cash flow analysis and projection\n               shall be given to the council annually. The council shall be supplied at each council\n               meeting with a list of all investments purchased and sold or redeemed since the previous\n               council meeting together with the interest or return.\n(Code 1960, § 9-3(b); Code 1981, § 2-11)\nState Law reference—\nFinancial reports, C.R.S. § 31-20-304."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-233"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

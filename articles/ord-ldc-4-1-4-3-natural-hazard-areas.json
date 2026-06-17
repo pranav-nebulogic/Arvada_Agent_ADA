@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "natural",
+      "hazard",
+      "areas",
+      "subject",
+      "property",
+      "contains",
+      "potential",
+      "geologic",
+      "unstable",
+      "potentially"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-4-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-4. NATURAL HAZARDS AND ENVIRONMENTALLY-SENSITIVE AREAS"
+  },
+  "content": {
+    "title": "4-1-4-3. Natural hazard areas.",
+    "summary": "A.\tIf the subject property contains potential areas of natural or geologic hazard (such as unstable or potentially unstable slopes, faulting, landslides, or rockfalls) or soil conditions (including without limitation all expansive soils) unfavorable to development, or floodplains, the Applicant shal…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-4-3. Natural hazard areas.",
+        "a": "A.\tIf the subject property contains potential areas of natural or geologic hazard (such as unstable or potentially unstable slopes, faulting, landslides, or rockfalls) or soil conditions (including without limitation all expansive soils) unfavorable to development, or floodplains, the Applicant shall:\n  1.\tIdentify, on the plat, the LOD (as defined in Section 4-1-4-2, Limits of Development) and include a plat note that those areas are not available for development; or\n  2.\tProvide a report from a geotechnical engineer licensed in Colorado identifying the mitigation measures or engineering precautions necessary to make such areas safe for development and occupancy, and include a plat note stating that development will be subject to those mitigation measures and engineering precautions; or\n  3.\tIncorporate into the plat some combination of subsections (1) and (2) above.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-4-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

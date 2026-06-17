@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "public",
+      "interests",
+      "city",
+      "legitimate",
+      "important",
+      "substantial",
+      "compelling",
+      "interest",
+      "preventing",
+      "proliferation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-1-2"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-1. PURPOSE; PUBLIC INTERESTS; FINDINGS; AND RELATIONSHIP TO OTHER REGULATIONS"
+  },
+  "content": {
+    "title": "6-1-1-2. Public interests.",
+    "summary": "The City has a legitimate, important, substantial, or compelling interest in:\n  1.\tPreventing the proliferation of signs of generally increasing size, dimensions, and intrusiveness (also known as \"sign clutter\") that tends to result from property owners competing for the attention of passing motoris…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-1-2. Public interests.",
+        "a": "The City has a legitimate, important, substantial, or compelling interest in:\n  1.\tPreventing the proliferation of signs of generally increasing size, dimensions, and intrusiveness (also known as \"sign clutter\") that tends to result from property owners competing for the attention of passing motorists and pedestrians, because sign clutter:\n    a.\tCreates visual distraction and obstructs views, potentially creating safety hazards for motorists, bicyclists, and pedestrians;\n    b.\tMay involve physical obstruction of streets, sidewalks, bike lanes or trails, creating public safety hazards;\n    c.\tDegrades the aesthetic quality of the City, making the City a less attractive place for residents, business owners, visitors, and private investment; and\n    d.\tDilutes or obscures messages on individual signs due to the increasing intensity of competition for attention.\n  2.\tMaintaining and enhancing the historic character of Olde Town Arvada, a unique historic resource of exceptional quality and vibrancy;\n  3.\tProtecting the health of its tree canopy, an important community asset that contributes to the character, environmental quality, and economic health of the City and the region;\n  4.\tMaintaining a high quality aesthetic environment to protect and enhance property values, leverage public investments in streets, sidewalks, trails, plazas, parks, and landscaping, and enhance community pride; and\n  5.\tProtecting minors from speech that is harmful to them as provided by state or federal law, by preventing such speech in places that are accessible to and used by minors."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

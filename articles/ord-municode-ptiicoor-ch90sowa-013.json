@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "license",
+      "required",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "operate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-51"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-51. - License required.",
+    "summary": "(a)\nIt shall be unlawful for any person to operate solid waste, recyclable materials,\n               or compostable materials collection within the corporate limits of the city without\n               first obtaining a trash hauler's license for such activity.\n(b)\nThe following persons or entities ar…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-51. - License required.",
+        "a": "(a)\nIt shall be unlawful for any person to operate solid waste, recyclable materials,\n               or compostable materials collection within the corporate limits of the city without\n               first obtaining a trash hauler's license for such activity.\n(b)\nThe following persons or entities are not required to obtain a license:\n(1)\nA civic, community, or charitable nonprofit organization that collects, transports,\n               and markets materials for resource recovery solely for the purpose of raising funds\n               for a charitable or civic activity;\n(2)\nA person who transports solid waste or recyclable materials produced by such person;\n(3)\nA property owner or agent thereof who transports solid waste or recyclable materials\n               left by a tenant upon such owner's property, so long as such property owner does not\n               provide solid waste collection service for compensation for tenants on a regular or\n               continuing basis; and\n(4)\nA demolition or construction contractor or landscaper who produces and transports\n               solid waste in the course of such occupation, where the solid waste produced is merely\n               incidental to the particular demolitions or construction work being performed by such\n               person.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-51"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

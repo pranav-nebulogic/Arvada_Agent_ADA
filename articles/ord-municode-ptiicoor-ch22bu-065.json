@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalty",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "violate",
+      "provision"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-212"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-212. - Penalty.",
+    "summary": "It shall be unlawful for any person to violate a provision of this article. Violators\n               shall be subject to the penalties provided by\nsection 1-5\n. A separate offense shall be deemed committed upon each day such person is in violation\n               of this article.\n(Code 1981, § 23-12;…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-212. - Penalty.",
+        "a": "It shall be unlawful for any person to violate a provision of this article. Violators\n               shall be subject to the penalties provided by\nsection 1-5\n. A separate offense shall be deemed committed upon each day such person is in violation\n               of this article.\n(Code 1981, § 23-12; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-212"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

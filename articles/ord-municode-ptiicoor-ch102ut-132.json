@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "applicability",
+      "article",
+      "applies",
+      "any",
+      "existing",
+      "future",
+      "drinking"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-403"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-403. - Applicability.",
+    "summary": "This article applies to any existing or future drinking water service line connections\n               to buildings or structures that receive water service directly from the city's water\n               utility and does not apply to structures within consecutive water systems receiving\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-403. - Applicability.",
+        "a": "This article applies to any existing or future drinking water service line connections\n               to buildings or structures that receive water service directly from the city's water\n               utility and does not apply to structures within consecutive water systems receiving\n               city finished water or city residents not on city water.\n(\nOrd. No. 4869\n, § 1, 3-4-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-403"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

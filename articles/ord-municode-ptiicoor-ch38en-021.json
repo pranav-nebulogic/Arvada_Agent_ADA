@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "summary",
+      "abatement",
+      "city",
+      "manager",
+      "authorized",
+      "whenever",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-124"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-124. - Summary abatement by city manager authorized.",
+    "summary": "(a)\nWhenever any nuisance shall be found within the city, the city manager is hereby authorized\n               to cause the same to be summarily abated.\n(b)\nIt shall be the duty of the city manager and such other officers as he may direct\n               from time-to-time to ascertain and cause all n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-124. - Summary abatement by city manager authorized.",
+        "a": "(a)\nWhenever any nuisance shall be found within the city, the city manager is hereby authorized\n               to cause the same to be summarily abated.\n(b)\nIt shall be the duty of the city manager and such other officers as he may direct\n               from time-to-time to ascertain and cause all nuisances declared to be such in this\n               Code to be abated. Each and all of such officers shall, under the supervision of the\n               city manager, have authority during the day to enter any building, storehouse or other\n               structure in order to make a thorough examination thereof; to enter upon all lots\n               or grounds; and to cause all stagnant waters to be drained off and pools, sinks, drains,\n               holes or low grounds to be cleansed, filled up or otherwise purified, and to cause\n               all noisome substances or unhealthy conditions to be abated in the manner and within\n               the time prescribed by this article.\n(c)\nIn all cases where a nuisance shall be found in any structure or upon any ground or\n               other premises within the jurisdiction of the city, 24 hours' notice shall be given\n               in writing, signed by the city manager or his designee, to the owner, agent, tenant,\n               or occupant of such structure or premises to remove such nuisance. In case of such\n               person's neglect or refusal to abate the same in accordance with such notice, he shall\n               be chargeable with the expenses which may be incurred in the abatement thereof, to\n               be collected by suit or otherwise in accordance with this article and in addition\n               to the penalty provided in this Code for violation hereof.\n(\nOrd. No. 4095, § 2, 11-19-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-124"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

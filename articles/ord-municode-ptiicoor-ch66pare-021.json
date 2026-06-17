@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "arvada",
+      "blunn",
+      "reservoir",
+      "permit",
+      "any",
+      "person",
+      "entering"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-57"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-57. - Arvada/Blunn Reservoir permit.",
+    "summary": "(a)\nAny person entering the reservoir will do so only in a vehicle upon which is affixed\n               a currently valid reservoir permit. Such permit must at all times be displayed on\n               the upper left side of the front windshield of the vehicle. Permits for boats must\n               b…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-57. - Arvada/Blunn Reservoir permit.",
+        "a": "(a)\nAny person entering the reservoir will do so only in a vehicle upon which is affixed\n               a currently valid reservoir permit. Such permit must at all times be displayed on\n               the upper left side of the front windshield of the vehicle. Permits for boats must\n               be displayed on the right bow of the boat.\n(b)\nNo person will enter the reservoir at any location except at the main entrance located\n               on West 66th Avenue. Any person entering the reservoir must do so in a vehicle that\n               has affixed to it a currently valid annual reservoir permit, or must purchase a daily\n               permit for the vehicle and boat at the main entrance to the reservoir.\n(c)\nNot more than six people, including the permit holder, may enter the reservoir in\n               a permitted vehicle.\n(d)\nNo person in a permitted vehicle will drop off another person at the reservoir and\n               then leave the reservoir.\n(e)\nAny person who enters the reservoir in violation of this section is guilty of\nsection 62-40\n(a).\n(Code 1981, § 22-26; Ord. No. 2577, § 2, 12-19-1988; Ord. No. 2709, § 1, 3-5-1990;\n               Ord. No. 2956, § 6, 2-15-1993)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-57"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "generally",
+      "applies",
+      "uses",
+      "buildings",
+      "structures",
+      "landscaping",
+      "buffering",
+      "signs"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-1-2"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "9-1-1-2. Application of article.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-1-2. Application of article.",
+        "a": "A.\tGenerally. This Article applies to uses, buildings, structures, landscaping, buffering, signs, lighting, parking, density, intensity, and lots that were:\n  1.\tLawfully established, constructed, installed, platted, developed, or created prior to the Effective Date, but not currently in conformance with the requirements of this LDC; or\n  2.\tLawfully established, constructed, installed, platted, developed, or created in one zoning district, but no longer conform to the requirements of this LDC after the subject property is rezoned.\nB.\tEffect of Article. Nothing in this Article shall be interpreted to require a change in plans, construction, or designated use of any building in which a building permit was lawfully obtained from the City prior to the Effective Date of this LDC or subsequent amendment, provided that construction:\n  1.\tWas commenced before the expiration of the building permit; and\n  2.\tWork is proceeding diligently toward completion.\nC.\tChanges of Tenancy or Ownership. Nothing in this Article shall be construed to affect or restrict changes in tenancy or ownership, nor shall changes in ownership affect the application of any of the requirements of this Article.\nD.\tEvidence of Status. Evidence that a nonconforming situation is a legal nonconformity and not a violation of this LDC shall be submitted by the owner of the property or operator of the use upon request of the Director.\nE.\tUnlawful Uses, Buildings, or Structures. This Article does not allow for the perpetuation of unlawful development. Such development is not legally nonconforming, but instead, unlawful, and is subject to all of the provisions of this LDC (including enforcement provisions) and any other applicable law."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

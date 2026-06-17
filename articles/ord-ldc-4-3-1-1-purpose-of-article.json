@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "establish",
+      "site",
+      "design",
+      "standards",
+      "address",
+      "development",
+      "relationship",
+      "surrounding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-3-1-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-3. SITE DESIGN",
+    "division": "DIVISION 4-3-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "4-3-1-1. Purpose of article.",
+    "summary": "The purpose of this Article is to establish site design standards that address a development's relationship to its surrounding natural features and development patterns. They also address the relationship between key elements within the site.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-3-1-1. Purpose of article.",
+        "a": "The purpose of this Article is to establish site design standards that address a development's relationship to its surrounding natural features and development patterns. They also address the relationship between key elements within the site. These standards address the physical relationship between the development and adjacent properties, public streets, neighborhoods, and the natural environment, in order to implement the Arvada Comprehensive Plan and the community's shared values and vision to ensure high-quality developments in the City of Arvada."
+      }
+    ],
+    "ordinance_refs": [
+      "4-3-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

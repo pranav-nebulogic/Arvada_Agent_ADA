@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedure",
+      "expungement",
+      "upon",
+      "request",
+      "defendant",
+      "municipal",
+      "court"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-132"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-132. - Procedure for expungement.",
+    "summary": "(a)\nUpon the request of the defendant, the municipal court shall order the expungement\n               of juvenile justice records pertaining to such person unless it determines that the\n               police department or court has a substantial need for continued access to such records.\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-132. - Procedure for expungement.",
+        "a": "(a)\nUpon the request of the defendant, the municipal court shall order the expungement\n               of juvenile justice records pertaining to such person unless it determines that the\n               police department or court has a substantial need for continued access to such records.\n               If expungement is denied because of continued need for access, the court shall set\n               a time when the defendant can reinstate the request for expungement.\n(b)\nThe court may order the expungement of such records at any time after acquittal.\n(c)\nIn the case of conviction, juvenile justice records shall not be expunged sooner than\n               two years after the defendant's last conviction, excepting traffic violations. No\n               records pertaining to a conviction shall be expunged during the pendency of another\n               charge.\n(Code 1981, § 2-222; Ord. No. 1905, § 2, 2-7-1983)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-132"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "engineers",
+      "plans",
+      "any",
+      "person",
+      "intending",
+      "construct",
+      "reconstruct"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-188"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-188. - Engineers' plans.",
+    "summary": "Any person intending to construct, reconstruct, or repair any general public improvement\n               shall file, with the permit application, supplemental information and plans as required\n               to determine compliance with the Arvada City Code. Based on the project scope, required\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-188. - Engineers' plans.",
+        "a": "Any person intending to construct, reconstruct, or repair any general public improvement\n               shall file, with the permit application, supplemental information and plans as required\n               to determine compliance with the Arvada City Code. Based on the project scope, required\n               supplemental information and plans may include but not be limited to the following:\n(1)\nDetailed engineered plans; soils report; plat; grading plan; drainage study; erosion\n                  control plan; utility report; traffic study; structural design; and/or other pertinent\n                  calculations or studies required by the city engineer or other laws, rules, or regulations\n                  in effect. A professional engineer licensed in the state shall prepare all of the\n                  above documents submitted.\n(2)\nTraffic control plan; project site plan; quantity worksheet; CDOT or neighboring jurisdiction\n                  permits (when applicable); utility locate confirmation.\n(Ord. No.\n4749\n, § 1, 1-25-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-188"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

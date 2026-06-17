@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-21-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "str_permit",
+    "category": "short_term_rentals",
+    "tags": [
+      "many",
+      "short",
+      "term",
+      "rentals",
+      "one",
+      "owner",
+      "operate",
+      "days",
+      "Short Term Rentals"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=21"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-many-short-term-rentals-can-one-owner-operate-and-how-ma",
+    "faq_category_name": "Short Term Rentals"
+  },
+  "content": {
+    "title": "How many short-term rentals can one owner operate, and how many days a year can it be rented?",
+    "summary": "One owner may operate up to three short term rental properties within the City. However, only one reservation is allowed per property at a time. A short-term rental can only be occupied for up to 240 days per calendar year. At the end of each year, a Short-Term Rental Log will need to be submitted t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How many short-term rentals can one owner operate, and how many days a year can it be rented?",
+        "a": "One owner may operate up to three short term rental properties within the City. However, only one reservation is allowed per property at a time. A short-term rental can only be occupied for up to 240 days per calendar year. At the end of each year, a Short-Term Rental Log will need to be submitted to the City verifying the number of days that a rental was occupied."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-49-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "don",
+      "want",
+      "replace",
+      "line",
+      "landlord",
+      "doesn",
+      "lead",
+      "pre",
+      "Public Improvement Projects - Service Line Inventory"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=49"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-if-i-don-t-want-to-replace-my-line-or-my-landlord-doesn",
+    "faq_category_name": "Public Improvement Projects - Service Line Inventory"
+  },
+  "content": {
+    "title": "What if I don’t want to replace my line (or my landlord doesn’t want to replace it)?",
+    "summary": "Lead and pre-1960 galvanized services lines are prohibited in Arvada's water system. These lines should be replaced as soon as possible. If your property is impacted, the City will help replace your service line for free through 2026. Please visit the Service Line Replacement Program Details page fo…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What if I don’t want to replace my line (or my landlord doesn’t want to replace it)?",
+        "a": "Lead and pre-1960 galvanized services lines are prohibited in Arvada's water system. These lines should be replaced as soon as possible. If your property is impacted, the City will help replace your service line for free through 2026. Please visit the Service Line Replacement Program Details page for more information. Customers with lead lines, and lines that are uncategorized, may be issued fines beginning in 2027. If a lead service line is confirmed to be present, a certified lead-removing filter should be used for drinking water, cooking, and dishes where water is a base ingredient or absorbed into the food (recipes like rice, beans and soup) and preparing infant formula, until the line is replaced."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

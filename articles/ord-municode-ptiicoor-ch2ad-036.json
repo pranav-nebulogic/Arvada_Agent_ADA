@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "record",
+      "all",
+      "hearings",
+      "under",
+      "article",
+      "shall",
+      "recorded"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-184"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-184. - Record.",
+    "summary": "(a)\nAll hearings under this article shall be recorded electronically or otherwise. The\n               record need not be reduced to a written transcript unless requested by a party tendering\n               a transcription fee at a rate set forth in the administrative fee schedule, as approved\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-184. - Record.",
+        "a": "(a)\nAll hearings under this article shall be recorded electronically or otherwise. The\n               record need not be reduced to a written transcript unless requested by a party tendering\n               a transcription fee at a rate set forth in the administrative fee schedule, as approved\n               by the city manager.\n(b)\nRecordings may be destroyed 90 days after the hearing officer's decision is issued\n               unless:\n(1)\nA party, for good cause shown, requests that it be preserved longer; or\n(2)\nAn appeal has been taken from the hearing officer's decision.\n(Code 1981, § 2-149; Ord. No. 3608, §§ 1, 2, 4-3-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-184"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

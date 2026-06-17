@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "surpluses",
+      "deficiencies",
+      "any",
+      "assessment",
+      "prove",
+      "insufficient",
+      "pay"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-109"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-109. - Surpluses and deficiencies.",
+    "summary": "(a)\nShould any assessment prove insufficient to pay for the project or the work for which\n               it is levied and the expense incident thereto, the amount of such deficiency shall\n               be paid from the general fund of the city, from its capital improvements fund or from\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-109. - Surpluses and deficiencies.",
+        "a": "(a)\nShould any assessment prove insufficient to pay for the project or the work for which\n               it is levied and the expense incident thereto, the amount of such deficiency shall\n               be paid from the general fund of the city, from its capital improvements fund or from\n               such other account in which moneys are accounted for which may be made available for\n               such purpose by the council.\n(b)\nIf a greater amount has been collected than was necessary, the excess shall be transferred\n               as provided in\nsection 78-90\n.\n(Code 1981, § 27-110; Ord. No. 551, § 50, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-109"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

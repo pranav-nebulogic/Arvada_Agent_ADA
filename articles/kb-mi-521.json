@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "step",
+      "construction",
+      "plan",
+      "site",
+      "disturbance",
+      "permit",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/382/Step-4-Construction"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-521",
+    "spreadsheet_id": "MI-521",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Step 4: Construction",
+    "summary": "A Site Disturbance Permit is required before any grading or earth disturbances can begin in Arvada, along with an Erosion and Sediment Control Plan and Stormwater Management Plan. Additional permits may be necessary for projects disturbing over one acre, and all public improvements must be completed before a building permit is issued. Final inspections are required to obtain a Certificate of Occupancy once construction is completed.",
+    "body": "## Site Disturbance Permit\n\nBefore grading or performing other earth disturbances, a [**Site Disturbance Permit**](https://www.arvadaco.gov/367/Site-Disturbance-Permit) must be issued.\n\n- Erosion and Sediment Control Plan and Stormwater Management Plan: It is preferred that these plans be submitted as part of the Site Plan or Final Development Plan process. However, if construction is ready to begin and these documents have not yet been submitted, you may submit these documents within 30 days.\n- Fees and Escrow: Submittal of both an escrow and fee are also required prior to Permit issuance.\n\nOnce a Site Disturbance Permit is issued, site stormwater best management practices (BMPs) that were approved in the plans must be installed.\n\n- Before Construction: Arvada must conduct an initial inspection of the installation of BMPs before grading begins.\n- During Construction: Engineering staff will perform routine oversight inspections of site BMPs to ensure the site continues to comply with the Site Disturbance Permit. Results of the City's Oversight Inspections can be viewed through SMART License & Permits.\n\n## Additional Colorado and Federal Permits\n\nProjects that disturb 1+ acre (or less than 1 acre if part of a larger common plan of development) must obtain a State Stormwater Discharges Associated With Construction Activity General Permit from the State of Colorado Department of Public Health and Environment. Please visit Colorado Government Sitefor an introduction to Water Quality Construction Permits.\n\nAdditional Permits that may be required for construction may include Colorado's Construction Dewatering Permit should groundwater be anticipated, and the federal Army Corps of Engineers 404 Permit should there be activity within the floodway.\n\n## [Development Permits](/651)\n\nA [DEV permit](/651) is required for work in the right-of-way or easement for any development in the City of Arvada that has been approved by the City Engineer for construction. This permit will include applicable public improvement types and quantities according to the signed construction plans and the approved engineer’s estimate. These types of improvements can include wet utilities, flatwork, asphalt patching, paving, overlay, subbase, subgrade, milling, street degradation fees, public signs, striping, pavement markings, etc. The DEV permit will be created by the warranty coordinator.\n\n## Building Permits\n\nAll public improvements must be completed before a building permit is issued. The Building Division provides building permit applications, plan review, and inspection services for commercial and residential construction throughout the City. Permits can only be issued after your final plans are approved and public improvements are constructed, inspected and placed under initial warranty acceptance. For additional information on building permitting, please visit [New Commercial Buildings, Commercial Additions and Multi-Family Page](https://www.arvadaco.gov/406/New-Commercial-Buildings-Commercial-Addi).\n\n### When to Apply\n\n- You may submit your building application following development plan approval or concurrently with your development application. If you submit concurrently and your development plan is not approved, you will need to pay applicable fees when re-submitting.\n- Building permit applications and plans should not be submitted before the 2nd City Review of your final plans. Changes to your final plans may impact the final building design.\n\n### Scheduling Inspections\n\n- **Online (SMART License & Permits):** Inspections scheduled online at [Arvada Permits Site](http://www.arvadapermits.org/)\n- **By Phone:** Call the building division at 720-898-7630. Inspections confirmed before 6 am will be performed the same day.\n\n## Certificate of Occupancy\n\nUpon completion of the construction project, final inspection approvals are required before a Certificate of Occupancy (C.O) or a Temporary Certificate of Occupancy (T.C.O) may be issued and the building occupied. The approvals necessary may include all or part of the following: building codes approval, fire code approval, planning and zoning approval, development agreement, city engineering standards, utility commitments for water and sewer, liquor license approval, health department approval, approvals under state and federal laws and other requirements as applicable to your project. Arvada Municipal Code requires a C.O or T.C.O in order for a building to be occupied. It is the responsibility of the developer to replace any broken, cracked, settled, raised, etc. curb, gutter and sidewalk that fronts a lot prior to obtaining a C.O. This includes damage existing prior to and following construction.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

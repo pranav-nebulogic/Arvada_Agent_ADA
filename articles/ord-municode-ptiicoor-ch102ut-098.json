@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "bimonthly",
+      "billing",
+      "annual",
+      "review",
+      "before",
+      "july",
+      "each"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-209"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-209. - Bimonthly billing and annual review.",
+    "summary": "On or before July 1 of each year, the director of finance shall review the water usage\n               of each sewer system user for the preceding months as specified in\nsection 102-207\nand make the required sewer service charge computation. Beginning each July 1 with\n               the next billing …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-209. - Bimonthly billing and annual review.",
+        "a": "On or before July 1 of each year, the director of finance shall review the water usage\n               of each sewer system user for the preceding months as specified in\nsection 102-207\nand make the required sewer service charge computation. Beginning each July 1 with\n               the next billing cycle, each sewer system user will be billed each two months in the\n               amount so computed.\n(Code 1981, § 33-113; Ord. No. 2574, § 1, 11-21-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-209"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

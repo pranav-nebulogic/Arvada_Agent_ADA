@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "relocation",
+      "nonconforming",
+      "signs",
+      "sign",
+      "relocated",
+      "reason",
+      "conform",
+      "requirements",
+      "chapter",
+      "apply"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-4-3"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-4. NONCONFORMING SIGNS"
+  },
+  "content": {
+    "title": "9-1-4-3. Relocation of nonconforming signs.",
+    "summary": "If a nonconforming sign is relocated for any reason, such sign shall conform to the requirements of Chapter 6, Signs, that apply generally and within the sign district to which the sign is relocated.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-4-3. Relocation of nonconforming signs.",
+        "a": "If a nonconforming sign is relocated for any reason, such sign shall conform to the requirements of Chapter 6, Signs, that apply generally and within the sign district to which the sign is relocated. This Section does not apply to the temporary removal of a sign or portion thereof for repair or maintenance, provided that the sign is promptly reinstalled in the location from which it was removed."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-4-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "made",
+      "order",
+      "items",
+      "price",
+      "sales",
+      "furniture",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/350/Made-to-Order-Items"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-309",
+    "spreadsheet_id": "MI-309",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Made to Order Items",
+    "summary": "The full purchase price of custom-made items is subject to sales tax, which includes the total value of materials, labor, services, and profit. For example, Joe's Furniture Shop charges sales tax on the price of custom furniture, reflecting all associated costs. This summary serves as a simplified explanation of Arvada tax law and should be used alongside the full tax code for accurate tax liability determination.",
+    "body": "The full purchase price of articles sold after manufacturing or after having been made to order is taxable. The purchase price is the gross value of all materials, labor, service, and profit included in the price charged to the user or consumer.\n\n## Example\n\nJoe's Furniture Shop makes custom-order furniture for customers. All of the materials, labor, services, and profit are included in the sales price of the finished goods. The sales price is subject to sales tax.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

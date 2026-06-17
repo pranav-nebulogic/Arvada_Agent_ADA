@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "temporary",
+      "refusal",
+      "submit",
+      "reexamination",
+      "any",
+      "member",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-123"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-123. - Temporary; refusal to submit to reexamination.",
+    "summary": "If any member shall have been retired temporarily under the provisions of\nsection 86-155\nby reason of any disability, the board shall have the right to cause such disabled\n               member to be brought before it, and again examined by one or more physicians or surgeons,\n               to be de…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-123. - Temporary; refusal to submit to reexamination.",
+        "a": "If any member shall have been retired temporarily under the provisions of\nsection 86-155\nby reason of any disability, the board shall have the right to cause such disabled\n               member to be brought before it, and again examined by one or more physicians or surgeons,\n               to be designated by the board, and shall have the right to examine other witnesses\n               for the purpose of discovering whether such disability yet continues, and whether\n               such disabled member should be continued in the temporary disability status, or reinstated\n               in active service. Should any disabled member refuse to submit to such medical examination\n               in any such period, his disability pay may be discontinued by the board until such\n               disabled member submits to such medical examination, and should his refusal continue\n               for a period of 30 days, all his rights in and to his disability pay and status may\n               be revoked by the board. Revocation of disability status by the board by reason of\n               a member's refusal to submit to a medical examination shall be grounds for discharge\n               of the member from the police force. If upon such medical examination of such disabled\n               member the physician certify to the board that such disabled member is physically\n               able and capable of resuming employment in the service, he shall be restored to service\n               and his disability pay shall be terminated. The cost of the examination shall be paid\n               from the police pension fund.\n(Code 1960, § 19-13(A); Code 1981, § 26-58)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-123"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

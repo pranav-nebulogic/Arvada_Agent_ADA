@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "woodburning",
+      "restriction",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "operate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-282"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-282. - Woodburning restriction.",
+    "summary": "(a)\nIt shall be unlawful for any person to operate a solid fuel burning device or gas\n               burning device which has not been approved during a high pollution day unless an exemption\n               has been granted as hereinafter provided. It shall be the duty of all persons owning\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-282. - Woodburning restriction.",
+        "a": "(a)\nIt shall be unlawful for any person to operate a solid fuel burning device or gas\n               burning device which has not been approved during a high pollution day unless an exemption\n               has been granted as hereinafter provided. It shall be the duty of all persons owning\n               or operating a solid fuel burning device or an unapproved gas burning device to be\n               aware of a declaration by the state department of health of a high pollution day.\n(b)\nAt the time of a declaration of a high pollution day by the state department of health,\n               the city manager shall allow three hours for the burndown of existing fires in solid\n               fuel burning devices prior to commencement of enforcement of this article.\n(c)\nIt shall be unlawful for any person to install a fireplace or gas burning device within\n               a new building or a building being remodeled or renovated which does not meet the\n               most stringent emission performance requirements of the U.S. Environmental Protection\n               Agency or state statute regulations promulgated by the State Air Quality Control Commission\n               as of July 1, 1990.\n(d)\nVisible emissions limitation: No person shall cause or allow a visible emission from\n               any wood-burning device in any building or structure that exceeds 20 percent opacity\n               for a period or periods aggregating more than six consecutive minutes in any one-hour\n               period. Visible emissions from the startup of a new fire for a period not to exceed\n               twenty consecutive minutes in any consecutive four-hour period are not subject to\n               this provision.\n(e)\nDetermination of visible emissions: The approved reference test method for visible\n               emission measurement is EPA Method 9 (Visual Determination of the Opacity of Emissions\n               from Stationary Sources, 40 CFR, Part 60 Appendix A-July 1992).\n(f)\nProhibition against burning garbage, non-seasoned wood or certain materials: No person\n               shall cause or allow any of the following materials to be burned in a wood-burning\n               device: garbage, treated wood, non-seasoned wood, used or contaminated wood pallets,\n               plastic products, rubber products, waste petroleum products, paints and paint solvents,\n               particle board, and any material not intended by a manufacturer for use as a fuel\n               in a wood-burning device.\n(Code 1981, § 21-77; Ord. No. 2451, § 1, 10-19-1987; Ord. No. 2868, § § 8, 9, 1-20-1992;\nOrd. No. 4151, § 2, 12-15-2008\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-282"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

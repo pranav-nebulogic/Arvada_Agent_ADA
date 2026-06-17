@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fines",
+      "lien",
+      "upon",
+      "property",
+      "debt",
+      "due",
+      "owing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-410"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-410. - Fines to be lien upon property.",
+    "summary": "(a)\nDebt due and owing.\nUnless paid within 63 days of the date of the assessment notice, all penalties imposed\n               by the city under this article constitute a debt due and owing to the city, and the\n               city has the right to recover on any such debt in the manner provided by la…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-410. - Fines to be lien upon property.",
+        "a": "(a)\nDebt due and owing.\nUnless paid within 63 days of the date of the assessment notice, all penalties imposed\n               by the city under this article constitute a debt due and owing to the city, and the\n               city has the right to recover on any such debt in the manner provided by law in any\n               court of competent jurisdiction.\n(b)\nLien.\nUnless paid within 63 days of the date of the assessment notice, all penalties imposed\n               by the city under this article constitute a perpetual lien on and against the property\n               served, and any such lien may be foreclosed by the city at any time in the manner\n               as provided by the laws of the state for the foreclosure of mechanics' liens or in\n               accordance with\nchapter 59\nof this Code entitled \"Municipal Liens.\" Such lien foreclosure by the city is subject\n               to all rights of redemption granted by C.R.S. § 38-39-101 et seq., as amended.\n(\nOrd. No. 4869\n, § 1, 3-4-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-410"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

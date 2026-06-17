@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "scope",
+      "ordinance",
+      "authorizing",
+      "bonds",
+      "generally",
+      "shall",
+      "issued"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-81"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-81. - Scope of ordinance authorizing bonds.",
+    "summary": "The bonds generally shall be issued in such manner, in such form, with such provisions\n               for conversion into bonds of other denominations, with such provisions for reissuance,\n               with such recitals, terms, covenants and conditions, and with such other details as\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-81. - Scope of ordinance authorizing bonds.",
+        "a": "The bonds generally shall be issued in such manner, in such form, with such provisions\n               for conversion into bonds of other denominations, with such provisions for reissuance,\n               with such recitals, terms, covenants and conditions, and with such other details as\n               may be provided by the council in the ordinance authorizing the bonds, except as herein\n               otherwise provided.\n(Code 1981, § 27-82; Ord. No. 551, § 29(D), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-81"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

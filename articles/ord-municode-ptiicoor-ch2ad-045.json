@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "monthly",
+      "operation",
+      "statement",
+      "recapitulation",
+      "all",
+      "fund",
+      "balances"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-234",
+      "§ 9-3",
+      "§ 2-12"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-234. - Monthly operation statement.",
+    "summary": "A recapitulation of all fund balances, location of same and all investments shall\n               be included in the monthly operation statement.\n(Code 1960, § 9-3(c); Code 1981, § 2-12)\nState Law reference—\nFinancial reports, C.R.S. § 31-20-304.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-234. - Monthly operation statement.",
+        "a": "A recapitulation of all fund balances, location of same and all investments shall\n               be included in the monthly operation statement.\n(Code 1960, § 9-3(c); Code 1981, § 2-12)\nState Law reference—\nFinancial reports, C.R.S. § 31-20-304."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-234",
+      "§ 9-3",
+      "§ 2-12"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

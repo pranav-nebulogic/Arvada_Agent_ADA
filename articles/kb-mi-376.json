@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "open",
+      "space",
+      "maintenance",
+      "wildfire",
+      "mitigation",
+      "areas",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1033/Open-Space-Maintenance-and-Wildfire-Miti"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-376",
+    "spreadsheet_id": "MI-376",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Open Space Maintenance and Wildfire Mitigation",
+    "summary": "The Arvada Parks and Open Space division manages over 3,200 acres of non-irrigated land, focusing on sustainable native landscaping to enhance the health and aesthetics of natural areas while mitigating wildfire risks. The City is collaborating with the Arvada Fire Protection District to develop a Community Wildfire Protection Plan, emphasizing that healthy, tall native grasses can act as a fire defense and reduce non-native weed growth, which is more flammable. Homeowners in the wildland-urban interface are encouraged to improve their property's defensible space to enhance wildfire survival.",
+    "body": "The Arvada Parks and Open Space division maintains more than 3,200 acres of non-irrigated land throughout the City. Each growing season, Arvada parks staff mows approximately 1,350 acres of open space areas bordered by hundreds of private properties.\n\nIn an effort to maintain the health and aesthetics of the City's natural areas and trail corridors, the City of Arvada has adopted a sustainable native landscaping approach for Open Space and natural areas within the city. Visit our [Natural Area and Open Space Maintenance page](/517) for the mowing frequency and schedules of these non-irrigated areas of the city.\n\n**Wildfire risk reduction is one of three factors our sustainable native landscaping approach considers, along with environmental sustainability and resource efficiency.**\n\nThe City is currently working in partnership with the Arvada Fire Protection District to develop a [Community Wildfire Protection Plan (CWPP)](https://www.arvadafireco.gov/291/Community-Wildfire-Protection-Plan). The City is committed to ensuring that its open space maintenance and mowing practices are aligned with any recommendations that are included in the CWPP.\n\n## Facts about open space and wildfire mitigation\n\n- Mowing tall grasses **does not**remove the fire fuel load. Once these tall grasses are mowed, the clippings are then concentrated on the ground where they dry up quickly and can result in a hotter fire.\n- Healthy, tall, non-dormant native grasses act as a \"water reservoir\" and provide a level of defense against a stronger-intensity wildfire. A sustainable landscaping approach to open space maintenance does not increase fire risk.\n- When allowed to grow to a natural height, native grasses reduce non-native weed growth. It’s important to reduce non-native weed growth because non-native weeds are not fire tolerant and can serve as fuel during a fire event.\n\n## What you can do as a homeowner\n\nParts of Arvada are located in the [wildland-urban interface](https://csfs.colostate.edu/wildfire-mitigation/colorados-wildland-urban-interface/), particularly in the northwest area of the city. If you live near the wildland-urban interface or near open grassy spaces, your property could be affected by wildfire.\n\nAccording to the Colorado State Forest Service, “The two primary determinants of a home’s ability to survive a wildfire are the structure’s ignitability and the quality of the surrounding defensible space. Together, these two factors create a concept called the home ignition zone, which includes the structure and the area around it.”\n\nVisit the [Colorado State Forest Service website](https://csfs.colostate.edu/wildfire-mitigation/protect-your-home-property-from-wildfire/) to learn the most effective actions to take to minimize the ability of your home to ignite during a wildfire and how to reduce or eliminate nearby fuel.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

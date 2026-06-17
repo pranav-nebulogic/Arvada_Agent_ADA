@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "railroad",
+      "crossings",
+      "line",
+      "tracks",
+      "bnsf",
+      "quiet",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/840/Railroad-Crossings"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-445",
+    "spreadsheet_id": "MI-445",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Railroad Crossings",
+    "summary": "Arvada has several railroad tracks managed by Union Pacific Railroad (UPRR) and BNSF Railway, with most crossings designated as \\\"quiet zones\\\" where train horns are not typically sounded. However, federal regulations require horns to be used in specific situations for safety, and violations can lead to additional training for train crews. Residents can report horn use in quiet zones by contacting UPRR or BNSF with details about the incident.",
+    "body": "The City of Arvada has several railroad tracks that run through the city. These tracks are owned and maintained by the Union Pacific Railroad (UPRR) and BNSF Railway. Some tracks operate trains from UPRR, Amtrak and BNSF. The RTD G Line also runs through Arvada, please learn more about this line on the [G Line page](/467/G-Line-Gold-Line).\n\n## Quiet Crossings\n\nNearly all of the railroad crossings throughout the city are considered \"quiet zones\". This means that trains do not need to sound their horn at these crossings.\n\nFederal Railroad Administration rules require train horns to be sounded in certain situations. Even within a quiet zone, horns will sound periodically as long as tracks are active. Train engineers must provide warnings for the following:\n\n- vehicle operators on tracks\n- animals\n- pedestrians\n- trespassers\n- other train crews or workers on railroad right of way\n\nQuiet zones can also be overridden for ongoing safety issues or if something is causing an interruption to the safety or signal systems in place.\n\nRailroad field managers audit operations through an ongoing field examination process to ensure engineers and conductors comply with all rules. When violations are found, UPRR provides additional training and eventually discipline as needed. UPRR also communicates with Amtrak and BNSF, who operate on the network, to ensure they are compliant.\n\n**Report a horn in a quiet zone by calling 888-877-7267** **(UPRR) or 800-832-5452 (BNSF).**\n\nBe prepared to share the following information:\n\n1. What kind of train (UPRR, BNSF, Amtrak or a car/locomotive number). This information will help address root causes.\n2. Whether any of the above situations were present requiring a horn.\n\nIf you do not have an immediate emergency, you may be sent to a voicemail which will be followed up on shortly.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

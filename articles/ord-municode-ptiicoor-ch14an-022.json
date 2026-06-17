@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "nuisance",
+      "animals",
+      "any",
+      "animal",
+      "exhibiting",
+      "behavior",
+      "set"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-53"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-53. - Nuisance animals.",
+    "summary": "(a)\nAny animal exhibiting behavior set forth in this section is hereby declared to be\n               a nuisance animal. It shall be unlawful for any owner or custodian of an animal to\n               allow said animal to:\n(1)\nCreate a disturbance by loud and persistent or habitual barking, howling, y…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-53. - Nuisance animals.",
+        "a": "(a)\nAny animal exhibiting behavior set forth in this section is hereby declared to be\n               a nuisance animal. It shall be unlawful for any owner or custodian of an animal to\n               allow said animal to:\n(1)\nCreate a disturbance by loud and persistent or habitual barking, howling, yelping,\n               or other unreasonable noise; or\n(2)\nCause offensive or noxious odors or exhibit any other conduct or create any other\n               condition which disturbs the peace, safety, or comfort of a neighborhood.\n(b)\nIt shall not be a defense to a violation of this section that the animal owner or\n               custodian was not available to remedy such violation.\n(c)\nFor purposes of this section, persons cannot provoke the howling, barking, or other\n               unreasonable noise of an animal by the ordinary or reasonable use of private properties,\n               public roadways, sidewalks, or alleyways, or common areas of condominiums, townhouses,\n               apartment buildings.\n(d)\nNo summons and complaint shall be issued nor shall there be a conviction for violation\n               of\nsection 14-53\n(a)(1) unless there are at least two or more complaining witnesses from separate households\n               who shall have signed such complaint and shall testify at trial.\nException:\n(1)\nAn animal management officer who has personally investigated the complaint of a single\n               complainant and observed the nature and duration of the noise created by the animal\n               may testify to his observations. Said testimony shall satisfy the requirement for\n               the second complaining witness.\n(2)\nWhere a complainant presents to the animal management officer at the time of the complaint\n               other credible corroborative evidence of the alleged violation (such as a videotape),\n               said evidence, if admissible, shall satisfy the requirement for the second complaining\n               witness.\n(Code 1981, § 6-32; Ord. No. 3496, § 2, 12-14-1998)\nCross reference—\nNuisances,\n§ 38-121\net seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-53"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

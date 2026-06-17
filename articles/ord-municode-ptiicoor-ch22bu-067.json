@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-232"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-232. - Definitions.",
+    "summary": "The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nBusiness guard\nmeans any individual employed by an employer to protect persons, p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-232. - Definitions.",
+        "a": "The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nBusiness guard\nmeans any individual employed by an employer to protect persons, property, information,\n               or other assets, or to preserve the peace in the conduct of that employer's business,\n               and for the exclusive use of the employing individual or business, except any individual\n               so employed by a common carrier engaged in interstate commerce.\nContract security agency\nmeans any business that, for a fee or other consideration, agrees to furnish a uniformed\n               security guard to protect persons, property, information, or other assets.\nSecurity guard\nmeans any private uniformed security officer, armored car service officer, alarm\n               response runner, watchman, lobby attendant, or other private uniformed person who\n               is engaged in the protection of persons, property, information, or other assets.\n(Code 1981, § 21-92; Ord. No. 3739, § 2, 3-4-2002)\nCross reference—\nDefinitions,\n§ 1-2\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-232"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "limitations",
+      "upon",
+      "deferred",
+      "payments",
+      "case",
+      "election",
+      "pay"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-106"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-106. - Limitations upon deferred payments.",
+    "summary": "(a)\nIn case of an election to pay in installments, the assessment shall be payable in\n               not less than two nor more than 15 substantially equal annual installments or not\n               less than four nor more than 30 substantially equal semiannual installments of principal.\n(b)\nInterest…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-106. - Limitations upon deferred payments.",
+        "a": "(a)\nIn case of an election to pay in installments, the assessment shall be payable in\n               not less than two nor more than 15 substantially equal annual installments or not\n               less than four nor more than 30 substantially equal semiannual installments of principal.\n(b)\nInterest in all cases on the unpaid principal accruing from the date of publishing\n               the assessment ordinance upon its final passage until the respective installment's\n               due dates shall be payable annually or semiannually at a rate established by city\n               council in the assessment ordinance.\n(c)\nNothing contained in this section shall be construed as limiting the discretion of\n               the council in determining whether assessments shall be payable in installments and\n               the time for the first installment of principal or of interest, or of both, and any\n               subsequent installments thereof shall become due.\n(d)\nThe council in the assessment ordinance shall state the number of installments in\n               which assessments may be paid, the period of payment, the rate of interest upon the\n               unpaid installments of principal to their respective due dates, any privileges of\n               making prepayments and any premium to be paid to the city for exercising any such\n               privilege, the rate of interest upon unpaid principal and accrued interest after any\n               delinquency at the rate of one per centum per month, or any fraction thereof, and\n               any penalties and collection costs payable after delinquency.\n(Code 1981, § 27-107; Ord. No. 551, § 47, 5-14-1964; Ord. No. 1643, § 7, 2-18-1980;\n               Ord. No. 2294, § 6, 7-7-1986)\nState Law reference—\nHow installments paid, C.R.S. § 31-25-528."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-106"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

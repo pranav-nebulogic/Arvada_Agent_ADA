@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "november",
+      "business",
+      "dough",
+      "dover",
+      "address",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1495/New-Businesses-November-2025"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-350",
+    "spreadsheet_id": "MI-350",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses November 2025",
+    "summary": "In November 2025, several new businesses opened in Arvada, Colorado, including Cardom Plumbing and Heating, Cleveland Automation Systems, and Dough My Gosh Edible Cookie Dough. Other notable additions are Good Things - A Mental Health Collective and Mind and Soul Psychiatry PLLC, among others, contributing to the local economy and service offerings. Each business has provided contact information for inquiries.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew business listings for the month of November 2025\n\n| 5630 Dover | 5630 DOVER ST ARVADA CO 80002 | 393-941-0092 |\n| Cardom Plumbing and Heating | ARVADA CO 80005 | 720-775-8322 |\n| Cleveland Automation Systems | 5435 W 59TH AVE ARVADA CO 80003 | 740-827-5841 |\n| Cosplay Cantina LLC | ARVADA CO 80004 | 619-992-3021 |\n| Dough My Gosh Edible Cookie Dough | ARVADA CO 80005 | 720-341-8745 |\n| Erica Millard | ARVADA CO 80403 | 817-683-3405 |\n| Golden Lake Massage | 8600 RALSTON RD 203 ARVADA CO 80002 | 781686-0522 |\n| Good Things - A Mental Health Collective | 7703 RALSTON RD ARVADA CO 80002 | 507-993-4757 |\n| Helping Hand Junk Removal | ARVADA CO 80005 | 720-897-3867 |\n| King Systems LLC | 5076 W 58TH AVE ARVADA CO 80002 | 303-410-0924 |\n| Luxury Detailing Mobile | ARVADA CO 80002 | 720-546-1763 |\n| Mind and Soul Psychiatry PLLC | 12191 W 64TH AVE ARVADA CO 80004 | 720-924-7268 |\n| Mountain Man Travels | ARVADA CO 80003 | 719-401-3984 |\n| Mountain View Accounting & Tax Solutions | 5606 WADSWORTH BLVD 203 ARVADA CO 80002 | 303-945-6319 |\n| MySoulSpace LLC | 12191 W 64TH AVE 301 ARVADA CO 80004 | 720-205-3313 |\n| Pfeifer Industrial Park | 5720 LAMAR ST ARVADA CO 80002 | 720-428-1371 |\n| Touch of Serenity Ltd | 5400 WARD RD 5-105 ARVADA CO 80002 | 720-759-4701 |\n| Vinny and Maries Italian Street Food LLC | 6408 WADSWORTH BLVD ARVADA CO 80003 | 720-762-3950 |\n| Western Gothic Calligraphy | ARVADA CO 80004 | 616-299-0135 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

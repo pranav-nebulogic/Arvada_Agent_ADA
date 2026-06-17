@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "finance",
+      "financial",
+      "department",
+      "management",
+      "mission",
+      "achieve",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/190/Finance"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-225",
+    "spreadsheet_id": "MI-225",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Finance",
+    "summary": "The Finance Department is dedicated to providing strategic partnerships and financial management services to the City Council, departments, and the community, ensuring informed decision-making and financial stability. It oversees a range of financial operations, including budgeting, accounting, tax collection, risk management, and procurement, organized into three lines of business: Revenue, Accounting and Financial Analysis; Strategic Partnership; and Administration. The department aims for excellence in service and transparency in the City's financial operations.",
+    "body": "## Mission\n\nThe mission of the Finance Department is to provide strategic partnerships, revenue and financial management, procurement and risk management services to City Council, Departments and the Community so they can make informed decisions, achieve desired results and thrive in a financially stable City\n\n## About\n\nThe Finance Department develops, manages, performs, and oversees the financial operations for the City and various related organizations. This includes financial reporting, fiscal analysis, budgeting, all accounting functions in the management of the City's finances, oversight of an external financial audit for compliance with City laws and policies, debt management, investment of the City's cash reserves, grants writing and administration, provision of purchasing services and ensuring compliance with all purchasing laws and policies, service to all the City's sales and use taxpayers, and oversight of the all City insurance and risk management programs.\n\nHow do we manage that? We are broken down into three lines of business which encompass ten programs. Within each program, our talented staff members are focused on excellence in accuracy, efficiency, and customer service. Following is a brief description of each of the Finance Department's lines of business and programs.\n\nOur Revenue, Accounting and Financial Analysis line of business contains five programs - Revenue, Financial and Economic Strategies, Payments, Specialized Accounting and Financial Analysis and Reporting. The purpose of this program is to provide the following to City Council, Departments and regulatory agencies:\n\n- Financial recordkeeping and reporting\n- Tax collections\n- Auditing and enforcement of the City tax code\n- Payments\n- Strategic advisory services\n\nOur Strategic Partnership line of business contains three programs - Risk Management, Purchasing and Consulting and Training. The purpose of this program is to provide professional resources necessary for:\n\n- Procurement of goods and services at the most advantageous cost to the City\n- Loss prevention, including review of liability exposures\n- Acquisition of all types of insurances\n- Professional expertise to the organization, enabling other departments to achieve their operational and strategic results\n\nOur Administration line of business contains two programs - Administrative Management and the Office of the Director. The purpose of this program is to provide leadership services to the Finance department. We also manage and maintain city-wide expenditures such as bond payments, leases and funding support transfers.\n\nThe Finance Department continues to strive for excellence in all aspects of our performance and service. It is our goal to answer the questions of all of our customers and to continue to provide the information necessary to show the clearest picture of the City's finances.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

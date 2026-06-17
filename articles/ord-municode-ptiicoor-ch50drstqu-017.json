@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "site",
+      "disturbance",
+      "permit",
+      "authorized",
+      "discharges",
+      "authorizes",
+      "following"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-52"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-52. - Site disturbance permit authorized discharges.",
+    "summary": "(a)\nThe site disturbance permit authorizes the following discharges:\n(1)\nStormwater associated with construction activity.\n(2)\nStormwater associated with producing earthen materials, such as soils, sand, and gravel\n               dedicated to providing material to a single contiguous site or within …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-52. - Site disturbance permit authorized discharges.",
+        "a": "(a)\nThe site disturbance permit authorizes the following discharges:\n(1)\nStormwater associated with construction activity.\n(2)\nStormwater associated with producing earthen materials, such as soils, sand, and gravel\n               dedicated to providing material to a single contiguous site or within one quarter\n               mile of the construction site also covered by the site disturbance permit.\n(3)\nStormwater associated with dedicated asphalt, concrete batch plants, and masonry mixing\n               stations.\n(4)\nDischarges from uncontaminated springs that do not originate from an area of land\n               disturbance.\n(5)\nDischarges to the ground of concrete or masonry washout water associated with the\n               washing of concrete or masonry tools and concrete or masonry mixer chutes, and water\n               used to wash vehicles, equipment, and external buildings. Discharges of concrete or\n               masonry washout water must not leave the site as surface runoff or reach a watercourse\n               as defined by the code. The addition of soaps, solvents, and detergents is prohibited.\n(6)\nDischarges of landscape irrigation return flow.\n(7)\nDischarges from diversions of waters of the state within the permitted site.\n(8)\nDischarges resulting from emergency firefighting activities during the active emergency\n               response.\n(b)\nAll discharges from sites operating under a site development permit must consist only\n               of the sources listed above, or must be covered under an additional or alternative\n               permit.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-52"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

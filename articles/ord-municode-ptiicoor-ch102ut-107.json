@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "applicability",
+      "article",
+      "applies",
+      "all",
+      "commercial",
+      "industrial",
+      "dedicated"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-273"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-273. - Applicability.",
+    "summary": "This article applies to all commercial, industrial, dedicated irrigation, and multi-family\n               residential service connections within the city's water system, and to any persons\n               outside the city who are, by contract or agreement with the city, users of the public\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-273. - Applicability.",
+        "a": "This article applies to all commercial, industrial, dedicated irrigation, and multi-family\n               residential service connections within the city's water system, and to any persons\n               outside the city who are, by contract or agreement with the city, users of the public\n               water system. This article does not apply to single-family residential service connections\n               unless the city becomes aware of a cross-connection at a single-family connection.\n(\nOrd. No. 4829\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-273"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

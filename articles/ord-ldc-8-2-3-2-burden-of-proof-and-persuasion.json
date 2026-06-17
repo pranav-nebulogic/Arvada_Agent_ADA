@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "burden",
+      "proof",
+      "persuasion",
+      "demonstrating",
+      "application",
+      "complies",
+      "applicable",
+      "review",
+      "approval",
+      "criteria"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-2. Burden of proof and persuasion.",
+    "summary": "The burden of demonstrating that an application complies with applicable review and approval criteria is on the Applicant.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-2. Burden of proof and persuasion.",
+        "a": "The burden of demonstrating that an application complies with applicable review and approval criteria is on the Applicant."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

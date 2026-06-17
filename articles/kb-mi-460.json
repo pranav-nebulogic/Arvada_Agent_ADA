@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "removing",
+      "trees",
+      "property",
+      "tree",
+      "aesthetics",
+      "always",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/740/Removing-Trees-on-City-Property"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-460",
+    "spreadsheet_id": "MI-460",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Removing Trees on City Property",
+    "summary": "The City of Arvada's Parks Maintenance Division prioritizes the preservation of its tree canopy but recognizes that tree removal may be necessary for public safety, infrastructure integrity, and aesthetics. Trees may be removed due to being dead, classified as invasive species, having structural defects, causing damage to hardscapes or utilities, or due to construction needs. Residents can contact Parks Maintenance for information or services related to city trees.",
+    "body": "The City of Arvada's Parks Maintenance Division places tremendous value on Arvada's tree canopy and works diligently to maintain the health of trees on City property, and the forestry crew always prefers to preserve a tree rather than remove one; however, sometimes, a tree removal is necessary. Generally speaking, emphasis is placed on maintaining public safety, infrastructure integrity, and park/facility aesthetics; careful consideration is taken for large, prominent trees. Reasons for tree removal may fall into one of these categories.\n\n## Dead Trees\n\nThe City of Arvada is committed to removing all trees that have been deemed dead or beyond corrective pruning repair. These trees can pose a hazard to park users and detract from park aesthetics.\n\n## Invasive Species\n\nThere are certain species that have been added to the Colorado Department of Agriculture's invasive species list, such as the Russian Olive, that the City of Arvada is obligated to remove. The City is working to remove these trees from its park system. Some of these trees are easy to remove and replace, while others have infested areas so heavily that it will require a focused plan and committed resources to remove and replace these trees.\n\n## Structural Defects\n\nSometimes a tree can appear to be perfectly healthy but upon closer inspection may have structural issues that could result in an increased risk to public safety. Things such as decayed heartwood or bark inclusions could cause weakness in a tree leading to failure and breakage. These trees are carefully assessed on a case-by-case basis by our Certified Arborists.\n\n## Hard Scape Damage or Utility interference\n\nSometimes the wrong tree is planted in the wrong place or changes in an area result in a tree no longer fitting in with the landscape. This includes large shade trees under utility lines or fast-growing trees planted too close to a sidewalk. This can result in the loss of utilities to homes if a tree interferes with them or the upheaval of sidewalks and driveways.\n\n## Construction\n\nFor as large as trees are above ground they can be twice as big underground. This can always cause a problem when new infrastructure is installed or changes are made to existing infrastructure. Damage, either directly to the tree or indirectly, such as compacted soils or loss of irrigation, can cause the decline of a tree. Sometimes the effects of the damage aren't seen until years later.\n\n## Contact\n\nParks Maintenance 720-898-7410 or request information/service regarding City trees through [Ask Arvada](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

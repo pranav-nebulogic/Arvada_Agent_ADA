@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "reasonable",
+      "regulations",
+      "design",
+      "location",
+      "installation",
+      "operation",
+      "repair",
+      "maintenance"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-1-1"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-1. PURPOSE; PUBLIC INTERESTS; FINDINGS; AND RELATIONSHIP TO OTHER REGULATIONS"
+  },
+  "content": {
+    "title": "6-1-1-1. Purpose of article.",
+    "summary": "The purpose of this Article is to set out reasonable regulations for the design, location, installation, operation, repair, maintenance, and removal of signs in a manner that advances the City's legitimate, important, substantial, and compelling interests, while simultaneously safeguarding the const…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-1-1. Purpose of article.",
+        "a": "The purpose of this Article is to set out reasonable regulations for the design, location, installation, operation, repair, maintenance, and removal of signs in a manner that advances the City's legitimate, important, substantial, and compelling interests, while simultaneously safeguarding the constitutionally protected right of free speech."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

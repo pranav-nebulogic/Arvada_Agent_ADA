@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "address",
+      "business",
+      "charging",
+      "eleven",
+      "growth",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1419/New-Businesses-May-2025"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-349",
+    "spreadsheet_id": "MI-349",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses May 2025",
+    "summary": "Several new businesses are set to open in Arvada, Colorado, in May 2025, including a 7-Eleven store, City charging stations, and various service-oriented establishments such as Massage Envy and Unique Touch Massage. Other notable additions include Growth Mindset Solutions, Highlight Irrigation, and Innovative Inks, among others, with addresses and contact information provided for each.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew Businesses May 2025\n\n| 7-Eleven Store 38226B | 8790 INDIANA ST ARVADA CO 80005 | 720-982-7079 |\n| City of Arvada Charging Stations | 8101 RALSTON RD ARVADA CO 80002 | 720-898-7000 |\n| Growth Mindset Solutions | ARVADA CO 80005 | 983-208-8492 |\n| Highlight Irrigation | ARVADA CO 80005 | 303-219-9106 |\n| Innovative Inks | 5610 WARD RD 300 ARVADA CO 80002 | 801-759-5559 |\n| KIDDLETON | 7310 W 52ND AVE E ARVADA CO 80002 | 469-739-8774 |\n| Massage Envy Arvada | 15530 W 64TH AVE M ARVADA CO 80007 | 314-603-9060 |\n| PAINT CORPS Denver West | 5618 NEWLAND WAY ARVADA CO 80002 | 720-767-1607 |\n| Patrick Micheal Artistry | 7430 W 88TH AVE A ARVADA CO 80021 | 720-518-5402 |\n| ReGen Revolution | 9660 RALSTON RD ARVADA CO 80004 | 303-292-9992 |\n| Solo Solutions LLC | ARVADA CO 80004 | 303-902-2108 |\n| Unique Touch Massage LLC | 5400 WARD RD 2-G103 ARVADA CO 80002 | 720-937-1435 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

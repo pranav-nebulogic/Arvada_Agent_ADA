@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "violations",
+      "generally",
+      "violation",
+      "undertake",
+      "activities",
+      "listed",
+      "subsection",
+      "inconsistent",
+      "erect",
+      "construct"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "10-1-2-1"
+    ],
+    "chapter": "Chapter 10 ENFORCEMENT",
+    "article": "ARTICLE 10-1. ENFORCEMENT",
+    "division": "DIVISION 10-1-2. VIOLATIONS, REMEDIES, AND PENALTIES"
+  },
+  "content": {
+    "title": "10-1-2-1. Violations.",
+    "summary": "A.\tGenerally. It shall be a violation of this LDC to undertake any of the activities listed in this Subsection.\n  1.\tActivities Inconsistent with LDC.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "10-1-2-1. Violations.",
+        "a": "A.\tGenerally. It shall be a violation of this LDC to undertake any of the activities listed in this Subsection.\n  1.\tActivities Inconsistent with LDC. Erect, construct, reconstruct, remodel, alter, maintain, expand, move, or use any building, structure, or sign, or to engage in development or subdivision of any land in contravention of any zoning, subdivision, sign, or other regulation of this LDC, including all required approvals.\n  2.\tLand Disturbing Activities Inconsistent with Code. Excavate, grade, cut, clear, or undertake any other land disturbance activity contrary to the provisions of this LDC, or without first obtaining all requisite land use approvals required by this LDC or other applicable regulations.\n  3.\tNonconformities Inconsistent with LDC. Create, expand, replace, or change a nonconforming use, structure, lot, or sign except in compliance with the applicable provisions of this LDC.\n  4.\tCreation of Undersized Lots or Setbacks. Reduce or diminish the lot area, setbacks, or open space below the minimum required by this LDC, or increase the lot coverage above the maximum allowed by this LDC.\n  5.\tIncreasing Intensity of Use. Increase the intensity of use of any land or structure, except in accordance with the procedural and substantive standards of this LDC.\n  6.\tActivities Inconsistent with Approval or Permit. Engage in any development, use, construction, remodeling, or other activity of any nature in any way inconsistent with the terms and conditions of any applicable permit, approval, or other form of authorization required to engage in such activity.\n  7.\tActivities Inconsistent with Conditions of Approval. Fail to comply with any terms, conditions, or limitations placed by the Decision-Making Body upon any development approval, or failure to comply with any terms, conditions, or limitations incorporated into an agreement related to such approval, including but not limited to an annexation agreement, development agreement, subdivider's agreement, or public improvements agreement.\n  8.\tFailing to Remove Signs. Fail to remove any sign installed, created, erected, or maintained in violation of this Code, or for which the sign permit has lapsed, where removal is ordered by the City.\nB.\tRemedies Specific to Landscaping Requirements.\n  1.\tIf an Applicant fails to comply with the minimum provisions of this LDC with respect to the preservation of trees, the Applicant shall be required to replace each tree that is damaged beyond remedy or destroyed at the rate set out in Section 4-6-2-2, Tree Removal and Replacement. A landscape plan illustrating the required replacements must be submitted to the City for review and approval.\n  2.\tIf an Applicant does not choose to replace irreparably damaged or destroyed trees intended for preservation, the Applicant will be assessed an amount equal to the caliper inch replacement cost plus 200 percent for those trees. The Applicant is required to spend the amount of the assessment for trees at the project. At the City's discretion, the Applicant may choose to plant the trees on a nearby public property in a location agreed to by the City rather than on the project site.\nC.\tContinuing Violations. Each day that a violation occurs or remains uncorrected after receipt of notice shall constitute a separate violation of this LDC."
+      }
+    ],
+    "ordinance_refs": [
+      "10-1-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

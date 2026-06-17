@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "appearance",
+      "structures",
+      "premises",
+      "protective",
+      "treatment",
+      "hereby"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-500"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-500. - I.P.M.C. Section 304.2, Appearance of structures and premises.",
+    "summary": "Section 304.2. Protective treatment,\nis hereby deleted in its entirety and replaced with\n304.2 Appearance of structures and premises,\nto read as follows:\n\"\n304.2. Appearance of structures and premises.\nThe exterior appearance of structures and premises shall not be kept or maintained\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-500. - I.P.M.C. Section 304.2, Appearance of structures and premises.",
+        "a": "Section 304.2. Protective treatment,\nis hereby deleted in its entirety and replaced with\n304.2 Appearance of structures and premises,\nto read as follows:\n\"\n304.2. Appearance of structures and premises.\nThe exterior appearance of structures and premises shall not be kept or maintained\n                  in a condition that clearly impairs the overall appearance of a neighborhood or is\n                  likely to diminish the value and reasonable enjoyment of adjacent properties. A condition\n                  that impairs the appearance of a neighborhood or the value and enjoyment of adjacent\n                  properties may be a single extreme deficiency, or it may be a combination of several\n                  deficiencies. Such deficiencies may include, without limitation: exterior surfaces\n                  such as doors, door and window frames, walls, cornices, porches, trim, balconies,\n                  decks and fences with deteriorated surface treatment over a substantial portion of\n                  the surface; poorly maintained landscaping; accumulation of rubbish, unused equipment,\n                  building materials, and other debris; broken or sagging fences.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-500"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

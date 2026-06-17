@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-41-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "irrigation",
+      "ditches",
+      "originally",
+      "built",
+      "early",
+      "convey",
+      "water",
+      "rights",
+      "Parks & Open Space - Ditches"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=41"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-are-irrigation-ditches",
+    "faq_category_name": "Parks & Open Space - Ditches"
+  },
+  "content": {
+    "title": "What are irrigation ditches?",
+    "summary": "Irrigation ditches were originally built as early as the 1860’s to convey water rights to farms and ranches. Now irrigation ditches deliver water for a variety of users. Most ditches run water from April through October with some that run water year-round to fill reservoirs.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What are irrigation ditches?",
+        "a": "Irrigation ditches were originally built as early as the 1860’s to convey water rights to farms and ranches. Now irrigation ditches deliver water for a variety of users. Most ditches run water from April through October with some that run water year-round to fill reservoirs."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

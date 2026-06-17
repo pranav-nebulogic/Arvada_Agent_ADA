@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "vendor",
+      "assessments",
+      "directly",
+      "collected",
+      "purchases",
+      "recover",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/386/Vendor-Assessments"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-578",
+    "spreadsheet_id": "MI-578",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Vendor Assessments",
+    "summary": "The City of Arvada conducts audits of businesses to ensure tax compliance, identifying instances where vendors either collect incorrect taxes or fail to remit collected taxes to the City. Vendors are responsible for accurately determining local tax based on actual city boundaries rather than mailing addresses, and they must be licensed with the City to collect Arvada tax. If taxes are not properly remitted, the City may issue a vendor assessment, and retailers are encouraged to use the Sales and Use Tax Simplification tool to verify taxability.",
+    "body": "As part of its comprehensive tax compliance program, the City routinely conducts audits of businesses examining their sales and purchases. During the course of this examination, the City sometimes identifies purchases where the vendor has collected an incorrect tax or has collected Arvada tax but has not remitted it directly to the City. In some cases, the City will issue a Notice of Assessment directly to the vendor to attempt to recover this tax. If the City cannot recover the tax directly from the vendor, the audited business will be assessed a use tax.\n\n## Improperly Imposed Tax\n\nOften vendors rely on a customer's mailing address or zip code in determining the local tax to be charged. This reliance may be misplaced because zip codes do not coincide with City boundaries and are not a reliable source for determining taxability. Further, because the post offices servicing much of the City are located in neighboring cities, a purchaser's mailing address may be misleading. For example, of the twelve zip codes in which Arvada resides, only seven are actually Arvada's mailing addresses. Customers with Broomfield, Golden, Westminster, or Wheat Ridge mailing addresses may actually reside in Arvada. This may result in a vendor collecting and remitting an incorrect local tax. Retailers are responsible for the collection and payment of tax. Failure to collect the proper tax does not relieve a retailer of their liability to the City. If the original local tax has been remitted to another jurisdiction in error, the retailer must pay the vendor assessment and apply to that jurisdiction for a refund. Generally, penalties will be abated if the vendor assessment is paid by the due date. To avoid this issue, retailers making deliveries into the City are encouraged to use the Sales and Use Tax Simplification (SUTS) lookup tool located at: https://colorado.ttr.services/, the Colorado-certified database to verify the address.\n\n## Tax Discovery\n\nOccasionally, the City identifies purchases where the vendor properly collected Arvada tax, but failed to remit that tax to the City. This usually results from a vendor failing to license with the City. Arvada is a home‐rule city that collects and administers its own tax. Some vendors may not realize that they are required to license with home‐rule cities in addition to the Colorado Department of Revenue. Neither the Department of Revenue nor any other jurisdiction may collect Arvada's tax. If the original local tax has been remitted to another jurisdiction in error, the retailer must pay the vendor assessment and apply to that jurisdiction for a refund. Generally, penalties will be abated if the vendor assessment is paid by the due date. There is no statute of limitations on the recovery of Arvada taxes collected, but not remitted to Arvada. For a complete listing of home‐rule cities, vendors should refer to the Colorado Department of Revenue for the Colorado Sales and Use Tax Rate - form DR1002.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

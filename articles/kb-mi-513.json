@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "spills",
+      "dumping",
+      "illegal",
+      "accidental",
+      "environment",
+      "addressed",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/441/Spills-Dumping"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-513",
+    "spreadsheet_id": "MI-513",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Spills & Dumping",
+    "summary": "Protecting Arvada's streams from illegal dumping and spills is essential for environmental health. Residents should report any accidental spills or illegal dumping of hazardous materials by calling 911, and if safe, take steps to control and contain the spill while ensuring proper clean-up procedures are followed, especially for hazardous materials which require professional handling.",
+    "body": "Protecting Arvada's streams from illegal dumping is critical to maintaining a healthy environment. Accidental spills and illegal dumping should be addressed as soon as possible.\n\nIf you have experienced an accidental spill, or see illegal dumping of potentially hazardous materials in progress, please call 911.\n\n## Spills\n\nSpills include any material that could pollute stormwater (biological, chemical, radiological, and/or physical). These can pose a risk to humans, the environment and property. Examples of hazardous material:\n\n- Chemicals\n- Oil\n- Gasoline\n\n## Spill Basics\n\n- **Communicate**- If you've had an accidental spill, or witness a spill or dumping, contact the proper authorities. Notify people around the spill that it has occurred, especially if you think the spill may pose a threat.\n- **Control and Contain** - If it is in your power, and safe to do so, try to minimize the spill and keep it from getting worse. Do not attempt to contain or control the spill if unknown or hazardous materials are involved.\n- **Clean-Up** - When dealing with a non-hazardous and minor spill, there are many techniques for clean-up. Always wear protective gear and follow safety standards. Hazardous material should only be cleaned up by specially trained and licensed professionals. Do not attempt to clean-up hazardous material.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

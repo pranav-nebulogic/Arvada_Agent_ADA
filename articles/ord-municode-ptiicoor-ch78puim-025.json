@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "records",
+      "publication",
+      "mailing",
+      "proof",
+      "shall",
+      "maintained",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-26"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-26. - Records of publication or mailing.",
+    "summary": "Proof of publication and proof of mailing shall be maintained in the records of the\n               city until all the assessments appertaining thereto shall have been paid in full,\n               including principal, interest, any penalties and any collection costs.\n(Code 1981, § 27-27; Ord. No. 551…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-26. - Records of publication or mailing.",
+        "a": "Proof of publication and proof of mailing shall be maintained in the records of the\n               city until all the assessments appertaining thereto shall have been paid in full,\n               including principal, interest, any penalties and any collection costs.\n(Code 1981, § 27-27; Ord. No. 551, § 13(E), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-26"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

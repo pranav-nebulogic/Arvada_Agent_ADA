@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "statutory",
+      "authorization",
+      "legislature",
+      "state",
+      "colorado",
+      "title",
+      "article",
+      "delegated",
+      "responsibility",
+      "local"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-2-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-2. FLOODPLAIN REGULATIONS"
+  },
+  "content": {
+    "title": "4-1-2-1. Statutory authorization.",
+    "summary": "The Legislature of the State of Colorado has, in C.R.S. Title 29, Article 20, delegated the responsibility of local government units to adopt regulations designated to minimize flood losses.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-2-1. Statutory authorization.",
+        "a": "The Legislature of the State of Colorado has, in C.R.S. Title 29, Article 20, delegated the responsibility of local government units to adopt regulations designated to minimize flood losses. Therefore, the City Council of Arvada, Colorado, does hereby adopt the following floodplain management regulations.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "warning",
+      "disclaimer",
+      "liability",
+      "degree",
+      "flood",
+      "protection",
+      "required",
+      "division",
+      "considered",
+      "reasonable"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-2-10"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-2. FLOODPLAIN REGULATIONS"
+  },
+  "content": {
+    "title": "4-1-2-10. Warning and disclaimer of liability.",
+    "summary": "The degree of flood protection required by this Division is considered reasonable for regulatory purposes and is based on scientific and engineering considerations. On rare occasions greater floods can occur and will occur.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-2-10. Warning and disclaimer of liability.",
+        "a": "The degree of flood protection required by this Division is considered reasonable for regulatory purposes and is based on scientific and engineering considerations. On rare occasions greater floods can occur and will occur. Flood heights may be increased by manmade or natural causes.\nThis Division does not imply that land outside the Regulatory Floodplain or uses permitted within such areas will be free from flooding or flood damages. This Division shall not create liability on the part of the City or any official or employee thereof for any flood damages that result from reliance on this Division or any administrative decision lawfully made thereunder.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-2-10"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

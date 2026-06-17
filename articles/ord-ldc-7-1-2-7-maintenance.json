@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "maintenance",
+      "ensure",
+      "structural",
+      "integrity",
+      "wcfs",
+      "owner",
+      "maintained",
+      "compliance",
+      "standards",
+      "contained"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-2-7"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-2. OPERATIONAL STANDARDS"
+  },
+  "content": {
+    "title": "7-1-2-7. Maintenance.",
+    "summary": "To ensure the structural integrity of WCFs, the owner of a WCF shall ensure that it is maintained in compliance with standards contained in applicable building and safety codes.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-2-7. Maintenance.",
+        "a": "To ensure the structural integrity of WCFs, the owner of a WCF shall ensure that it is maintained in compliance with standards contained in applicable building and safety codes. If upon inspection, the Director determines that a WCF fails to comply with such codes and constitutes a danger to persons or property, then, upon written notice being provided to the owner of the WCF, the owner shall have 30 days from the date of notice to bring such WCF into compliance. Upon good cause shown by the owner, the Director may extend such compliance period not to exceed 90 days from the date of said notice. If the owner fails to bring such WCF into compliance within said time period, the Director may remove such WCF at the owner's expense."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-2-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

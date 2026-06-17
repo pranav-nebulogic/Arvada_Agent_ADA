@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "guard",
+      "dogs",
+      "unlawful",
+      "place",
+      "maintain",
+      "any",
+      "area"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-94"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-94. - Guard dogs.",
+    "summary": "It is unlawful to place or maintain guard dogs in any area for the protection of persons\n               or property unless the following conditions are met:\n(1)\nThey shall be under the complete control of a custodian at all times; or\n(2)\nThe dogs shall be confined to an enclosed area adequate to ens…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-94. - Guard dogs.",
+        "a": "It is unlawful to place or maintain guard dogs in any area for the protection of persons\n               or property unless the following conditions are met:\n(1)\nThey shall be under the complete control of a custodian at all times; or\n(2)\nThe dogs shall be confined to an enclosed area adequate to ensure that they will not\n                  escape; and\n(3)\nWarning signs shall be conspicuously posted indicating the presence of guard dogs\n                  and such signs shall plainly show a telephone number where some person responsible\n                  for controlling guard dogs can be reached at all times.\n(Code 1981, § 6-49; Ord. No. 3496, § 2, 12-14-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-94"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

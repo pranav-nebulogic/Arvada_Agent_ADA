@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "contract",
+      "performance",
+      "payment",
+      "bonds",
+      "awarded",
+      "following"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-49"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-49. - Construction contract performance and payment bonds.",
+    "summary": "(a)\nBonds.\nWhen a construction contract is awarded, the following bonds shall be delivered to\n               the city and shall become binding on the parties upon the execution of the contract:\n(1)\nPerformance bond. A performance bond satisfactory to the city, executed by a surety\n               com…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-49. - Construction contract performance and payment bonds.",
+        "a": "(a)\nBonds.\nWhen a construction contract is awarded, the following bonds shall be delivered to\n               the city and shall become binding on the parties upon the execution of the contract:\n(1)\nPerformance bond. A performance bond satisfactory to the city, executed by a surety\n               company authorized to do business in Colorado or otherwise secured in a manner satisfactory\n               to the city, in an amount equal to 100 percent of the price specified in the contract;\n               and\n(2)\nPayment bond. A payment bond satisfactory to the city, executed by a surety company\n               authorized to do business in Colorado or otherwise secured in a manner satisfactory\n               to the city, for the protection of all persons supplying labor and material to the\n               contractor or its subcontractors for the performance of the work provided for in the\n               contract, in an amount equal to 100 percent of the price specified in the contract.\n(b)\nSecurity.\nIn lieu of providing a performance or payment bond, a contractor may provide an unconditional\n               letter of credit for 100 percent of the amount required. Such security must be in\n               a form acceptable to the city attorney.\n(c)\nReduction in amount.\nIf a construction contract is awarded in an amount less than $100,000.00, the director\n               may reduce the amount of the performance and payment bonds or security or waive these\n               requirements entirely if deemed appropriate by the director. For all other performance\n               and payment bonds or security, the city manager may reduce the amount of the performance\n               and payment bonds or security to 50 percent of the contract amount upon a written\n               finding that it is in the best interests of the city to do so.\n(d)\nAdditional bond requirements.\nNothing in this section shall be construed to limit the authority of the city to\n               require a performance bond or other security in addition to those bonds or in circumstances\n               other than those specified in this section.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-49"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "site",
+      "parking",
+      "generally",
+      "lieu",
+      "locating",
+      "spaces",
+      "required",
+      "division",
+      "loading",
+      "calculations"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-3-4"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-3. PARKING AND LOADING DESIGN"
+  },
+  "content": {
+    "title": "4-5-3-4. Off-site parking.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-3-4. Off-site parking.",
+        "a": "A.\tGenerally. In lieu of locating parking spaces required by Division 4-5-2, Parking and Loading Calculations, on the lot that generates the demand for the required parking, parking spaces may be provided on any lot or premises controlled, i.e., by fee-simple ownership, easement interests, lease interests, or participation in a parking district or other joint venture to provide centralized off-street parking, by the owner of the use that generates the parking demand, provided that:\n  1.\tThe parking lot providing the parking is within 200 feet of the boundary of the property generating such parking requirements and no required off-street parking space within said parking lot is more than 500 feet from the property it is serving; and\n  2.\tThe parking spaces are not already counted towards the parking requirements of another use after application of Section 4-5-2-4, Shared Parking, Section 4-5-2-5, Parking Credits and Reductions, or Section 4-5-2-6, Parking Studies, as may be applicable.\nB.\tExceptions. Off-site parking is not allowed in:\n  1.\tResidential zoning districts, except that manufactured home parks and clustered housing types may utilize centralized parking; and\n  2.\tLocations in which a street with more than two lanes separates the off-site parking area from the subject property.\n(Ord. No. 4793, § 3, 3-21-2022; Ord. No. 4905, § 41, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-3-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

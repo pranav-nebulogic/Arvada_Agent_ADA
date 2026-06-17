@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "relation",
+      "rental",
+      "income",
+      "shall",
+      "accept",
+      "any",
+      "family"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-52"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-52. - Relation of rental to income.",
+    "summary": "It shall not accept any family as a tenant in dwelling accommodations that are provided\n               for persons of low income if the family who would occupy the dwelling accommodations\n               has a net annual income in excess of five times the annual rental of the dwelling\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-52. - Relation of rental to income.",
+        "a": "It shall not accept any family as a tenant in dwelling accommodations that are provided\n               for persons of low income if the family who would occupy the dwelling accommodations\n               has a net annual income in excess of five times the annual rental of the dwelling\n               accommodations to be furnished, after allowing all exemptions available to families\n               occupying dwellings in low rent housing authorized under the act of Congress of the\n               United States known as the \"United States Housing Act of 1937,\" as amended. In computing\n               such rental, for the purpose of selecting tenants, there shall be included in the\n               rental the average annual cost to the occupant, as determined by the authority, of\n               heat, water, electricity, gas, and other necessary services or facilities, whether\n               or not the charge for such services and facilities is in fact included in the rental.\n(Code 1981, § 14-21; Ord. No. 1248, § 8(1)(d), 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-210(1)(d)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-52"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

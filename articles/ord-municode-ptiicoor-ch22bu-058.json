@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "renewal",
+      "all",
+      "licenses",
+      "issued",
+      "pursuant",
+      "chapter",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-205"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-205. - Renewal.",
+    "summary": "(a)\nAll licenses issued pursuant to this chapter shall expire on December 31, unless canceled,\n               suspended or revoked, and shall be renewed annually upon application for renewal and\n               payment of the annual license fee.\n(b)\nThe renewal application shall be reviewed by the ci…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-205. - Renewal.",
+        "a": "(a)\nAll licenses issued pursuant to this chapter shall expire on December 31, unless canceled,\n               suspended or revoked, and shall be renewed annually upon application for renewal and\n               payment of the annual license fee.\n(b)\nThe renewal application shall be reviewed by the city clerk who shall have the power\n               to grant or deny such license renewal and to impose reasonable limitations and restrictions\n               of any license renewed. The city clerk shall evaluate the application under the criteria\n               set forth for original applications.\n(Code 1981, § 23-5; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-205"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

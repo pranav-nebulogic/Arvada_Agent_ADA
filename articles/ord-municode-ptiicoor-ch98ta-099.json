@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "taxes",
+      "collected",
+      "held",
+      "trust",
+      "all",
+      "admission",
+      "tax"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-314"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-314. - Taxes collected to be held in trust.",
+    "summary": "All admission tax collected by a retailer for a person to gain admission to any place\n               or event in the city that is open to the public are public moneys that are the property\n               of the city. The person required to collect and remit admissions tax shall hold all\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-314. - Taxes collected to be held in trust.",
+        "a": "All admission tax collected by a retailer for a person to gain admission to any place\n               or event in the city that is open to the public are public moneys that are the property\n               of the city. The person required to collect and remit admissions tax shall hold all\n               such moneys in trust for the sole use and benefit of the city until paid to the city\n               in the manner prescribed by this article.\n(Code 1981, § 31-133; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-314"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

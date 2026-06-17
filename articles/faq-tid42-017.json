@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-42-018",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "some",
+      "city",
+      "parks",
+      "watered",
+      "during",
+      "daylight",
+      "hours",
+      "part",
+      "Parks Maintenance"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=42"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/why-are-some-city-parks-watered-during-daylight-hours",
+    "faq_category_name": "Parks Maintenance"
+  },
+  "content": {
+    "title": "Why are some City parks watered during daylight hours?",
+    "summary": "As part of voluntary water conservation efforts, Arvada residents are asked not to water their lawns between 10 am and 6 pm. However, you'll notice that sometimes sprinklers in our parks are running during those daytime hours. The primary reason is that given the many hundreds of acres that require …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Why are some City parks watered during daylight hours?",
+        "a": "As part of voluntary water conservation efforts, Arvada residents are asked not to water their lawns between 10 am and 6 pm. However, you'll notice that sometimes sprinklers in our parks are running during those daytime hours. The primary reason is that given the many hundreds of acres that require watering, and the number of irrigation zones in any given park, there are simply not enough hours between 6 pm and 10 am to complete the cycle. Parks staff also conduct irrigation checks and make adjustments during these daylight hours. Another reason daytime watering occurs in places like the Stenger and Lutz sports complexes is due to the high use of the complex on weekends and three-day holiday periods. During these periods the turf areas lose the base level of soil moisture required for plant health and player safety, thus requiring additional watering during weekdays when the fields are not in use. Finally, annual seed and sod repair and grounds rehabilitation can account for short watering cycles throughout the day at specific locations. For example, when the City upgrades a median by putting in new seeds, plants, and trees, additional watering may be required to get the landscaping established. Rest assured that the City does monitor its usage and works to keep the volume below its historical use."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "purpose",
+      "scope",
+      "city",
+      "council",
+      "finds"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-110"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-110. - Legislative declaration, purpose, and scope.",
+    "summary": "(a)\nLegislative declaration.\nThe city council finds that establishing laws, regulations, and procedures that safeguard\n               life and property from fire and explosion dangers arising from hazardous conditions\n               is necessary to protect the health, safety, and welfare of the publ…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-110. - Legislative declaration, purpose, and scope.",
+        "a": "(a)\nLegislative declaration.\nThe city council finds that establishing laws, regulations, and procedures that safeguard\n               life and property from fire and explosion dangers arising from hazardous conditions\n               is necessary to protect the health, safety, and welfare of the public. The city council\n               also finds that county and AFPD officials have the necessary expertise to determine\n               when Stage 1 fire restrictions or a Stage 2 fire ban is necessary to protect the public's\n               health, safety, and welfare.\n(b)\nPurpose.\nThe purpose of this article is to provide for the regulation of open fires or burning,\n               or recreational fires, when atmospheric or other local conditions increase the danger\n               of wild or other uncontrolled fires.\n(c)\nScope.\nThis article does not apply to:\n(1)\nA fire specifically authorized by permit issued by the fire code official having jurisdiction\n               over the fire location including, but not limited to: a fire permitted as part of\n               a professional fireworks display, permitted as part of the use of a pyrotechnics device\n               or of pyrotechnics, or a permitted bonfire; or\n(2)\nAn open fire or open burning activity by any federal, state, or local fire protection\n               employee as part of an authorized training exercise or otherwise in the performance\n               of an official fire suppression function.\n(Ord. No.\n4739\n, § 4, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-110"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

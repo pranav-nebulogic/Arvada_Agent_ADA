@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "major",
+      "modification",
+      "generally",
+      "decision",
+      "making",
+      "body",
+      "grant",
+      "modifications",
+      "which",
+      "deviations"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-11-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-11. EXCEPTIONS, VARIANCES, MODIFICATIONS, AND INTERPRETATIONS"
+  },
+  "content": {
+    "title": "8-3-11-4. Major modification.",
+    "summary": "A.\tGenerally. The Decision-Making Body may grant Major Modifications, which are major modifications or deviations from dimensional or numeric standards of this LDC in accordance with this Section.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-11-4. Major modification.",
+        "a": "A.\tGenerally. The Decision-Making Body may grant Major Modifications, which are major modifications or deviations from dimensional or numeric standards of this LDC in accordance with this Section. Major Modifications are intended to allow for flexibility to make modifications without requiring a variance. The Major Modification procedure is not intended to serve as a waiver of the intent of the LDC or to circumvent the variance procedure.\nB.\tForm and Timing of Application. Applications for Major Modifications may be filed with respect to other pending applications at any time prior to completion of administrative review (see Section 8-2-3-11, Review by Director) of related pending applications.\nC.\tMajor Modifications from Zoning District and General Development Standards.\n  1.\tGeneral Rule. The Decision-Making Body shall be authorized to grant the following types of Major Modifications, subject to the Approval Criteria in subsection D., below:\n    a.\tModifications of more than 20 percent of any numeric requirements set out in Chapter 2, Zoning Districts, Chapter 4, Environmental and Site Design or Chapter 5, Building Design.\n    b.\tModifications of any regulation set out in Division 3-1-3, Use-Specific Standards for Primary Land Use.\n  2.\tProhibitions. In no circumstance shall the Decision-Making Body approve a modification of a general development or zoning district standard that is not listed specifically in subsection C.1. above, or that results in any of the following:\n    a.\tAn increase in building height above the maximum building height established by the underlying zoning district, preliminary development plan, or final development plan;\n    b.\tAn increase in permitted maximum development density or intensity;\n    c.\tA change in permitted uses or mix of uses;\n    d.\tA decrease in the amount of common or dedicated open space required; or\n    e.\tModification of the standards set out in Article 4-1, Environmental Quality.\nD.\tApproval Criteria. Major Modifications may be approved by the Decision-Making Body only upon a finding that all of the following criteria are met:\n  1.\tThe requested modification is consistent with the Comprehensive Plan and the stated purpose of the applicable zoning district;\n  2.\tThe requested modification addresses a unique situation or incorporates creative site design;\n  3.\tThe requested modification will not result in incompatible development;\n  4.\tThe requested modification will have no significant adverse impact on the health, safety or general welfare of surrounding property owners or the general public; and\n  5.\tAny adverse impacts resulting from the modification will be mitigated to the extent reasonably feasible.\nE.\tEffect of Approval.\n  1.\tNoted on Pending Application. The Director shall specify any approved Major Modifications from general development or zoning district standards and the justifications for such modification on the pending development application for which the modifications were sought."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-11-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

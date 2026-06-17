@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "citizens",
+      "police",
+      "academy",
+      "department",
+      "include",
+      "officers",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/892/Citizens-Police-Academy-CPA"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-123",
+    "spreadsheet_id": "MI-123",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Citizens Police Academy (CPA)",
+    "summary": "The Arvada Police Department is offering a Citizens Police Academy (CPA) from August 6 to October 8, 2026, held on Thursdays from 6-9 p.m. at City Hall. The 10-week course covers various topics related to police work, and interested participants must complete an online application to secure their spot, as class size is limited. For further inquiries, contact Courtney Driscoll at 720-898-6547.",
+    "body": "You can learn more about your Arvada Police Department by attending the Arvada Police Department’s Citizens Police Academy (CPA).\n\nCPA instructors include police officers and other police department employees. Classes include topics related to patrol, DUI enforcement, school resource officers, special investigations, mental health, body worn cameras and more!\n\n**The 2026 Citizen's Police Academy (CPA) is a 10 week course.**\n\n- **When:** August 6 - October 8 (Thursdays) from 6-9 p.m.\n- **Where:** City Hall - Anne Campbell Room, 8101 Ralston Rd.\n\n## Applying to the Citizen's Police Academy\n\nTo ensure acceptance in the Arvada Police Citizen Police Academy, please complete the following application and registration process:[![QR code that links to Citizens Police Academy 2026 Application](/ImageRepository/Document?documentId=7182)](https://arvada-forms.app.transform.civicplus.com/forms/60528)\n\n1. **Online Application** - [The application for the next CPA is now available!](https://arvada-forms.app.transform.civicplus.com/forms/60528). Please read the application entirely and fill it out in its entirety.\n2. **Letter of Acceptance** - Once your application has been processed and accepted, you will be sent a Letter of Acceptance. This letter will provide you with the beginning date, time, and location of the first class.\n3. **Participant's Permit/Promise to Release** - Along with the letter of acceptance, you will receive the \"Participant's Permit/Promise to Release\" form. You will need to thoroughly read this form, date and sign it, and bring it with you to the first night of the class.\n\nClass size is limited, so complete your application early. If you have any questions, please call Courtney Driscoll at 720-898-6547.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

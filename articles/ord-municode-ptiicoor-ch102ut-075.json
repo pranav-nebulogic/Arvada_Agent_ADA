@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "distributor",
+      "institution",
+      "user",
+      "rates",
+      "following",
+      "water",
+      "applicable"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-174"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-174. - Distributor and institution user rates.",
+    "summary": "The following water user rates are applicable to contractual service in or out of\n               the city accountable through master meter or meters to user-owned and user-maintained\n               distribution systems:\n(1)\nFirst 500,000 gallons per month, per 1,000 gallons .....$6.34\n(2)\nExcess of …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-174. - Distributor and institution user rates.",
+        "a": "The following water user rates are applicable to contractual service in or out of\n               the city accountable through master meter or meters to user-owned and user-maintained\n               distribution systems:\n(1)\nFirst 500,000 gallons per month, per 1,000 gallons .....$6.34\n(2)\nExcess of 500,000 gallons per month, per 1,000 gallons .....$6.11\n(Code 1981, § 33-90; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, § 26, 10-16-1989;\n               Ord. No. 2855, § 11, 10-21-1991; Ord. No. 2931, § 16, 10-19-1992; Ord. No. 3023, §\n               5, 11-15-1993; Ord. No. 3127, § 16, 10-24-1994; Ord. No. 3223, § 16, 10-23-1995; Ord.\n               No. 3297, § 9, 10-21-1996; Ord. No. 3403, § 21, 10-20-1997; Ord. No. 3490, § 2, 10-26-1998;\n               Ord. No. 3560, § 11, 10-11-1999; Ord. No. 3650, § 9, 10-23-2000; Ord. No. 3722, §\n               9, 10-8-2001; Ord. No. 3773, § 9, 10-21-2002; Ord. No. 3839, § 9, 10-13-2003; Ord.\n               No. 3920, § 9, 11-8-2004; Ord. No. 3969, § 9, 10-10-2005;\nOrd. No. 4027, § 9, 10-16-2006\n;\nOrd. No. 4099, § 9, 11-19-2007, eff. 1-1-2008\n;\nOrd. No. 4139, § 11, 11-17-2008, eff. 1-1-2009\n;\nOrd. No. 4184, § 12, 10-19-2009, eff. 1-1-2010\n;\nOrd. No. 4233, § 5, 10-25-2010, eff. 1-1-2011\n;\nOrd. No. 4305, § 5, 11-14-2011, eff. 1-1-2012\n;\nOrd. No. 4359, § 5, 10-22-2012, eff. 1-1-2013\n;\nOrd. No. 4409, § 5, 10-21-2013, eff. 1-1-2014\n;\nOrd. No. 4464, § 5, 10-20-2014, eff. 1-1-2015\n;\nOrd. No. 4523, § 5, 10-19-2015, eff. 1-1-2016\n;\nOrd. No. 4569, § 5, eff. 1-1-2017\nOrd. No.\n4609\n, § 5, eff. 1-1-2018;\nOrd. No. 4657\n, § 5, eff. 1-1-2019; Ord. No.\n4709\n, § 5, 10-21-2019; Ord. No.\n4746\n, § 5, 11-2-2020; Ord. No.\n4784\n, § 5, 11-15-2021;\nOrd. No. 4817\n, § 5, 10-17-2022, eff. 1-1-2023;\nOrd. No. 4858\n, § 5, 10-16-2023;\nOrd. No. 4879\n, § 5, 10-21-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-174"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "division",
+      "smoking",
+      "restricted",
+      "public",
+      "places",
+      "footnotes",
+      "editor",
+      "note"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 38-301"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — DIVISION 3. - SMOKING RESTRICTED IN PUBLIC PLACES",
+    "summary": "Footnotes:\n--- (\n8\n) ---\nEditor's note—\nOrd. No. 4003, § 1, adopted June 5, 2006\n, amended Div. 3, in its entirety, to read as herein set out in §§ 38-301—38-307.\n               Prior to inclusion of said ordinance, Div. 3, pertained to similar subject matter.\n               See also the Code Compar…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "DIVISION 3. - SMOKING RESTRICTED IN PUBLIC PLACES",
+        "a": "Footnotes:\n--- (\n8\n) ---\nEditor's note—\nOrd. No. 4003, § 1, adopted June 5, 2006\n, amended Div. 3, in its entirety, to read as herein set out in §§ 38-301—38-307.\n               Prior to inclusion of said ordinance, Div. 3, pertained to similar subject matter.\n               See also the Code Comparative Table.\nCross reference—\nStreets, sidewalks and certain other public places, ch. 94.\nState Law reference—\nSmoking, C.R.S. § 25-14-101 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 38-301"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

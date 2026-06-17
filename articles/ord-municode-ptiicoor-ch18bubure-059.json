@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "soil",
+      "tests",
+      "hereby",
+      "amended",
+      "adding",
+      "second"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-187"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-187. - I.R.C. Section R401.4, Soil tests.",
+    "summary": "Section R401.4. Soil tests,\nis hereby amended by adding a second paragraph and an exception to read as follows:\n\"\nR401.4. Soil tests.\nExpansive soils are deemed present throughout most of the city. A soil's report and\n                  engineered foundation plan are required for all new construction…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-187. - I.R.C. Section R401.4, Soil tests.",
+        "a": "Section R401.4. Soil tests,\nis hereby amended by adding a second paragraph and an exception to read as follows:\n\"\nR401.4. Soil tests.\nExpansive soils are deemed present throughout most of the city. A soil's report and\n                  engineered foundation plan are required for all new construction. Such plans must\n                  be prepared by a state registered professional engineer. The documents must specifically\n                  include design computations for pier and diameter and length, describe methods to\n                  provide restraint from lateral soil pressures, provide a slab performance risk evaluation,\n                  compaction, and soil preparation requirements for slab on grade, and other information\n                  deemed necessary to the engineer of record.\nException:\nIf the existing foundation of an R-3 residential building is performing adequately,\n                  foundations for additions to existing buildings are allowed to match the existing\n                  foundation type. An open hole soil's investigation by a state licensed engineer may\n                  be required.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-187"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

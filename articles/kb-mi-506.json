@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "skate",
+      "parks",
+      "park",
+      "company",
+      "skating",
+      "apex",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/643/Skate-Parks"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-506",
+    "spreadsheet_id": "MI-506",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Skate Parks",
+    "summary": "The Arvada Skate Park, located at 12920 West 72nd Avenue, is the third-largest skate park in the U.S., featuring over 40,000 square feet of skating surface and designed by Team Pain. Open daily from sunrise to 10 PM, the park is available for skateboard special event rentals, and additional skate spots can be found at Memorial Park, Wolffe Park, and Skyline Park, all free to use with recommended safety equipment. For rental inquiries, contact 720-898-7410.",
+    "body": "## Arvada Skate Park\n\nThe Arvada Skate Park located at [12920 West 72nd Avenue](https://goo.gl/maps/8ub9K), just east of the Apex Center. It is the third-largest skate park in the country and has hosted several large-scale skating events. The park's skating surface, which exceeds 40,000 square feet, was designed and built by Team Pain, a skate park design and build company based in Florida. The park's infrastructure and other components were completed by Urban Farmer, a local landscaping company. Together these features make this venue a top skating destination in the state. It opened in June 2012.\n\n## Hours, Rental & Contact Information\n\n- The park is open from **sunrise to 10 pm daily**.\n- Rental of the skate park is available for skateboard special events only.\n- For more information on renting the skate park, call 720-898-7410.\n- [View the Arvada Skate Park Rental Agreement (PDF)](https://co-arvada.civicplus.com/DocumentCenter/View/856/Skate-Park-Rental-Agreement-PDF)\n\n![Skate Park](/ImageRepository/Document?documentID=855 \"Skate Park\")\n\n## Avada Skate Spots\n\n**General hours** of use for all Arvada Parks(unless otherwise noted) are **sun up to sundown**.\n\n- The Memorial Park Skate Spot is located in Memorial Park just behind City Hall and Police Headquarters at 8001 West 59th Avenue.\n- Wolffe Park Skate Spot is located at 8475 West 57th Avenue\n- Skyline Park Skate Spot is located at 11600 West 56th Drive.\n\nFor questions call 720-898-7410. There are no fees and participants need to provide their own skateboard, helmet, knee, and elbow pads. It is highly recommended that skaters wear safety equipment.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "retroactive",
+      "tax",
+      "obligation",
+      "collect",
+      "sales",
+      "use",
+      "required"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-67"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-67.5. - No retroactive tax.",
+    "summary": "No obligation to collect the sales and use tax required by this article may be applied\n               retroactively. Responsibilities, duties, and liabilities described in\nsection 98-66\nof a marketplace facilitator, marketplace seller, or multichannel seller begin when\n               they became lic…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-67.5. - No retroactive tax.",
+        "a": "No obligation to collect the sales and use tax required by this article may be applied\n               retroactively. Responsibilities, duties, and liabilities described in\nsection 98-66\nof a marketplace facilitator, marketplace seller, or multichannel seller begin when\n               they became licensed to collect the city's sales tax, or when they became legally\n               obligated to collect the city's sales tax under\nsection 98-66\n, whichever is earlier.\n(Ord. No.\n4741\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-67"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

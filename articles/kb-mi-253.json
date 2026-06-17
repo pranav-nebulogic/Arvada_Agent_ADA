@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "headsup",
+      "drivers",
+      "especially",
+      "pedestrians",
+      "right",
+      "speed",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/476/HeadsUp-Arvada"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-253",
+    "spreadsheet_id": "MI-253",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "HeadsUp Arvada",
+    "summary": "The HeadsUp Arvada initiative emphasizes the importance of safe driving, pedestrian awareness, and responsible bicycling to reduce traffic-related accidents. Drivers are urged to adhere to speed limits, stop at signals, and remain attentive to pedestrians, especially in low-light conditions. Pedestrians and cyclists are encouraged to use crosswalks and follow traffic laws to enhance their safety while navigating the streets.",
+    "body": "## Drivers\n\n![Heads Up! Speed Limits Save Lives](/ImageRepository/Document?documentId=546)Being a responsible and safe drivers means:\n\n- Slowing down and driving the speed limit\n- Stopping at all stop signs and red lights, especially before making a right turn\n- Keeping your cellphone out of your hand while you drive\n- Keep your eyes on the road and look for pedestrians, especially at intersections\n\nPedestrians always have the right-of-way when crossing the street, even without a marked crosswalk. At some point, most of us are drivers, this comes with a responsibility to follow traffic laws and be a safe driver.\n\nIn the fall and winter, when it gets dark earlier, it's crucial to keep your phone down and look ahead. This is when crashes with pedestrians often go up.\n\n## Pedestrians\n\n![Heads Up! Get to the Crosswalk](/ImageRepository/Document?documentId=547)\n\nIn Arvada, most crashes between a vehicle and a pedestrian/bicyclist happen outside a crosswalk. It might seem easier to run across the street instead of walking to a crosswalk. If you take the extra minute or two to get to the crosswalk, you will reduce your risk of being involved in a crash.\n\nCrosswalks can be marked or unmarked. They are usually found where drivers are likely to expect to see a person crossing. If you are at a signalized intersection, wait for the walk sign to cross.\n\nPedestrian actions and behaviors influence our safety. To stay safe, always use crosswalks when walking to the bus or train, running errands, or when out for a stroll.\n\n## Bicyclists\n\n![Heads Up! Slow Your Roll](/ImageRepository/Document?documentId=548)Riding bikes is a fun and healthy way to commute, run errands, exercise, or enjoy the outdoors. It's also important to remember we need to follow traffic laws.\n\nWhen riding on the street, in a bike lane or not:\n\n- Follow all traffic laws, including the [Colorado Safety Stop](https://csp.colorado.gov/press-release/colorado-introduces-changes-to-bike-laws) requiring cyclists to yield at stop signs and stop at red lights\n- Check to make sure there are no oncoming vehicles when crossing a street\n\nColorado law states that a person waiting to cross a street cannot enter \"into the path of a moving vehicle that is so close as to constitute an immediate hazard.\" To cross the street safely, slow down and check both ways for any cars.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

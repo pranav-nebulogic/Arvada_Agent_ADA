@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "unpaid",
+      "tax",
+      "prior",
+      "lien",
+      "generally",
+      "imposed",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-96"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-96. - Unpaid tax a prior lien; generally.",
+    "summary": "The tax imposed by this article, together with the interest and penalties herein provided\n               and the cost of collection which may be incurred by the city, shall be, and until\n               paid, remain a first and prior lien upon the goods, stock in trade and business fixtures,\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-96. - Unpaid tax a prior lien; generally.",
+        "a": "The tax imposed by this article, together with the interest and penalties herein provided\n               and the cost of collection which may be incurred by the city, shall be, and until\n               paid, remain a first and prior lien upon the goods, stock in trade and business fixtures,\n               including real or tangible personal property, of or used by any retailer under lease,\n               title-retaining contract or other contract arrangement, and shall take precedence\n               on all such property over other claims and mortgages. In the event the unpaid tax\n               is not paid, collection of the unpaid tax may, in addition to the provisions of this\n               chapter, be collected pursuant to the provisions of\nchapter 59\nentitled \"municipal liens.\" Any new owner or successor of a business or stock in\n               trade shall be required to withhold sufficient of the purchase money, if any, to cover\n               the amount of tax due until such time as the former owner shall produce a receipt\n               from the finance director showing the tax paid in full or a certificate showing no\n               tax is due. Anyone who takes title or possession of a business, fixtures or stocks\n               by purchase, foreclosure or otherwise, takes same subject to the lien for delinquent\n               tax and shall be liable for the payment thereof to the extent of the tax, interest,\n               penalties and collection costs, but not to exceed the value of the property so taken\n               or acquired.\n(a)\nAt any time when taxes due are unpaid, whether or not notice of the city's lien is\n                  filed, the finance director may issue a warrant directed to any agent of the finance\n                  department, commanding such agent to distrain, seize, and sell sufficient of the real\n                  and personal property of or used by the taxpayer for the payment of all taxes due\n                  and owing to the city, together with any interest, and penalties accrued thereon and\n                  any other costs incurred in the collection thereof.\n(Code 1981, § 31-65; Ord. No. 3783, § 2, 12-16-2002;\nOrd. No. 4042, § 7, 12-11-2006\n;\nOrd. No. 4548, § 2, 5-2-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-96"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-20-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "food_truck_permit",
+    "category": "food_trucks",
+    "tags": [
+      "food",
+      "trucks",
+      "allowed",
+      "must",
+      "parked",
+      "paved",
+      "surface",
+      "outside",
+      "Food Trucks"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=20"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/where-are-food-trucks-allowed",
+    "faq_category_name": "Food Trucks"
+  },
+  "content": {
+    "title": "Where are food trucks allowed?",
+    "summary": "Trucks must be parked on a paved surface outside of the public right-of-way In a public street right-of-way (regardless of zoning district) when the street is closed to vehicular traffic as part of a Special Event Permit In a public street right-of-way (regardless of zoning district) as part of a ga…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Where are food trucks allowed?",
+        "a": "Trucks must be parked on a paved surface outside of the public right-of-way In a public street right-of-way (regardless of zoning district) when the street is closed to vehicular traffic as part of a Special Event Permit In a public street right-of-way (regardless of zoning district) as part of a gathering of two or more food trucks with authorization from the Director On private property as provided in Section 3-1-4-2, Temporary Uses by Zoning District"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

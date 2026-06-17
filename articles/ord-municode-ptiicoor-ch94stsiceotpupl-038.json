@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "house",
+      "numbers",
+      "city",
+      "engineer",
+      "shall",
+      "assign",
+      "each"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-94"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-94. - House numbers.",
+    "summary": "The city engineer shall assign each house its proper number. The city engineer shall\n               cause to be prepared, from time-to-time, a map of the streets of the city, showing\n               all houses and the numbers applicable thereto.\n(Code 1960, § 21-14; Code 1981, § 30-104)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-94. - House numbers.",
+        "a": "The city engineer shall assign each house its proper number. The city engineer shall\n               cause to be prepared, from time-to-time, a map of the streets of the city, showing\n               all houses and the numbers applicable thereto.\n(Code 1960, § 21-14; Code 1981, § 30-104)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-94"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

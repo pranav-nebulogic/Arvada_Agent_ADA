@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "development",
+      "plan",
+      "generally",
+      "application",
+      "processed",
+      "approved",
+      "concurrently",
+      "rezoning",
+      "zoning",
+      "district"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-10-6"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-10. PLANNED UNIT DEVELOPMENT"
+  },
+  "content": {
+    "title": "8-3-10-6. PUD development plan.",
+    "summary": "A.\tGenerally.\n  1.\tAn application for a PUD Development Plan (PDP) is processed and approved concurrently with a rezoning to a PUD zoning district.\n  2.\tA PDP must cover all of the land area to be included in the PUD, or an identified phase of a PUD, and identify the type and total amount of develop…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-10-6. PUD development plan.",
+        "a": "A.\tGenerally.\n  1.\tAn application for a PUD Development Plan (PDP) is processed and approved concurrently with a rezoning to a PUD zoning district.\n  2.\tA PDP must cover all of the land area to be included in the PUD, or an identified phase of a PUD, and identify the type and total amount of development to occur within its boundaries (maximum number of dwelling units and nonresidential floor area), as well as the proposed plan for pedestrian and vehicular circulation within and leading to the PUD.\n  3.\tFor PUDs that will require subdivision, the Applicant shall submit a Major Subdivision Preliminary Plat application for simultaneous processing with the PUD application. The Applicant may also choose to submit a Final Development Plan application for concurrent processing with a PDP application, subject to the provisions of subsection 8-3-10-6D, PUD Final Development Plan.\nB.\tForm of Application. At a minimum, the PDP shall include the following information prepared by qualified professionals with experience in land use, transportation, utility planning, and engineering:\n  1.\tProposed land uses;\n  2.\tProposed density or intensity;\n  3.\tGeneral location of public and private open space;\n  4.\tGeneral location of existing and proposed buildings;\n  5.\tGeneral layout of existing and proposed street and pedestrian networks; and\n  6.\tGeneral layout of existing and proposed major utilities and public services for the development.\nC.\tApproval Criteria. A PDP may be approved if it is demonstrated that:\n  1.\tThe plan is consistent with the Comprehensive Plan or reflects conditions that have changed since the adoption of the Comprehensive Plan.\n  2.\tThe plan is consistent with and implements any previously approved Official Development Plan in effect for the subject property, per Section 8-3-10-7, PUDs Approved Prior to Effective Date.\n  3.\tThe plan represents a development that will address a unique situation, confer a substantial benefit to the City, or incorporate creative site design such that it achieves the purposes set out in Section 8-3-10-1, Purpose of Planned Development Zone, and represents an improvement in quality over what could have been accomplished through application of the otherwise applicable zoning district or development standards.\n  4.\tThe plan generally complies with the intent of the use, development, and design standards set forth in this LDC.\n  5.\tTo the extent reasonably feasible, the plan provides for integration and connection with adjoining development through street connections, sidewalks, trails, and similar features; unless due to the nature of the uses that are allowable in the plan such connections are not desirable.\n  6.\tSufficient public safety, transportation, and utility facilities and services will, prior to development, be available to serve the subject property, while maintaining sufficient levels of service to existing development.\n  7.\tThe proposed uses (or groups of uses) are appropriately located and designed, both within the boundaries of the plan and in relation to adjacent uses, such that the foreseeable, material adverse impacts that may be created by the scale, design, and operating characteristics (e.g., hours of operation, traffic generation, lighting, noise, odor, dust, and other external impacts) of the uses are avoided or mitigated.\n  8.\tIf the application for plan approval is accompanied by an application for rezoning to the PUD zoning district, the rezoning application is concurrently approved.\nD.\tPUD Final Development Plan.\n  1.\tGenerally. Approval of a Final Development Plan (FDP) represents the last stage of PUD approval that is required prior to the issuance of building permits or other permits for improvements or land uses within a PUD zoning district. Where subdivision approval is also required, the Applicant may submit an application for major subdivision final plat or minor subdivision final plat approval for concurrent processing with the application for approval of the FDP.\n  2.\tApproval Criteria. The Director shall approve an FDP if it is demonstrated that:\n    a.\tThe FDP conforms to the approved PUD Development Plan (except as to any variations the Director determines are insignificant) and incorporates all recommended changes, modifications, and conditions attached to approval of the PDP.\n    b.\tThe FDP complies in all respects with the applicable dimensional, design and development standards in this LDC, except where waived or modified by the terms of the approved PUD Development Plan.\n  3.\tFailure to Conform to PUD Development Plan. A proposed FDP that does not conform to the approved PUD Development Plan shall not be approved unless the Applicant first obtains approval of an amendment to the approved PUD Development Plan."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-10-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

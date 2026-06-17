@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "user",
+      "responsibilities",
+      "overflow",
+      "prohibited",
+      "shall",
+      "ensure",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-6"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-6. - User responsibilities.",
+    "summary": "(a)\nOverflow prohibited.\nA user shall ensure that any use of a canal or ditch does not result in any waste\n               or overflow water encroaching upon or overtaking any street, or alley in the city\n               so as to damage the same in any way. It shall be unlawful for any user to permit …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-6. - User responsibilities.",
+        "a": "(a)\nOverflow prohibited.\nA user shall ensure that any use of a canal or ditch does not result in any waste\n               or overflow water encroaching upon or overtaking any street, or alley in the city\n               so as to damage the same in any way. It shall be unlawful for any user to permit any\n               waste or overflow water or any water from any canal, ditch, tail ditch, waste ditch,\n               or any part thereof to flow in or upon any street, or alley in the city so as to damage\n               the same in any way.\n(b)\nRepair and maintenance.\nA user shall ensure that all embankments of any canal or ditch related to, or affected\n               by their use are maintained in good repair and condition so that the waters within\n               are not wasted and will not flood or damage the premises of others.\n(c)\nTail ditch required during repair or maintenance required.\nDuring any repair or maintenance activities, the user must make a tail ditch so as\n               to return the water within the canal or ditch with as little waste as possible into\n               the stream from which it was taken. Failure to do so shall be unlawful.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "intentional",
+      "inhalation",
+      "fumes",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-126"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-126. - Intentional inhalation of fumes.",
+    "summary": "(a)\nIt shall be unlawful for any person intentionally to smell or inhale the fumes of\n               any substance releasing toxic vapors for the purpose of causing a condition or state\n               of excitement, exhilaration, euphoria, stupefaction or dulled senses or nervous system\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-126. - Intentional inhalation of fumes.",
+        "a": "(a)\nIt shall be unlawful for any person intentionally to smell or inhale the fumes of\n               any substance releasing toxic vapors for the purpose of causing a condition or state\n               of excitement, exhilaration, euphoria, stupefaction or dulled senses or nervous system\n               in such person, commonly known as \"glue sniffing\"; or to buy, receive, possess or\n               use any such substance for any of the aforementioned purposes; or to aid, abet or\n               assist any other person in the purchase, receipt, possession or use of any such substance\n               for any of the aforementioned purposes.\n(b)\nIntentional inhalation of fumes shall be punishable by a fine not to exceed the limits\n               established in\nsection 1-5\n.\n(Code 1981, § 21-61; Ord. No. 738, § 2, 10-21-1968; Ord. No. 1861, § 3, 10-4-1982;\n               Ord. No. 2297, § 20, 5-5-1986)\nState Law reference—\nAbusing toxic vapors, C.R.S. § 18-18-412."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-126"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

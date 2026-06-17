@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "administration",
+      "authority",
+      "director",
+      "authorized",
+      "directed",
+      "implement",
+      "administer"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-151"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-151. - Administration authority.",
+    "summary": "The director is authorized and directed to implement, administer, and enforce the\n               provisions of this article and the rebate program. The director may:\n(a)\nImplement, administer, and enforce any processes, requirements, or regulations for\n                  the rebate program;\n(b)\nEstab…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-151. - Administration authority.",
+        "a": "The director is authorized and directed to implement, administer, and enforce the\n               provisions of this article and the rebate program. The director may:\n(a)\nImplement, administer, and enforce any processes, requirements, or regulations for\n                  the rebate program;\n(b)\nEstablish a rebate schedule determining the rebate amount for an applicant and any\n                  household member considering the city's budget;\n(c)\nDetermine the form and requirements for the rebate program application;\n(d)\nReview, approve, and reject applications submitted to the rebate program;\n(e)\nReport any suspected fraudulent application information to the appropriate authorities;\n                  and\n(f)\nOtherwise implement, administer, and enforce the provisions of this article.\n(\nOrd. No. 4887\n, § 1, 1-27-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-151"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

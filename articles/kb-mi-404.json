@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "permits",
+      "arvadapermits",
+      "email",
+      "invoice",
+      "send",
+      "actors",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/330/Permits"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-404",
+    "spreadsheet_id": "MI-404",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Permits",
+    "summary": "The City of Arvada offers online permitting through arvadapermits.org for various permits, including residential, commercial, and food truck licenses. Residents and contractors can apply, pay, and manage permits and inspections 24/7 via the SMART License & Permits system. Additionally, permits are required for short-term rentals and special events that anticipate over 100 attendees on public property.",
+    "body": "**Alert: City of Arvada Planning and Building Staff will not send you an invoice for your fees unless it is requested. Bad actors may send phishing emails using public hearing information to request payment. If you receive a suspicious invoice, please verify first by contacting us at [[email protected]](/cdn-cgi/l/email-protection#7715021e1b131e19100712051a1e03043716050116131659180510) or 720-898-7620.**\n\nOnline permitting through [arvadapermits.org](https://aca-prod.accela.com/ARVADA) is available for most permits; permit applications, supplemental plans and documents can also be emailed to the Engineering and Building Departments. We will process license and permit applications as quickly as possible.\n\n## Current Inspections\n\nYou will be redirected to www.arvadapermits.org to see the posted inspection schedule. If you need to cancel your inspection, please login to the [permit website](http://www.arvadapermits.org) to complete this action. [View Today's Inspections](https://aca-prod.accela.com/ARVADA)\n\n## Permits for Commercial and Developers\n\nFor more information on permits related to commercial or development endeavors, see the [Developers Guide](/1382/Developers-Guide).\n\n## SMART License & Permits Help\n\nThe City of Arvada utilizes [SMART License & Permits](/593/SMART License & Permits-Help) for online permitting capabilities. Contractors and homeowners are able to apply and pay for permits and projects, view and respond to plan review comments, schedule and see inspection results 24/7. Permit records for Building and Right-of-Way projects and project files for Community Development are all available through [Arvada Permits](http://arvadapermits.org).\n\n## Food Truck Vending\n\nTo operate a food truck in the City of Arvada, you must obtain a permit and a business license. Visit the [Food Truck Permit page](/402/Food-Truck-Permits) for more information.\n\n## Residential Permits\n\nPermits are required for both interior and exterior residential building projects within the City of Arvada. Our [Residential Permits page](/332/Building-Permits) provides a list of the types of work that require a permit, from new home construction to small construction projects.\n\n## Right-of-Way\n\nGeneral public improvements constructed on public right-of-way, easements and other public property, and utility services on private property between the property line and the building, require a permit. Learn about [permit issuance, licensing requirements and inspections](/650/Right-of-Way).\n\n## Short Term Rentals\n\nIf you are proposing to operate a [Short Term Rental](/259/Short-Term-Rentals) in your home, in a room or rooms in your home, or in an accessory dwelling unit (ADU), you will need to apply for a short term rental license and a business license.\n\n## Special Event Permits\n\nIf you are planning an event that includes any one of the following:\n\n1. Held on public property\n2. Open to the general public (free or ticketed)\n3. Anticipates more than 100 people attending/participating, you will need to apply for a [special event permit](/663/Special-Event-Permits)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

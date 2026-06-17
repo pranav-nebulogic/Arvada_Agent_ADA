@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "access",
+      "maintenance",
+      "easements",
+      "drainage",
+      "facilities",
+      "generally",
+      "subject",
+      "easement",
+      "agreement",
+      "allows"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-4-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-4. PUBLIC IMPROVEMENTS, WARRANTIES, AND UTILITIES"
+  },
+  "content": {
+    "title": "8-4-4-5. Access and maintenance easements for drainage facilities.",
+    "summary": "A.\tGenerally. Drainage facilities shall be subject to an access easement and maintenance agreement that allows for (but does not require) the City to access drainage facilities for the purposes of inspection, operation, maintenance, repair, or replacement of such facilities.\nB.\tMinimum Standards.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-4-5. Access and maintenance easements for drainage facilities.",
+        "a": "A.\tGenerally. Drainage facilities shall be subject to an access easement and maintenance agreement that allows for (but does not require) the City to access drainage facilities for the purposes of inspection, operation, maintenance, repair, or replacement of such facilities.\nB.\tMinimum Standards. The access easement and maintenance requirement may be in a Subdivider's or Development Agreement approved by the City Attorney, shall provide for the operation, maintenance, repair, and replacement of the drainage facilities that are the subject of the agreement by the owner/developer of the affected property, and shall include at least the following terms:\n  1.\tThat the owner/developer shall operate and maintain the facilities according to the requirements of an approved operations and maintenance manual;\n  2.\tThat the City shall have access to inspect the drainage facilities;\n  3.\tThat the City will give notice to the owner/developer if maintenance is necessary, and provide the owner/developer with not less than 21 days to conduct the maintenance (except in emergency situations, which may involve shorter time periods);\n  4.\tThat the City may operate, maintain, repair, or replace the drainage facilities at the owner/developer's expense, and that if the City exercises its right to operate, maintain, repair, or replace such facilities, the City will not be liable to the owner for any damage to such facilities or the owner's property;\n  5.\tThat the owner will indemnify the City for any harm to the City caused by the owner's failure to appropriately operate, maintain, repair, or replace the drainage facilities;\n  6.\tThat the owner will pay the City for any costs borne by the City in operating, maintaining, repairing, or replacing drainage facilities within 30 days of the date of an invoice provided by the City to the owner;\n  7.\tThat the City may charge default interest for payments received after 30 days, with the default rate to be specified in the Subdivider's or Development Agreement; and\n  8.\tThat the access easement and maintenance requirements shall run with the affected land."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-4-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

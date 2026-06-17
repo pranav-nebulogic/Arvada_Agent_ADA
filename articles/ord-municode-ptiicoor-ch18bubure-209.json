@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "defacement",
+      "property",
+      "hereby",
+      "amended",
+      "adding",
+      "sentence"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-496"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-496. - I.P.M.C. Section 302.9, Defacement of property.",
+    "summary": "Section 302.9. Defacement of property,\nis hereby amended by adding a sentence to the end of the second paragraph to read\n               as follows:\n\"All unlawful acts of graffiti defacement shall be charged in accordance with article\n                  VI, Graffiti, of\nchapter 62\n, Offenses, of the A…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-496. - I.P.M.C. Section 302.9, Defacement of property.",
+        "a": "Section 302.9. Defacement of property,\nis hereby amended by adding a sentence to the end of the second paragraph to read\n               as follows:\n\"All unlawful acts of graffiti defacement shall be charged in accordance with article\n                  VI, Graffiti, of\nchapter 62\n, Offenses, of the Arvada City Code. All proceedings to determine or abate graffiti\n                  vandalism shall be held in accordance with article IV, Graffiti, of\nchapter 38\n, Environment, of the Arvada City Code.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-496"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

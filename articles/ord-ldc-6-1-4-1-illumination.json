@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "illumination",
+      "generally",
+      "signs",
+      "accordance",
+      "requirements",
+      "section",
+      "where",
+      "permitted",
+      "comply",
+      "standards"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-4-1"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-4. ILLUMINATION AND MESSAGE CENTERS"
+  },
+  "content": {
+    "title": "6-1-4-1. Illumination.",
+    "summary": "A.\tGenerally. The illumination of signs shall be in accordance with the requirements of this Section.\nB.\tIllumination.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-4-1. Illumination.",
+        "a": "A.\tGenerally. The illumination of signs shall be in accordance with the requirements of this Section.\nB.\tIllumination. The illumination of signs, where permitted, shall comply with the standards of this Section and applicable provisions of Article 4-8 Exterior Lighting.\n  1.\tNo internal sign lighting shall include any exposed light source, except that neon or comparable tube lighting is permitted in the MX, C, I sign district (see Section 6-1-2-4, Sign Districts).\n  2.\tExternal illumination of attached permanent signs in the OT sign district (see Section 6-1-2-4, Sign Districts) shall only be provided from above the sign (e.g., using \"gooseneck\" or comparable fixtures) and subject to the Design Guidelines for Olde Town Arvada.\n  3.\tAll externally illuminated signs shall have their lighting directed in such a manner as to illuminate only the face of the sign, and not to create glare or sky glow.\n  4.\tWhen external light sources are used to illuminate detached signs, the light source must be concealed from view from on and off-site vehicular and pedestrian use areas and from within existing buildings.\n  5.\tIn general, illuminated signs shall be turned off by 10:00 p.m.. However, signs may be illuminated in the OT and MX, C, I sign districts after 10:00 p.m. if:\n    a.\tThe operating hours of the use to which the sign relates extend past 10:00 p.m., in which case the sign shall be turned off when operating hours end each day; and\n    b.\tThe sign is dimmed by at least 30 percent between midnight and 6:00 a.m.\n  6.\tExternal illumination of signs shall not exceed the following illuminance:\n    a.\tMX, C, I Sign District: 600 lux\n    b.\tOT Sign District: 500 lux\n    c.\tRM and RS Sign Districts: 400 lux\n  7.\tBetween sunset and the time set out in Subsection B.5., above, internally lit signs (including electronic message centers) shall not exceed 600 nits of luminance.\n  8.\tNo sign or associated luminaire shall create light spillover of more than one lux at any property line within or bounding an RM or RS sign district."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

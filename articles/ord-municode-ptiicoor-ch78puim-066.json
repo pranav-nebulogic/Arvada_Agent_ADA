@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "approval",
+      "method",
+      "sale",
+      "price",
+      "generally",
+      "any",
+      "bonds"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-67"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-67. - Approval of method of sale; sale price generally.",
+    "summary": "(a)\nAny bonds issued pursuant hereto shall be sold in such manner as may be approved by\n               the council to defray the cost of the project, including without limitation, any temporary\n               advances therefor and all proper incidental expenses.\n(b)\nBonds shall be sold to the highes…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-67. - Approval of method of sale; sale price generally.",
+        "a": "(a)\nAny bonds issued pursuant hereto shall be sold in such manner as may be approved by\n               the council to defray the cost of the project, including without limitation, any temporary\n               advances therefor and all proper incidental expenses.\n(b)\nBonds shall be sold to the highest and best bidder for cash and to the best advantage\n               of the city at, above, or below par.\n(Code 1981, § 27-68; Ord. No. 551, § 25(B), (C), 5-14-1964; Ord. No. 1643, § 4, 2-18-1980;\n               Ord. No. 2294, § 4, 7-7-1986)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-67"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

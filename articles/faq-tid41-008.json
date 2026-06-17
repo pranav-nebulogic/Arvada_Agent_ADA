@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-41-009",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "ditch",
+      "yard",
+      "use",
+      "water",
+      "unless",
+      "purchased",
+      "shares",
+      "company",
+      "Parks & Open Space - Ditches"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=41"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/i-have-a-ditch-in-my-yard-can-i-use-the-water",
+    "faq_category_name": "Parks & Open Space - Ditches"
+  },
+  "content": {
+    "title": "I have a ditch in my yard. Can I use the water?",
+    "summary": "No, not unless you have purchased shares in that ditch company and are a recognized shareholder. Using the water without owning shares is considered water theft.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "I have a ditch in my yard. Can I use the water?",
+        "a": "No, not unless you have purchased shares in that ditch company and are a recognized shareholder. Using the water without owning shares is considered water theft."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

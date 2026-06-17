@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "roof",
+      "extension",
+      "hereby",
+      "amended",
+      "entirety",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-426"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-426. - I.P.C. Section 904.1, Roof extension.",
+    "summary": "Section 903.1. Roof extension,\nis hereby amended in its entirety to read as follows:\n\"\n903.1. Roof extension.\nAll open vent pipes that extend through a roof shall be terminated at least six inches\n                  (152.4 mm) above the roof, except that where a roof is to be used for any purpose\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-426. - I.P.C. Section 904.1, Roof extension.",
+        "a": "Section 903.1. Roof extension,\nis hereby amended in its entirety to read as follows:\n\"\n903.1. Roof extension.\nAll open vent pipes that extend through a roof shall be terminated at least six inches\n                  (152.4 mm) above the roof, except that where a roof is to be used for any purpose\n                  other than weather protection, including, but not limited to, as a floor for the patio\n                  on the roof of a structure, the vent extensions shall be run at least seven feet (2134\n                  mm) above the roof.\"\n(Ord. No.\n4738\n, § 11, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-426"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

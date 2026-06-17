@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "stage",
+      "fire",
+      "restrictions",
+      "unlawful",
+      "acts",
+      "generally",
+      "notwithstanding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-114"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-114. - Stage 1 fire restrictions—Unlawful acts.",
+    "summary": "(a)\nFire restrictions generally.\nNotwithstanding any other provision of this Code, it shall be unlawful for a person\n               to build, maintain, attend to, or use a recreational fire or an open fire within the\n               city's boundaries after Stage 1 fire restrictions are in effect.\nExc…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-114. - Stage 1 fire restrictions—Unlawful acts.",
+        "a": "(a)\nFire restrictions generally.\nNotwithstanding any other provision of this Code, it shall be unlawful for a person\n               to build, maintain, attend to, or use a recreational fire or an open fire within the\n               city's boundaries after Stage 1 fire restrictions are in effect.\nExceptions: The following acts or activities are allowed during a declared Stage 1\n               fire restrictions period:\n(1)\nSmoking, if it is done in an enclosed vehicle or building, or outdoors in an area\n               that is more than thirty feet from an undeveloped area, and then, only if smoking\n               is otherwise allowed under existing state and local smoking laws.\n(2)\nThe use of a recreational fire, if it is contained within a permanently constructed\n               fire grate upon private property or within a park, and if the fire is more than 30\n               feet from an undeveloped area.\n(3)\nThe use of a tiki torch or portable outdoor fireplace upon private property, or the\n               use of a fire pit upon private property or within a park, if the tiki torch, portable\n               outdoor fireplace, or fire pit is more than 30 feet from an undeveloped area.\n(4)\nThe use of a liquid- or gas-fueled appliance.\n(5)\nThe use of an Underwriters Laboratories (UL) listed wood pellet grill.\n(6)\nThe operation of a chain saw.\n(7)\nHot work operations if the work is performed in an area more than 30 feet from an\n               undeveloped area.\n(8)\nThe burning of explosive wastes by the manufacturer of the explosives in an area zoned\n               for industrial use, if the fire is supervised by the fire protection district.\n(9)\nThe use of an explosive initiation system requiring a burning fuse line.\n(Ord. No.\n4739\n, § 4, 9-14-2020;\nOrd. No. 4901\n, § 4, 7-15-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-114"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

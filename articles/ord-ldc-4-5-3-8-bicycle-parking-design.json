@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "bicycle",
+      "parking",
+      "design",
+      "generally",
+      "spaces",
+      "required",
+      "section",
+      "designed",
+      "according",
+      "standards"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-3-8"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-3. PARKING AND LOADING DESIGN"
+  },
+  "content": {
+    "title": "4-5-3-8. Bicycle parking design.",
+    "summary": "A.\tGenerally. The bicycle parking spaces that are required by Section 4-5-2-8, Bicycle Parking, shall be designed according to the standards of this Section.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-3-8. Bicycle parking design.",
+        "a": "A.\tGenerally. The bicycle parking spaces that are required by Section 4-5-2-8, Bicycle Parking, shall be designed according to the standards of this Section. The purpose of these design standards is to ensure that bicycle parking is convenient to bicyclists and provides security from theft and damage.\nB.\tStandards.\n  1.\tGenerally. Bicycle parking shall be designed to ensure that it is convenient to bicyclists and secured from theft and damage.\n    a.\tBicycle parking shall be securely locked and safeguarded from accidental or intentional damage.\n    b.\tEach required bicycle parking space shall be accessible without moving another bicycle.\n    c.\tThere shall be an aisle at least five feet around the perimeter of all bicycle parking areas to allow room for bicycle maneuvering.\nC.\tShort-term Bicycle Parking. Short-term bicycle parking facilities or racks shall accommodate securing a bicycle using an industry-standard bike lock.\n  1.\tShort-term bicycle parking spaces shall be located within 50 feet of the main entrance to the building. Where there is more than one main entrance to a building, short-term spaces should be split between building entrances.\n  2.\tBicycle racks shall meet the following standards:\n    a.\tA U-shaped bike rack or variation thereof that allows for the bike to be locked to the rack by the frame and at least one wheel;\n    b.\tA bicycle that is six feet long can be securely held with its frame supported so that the bicycle cannot be pushed or fall in a manner that will damage the wheel components; and\n    c.\tThe racks are securely anchored to a hard surface.\n  3.\tMX Zoning Districts. Multifamily residential, mixed-use, and office uses in the MX-N, MX-S MX-U and MX-T zoning districts shall provide bicycle parking in locations where at least 50 percent of the required spaces, when more than three are required, are covered, secure, and illuminated. Such bicycle parking areas shall be maintained by the property owner, a property owners' association, or a metropolitan district.\n  4.\tOT and CG Zoning Districts. Multifamily, schools, retail, and office uses in the OT and CG zoning districts shall provide bicycle parking locations that are secure, illuminated and along traveled ways.\nD.\tLong-term Bicycle Parking. Long-term bicycle parking shall be in a secure and weather-protected place. Long-term parking does not have to be provided on site; however long-term bicycle parking must be within a reasonable distance of a site in order to encourage bicycle use.\n  1.\tLong-term bicycle parking is not required on a site when:\n    a.\tNon-residential gross building area is less than 5,000 square feet; or\n    b.\tThere are ten or fewer residential units in a development or redevelopment.\n  2.\tLong-term bicycle parking, when required, shall be located within 50 feet of a building entrance and be visible from the building entrance. If the location of the bicycle parking is not obvious from the building entrance, signs shall be posted that indicate the location of bicycle parking.\n  3.\tLong-term bicycle parking is required to be covered and shall be at least one of the following:\n    a.\tIn a locked room;\n    b.\tIn a bicycle locker;\n    c.\tIn an area that is enclosed by a fence with a locked gate;\n    d.\tA free standing building;\n    e.\tWithin view of an attendant or security guard; or\n    f.\tIn an area that is monitored by a security camera.\nE.\tSurfacing and Clear Area.\n  1.\tThe surface of bicycle parking spaces shall be of hardscape material such as asphalt, concrete, or other materials approved by the Director.\n  2.\tRacks shall be bordered by physical barriers or located a sufficient distance from motor vehicles to prevent damage to parked bicycles.\n(Ord. No. 4793, § 3, 3-21-2022; Ord. No. 4905, § 46, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-3-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

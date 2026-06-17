@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "retaining wall",
+      "structural permit",
+      "drainage",
+      "footing",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/436/Retaining-Wall"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-032",
+    "spreadsheet_id": "BP-032",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Retaining Wall Permit",
+    "summary": "Permits are required for retaining walls over four feet tall or those supporting a surcharge, necessitating a site plan, soils report, and engineered drawings for review by the city's Building, Engineering, and Planning divisions. Retaining walls four feet or less do not require a permit unless part of new construction, but must still adhere to property line and easement regulations. Applications can be submitted online or in person, with a processing time of three business days, and associated fees include a $50 permit fee and a $36 plan review fee.",
+    "body": "Call Before You Dig! All buried utilities must be located prior to any excavation taking place. Allow three days for locates to be completed before starting your project. Call 811 to schedule, or visit [Colorado 811](http://colorado811.org/).\n\n## When Permits are Required\n\nPermits are required for retaining walls that are over four feet as measured from the bottom of the footing to the top of wall or for any wall that is supporting a surcharge. Applicants will be required to provide a site plan and soils report and must submit engineered stamped drawings. These permits will be reviewed by Building, Engineering, and Planning divisions to verify compliance with various City requirements including structural integrity, impact on drainage, location in relation to easements and property lines.\n\nRetaining walls that are four feet or less do not require a building permit, however, if they are part of a new construction project, they will need to be reviewed by Engineering for property line location and easements as part of the standard site plan review process.\n\nAll retaining walls must comply with Land Development Code [§4-7-2-2. - Retaining walls](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-7FEWA_DIV4-7-2FEDIWA_4-7-2-2REWA).\n\n## What is Needed to Apply\n\nPlease include the following items with your online application. Incomplete applications will not be accepted.\n\n- Plot plan with setbacks, easements and retaining wall clearly marked.\n- Engineered stamp structural plans.\n\n## Submitting Your Application\n\nApplications can be submitted in person or electronically through the Permit Portal. Please allow for three business days to process applications. [Start Application]([NEW PORTAL URL]).\n\n## Review Timelines\n\nRetaining walls over 4 feet will require a variance/minor modification. Once the Planning division has approved the wall, the permit can be issued. This will typically take 4 weeks to be completed.\n\nSurcharged retaining walls will have a 3 day review period once a complete application has been submitted.\n\n## Fees\nPermits for retaining walls will be assessed a $50 permit fee, a $36 plan review fee, and Use Tax.\n\n## Inspections\n\nThe following inspections are required to be completed:\n\n1. Footing\n2. Rough Framing\n3. Final Building\n\nIf you have questions about when inspections should be completed, please contact buildingpermits@arvada.org.\n\n## General Guidelines:\n\n- Walls cannot be constructed over or on property lines\n- Walls cannot cause water displacement or alter the drainage path\n- Walls cannot be placed in easements",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "care",
+      "animals",
+      "shall",
+      "unlawful",
+      "any",
+      "owner",
+      "manager"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-174"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-174. - Care of animals.",
+    "summary": "It shall be unlawful for any owner, manager, or employee of a pet shop, kennel, animal\n               hospital, or shelter to fail to maintain the facilities in a sanitary condition, provide\n               proper heating and ventilation, provide space appropriate to the size, weight, and\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-174. - Care of animals.",
+        "a": "It shall be unlawful for any owner, manager, or employee of a pet shop, kennel, animal\n               hospital, or shelter to fail to maintain the facilities in a sanitary condition, provide\n               proper heating and ventilation, provide space appropriate to the size, weight, and\n               species of animal, provide adequate nutrition, provide adequate veterinary care for\n               all animals in their care, or to fail to take reasonable care to release for sale,\n               trade, or adoption only those animals which are free of disease or injuries.\n(Code 1981, § 6-76(e); Ord. No. 3496, § 2, 12-14-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-174"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reassessments",
+      "whenever",
+      "any",
+      "assessment",
+      "project",
+      "heretofore",
+      "hereafter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-135"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-135. - Reassessments.",
+    "summary": "Whenever any assessment for any project heretofore or hereafter effected by the city\n               hereunder or under any other law heretofore enacted is in the opinion of the council\n               invalid by reason of any irregularity or informality in the proceedings, or if any\n               co…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-135. - Reassessments.",
+        "a": "Whenever any assessment for any project heretofore or hereafter effected by the city\n               hereunder or under any other law heretofore enacted is in the opinion of the council\n               invalid by reason of any irregularity or informality in the proceedings, or if any\n               court of competent jurisdiction heretofore or hereafter adjudges such assessments\n               to be illegal, the council shall, whether the project has been effected or not or\n               whether any parts of the assessments have been paid or not, have power to cause a\n               new assessment to be made for the same purpose for which the former assessment was\n               made.\n(Code 1981, § 27-135; Ord. No. 551, § 76, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-135"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

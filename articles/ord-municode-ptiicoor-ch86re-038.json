@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "permanent",
+      "refusal",
+      "submit",
+      "reexamination",
+      "least",
+      "once",
+      "each"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-124"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-124. - Permanent; refusal to submit to reexamination.",
+    "summary": "At least once each year for the first five years following the determination of permanent\n               disability status under\nsection 86-156\nand once in each three-year period thereafter, the board may require a disabled member,\n               who has not attained the age of 55 years, to undergo …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-124. - Permanent; refusal to submit to reexamination.",
+        "a": "At least once each year for the first five years following the determination of permanent\n               disability status under\nsection 86-156\nand once in each three-year period thereafter, the board may require a disabled member,\n               who has not attained the age of 55 years, to undergo a medical examination to be made\n               by or under the direction of a physician designated by the board. Should any such\n               disabled member refuse to submit to such medical examination upon request of the board,\n               his disability pay may be discontinued by the board until such time as he shall submit\n               to such examination, and should his refusal continue for one year, all his rights\n               in and to disability pay and status may be revoked. If upon such medical examination\n               of such disabled member, the physician certify to the board that such disabled member\n               is physically able and capable of resuming employment in the service, the member shall\n               be restored to service and the member's disability pay and status shall be terminated.\n(Code 1960, § 19-13(B); Code 1981, § 26-59)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-124"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

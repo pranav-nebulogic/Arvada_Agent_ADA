@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-41-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "responsible",
+      "maintenance",
+      "near",
+      "irrigation",
+      "ditch",
+      "company",
+      "only",
+      "maintaining",
+      "Parks & Open Space - Ditches"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=41"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/who-is-responsible-for-maintenance-near-an-irrigation-ditch",
+    "faq_category_name": "Parks & Open Space - Ditches"
+  },
+  "content": {
+    "title": "Who is responsible for maintenance near an irrigation ditch?",
+    "summary": "The ditch company is only responsible for maintaining the ditch for water deliveries. Performing work in the ditch easement must be coordinated with the ditch company and underlying property owner. You may contact a ditch company directly to see if they will allow or are willing to partner on mainte…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Who is responsible for maintenance near an irrigation ditch?",
+        "a": "The ditch company is only responsible for maintaining the ditch for water deliveries. Performing work in the ditch easement must be coordinated with the ditch company and underlying property owner. You may contact a ditch company directly to see if they will allow or are willing to partner on maintenance for aesthetics, debris removal, fire mitigation, or any other purpose. *See FAQ about how to contact ditch companies."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

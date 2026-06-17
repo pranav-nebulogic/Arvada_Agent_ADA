@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "theft",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "commit",
+      "commits"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-34"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-34. - Theft.",
+    "summary": "(a)\nIt shall be unlawful for any person to commit theft.\n(b)\nA person commits theft when he knowingly obtains or exercises control over any thing\n               of value of another without authorization, or by threat or deception, and:\n(1)\nIntends to deprive the other person permanently of the use o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-34. - Theft.",
+        "a": "(a)\nIt shall be unlawful for any person to commit theft.\n(b)\nA person commits theft when he knowingly obtains or exercises control over any thing\n               of value of another without authorization, or by threat or deception, and:\n(1)\nIntends to deprive the other person permanently of the use or benefit of the thing\n               of value; or\n(2)\nKnowingly uses, conceals, or abandons the thing of value in such manner as to deprive\n               the other person permanently of its use or benefit; or\n(3)\nUses, conceals or abandons the thing of value intending that such use, concealment,\n               or abandonment will deprive the other person permanently of its use and benefit; or\n(4)\nDemands any consideration to which he is not legally entitled as a condition of restoring\n               the thing of value to the other person.\n(c)\nThis section shall apply only where the thing of value is less than $2,000.00.\n(Code 1981, § 21-3; Ord. No. 2939, § 2, 12-7-1992; Ord. No. 3394, § 1, 8-18-1997;\nOrd. No. 4077, § 1, 7-16-2007\n;\nOrd. No. 4398, § 1, 8-5-2013\n)\nState Law reference—\nTheft, C.R.S. § 18-4-401 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-34"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

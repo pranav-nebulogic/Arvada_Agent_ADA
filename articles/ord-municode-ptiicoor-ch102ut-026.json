@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "consolidation",
+      "taps",
+      "credits",
+      "desired",
+      "eliminate",
+      "relocate",
+      "two"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-65"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-65. - Consolidation of taps and credits.",
+    "summary": "(a)\nWhen it is desired to eliminate or relocate two or more existing connections within\n               a subdivision or public development project, the following will govern the transfer\n               of the system development charge credits:\n(1)\nSystem development charge credits for existing servi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-65. - Consolidation of taps and credits.",
+        "a": "(a)\nWhen it is desired to eliminate or relocate two or more existing connections within\n               a subdivision or public development project, the following will govern the transfer\n               of the system development charge credits:\n(1)\nSystem development charge credits for existing service connections that are located\n               within a subdivision or public development project may be transferred anywhere within\n               that subdivision or project, provided that both tracts or lots are owned by one party,\n               and further provided service connections are eligible for service. Subdivision, for\n               purposes of this section, is defined as set forth in the Land Development Code.\n(2)\nCalculation of the system development charge credits available for application toward\n               any new service connection shall be based on the meter capacity factor as set forth\n               in\nsection 102-79\n. The inactivation and termination of water and sewer service as set forth in\nsection 102-67\nshall apply. Residential properties granted a meter and equal tap size greater than\n               the standard size recommended in\nsection 102-161\n(4) will be valued for credit at the standard size for the type of residence.\n(b)\nThis section is intended to discourage the sale or transfer of system development\n               charge credits beyond the immediate subdivision or public development project in which\n               the taps are located.\n(Code 1981, § 33-38.3; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 3403, § 9, 10-20-1997;\n               Ord. No. 4819, § 13, 10-17-2022, eff. 7-1-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-65"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "events",
+    "tags": [
+      "film permit",
+      "photography",
+      "video production",
+      "location permit",
+      "Special Event Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/667/Film-Permit"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/events/se-002",
+    "spreadsheet_id": "SE-002",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Film Permit",
+    "summary": "A film permit is required for any filming activity on city-owned property in Arvada that meets specific criteria, including having more than five participants, a budget over $10,000, or causing disruptions. Applications must be submitted at least 60 days in advance, and proof of liability insurance is necessary before a permit is issued. Certain activities, such as news media photography and non-disruptive personal photography, do not require a permit.",
+    "body": "Applications must be submitted a minimum of 60 days before film date. If application is submitted within less than 60 days, the application may be denied.\n\nA film permit is required for any commercial, non-commercial, or student-produced film, video or photography activity that takes place at any city-owned property or impacts any city-owned property, including public buildings, parks, open spaces, reservoirs, public streets, sidewalks, or other areas maintained and owned by the City of Arvada and meets any one of the following criteria:\n\n1. Production of the film involves more than 5 people total (crew members plus actors/subjects).\n2. The production budget for the entire project/production is greater than $10,000.\n3. The filming will take longer than 6 hours within any one 24-hour period.\n4. The filming, regardless of whether occurring on public or private property, will cause a nuisance or disruption to visitors, businesses, or residents in the area. Such nuisances or disruptions include, but are not limited to, large gatherings, loud noises, impacts on traffic or public parking, road closures, impeding sidewalks, or exclusive uses of other public spaces.\n5. The filming/production involves any of the following:\n\t1. Equipment other than handheld cameras being used. Such equipment may include, but is not limited to, lights, generators, wires, cords, large props, or large microphones.\n\t\t2. Carrying or displaying weapons, real or fake, in view of the public. Discharge of firearms or shooting projectiles at people or animals is prohibited within city limits.\n\t\t3. The use of pyrotechnics. The use of fireworks within city limits is prohibited.\n\t\t4. Costumes, props, or equipment in a public location that is within view of the public that may cause a disruption or have the potential to startle or upset residents, such as chase scenes, depictions of violence or horror, or depictions of blood or injury.\n6. Use of an Unmanned Aircraft Systems (UAS), also referred to as drones. A waiver, insurance and an FAA license is required to obtain approval for use of a drone.\n\nA permit is NOT required for photos or video taken by news media, or by nature/portrait photographers, or for things like engagement or family photos or video so long as the activity does not cause a nuisance or disruption to the visitors, businesses, or residents in the area.\n\n## Required Documents\n\n1. All applicants for a film permit will be required to provide proof of liability insurance with the coverage listed in the following before a permit is issued. Students may need to secure this proof of insurance from their educational institution.\n\t1. Commercial general liability insurance in the minimum amount of $1,000,000 per occurrence, $2,000,000 annual aggregate, with the City of Arvada endorsed as an additional insured;\n\t\t2. Commercial automobile liability insurance in the minimum amount of $500,000 per occurrence (if applicable); and\n\t\t3. Workers compensation insurance covering all of the company's officers, employees, agents, representatives, and contractors, to Colorado statutory limits, including employer's liability in the amount of $100,000,000 (if applicable).\n2. All applicants will be required to sign a [Release of Liability (PDF)](https://www.arvadaco.gov/DocumentCenter/View/929) before a permit is issued.\n3. Site plan of the area where you will be filming. Please include any proposed street closures and signs that will be used.\n4. If you are holding an event that will require the closure of a residential street, you will be required to submit a Residential Street Closure Permit. The permit requires you provide approval signatures of 80% of the residents who will be affected by the closure.\n5. In order to apply for a Residential Street Closure, you will need to complete a [Request for Revocable Temporary Street Closure (PDF)](https://www.arvadaco.gov/DocumentCenter/View/930) packet.\n6. Depending on the type of project, the Director of Community and Economic Development may require the applicant to notify surround property owners and businesses.\n\n## Fees and Application Timeline\n\n1. The permit fee is $110\n2. Applications must be submitted 60 days before your desired start date. Applications received after 60 days may not be approved.\n3. Reviews will be completed by the necessary staff depending on the type of event that is proposed. All reviews shall be completed within 7 business days.\n4. Complete application online. Users must create an online account before starting.\n\n\n## Setup & Filming\n\nFilming cannot commence until the permit has been reviewed and approved by the Community and Economic Development Director and all fees have been paid in full. A copy of the permit shall be onsite during your filming.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

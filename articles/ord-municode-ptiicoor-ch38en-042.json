@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "injuring",
+      "removing",
+      "trees",
+      "city",
+      "property",
+      "shall",
+      "unlawful"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-244"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-244. - Injuring or removing trees on city property.",
+    "summary": "(a)\nIt shall be unlawful for any person to negligently, recklessly, knowingly, or intentionally\n               injure, damage, destroy, or remove a tree situated within or upon city property without\n               prior written permission from the city manager.\n(b)\nPenalty.\nA violation of this secti…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-244. - Injuring or removing trees on city property.",
+        "a": "(a)\nIt shall be unlawful for any person to negligently, recklessly, knowingly, or intentionally\n               injure, damage, destroy, or remove a tree situated within or upon city property without\n               prior written permission from the city manager.\n(b)\nPenalty.\nA violation of this section shall be punished by a fine or imprisonment not to exceed\n               the limits established in\nsection 1-5\nof this Code.\n(c)\nRestitution.\nIn addition to a fine or imprisonment, the court may order restitution to be paid\n               to the city for the appraised damage to the tree, appraised value of the tree, or\n               cost to replace the tree. Tree values will be determined through arboricultural industry\n               standard tree and landscape appraisal methods.\n(Ord. No.\n4760\n, § 1, 4-19-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-244"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

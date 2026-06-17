@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "subsequent",
+      "procedure",
+      "upon",
+      "filing",
+      "petition",
+      "under",
+      "method"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-19"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-19. - Subsequent procedure.",
+    "summary": "Upon the filing of a petition under the petition method, the council shall proceed\n               in the same manner as is provided for hereby where proceedings are initiated by the\n               council, except as otherwise expressly provided or necessarily implied in the preceding\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-19. - Subsequent procedure.",
+        "a": "Upon the filing of a petition under the petition method, the council shall proceed\n               in the same manner as is provided for hereby where proceedings are initiated by the\n               council, except as otherwise expressly provided or necessarily implied in the preceding\n               three sections. Notwithstanding the foregoing, if the petition is signed by the owner\n               of 100 percent of the property to be assessed in the proposed improvement district\n               and contains a request for such waiver, the council may, at its discretion, waive\n               all or any of the requirements hereof concerning the creation of the proposed improvement\n               district, except for the requirements of\nsections 78-43\nthrough\n78-46\n.\n(Code 1981, § 27-20; Ord. No. 551, § 10, 5-14-1964; Ord. No. 2294, § 1, 7-7-1986)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-19"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

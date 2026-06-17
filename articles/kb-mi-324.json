@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "motion",
+      "picture",
+      "theater",
+      "code",
+      "personal",
+      "property",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/354/Motion-Picture-Theater"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-324",
+    "spreadsheet_id": "MI-324",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Motion Picture Theater",
+    "summary": "The Arvada Municipal Code imposes a sales tax on tangible personal property and certain services, including a use tax for items used within the city that were purchased outside without sales tax. Motion picture theaters are subject to a 4% admission tax on box office receipts and must pay use tax on film rentals, while revenue from coin-operated machines is exempt from use tax, although their purchase is taxable. Additionally, purchases of promotional items like lighted signs and movie posters are also subject to sales and use tax.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property and certain taxable services in the City by the ultimate user or consumer. This also includes a use tax upon using, storing, distributing, or otherwise consuming in the City any article of tangible personal property purchased, leased, or rented from sources outside the City on which a lawfully imposed sales tax has not been paid.\n\n## Film Rentals\n\nThe rental of motion picture films for a display to the public for profit is subject to use tax. Motion picture theaters regularly enter into agreements with various motion picture distributors under which it obtains copies of copyrighted motion films and a license to exhibit those motion pictures to the public for a limited period. Upon expiration of that period, the films must be returned to the distributors. Consideration the motion picture theater pays a fee that is based on the admission fees received from patrons. See - 1995 court case - **American Multi-Cinema, Inc. v. the City of Westminster**.\n\n## Admission Tax\n\nBox office receipts are subjected to an admission tax of 4% - see Admissions Tax.\n\n## Gaming Machines\n\nRevenue from coin-operated machines (amusement devices) is not subject to use tax however, the purchase of the actual machine would be subject to sales and use tax. If the machines are not owned by the business, then the owner of the machines will need to be licensed.\n\n## Other Items\n\n- Title Art - is lighted signs that are used outside of the auditoriums indicating the movie playing.\n- Sheet Trailers - are movie posters advertising upcoming movie releases. The purchase of title art and/or posters is subject to Arvada sales and use tax. Subsequent sales of the same items (to the public/employees) after the initial use by the theater would again be subject to sales and use tax.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

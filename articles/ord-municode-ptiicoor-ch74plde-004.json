@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "membership",
+      "appointment",
+      "members",
+      "term",
+      "office",
+      "city",
+      "planning"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-62"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-62. - Membership; appointment of members; term of office.",
+    "summary": "The city planning commission shall consist of seven members who shall be appointed\n               by the city council. All members shall be selected from among the duly qualified electors\n               of the city and reside in the city, and if any member ceases to reside in the city,\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-62. - Membership; appointment of members; term of office.",
+        "a": "The city planning commission shall consist of seven members who shall be appointed\n               by the city council. All members shall be selected from among the duly qualified electors\n               of the city and reside in the city, and if any member ceases to reside in the city,\n               his or her membership on the commission shall automatically terminate. After the existing\n               members' terms expire, all subsequent appointments shall be for four year terms, provided\n               that any appointments to fill unexpired terms shall be for the balance of the term\n               of the member being replaced and in the same manner prescribed in this section. The\n               term of each appointed member shall be four years, or until a successor takes office,\n               except that the terms of the existing members shall remain in effect until said member's\n               term expires. Members may serve up to three consecutive four-year terms.\n(Code 1960, § 2-21; Code 1981, § 25-32; Ord. No. 3434, § 1, 1-5-1998; Ord. No.\n4796\n, § 1, 4-18-2022)\nState Law reference—\nSimilar provisions, C.R.S. § 31-23-203."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-62"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

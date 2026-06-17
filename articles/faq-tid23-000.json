@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-23-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "contractor_license",
+    "category": "contractor_licenses",
+    "tags": [
+      "need",
+      "submit",
+      "address",
+      "changes",
+      "all",
+      "phone",
+      "number",
+      "email",
+      "Building Contractor"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=23"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/do-i-need-to-submit-address-changes",
+    "faq_category_name": "Building Contractor"
+  },
+  "content": {
+    "title": "Do I need to submit address changes",
+    "summary": "No. All address, phone number, email and phone updates to your contractor license can be done online at arvadapermits.org. You will need to login to the system using your AEC license ID and your password that were set at time of licensing. The only time that you will need to submit information to th…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Do I need to submit address changes",
+        "a": "No. All address, phone number, email and phone updates to your contractor license can be done online at arvadapermits.org. You will need to login to the system using your AEC license ID and your password that were set at time of licensing. The only time that you will need to submit information to the office is when there is a name change, or adding an additional signer to your permit."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

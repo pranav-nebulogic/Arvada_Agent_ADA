@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "vehicle",
+      "accidents",
+      "spills",
+      "any",
+      "carrying",
+      "hazardous",
+      "materials"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-183"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-183. - Vehicle accidents and spills.",
+    "summary": "(a)\nWhere any vehicle carrying hazardous materials or hazardous waste is involved in a\n               motor vehicle accident with another motor vehicle, a stationary object, or by itself,\n               the operator shall immediately notify the fire department as to the location of the\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-183. - Vehicle accidents and spills.",
+        "a": "(a)\nWhere any vehicle carrying hazardous materials or hazardous waste is involved in a\n               motor vehicle accident with another motor vehicle, a stationary object, or by itself,\n               the operator shall immediately notify the fire department as to the location of the\n               accident. If the driver is incapable of doing so because of injuries received or has\n               failed to do so, the first arriving police officer shall notify the fire department\n               as to the accident. Notification of the fire department by an operator as to an accident\n               shall not relieve the operator of also notifying the police department as to a motor\n               vehicle accident.\n(b)\nIf any hazardous materials or hazardous waste is spilled either on private property,\n               public right-of-way or public property, the fire department shall be immediately notified.\n               The following information is necessary for proper notification under this section:\n(1)\nLocation of the spill;\n(2)\nType of material involved;\n(3)\nAmount of material involved;\n(4)\nAny information that is available concerning the materials or hazardous waste; specifically\n               the toxicity, flammability, or reactivity of the hazardous materials and hazardous\n               waste involved;\n(5)\nAny other information available that may either affect the cleanup of the material\n               and waste or the health and safety of individuals in or around the spill.\n(Code 1981, § 17-114; Ord. No. 2204, § 1, 9-3-1985;\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-183"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

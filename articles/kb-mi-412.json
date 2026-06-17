@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "police",
+      "explorer",
+      "program",
+      "learn",
+      "department",
+      "officer",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/932/Police-Explorer-Program"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-412",
+    "spreadsheet_id": "MI-412",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Police Explorer Program",
+    "summary": "The Arvada Police Department offers a Police Explorer Program for young adults aged 14-21 interested in law enforcement, focusing on skills such as officer safety, de-escalation, and crime scene investigation. Participants must have completed the 8th grade, attend bi-monthly meetings, engage in monthly ride-alongs, and compete in a state-wide event annually. For more details, interested individuals can contact Officer Kelly Lechuga.",
+    "body": "The Arvada Police Department Explorer Post is an interactive educational program for young adults interested in law enforcement. Participants will learn the basic skills of what it will take to become a police officer.\n\nfter being accepted to the post, the new explorer will learn officer safety, written and verbal de-escalation skills, criminal law, crime scene investigation, and more.\n\nThis is a uniformed volunteer position with the police department. Explorers will learn teamwork, professionalism, and responsibility.\n\nPolice Explorers are required to:\n\n1. Be between the ages of 14 -21\n2. Have completed the 8th grade\n3. Attend two meetings every month on Thursday nights\n4. Complete monthly ride-a-longs with department officers\n5. Attend a state-wide competition once a year\n\nFor more information, please contact:\n\nOfficer Kelly Lechuga at, [[email protected]](/cdn-cgi/l/email-protection#6f24030a0c071a080e2f0e1d190e0b0e41001d08) or 720-898-6534",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

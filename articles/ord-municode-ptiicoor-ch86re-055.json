@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "annuity",
+      "contracts",
+      "authorized",
+      "board",
+      "purchase",
+      "contract",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-163"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-163. - Annuity contracts authorized.",
+    "summary": "The board is authorized to purchase an annuity contract for any member, retirant,\n               beneficiary, member on permanent disability status, former member who elects a deferred\n               monthly benefit; or any other person entitled to a benefit; provided, however, that\n               a…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-163. - Annuity contracts authorized.",
+        "a": "The board is authorized to purchase an annuity contract for any member, retirant,\n               beneficiary, member on permanent disability status, former member who elects a deferred\n               monthly benefit; or any other person entitled to a benefit; provided, however, that\n               any such person for whom any annuity contract is purchased authorizes such purchase\n               in writing. The board is authorized to adopt and promulgate rules and regulations\n               relating to the purchase of annuity contracts.\n(Code 1981, § 26-87; Ord. No. 2227, § 8, 10-21-1985)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-163"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

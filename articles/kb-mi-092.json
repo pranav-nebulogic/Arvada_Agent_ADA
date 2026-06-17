@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "backflow",
+      "cross",
+      "connection",
+      "control",
+      "program",
+      "water",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/450/Backflow-Cross-Connection-Control-Progra"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-092",
+    "spreadsheet_id": "MI-092",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Backflow & Cross Connection Control Program",
+    "summary": "A backflow and cross connection control program is essential for preventing contaminants from entering potable water systems through cross connections. Colorado regulations require public water suppliers to install backflow prevention devices at potential health hazard service connections and mandate annual inspections and testing of these devices to ensure their proper functioning. Testers and customers can access specific online portals for managing testing and contact information updates.",
+    "body": "## Overview\n\nA cross connection is any point in a water distribution system where contaminants may come into contact with potable water. During a backflow event, these contaminants can be drawn or pushed back into the potable water system.\n\nA backflow prevention device is installed at points where a cross-connection is likely and prevents contaminated water from entering the potable water distribution systems.\n\nThe [Colorado Primary Drinking Water Regulations](https://cdphe.colorado.gov/water-quality-control-commission-regulations) mandate public water suppliers to require installation of containment assemblies on all service connections that pose a potential health hazard to the public drinking water system.\n\nState and local plumbing codes regulate backflow prevention requirements within buildings. In Colorado, state and local plumbing codes are based on national standards, such as the Uniform Plumbing Code and the International Plumbing Code.\n\n**The regulations and codes require all backflow prevention assemblies to be inspected and tested annually.**This is to ensure that they are functioning properly.\n\n- **Testers:**[Access this portal](https://crossconnection.njbsoft.com/arvada/samsbackflowtesterloginpage.aspx) and create a login ASAP to begin entering tests.\n- **Customers:**[Register in this portal](https://crossconnection.njbsoft.com/arvada/CustomerPortalLoginPage.aspx) to make any updates to contact information.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

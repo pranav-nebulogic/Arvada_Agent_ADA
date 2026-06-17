@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-40-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "get",
+      "started",
+      "gather",
+      "group",
+      "interested",
+      "neighbors",
+      "complete",
+      "connected",
+      "Neighbors Connected"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=40"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-do-i-get-started",
+    "faq_category_name": "Neighbors Connected"
+  },
+  "content": {
+    "title": "How do I get started?",
+    "summary": "Gather a group of interested neighbors and complete the Neighbors Connected Enrollment Form. Locate your neighborhood using the Neighborhood Search Tool. Attend a quarterly Neighborhood Leader Network meeting. Plan a project or activity with your group. Apply for a Neighborhood Grant each spring or …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How do I get started?",
+        "a": "Gather a group of interested neighbors and complete the Neighbors Connected Enrollment Form. Locate your neighborhood using the Neighborhood Search Tool. Attend a quarterly Neighborhood Leader Network meeting. Plan a project or activity with your group. Apply for a Neighborhood Grant each spring or rent the Block Party Trailer for your next summer or fall gathering!"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

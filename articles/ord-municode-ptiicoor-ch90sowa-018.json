@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "license",
+      "denial",
+      "cancellation",
+      "suspension",
+      "revocation",
+      "denied",
+      "cancelled"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-56"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-56. - License denial, cancellation, suspension, or revocation.",
+    "summary": "(a)\nA license may be denied, cancelled, denied renewal, suspended, or revoked for failing\n               to properly comply with provisions in this Chapter or on the grounds that health,\n               safety, or welfare of the community may be endangered by the continued operation of\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-56. - License denial, cancellation, suspension, or revocation.",
+        "a": "(a)\nA license may be denied, cancelled, denied renewal, suspended, or revoked for failing\n               to properly comply with provisions in this Chapter or on the grounds that health,\n               safety, or welfare of the community may be endangered by the continued operation of\n               the licensee.\n(b)\nA license may be denied, cancelled, denied renewal, suspended, or revoked by the city\n               manager. The licensee shall have the right to a hearing before a hearing officer appointed\n               by the city manager. The notice and hearing procedures will follow those procedures\n               as set forth in\nSection 2-173\net seq. of the Arvada City Code.\n(c)\nA license may be summarily suspended for no more than 30 days by the city manager\n               when required for the immediate protection of the public health, safety, and welfare.\n               A hearing shall be scheduled as soon as may be reasonably possible.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-56"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

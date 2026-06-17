@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "permit",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "build",
+      "general"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-187"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-187. - Permit.",
+    "summary": "It shall be unlawful for any person to build a general public improvement without\n               having first obtained a permit to construct, reconstruct, or repair such improvement.\nThe city shall issue a permit to a person applying for a permit (\"applicant\"), for\n               the construction, r…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-187. - Permit.",
+        "a": "It shall be unlawful for any person to build a general public improvement without\n               having first obtained a permit to construct, reconstruct, or repair such improvement.\nThe city shall issue a permit to a person applying for a permit (\"applicant\"), for\n               the construction, reconstruction, or repair of a general public improvement when the\n               following conditions have been met:\n(1)\nThat the applicant submits the application for the permit on the form or system designated\n                  by the city prior to starting construction and obtains a permit for the phase of the\n                  work to be constructed or reconstructed. The applicable permit fees shall be as set\n                  forth in a fee schedule adopted by the city council by resolution on an annual basis.\n(2)\nThat the applicant obtains the necessary municipal general contractor license issued\n                  by the city or retains a contractor who has been duly licensed by the city prior to\n                  the issuance of the permit.\n(3)\nThat the applicant agrees to perform all work in accordance with the approved engineered\n                  plans and Arvada's \"Engineering Code of Standards and Specifications for the Design\n                  and Construction of Public Improvements.\"\n(4)\nThat the applicant agrees that during the performance of the work, the applicant will\n                  allow right of entry to the city inspectors, or other authorized agents of the city,\n                  to the work site and allow such inspector or agent the right to conduct tests and\n                  evaluations as to the quality of the work performed, materials used, and their conformance\n                  with\nsection 78-187\n(3). If the city determines that the work is not being so performed, the city shall\n                  order the work to cease until there is evidence satisfactory to the city that corrective\n                  measures have been taken and the work conforms to the said plans and specifications.\n                  The inspector charged with the enforcement of this chapter, acting in good faith and\n                  without malice in the discharge of his duties, shall not thereby be rendered personally\n                  liable for damage that may accrue to persons or property as a result of an act or\n                  omission in the discharge of the assigned duties.\n(5)\nThat the applicant, his or her contractors and subcontractors, pay all sales, use,\n                  and other taxes required by the laws of the state and the city.\n(6)\nThat the applicant agrees to pay a reinspection fee, as contained in the adopted fee\n                  schedule, for each inspection or reinspection when such portion of work for which\n                  the inspection is called is not complete or when corrections called for are not made.\n                  In instances where reinspections have been assessed, no additional inspection shall\n                  be performed until the required reinspection fees have been paid.\n(7)\nThat the applicant agrees to pay after-hours inspection fees, as contained in the\n                  adopted fee schedule, for each after-hours inspection when the inspection is requested\n                  by the applicant or municipal general contractor and performed by the city. No additional\n                  inspection shall be performed until the required after-hours inspection fees have\n                  been paid.\n(8)\nAny other condition imposed on the applicant pursuant to article V of this chapter.\n(Ord. No.\n4749\n, § 1, 1-25-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-187"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

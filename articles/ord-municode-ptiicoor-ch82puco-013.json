@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "competitive",
+      "solicitation",
+      "methods",
+      "acceptable",
+      "purchasing",
+      "program",
+      "responsible"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-41"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-41. - Competitive solicitation methods.",
+    "summary": "(a)\nAcceptable methods.\nThe purchasing program is responsible for determining which solicitation method is\n               appropriate to a procurement process in accordance with the provisions of this article.\n               An employee responsible for purchasing goods or services for the city will …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-41. - Competitive solicitation methods.",
+        "a": "(a)\nAcceptable methods.\nThe purchasing program is responsible for determining which solicitation method is\n               appropriate to a procurement process in accordance with the provisions of this article.\n               An employee responsible for purchasing goods or services for the city will use competitive\n               solicitation methods whenever possible to effectuate the provisions of this chapter\n               and to maximize the value of the public funds in ways that are efficient and effective\n               in light of the degree of complexity associated with the good or service being purchased.\n(1)\nDocumented quotes. Documented quotes must be obtained using the city's highest ethical\n               standards.\n(b)\nBest value procurement.\nThe city, through the purchasing division, will solicit requests for qualifications\n               and requests for proposals based upon a best value procurement basis, which includes\n               the evaluation of qualifications, experience, and proposed performance measures to\n               award and renew contracts based upon the best value to the city.\n(c)\nRequired solicitation methods: thresholds.\nTABLE 82-41(c)\nCOMPETITIVE SOLICITATION\nMETHODS\nAmount/nature of the contract or task\nRequired solicitation method\nFor a contract up to and including $9,999.99\nOne documented quote: The project owner shall obtain and document one quote for the\n                                 required good or service.\nException: A contract for computer software may be solicited as set forth in the administrative\n                                 policy.\nFor a contract from $10,000.00 up to and including $49,999.99\nThree documented quotes: The project owner shall obtain and document three quotes\n                                 for the required good or service, and submit to the purchasing manager the contract\n                                 and the three documented quotes.\nException: A contract for computer software may be solicited as set forth in the administrative\n                                 policy.\nFor a contract of $50,000.00 or more, or for any contract for on-call or as-needed\n                                 work with a pre-qualified vendor\nFormal solicitation: The project owner shall follow the formal solicitation process\n                                 set forth in the administrative policy.\nFor a task up to and including $49,999.99\nfor which vendors have been pre-qualified by the city and with whom the city has contracted\n                                    for on-call or as needed work\nOne documented quote: The project owner shall obtain and document one quote from a\n                                 vendor who has been pre-qualified to perform the type of work required, and who has\n                                 a contract with the city to perform the work on an on-call or as-needed basis.\nFor a task of $50,000.00 or more\nfor which vendors have been pre-qualified by the city and with whom the city has contracted\n                                    for on-call or as needed work\nBid the eligible pool: The project owner shall publish the solicitation to all vendors\n                                 who are pre-qualified by the city to perform the type of work required and who have\n                                 sufficient value remaining on their on-call or as-needed work contract from which\n                                 they may be paid for the work. No formal solicitation is required. The project owner\n                                 shall submit to the purchasing manager the solicitation documentation, and each quote\n                                 received.\nException: If the cost of the task exceeds the approved annual value of the contract\n                                 of every vendor who is pre-qualified to perform the type of work required, or if no\n                                 vendor pre-qualified to perform the work has sufficient value remaining on their on\n                                 call or as-needed work contract from which they may be paid for the work, the project\n                                 owner shall formally solicit the work.\nNothing in this\nsection 82-41\n(c) shall be construed to limit the city's ability to use a vendor who has not been\n               pre-qualified to perform work if using a non- pre-qualified vendor is in the best\n               interests of the city.\n(d)\nNo contingencies.\nNo employee shall include or add a contingency amount to a solicitation. All monetary\n               changes to contracts or purchase orders shall be processed using a change order, and\n               in accordance with article IV of this chapter.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-41"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

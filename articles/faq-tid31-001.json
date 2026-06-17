@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-31-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "call",
+      "even",
+      "planning",
+      "digging",
+      "deep",
+      "colorado",
+      "law",
+      "requires",
+      "Utility, Sewer, & Water Line Locates"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=31"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/do-i-have-to-call-even-if-i-am-not-planning-on-digging-deep",
+    "faq_category_name": "Utility, Sewer, & Water Line Locates"
+  },
+  "content": {
+    "title": "Do I have to call even if I am not planning on digging deep?",
+    "summary": "Colorado law requires that you make notification before you begin any size project from small ones, such as planting a tree or bush, to a big project such as pipe replacement or installation.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Do I have to call even if I am not planning on digging deep?",
+        "a": "Colorado law requires that you make notification before you begin any size project from small ones, such as planting a tree or bush, to a big project such as pipe replacement or installation."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

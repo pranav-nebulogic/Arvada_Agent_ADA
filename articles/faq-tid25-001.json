@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-25-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "development_permit",
+    "category": "development",
+    "tags": [
+      "long",
+      "development",
+      "review",
+      "process",
+      "take",
+      "depends",
+      "project",
+      "responsiveness",
+      "Development Review Resources"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=25"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-long-does-the-development-review-process-take",
+    "faq_category_name": "Development Review Resources"
+  },
+  "content": {
+    "title": "How long does the development review process take?",
+    "summary": "It depends on your project(s), responsiveness, and a few other factors. Typically, from start to finish, development review takes 18 to 30 weeks (not including pre-application or neighborhood meetings).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How long does the development review process take?",
+        "a": "It depends on your project(s), responsiveness, and a few other factors. Typically, from start to finish, development review takes 18 to 30 weeks (not including pre-application or neighborhood meetings)."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

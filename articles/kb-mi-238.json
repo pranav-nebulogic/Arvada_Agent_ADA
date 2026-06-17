@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "fund",
+      "raising",
+      "code",
+      "personal",
+      "property",
+      "tangible",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/341/Fund-Raising"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-238",
+    "spreadsheet_id": "MI-238",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Fund Raising",
+    "summary": "The Arvada Municipal Code mandates sales and use taxes on tangible personal property and certain services, including those involved in fundraising by tax-exempt organizations. Such organizations must collect sales tax on retail sales and are subject to taxes on items purchased for prizes or events, unless sales tax is already collected by vendors. Additionally, organizations conducting auctions must also collect sales tax on auctioned items, and if prizes are donated, the donor is responsible for the sales tax on their cost.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property and certain taxable services in the City by the ultimate user or consumer. This also includes a use tax upon using, storing, distributing, or otherwise consuming in the City any article of tangible personal property purchased, leased, or rented from sources outside the City on which a lawfully imposed sales tax has not been paid.\n\n## Taxable Sales by an Exempt Organization\n\nFundraising is an activity that is usually associated with a tax-exempt organization. If an exempt organization is involved in the purchase or sale of tangible personal property for fundraising purposes, the purchase or sale of the property is taxable. An exempt organization that makes retail sales of tangible personal property or taxable services is required to be licensed and collect city sales tax on the selling price of the tangible personal property.\n\n## Prizes, Premiums, & Gifts\n\nItems of tangible personal property purchased by organizations involved in fundraising for use as prizes, premiums, and/or gifts, are subject to sales/use tax on the total purchase price paid. Since the organization recovers the cost of the property through the fundraising activity, the property is not considered as being used in the conduct of the tax-exempt function of the organization and therefore, is subject to taxation. If the organization is not charged sales tax, use tax would be due on such purchases.\n\n## Banquets\n\nPurchases of food, beverages, and other supplies from caterers, hotels, and restaurants are normally taxable because the organization holding the event seldom will have a resale license and collect the tax from the people attending the banquet. The tax is collected by the vendor on food and beverages.\n\nPurchases of food and beverages by charitable and otherwise exempt organizations are subject to the tax if the final recipient reimburses the organization in any way, such as the purchase of a ticket, payment of a registration fee or membership fee, or making an involuntary contribution to attend such event\n\n## Sales\n\nAn exempt organization, which makes retail sales of tangible personal property for fundraising purposes, is required to be licensed to collect sales tax on the sales price of the tangible personal property.\n\n## Auctions\n\nOrganizations holding fundraisers or auctions where tangible personal property is sold to the highest bidder are required to collect sales tax on the selling price of the auctioned items. If prizes are donated to a tax-exempt organization for the auction, then the donor is required to pay city sales tax on the cost to acquire the property.\n\n## Examples\n\n- Good Charity organizes a fundraiser for the purpose of helping children. As a way to increase participation in the fundraiser, Good Charity sells raffle tickets for door prizes. sales and use tax is due from Good Charity on the purchase price it paid for each door prize.\n- Great Charity has recently arranged to hold a catered fundraising dinner at a local auditorium. The public may attend this fundraiser by paying $40 per plate. The caterer will charge Great Charity $25 per plate. If the caterer is licensed to collect Arvada sales tax, the caterer would collect sales tax for the sales to the Great Charity ($25 × the Number of meals). If a sales tax is not collected by the caterer, use tax must be remitted by Great Charity on the purchase of catered food and beverage ($25 × the Number of meals).\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

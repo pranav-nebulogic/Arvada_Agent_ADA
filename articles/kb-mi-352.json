@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "september",
+      "address",
+      "alternatives",
+      "america",
+      "assessing",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1424/New-Businesses-September-2025"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-352",
+    "spreadsheet_id": "MI-352",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses September 2025",
+    "summary": "In September 2025, several new businesses opened in Arvada, Colorado, including Arvada Barre, Bank of America, and BubblyFresh Laundromat, among others. The list features a variety of services, from counseling and insurance to retail and automotive services, with contact information provided for each establishment.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew Businesses September 2025\n\n| Arvada Barre | 8330 W 80TH AVE 2 ARVADA CO 80005 | 720-880-6447 |\n| Assessing Alternatives Counseling | 5310 WARD RD G07 ARVADA CO 80002 | 720-996-1340 |\n| Bank of America | 9025 HOWELL ST ARVADA CO 80005 | 303-209-3067 |\n| Blue Ox Workshop LLC | ARVADA CO 80004 | 720-446-6379 |\n| BubblyFresh Laundromat | 9806 W 60TH AVE ARVADA CO 80004 | 303-880-3244 |\n| Cadence Talent | ARVADA CO 80004 | 916-220-6770 |\n| Delta Clouds | 6634 WADSWORTH BLVD ARVADA CO 80003 | 720-402-0675 |\n| DJ BenT Productions LLC | ARVADA CO 80005 | 720-625-0135 |\n| Eddy Gomez Agency LLC American Family Insurance | 6355 WARD RD 420 ARVADA CO 80004 | 303-209-2180 |\n| Farmers Insurance - Greg Lind Agency | 12191 W 64TH AVE 100 ARVADA CO 80004 | 720-390-5705 |\n| Fyndra LLC | ARVADA CO 80003 | 970-581-8964 |\n| Jeremy Sifuentes | 7830 CLUB CREST DR ARVADA CO 80005 | 956-572-3445 |\n| Kiddo Clean Seats LLC | ARVADA CO 80003 | 970-275-5357 |\n| MDA Taxes Inc | 6850 W 52ND AVE 202 ARVADA CO 80002 | 970-747-1040 |\n| Mermaid Walking Boutique | 5760 WADSWORTH BLVD D ARVADA CO 80002 | 303-419-5931 |\n| Peak Precision Auto Glass LLC | ARVADA CO 80002 | 210-621-3645 |\n| Uncommon Cacao Inc | 5730 WARD RD 207 ARVADA CO 80002 | 857-389-1627 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

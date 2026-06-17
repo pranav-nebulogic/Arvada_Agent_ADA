@@ -1,0 +1,213 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_interior_remodel",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/423/Residential-Interior"
+    ],
+    "scraped_at": "2026-06-10T10:49:43.052903+00:00",
+    "content_hash": "cb768f8ee237f767804ccb878b1dd033d7161cd273e46983bf6974bb53f5dc38",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Residential Interior Remodel Building Permit",
+    "summary": "This permit is required for interior remodel projects including kitchen and bath remodels, garage conversions, structural modifications, basement finishes, and foundation repairs in the City of Arvada. The application process is fully electronic, and plans must be submitted for review before work can begin.",
+    "eligibility": "If you are the owner and occupant of the residence and completing the work yourself, a license is not required. If hiring a contractor, the contractor must be licensed with the City of Arvada. Owners of residences that are not their primary residence must hire a licensed contractor or obtain a contractor's license to apply.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Building Codes",
+        "text": "Review the adopted building codes to understand the requirements for your project using the City's online code resource.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Prepare Plans",
+        "text": "Prepare your plans in electronic format. Hand-drawn plans can be dropped off at City Hall for scanning and conversion to PDF. Plans should include floor plans with room dimensions, electrical and plumbing details, window sizes, structural modifications, and any engineered documents if structural changes or egress windows are involved.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Create Account and Apply",
+        "text": "Create a login at www.arvadapermits.org if you are a homeowner, or log in with your AEC number if you are a contractor. Start your application and upload all required documents. Failure to attach documents will result in rejection of your application.",
+        "portal_url": "https://www.arvadapermits.org"
+      },
+      {
+        "n": 4,
+        "title": "Plan Review",
+        "text": "Once a complete application and plan sets are submitted, building staff will review your application and send it to plan reviewers. Reviews take 1-2 days depending on plan detail and workload. You will be notified by email if plans are approved or require updates.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 5,
+        "title": "Pay Fees and Print Permit",
+        "text": "After permit approval, you will receive an email to pay fees and print the permit. You must have the approved plans and permit on site at all times during construction.",
+        "portal_url": null
+      },
+      {
+        "n": 6,
+        "title": "Submit Plan Changes if Needed",
+        "text": "If plans change during construction, submit updated plans through the Arvada Permits Site and notify the City by email. Additional fees may apply.",
+        "portal_url": "https://www.arvadapermits.org"
+      },
+      {
+        "n": 7,
+        "title": "Schedule and Pass Inspections",
+        "text": "Schedule required inspections based on your project scope. Common inspections include underground plumbing, rough plumbing, shower pan, gas line, rough mechanical, rough electrical, rough frame, insulation, and final inspections for plumbing, electrical, mechanical, and structural.",
+        "portal_url": null
+      },
+      {
+        "n": 8,
+        "title": "Close Permit",
+        "text": "After final inspection, the permit status will be updated to finaled. No additional documentation or Certificate of Occupancy is required. Inspection records can be accessed anytime at arvadapermits.org.",
+        "portal_url": "https://www.arvadapermits.org"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Plan Set",
+        "description": "Complete plans including floor plans with room dimensions, electrical outlets, smoke alarms, plumbing modifications, window sizes, structural modifications, and engineered documents if applicable.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Engineered Documents",
+        "description": "Stamped plans by a licensed engineer if structural changes or egress windows are installed.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Gas Line Sizing Calculation",
+        "description": "If a gas line is being installed, include sizing calculations with details on size, material, location, length, inlet pressure, and total BTUs of appliances.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Sub Contractor Forms",
+        "description": "Forms completed by licensed mechanical, plumbing, or electrical contractors who will perform work on the project.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "project_scope",
+        "label": "Project Scope",
+        "description": "Description of the interior remodel project such as kitchen remodel, basement finish, or structural repair.",
+        "example_value": null,
+        "why_needed": "To categorize the type of work and determine applicable requirements."
+      },
+      {
+        "field_name": "plans_upload",
+        "label": "Upload Plans",
+        "description": "Upload electronic plans in PDF format for review.",
+        "example_value": null,
+        "why_needed": "To provide detailed project information for plan review."
+      },
+      {
+        "field_name": "contractor_license",
+        "label": "Contractor License",
+        "description": "License number of the contractor performing the work if applicable.",
+        "example_value": null,
+        "why_needed": "To verify that the contractor is licensed with the City of Arvada."
+      },
+      {
+        "field_name": "job_valuation",
+        "label": "Job Valuation",
+        "description": "Estimated total value of the project used to calculate fees.",
+        "example_value": null,
+        "why_needed": "To assess permit fees based on project value."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Building Permits",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      },
+      {
+        "name": "Plan Review",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.plan_review",
+        "notes": null
+      },
+      {
+        "name": "Use Tax",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.use_tax",
+        "notes": "Only assessed if complete on project"
+      },
+      {
+        "name": "Electrical Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.electrical",
+        "notes": null
+      },
+      {
+        "name": "Mechanical Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.mechanical",
+        "notes": null
+      },
+      {
+        "name": "Plumbing Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.plumbing",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "1-2 days depending on plan detail and business demands",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7620",
+      "address": "City Hall, 8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Do I need a licensed contractor to apply for a permit?",
+        "a": "If you are the owner and occupant completing the work yourself, a license is not required. If hiring a contractor or if the residence is not your primary residence, a licensed contractor is required."
+      },
+      {
+        "q": "Can I submit hand-drawn plans?",
+        "a": "Yes, hand-drawn plans can be dropped off at City Hall where staff will scan and convert them to PDF format."
+      },
+      {
+        "q": "What inspections are required for interior remodels?",
+        "a": "Inspections depend on the scope but commonly include underground plumbing, rough plumbing, shower pan, gas line, rough mechanical, rough electrical, rough frame, insulation, and final inspections."
+      },
+      {
+        "q": "What happens if my plans change during construction?",
+        "a": "Submit updated plans through the Arvada Permits Site and notify the City by email. Additional fees may apply."
+      }
+    ],
+    "ordinance_refs": [
+      "Table 18-1"
+    ],
+    "related_permit_types": [
+      "building_permit_residential_exterior",
+      "building_permit_foundation_repair",
+      "building_permit_garage_conversion"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3809
+}

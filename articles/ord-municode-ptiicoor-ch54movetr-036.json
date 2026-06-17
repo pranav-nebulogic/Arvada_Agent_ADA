@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "failure",
+      "comply",
+      "enforcement",
+      "order",
+      "driver",
+      "registered",
+      "owner"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-163"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-163. - Failure to comply with an enforcement order.",
+    "summary": "(a)\nA driver or registered owner who has been served with an enforcement order shall pay\n               the civil penalty or otherwise comply with the order of the hearing officer or city\n               manager or designee thereof issued pursuant to\nsection 54-161\nabove.\n(b)\nNotwithstanding any othe…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-163. - Failure to comply with an enforcement order.",
+        "a": "(a)\nA driver or registered owner who has been served with an enforcement order shall pay\n               the civil penalty or otherwise comply with the order of the hearing officer or city\n               manager or designee thereof issued pursuant to\nsection 54-161\nabove.\n(b)\nNotwithstanding any other provision of this division or of this Code, should a driver\n               or registered owner fail to pay or otherwise comply with such an enforcement order,\n               the city manager or designee thereof may petition the municipal court, setting forth\n               the facts and circumstances of the case, and seeking that a show cause order be issued\n               to the driver or registered owner. The municipal court is authorized to issue a show\n               cause notice to the driver or registered owner to appear before the court and show\n               cause why such payment was not made, under penalty of punishment for contempt.\n(c)\nService of the show cause notice shall be made by mailing the notice to the last known\n               address of the driver or registered owner by certified mail, return receipt requested,\n               not less than seven calendar days prior to the time the driver or registered owner\n               is required to appear in municipal court.\n(d)\nShould the driver or registered owner not appear in municipal court following service\n               of the show cause order, the court is authorized to enter a default judgment in favor\n               of the city for the amount of the citation and any late fees, and other administrative\n               costs and fees.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-163"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

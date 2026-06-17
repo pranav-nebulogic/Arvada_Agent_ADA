@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "prohibited",
+      "acts",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "operate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-211"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-211. - Prohibited acts.",
+    "summary": "It shall be unlawful for any person to:\n(1)\nOperate a pawnshop without holding a validly issued license;\n(2)\nEnter into a contract for purchase or purchase transaction with any individual under\n                  the age of 18 years;\n(3)\nPermit any customer to become obligated on the same day in any …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-211. - Prohibited acts.",
+        "a": "It shall be unlawful for any person to:\n(1)\nOperate a pawnshop without holding a validly issued license;\n(2)\nEnter into a contract for purchase or purchase transaction with any individual under\n                  the age of 18 years;\n(3)\nPermit any customer to become obligated on the same day in any way under more than\n                  one contract for purchase agreement with the pawnbroker which would result in the\n                  pawnbroker obtaining a greater amount of money than would be permitted if the pawnbroker\n                  and customer had entered into any one contract for purchase covering the same tangible\n                  personal property;\n(4)\nViolate the terms of the contract for purchase;\n(5)\nKnowingly give false information with respect to the information required by\nsection 22-210\n;\n(6)\nOperate a pawnshop at any time except between the hours of 10:00 a.m. and 7:00 p.m.;\n(7)\nCharge interest in excess of ten percent per annum on any contract for purchase.\n(Code 1981, § 23-11; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-211"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

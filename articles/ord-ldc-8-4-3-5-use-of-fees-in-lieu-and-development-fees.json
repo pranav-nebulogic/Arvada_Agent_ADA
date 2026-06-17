@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "fees",
+      "lieu",
+      "development",
+      "generally",
+      "collected",
+      "pursuant",
+      "division",
+      "limited",
+      "provided",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-3-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-3. LAND DEDICATION; FEES-IN-LIEU; AND DEVELOPMENT FEES"
+  },
+  "content": {
+    "title": "8-4-3-5. Use of fees-in-lieu and development fees.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-3-5. Use of fees-in-lieu and development fees.",
+        "a": "A.\tGenerally. The use of fees-in-lieu and development fees that are collected pursuant to this Division shall be limited as provided in this Section.\nB.\tParks.\n  1.\tPark fee-in-lieu payments paid to the City pursuant to Section 8-4-3-6, Park and Trail Dedications and Fees-in-Lieu, shall be held in an account to be used solely for the acquisition and development of parks, trails, and recreation facilities. Such fees shall be expended in a location that provides tangible benefits to the \"Applicable Residential Development.\"\n  2.\tPark development fees paid to the City pursuant to Section 8-4-3-7, Park Development Fees, shall be used solely for the development and improvement of parks, trails, and recreation facilities within or reasonably close to the Applicable Residential Development.\n  3.\tPark and open space land dedication requirements for infill development and development within transit station areas, urban centers, and commercial centers shall be as set forth in Section 8-4-3-8. In addition, such developments shall be subject to the following criteria:\n    a.\tLand provided in conformance with Small Urban Park criteria shall be credited toward satisfying, in whole or in part, the park land dedication requirements.\n    b.\tLand provided to complete or enhance the system of regional trails or greenways that connect bicyclists and pedestrians to major destinations on the development site and to adjacent properties shall be credited toward satisfying, in whole or in part, park land dedication requirements.\n    c.\tSuch developments shall be exempt from the open space land dedication requirements set forth in Section 8-4-3-8 of this section.\nC.\tSchools. School land fee-in-lieu payments paid to the City pursuant to Section 8-4-3-9, School Land Dedications and Fees-in-Lieu, shall be held in an account to be used solely to pay for school land acquisition or capital projects within the applicable School District. The City shall transfer these funds to the affected School District."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-3-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

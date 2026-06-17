@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "relationship",
+      "other",
+      "regulations",
+      "generally",
+      "addition",
+      "article",
+      "signs",
+      "also",
+      "subject",
+      "applicable"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-1-4"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-1. PURPOSE; PUBLIC INTERESTS; FINDINGS; AND RELATIONSHIP TO OTHER REGULATIONS"
+  },
+  "content": {
+    "title": "6-1-1-4. Relationship to other regulations.",
+    "summary": "A.\tGenerally. In addition to the regulations set out in this Article, signs may also be subject to applicable State laws and regulations (e.g., 2 CCR 601-3, Rules Governing Outdoor Advertising in Colorado), Federal laws and regulations, and applicable adopted building and electrical codes.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-1-4. Relationship to other regulations.",
+        "a": "A.\tGenerally. In addition to the regulations set out in this Article, signs may also be subject to applicable State laws and regulations (e.g., 2 CCR 601-3, Rules Governing Outdoor Advertising in Colorado), Federal laws and regulations, and applicable adopted building and electrical codes. Exemptions and partial exemptions from this Article that are set out in Section 6-1-2-2, Exemptions and Partial Exemptions, and exceptions to the sign permit requirement that are set out in Section 6-1-2-3, Permit Exceptions, do not constitute exceptions or exemptions from other applicable codes or permit requirements.\nB.\tNo Defense to State or Federal Enforcement. Where any provision of this Article covers the same subject matter as other regulations of the State of Colorado or the United States, the Applicant is advised that nothing in this Article shall be construed as a defense to a violation of applicable state or federal law except as may be provided in the state or federal law.\nC.\tConstruction. Where any provision of this Article covers the same subject matter as other regulations of the City, the more specific regulation shall control the more general one, unless the City determines that the more restrictive regulation is clearly unenforceable as a matter of law.\nD.\tOlde Town Zoning District. All signs within the Olde Town zoning district must comply with the Design Guidelines for Olde Town Arvada, except that the Design Guidelines for Olde Town Arvada shall not be interpreted to limit the message content of the sign."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-1-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

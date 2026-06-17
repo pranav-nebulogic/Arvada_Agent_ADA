@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "manager",
+      "office",
+      "council",
+      "community",
+      "form",
+      "government",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/183/City-Managers-Office"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-133",
+    "spreadsheet_id": "MI-133",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "City Manager's Office",
+    "summary": "The City Manager's Office in Arvada is responsible for providing leadership and policy guidance to the City Council and the community, ensuring the effective delivery of public services through a council-manager government system. The City Manager oversees the implementation of policies, coordinates city operations, prepares budgets, and manages public information and intergovernmental relations.",
+    "body": "## Mission\n\nThe Mission of the City Manager's Office is to provide leadership, policy, guidance and communication services to City Council, the community and the organization so they can successfully create a vibrant, safe, secure, and sound community.\n\n## How the City Operates\n\nThe City of Arvada operates within a council-manager form of government. This system of local government combines the strong political leadership of elected officials in the form of a council, with the managerial experience of an appointed local government manager. The plan establishes a representative system where all power is concentrated in the elected council as a whole and where the council hires a professionally trained manager to oversee the delivery of public services.\n\n## Duties of City Manager\n\nThe City Manager's office supervises implementation of policy and procedure as directed by the City Council through coordination and supervision of operations in all city departments. Staff also works with the City Council members on legislative matters and intergovernmental relations; works with citizens and neighborhoods; prepares City Council agendas; oversees franchises including telecommunications, energy, and more; submits a recommended budget to the City Council; is responsible for public information including media relations, marketing and communications, and cable and online video programming; and much more.\n\n## Learn more\n\nListen to the Inside Arvada podcast episode with City Manager Don Wick using the player below. You can also listen on [Apple](https://podcasts.apple.com/us/podcast/inside-arvadas-city-management-with-new-city-manager/id1736238466?i=1000714493740), [Spotify](https://open.spotify.com/episode/610x9TsHroOikQm2DO1yi8?si=5rjITVVjQuKudy05ganDaQ), [YouTube](https://youtu.be/jI6isBRh92g?feature=shared), or wherever you listen to podcasts, including [Buzzsprout](https://www.buzzsprout.com/2320363/episodes/17353371) (with transcript).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

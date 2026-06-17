@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "duties",
+      "powers",
+      "director",
+      "general",
+      "authorized",
+      "directed",
+      "implement"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-35"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-35. - Duties and powers of the director.",
+    "summary": "(a)\nGeneral.\nThe director is authorized and directed to implement, administer, and enforce the\n               provisions of this article. The director may:\n(1)\nImplement, administer, and enforce any processes or requirements necessary for an\n               applicant to obtain a site disturbance perm…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-35. - Duties and powers of the director.",
+        "a": "(a)\nGeneral.\nThe director is authorized and directed to implement, administer, and enforce the\n               provisions of this article. The director may:\n(1)\nImplement, administer, and enforce any processes or requirements necessary for an\n               applicant to obtain a site disturbance permit;\n(2)\nDetermine when land disturbance activity may impact an environmentally sensitive or\n               hazardous area or determine that a site disturbance permit should otherwise be required;\n(3)\nWaive any security requirement for a site disturbance permit when the director determines\n               it is in the city's best interest to do so;\n(4)\nRequire access to the property of applicants or permittees to ensure compliance with\n               any requirements under this article;\n(5)\nEstablish and collect fees for issuing site disturbance permits;\n(6)\nRender interpretations of this article and adopt policies and procedures in order\n               to clarify the application of its provisions. These interpretations, policies, and\n               procedures shall be in compliance with the intent and purpose of this article, and\n               shall not have the effect of waiving requirements specifically provided for in this\n               chapter;\n(7)\nRevoke any site disturbance permit due to noncompliance with any requirement in this\n               chapter; and\n(8)\nOtherwise implement, administer, and enforce the provisions of this chapter.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

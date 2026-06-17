@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "irrigation",
+      "water",
+      "demand",
+      "open",
+      "space",
+      "nonwater",
+      "conserving"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-110"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-110. - Irrigation water demand for open space.",
+    "summary": "(a)\nFor nonwater conserving open space, the annual volumetric water demand shall be calculated\n               at 18 gallons per square foot per year for the purpose of establishing the size and\n               cost of the irrigation tap to be purchased in accordance with\nsections 102-34\n,\n102-164\n(b)…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-110. - Irrigation water demand for open space.",
+        "a": "(a)\nFor nonwater conserving open space, the annual volumetric water demand shall be calculated\n               at 18 gallons per square foot per year for the purpose of establishing the size and\n               cost of the irrigation tap to be purchased in accordance with\nsections 102-34\n,\n102-164\n(b), and\n102-166\n(b).\n(b)\nFor water conserving open space, the annual \"volumetric\" water requirement for irrigation\n               shall be calculated at nine gallons per square foot per year for the purpose of establishing\n               the size and cost of the irrigation tap in accordance with\nsections 102-34\n,\n102-164\n(b), and\n102-166\n(b).\n(c)\nFor open space that has no installed irrigation system and will not be irrigated,\n               no water demand will be assigned.\n(d)\nAll determinations concerning qualification as landscaped common area, non-water conserving\n               open space, water conserving open space or nonirrigated open space, and all determinations\n               as to the size and type of irrigation tap required, shall be at the sole discretion\n               of the director of utilities or his duly authorized representative, consistent with\n               the provisions of this article I. Any such determination involving area demarcations\n               or calculations, or volumetric calculations, shall be made available to the user for\n               inspection, upon request.\n(Code 1981, § 33-62; Ord. No. 3262, § 8, 4-15-1996)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-110"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "investigation",
+      "complete",
+      "application",
+      "accepted",
+      "filing",
+      "required",
+      "individuals"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-169"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-169. - Investigation.",
+    "summary": "(a)\nWhen a complete application has been accepted for filing, the required individuals\n               have been fingerprinted, photographed, and the license fee has been paid, the city\n               clerk shall transmit the application to the city police department for investigation\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-169. - Investigation.",
+        "a": "(a)\nWhen a complete application has been accepted for filing, the required individuals\n               have been fingerprinted, photographed, and the license fee has been paid, the city\n               clerk shall transmit the application to the city police department for investigation\n               of the background and financial interest of each individual applicant, each partner\n               holding ten percent or more interest of a partnership, each officer, director, and\n               holder of ten percent or more of the stock of a corporation, limited liability company,\n               or association of a proposed massage parlor establishment. The city police department\n               shall also investigate the source of funds for the business. Each applicant shall\n               pay a nonrefundable investigation fee at the time the application is filed in the\n               amount then charged by the Colorado Bureau of Investigations for each person who will\n               be investigated.\n(b)\n(1)\nThe investigation conducted by the city police department shall be sufficient to verify\n               the accuracy of all of the information submitted as part of the application. The city\n               police department shall make a recommendation to the licensing authority to approve\n               or deny the license based on its investigation. In investigating the qualifications\n               of any applicant, licensee, or employee or agent of the licensee or applicant, the\n               licensing authority may have access to criminal history record information furnished\n               by criminal justice agencies subject to any restrictions imposed by such agencies.\n               In the event the licensing authority takes into consideration information concerning\n               the applicant's criminal history record, the licensing authority shall also consider\n               any information provided by the applicant regarding such criminal history record,\n               including, but not limited to, evidence of rehabilitation, character references, and\n               educational achievements, especially those items pertaining to the period of time\n               between the applicant's last criminal conviction and the consideration of his application\n               for a license.\n(2)\nAs used in this subsection (b) of this section, the term \"criminal justice agency\"\n               means any federal, state, or municipal court or any governmental agency or subunit\n               of such agency which performs the administration of criminal justice pursuant to a\n               statute or executive order and which allocates a substantial part of its annual budget\n               to the administration of criminal justice.\n(c)\nNo application for a massage parlor license at a particular location by or on behalf\n               of the same person shall be received or acted upon if such location is the same as\n               or within 500 feet of a location for which, within two years preceding, the local\n               licensing authority has refused to approve a license on the ground, in whole or in\n               part, that the license already granted for the particular locality was adequate for\n               the reasonable requirements of the neighborhood and the desires of the inhabitants\n               at the time of such refusal.\n(Code 1981, § 16-9; Ord. No. 3292, § 1, 10-21-1996)\nState Law reference—\nInvestigation, C.R.S. § 12-48.5-115."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-169"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

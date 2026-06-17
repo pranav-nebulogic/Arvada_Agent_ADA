@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "site",
+      "plan",
+      "amendment",
+      "generally",
+      "purpose",
+      "ensure",
+      "compliance",
+      "development",
+      "design",
+      "standards"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-5-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-5. SITE DEVELOPMENT AND TEMPORARY USES"
+  },
+  "content": {
+    "title": "8-3-5-3. Site plan and site plan amendment.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-5-3. Site plan and site plan amendment.",
+        "a": "A.\tGenerally. The purpose of the Site Plan or Site Plan Amendment is to ensure compliance with the development and design standards and provisions of this Code, while encouraging quality development in the City reflective of the goals, policies, and objectives found in the Comprehensive Plan.\nB.\tSite Plans. All applicable provisions of this Division apply unless specifically listed. A Site Plan is required before a building permit may be issued for all development in the City except those listed below:\n  1.\tSingle-family detached homes or duplex units in a subdivision of nine or fewer lots within a residential zoning district and that are not part of land for which a Master Development Plan has been approved;\n  2.\tPermitted additions to existing single-family detached dwellings or duplex units; and\n  3.\tInterior improvements and tenant finish.\nC.\tApproval Criteria. A Site Plan or Site Plan Amendment shall be reviewed for compliance with the following criteria:\n  1.\tThe application complies with the applicable standards of this LDC, other adopted City regulations, any approved Master Plan that includes the property, and any conditions specifically applied to development of the property by the Planning Commission or City Council in a prior decision affecting the property;\n  2.\tThe application is consistent with the Comprehensive Plan;\n  3.\tThe City's existing infrastructure and public improvements, including but not limited to its water, wastewater, street, trail, and sidewalks systems, have adequate capacity to serve the proposed development, and any burdens on those systems have been mitigated to the degree practicable;\n  4.\tThe application will preserve and protect natural areas, ridgelines, swales, natural landforms, water quality and wildlife habitat of riparian corridors, wetlands and floodplains affected by the proposed development and integrates those areas into site design where practicable;\n  5.\tThe application will improve or expand multi-modal connections with adjacent sites, neighborhoods, and urban centers;\n  6.\tThe application is similar to surrounding uses in terms of size, scale and building façade materials;\n  7.\tThe application mitigates any adverse impacts on the surrounding area to the degree practicable;\n  8.\tWithin the MX, R6, R13 and R24 zoning districts, townhome and multifamily residential uses shall provide appropriate amenities, including recreational facilities, pedestrian facilities, unique aesthetic features and quality design; and\n  9.\tIf the application includes residential uses and was granted Conditional Use approval:\n    a.\tThe number of residential units proposed is within five percent of the number of units presented during the Conditional Use review; and\n    b.\tThe project shall be substantially similar in design to the conceptual plan presented during the Conditional Use review in terms of the following:\n      i.\tBuilding height(s) and location(s),\n      ii.\tParking location and number of spaces,\n      iii.\tLandscape areas and bufferyards, and\n      iv.\tSmall urban park location(s) (if applicable).\n(Ord. No. 4793, § 6, 3-21-2022; Ord. No. 4810, § 4, 9-19-2022)\nEditor's note(s)—Ord. No. 4793, § 6, adopted March 21, 2022 changed the title of § 8-3-5-3 from \"Site plan\" to read as set out herein."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-5-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

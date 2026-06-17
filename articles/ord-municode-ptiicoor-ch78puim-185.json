@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "security",
+      "required",
+      "cash",
+      "escrow",
+      "letter",
+      "credit",
+      "upon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-298"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-298. - Security required; cash escrow or letter of credit.",
+    "summary": "(a)\nUpon the effective date of this article, before the first permit required by this\n               article is issued to, or on behalf of, any permit applicant, there shall be posted\n               with the director, as security for said permit, a cash escrow or a letter of credit\n               in…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-298. - Security required; cash escrow or letter of credit.",
+        "a": "(a)\nUpon the effective date of this article, before the first permit required by this\n               article is issued to, or on behalf of, any permit applicant, there shall be posted\n               with the director, as security for said permit, a cash escrow or a letter of credit\n               in the amount of the total cost for the acquisition, installation, construction or\n               reconstruction of the Public Improvements and private storm infrastructure as approved\n               by the city. This security may be refunded to the applicant if the applicant has no\n               public improvements under performance warranty.\n(b)\nThe cash escrow or letter of credit shall be executed by the applicant as principal,\n               or by at least one surety upon whom service of process may be based in the state.\n               The cash escrow or letter of credit shall be conditioned upon the applicant fully\n               complying with all provisions of the city ordinances, rules, and regulations, and\n               upon payment of all judgments and costs rendered against the applicant for any material\n               violation of the city ordinances or state statutes that may be recovered against the\n               applicant by any person for damages arising out of any negligent or wrongful acts\n               of the applicant in the performance of work done pursuant to the permit. The city\n               may bring an action on the cash escrow or letter of credit on its own behalf or on\n               behalf of any person so aggrieved as beneficiary. The city manager or designee and\n               the city attorney as to form and as to the responsibility of the surety thereon prior\n               to the issuance of the permit must approve the cash escrow or letter of credit.\n(c)\nThe cash escrow or letter of credit shall remain at the amount specified herein until\n               the city has issued initial warranty acceptance and at that time the amount of cash\n               escrow or letter of credit shall be reduced to 20 percent of the actual construction\n               costs through the final warranty acceptance. In the event the city draws against the\n               security, the applicant in question shall replenish the security to the amount required\n               within 30 days after notice by the city to do so.\n(d)\nThis section shall not apply to franchise entities that have already posted a construction\n               bond or letter of credit or governmental entities.\n(Code 1981, § 27-207; Ord. No. 3717, § 1, 8-27-2001; Ord. No.\n4725\n, § 3, 5-4-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-298"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

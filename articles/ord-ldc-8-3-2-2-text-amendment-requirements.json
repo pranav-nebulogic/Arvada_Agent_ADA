@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "text",
+      "amendment",
+      "requirements",
+      "generally",
+      "initiation",
+      "land",
+      "development",
+      "code",
+      "amendments",
+      "initiated"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-2-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-2. LAND DEVELOPMENT CODE TEXT AMENDMENTS"
+  },
+  "content": {
+    "title": "8-3-2-2. Text amendment requirements.",
+    "summary": "A.\tGenerally.\n  1.\tInitiation of Land Development Code (Text) Amendments may be initiated by the Director, Planning Commission, City Council, or by application from any individual, business, or community group.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-2-2. Text amendment requirements.",
+        "a": "A.\tGenerally.\n  1.\tInitiation of Land Development Code (Text) Amendments may be initiated by the Director, Planning Commission, City Council, or by application from any individual, business, or community group. Except for Minor Text Amendments (see Table 8-2-2-2B.11), Text Amendments shall be processed in accordance with subparagraphs 2 and 3, below.\n  2.\tPlanning Commission's Review and Recommendation. Should the Planning Commission determine to proceed with further consideration of a proposed Text Amendment, it shall hold a public hearing thereon and, at the close of the public hearing, make a recommendation to the City Council based on the Approval Criteria. Notwithstanding the foregoing, the Planning Commission shall not be compelled to act upon any proposed Text Amendment initiated by application, but may, in an open meeting prior to scheduling a public hearing, determine to terminate any further consideration thereof.\n  3.\tCity Council Review and Decision. After receiving the recommendation of the Planning Commission, the City Council shall consider the proposed Text Amendment ordinance in accordance with the requirements of the City Charter with respect to the adoption of ordinances. At the close of all required public hearings, the City Council shall act to approve, approve with conditions, or deny the proposed Text Amendment, based on a determination that all the following Approval Criteria have been met:\n    a.\tThe proposed amendment is consistent with the Arvada Comprehensive Plan, or reflects conditions that have changed since the adoption of the Comprehensive Plan; and\n    b.\tThe proposed amendment is consistent with the Purposes of this Code.\nB.\tAdoption of Ordinance. Land Development Code (Text) Amendments, except for Minor Text Amendments, shall be approved in the form of ordinances."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

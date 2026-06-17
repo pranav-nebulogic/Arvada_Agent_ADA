@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-42-012",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "city",
+      "mowing",
+      "policy",
+      "open",
+      "space",
+      "large",
+      "areas",
+      "only",
+      "Parks Maintenance"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=42"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-is-the-city-s-mowing-policy-for-open-space",
+    "faq_category_name": "Parks Maintenance"
+  },
+  "content": {
+    "title": "What is the City's mowing policy for open space?",
+    "summary": "Large open space areas are only mowed once a year (if at all) to allow native grasses to thrive, which helps keep invasive species out. Native grasses can only thrive after they drop their seed heads. Mowing more often would interfere with and prevent that cycle. General open space mowing is done th…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What is the City's mowing policy for open space?",
+        "a": "Large open space areas are only mowed once a year (if at all) to allow native grasses to thrive, which helps keep invasive species out. Native grasses can only thrive after they drop their seed heads. Mowing more often would interfere with and prevent that cycle. General open space mowing is done three times a year; the initial mowing occurs along trails. Additional mowing along the trails is conducted where trail usage exceeds the width of the trail. Visit our Open Space and Natural Area Maintenance page for more information."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

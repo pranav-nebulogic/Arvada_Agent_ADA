@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-41-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "owns",
+      "irrigation",
+      "ditches",
+      "owned",
+      "collectively",
+      "shareholders",
+      "typically",
+      "part",
+      "Parks & Open Space - Ditches"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=41"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/who-owns-irrigation-ditches",
+    "faq_category_name": "Parks & Open Space - Ditches"
+  },
+  "content": {
+    "title": "Who owns irrigation ditches?",
+    "summary": "Ditches are owned collectively by shareholders who are typically part of an incorporated ditch company. The shareholders often include a mix of individuals, farms, municipalities, governmental agencies or industrial users.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Who owns irrigation ditches?",
+        "a": "Ditches are owned collectively by shareholders who are typically part of an incorporated ditch company. The shareholders often include a mix of individuals, farms, municipalities, governmental agencies or industrial users."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

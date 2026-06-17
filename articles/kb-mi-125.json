@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "benefits",
+      "package",
+      "quality",
+      "able",
+      "community",
+      "compensation",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/691/City-Benefits-and-Pay"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-125",
+    "spreadsheet_id": "MI-125",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "City Benefits and Pay",
+    "summary": "The City of Arvada offers a comprehensive benefits package for full-time and part-time employees working at least 30 hours per week, which includes health, wellness, and retirement benefits, as well as paid leave and flexible work options. The city's Total Compensation Philosophy aims to attract and retain a diverse workforce by providing competitive salaries and a supportive work environment, ensuring fiscal responsibility in managing these benefits. New hires become eligible for insurance coverage on the first day of the month following one full calendar month of employment.",
+    "body": "![City of Arvada Denver Post Top Work Places 2024](/ImageRepository/Document?documentId=7342)The City of Arvada values the contributions each employee makes every day toward the success of the organization and community. The importance of being able to provide our employees and their families with quality benefits as part of their overall compensation package is a high priority. As a result, the City has developed a comprehensive benefits package that delivers quality and value while satisfying the diverse needs of our workforce.\n\n## Eligibility\n\nTo be eligible, full-time and part-time employees who work a minimum of 30 hours per week are eligible for benefits for themselves, their spouse, their same-sex partner, and their dependent children. New hires are eligible for insurance the first day of the month following one full calendar month of employment following their hire date.\n\n## Benefits Summary\n\nThe [City of Arvada Employee Benefit Summary](https://www.arvadaco.gov/1288/City-of-Arvada-Benefits) is specifically designed to help you further understand the highlights of the benefit options offered. ([All health plan documents are also available in machine-readable format from UnitedHealthcare](https://transparency-in-coverage.uhc.com/))\n\n## Pay Plan\n\nThe [City of Arvada 2026 Pay Plan](/1467/City-of-Arvada-Pay-Plan) reflects the City's Total Compensation Philosophy. This philosophy includes being an employer of choice in the Denver/Boulder region by attracting and retaining highly talented and engaged employees. Developed in partnership with the members of City Council, this philosophy serves to guide staff in the management of the City's compensation practices. It ensures that the pay plan is updated with competitive market-based salaries, and managed in a manner that is fiscally responsible and within the City's ability to fund.\n\n## Total Compensation Philosophy\n\nThe City of Arvada’s Total Rewards Philosophy is grounded in our mission to be dedicated to delivering superior services to everyone in our community. We strive to attract and retain an engaged, diverse and inclusive workforce that embraces our mission, vision and values and shares a dedication to public service.\n\nTo accomplish this goal, the City of Arvada aims to be an employer of choice among similar employers in the Colorado Front Range. We are committed to offering a total rewards package that is focused on the wellbeing of our team members and is competitive, equitable and flexible to the many different needs of our diverse workforce and operations.\n\nAs a commitment to our community, all components of our total rewards program are managed in a manner that is fiscally responsible and within the City’s ability to fund.\n\n### Our total rewards package includes:\n\n- Competitive market-based salaries and performance-based pay increases\n- Robust health, wellness and retirement benefits\n- Comprehensive paid leave programs, including paid holidays, vacation, sick leave, and paid family and medical leave\n- Flexible work schedules and opportunities for remote and hybrid work (depending on position)\n- Opportunities for professional development and career advancement\n- A respectful, safe and inclusive work environment that focuses on people first.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

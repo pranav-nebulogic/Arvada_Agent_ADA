@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "food",
+      "retail",
+      "truck",
+      "vending",
+      "generally",
+      "allowed",
+      "provided",
+      "section",
+      "where",
+      "permitted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-4-5"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-4. TEMPORARY USES"
+  },
+  "content": {
+    "title": "3-1-4-5. Food and retail truck vending.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-4-5. Food and retail truck vending.",
+        "a": "A.\tGenerally. Food and retail truck vending is allowed as provided in this Section.\nB.\tWhere Permitted.\n  1.\tFood and retail truck vending is permitted in the following areas and under the following circumstances:\n    a.\tOn private property as provided in Section 3-1-4-2, Temporary Uses by Zoning District;\n    b.\tIn any park or public space (regardless of zoning district), if approved by the governmental entity exercising ownership or control thereof; and\n    c.\tIn a public street right-of-way (regardless of zoning district), subject to the limitations established in Subsection D.2., below.\n  2.\tNotwithstanding any provision herein to the contrary, allowing food and retail truck vending in a park, public space, or public street right-of-way shall be in the sole discretion of the governmental entity exercising ownership or control thereof.\nC.\tPermit Required. Except as otherwise provided herein, no person may engage in activities of food or retail truck vending without first obtaining a City of Arvada business license and a Food Truck Permit for food vendors or a Retail Vending Truck Permit. The approved temporary use permit shall be permanently displayed to the public in the food handling area of the food truck vending operation or in the retail area of a retail vending truck.\nD.\tStandards. The following rules and requirements shall apply to all food and retail truck vending:\n  1.\tHours of Operation. Hours of operation shall be between 6:00 a.m. and 11:00 p.m. unless a different time is specified in the temporary use permit.\n  2.\tLocation.\n    a.\tOperations shall not obstruct the visibility of motorists, nor obstruct parking lot circulation or block access to a public street, alley, or sidewalk.\n    b.\tOperations shall be located at least 50 feet from any residential use or mixed-use buildings where residential units are on the first floor as measured from the closest point of the food truck to the nearest property line of the residential unit, except as may otherwise be permitted pursuant to Subsection B.1.c., where permitted above.\n    c.\tFood and retail trucks may operate on private property provided they meet the following requirements:\n      i.\tThe operator must obtain prior written permission from the private property owner.\n      ii.\tThe food or retail truck must be parked on a paved surface outside of the public right-of-way.\n    d.\tOperations are prohibited on public street rights-of-way, except for the following:\n      i.\tFood and retail truck vending may be allowed in a public street right-of-way closed to vehicular traffic when a Special Event Permit has been issued for a special event requiring such closure.\n  3.\tRefuse.\n    a.\tOperators shall be responsible for the storage and daily disposal of all trash, refuse, and litter. All areas used for food and retail trucks shall be maintained in a safe and clean condition.\n    b.\tOperators shall not cause any liquid wastes used in the operation, with the exception of clean ice melt, to be discharged from the vehicle or structure.\n    c.\tThe food and retail trucks shall not be washed on location.\n  4.\tHealth Department Certificate.\n    a.\tOperators shall obtain a Health Department Certificate required by the Colorado Department of Public Health and Environment and other state and local agencies to operate a mobile retail food establishment.\n(Ord. No. 4793, § 2, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-4-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "generally",
+      "construction",
+      "comply",
+      "standards",
+      "division",
+      "unless",
+      "compliance",
+      "particular",
+      "standard"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-4-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-4. NATURAL HAZARDS AND ENVIRONMENTALLY-SENSITIVE AREAS"
+  },
+  "content": {
+    "title": "4-1-4-1. Purpose.",
+    "summary": "A.\tGenerally. New construction shall comply with the standards of this Division, unless compliance with a particular standard would prevent the construction of any permanent structure for a primary use on the land, or require the construction to violate another requirement of this LDC.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-4-1. Purpose.",
+        "a": "A.\tGenerally. New construction shall comply with the standards of this Division, unless compliance with a particular standard would prevent the construction of any permanent structure for a primary use on the land, or require the construction to violate another requirement of this LDC. Where more than one buildable site exists on a subject property and all buildable sites would violate at least one of the standards of this Division, the construction shall be located so as to comply with as many standards as possible.\nB.\tDisclaimer. These standards are considered reasonable for regulatory purposes and do not create liability on the part, or a cause of action against, the City.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

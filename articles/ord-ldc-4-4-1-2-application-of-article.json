@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "generally",
+      "divisions",
+      "within",
+      "chapter",
+      "applied",
+      "follows",
+      "division",
+      "access"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-4-1-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-4. ACCESS, CIRCULATION, MOBILITY, AND UTILITIES",
+    "division": "DIVISION 4-4-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "4-4-1-2. Application of article.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-4-1-2. Application of article.",
+        "a": "A.\tGenerally. The divisions within this Chapter are applied as follows:\n  1.\tDivision 4-4-2, Access and Site Circulation, sets out standards for how access to a subject property is to be provided, and how the circulation system within the subject property is to be designed.\n  2.\tDivision 4-4-3, Streets, establishes standards for the layout of streets.\n  3.\tDivision 4-4-4, Transit, establishes standards for connectivity to transit stops.\n  4.\tDivision 4-4-5, Utilities, establishes standards for the provision of utilities and utility easements.\nB.\tFire Codes. The access standards set out in and referred to by Division 4-4-2, Access and Site Circulation, may be modified by the City where necessary to ensure compliance with the current adopted Fire Code."
+      }
+    ],
+    "ordinance_refs": [
+      "4-4-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

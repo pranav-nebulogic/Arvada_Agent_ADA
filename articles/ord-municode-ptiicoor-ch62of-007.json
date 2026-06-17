@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "concealment",
+      "evidence",
+      "any",
+      "person",
+      "shall",
+      "willfully",
+      "conceal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-38"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-38. - Concealment as evidence.",
+    "summary": "If any person shall willfully conceal unpurchased goods, wares or merchandise owned\n               or held by and offered or displayed for sale by any store or other mercantile establishment,\n               whether such concealment is on his own person or otherwise and whether on or off the\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-38. - Concealment as evidence.",
+        "a": "If any person shall willfully conceal unpurchased goods, wares or merchandise owned\n               or held by and offered or displayed for sale by any store or other mercantile establishment,\n               whether such concealment is on his own person or otherwise and whether on or off the\n               premises of said store or mercantile establishment, such concealment shall constitute\n               prima facie evidence that such person intended to commit the crime of theft within\n               the meaning of\nsection 62-34\n.\n(Code 1960, § 17-5; Code 1981, § 21-7;\nOrd. No. 4077, § 5, 7-16-2007\n)\nState Law reference—\nConcealment of goods, C.R.S. § 18-4-406."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-38"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

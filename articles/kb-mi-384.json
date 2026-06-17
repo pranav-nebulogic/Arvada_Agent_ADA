@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "outdoor",
+      "watering",
+      "tips",
+      "save",
+      "water",
+      "sprinklers",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/597/Watering-Tips"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-384",
+    "spreadsheet_id": "MI-384",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Outdoor Watering Tips",
+    "summary": "Implementing small changes in landscaping and watering practices can significantly reduce outdoor water use and costs. Residents are encouraged to wait until May or June to activate sprinklers, water lawns twice a week, and utilize evening or early morning for watering to minimize evaporation. Additionally, following assigned watering days based on address and regularly checking for leaks can help conserve water during drought conditions.",
+    "body": "Small landscaping and habit changes can save water which reduces demand and can save money. Learn more about [**voluntary and mandatory watering restrictions**](/1499) that may be in place during extreme drought years.\n\n## Tips for Reducing Outdoor Water Use\n\n**![](/ImageRepository/Document?documentId=7257)Wait until May or June to turn on sprinklers** - Don't turn on sprinklers too early in the season. Leaving lawns dormant longer will save water, and will not compromise the longevity of your lawn. April is too early to go automatic, plan on programming your sprinkler system to start in May or June. Hand-water trees and plants as needed. Trees offer many benefits such as shade and habitat, and are often greatly impacted by drought, make sure to keep an eye out on your tree health and water them when needed.\n\n**![](/ImageRepository/Document?documentId=7388)Water twice a week** - Watering lawns twice a week will make grass roots grow deeper and allow the grass to last longer without water.\n\n**Stage 1 drought assigned lawn watering days** (see the[watering restrictions page](/1499) for more details)\n\n| Customer type | Assigned watering days |\n| --- | --- |\nWatering days by address\n\n| Single-family residential: **even-numbered addresses**(ex. 5560) | Sunday and Thursday |\n| Single-family residential: **odd-numbered addresses**(ex. 5561) | Wednesday and Saturday |\n| All others (including multifamily and commercial) | Tuesday and Friday |\n\n**![](/ImageRepository/Document?documentId=7254)Water in the evening, night, or early morning** - Watering landscapes in the early morning or at night will help reduce water loss. During the daytime heat, less water will be available to plants due to loss from evaporation and wind.\n\n**![](/ImageRepository/Document?documentId=7252)Cycle sprinkler system run times** - Instead of setting each zone to water for 15 minutes, set each zone to water for 5 minutes, for up to 3 cycles, and adjust accordingly. Colorado soils are less absorptive than many other areas so excessive watering creates wasteful runoff. Visual inspections after an initial watering cycle will make this apparent.\n\n**![](/ImageRepository/Document?documentId=7256)Let grass grow longer before cutting it**- Raise lawn mower blades and protect lawns from the heat by letting the grass grow longer (3 to 3.5 inches.) A taller lawn provides shade to the roots and helps retain soil moisture, so your lawn requires less water.\n\n**![](/ImageRepository/Document?documentId=7251)Water lawns, plants, and trees; not** **roads and sidewalks.**Prior to installing a costly chase drain or other solution, request an irrigation audit. In our arid environment, there should be no need to divert irrigation water. Sweep driveways and sidewalks with a broom instead of spraying with a hose - but please not down the storm drain or into the street gutter. Hand-water, deep root water, or drip irrigate trees, shrubs, bushes, perennial beds, annual flowers, and vegetable gardens. Always use a shut-off nozzle on your hose when watering plants.\n\n**![](/ImageRepository/Document?documentId=7258)When it rains, water accordingly**- Watch the weather and adjust watering days and times accordingly. Use soil moisture sensors to automatically adjust watering schedules when it rains. As a less accurate option, use rain sensors to stop sprinklers when it rains. Consider installing a WaterSense Smart Irrigation Controller.\n\n**![](/ImageRepository/Document?documentId=7255)Fix leaks.**Check your sprinkler system monthly for broken sprinkler heads and damaged irrigation lines. Hire a professional to conduct a sprinkler assessment. A well-maintained system will save both money and water.\n\n**![](/ImageRepository/Document?documentId=7250)Plan ahead and plan efficiently for new planting installation****.**If possible, delay new lawn installations for a non-drought year (even water-wise gardens require more water to get established) and avoid planting during the mid-summer heat. Incorporate water-wise plants and turf when planning landscape renovations or installations.\n\n## Resources for learning about low-water landscaping\n\n- **Resource Central**: The City of Arvada partners with Resource Central to offer [water saving programming](/602/Water-Saving-Programs) and discounts. [Resource Central](https://resourcecentral.org/) is a great source of tips and inspiration as you go low water outside.\n- **Plant Select**: [Plant Select](https://plantselect.org/)® provides plants designed to thrive in high plains and intermountain regions. Their website contains education and design resources as well as places to purchase Plant Select plants.\n- **Colorado State University Extension**: [CSU Extension](https://extension.colostate.edu/topic-areas/yard-garden/) provides many online resources to support residents in creating healthy, sustainable lawns and gardens.\n- **Demonstration Gardens**: These demonstrations can inspire changes to home landscaping. Majestic View Nature Center in Arvada and other locations such as Denver Botanic Gardens, Chatfield Gardens, and Hudson Gardens have areas showcasing native, low-water plants.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

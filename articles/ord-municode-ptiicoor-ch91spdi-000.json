@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "special",
+      "districts",
+      "footnotes",
+      "editor",
+      "note",
+      "ord",
+      "adopted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 91-1"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nEditor's note—\nOrd. No. 4815\n, § 1, adopted October 3, 2022, repealed the former Ch. 91, §§ 91-1—91-3, 91-10—91-17,\n               and enacted a new Ch. 91 as set out herein. The former Ch. 91 pertained to similar\n               subject matter and derived from\nOrd. No. 4080 …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 91 - SPECIAL DISTRICTS",
+        "a": "Footnotes:\n--- (\n1\n) ---\nEditor's note—\nOrd. No. 4815\n, § 1, adopted October 3, 2022, repealed the former Ch. 91, §§ 91-1—91-3, 91-10—91-17,\n               and enacted a new Ch. 91 as set out herein. The former Ch. 91 pertained to similar\n               subject matter and derived from\nOrd. No. 4080 § 1, 8-6-2007\n.\nCross reference—\nAdministration, ch. 2; planning and development, ch. 74."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 91-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

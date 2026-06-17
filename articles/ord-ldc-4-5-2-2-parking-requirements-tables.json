@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "parking",
+      "requirements",
+      "tables",
+      "residential",
+      "land",
+      "uses",
+      "required",
+      "street",
+      "table",
+      "standards"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-2-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-2. PARKING AND LOADING CALCULATIONS"
+  },
+  "content": {
+    "title": "4-5-2-2. Parking requirements tables.",
+    "summary": "A.\tResidential Land Uses. The required off-street parking for residential land uses is set out in Table 4-5-2-2A, Residential Land Use Parking Standards.\nB.\tSpecial Residential Land Uses.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-2-2. Parking requirements tables.",
+        "a": "A.\tResidential Land Uses. The required off-street parking for residential land uses is set out in Table 4-5-2-2A, Residential Land Use Parking Standards.\nB.\tSpecial Residential Land Uses. The required off-street parking for special residential land uses is set out in Table 4-5-2-2B, Additional Residential Land Use Parking Standards.\nC.\tHospitality, Recreation, and Entertainment Land Uses. The required off-street parking for hospitality, recreation, and entertainment land uses is set out in Table 4-5-2-2C, Hospitality, Recreation, and Entertainment Land Use Parking Standards.\nD.\tCommercial Land Uses. The required off-street parking for commercial land uses is set out in Table 4-5-2-2D, Commercial Land Use Parking Standards.\nE.\tCommunity, Civic, Educational, and Institutional Land Uses. The required off-street parking for community, civic, educational, and institutional land uses is set out in Table 4-5-2-2E, Community, Civic, Educational, and Institutional Land Use Parking Standards.\nF.\tIndustrial, Processing, Recycling, Storage, and Disposal Land Uses. The required off-street parking for industrial, processing, recycling, storage, and disposal land uses is set out in Table 4-5-2-2F, Industrial, Processing, Recycling, Storage, and Disposal Land Use Parking Standards.\nG.\tMotor Vehicle Land Uses. The required off-street parking for motor vehicle and transportation land uses is set out in Table 4-5-2-2G, Motor Vehicle Land Use Parking Standards.\nH.\tUtility and Wireless Telecommunications Land Uses. The required off-street parking for utility and wireless telecommunications land uses is set out in Table 4-5-2-2H, Utility and Wireless Telecommunications Land Use Parking Standards.\nI.\tAgricultural Land Uses. The required off-street parking for agricultural land uses is set out in Table 4-5-2-2I, Agricultural Land Use Parking Standards.\nJ.\tUnlisted Uses. For uses not listed in Section 4-5-2-2, Parking Requirements Tables, the Director shall have the authority to establish minimum and maximum parking standards based on similar uses to the proposed use.\n(Ord. No. 4793, § 3, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

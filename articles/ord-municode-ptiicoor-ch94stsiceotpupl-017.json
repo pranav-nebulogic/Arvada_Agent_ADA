@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contents",
+      "any",
+      "notice",
+      "served",
+      "accordance",
+      "provisions",
+      "chapter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-34"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-34. - Contents.",
+    "summary": "Any notice served in accordance with provisions of this chapter shall contain a specific\n               description of the work to be done, the plans and specifications to be followed or\n               the place where the same may be obtained, and shall specify the time within which\n               s…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-34. - Contents.",
+        "a": "Any notice served in accordance with provisions of this chapter shall contain a specific\n               description of the work to be done, the plans and specifications to be followed or\n               the place where the same may be obtained, and shall specify the time within which\n               such required repairs or reconstruction shall be completed, or if a hearing is conducted,\n               such repair or reconstruction shall be completed as determined by the hearing.\n(\nOrd. No. 4365, § 1, 11-19-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-34"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

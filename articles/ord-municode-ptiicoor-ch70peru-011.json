@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "employment",
+      "employee",
+      "rehired",
+      "city",
+      "within",
+      "calendar",
+      "months"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-39"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-39. - Re-employment.",
+    "summary": "(a)\nAn employee who is rehired at the city within 12 calendar months of a layoff or a\n               voluntary resignation may retain all leave accrual rates and compensation if reappointed\n               to the same position held prior to the separation from employment. Vesting in retirement\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-39. - Re-employment.",
+        "a": "(a)\nAn employee who is rehired at the city within 12 calendar months of a layoff or a\n               voluntary resignation may retain all leave accrual rates and compensation if reappointed\n               to the same position held prior to the separation from employment. Vesting in retirement\n               plan(s) upon rehire will be based upon the provisions of the appropriate retirement\n               plan document.\n(b)\nAn employee who is rehired to a different position than the position held prior to\n               a layoff or resignation within 12 calendar months of the separation from employment\n               will only retain their leave accrual rate. The employee's appointment rate will be\n               handled in the same manner as a new employee. Vesting in retirement plan(s) upon rehire\n               will be based upon the provisions of the appropriate retirement plan document.\n(c)\nRehired employees in either situation under subsection (a) or (b) will serve a probationary\n               period pursuant to\nsection 70-36\n(b) and will be treated in the same manner as a new employee for all other purposes.\n(d)\nEmployees who were involuntarily separated from the city for violations of city policies\n               or procedures or resigned in lieu of termination shall not be considered for rehire.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-39"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

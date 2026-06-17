@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "housing",
+      "authority",
+      "choice",
+      "voucher",
+      "program",
+      "section",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/438/Arvada-Housing-Authority---Housing-Choic"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-060",
+    "spreadsheet_id": "MI-060",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Housing Authority - Housing Choice Voucher Program (Section 8)",
+    "summary": "The Arvada Housing Authority has made the Annual PHA Plan for 2027 and proposed changes for 2026 available for public comment. Currently, the authority is not accepting applications for any of its voucher programs, including the Housing Choice Voucher Program, which provides rental assistance to low-income individuals and families. The authority emphasizes its commitment to equal housing opportunity and offers accommodations for individuals with disabilities.",
+    "body": "## Notice: Annual plan and proposed changes available for public comment\n\nThe [Annual PHA Plan for 2027](/DocumentCenter/View/7610) and [Draft Arvada Housing Authority Proposed Changes for 2026](/DocumentCenter/View/7611) are available for public comment. Please use the links to review the documents.\n\n## Housing Choice Voucher Program\n\n**Please be advised that the Arvada Housing Authority is not currently accepting applications for any of our voucher programs.** This includes the Housing Choice Voucher Program, Mainstream Voucher Program and Project Based Voucher Program.  Feel free to check back at a later date as we will post a public notice here when we are able to open our waitlist(s) to new applicants.\n\nThe Housing Choice Voucher (HCV) Program is a program that is federally regulated and funded by the [U.S. Department of Housing and Urban Development (HUD)](https://www.hud.gov/). This program offers rental assistance to very and extra low-income families, individuals, the elderly, and the disabled. This helps individuals to afford decent housing in the public market, which includes single-family homes, townhomes, and apartments. Housing assistance is provided in the form of rental subsidies. The HCV rental subsidies cover the difference between the participant's payment and the unit's market rent. Participants pay rent based on their income.\n\n## Equal Housing Opportunity\n\nThe Arvada Housing Authority does not discriminate on the basis of race, color, religion, sex, disability, sexual orientation, familial status, or national origin in the admission, access to, or treatment of its federally assisted programs. If you have a disability and need a reasonable accommodation, please contact the Arvada Housing Authority at 720-898-7494; Fax at 720-898-7490, or [email Dena Kothe](/cdn-cgi/l/email-protection#4226292d362a27022330342326236c2d3025).\n\n## Accommodations for Individuals with Disabilities\n\nIf you or a person in your household has a disability and needs a reasonable accommodation to fully participate in the Housing Choice Voucher program, please contact the Arvada Housing Authority at 720-898-7494 for more information.\n\n![](/ImageRepository/Document?documentID=454)\n\n![](/ImageRepository/Document?documentID=453)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

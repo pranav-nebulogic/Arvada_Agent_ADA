@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "concurrent",
+      "subdivision",
+      "process",
+      "generally",
+      "intent",
+      "division",
+      "requirements",
+      "review",
+      "procedures",
+      "seedivision"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-10-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-10. PLANNED UNIT DEVELOPMENT"
+  },
+  "content": {
+    "title": "8-3-10-3. Concurrent subdivision process.",
+    "summary": "A.\tGenerally. It is the intent of this Division that subdivision requirements and review procedures (seeDivision 8-3-8, Subdivisions), may be carried out simultaneously with a PUD application process.\nB.\tEffect upon Procedure.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-10-3. Concurrent subdivision process.",
+        "a": "A.\tGenerally. It is the intent of this Division that subdivision requirements and review procedures (seeDivision 8-3-8, Subdivisions), may be carried out simultaneously with a PUD application process.\nB.\tEffect upon Procedure. Development plans submitted for subdivision within a PUD zoning district shall meet the requirements for major subdivision preliminary plats and major subdivision final plats, or for minor subdivision final plats, as applicable, except that if a PUD is proposed in an existing subdivision and no changes are proposed in existing lot boundaries, public rights-of-way, or easements, and the proposed development will not require further subdivision of the original subdivision lot, no further subdivision approvals shall be required."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-10-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

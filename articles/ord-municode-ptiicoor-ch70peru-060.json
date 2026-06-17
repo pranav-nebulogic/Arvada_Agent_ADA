@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "jury",
+      "duty",
+      "city",
+      "recognizes",
+      "civic",
+      "responsibility",
+      "community"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-114"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-114. - Jury duty.",
+    "summary": "(a)\nThe city recognizes jury duty as a civic responsibility of our community. Health plan\n               eligible, variable hour, seasonal, probationary, and regular employees, who have worked\n               for the city for a minimum of three months within the previous 12 months of receiving\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-114. - Jury duty.",
+        "a": "(a)\nThe city recognizes jury duty as a civic responsibility of our community. Health plan\n               eligible, variable hour, seasonal, probationary, and regular employees, who have worked\n               for the city for a minimum of three months within the previous 12 months of receiving\n               a jury summons, are eligible for payment from the city during part or all of the employee's\n               jury duty service.\n(b)\nAll probationary and regular employees will be paid their normal salary for scheduled\n               workdays of jury duty. The salary paid will be based on the employee's scheduled hours.\n               The employee may keep any additional pay received from the court.\n(c)\nIf the employee has been selected for grand jury duty, the court pays a set amount\n               plus expenses beginning with the first day of service. In addition, the city will\n               pay a probationary or regular employee their regular scheduled salary. The employee\n               may keep any additional pay received from the court.\n(d)\nThe city will pay health plan eligible, variable hour, or seasonal employees for the\n               first three days of jury duty only. The health plan eligible, variable hour, or seasonal\n               employee will only be paid for time scheduled on those days. The employee may keep\n               any additional pay received from the court. Beginning with the fourth day of service,\n               the health plan eligible, variable hour, or seasonal employee will be paid a set amount\n               each day as pre-determined by the State of Colorado for jury duty service.\n(e)\nIf the employee is not scheduled to work on a day in which the employee is scheduled\n               to participate in jury duty, there will be no compensation from the city for that\n               day.\n(f)\nThe city will not reimburse employees for mileage, parking, or meals. Any payment\n               from the court may be kept.\n(g)\nAll employment benefits will remain the same during jury duty.\n(h)\nIf an employee is involved as a party or as a witness in litigation to which the city\n               is not a party, the employee may use any accrued vacation, holiday, or compensatory\n               time or, if no leave is available, seek approval for leave without pay.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-114"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

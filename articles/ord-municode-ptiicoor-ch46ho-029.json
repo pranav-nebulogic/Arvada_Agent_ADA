@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "form",
+      "bonds",
+      "general",
+      "procedures",
+      "authority",
+      "shall",
+      "authorized"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-58"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-58. - Form of bonds; general procedures.",
+    "summary": "The bonds of the authority shall be authorized by its resolution and issued in one\n               or more series, and they shall bear such dates, mature at such times, not exceeding\n               60 years from their respective dates, bear interest at such rate, payable semiannually,\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-58. - Form of bonds; general procedures.",
+        "a": "The bonds of the authority shall be authorized by its resolution and issued in one\n               or more series, and they shall bear such dates, mature at such times, not exceeding\n               60 years from their respective dates, bear interest at such rate, payable semiannually,\n               be in such denominations, which may be made interchangeable, be in such form, either\n               coupon or registered, carry such registration privileges, be executed in such manner,\n               be payable in such medium of payment, at such places and be subject to such terms\n               of redemption, with or without premium, as such resolution or its trust indenture\n               or mortgage may provide. The bonds may be sold at public sale held upon such terms\n               and conditions as the authority shall determine. The bonds may be sold at such price\n               as the authority shall determine.\n(Code 1981, § 14-27; Ord. No. 1248, § 13(1), 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-215(1)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-58"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

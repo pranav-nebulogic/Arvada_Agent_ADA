@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "proclamations",
+      "proclamation",
+      "council",
+      "issued",
+      "acknowledgement",
+      "appreciation",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1121/Proclamations"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-428",
+    "spreadsheet_id": "MI-428",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Proclamations",
+    "summary": "A proclamation is an official document from the Arvada City Council that recognizes significant events or milestones in the community, presented during City Council meetings. Individuals and organizations within Arvada can request a proclamation at least 30 days in advance, providing necessary details such as contact information and draft language. Proclamations are not for commercial promotion and are limited to one per subject matter each year.",
+    "body": "## What is a proclamation?\n\nA proclamation is an official document issued by the Arvada City Council to bring recognition, awareness, or appreciation to a noteworthy event or milestone significant to the Arvada community. They can be issued for one day, week, or month.  Proclamations are publicly read at City Council business meetings and are presented to a representative(s) of the acknowledgement during the meeting.\n\n## Who can make a proclamation request?\n\nIndividuals and organizations located within the city of Arvada are eligible to submit a proclamation request. National or regional events are eligible if there is a local partner.\n\n## How far in advance do I need to submit my request?\n\nAll proclamation requests must be submitted at least 30 days in advance of the date of the acknowledgement. Requests submitted after 30 days may not be fulfilled.\n\n## What will I need to include in my request?\n\n- Name, contact information, and a brief summary of the individual or organization requesting the proclamation\n- Draft language for the proclamation\n- Day(s)/week/month being proclaimed\n- Name and contact information of the individual(s) accepting the proclamation at the scheduled City Council meeting\n\n## What else do I need to know?\n\nApproved proclamations are read at regular session City Council meetings (typically on the first and third Tuesday of each month) and presented to the individual/individuals accepting the proclamation.\n\n- Proclamations may not be used for advertisement or commercial promotion.\n- Issuance of a proclamation does not indicate or imply a policy endorsement from the Arvada City Council.\n- Requests for proclamations are not renewed annually and must be submitted each year.\n- Only one proclamation per year will be issued per subject matter.\n- Draft language submitted should be factually accurate and include up-to-date information.\n- Any draft language provided may be edited or rewritten at the discretion of City staff. The City of Arvada reserves the right to modify or deny any proclamation request.\n\n## How do I request a proclamation be added to an upcoming City Council Meeting?\n\nFill out a [Proclamation Request Form](https://arvada-forms-city-council.app.transform.civicplus.com/forms/42001).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

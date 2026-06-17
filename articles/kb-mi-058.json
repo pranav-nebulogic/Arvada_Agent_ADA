@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "fire",
+      "protection",
+      "district",
+      "afpd",
+      "installation",
+      "safety",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/553/Arvada-Fire-Protection-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-058",
+    "spreadsheet_id": "MI-058",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Fire Protection District",
+    "summary": "The Arvada Fire Protection District (AFPD) operates independently from the City of Arvada, providing fire protection, emergency medical services, and other assistance through an intergovernmental agreement. In addition to serving Arvada, the AFPD also covers parts of Wheat Ridge and unincorporated Jefferson County, offering free services such as home safety visits, smoke detector checks and installations, child safety seat installations, and a Citizen Fire Academy.",
+    "body": "The Arvada Fire Protection District (AFPD) is independent. They are not run by the City of Arvada. The AFPD serves the City through an intergovernmental agreement. They provide fire protection, emergency medical, and other services. The AFPD also serves a large areas of Wheat Ridge and unincorporated Jefferson County.\n\nThe AFPD provides the following free services:\n\n- Home Safety Visits\n- Smoke Detector Check and Installation\n- Child Safety Seat Installation\n- Citizen Fire Academy\n\nVisit the [Arvada Fire site](https://www.arvadafireco.gov/).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

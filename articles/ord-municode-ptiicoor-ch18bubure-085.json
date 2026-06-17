@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "general",
+      "hereby",
+      "amended",
+      "include",
+      "additional",
+      "subsection"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-213"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-213. - I.R.C. Section AM101.1, General.",
+    "summary": "Section AM101.1 General,\nis hereby amended to include an additional subsection as follows:\n\"\nAM101.1.1. Fire sprinkler systems.\nA fire sprinkler system in accordance with Section R313 shall be installed when the\n                  home day care is licensed by the State of Colorado for the custodial c…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-213. - I.R.C. Section AM101.1, General.",
+        "a": "Section AM101.1 General,\nis hereby amended to include an additional subsection as follows:\n\"\nAM101.1.1. Fire sprinkler systems.\nA fire sprinkler system in accordance with Section R313 shall be installed when the\n                  home day care is licensed by the State of Colorado for the custodial care of more\n                  than 8 occupants.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-213"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

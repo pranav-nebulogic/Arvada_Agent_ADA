@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "applicability",
+      "generally",
+      "provisions",
+      "article",
+      "apply",
+      "display",
+      "construction",
+      "installation",
+      "erection",
+      "alteration"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-2-1"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-2. APPLICABILITY; EXEMPTIONS; PERMIT EXCEPTIONS; SIGN DISTRICTS; AND MEASUREMENTS"
+  },
+  "content": {
+    "title": "6-1-2-1. Applicability.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-2-1. Applicability.",
+        "a": "A.\tGenerally. The provisions of this Article shall apply to the display, construction, installation, erection, alteration, use, location, maintenance, and removal of all signs within the City that are not specifically exempt from such application pursuant to Section 6-1-2-2, Exemptions and Partial Exemptions.\nB.\tPermit Requirement. No sign shall be displayed, constructed, installed, erected, or altered within the City limits until the City has issued a sign permit, unless the sign qualifies as an exception to the permit requirements pursuant to Section 6-1-2-3, Permit Exceptions."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "unsafe",
+      "structures",
+      "hereby",
+      "amended",
+      "adding",
+      "following"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-476"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-476. - I.P.M.C. Section 108.1.1, Unsafe structures.",
+    "summary": "Section 108.1.1. Unsafe structures,\nis hereby amended by adding the following exception:\n\"\n108.1.1. Unsafe structures.\nAn unsafe structure is one that is found to be dangerous to the life, health, property\n                  or safety of the public or the occupants of the structure by not providing m…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-476. - I.P.M.C. Section 108.1.1, Unsafe structures.",
+        "a": "Section 108.1.1. Unsafe structures,\nis hereby amended by adding the following exception:\n\"\n108.1.1. Unsafe structures.\nAn unsafe structure is one that is found to be dangerous to the life, health, property\n                  or safety of the public or the occupants of the structure by not providing minimum\n                  safeguards to protect or warn occupants in the event of fire, or because such structure\n                  contains unsafe equipment or is so damaged, decayed, dilapidated, structurally unsafe\n                  or of such faulty construction or unstable foundation, that partial or complete collapse\n                  is possible.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-476"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

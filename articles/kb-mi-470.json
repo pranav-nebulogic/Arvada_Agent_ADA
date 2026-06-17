@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "request",
+      "post",
+      "content",
+      "channels",
+      "form",
+      "publication",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1514/Request-to-Post-Content-on-City-of-Arvad"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-470",
+    "spreadsheet_id": "MI-470",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Request to Post Content on City of Arvada Channels",
+    "summary": "To request publication in City of Arvada channels, including the Arvada Report and ArvadaNews, individuals must fill out a specific form and provide advance notice—six weeks for print, two weeks for the newsletter, and one week for social media. Only organizations with a contractual relationship with the City or those that have received City grants within the past year can submit requests, and while submissions are considered, there is no guarantee of publication as editorial decisions are made based on policy guidelines.",
+    "body": "## Use [this form to request publication](https://arvada.form.transform.civicplus.com/64415) in City of Arvada channels, including:\n\n- The Arvada Report, a print publication mailed to Arvada households every other month\n- ArvadaNews, a digital newsletter emailed to subscribers every other week\n- Re-posts on City of Arvada social media channels\n\n### How much advance notice do you need?\n\nSubmit this form as early as possible, as we have long lead times for the Arvada Report print publication, especially. Please give us, at minimum:\n\n- Six weeks' notice for print content\n- Two weeks' notice for ArvadaNews newsletter content\n- One week notice for social media re-posts.\n\n### Who can request publication on City channels?\n\nThe City posts 3rd-party content when there is a contractual relationship with Arvada. This means the City has a written agreement with a nonprofit, charitable foundation, or organization under which the organization provides goods and services to the City or its residents, or when the City provides goods and services to the organization. When an organization has received a grant of City funds, the organization may also request publication on City channels within one year of receiving the grant. We will also share content from other government agencies. We will CONSIDER content from other nonprofit agencies that don't violate our policy.\n\n[City of Arvada Policy for Displaying or Posting Third-Party Content on City Platforms](https://library.municode.com/co/arvada/ordinances/city_council_policy_manual?nodeId=1384327)\n\n### If I submit this form, is my content guaranteed a spot?\n\nNo, we can't guarantee that we will have space in these channels, and the City makes editorial decisions based on policy guidelines.\n\n### Questions?\n\n[Email Sara Fall](/cdn-cgi/l/email-protection#6a190c0b06062a0b181c0b0e0b4405180d)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

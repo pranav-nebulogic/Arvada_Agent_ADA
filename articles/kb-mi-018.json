@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "miles",
+      "public",
+      "parks",
+      "residents",
+      "schools",
+      "trails",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/598/About-Arvada"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-018",
+    "spreadsheet_id": "MI-018",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "About Arvada",
+    "summary": "Arvada has a population of 120,492 residents and encompasses 39.52 square miles, with 45,246 households. The city features over 150 miles of off-street bicycle and pedestrian trails, 4,200 acres of parks and open space, and 96% of residents live within half a mile of a park. Arvada operates under a Council/Manager form of government and is served by Jefferson County Public Schools.",
+    "body": "## Arvada at a Glance\n\n| Demographic | Information |\n| --- | --- |\n| Households | 45,246 |\n| Residents | 120,492 |\n| Square Miles | 39.52 |\n| Median Age | 41.8 years old |\n| Parks | 96% residents within 1/2 mile of an Arvada park |\n| Miles of Bicycle / Pedestrian Trails | 150+ miles of off-street trails |\n| Acres of Parks and Open Space | 4,200 |\n| Public Golf Courses | 3 |\n| Public Schools | [Jefferson County Public Schools](https://www.jeffcopublicschools.org/) |\n| Form of Government | Council / Manager |\n\n[Additional statistical information about the City of Arvada.](https://arvadaeconomicdevelopment.org/intel/data/) If you are looking for census data for the City of Arvada, please visit the [U.S. Census: City of Arvada](https://www.census.gov/quickfacts/fact/table/arvadacitycolorado/PST045216).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

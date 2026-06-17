@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "police",
+      "uniforms",
+      "face",
+      "identification",
+      "officer",
+      "policies",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1482/Police-Uniforms"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-418",
+    "spreadsheet_id": "MI-418",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Police Uniforms",
+    "summary": "The Arvada Police Department emphasizes transparency and professionalism in its uniform and identification policies, requiring all uniformed officers to display their badges, nameplates, and rank insignia. Specific regulations govern the appearance of uniforms and the use of protective equipment, including face coverings, which are permitted in certain operational contexts with supervisory approval. The department encourages community members to review its policies online for a better understanding of these standards.",
+    "body": "## Uniforms, Identification, and Face Covering Policies\n\nThe Arvada Police Department is committed to transparency, professionalism and accountability. We understand that community members may have questions about officer uniforms, identification requirements and when face coverings may be worn.\n\nThis page provides information about our uniform standards, how officers are identified, and what policies govern protective equipment.\n\n### How to Identify an Arvada Police Officer\n\nArvada Police uniforms come in different styles and variations, but they all serve the same purpose: clearly identifying the officers who are here to protect and serve our community. From standard patrol uniforms to specialized unit gear, each uniform helps officers perform their duties safely and effectively.\n\nWhile assignments may vary, all uniformed personnel are required to display clear identification.\n\nUnder our Police Uniform Regulations policy (PM 1046):\n\n- All uniformed employees must wear their assigned badge.\n- Sworn and civilian-sworn (e.g. Animal Management Officers) personnel must wear a regulation nameplate displaying their last name and first initial.\n- Rank insignia must be worn at all times while in uniform.\n- Non-uniformed officers conducting enforcement activities must clearly display their badge in the chest area using a neck lanyard or similar device.\n- All employees are issued department identification cards and must display identification in a courteous manner upon request when acting in an official capacity.\n\nLimited exceptions to visible identification may occur in narrowly defined circumstances, such as approved undercover assignments, where overt identification would compromise officer safety or the success of an investigation. These exceptions require supervisory authorization.\n\nPhotos below show examples of our standard patrol uniforms, load-bearing vest configuration, and specialized unit attire.\n\n![Different employees in role specific uniforms](/ImageRepository/Document?documentId=7146)\n\n### Uniform Standards and Professional Appearance\n\nThe Department maintains detailed uniform and equipment standards to ensure officers are readily identifiable and present a professional appearance.\n\nUniform items and accessories are strictly regulated. Employees may not wear unauthorized items, alter their uniforms or use unapproved equipment without authorization. Supervisors conduct inspections to ensure compliance with policy.\n\nCertain specialized units (such as SWAT, K-9, accident investigators, motorcycle officers, etc.) may wear authorized uniforms appropriate to their operational needs. These uniforms remain clearly marked as law enforcement attire.\n\n### Face Coverings and Protective Equipment\n\nQuestions have arisen regarding masking and facial coverings. Temporary face coverings may be worn in specific operational contexts, including:\n\n- Specialized tactical assignments\n- Hazardous or high-risk environments\n- Weather-related protection\n- Approved medical reasons\n\nThese decisions are not self-regulated. The use of protective equipment, including face coverings, is governed by Department policy and, when required, supervisor authorization.\n\nProtective equipment is intended to balance officer safety, operational effectiveness and public transparency. Any limited exceptions to visible identification, including circumstances involving protective gear, are clearly defined in policy and subject to supervisory oversight.\n\n### Transparency and Public Access\n\nMany Arvada Police Department policies, including the full Police Uniform Regulations (PM 1046), are publicly available and [can be viewed online](https://public.powerdms.com/APD10/documents/827864).\n\nWe encourage residents to review these policies to better understand the detailed requirements and accountability standards that govern officer uniforms and equipment.\n\nIf you have additional questions about uniforms or identification, please contact the Arvada Police Department.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

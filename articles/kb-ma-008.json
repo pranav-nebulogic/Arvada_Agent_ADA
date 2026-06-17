@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "special event",
+      "outdoor event",
+      "amplification",
+      "event permit",
+      "Main"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/663/Special-Event-Permits"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/ma-008",
+    "spreadsheet_id": "MA-008",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Special Event Permits",
+    "summary": "A temporary special event permit is required for events with over 100 attendees, involving amplification or lighting, featuring temporary structures or amusement rides, or requiring traffic control. Event organizers must comply with the Americans With Disabilities Act (ADA) guidelines to ensure accessibility, including proper parking, pathways, restrooms, seating, and communication methods. An ADA Liaison should be designated to assist with accessibility inquiries and ensure effective communication throughout the event.",
+    "body": "You need a temporary special event permit if any of the following criteria are met:\n\n1. Your event is expected to have more than 100 attendees at any one time\n2. Your event involves amplification (of music or speech) and/or lighting\n3. Your event involves temporary structures (other than canopies and tables) or amusement rides\n4. Your event involves traffic control\n\nYou must also ensure that your event complies with the guidelines in the Americans With Disabilities Act (ADA). **Follow the guidance on the** [**Special Events ADA Checklist page**](https://www.arvadaco.gov/1322/Special-Events-ADA-Checklist).\n\n\n## Special Events ADA Checklist\nMake your events accessible to everyone\nThe event coordinator is responsible for complying with all applicable guidelines, laws and regulations.\n\nCreating an accessible event makes it better for everyone. This list will help you make your event inclusive for attendees, volunteers, and staff. Consider printing this page and checking off each of the following for your event.\n\n## Parking & Route\n\n### ☐ Parking & Transportation\n- Clearly identify accessible parking locations.\n- Ensure accessible parking provides the **shortest accessible route** from parking to the event entrance.\n- Identify and communicate accessible public transportation routes serving the event.\n\n### ☐ Pathway\n- Identify the accessible pathway from parking areas or public transportation stops to the event entrance.\n- Verify the route includes:\n  - Curb ramps where needed.\n  - Smooth, stable, and relatively flat surfaces.\n  - No temporary barriers or obstructions.\n\n### ☐ Entrance\n- Clearly mark the accessible entrance.\n- If a door or gate is present, ensure:\n  - Appropriate door pull force.\n  - Appropriate closing speed.\n  - An automatic door is available, if possible.\n- If accessibility is uncertain:\n  - Consider propping the door or gate open.\n  - Assign a staff member to assist by opening the door for attendees.\n\n---\n\n## Facilities\n\n### ☐ Restrooms\n- Clearly mark accessible restrooms.\n- Accessible restrooms should include:\n  - An entry door with a minimum width of **32 inches**.\n  - At least one large accessible stall.\n- Ensure the restroom is located along an accessible route.\n\n### ☐ Seating\n- Designate an accessible seating area.\n- Accessible seating should represent **at least 2% of total available seating**.\n- For standing-room-only events, provide a designated seating area for attendees with mobility disabilities.\n\n### ☐ Temperature\n- For outdoor events, monitor and plan for temperature fluctuations.\n- Consider providing:\n  - Cooling tents or shaded areas.\n  - Warming tents or heated areas.\n  - Access to water and other comfort resources.\n- A medical or safety tent may also serve this purpose.\n\n### ☐ Sign Language Interpreter\n- Designate a seating/viewing section for Deaf and hard-of-hearing attendees.\n- Ensure this area provides a clear line of sight to:\n  - The sign language interpreter.\n  - Captioning displays, if provided.\n- Plan lighting so the interpreter remains clearly visible throughout the event.\n\n---\n\n## Communication\n\n### ☐ ADA Liaison\n- Designate an ADA Liaison for the event.\n- Include the ADA Liaison's contact information in all event communications.\n- Ensure attendees can easily reach out with accessibility questions, concerns, or accommodation requests.\n- The City of Arvada Special Events and Public Arts Manager can provide consultation or support as needed.\n\n### ☐ Effective Communication\n- Ensure all event communications are accessible across all formats, including:\n  - Websites\n  - Email\n  - Print materials\n  - Radio\n  - Television\n- Consider accessibility features such as:\n  - Screen reader compatibility\n  - ASL interpretation\n  - Alternative text for images\n  - Plain language content\n\n### ☐ Accessibility Statement\n- Include an accessibility statement in all publicity and promotional materials.\n\n**Example Accessibility Statement**\n\n> We are committed to creating an inclusive and accessible environment for all attendees. We strive to provide an event that is welcoming, accommodating, and supportive of diverse accessibility needs. To request a disability-related accommodation, please contact the event organizer or ADA Liaison at least three business days before the event.\n\n---\n\n## Tip\n\n💡 **Provide a space for accommodation requests on event flyers and registration forms.** This helps communicate that people of all abilities are welcome and that accommodations will be provided whenever possible.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

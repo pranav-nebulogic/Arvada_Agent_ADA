@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "friends",
+      "majestic",
+      "view",
+      "community",
+      "fundraising",
+      "awareness",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1283/Friends-of-Majestic-View"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-237",
+    "spreadsheet_id": "MI-237",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Friends of Majestic View",
+    "summary": "Friends of Majestic View, Inc. (MVF) was established in early 2024 to support the Majestic View Nature Center in Arvada by providing community input and fundraising assistance. The organization aims to raise awareness of environmental education and finance future needs through donations and events, currently focusing on funding the construction of the new Oberon Classroom by selling personalized bricks for installation around the nature center.",
+    "body": "The [Friends of Majestic View, Inc.](https://www.majesticviewfriends.org/) (MVF or “Majestic View Friends”) was created in early 2024 and was established to provide the City of Arvada’s Majestic View Nature Center with valuable community input on priorities and community visions and support with fundraising. The MVF mission is to **raise awareness** in the community and City Council of the importance of environmental education and to **help finance future needs through donations, fundraising events and grants** in order that the Majestic View Nature Center can fulfill their mission to inspire human-nature connections.\n\nMVF is made up of a committed group of volunteers who work to further Nature Center’s initiatives in the Arvada community. At the most fundamental level, MVF is tasked with the important role of helping the City of Arvada implement the vision outlined in the Majestic View Master Plan.\n\nCurrently, MVF is raising funds to support the construction of the new [Oberon Classroom](https://www.arvadaco.gov/1168/Oberon-Classroom-Project) by selling personalized bricks. The bricks will be installed in a location around the nature center and new classroom.\n\n[Click here to learn more about buying a brick.](https://www.majesticviewfriends.org/buy-a-brick)\n\n![Friends of Majestic View logo](/ImageRepository/Document?documentID=5372 \"Friends of Majestic View logo\")",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

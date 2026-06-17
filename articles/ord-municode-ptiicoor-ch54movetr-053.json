@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "intent",
+      "city",
+      "council",
+      "hereby",
+      "finds",
+      "declares"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-211"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-211. - Legislative intent.",
+    "summary": "The city council hereby finds and declares that abandoned or inoperable vehicles left\n               upon public or private property are detrimental to the public health, safety, and\n               general welfare of the citizens and of the municipality. The city council also finds\n               an…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-211. - Legislative intent.",
+        "a": "The city council hereby finds and declares that abandoned or inoperable vehicles left\n               upon public or private property are detrimental to the public health, safety, and\n               general welfare of the citizens and of the municipality. The city council also finds\n               and declares that vehicles that may contain evidence or otherwise have evidentiary\n               value and that are left upon public or private property are detrimental to the public\n               health, safety, and general welfare of the citizens and of the municipality. The city\n               council also hereby finds and declares that regulation of such vehicles on public\n               or private property is necessary to ensure the general welfare of the people and is\n               a permissible regulation of the aesthetics of the community.\n(\nOrd. No. 4384, § 4, 4-15-2013\n;\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-211"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

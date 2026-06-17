@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rebate",
+      "schedule",
+      "payment",
+      "finance",
+      "director",
+      "shall",
+      "create"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-155"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-155. - Rebate schedule; payment schedule.",
+    "summary": "(a)\nRebate schedule.\nThe finance director shall create and maintain an administrative rebate schedule\n               determining the amounts to be paid to a qualified applicant and any qualified household\n               member in a particular fiscal year. The finance director shall review the rebate…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-155. - Rebate schedule; payment schedule.",
+        "a": "(a)\nRebate schedule.\nThe finance director shall create and maintain an administrative rebate schedule\n               determining the amounts to be paid to a qualified applicant and any qualified household\n               member in a particular fiscal year. The finance director shall review the rebate schedule\n               on an annual basis and make any necessary changes.\n(b)\nPayment.\nThe finance director shall pay a qualified applicant and any household member an\n               amount consistent with the administrative rebate schedule using a payment method determined\n               to be appropriate by the finance director.\n(1)\nIf the qualified applicant or household member has resided in the city for the entire\n               fiscal year for which the applicant is applying, the qualified applicant or household\n               member is entitled to receive the full amount stated in the rebate schedule.\n(2)\nIf the qualified applicant or household member has resided in the city for less than\n               the entire fiscal year for which the applicant is applying, the qualified applicant\n               or household member is entitled to receive the amount stated in the rebate schedule\n               multiplied by the result of the number of months the qualified applicant or household\n               member has lived in the city divided by 12.\n(\nOrd. No. 4887\n, § 1, 1-27-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-155"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

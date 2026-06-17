@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "valet",
+      "parking",
+      "operation",
+      "public",
+      "right",
+      "way",
+      "facilities"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-281"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-281. - Valet parking operation on public right-of-way or in public facilities.",
+    "summary": "Valet parking services may operate upon or using a public right-of-way or facility\n               if all of the following conditions are met prior to the start of valet operations:\n(a)\nA conditional use permit must be requested by the valet parking services operator\n                  and issued by t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-281. - Valet parking operation on public right-of-way or in public facilities.",
+        "a": "Valet parking services may operate upon or using a public right-of-way or facility\n               if all of the following conditions are met prior to the start of valet operations:\n(a)\nA conditional use permit must be requested by the valet parking services operator\n                  and issued by the traffic engineer;\n(b)\nThe drop-off and pick-up 'valet stand' location must be approved by the traffic engineer.\n                  The number of spaces allowed for use may not use more than the number of spaces as\n                  designated by the traffic engineer;\n(c)\nVehicles, persons, or equipment associated with the valet operation may not impact\n                  or impede pedestrian or vehicle traffic flow or create pedestrian or traffic hazards;\n(d)\nValet equipment located within a sidewalk or other public pedestrian path must be\n                  located so that the minimum width for an accessible route required by the State of\n                  Colorado, City of Arvada, and Americans with Disabilities Act;\n(e)\nThe city may temporarily suspend the valet service if it is deemed by the traffic\n                  engineer or a peace officer to be impeding foot or vehicular traffic or otherwise\n                  negatively impacting traffic conditions. Valet service may not resume until the operation\n                  is corrected in a manner that is deemed acceptable to the city;\n(f)\nTemporary suspension or relocation of the valet stand may be required at the direction\n                  of the traffic engineer in order to facilitate any local street closures, maintenance,\n                  repairs, or other unanticipated circumstances which may arise;\n(g)\nOn-street parking spaces shall not be used for parking of vehicles by the valet operator;\n(h)\nThe valet operator shall indemnify, defend and hold harmless the City for any legal\n                  actions, judgments, claims, costs or expenses against the valet operator that occur\n                  as result of the valet operator's operation. This includes circumstances that arise\n                  from a vehicle being located in the public right-of-way or in the City's parking facilities\n                  when the valet operator has control of a vehicle resulting from their operations;\n                  and\n(i)\nOff-street parking areas shall not be blocked off or reserved for the exclusive use\n                  of the valet operator unless arrangements have been made and agreed upon by the city.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-281"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

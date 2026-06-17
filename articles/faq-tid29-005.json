@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-29-006",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "reasonable",
+      "accommodation",
+      "ffha",
+      "ada",
+      "prohibit",
+      "discrimination",
+      "requiring",
+      "local",
+      "Group Homes"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=29"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-is-reasonable-accommodation",
+    "faq_category_name": "Group Homes"
+  },
+  "content": {
+    "title": "What is \"reasonable accommodation\"?",
+    "summary": "The FFHA and the ADA prohibit discrimination by requiring local governments to make \"reasonable accommodations\" in their rules, policies, practices, or services when necessary to give people with disabilities equal housing opportunities. Courts have consistently ruled that this requirement applies t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What is \"reasonable accommodation\"?",
+        "a": "The FFHA and the ADA prohibit discrimination by requiring local governments to make \"reasonable accommodations\" in their rules, policies, practices, or services when necessary to give people with disabilities equal housing opportunities. Courts have consistently ruled that this requirement applies to zoning and other land use regulations. In the context of Sober Living Facilities that house individuals with disabilities, in order to comply with federal law, cities must provide these residents with a reasonable accommodation upon request, which is generally done in the form of an adjustment to zoning regulations. The Arvada Land Development Code authorizes the Arvada Community Development Director to modify the limits on the number of non-related occupants allowed in a home, such as a Sober Living Facility. Allowing more occupants to reside in the home provides a reasonable accommodation for individuals recovering from drug addiction and/or alcoholism. This ensures that the City is in compliance with federal regulations."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

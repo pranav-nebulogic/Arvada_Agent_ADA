@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "right",
+      "schedule",
+      "service",
+      "main",
+      "sewer",
+      "water",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1464/Right-of-Way-ROW-Fee-Schedule"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-480",
+    "spreadsheet_id": "MI-480",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Right of Way (ROW) Fee Schedule",
+    "summary": "The Right of Way (ROW) Fee Schedule for Arvada City, effective January 1, 2026, outlines various fees for permits and services related to public improvements. Fees include $225 for a Municipal General Contractor’s License and range from $0.15 to $1.60 per linear foot or square foot for different types of utility and infrastructure work, with a minimum fee of $67 for most services. Additional fees apply for unpermitted work, and specific charges are set for traffic control plan reviews based on roadway classification.",
+    "body": "## Fee schedule\\* for Right of Way work permits and services as pursuant to Chapter 78, Public Improvements, of the Arvada City Code effective January 1, 2026\n\n| Permit or Service | Fee |\n| --- | --- |\n2026 ROW Fee Schedule\n\n| Municipal General Contractor’s License | $225.00 |\n| Sewer Main | $.67/LF ($67.00 min) |\n| Water Main | $.67/LF ($67.00 min) |\n| Fire line | $.67/LF ($67.00 min) |\n| Utility Service Connection | $67.00/EA |\n| Water Service | $67.00/EA |\n| Sewer Service | $67.00/EA |\n| Irrigation Service | $67.00/EA |\n| Water Service Disconnect | $67.00/EA |\n| Sewer Service Disconnect | $67.00/EA |\n| Storm Sewer - Public | $.67/LF ($67.00 min) |\n| Storm Sewer - Private | $.67/LF ($67.00 min) |\n| Irrigation Main | $.67/LF ($67.00 min) |\n| Combination Curb, Gutter, & Walk | $.55/LF ($67.00 min) |\n| Bike Trail | $.55/LF ($67.00 min) |\n| Detached Walk | $.55/LF ($67.00 min) |\n| Vertical Curb & Gutter | $.55/LF ($67.00 min) |\n| Structure (Surface Area - medians, pavers, retaining walls, etc.) | $1.60/SF ($67.00 min) |\n| Crosspan/Curb Cut | $79.00/EA |\n| Paving | $.20/SY ($67.00 min) |\n| Asphalt Patch | $.20/SY ($67.00 min) |\n| Street Subgrade | $.20/SY ($67.00 min) |\n| Street Subbase | $.20/SY ($67.00 min) |\n| ADA Ramps | $79.00/EA |\n| Milling | $.20/SY ($67.00 min) |\n| Inlets - Public | $67.00/EA |\n| Inlets - Private | $67.00/EA |\n| Vaults - Public | $67.00/EA |\n| Manhole | $67.00/EA |\n| Outlet Structures - Private | $67.00/EA |\n| Minimum Permit Fee | $67.00/EA |\n| Reinspection Fee | $77.00/EA |\n| Overtime Fee | $114.00/hr. - 2 hours minimum |\n| Fire Hydrant | $67.00/EA |\n| Degradation Fee | $20.50/LF of trench (plus 20LF of required resurfacing) |\n| Overhead Utility - Private | $.28/LF ($67.00 min) |\n| Underground Utility - Private (gas mains, electrical, cable, telecom, etc.) | $.28/LF ($67.00 min) |\n| Boring | $.28/LF ($67.00 min) |\n| Coring | $67.00/EA |\n| Test Hole (concrete) | $67.00/EA |\n| Test Hole (street) | $67.00/EA |\n| Test Hole (Landscaping) | $20.00/EA |\n| Bore Pit | $20.00/EA |\n| Signage | $14.25/EA ($67.00 min) |\n| Street Light | $14.25/EA ($67.00 min) |\n| Permanent Traffic Control Structures (i.e. Guardrail, sound wall, etc...) | $.27/LF ($67.00 min) |\n| Permanent Traffic Control Structures (i.e. bollards, delineators, etc...) | $14.25/EA ($67.00 min) |\n| Striping | $0.15/LF ($67.00 min) |\n| Pavement Markings | $14.25/EA ($67.00 min) |\n| Traffic Signal/Electronic Device Installation/Modification | 0.65% of the cost of improvement |\n| Traffic Control Plan Review - Single Service | $67.00/EA |\n| Traffic Control Plan Review - Local Street\\*\\* | $98.00/EA |\n| Traffic Control Plan Review - Collector Street\\*\\* | $135.00/EA |\n| Traffic Control Plan Review - Arterial Street\\*\\* | $325.00/EA |\n| Additional review(s) | $33.50/EA |\n\n\\*Additional fees apply for work without permits pursuant to Section 78-294 of the Arvada City Code.\n\n\\*\\*Roadway classification to be determined by City Traffic Engineer",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,125 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_solar",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/522/Solar"
+    ],
+    "scraped_at": "2026-06-10T10:49:45.187782+00:00",
+    "content_hash": "20d1eca53e70ab7be031a53887fb722e539a7c7259f9544dd0068a5b6fac949b",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Solar Photovoltaic System Building Permit",
+    "summary": "Permits and inspections are required for all solar photovoltaic systems installed on residential and commercial structures in the City of Arvada. Applications can be submitted online or in person, and a technical plan review is completed within seven days of a complete application submission.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Prepare Required Documents",
+        "text": "Submit a plan set including a plot plan with equipment location and a three-line wiring diagram. Include a subcontractors approval form if an electrical contractor is not associated with the General Contractor. Attach all documents in PDF format.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Submit Application",
+        "text": "Submit the completed permit application either in person at 8101 Ralston Road, Arvada, CO 80001, Monday through Friday from 8 a.m. to 4:30 p.m., or electronically using the online customer portal at Arvada Permits Site. Licensed contractors must log in using their contractor license number and password.",
+        "portal_url": "https://arvadapermits.org"
+      },
+      {
+        "n": 3,
+        "title": "Plan Review",
+        "text": "A technical plan review is completed within seven days from when a completed application has been submitted. Applicants will be notified via email when the permit is approved and ready for payment.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 4,
+        "title": "Pay Fees",
+        "text": "Once the permit is approved, fees can be paid online using Visa, MasterCard, or Discover.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 5,
+        "title": "Schedule Inspections",
+        "text": "Schedule required inspections using the Arvada Permits Site or by calling 720-898-7630 and using the automated line. Inspections can be scheduled until 6 a.m. of the desired inspection date and are completed Monday through Friday, 8:30 a.m. to 4 p.m.",
+        "portal_url": "https://arvadapermits.org"
+      },
+      {
+        "n": 6,
+        "title": "Complete Inspections",
+        "text": "Required inspections include Rough Electrical (new construction only), Rough Framing (new construction only), Final Building, and Final Electrical. If unsure about inspection requirements, schedule the inspection and leave a note for the inspector to contact you.",
+        "portal_url": null
+      },
+      {
+        "n": 7,
+        "title": "Close the Permit",
+        "text": "After the final building inspection is completed, the permit will be closed. Review the permit status and inspection results on arvadapermits.org. An email will be sent to the applicant when the permit has been completed.",
+        "portal_url": "https://arvadapermits.org"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Plan Set",
+        "description": "Plot plan with equipment located within the structure including a three-line wiring diagram.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Subcontractors Approval Form",
+        "description": "Required if an electrical contractor is not associated with the General Contractor. Downloadable from Contractor Resources list.",
+        "where_to_get": "Contractor Resources list",
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "company",
+        "label": "Company",
+        "description": "Licensed contractors must enter their contractor license number in this field.",
+        "example_value": null,
+        "why_needed": "To verify contractor licensing."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Residential/Table 18-1 Commercial Permit Fee",
+        "amount": "$50 Residential/Table 18-1 Commercial not to exceed $1000",
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": "verify current amount with city"
+      },
+      {
+        "name": "Plan Review Fee",
+        "amount": "$36",
+        "rate": null,
+        "config_key": "fees.building.plan_review",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "7 days from complete application submission",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7630",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "electrical_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3013
+}

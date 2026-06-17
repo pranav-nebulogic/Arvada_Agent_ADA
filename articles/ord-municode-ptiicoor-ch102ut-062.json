@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "residential",
+      "water",
+      "fees",
+      "outside",
+      "city",
+      "serving",
+      "facilities"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-163"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-163. - Residential water fees outside city.",
+    "summary": "Water fees for serving residential facilities outside the corporate limits of the\n               city, subject to\nsection 102-51\n, are as follows:\n(1)\nTapping fee .....$90.00\n(2)\nInspection fee: .....\na.\n⅝\", ¾\", and 1\" meters .....$67.50\nb.\n1½\" and larger .....$120.00\n(3)\nWater system development ch…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-163. - Residential water fees outside city.",
+        "a": "Water fees for serving residential facilities outside the corporate limits of the\n               city, subject to\nsection 102-51\n, are as follows:\n(1)\nTapping fee .....$90.00\n(2)\nInspection fee: .....\na.\n⅝\", ¾\", and 1\" meters .....$67.50\nb.\n1½\" and larger .....$120.00\n(3)\nWater system development charges determined from the following schedule:\nType of Residence\nPer Unit\na. Single family\n$66,980.00\nb. Duplex\n$50,240.00\nc. Multifamily\n$33,500.00\n(4)\nMeter and tap size determined from the following schedule:*\nType of Residence\nMeter and Tap Size\na. Single-family\n⅝\" × ¾\" meter and ¾\" tap\nb. Duplex with individually connected units\n⅝\" × ¾\" meter and ¾\" tap\nDuplex with single service connection\n¾\" × ¾\" meter and ¾\" tap\nc. Multifamily:\n1. 3—6 units\n1\" meter and 1\" tap\n2. 7—18 units\n1½\" meter and 1½\" tap\n3. 19 or more units\n2\" or larger meter and tap\n*A larger or smaller meter and equal tap size may be purchased and installed when\n                  approved by the utilities director if the total peak demand flow of the property being\n                  served, as calculated by the latest edition of the AWWA Manual M22, \"Sizing Water\n                  Service Lines and Meters,\" which is hereby adopted by reference, justifies the change.\n                  Calculations so made will be submitted to the utilities director for review and approval.\n(Code 1981, § 33-79; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, § 15, 10-16-1989;\n               Ord. No. 2763, § 4, 11-5-1990; Ord. No. 2823, § 10, 7-1-1991; Ord. No. 2931, § 11,\n               10-19-1992; Ord. No. 2938, § 2, 12-14-1992; Ord. No. 3127, § 11, 10-24-1994; Ord.\n               No. 3202, § 6, 8-7-1995; Ord. No. 3223, § 8, 10-23-1995; Ord. No. 3262, § 10, 4-15-1996;\n               Ord. No. 3297, § 2, 10-21-1996; Ord. No. 3403, § 16, 10-20-1997; Ord. No. 3489, §\n               2, 10-26-1998; Ord. No. 3560, § 4, 10-11-1999; Ord. No. 3650, § 2, 10-23-2000; Ord.\n               No. 3722, § 2, 10-8-2001; Ord. No. 3773, § 2, 10-21-2002; Ord. No. 3839, § 2, 10-13-2003;\n               Ord. No. 3920, § 2, 11-8-2004; Ord. No. 3969, § 2, 10-10-2005;\nOrd. No. 4027, § 2, 10-16-2006\n;\nOrd. No. 4099, § 2, 11-19-2007, eff. 1-1-2008\n;\nOrd. No. 4139, § 3, 11-17-2008, eff. 1-1-2009\n;\nOrd. No. 4184, § 4, 10-19-2009, eff. 1-1-2010\n;\nOrd. No. 4193, § 3, 1-11-2010, eff. 7-1-2010, 1-1-2011\n;\nOrd. No. 4361, § 4, 10-22-2012, eff. 1-1-2013\n;\nOrd. No. 4411, § 4, 10-21-2013, eff. 1-1-2014\n;\nOrd. No. 4465, § 4, 10-20-2014, eff. 1-1-2015\n;\nOrd. No. 4524, § 4, 10-19-2015, eff. 1-1-2016\n;\nOrd. No. 4571, § 4, eff. 1-1-2017\n; Ord. No. 4819, § 20, 10-17-2022, eff. 7-1-2023; Ord. No.\n4854\n, § 5, 9-11-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-163"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

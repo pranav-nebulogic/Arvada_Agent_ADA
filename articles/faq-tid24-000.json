@@ -1,0 +1,70 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-24-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "building_permit",
+    "category": "building_permits",
+    "tags": [
+      "permits",
+      "required",
+      "following",
+      "list",
+      "example",
+      "activities",
+      "require",
+      "permit",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=24"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/when-are-permits-required",
+    "faq_category_name": "Building Permits"
+  },
+  "content": {
+    "title": "When are permits required?",
+    "summary": "The following list is an example of activities that require a permit. Even if your planned project or work is not on the list, you may still need a permit. To find out if something that is not on the list requires a permit, please call 720-898-7620 or email Building Department Division. Types of Wor…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "See answer",
+        "amount": "$32.50",
+        "notes": null
+      },
+      {
+        "name": "See answer",
+        "amount": "$32.50",
+        "notes": null
+      },
+      {
+        "name": "See answer",
+        "amount": "$45",
+        "notes": null
+      }
+    ],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "When are permits required?",
+        "a": "The following list is an example of activities that require a permit. Even if your planned project or work is not on the list, you may still need a permit. To find out if something that is not on the list requires a permit, please call 720-898-7620 or email Building Department Division. Types of Work | Application Process | Typical Fee Include Accessory Dwelling Unit | Online (SMART License & Permits) | Variable Residential Exterior | Online (SMART License & Permits) | $32.50 Review FeeBuilding Permit FeeUse Tax Electrical | Online (SMART License & Permits) | Variable Fences and Retaining Walls | Online (SMART License & Permits) | Variable Interior Remodels | Online (SMART License & Permits) | $32.50 Review FeeBuilding Permit FeeUse Tax New Commercial Buildings, Commercial Additions and Multi-family | Online (SMART License & Permits) | Variable New Single Family | email | Variable Re-Roofing | Online (SMART License & Permits) | Variable Residential Mechanical and Plumbing | Online (SMART License & Permits) | Variable Solar | Online (SMART License & Permits) | $45 Permit Fee (Residential Only)$32.50 Review FeeUse Tax Windows and Siding Installation | Online (SMART License & Permits) | $45 Permit Fee per tradeUse Tax Temporary Structures | email | Variable Transient Merchants and Entertainment | email | Variable Food Truck Vending | Online(SMART License & Permits) | $50 Retaining Wall | Online(SMART License & Permits) | $45 Permit Fee$32.50 Plan Review FeeUse Tax Radio Amplification | Online(SMART License & Permits) | Use Tax"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

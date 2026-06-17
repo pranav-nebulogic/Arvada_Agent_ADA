@@ -1,0 +1,152 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "food_truck_permit",
+    "category": "business",
+    "source_urls": [
+      "https://www.arvadaco.gov/402/Food-Trucks"
+    ],
+    "scraped_at": "2026-06-10T11:01:18.234880+00:00",
+    "content_hash": "f58cb4e8b73d3f1a8aa80a6e527934c68ca06908212e1c748a2b2c13d499b1b2",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Food Truck Permit",
+    "summary": "Food truck operators in the City of Arvada must obtain a business license and a food truck permit to operate legally. Permits are valid for 12 months and require annual renewal with updated documentation and fees.",
+    "eligibility": "Food truck operators in the City of Arvada, CO",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Apply for Business License",
+        "text": "Apply for a business license for a food truck through the City's online licensing and tax partner, MUNIRevs.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Submit Required Documents",
+        "text": "Submit proof of a current county health department certification, a copy of a current commissary agreement, and if operating on private property, written permission from the property owner.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 3,
+        "title": "Pay Permit Fee",
+        "text": "Pay the $60 food truck permit fee.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Receive Permit",
+        "text": "Once approved, a business license and food truck permit will be issued.",
+        "portal_url": null
+      },
+      {
+        "n": 5,
+        "title": "Renew Permit Annually",
+        "text": "Renew the food truck permit annually by submitting updated copies of the county health certificate, commissary agreement, and paying the permit fee. Renewals are sent online during the last month of the permit.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "County Health Department Certification",
+        "description": "Proof of a current county health department certification from any county.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Commissary Agreement",
+        "description": "A copy of a current commissary agreement for the food truck.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Property Owner Permission",
+        "description": "Written permission from the property owner if operating on private property.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "business_license_application",
+        "label": "Business License Application",
+        "description": "Application for a business license for a food truck submitted through MUNIRevs.",
+        "example_value": null,
+        "why_needed": "Required to legally operate a food truck business."
+      },
+      {
+        "field_name": "county_health_certificate",
+        "label": "County Health Department Certification",
+        "description": "Proof of current health certification from any county.",
+        "example_value": null,
+        "why_needed": "Ensures food safety compliance."
+      },
+      {
+        "field_name": "commissary_agreement",
+        "label": "Commissary Agreement",
+        "description": "Current commissary agreement for the food truck.",
+        "example_value": null,
+        "why_needed": "Confirms proper food storage and preparation facilities."
+      },
+      {
+        "field_name": "property_owner_permission",
+        "label": "Property Owner Permission",
+        "description": "Written permission from the property owner if operating on private property.",
+        "example_value": null,
+        "why_needed": "Verifies authorization to operate on private property."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Food Truck Permit Fee",
+        "amount": "$60",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": null,
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "When is a food truck permit required?",
+        "a": "A food truck permit is required if you are selling food from a readily movable wheeled structure designed and equipped to serve food."
+      },
+      {
+        "q": "Can I operate a food truck in Arvada without a permit?",
+        "a": "You can operate without a permit if you operate for less than 15 consecutive minutes at any specific site (such as an ice cream truck) or if you are operating as part of an approved Special Event in coordination with the event planner."
+      },
+      {
+        "q": "Where are food trucks allowed?",
+        "a": "Food trucks must be parked on a paved surface outside of the public right-of-way, in a public street right-of-way when the street is closed to vehicular traffic as part of a Special Event Permit, as part of a gathering of two or more food trucks with authorization from the Director, or on private property as provided in Section 3-1-4-2, Temporary Uses by Zoning District."
+      },
+      {
+        "q": "Where are food trucks not allowed?",
+        "a": "Food trucks are not allowed on undeveloped property with unoccupied structures or unpaved surfaces, in any location that would obstruct the visibility of motorists, in any public park without a special event permit, or in any location that would obstruct parking lot circulation or access to a public street, alley or sidewalk."
+      }
+    ],
+    "ordinance_refs": [
+      "Section 3-1-4-2"
+    ],
+    "related_permit_types": [
+      "Special Event Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2451
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "payment",
+      "assessments",
+      "joint",
+      "owner",
+      "whenever",
+      "any",
+      "assessment"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-116"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-116. - Payment of assessments by joint owner.",
+    "summary": "Whenever any assessment or installment thereof shall be paid or any delinquency thereof\n               be redeemed or any judgment therefor be paid by any joint owner of any tract assessed\n               for any project, such joint owner may, after demand and refusal, by an action brought\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-116. - Payment of assessments by joint owner.",
+        "a": "Whenever any assessment or installment thereof shall be paid or any delinquency thereof\n               be redeemed or any judgment therefor be paid by any joint owner of any tract assessed\n               for any project, such joint owner may, after demand and refusal, by an action brought\n               in the district court recover from each of his co-owners the respective amounts of\n               such payment which each such co-owner should bear with interest thereon at ten per\n               centum per annum from the date of such payments and costs of the action, and the joint\n               owner making such payment shall have a lien upon the undivided interest of his co-owners\n               in and to such property from date of such payment.\n(Code 1981, § 27-116; Ord. No. 551, § 57, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-116"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

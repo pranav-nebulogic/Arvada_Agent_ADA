@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "housing",
+      "assistance",
+      "choice",
+      "human",
+      "program",
+      "services",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/432/Housing-and-Other-Assistance"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-265",
+    "spreadsheet_id": "MI-265",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Housing and Other Assistance",
+    "summary": "The Housing Choice Voucher Program provides rental payment assistance to very low-income households. For additional support, residents can access Human Services through Jefferson and Adams counties, with resources available on their respective websites.",
+    "body": "## Housing Choice Voucher Program\n\nThe Housing Choice Voucher Program assists in offering very low-income households vouchers to assist with rental payments. For more information about how to apply to be on the waiting list, please [visit the Housing Choice Voucher Program page](/438/Arvada-Housing-Authority---Housing-Choic).\n\n## County Human Services\n\nHuman Services are provided by counties, including Jefferson and Adams counties. If you need assistance with Human Services, please refer to the resources below.\n\n- Jefferson County Human Services - Please explore the [Jeffco Human Services website](https://www.jeffco.us/2184/Human-Services) for details on programs, resources, and more.\n- Adams County Human Services - Please explore Adams County resources at [Adams County Human Services](http://www.adcogov.org/humanservices).\n\n![](/ImageRepository/Document?documentID=454)\n\n![](/ImageRepository/Document?documentID=453)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

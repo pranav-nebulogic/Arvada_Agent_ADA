@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "housing",
+      "authority",
+      "consists",
+      "council",
+      "board",
+      "commissioners",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/435/Arvada-Housing-Authority"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-062",
+    "spreadsheet_id": "MI-062",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Housing Authority",
+    "summary": "The Arvada Housing Authority, established in 1975 and managed by the City Council, aims to enhance community living by providing access to diverse, safe, and affordable housing options. Currently, it offers various rental assistance programs, including the Housing Choice Voucher Program, although applications are not being accepted at this time. In the 2024-2025 period, the Authority provided nearly $9 million in rental assistance to 537 households, with a significant portion of recipients previously experiencing homelessness.",
+    "body": "## About the Arvada Housing Authority\n\nThe Arvada Housing Authority was created by the City Council in 1975. The Board of the Arvada Housing Authority consists of the seven members of the City Council who serve in the role as Commissioners of the Authority when the Authority convenes. The staff for the Housing Authority consists of four employees and an Executive Director who also serves as the Manager for Housing Preservation and Resources which is a part of the Community and Economic Development team at the City of Arvada.\n\n## Mission\n\nWe are dedicated to delivering superior services to enhance the lives of everyone in our community.\n\nThe Arvada Housing Authority (AHA) supports the Housing Strategic Result identified in the City of Arvada Strategic Plan: Improve access to diverse, safe, and affordable housing options and programs, providing residents with opportunities to obtain housing that meets their needs in all phases of life. To achieve this, we offer the following types of rental assistance to residents:\n\n- **The Housing Choice Voucher (HCV) Program** helps low-income families, elderly persons, veterans and disabled individuals afford housing in the private market.\n- **The Project-Based Voucher (PBV) Program** attaches rental assistance to specific housing units.\n- **Mainstream vouchers** assist non-elderly persons with disabilities who are homeless or at risk of homelessness upon admission.\n\n**Please be advised that the Arvada Housing Authority is not currently accepting applications for any of our voucher programs.** This includes the Housing Choice Voucher Program, Mainstream Voucher Program and Project Based Voucher Program.  Feel free to check back at a later date as we will post a public notice here when we are able to open our waitlist(s) to new applicants.\n\nIn addition to offering rental assistance, the Arvada Housing Authority supports the development and rehabilitation of affordable housing in the community. Examples of this support include:\n\n- Project based vouchers\n- Loans from the Arvada Affordable Housing Fund\n- Special Limited Partnerships\n\n## Whom We Serve\n\nBetween 2024 and 2025, the AHA provided $8,969,665 of rental assistance to 537 households in the community. Of those helped, 27% were homeless before receiving vouchers. The AHA Annual Report details the successes of the past year, goals for future services and challenges to overcome.\n\nRead more in the the [2024-2025 Annual Report](https://www.arvadaco.gov/1367/Arvada-Housing-Authority-Annual-Report-2). To see more details about the year ahead, read the [AHA Annual Plan](/DocumentCenter/View/6422).\n\n## Equal Housing Opportunities\n\nThe Arvada Housing Authority provides equal housing opportunities and does not discriminate on the basis of race, color, sex, religion, familial status, age, national origin, disability, sexual orientation, or gender identity.\n\n## Accommodations for Individuals with Disabilities\n\nIf you or a person in your household has a disability and needs a reasonable accommodation to fully participate in the Housing Choice Voucher program; please contact the Arvada Housing Authority at 720-898-7494 for more information.\n\n![](/ImageRepository/Document?documentId=454)\n\n![](/ImageRepository/Document?documentId=453)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "collection",
+      "delinquent",
+      "assessments",
+      "county",
+      "treasurer",
+      "soon",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-111"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-111. - Collection of delinquent assessments by county treasurer.",
+    "summary": "As soon as any assessment or any installment thereof appertaining to any district\n               shall become in default, the finance director shall mark the same delinquent on the\n               assessment roll, together with the amount of unpaid principal shown on said assessment\n               ro…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-111. - Collection of delinquent assessments by county treasurer.",
+        "a": "As soon as any assessment or any installment thereof appertaining to any district\n               shall become in default, the finance director shall mark the same delinquent on the\n               assessment roll, together with the amount of unpaid principal shown on said assessment\n               roll and accrued interest thereon to the date of delinquency, and the finance director\n               shall within ten days after such delinquency certify said amounts as shown thereon\n               to the council. At its next regular meeting after receiving such certificate of the\n               finance director, the council shall certify said amounts, together with full information\n               as to the dates of delinquency, to the county treasurer for collection in the same\n               manner and with the same interest and penalties thereon as other taxes collected by\n               the county treasurer on behalf of the city; and all of the laws of the state for the\n               assessment and collection of general taxes, including the laws for the sale of property\n               for taxes and redemption therefrom, shall be applicable to and shall have the same\n               effect with respect to the collection of such assessments.\n(Code 1981, § 27-112; Ord. No. 551, § 52, 5-14-1964)\nState Law reference—\nMunicipal taxation, C.R.S. § 31-20-101 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-111"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

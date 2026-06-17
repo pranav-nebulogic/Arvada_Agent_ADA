@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "investigation",
+      "hereby",
+      "added",
+      "read",
+      "follows",
+      "chief"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-495"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-495. - I.P.M.C. Section 302.8.1, Investigation.",
+    "summary": "Section 302.8.1. Investigation,\nis hereby added to read as follows:\n\"\n302.8.1. Investigation.\nThe chief of police or designee thereof, including code enforcement managers or officers,\n                  is authorized to investigate any vehicle left at any place within the city which reasonably\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-495. - I.P.M.C. Section 302.8.1, Investigation.",
+        "a": "Section 302.8.1. Investigation,\nis hereby added to read as follows:\n\"\n302.8.1. Investigation.\nThe chief of police or designee thereof, including code enforcement managers or officers,\n                  is authorized to investigate any vehicle left at any place within the city which reasonably\n                  appears to be in violation of this section, or may be lost, stolen, or unclaimed.\n                  The chief of police or a designee thereof is hereby authorized to go onto private\n                  property for the purpose of making an investigation for any violation of this chapter\n                  for the purpose of determining ownership and condition of any vehicle reasonably appearing\n                  to be in violation of any provision of this code. In the event that the owner of such\n                  vehicle or the person in possession of the premises on which such vehicle is located\n                  cannot be found, then a summons and complaint alleging the violation of this section\n                  may be issued against the vehicle describing the same by make, year and model.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-495"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

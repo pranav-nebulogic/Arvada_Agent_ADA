@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "blunn",
+      "pioneer",
+      "master",
+      "plan",
+      "reservoir",
+      "acre",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/511/Blunn-Pioneer-Master-Plan"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-103",
+    "spreadsheet_id": "MI-103",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Blunn / Pioneer Master Plan",
+    "summary": "The Blunn/Pioneer Master Plan, initiated by the City in 2015, aims to develop a 1,600-acre area in Arvada to address regional water and transportation needs while preserving natural spaces that reflect the community's character. The final report includes project goals, anticipated changes for existing users, a project timeline, public participation insights, and staff recommendations presented to the City Council.",
+    "body": "![Blunn Reservoir](/ImageRepository/Document?documentID=621 \"Blunn Reservoir\")\n\n## Blunn / Pioneer Master Plan Overview\n\nIn the summer of 2015, the City began conducting a 30-year Master Plan for a 1,600-acre primarily undeveloped property located north of W 64th Avenue, east of Highway 93, south of Leyden Road and west of Virgil Street. The Blunn/Pioneer Master Plan includes the Arvada/Blunn Reservoir, Tucker Lake, Pioneer Sand and Gravel quarry, and nearby open space areas.\n\n## Blunn / Pioneer Master Plan Final Report\n\nIn this report, you'll find:\n\n- Project goal for the Blunn/Pioneer land will meet the water and transportation needs of the region, and simultaneously serve as a natural space reflecting the interests and character of western Arvada's landscape and community.\n- Anticipated changes to existing users, such as the dog park or the Bird's Nest Disc Golf users.\n- A project timeline (as of 2015)\n- Site Visit and Historic summaries\n- Alternatives development, including a natural resource evaluation, potential programs, and preliminary concepts.\n- Public participation and recommendations\n\n[View the Blunn Pioneer Master Plan (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68cc206b7b967)\n\nThe Arvada Blunn / Pioneer Master Plan final report, compiled by WENK and Associates, contains summaries of research and meetings conducted throughout the Master Plan process and public input received. The Report also contains staff recommendations that were provided to City Council on July 27, 2015, as outlined in the City Council Presentation PDF under Related Documents.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

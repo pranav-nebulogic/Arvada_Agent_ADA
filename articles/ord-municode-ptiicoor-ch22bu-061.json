@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "transfer",
+      "ownership",
+      "later",
+      "than",
+      "days",
+      "after",
+      "pawnshop"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-208"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-208. - Transfer of ownership.",
+    "summary": "(a)\nNo later than 30 days after the transfer of ownership of a pawnshop, or of the transfer\n               of ownership of any of the capital stock of the corporation, the new owner of the\n               stock or business shall file with the city clerk a written report of the transfer\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-208. - Transfer of ownership.",
+        "a": "(a)\nNo later than 30 days after the transfer of ownership of a pawnshop, or of the transfer\n               of ownership of any of the capital stock of the corporation, the new owner of the\n               stock or business shall file with the city clerk a written report of the transfer\n               on forms provided by the city clerk. The report shall be accompanied by an investigation\n               fee of $250.00.\n(b)\nUpon receipt of the report of transfer, the city clerk may, after investigation by\n               the chief of police approve or deny the transfer. Criteria for approval shall be as\n               for an original application. The city clerk shall consider the character of the proposed\n               new owner and whether the new owner complies with all requirements of the Code and\n               rules and regulation adopted pursuant to the Code. If the new owner is not approved,\n               the license may be revoked.\n(Code 1981, § 23-8; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-208"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

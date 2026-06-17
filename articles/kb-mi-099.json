@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "bike",
+      "lane",
+      "markings",
+      "explained",
+      "cyclists",
+      "lanes",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1235/Bike-Lane-Markings-Explained"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-099",
+    "spreadsheet_id": "MI-099",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Bike Lane Markings Explained",
+    "summary": "Bike lanes are designated spaces for cyclists, marked by specific signage and pavement markings, which help ensure safe interactions between cyclists and motorists. Cyclists are allowed to leave bike lanes for various reasons, such as passing or making turns, while motorists must yield to cyclists in these lanes and are prohibited from parking or driving in them. Additional features like mixing zones, shared lane markings, bike boxes, and two-stage turn boxes enhance safety and visibility at intersections, promoting safer cycling practices.",
+    "body": "## bike graphic outlined with white lines turning into dotted lines\n\n## Bike lanes\n\nBike lanes designate space exclusively for cyclists through the use of pavement markings and signage. Bike lanes facilitate predictable behavior and movements between cyclists and motorists.\n\n### Cyclists may leave the bike lane to:\n\n- pass other cyclists,\n- make left turns,\n- avoid obstacles or debris, and\n- avoid conflicts.\n\n### Whenever a cyclist enters or exits a bike lane, they should:\n\n- look behind them,\n- signal, and\n- yield to vehicles already in adjacent travel lanes.\n\n**Cars are not permitted to park or drive in a bike lane**; however, when making a right turn, they must yield to any bicycle traffic and merge into the bike lane prior to making the turn.\n\n![green striping and white arrows on road where bike lane overlaps with vehicle lanes](/ImageRepository/Document?documentId=5575)\n\n## Mixing zones\n\nMixing zones identify areas where vehicle traffic may merge through or turn across a bike lane. There are three main types of striping that help draw attention and increase visibility at these locations:\n\n- Green lane markings\n- Dashed white lines\n- White chevron arrows\n\nMotorists must yield to passing cyclists before crossing through a mixing zone.\n\n![car following cyclist with white lane marking of a bike and chevron arrow](/ImageRepository/Document?documentId=5488)\n\n## Shared lane markings\n\nShared lane markings, or “sharrows”, mark a designated bike route. Placed in the travel lane, they encourage cyclists to ride in a safe position outside the door zone (where driver’s side doors of parked cars open).\n\nMotor vehicles are permitted to drive in travel lanes where shared lane markings are present.\n\n- Motorists must travel behind cyclists until it is safe to pass.\n- State Law requires motorists to give the cyclists at least 3 feet when passing.\n\n![white box around graphic of a bike with a car stopped behind the box](/ImageRepository/Document?documentId=5485)\n\n## Bike box\n\nA bike box is a type of advanced stop bar that is used at some signalized intersections. These improve safety and comfort by getting cyclists ahead of traffic to make left turns or merge ahead of the intersection to increase visibility. The bike box includes two elements:\n\n1. A thick stop line for motorists to wait behind\n2. A marked space for cyclists to wait in\n\nWhen the traffic signal is red, motorists must wait behind the bike box and the stop line.\n\n## Two-stage turn boxgreen markings on road to distinguish the two lane bike box\n\nTwo-stage turn boxes allow for safer turning across traffic at intersections on multi-lane roads.\n\nCyclists proceed straight through the intersection when the light is green and then wait in the bike box for the signal facing the new direction to turn green and cross the intersection.\n\n### [FAQs](/Faq.aspx?TID=47)\n\n[What is the Colorado Safety Stop Law?](#)\n:   The Colorado Safety Stop Law makes it legal for cyclists (and other low-speed conveyances) to:\n\n    - Treat stop signs like yield signs\n    - Red traffic signals like stop signs\n\n    After checking for traffic, cyclists can then proceed through the intersection.\n\n    This helps move cyclists through the intersection and out of the high-conflict zone, improving safety for everyone.\n\n    ![person on scooter bike and segway yeild at a stop sign](/ImageRepository/Document?documentId=5486)![person on scooter bike and segway thinking stop sign at a red traffic signal](/ImageRepository/Document?documentId=5489)\n\n[What hand signals do cyclists use for turning?](#)\n:   **Left turn:**cyclists should extend their left hand straight out from their side to indicate a left turn.\n\n    **Right turn:** cyclists should raise their left hand in a 90 degree angle or extend their right hand straight out from their side to indicate a right turn.\n\n    ![three figures on bikes making left and right hand turn signals](/ImageRepository/Document?documentId=5491)\n\n[How does the City decide where to add bike lanes?](#)\n:   The City must comply with the Manual on Uniform Traffic Control Devices (MUTCD) standards for all bike facilities. Additionally, the City maintains a [Bicycle Master Plan](https://www.arvadaco.gov/DocumentCenter/View/778/2017-Bicycle-Master-Plan-PDF) and is completing a Transportation System Plan, both of which help identify areas of opportunity and help inform planning for improvements related to cycling infrastructure in Arvada.\n\n[Can cyclists use the crosswalk?](#)\n:   Yes, cyclists can use a crosswalk if a bike lane doesn’t extend through an intersection, if you’re unsure how to make a left turn without a two-stage turn box, or if you simply feel more comfortable. Be sure to dismount and walk your bike through the crosswalk like a pedestrian. Once you’re through the intersection, ensure it’s safe to re-enter the roadway.\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

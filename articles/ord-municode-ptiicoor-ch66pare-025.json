@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "park",
+      "permit",
+      "fees",
+      "groups",
+      "consuming",
+      "beer",
+      "hereby"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-61"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-61. - Park permit fees for groups consuming 3.2 beer.",
+    "summary": "(a)\nThere is hereby imposed a $15.00 permit fee for groups of people who consume 3.2 fermented\n               malt beverages in any public park facility in the city.\n(b)\nConsumption of 3.2 fermented malt beverages by permit issued pursuant to subsection\n               (a) of this section is limited …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-61. - Park permit fees for groups consuming 3.2 beer.",
+        "a": "(a)\nThere is hereby imposed a $15.00 permit fee for groups of people who consume 3.2 fermented\n               malt beverages in any public park facility in the city.\n(b)\nConsumption of 3.2 fermented malt beverages by permit issued pursuant to subsection\n               (a) of this section is limited to the following public park facilities in the city:\n               Pioneer Pavilion, North Jeffco West Park, Allen House Pavilion, Oak Park, Oak Park\n               Pavilion, Lutz Sports Complex, Youth Memorial Complex, and Arvada Tennis Center, Mechelen\n               Pavilion Memorial Park, and McIlvoy Park Pavilion.\n(c)\nThe Director of Parks, Golf and Hospitality Services is authorized to grant a written\n               permit for consumption of 3.2 fermented malt beverages upon public park facilities\n               in the city, subject to the provisions of chapter 6 and subject to the following provisions:\n(1)\nThe permittee is a natural person who is 21 years of age or older;\n(2)\nThe permittee agrees to remain with the group so long as 3.2 fermented malt beverages\n               are consumed by any member of the group;\n(3)\nThe permittee agrees to maintain the noise level of the group within the limits established\n               by\nsection 38-91\nrelating to maximum permissible continuous sound pressure levels;\n(4)\nThe permittee agrees to pay the cost of cleaning or the cost of repair of any damage\n               of the public park facility; and\n(5)\nThe permittee agrees that the group will transport and consume 3.2 fermented malt\n               beverages in nonglass containers.\n(d)\nAny permit for the consumption of 3.2 fermented malt beverages granted by the director\n               of parks, golf and hospitality services is valid only between the hours of 11:00 a.m.\n               and 9:00 p.m. on the day for which the city manager grants the permit.\n(e)\nAny permit granted by the director of parks, golf and hospitality services for the\n               consumption of 3.2 fermented malt beverages in public park facilities may be revoked\n               by the director of parks, golf and hospitality services or a designee thereof for\n               good cause shown. The term \"good cause shown\" means a violation by the permittee or\n               any member of the permittee's group of this section, of any other terms and conditions\n               of the permit granted by the director of parks, golf and hospitality services, or\n               chapter 6, or of any law or ordinance.\n(Code 1981, § 2-197; Ord. No. 2516, § 1, 6-6-1988; Ord. No. 3883, § 1, 6-7-2004)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

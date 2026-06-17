@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "parking",
+      "studies",
+      "generally",
+      "method",
+      "establish",
+      "standards",
+      "reduce",
+      "requirements",
+      "associated",
+      "particular"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-2-6"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-2. PARKING AND LOADING CALCULATIONS"
+  },
+  "content": {
+    "title": "4-5-2-6. Parking studies.",
+    "summary": "A.\tGenerally.\n  1.\tParking studies are a method to establish parking standards or to reduce parking requirements associated with a particular use.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-2-6. Parking studies.",
+        "a": "A.\tGenerally.\n  1.\tParking studies are a method to establish parking standards or to reduce parking requirements associated with a particular use. There are several reasons why an Applicant may seek approval of a parking study:\n    a.\tSome of the uses that are listed in the tables in Section 4-5-2-2, Parking Requirements Tables, have nonlinear or widely varying parking demand characteristics, and Applicants for approval of those uses may have cause to seek an alternative parking standard.\n    b.\tThe Applicant has proposed a use that is not listed in Division 3-1-2, Land Use by Zoning District, no parking standard is provided in Section 4-5-2-2, Parking Requirements Tables, and therefore a parking standard must be established using a parking study.\n    c.\tThe Applicant has submitted a request to reduce the number of required parking spaces to less than that set out in Section 4-5-2-2, Parking Requirements Tables, due to the nature of the operations and/or location of a proposed use.\n  2.\tParking studies shall include and support all requested reductions in parking. Further parking credits and reductions that are otherwise available pursuant to Section 4-5-2-4, Shared Parking, and Section 4-5-2-5, Parking Credits and Reductions, shall not be applied when parking reductions are granted pursuant to this Section, unless such reductions are supported by the parking study.\nB.\tParking Study Requirements.\n  1.\tA parking study shall be conducted by a qualified transportation planner or traffic engineer at the Applicant's expense.\n  2.\tThe parking study shall provide:\n    a.\tA peak parking analysis of at least five functionally comparable uses/projects.\n    b.\tDocumentation regarding the comparability of the referenced uses/projects, including: name, function, location, gross floor area, parking availability, access to transportation network (including vehicular, bicycle, pedestrian, and transit), use restrictions, and other factors that could affect the parking demand.\nC.\tAbbreviated Parking Study Requirements. The analytical requirements set out in Subsection B., above, may be reduced to two functionally comparable uses/projects if:\n  1.\tThe uses/projects are located in the City;\n  2.\tThe proposed use/project to which the parking study is to be applied has less than 5,000 square feet of floor area; or\n  3.\tThe parking study is used to justify a reduction in required parking and the requested reduction is 20 percent or less.\nD.\tApproval of Parking Study.\n  1.\tThe Director may rely upon the parking study or may request additional information or analysis, including, but not limited to: alternative or new data points, or consideration of additional or alternative factors related to comparability or peak demand, as supported by sound traffic engineering principles.\n  2.\tAs a condition of approval of a parking study, the Director may require that land be reserved or land-banked for additional parking if there is a demonstrably high probability the use could change, resulting in a higher demand for parking. Such additional land shall not be counted as open space."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-2-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

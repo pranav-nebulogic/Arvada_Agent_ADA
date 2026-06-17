@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "residential",
+      "neighborhood",
+      "purpose",
+      "zoning",
+      "district",
+      "maintain",
+      "character",
+      "mature",
+      "established",
+      "neighborhoods"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-3-3"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-3. PARKS AND OPEN SPACE AND RESIDENTIAL DISTRICTS"
+  },
+  "content": {
+    "title": "2-1-3-3. RN: Residential neighborhood.",
+    "summary": "A.\tPurpose.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-3-3. RN: Residential neighborhood.",
+        "a": "A.\tPurpose. The purpose of the Residential Neighborhood (RN) zoning district is to maintain the character of mature, established neighborhoods in locations where residents expect that the character be relatively stable and allow development, redevelopment, and/or public projects that are consistent with a neighborhood's architectural character.\nB.\tRelationship to the Comprehensive Plan. The RN zoning district generally implements the \"Suburban Residential\" land use category stated in the Comprehensive Plan.\nC.\tSubdistricts. The Residential Neighborhood zoning district is divided into six subdistricts (RN-32.5, RN-12.5, RN-7.5, RN-6, RN-4, and RN-D) in order to reflect and preserve the existing development patterns within each subdistrict, while allowing for redevelopment and expansions of existing buildings at scales that are not disruptive of the surrounding neighborhood fabric.\nD.\tReno Park Addition Historic District Project Area. The Reno Park Addition Historic District Project Area is an area of historic and architectural value and modifications to existing buildings types and new development shall adhere to the mandatory Design Guidelines for the Reno Park Addition Historic District Project Area contained in Appendix B of this Code. All projects located within the Reno Park Addition Historic District Project Area affected by the mandatory guidelines shall obtain a Certificate of Compliance with Design Guidelines in accordance with Section 8-3-5-4 prior to the approval of any permit. The boundaries of the Reno Park Addition Historic District Project Area are shown in Figure 2-1-3-3A, Reno Park Addition Historic District Project Area.\nE.\tResidential Lot and Building Standards by Subdistrict. The standards for residential lots and buildings in each RN subdistrict are set out in Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards. The lot and building standards are applied as follows:\n  1.\tExisting Lots and Existing Buildings. All existing residential lots and existing residential buildings in the RN zoning district that were legally established shall become conforming on the effective date of this Code, regardless of whether they then conform to the standards of this Section.\n  2.\tExpansion of Existing Residential Buildings.\n    a.\tIf a proposed building expansion extends beyond the existing foundation and does not comply with one or more of the setback standards of Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards, then the Director may authorize a minor modification pursuant to Section 8-3-11-3, Administrative Minor Modifications.\n    b.\tIf an existing legally established residential building exceeds the height limitations of Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards, all additions to the building shall comply with the standards in Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards.\n  3.\tNew Residential Buildings. New residential buildings shall comply with all setback, building height, and lot coverage standards in Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards. New residential buildings may be constructed on existing legally established lots that do not conform to the standards of Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards.\n  4.\tCreation of New Lots. The lot area and lot width standards in Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards, apply to the creation of new residential lots by subdivision or resubdivision.\nF.\tNonresidential Lot and Building Standards by Subdistrict. The standards for nonresidential lots and buildings in each RN subdistrict are set out in Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards. The lot and building standards are applied as follows:\n  1.\tExisting Lots. All existing nonresidential lots in the RN zoning district that were legally established shall become conforming on the effective date, regardless of whether they then conform to the standards of this Section.\n  2.\tExpansion of Existing Nonresidential Buildings. No expansion of an existing nonresidential building shall extend beyond the applicable limitations set out in Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards.\n  3.\tNew Buildings. New buildings shall comply with all setbacks, building height, and building coverage standards in Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards. New buildings may be constructed on existing lots that do not conform to the standards of Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards.\n  4.\tCreation of New Lots.\n    a.\tThe lot area and lot width standards in Table 2-1-3-3A, Residential Neighborhood Lot and Building Standards, apply to the creation of new nonresidential lots by subdivision or resubdivision.\n    b.\tParks are exempt from minimum lot area and minimum lot width standards.\nG.\tSubdivision of lots in the RN-D Subdistrict. When a lot is to be subdivided for a duplex, the minimum area after subdivision shall be 3,000 square feet, the minimum lot width shall be 30 feet and the duplex must meet or exceed a combined 9,000 square feet. There shall be no setback required along the common lot line.\nH.\tCross-References. The cross-references in Table 2-1-3-3B, Cross-References for Residential Neighborhood, are provided for the reader's convenience and are not necessarily exhaustive of applicable regulations.\n(Ord. No. 4793, § 1, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

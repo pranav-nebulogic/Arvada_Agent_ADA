@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "personal",
+      "property",
+      "encroachment",
+      "prohibited",
+      "any",
+      "person",
+      "keep"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-243"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-243. - Personal property—encroachment.",
+    "summary": "(a)\nIt is prohibited for any person to keep personal property within, over, or upon city\n               property.\n(b)\nIf a person violates subsection (a) of this\nsec. 38-243\n, the city may serve a written notice on the owner describing the personal property\n               that is encroaching onto ci…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-243. - Personal property—encroachment.",
+        "a": "(a)\nIt is prohibited for any person to keep personal property within, over, or upon city\n               property.\n(b)\nIf a person violates subsection (a) of this\nsec. 38-243\n, the city may serve a written notice on the owner describing the personal property\n               that is encroaching onto city property. The notice will require the property owner\n               within 14 days of service of the notice to remove the personal property from city\n               property. The notice shall be served by handing the same to the owner, posting the\n               notice in a conspicuous place on the subject private property, or sending the notice\n               to the owner at the subject private property or the owner's residence by certified\n               mail return receipt requested. A property owner must comply with the requirements\n               stated in the notice within 14 days of service upon the property owner.\n(c)\nIf the owner fails to comply with the provisions of the notice, the city manager may\n               remove the personal property described in the notice. If the manager removes the personal\n               property as described in this subsection, the manager shall file a lien pursuant to\n               the provisions of\nchapter 59\n, Municipal liens, for any expenses incurred by the city in the removal of such personal\n               property.\n(Ord. No.\n4760\n, § 1, 4-19-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-243"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

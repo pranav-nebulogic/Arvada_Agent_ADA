@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "council",
+      "approves",
+      "manager",
+      "contract",
+      "wick",
+      "across",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1295/Arvada-City-Council-Approves-City-Manage"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-054",
+    "spreadsheet_id": "MI-054",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada City Council Approves City Manager Contract",
+    "summary": "The Arvada City Council has approved Don Wick's contract as the new City Manager, effective May 17, 2025. Wick, currently the Deputy City Manager, will oversee the city's strategic initiatives in areas such as community safety, service effectiveness, and economic development, while Linda Haley returns to her previous role as Deputy City Manager. The city will soon begin recruiting for the vacant Deputy City Manager position.",
+    "body": "![Don Wick](/ImageRepository/Document?documentID=5755)**May 7, 2025** Arvada, CO – At the Arvada City Council meeting on Tuesday, May 6, the City Council approved a contract with Don Wick to serve as the City’s next City Manager. Mr. Wick’s appointment becomes effective May 17. He currently serves as Arvada’s Deputy City Manager.\n\nAs City Manager, Mr. Wick will report directly to the City Council and will be responsible for advancing the City’s strategic initiatives across five key areas: Safe Community, Organizational and Service Effectiveness, Vibrant Community and Neighborhoods, Community and Economic Development, and Infrastructure.\n\nLinda Haley, who has served as Interim City Manager for the past nine months, will return to her role as Deputy City Manager. The City will begin recruitment for the now-vacant Deputy City Manager position in the near future.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

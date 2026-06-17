@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalty",
+      "whenever",
+      "any",
+      "section",
+      "article",
+      "rule",
+      "regulation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-232"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-232. - Penalty.",
+    "summary": "Whenever in any section of this article, or any section of a rule or regulation promulgated\n               hereunder, the doing of any act is required, prohibited or declared to be unlawful,\n               any person, firm, or corporation who shall be convicted of a violation of any such\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-232. - Penalty.",
+        "a": "Whenever in any section of this article, or any section of a rule or regulation promulgated\n               hereunder, the doing of any act is required, prohibited or declared to be unlawful,\n               any person, firm, or corporation who shall be convicted of a violation of any such\n               section shall, for each offense, be punishable by a fine, or by imprisonment, or both,\n               not to exceed the limits established in\nsection 1-5\n.\n(Code 1981, § 33-125; Ord. No. 3127, § 24, 10-24-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-232"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "legal",
+      "defense",
+      "hereby",
+      "amended",
+      "read",
+      "follows"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-34"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-34. - I.F.C. Section 103.4.1, Legal defense.",
+    "summary": "Section 103.4.1. Legal defense,\nis hereby amended to read as follows:\n\"103.4.1. Legal defense.\nAny suit or criminal complaint instituted against any officer or employee of any\n                  fire protection district or any officer or employee of the City of Arvada because\n                  of an …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-34. - I.F.C. Section 103.4.1, Legal defense.",
+        "a": "Section 103.4.1. Legal defense,\nis hereby amended to read as follows:\n\"103.4.1. Legal defense.\nAny suit or criminal complaint instituted against any officer or employee of any\n                  fire protection district or any officer or employee of the City of Arvada because\n                  of an act performed by that officer or employee in the lawful discharge of duties\n                  and under the provisions of this code shall be defended by the legal representative\n                  of the fire protection district or City by which he or she is employed until the final\n                  termination of the proceedings. The fire code official, city officer, employee or\n                  any subordinate shall not be liable for costs in an action, suit or proceeding that\n                  is instituted in pursuance of the provisions of this code; and any officer or employee\n                  of any fire protection district or any officer or employee of the City of Arvada,\n                  acting in good faith, and without malice, shall be free from liability for acts performed\n                  under any of its provisions or by reason of any act or omission in the performance\n                  of official duties in connection therewith.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-34"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

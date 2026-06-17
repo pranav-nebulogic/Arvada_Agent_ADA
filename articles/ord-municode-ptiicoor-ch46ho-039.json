@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "limitations",
+      "remedies",
+      "obligee",
+      "interest",
+      "authority",
+      "any",
+      "property"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-68"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-68. - Limitations on remedies of obligee.",
+    "summary": "No interest of the authority in any property, real or personal, shall be subject to\n               sale by the foreclosure of a mortgage thereon, either through judicial proceedings\n               or the exercise of a power of sale contained in such mortgage, except in the case\n               of the…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-68. - Limitations on remedies of obligee.",
+        "a": "No interest of the authority in any property, real or personal, shall be subject to\n               sale by the foreclosure of a mortgage thereon, either through judicial proceedings\n               or the exercise of a power of sale contained in such mortgage, except in the case\n               of the mortgages provided for in\nsection 46-64\n. All property of the authority is exempt from levy and sale by virtue of an execution\n               and no execution or other judicial process shall issue against the same. No judgment\n               against the authority shall be a charge or lien upon its property, real or personal.\n               The provisions of this section shall not apply to or limit the rights of obligees\n               to foreclose any mortgage of the authority provided for in\nsection 46-64\n, and, in case of a foreclosure sale thereunder, to obtain a judgment or decree for\n               any deficiency due on the indebtedness secured thereby which was issued on the full\n               faith and credit of the authority. Such deficiency judgment or decree shall be a lien\n               and charge upon the property of the authority which may be levied on and sold by virtue\n               of an execution or other judicial process for the purpose of satisfying such deficiency\n               judgment or decree.\n(Code 1981, § 14-37; Ord. No. 1248, § 19, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-221."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-68"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

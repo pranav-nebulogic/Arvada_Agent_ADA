@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "behavior",
+      "officers",
+      "all",
+      "official",
+      "matters",
+      "city",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-377"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-377. - Behavior of officers.",
+    "summary": "(a)\nIn all official matters, officers of the city shall conduct themselves in a manner\n               so as not to bring disrespect or disrepute to the office held, or to the city. During\n               sessions of the official body officers shall treat their fellow officers, the public\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-377. - Behavior of officers.",
+        "a": "(a)\nIn all official matters, officers of the city shall conduct themselves in a manner\n               so as not to bring disrespect or disrepute to the office held, or to the city. During\n               sessions of the official body officers shall treat their fellow officers, the public\n               and city employees with respect. Officers shall refrain from personal attacks on the\n               public and their fellow officers and impugning the motives of their fellow officers.\n               Violations of this section by councilmembers which occur during sessions of the city\n               council may be punishable as follows. An allegation of a violation of this section\n               shall be brought to the attention of the presiding officer before the meeting adjourns.\n               If an allegation is brought to the attention of the presiding officer, the city council\n               shall proceed to determine the matter prior to adjourning. The procedure for hearing\n               the matter shall be set forth in the city council rules. A violation of this section\n               shall be punishable by an oral reprimand made on the record.\n(b)\nUpon its own motion, an official body may hear and determine violations of this section.\n               The city council may develop procedural rules for the investigation and enforcement\n               of violations of this section which shall be binding upon all official bodies.\n(Code 1981, § 2-57; Ord. No. 3088, § 2, 6-27-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-377"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

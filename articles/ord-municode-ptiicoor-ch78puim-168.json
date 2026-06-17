@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reimbursement",
+      "terms",
+      "assessment",
+      "shall",
+      "due",
+      "payable",
+      "upon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-224"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-224. - Reimbursement terms.",
+    "summary": "(a)\nThe assessment shall be due and payable upon the effective date of the ordinance imposing\n               the assessment; provided, however, if any property included within a reimbursement\n               district is unplatted, undeveloped or has not connected to the improvement at the\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-224. - Reimbursement terms.",
+        "a": "(a)\nThe assessment shall be due and payable upon the effective date of the ordinance imposing\n               the assessment; provided, however, if any property included within a reimbursement\n               district is unplatted, undeveloped or has not connected to the improvement at the\n               time the assessment is imposed, the owner of such property may defer payment of the\n               assessment until such time as the property is platted, a building permit is issued,\n               or the property connects to the improvement, whichever shall first occur after the\n               assessment is imposed.\n(b)\nIf the owner elects to defer payment of the assessment, the payment shall include\n               interest at the rate provided by C.R.S. § 5-12-102 for judgments. Such interest shall\n               commence on the effective date of the ordinance imposing the assessment.\n(c)\nA reimbursement district shall terminate ten years from the effective date of the\n               ordinance establishing it and any property which is platted or connected to the improvement\n               thereafter shall not be subject to reimbursement assessment.\n(Code 1981, § 27-184; Ord. No. 1721, § 4, 2-2-1981; Ord. No. 1764, § 3, 8-3-1981)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-224"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

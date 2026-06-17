@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "findings",
+      "fact",
+      "flood",
+      "hazard",
+      "areas",
+      "city",
+      "subject",
+      "periodic",
+      "inundation",
+      "which"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-2-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-2. FLOODPLAIN REGULATIONS"
+  },
+  "content": {
+    "title": "4-1-2-2. Findings of fact.",
+    "summary": "A.\tFlood hazard areas of the City are subject to periodic inundation, which can result in loss of life and property, health and safety hazards, disruption of commerce and government services, and extraordinary public expenditures for flood protection and relief, all of which adversely affect the hea…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-2-2. Findings of fact.",
+        "a": "A.\tFlood hazard areas of the City are subject to periodic inundation, which can result in loss of life and property, health and safety hazards, disruption of commerce and government services, and extraordinary public expenditures for flood protection and relief, all of which adversely affect the health, safety, and general welfare of the public.\nB.\tThese flood losses are created by the cumulative effect of obstruction in floodplains which cause an increase in flood heights and velocities, and by the occupancy of flood hazard areas by uses vulnerable to floods and hazardous to other lands because they are inadequately elevated, floodproofed, or otherwise protected from flood damage.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

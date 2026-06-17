@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "records",
+      "required",
+      "need",
+      "stored",
+      "kept",
+      "within",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-91"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-91. - Records.",
+    "summary": "(a)\nRequired records need not be stored or kept within the city, but if they are not they\n               must, upon request of the enforcement officer, be produced for inspection either at\n               the taxpayer's place of business within the city, or at the city hall no later than\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-91. - Records.",
+        "a": "(a)\nRequired records need not be stored or kept within the city, but if they are not they\n               must, upon request of the enforcement officer, be produced for inspection either at\n               the taxpayer's place of business within the city, or at the city hall no later than\n               14 days from the date of request.\n(b)\nWhen the enforcement officer has scheduled an audit or examination of the records\n               required in this article, not less than 14 calendar days in advance, and has so notified\n               the vendor or taxpayer, and the taxpayer fails to make available the records required\n               hereunder at the appointed time, he shall pay to the city costs of $200.00 and any\n               prepaid travel expenses which have been incurred prior to notice of cancellation;\n               provided, however, that costs shall not be assessed if:\n(1)\nA postponement is approved by the enforcement officer, for good cause shown, not less\n               than seven calendar days before the scheduled audit; or\n(2)\nSufficient notice is given within seven calendar days that the enforcement officer\n               is able to schedule and conduct an audit of another taxpayer at the appointed time\n               in lieu thereof.\n(c)\nIf any taxpayer refuses to furnish any of the foregoing information when requested\n               by the finance director, the finance director may issue a subpoena to require the\n               taxpayer or their representative to produce any such books, accounts and records for\n               examination.\n(Code 1981, § 31-63; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-91"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

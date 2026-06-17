@@ -1,0 +1,73 @@
+# infra/docker-compose.yml
+# Local development stack for the Arvada Agent.
+# Run: docker-compose up -d
+# This starts Postgres (with pgvector + ParadeDB) and Redis.
+# The Python agent runs on your machine (not in Docker) for hot reload.
+
+services:
+  # ── Postgres: use your existing instance, not Docker ─────────────────────
+  # Run init.sql manually in DBeaver against your arvada_agent schema.
+  # Set POSTGRES_URL in .env to point to your instance.
+
+  # ── Redis (semantic cache + conversation memory) ───────────────────────────
+  redis:
+    image: redis/redis-stack:latest  # includes RedisSearch for semantic cache
+    container_name: arvada_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"    # Redis
+      - "8002:8001"    # RedisInsight UI (open http://localhost:8002) — 8001 is reserved for the agent
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  # ── Langfuse (local observability — DISABLED for local dev) ───────────────
+  # Use cloud.langfuse.com free tier instead:
+  #   1. Sign up at https://cloud.langfuse.com
+  #   2. Create a project, copy the keys into .env:
+  #      LANGFUSE_PUBLIC_KEY=pk-lf-...
+  #      LANGFUSE_SECRET_KEY=sk-lf-...
+  #      LANGFUSE_HOST=https://cloud.langfuse.com
+  #
+  # To run Langfuse locally, uncomment the block below and run:
+  #   docker-compose up -d langfuse-server
+  #
+  # langfuse-server:
+  #   image: langfuse/langfuse:latest
+  #   container_name: arvada_langfuse
+  #   restart: unless-stopped
+  #   depends_on:
+  #     langfuse-db:
+  #       condition: service_healthy
+  #   ports:
+  #     - "3000:3000"
+  #   environment:
+  #     DATABASE_URL: postgresql://langfuse:langfuse@langfuse-db:5432/langfuse
+  #     NEXTAUTH_SECRET: local-dev-secret-change-in-prod
+  #     NEXTAUTH_URL: http://localhost:3000
+  #     SALT: local-dev-salt
+  #
+  # langfuse-db:
+  #   image: postgres:16-alpine
+  #   container_name: arvada_langfuse_db
+  #   restart: unless-stopped
+  #   environment:
+  #     POSTGRES_USER: langfuse
+  #     POSTGRES_PASSWORD: langfuse
+  #     POSTGRES_DB: langfuse
+  #   volumes:
+  #     - langfuse_data:/var/lib/postgresql/data
+
+volumes:
+  redis_data:
+
+# ── Usage ────────────────────────────────────────────────────────────────────
+# Start:     docker-compose up -d
+# Stop:      docker-compose down
+# Reset DB:  docker-compose down -v && docker-compose up -d
+# Logs:      docker-compose logs -f postgres
+# Shell:     docker exec -it arvada_postgres psql -U postgres -d arvada_agent

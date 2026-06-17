@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "references",
+      "chapters",
+      "sections",
+      "all",
+      "code",
+      "unless",
+      "otherwise"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH1GEPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:08.706973+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 1-4",
+      "§ 1-6",
+      "§ 1-4"
+    ],
+    "chapter": "Chapter 1 - GENERAL PROVISIONS"
+  },
+  "content": {
+    "title": "Chapter 1 - GENERAL PROVISIONS — Sec. 1-4. - References to chapters or sections.",
+    "summary": "All references to chapters or sections are to the chapters and sections of this Code\n               unless otherwise specified.\n(Code 1960, § 1-6; Code 1981, § 1-4)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 1-4. - References to chapters or sections.",
+        "a": "All references to chapters or sections are to the chapters and sections of this Code\n               unless otherwise specified.\n(Code 1960, § 1-6; Code 1981, § 1-4)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 1-4",
+      "§ 1-6",
+      "§ 1-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "protest",
+      "hearing",
+      "any",
+      "provided",
+      "section",
+      "shall",
+      "open"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-37"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-37. - Protest hearing.",
+    "summary": "(a)\nHearing.\nThe hearing on any protest as provided for in\nsection 30-36\nshall be open to the public, and all testimony shall be under oath administered by\n               a certified court reporter. The city clerk or his designee shall act as hearing officer.\n               The hearing officer shall…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-37. - Protest hearing.",
+        "a": "(a)\nHearing.\nThe hearing on any protest as provided for in\nsection 30-36\nshall be open to the public, and all testimony shall be under oath administered by\n               a certified court reporter. The city clerk or his designee shall act as hearing officer.\n               The hearing officer shall have the power to issue subpoenas, to compel the attendance\n               of witnesses and the production of documents and to receive all testimony and documentary\n               evidence before rendering a decision as to the sufficiency of the protest. Subpoenas\n               may be served via certified mail, return receipt requested, restricted delivery to\n               addressee only. Upon failure of any witness to obey the subpoena, the hearing officer\n               may petition the municipal court for an order compelling the witness to appear and\n               testify or produce documentary evidence. In the event a petition circulator fails\n               to comply with the subpoena, the hearing officer is prohibited from counting any signature\n               in such circulator's petition sections as a valid signature in support of the ballot\n               issue or ballot question. The burden of proof shall be on the protestants to prove\n               that the petition is insufficient. The result of such hearing shall be mailed to the\n               petition representatives and protest representatives. The protest hearing shall be\n               concluded and a decision by the hearing officer rendered not later than 30 days after\n               the conclusion of the hearing. The hearing officer may request the city attorney's\n               office to provide legal advice during the hearing.\n(b)\nAmended protest.\nIf the hearing officer denies the protest in whole or in part, the person filing\n               the protest, within ten days after such denial, may file an amended protest, a copy\n               of which shall be mailed to the petition representatives, via U.S. mail, return receipt\n               requested, named in the petition. A hearing shall be held on the amended protest as\n               in the case of the original protest. No person shall be entitled to amend an amended\n               protest.\n(c)\nAppeal.\nThe finding of the hearing officer as to the sufficiency or insufficiency of any\n               petition following a protest may be appealed to the Jefferson County District Court.\n(Code 1981, § 11-28; Ord. No. 3511, § 2, 2-1-1999; Ord. No. 3801, § 5, 4-21-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-37"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

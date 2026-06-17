@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "development",
+    "tags": [
+      "long",
+      "range",
+      "planning",
+      "development",
+      "land",
+      "code",
+      "Planning & Zoning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1373/Long-Range-Planning"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/development/pz-005",
+    "spreadsheet_id": "PZ-005",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Long-Range Planning",
+    "summary": "The Long-Range Planning Division in Arvada manages citywide and sub-area planning, including the development of a new Comprehensive Plan to guide growth over the next 20 years. Additionally, the city has initiated Sub-Area Planning for mixed-use developments and recently adopted the Olde Town Arvada Strategic Reinvestment Plan, which aims to preserve the area's character while enhancing its vibrancy and pedestrian experience.",
+    "body": "The Long-Range Planning Division (formerly called Advance Arvada) oversees planning, land use code decisions, development management and resource services that are delivered to residents, businesses, the development community, decision-making bodies and neighborhood partners. The team manages both comprehensive, citywide planning and sub-area planning for key economic development areas throughout the community, along with the [Land Development Code](https://www.arvadaco.gov/179/Land-Development-Code) that implements those plans.\n\n## Comprehensive Plan\n\nThe City of Arvada has launched a new Comprehensive Plan to guide development in the city over the next 20+ years. Read more about the effort and the previous plan, adopted in 2014, on the [2026-27 Comprehensive Plan page](https://www.arvadaco.gov/1374/2026-27-Comprehensive-Plan-Update).\n\n## Sub-Area Planning\n\nAs part of the 2018 Land Development Code, the City of Arvada has begun the development of specific area plans for many of the corridors and areas zoned for mixed-use development. This is called Sub-Area Planning. For more information on the current Sub-Area Plans, visit [Sub-Area Planning](https://www.arvadaco.gov/170/Sub-Area-Planning).\n\n### Olde Town Arvada Strategic Reinvestment Plan\n\nIn an effort to preserve the history and character of Olde Town Arvada while ensuring the district remains a thriving and vibrant downtown for many years to come, the City of Arvada has finalized the Olde Town Arvada Strategic Reinvestment Plan and it was adopted by City Council in October 2023. The plan includes the development of a shared 20-year vision for Olde Town as well as a study into the feasibility of permanently maintaining street closures that have created a comfortable pedestrian experience in recent years.\n\n[View the FINAL Olde Town Strategic Reinvestment Plan](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68cd97673560a).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "penalties",
+      "generally",
+      "person",
+      "guilty",
+      "misdemeanor",
+      "upon",
+      "conviction",
+      "case",
+      "where",
+      "violation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "10-1-2-3"
+    ],
+    "chapter": "Chapter 10 ENFORCEMENT",
+    "article": "ARTICLE 10-1. ENFORCEMENT",
+    "division": "DIVISION 10-1-2. VIOLATIONS, REMEDIES, AND PENALTIES"
+  },
+  "content": {
+    "title": "10-1-2-3. Penalties.",
+    "summary": "A.\tGenerally. A person shall be guilty of a misdemeanor upon conviction in any case where a violation of this LDC exists, after notice of violation, including any stop-work order, has been properly served, and such person fails to comply with such notice or stop-work order.\nB.\tPenalty.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "10-1-2-3. Penalties.",
+        "a": "A.\tGenerally. A person shall be guilty of a misdemeanor upon conviction in any case where a violation of this LDC exists, after notice of violation, including any stop-work order, has been properly served, and such person fails to comply with such notice or stop-work order.\nB.\tPenalty. Persons found guilty of a misdemeanor pursuant to this Section shall be punishable by a fine not to exceed the limits established in Section 1-5, Arvada Municipal Code, or by imprisonment for not more than 180 days, or by both such fine or imprisonment for each such violation."
+      }
+    ],
+    "ordinance_refs": [
+      "10-1-2-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

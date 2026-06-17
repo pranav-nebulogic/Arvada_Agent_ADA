@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "significant",
+      "natural",
+      "features",
+      "generally",
+      "subject",
+      "property",
+      "contains",
+      "corridors",
+      "bluffs",
+      "ridges"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-4-4"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-4. NATURAL HAZARDS AND ENVIRONMENTALLY-SENSITIVE AREAS"
+  },
+  "content": {
+    "title": "4-1-4-4. Significant natural features.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-4-4. Significant natural features.",
+        "a": "A.\tGenerally. If the subject property contains significant natural features (such as corridors, bluffs, ridges, steep slopes, stands of mature trees, rock outcroppings—including without limitation the Ralston Buttes—wetlands, native upland ecosystems, riparian areas, and wildlife corridors identified by the Colorado Division of Wildlife) or water features (such as drainages, washes, canals, ditches, lakes, natural ponds, and retention and detention ponds), the Applicant shall identify on the plat the Limits of Development as illustrated by Section 4-1-4-2, Limits of Development, include a plat note that areas outside the Limits of Development are not available for development, and incorporate measures to mitigate any visual, functional, or environmental impact of nearby development on such features.\nB.\tGroundwater Recharge. Any area providing groundwater recharge to bedrock aquifers shall be identified at the time of the development review, and the design of the proposed development shall preserve the total amount and the quality of naturally occurring recharge.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-4-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

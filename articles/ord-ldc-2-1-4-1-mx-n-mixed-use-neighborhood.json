@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "mixed",
+      "neighborhood",
+      "purpose",
+      "zoning",
+      "district",
+      "allow",
+      "promote",
+      "adaptive",
+      "residential",
+      "buildings"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-4-1"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-4. MIXED-USE DISTRICTS"
+  },
+  "content": {
+    "title": "2-1-4-1. MX-N: Mixed-Use, Neighborhood.",
+    "summary": "A.\tPurpose.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-4-1. MX-N: Mixed-Use, Neighborhood.",
+        "a": "A.\tPurpose. The purpose of the Mixed-Use, Neighborhood (MX-N) zoning district is:\n  1.\tTo allow for and promote adaptive re-use of residential buildings on collector or arterial streets that are not necessarily desirable residential locations due to traffic patterns or volumes or other contextual factors; and\n  2.\tTo provide for new commercial and residential uses on blocks or corners in neighborhoods where such uses are desired and consistent in scale and height with the adjacent neighborhoods; and\n  3.\tTo accommodate a mix of lower-density, walkable, mixed-use and residential development along corridors near low- and medium-density residential neighborhoods.\nB.\tRelationship to the Comprehensive Plan. The MX-N zoning district generally implements the \"Mixed Use\" and \"Mixed-Use: Residential Emphasis\" land use category stated in the Comprehensive Plan.\nC.\tLot and Building Standards. The standards for lots and buildings in the MX-N zoning district are set out in Table 2-1-4-1A, Mixed-Use, Neighborhood Lot and Building Standards and Division 2-1-8, Housing Palette.\nD.\tHousing Palette. The following housing types identified in Division 2-1-8, Housing Palette, are allowed in the MX-N zoning district:\n  1.\tSingle-Family Detached: Small Urban; Urban; Small General; General; Small Suburban (See subsection 3-1-3-2A.)\n  2.\tDuplexes: Side-By-Side; Over-Under\n  3.\tTownhomes: Suburban; Urban\n  4.\tMultiplexes\n  5.\tMultifamily: General; Urban.\nE.\tCross-References. The cross-references in Table 2-1-4-1B, Cross-References for Mixed-Use, Neighborhood, are provided for the reader's convenience and are not necessarily exhaustive of applicable regulations."
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

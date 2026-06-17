@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "automotive",
+      "service",
+      "repair",
+      "sales",
+      "code",
+      "paid",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/289/Automotive-Service-Repair"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-087",
+    "spreadsheet_id": "MI-087",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Automotive Service & Repair",
+    "summary": "The Arvada Municipal Code mandates that sales tax be collected on retail items sold in Arvada, including parts and accessories sold by licensed repair shops. While labor billed separately is not taxable, subcontracted repairs that include parts or labor are subject to tax. Additionally, various fees, core charges, and shop supplies are also taxable, and repair shops must pay sales tax on items used in their operations unless a resale certificate is provided.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax on the price paid for items sold at retail in the City of Arvada (COA). If sales and use tax was not paid to the COA or another municipality, Arvada uses tax is due. The taxable price is the amount of money received or due, including shipping charges. A licensed repair shop selling parts and accessories must collect and pay City sales tax on the price paid for the parts sold to customers.\n\n## Parts\n\nParts are items used to repair or service a vehicle. They become part of the vehicle. Parts are easily quantifiable and have a fixed or defined price. Materials used to repair vehicles are considered parts if they are itemized on the invoice with price and quantity such as parts, and paint, etc.\n\n## Labor\n\nLabor, if billed separately, is not subject to sales and use tax. But, manufactured or other processing labor is not exempt and must be included in the taxable purchase price.\n\n## Sublet Repairs\n\nSubcontracted repair and services are repair work to another repair shop, often referred to as a sublet repair. If the sublet repair includes charges for parts or fabrication labor, you are responsible not only for issuing a resale certificate to the person who performs the sublet repair work but also for itemizing the sublet repair parts and labor on your customer invoice. The full amount charged for the sublet repair parts, including your markup, is taxable.\n\n## Fees\n\nDelivery fees and other miscellaneous fees, including, but not limited to:\n\n- Environmental fees\n- Freight\n- Handling fees\n- Shop supply recoveries must also be included in the taxable price. This includes the waste tire fees.\n- Waste fees\n\n## Core Charges\n\nCore charges and other similar deposits are part of the taxable price. The seller should collect tax on the full price, including the deposit. When the customer returns the used parts, the appropriate tax should be refunded. Sometimes the return occurs after the tax from the original sale has already been paid to the City. In this case, the seller may take a \"returned goods\" deduction on the next City tax return (line 3H) as long as the statute of limitation has not expired.\n\n## Purchases By Repair / Service Shops\n\nRepair shops must pay Arvada sales tax on taxable items purchased for use in their shops, including supplies, tools, and equipment. If Arvada sales tax is not paid at the time of the purchase then use tax must be sent directly to the City.\n\n## Shop Supplies\n\nShop supplies that do not become a main part of an automobile are subject to sales and use tax when purchased by the repair shop. Such items include, but are not limited to:\n\n- Cleaners\n- Floor mats\n- Gloves\n- Hand tools\n- Masking tape\n- Paint thinner or reducers\n- Rags\n- Rubbing compounds\n- Sandpaper\n- Seat covers\n- Solvents\n- Steering wheel covers\n\nThese items should **not**be listed on the customer's invoices as a \"Shop Supplies\" charge.\n\nSome shop supplies do become attached to other parts and accessories during the repair. Items like:\n\n- Additives\n- Bolts\n- Fasteners\n- Filters\n- Nuts\n- Plastic body filler\n- Screws\n- Wax\n- Welding rods\n- Wheel weights\n\nThese items may be purchased tax-free with a resale certificate. If they are too small to be itemized on the customer's invoice they can be listed as a \"Shop Supplies\" charge that is taxed on the customer's invoice.\n\n## Insurance Claims & Repairs\n\nWhen you perform repair work covered by insurance, you will bill the insurance company the same way you would bill the customer as stated above.\n\n## Warranty Work & Service Contracts\n\nWhen a customer brings a vehicle in for a repair under a service contract or warranty, you will bill the warranty company for the work done. Parts covered under the warranty are taxable. Additional charges billed to the customer (such as charges for repair parts not covered by the warranty) are taxable.\n\n## Examples\n\n- A body shop purchases masking tape and degreasers for use in painting cars. These items are taxable to the body shop because they do not become permanently affixed to the car being painted. These are supplies, which are used and consumed by the body shop in rendering its service.\n- A repair shop purchases engine parts for installation on a customer's car. The repair shop can purchase these parts for resale because they become a permanent part of the car being repaired. The repair shop would charge sales tax to its customer on the parts.\n- A customer purchases a rebuilt starter from an auto parts retailer for $35 plus a $10 deposit. The store should collect sales tax on $45. When the customer returns his old starter to claim the $10 deposit, the store should refund the $10 deposit plus the sales tax paid on the $10. If the customer traded in the old starter at the time of purchase, there would be no deposit collected and sales tax would be due only on the $35 purchase price.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

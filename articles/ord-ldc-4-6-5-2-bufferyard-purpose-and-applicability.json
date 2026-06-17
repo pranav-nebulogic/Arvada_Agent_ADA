@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "bufferyard",
+      "purpose",
+      "applicability",
+      "purposes",
+      "bufferyards",
+      "landscaped",
+      "area",
+      "between",
+      "differing",
+      "land"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-5-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-5. LANDSCAPE AREAS AND BUFFERYARDS"
+  },
+  "content": {
+    "title": "4-6-5-2. Bufferyard purpose and applicability.",
+    "summary": "A.\tPurposes of Bufferyards.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-5-2. Bufferyard purpose and applicability.",
+        "a": "A.\tPurposes of Bufferyards. A bufferyard is a landscaped area between two differing land uses and is designed to provide a transition between the uses, mitigate or minimize potential nuisances such as noise, light, and glare, protect the character of an area, and protect natural resources from impacts of nearby development.\nB.\tApplicability.\n  1.\tUses Requiring a Bufferyard. The following uses require a bufferyard per Section 4-6-5-3, Bufferyard Options, where directly adjacent to a single-family detached dwelling, duplex dwelling or multiplex, or a RN zoning district:\n    a.\tMultifamily and townhomes;\n    b.\tMixed-use buildings;\n    c.\tNon-residential buildings;\n    d.\tDrive-through facilities;\n    e.\tIndustrial manufacturing and processing uses, and storage uses in the IL and IG zoning districts; and\n    f.\tDead-end drives and turnarounds.\n  2.\tAdditional Uses Requiring a Bufferyard. The following uses require a bufferyard per Section 4-6-5-3, Bufferyard Options, where directly adjacent to a multifamily, townhomes, or other attached residential buildings or a mixed-use building with a residential component:\n    a.\tDrive-through facilities; and\n    b.\tIndustrial manufacturing, processing uses, and storage uses in the IL and IG zoning districts.\n(Ord. No. 4793, § 3, 3-21-2022)\nEditor's note(s)—Ord. No. 4793, § 3, adopted March 21, 2022, changed the title of § 4-6-5-2 from \"Purpose and applicability.\" to read as hereing set out."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-5-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

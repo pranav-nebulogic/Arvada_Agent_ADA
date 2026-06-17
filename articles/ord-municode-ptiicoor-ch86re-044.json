@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "death",
+      "benefits",
+      "any",
+      "member",
+      "retirant",
+      "shall",
+      "die"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-152"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-152. - Death benefits.",
+    "summary": "When any member or retirant shall die and leave dependents, the following benefits\n               shall apply: If any member was on active duty, a benefit of one-fourth of the base\n               pay the member was drawing shall be payable to a surviving widow, and a benefit of\n               one-ei…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-152. - Death benefits.",
+        "a": "When any member or retirant shall die and leave dependents, the following benefits\n               shall apply: If any member was on active duty, a benefit of one-fourth of the base\n               pay the member was drawing shall be payable to a surviving widow, and a benefit of\n               one-eighth of the base pay shall be payable to each surviving minor child until such\n               child reaches the age of 18 years. If the member was a retirant, then that amount\n               to be paid to the surviving widow shall be one-half of the retirant's benefit and\n               that amount paid to each surviving child shall be one-fourth of the retirant's benefit.\n               In no case shall the combined amount paid to a surviving widow and children exceed\n               the total amount of benefit the member would have received as a retirant had he survived.\n               If the retirant does not leave a surviving widow, but does leave a surviving mother\n               or father, then a benefit equal to that payable to a surviving widow may be paid to\n               surviving dependent parent. If the surviving widow of a deceased member dies or remarries,\n               then no further payments shall be made for such survivor; however, if there is a surviving\n               dependent parent, such payments could then be made if dependency were established.\n               If a surviving widow remarries and the marriage shall be dissolved, benefit payment\n               shall not be re-established. If surviving children under the age of 18 are subsequently\n               adopted, any benefit payment shall cease.\n(Code 1960, § 19-11(D); Code 1981, § 26-76)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-152"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

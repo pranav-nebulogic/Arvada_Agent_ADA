@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "relationship",
+      "between",
+      "comprehensive",
+      "plan",
+      "code",
+      "principal",
+      "document",
+      "guiding",
+      "development",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-5-2"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-5. COMPREHENSIVE PLAN"
+  },
+  "content": {
+    "title": "1-1-5-2. Relationship between comprehensive plan and this code.",
+    "summary": "A.\tThe Comprehensive Plan is the principal document guiding development for the City and the City's planning area. This Code is the primary implementation document of the Comprehensive Plan.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-5-2. Relationship between comprehensive plan and this code.",
+        "a": "A.\tThe Comprehensive Plan is the principal document guiding development for the City and the City's planning area. This Code is the primary implementation document of the Comprehensive Plan. Together, these documents establish guidelines and standards, and regulate land use within the City.\nB.\tWhen considering amendments to this Code text and/or maps, the Planning Commission and City Council shall pay reasonable regard to the policies of the Comprehensive Plan."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-5-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

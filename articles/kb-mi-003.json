@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "housing",
+      "strategic",
+      "plan",
+      "policy",
+      "assets",
+      "financial",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1277/2024-Housing-Strategic-Plan"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-003",
+    "spreadsheet_id": "MI-003",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "2024 Housing Strategic Plan",
+    "summary": "The Arvada Housing Strategic Plan was adopted by the City Council on May 20, 2024, based on findings from the Arvada Housing Needs Assessment and includes nine policy recommendations. The plan focuses on leveraging financial assets to support affordable housing initiatives and modifying land use and zoning to enhance housing supply and diversity, with specific strategies for funding, land allocation, and incentives for affordable developments.",
+    "body": "The [Arvada Housing Strategic Plan (PDF)](/DocumentCenter/View/4233/Final-Arvada-Housing-Strategic-Plan-pdf) was approved and adopted by City Council on May 20, 2024. The Plan drew from the findings in the Arvada Housing Needs Assessment and made nine policy recommendations based on available two policy levers:\n\n## Policy Lever #1: Leverage Financial Assets\n\nLeveraging financial assets will support affordable housing production, preservation and programs.\n\n### Strategies:\n\n![](/ImageRepository/Document?documentId=5662)\n\nStrategy in Practice: Legacy Senior Residences: 72-Unit, 100% Affordable Senior Property, now under construction\n\n- Continue existing program funding supported by federal and state funds and service delivery partnerships.\n- Continue to allocate publicly owned land (and/or acquire properties) for affordable and mixed-income housing.\n- Create a dedicated, sustainable revenue source to fund the Arvada Affordable Housing Fund (AAHF).\n- Invest in the production of income-restricted housing prioritizing projects that meet identified housing needs.\n- Invest in the preservation of affordable housing.\n- Add staff capacity to support implementation of the Housing Strategic Plan.\n\n## Policy Lever #2: Land Use and Zoning Modifications\n\nThis will unlock supply, improve natural affordability and housing diversity and incentivize affordable projects.\n\n### Strategies:\n\n![](/ImageRepository/Document?documentId=5661)\n\nRalston Gardens – 100% Affordable project was granted approval to use Juliet balconies instead of full balconies to reduce construction costs.\n\n- Incorporate additional incentives for affordable (income-restricted) developments.\n- Implement land use recommendations from the Jeffco Housing Advocacy Steering Committee on workforce housing.\n- Explore affordable requirements in new developments.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

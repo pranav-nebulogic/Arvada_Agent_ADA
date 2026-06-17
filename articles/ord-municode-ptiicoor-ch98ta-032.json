@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "automotive",
+      "vehicles",
+      "vehicle",
+      "defined",
+      "any",
+      "including",
+      "device"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-83"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-83. - Automotive vehicles.",
+    "summary": "No automotive vehicle, defined as any vehicle, including any device in, or upon which\n               any person or property is or may be transported or drawn upon a public highway, road\n               or street; or any device used or designed for aviation or for flight in the air and\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-83. - Automotive vehicles.",
+        "a": "No automotive vehicle, defined as any vehicle, including any device in, or upon which\n               any person or property is or may be transported or drawn upon a public highway, road\n               or street; or any device used or designed for aviation or for flight in the air and\n               upon which a specific ownership tax is imposed by the state, which is purchased by\n               a resident of the city or other person for use within the city, shall be registered\n               in Adams or Jefferson County, nor shall title to a automotive vehicle be released\n               within Adams or Jefferson Counties by the county clerks of the respective counties,\n               if the tax imposed by the provisions of this article has not been paid.\n(1)\nThe determination of vehicle registration requirements for individuals shall be the\n                  same as for the determination of residency for voter registration purposes, as established\n                  by state law.\n(2)\nThe determination of vehicles registration requirements for automotive vehicles, which\n                  are owned by a business and operated primarily for business purposes shall be based\n                  on the address from which such automotive vehicles are principally operated and maintained.\n(Code 1981, § 31-58; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-83"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

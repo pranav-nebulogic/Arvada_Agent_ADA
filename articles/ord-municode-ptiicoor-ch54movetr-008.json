@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mtc",
+      "part",
+      "parking",
+      "amended",
+      "model",
+      "traffic",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-38"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-38. - MTC Part 12 \"Parking\" amended.",
+    "summary": "The Model Traffic Code is hereby amended by adding section 1203 to Part 12 to read\n               as follows:\n1203. Parking in fire lane prohibited.\nIt shall be unlawful for any person to park a vehicle, or for the owner or person\n                  in charge of any vehicle to cause or knowingly perm…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-38. - MTC Part 12 \"Parking\" amended.",
+        "a": "The Model Traffic Code is hereby amended by adding section 1203 to Part 12 to read\n               as follows:\n1203. Parking in fire lane prohibited.\nIt shall be unlawful for any person to park a vehicle, or for the owner or person\n                  in charge of any vehicle to cause or knowingly permit the vehicle to be parked within\n                  the city in any area designated by sign or other clearly visible marking as a fire\n                  lane or a fire apparatus access roadway, except for a police vehicle, an ambulance,\n                  or a fire truck or other fire apparatus vehicle being used to respond to a fire or\n                  other emergency.\n(\nOrd. No. 4384, § 2, 4-15-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-38"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

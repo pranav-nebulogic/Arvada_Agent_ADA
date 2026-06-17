@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "alteration",
+      "nonconforming",
+      "signs",
+      "generally",
+      "altered",
+      "provided",
+      "section",
+      "except",
+      "does",
+      "apply"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-4-1"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-4. NONCONFORMING SIGNS"
+  },
+  "content": {
+    "title": "9-1-4-1. Alteration of nonconforming signs.",
+    "summary": "A.\tGenerally. Nonconforming signs may be altered as provided in this Section, except that this Section does not apply to signs within the OT zoning district (see Section 6-1-7-2, Historic Signs; Exceptions to Nonconformity and Abandonment).\nB.\tLimitations on Alterations.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-4-1. Alteration of nonconforming signs.",
+        "a": "A.\tGenerally. Nonconforming signs may be altered as provided in this Section, except that this Section does not apply to signs within the OT zoning district (see Section 6-1-7-2, Historic Signs; Exceptions to Nonconformity and Abandonment).\nB.\tLimitations on Alterations. Nonconforming signs may be altered as follows:\n  1.\tExcept for Certificate of Compliance to the Design Guidelines, the copy of a nonconforming sign may be changed without limitation, provided that the sign area, sign height, background shape, and location of the sign are not changed."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

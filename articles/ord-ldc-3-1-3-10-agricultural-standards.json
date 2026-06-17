@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "agricultural",
+      "standards",
+      "agriculture",
+      "general",
+      "zoning",
+      "district",
+      "uses",
+      "including",
+      "crop",
+      "production"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-3-10"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-3. USE-SPECIFIC STANDARDS FOR PRIMARY LAND USE"
+  },
+  "content": {
+    "title": "3-1-3-10. Agricultural standards.",
+    "summary": "A.\tAgriculture, General.\n  1.\tIn the OS zoning district, agriculture uses, including crop production and livestock grazing are allowed provided no dwelling unit is allowed.\n  2.\tIn the RA zoning district, agriculture uses, including crop production and livestock grazing are permitted.\n  3.\tSilos, pr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-3-10. Agricultural standards.",
+        "a": "A.\tAgriculture, General.\n  1.\tIn the OS zoning district, agriculture uses, including crop production and livestock grazing are allowed provided no dwelling unit is allowed.\n  2.\tIn the RA zoning district, agriculture uses, including crop production and livestock grazing are permitted.\n  3.\tSilos, production facilities and other type of buildings shall be setback a minimum of 75 feet from an adjacent residential use.\nB.\tAgriculture, Community.\n  1.\tAll community gardens shall conform to the following standards:\n    a.\tHours of operation are limited to the period from dawn to dusk.\n    b.\tNo buffer landscape is required between adjacent land uses.\n    c.\tOutdoor lighting is prohibited for crop production.\n    d.\tPermanent structures are permitted for Agriculture, Community uses that are a principal permitted land use, but not an accessory land use.\n    e.\tThere shall be no more than three accessory structures allowed, and such structures may not exceed a combined 1,000 square feet total, and shall comply with the applicable development and design standards of the zoning district.\n    f.\tGardeners shall properly tend to the garden during crop season and prepare planting areas for the winter and off-seasons in a manner that creates positive aesthetics in addition to controlling dust, erosion and run-off. This may include, but is not limited to, removal or tilling of dead plant debris, storing equipment, etc.\n    g.\tThe Director may require off-street parking if there is not adequate on-street parking available. Parking areas and access drives shall be surfaced with durable materials, such as concrete, asphalt, and compacted crushed stone and shall be treated to control dust as necessary.\n    h.\tSales of produce on site shall be limited to those grown on site.\n    i.\tProduce stands may operate for up to a maximum of six months per year. When not in use, temporary produce stand structures must be removed.\n    j.\tDistribution of produce to individuals who own shares in the farm is generally allowed on site. However, the City reserves the right to limit or prohibit on-site distribution if the Director determines that this practice negatively impacts the surrounding neighborhood.\n    k.\tThe site must be designed and maintained so that water and fertilizer will not drain onto adjacent property.\n  2.\tExisting agricultural uses may continue as conforming uses.\nC.\tGreenhouses/Nurseries (with retail sales).\n  1.\tThe type and location of any bulk materials to be stored on any site shall be determined at the time of approval of the conditional use approval.\n  2.\tIn the CG, IL and IG zoning districts, the retail use shall not occupy more than 5,000 square feet.\n  3.\tAny materials approved for bulk outdoor storage shall not cause a hazard or nuisance to the health, welfare or safety of humans or animals.\n  4.\tExcept for plants, outdoor storage areas shall not be located in the front or side setback and shall be set behind the principal building.\nD.\tGreenhouses/Nurseries (without retail sales).\n  1.\tIn the RA, IL and IG zoning districts, except for plants, outdoor storage areas shall not be located in the front or side setback and shall be set behind the principal building.\n(Ord. No. 4905, § 24, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-3-10"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

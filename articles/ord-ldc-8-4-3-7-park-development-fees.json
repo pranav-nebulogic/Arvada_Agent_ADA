@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "park",
+      "development",
+      "fees",
+      "assessment",
+      "based",
+      "annual",
+      "adjustment",
+      "subsection",
+      "below",
+      "single"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-3-7"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-3. LAND DEDICATION; FEES-IN-LIEU; AND DEVELOPMENT FEES"
+  },
+  "content": {
+    "title": "8-4-3-7. Park development fees.",
+    "summary": "A.\tAssessment of Park Development Fee. Based on the annual adjustment of fee per Subsection C.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-3-7. Park development fees.",
+        "a": "A.\tAssessment of Park Development Fee. Based on the annual adjustment of fee per Subsection C. below, a park development fee per single family detached unit, multifamily, or single-family attached unit, shall be assessed, which fee shall be due and payable at the time of the approval of the minor subdivision plat, major subdivision final plat, site plan, or PUD final development plan, as the case may be, containing such dwelling units.\nB.\tAnnual Adjustment of Fee. Annually, the park development fee shall be automatically adjusted in accordance with any percentage change in the cost of park development. The park development fee shall be adjusted by the average percentage change, if any, in the Consumer Price Index, the Construction Cost Index, and the Building Cost Index, taken together and as established for the Denver metropolitan area.\nC.\tOption to Construct Neighborhood Park Improvements. Subject to the express approval of the City, the owner/developer of a new residential development may elect, in lieu of payment of park development fees, to develop and construct neighborhood park improvements on land within the development that is dedicated for such purposes, or upon existing park land reasonably proximate to the development. Such development and construction shall comply with all applicable provisions of this LDC and any rules or regulations adopted pursuant thereto.\n(Ord. No. 4905, § 71, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-3-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

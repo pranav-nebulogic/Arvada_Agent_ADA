@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "sheridan",
+      "sewer",
+      "line",
+      "replacement",
+      "work",
+      "scheduled",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1177/Sheridan-Sewer-Line-Replacement"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-503",
+    "spreadsheet_id": "MI-503",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Sheridan Sewer Line Replacement",
+    "summary": "The City of Arvada is replacing and upsizing a sewer line along Sheridan Boulevard between 68th and 76th avenues due to its aging infrastructure and capacity limitations. Construction began in March 2025 and is expected to last 9 to 11 months, with phased lane closures and potential travel delays. Restoration work is ongoing, and repaving is scheduled for spring, with caution advised in the work zone.",
+    "body": "## Current notices\n\nUpdated 3/18/26\n\n- Some ongoing restoration work, no scheduled closures, minimal impacts expected\n- Repaving on Sheridan will be scheduled in the spring\n\nPlease use caution through the work zone. Travel delays are possible. Work is weather dependent and subject to change.\n\n## Overview\n\nThe City of Arvada maintains a sewer line that runs underneath Sheridan between 68th and 76th avenues. The sewer line serves the north and west portions of Arvada and is reaching the end of its useful life and has capacity limitations. The sewer line needs to be replaced and upsized to continue reliably serving the community.\n\nThis section of Arvada’s sewer line runs along the border with Westminster underneath a CDOT road. Timelines and permitting are being coordinated with both organizations.\n\n### Project map\n\n\\*Click map to enlarge.\n\n[![map of sewer line project on Sheridan at 68th moving north to 76th and west along Little Dry Creek](/ImageRepository/Document?documentId=4944)](/DocumentCenter/View/4945/Sheridan-sewer-line-replacement-project-map-2025)The project will begin just east of Sheridan on W 68th Ave moving north along Sheridan Blvd to W 76th Ave and west along Little Dry Creek Trail.\n\n## Timeline\n\nConstruction began in March 2025 and take approximately 9 to 11 months to complete.\n\nConstruction will take place in phases beginning at W 68th Avenue and moving north on Sheridan to W 76th Avenue and west along Little Dry Creek Trail.\n\n## What to expect\n\n- **Single lane of traffic**in each direction on Sheridan\n  - Single lane closures will be phased as construction moves north\n  - Travel delays on Sheridan are possible\n- **Full road closures**of W 68th Ave east of Sheridan and W 76th Ave west of Sheridan\n  - Other side street closures are possible as work moves north along Sheridan\n- **Trail detours**along the Little Dry Creek Trail northwest of the W 76th Ave & Sheridan intersection\n  - Detour signage will be in place\n- Additional construction noise and traffic\n- Repaving the road in work areas\n  - Full road repaving is not within the scope of this project",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

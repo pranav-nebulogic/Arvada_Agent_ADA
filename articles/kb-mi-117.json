@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "caterers",
+      "catering",
+      "code",
+      "paid",
+      "price",
+      "sales",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/305/Caterers-Catering"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-117",
+    "spreadsheet_id": "MI-117",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Caterers & Catering",
+    "summary": "The Arvada Municipal Code imposes a sales tax on retail items sold in Arvada, including catering services, which must be charged based on the event's location. Caterers can purchase food and certain supplies tax-exempt if for resale, but must charge sales tax on the total price of essential items and services provided, including food, rentals, and delivery charges. Charitable organizations can use a tax-exempt certificate for food purchases, but sales tax applies if the food is for a fundraising event with paid attendees.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax on the price paid for items sold at retail in the City of Arvada (COA). If sales and use tax was not paid to the COA or another municipality, Arvada uses tax is due. The taxable price is the amount of money received or due, including shipping charges.\n\nTax is due based on the location of the catered event.\n\nCaterers may purchase food and certain catering supplies exempt from sales tax if those items are for resale or for rent. Sales tax must be charged and collected by the caterer from the purchaser. Exempt purchases may include, but are not limited to:\n\n- Food\n- Onetime use or rented items like:\n  - Chafing or serving dishes\n  - Eating utensils\n  - Linens\n\nItems for direct use by the catering company and not for resale are subject to sales tax to the caterer at the time of purchase. If no sales tax was paid at the time of purchase, use tax applies. Arvada will give credit for other lawfully imposed municipal sales tax paid up to the amount of the Arvada rate on purchases made by the caterers.\n\nExamples of non‐exempt purchases include, but are not limited to:\n\n- Pots and pans\n- Steam tables\n- Storage containers\n- Uniforms\n\nCaterers are liable for the tax on the total price of items that are essential to providing the meals and beverages. Sales tax must be listed on the customer invoice and may not be absorbed into the total price. Some examples of essential charges subject to tax include, but are not limited to:\n\n- Flowers, decorations, or centerpieces\n- Rental of chairs, linens, and serving pieces\n- Set‐up and tear‐down\n- Staff to serve food\n\nDelivery charges listed on the customer invoice are subject to Arvada sales tax if delivery is within Arvada.\n\n## Examples\n\n- Company A, an Arvada business, is holding a Holiday Party at their business location to thank their employees for a profitable year. It has hired Catering Company B, located outside the City. The caterer provides and delivers:\n  - Food and beverages\n  - Tables, chairs, and linens\n  - Glassware and silverware\n  - Centerpieces\n\nThey also provide two employees that will serve food on the buffet line, one bartender, and one table busser. The total charges are $800 for the food and beverage, $250 for the rentals, and a $200 service charge for the wait staff. The total of $1,250 is subject to Arvada sales tax.\n\n- An Arvada resident hires Caterer C to supply the food for a family reunion. The caterer delivers the food to the resident's home. The charges are $350 for the food and a $25 delivery charge. Both the food and delivery charge for a total of $375 is subject to Arvada sales tax.\n\nCharitable organizations may provide a caterer with a tax-exempt certificate and buy food without paying sales tax. However, if the food is for a fundraising event and attendees are required to pay, the caterer must charge sales tax. The tax rate is based on the location of the event.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

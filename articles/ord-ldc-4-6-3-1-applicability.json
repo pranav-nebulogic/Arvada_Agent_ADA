@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "applicability",
+      "generally",
+      "construction",
+      "including",
+      "building",
+      "expansions",
+      "increase",
+      "footprint",
+      "percent",
+      "more"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-3-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-3. GENERAL LANDSCAPING STANDARDS"
+  },
+  "content": {
+    "title": "4-6-3-1. Applicability.",
+    "summary": "A.\tGenerally. All new construction, including building expansions that increase the footprint of a building by 25 percent or more, and modification to an existing landscape area shall comply with the standards in this Article.\nB.\tExceptions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-3-1. Applicability.",
+        "a": "A.\tGenerally. All new construction, including building expansions that increase the footprint of a building by 25 percent or more, and modification to an existing landscape area shall comply with the standards in this Article.\nB.\tExceptions. Exceptions to this Article are allowed under the following circumstances:\n  1.\tInterior Tenant Improvement. The landscaping requirements of this Article shall not apply to existing structures where interior tenant improvements occur and where there is no addition to the number of parking spaces provided.\n  2.\tExisting Structures. Where existing structures are situated so as to preclude the installation of required landscaping, the Director may authorize reductions for the required landscaping.\n  3.\tPhysical Limitations of the Site. The Director may authorize modifications to landscaping requirements for structure additions or tenant improvements where landscaping requirements are not feasible due to physical limitations of the site. Where the landscaping requirements have been modified, the landscaping shall be relocated in the following manner:\n    a.\tTo another portion of the lot;\n    b.\tAlong a property line; or\n    c.\tTo an area, including a nearby public park or other City-owned property, as determined by the Director upon review with the owner or developer.\n  4.\tSingle-Family Detached and Duplex. Single-family detached and duplex dwelling unit lots, are exempt from landscaping requirements, provided the initial development of the subdivision contains nine or fewer lots of single-family and/or duplex. Common landscape areas, bufferyards, water quality/detention basins, or streetscape areas, shall meet the applicable requirements of this Chapter.\nC.\tSite Changes. Townhome, multiplex, multifamily, mixed-use, commercial, and industrial uses that are part of larger project shall be required to submit a site plan for the area that is disturbed that meets the requirements of this Article. The Director may require that a site plan covering the entire project area be submitted.\nD.\tParking lot Reconfiguration. Modifications to any existing parking lot in an amount greater than 20 percent, or expansions of an existing parking lot by 25 spaces or more shall meet the landscaping requirements of this Article for the area being modified or expanded.\n(Ord. No. 4793, § 3, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

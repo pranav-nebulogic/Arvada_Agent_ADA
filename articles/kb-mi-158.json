@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "community",
+      "assistance",
+      "housing",
+      "development",
+      "homelessness",
+      "https",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/413/Community-Assistance"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-158",
+    "spreadsheet_id": "MI-158",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Community Assistance",
+    "summary": "The article provides information on various community assistance programs available in Arvada, including housing vouchers, grants, and support for homelessness, seniors, and energy payment assistance. It also directs residents to the human services offered by Jefferson and Adams counties for additional resources and support.",
+    "body": "Looking for information on housing programs? Find out more about vouchers and grants at [Housing and Other Assistance.](https://co-arvada.civicplus.com/432/Housing-and-Other-Assistance)\n\n## Community Assistance\n\n- [My Friend Ben](https://www.myfriendben.org/) - Local and Federal benefits guidance and assistance\n- [Resident Rebate Program](/420/Resident-Rebate)\n- [Homelessness in Arvada](/470/Homelessness-in-Arvada)\n- [Community Development Block Grant](/418/Human-Services-Community-Development-Blo)\n- [Xcel Energy Payment Assistance](/422/Xcel-Energy-Payment-Assistance)\n- [Senior Assistance](/421/Senior-Assistance)\n\n## County Human Services\n\nHuman Services are provided by counties, including Jefferson and Adams counties. If you need assistance with Human Services, please refer to the resources below.\n\n- Jefferson County Human Services - Please explore the [Jeffco Human Services website](https://www.jeffco.us/2184/Human-Services) for details on programs, resources, and more.\n- Adams County Human Services - Please explore Adams County resources at [Adams County Human Services](http://www.adcogov.org/humanservices).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "inspection scheduling",
+      "building inspection",
+      "permit portal",
+      "inspection cancellation",
+      "Main"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/632/Scheduling-Inspections"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/ma-007",
+    "spreadsheet_id": "MA-007",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Scheduling Inspections",
+    "summary": "Users can schedule and cancel building inspections through the Permit Portal or by calling 720-898-7630, provided all permit fees are paid and the permit status is \\\"Issued.\\\" Inspections can be requested until 6 a.m. on the day of the inspection, and specific steps must be followed to ensure successful scheduling, including entering contact information and selecting the correct inspection type. Cancellations are also allowed until 6 a.m. on the scheduled day, with a straightforward process for removing an inspection from the active list.",
+    "body": "This page will give users step-by-step instructions for scheduling and canceling an inspection through the Permit Portal. Building inspections can also be scheduled by calling 720-898-7630 and using a three-digit code.\n\nOnce permits have all fees paid and the permit status is \"Issued,\" inspections can be scheduled. Requests for inspections can be submitted until 6 a.m. on the desired inspection day. Please review inspection requirements before scheduling inspections. Failure to meet all of the requirements will result in a failed or cancel inspection and an inspection fee may be applied. Steps for scheduling your inspection are:\n\n1. **Login to [the Permit Portal]([NEW PORTAL URL])**\n\t- Once logged in, you will see the permits that are eligible for inspection scheduling. If a fee has been assessed on the permit, inspections cannot be scheduled. Please pay all fees before you begin.\n\t\t- Permits that are eligible for inspections will show a \"request\" button on the user dashboard. Select \"Request\" to schedule inspections for that permit.\n2. **Enter contact information and inspection notes**\n\t- The contact information will auto-populate based on the profile information. However, you can update this information if you need to for the specific inspection. It is best to provide the inspector with the day of inspection contact information. You can add additional information about your inspection request in the \"Notes\" field.\n\t\t- **Important:** Do not add information about access to the structure, i.e. garage codes, lock box code or key location. If you need to provide that information for the inspection, please call 720-898-7620 to give that information to the front desk staff.\n3. **Select inspection type and date**\n\t- Select the type of inspection. Please make sure to select the correct inspection. Selecting the wrong inspection may result in a failed inspection.\n\t\t- After you select your inspection type, select the desired inspection date.\n4. **Add inspection**\n\t- When you select \"Add Inspection,\" the inspection will be added to a list. Please note, you can repeat step three to add multiple inspections to the selected permit.\n\t\t- **Please Note:** The inspection is not scheduled until you have clicked the \"submit\" button!\n5. **Submit inspection request**\n\t- After you have added all of the inspections to your permit, click the \"Submit\" button to complete your inspection request.\n\t\t- Review User Disclaimer and click the \"Accept\" button.\n\t\t- Once the inspection is scheduled, you will be able to review it on the user dashboard. You will also get an email confirmation.\n\nWork that will be inspected during non-city business hours, including Saturdays and Holidays, need to be requested and approved in advance. Please send your inspection requests to the Engineering Division at least two (2) business day prior to your desired work date by using the [Saturday Request Form](https://forms.gle/krRYhGb1DZ14zRY2A).\n\nInspections can be canceled until 6 a.m. on the day of the scheduled inspection.\n\n1. Log in to your account on the [Permit Portal]([NEW PORTAL URL])\n2. Navigate to \"My Active Inspections.\"\n3. Select the \"X\" next to the desired inspection.\n4. Select \"OK\" in the pop-up to complete the cancellation of inspection.\n5. After selecting \"ok\" the inspection will still show on \"My Active Inspections,\" but there won't be a scheduled inspection date.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

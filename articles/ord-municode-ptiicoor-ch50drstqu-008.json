@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "intent",
+      "purpose",
+      "city",
+      "owns",
+      "operates",
+      "municipal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-21"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-21. - Legislative intent and purpose.",
+    "summary": "The city owns and operates a municipal separate storm sewer system (\"MS4\") to promote\n               the safe, efficient, and effective drainage of stormwater and other runoff or discharges.\n               To enhance the functions of the MS4, the city council has determined that the quality\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-21. - Legislative intent and purpose.",
+        "a": "The city owns and operates a municipal separate storm sewer system (\"MS4\") to promote\n               the safe, efficient, and effective drainage of stormwater and other runoff or discharges.\n               To enhance the functions of the MS4, the city council has determined that the quality\n               of the runoff discharged into the MS4 must, to the maximum extent practicable, be\n               protected from pollutants that could impact the environment or the health, safety,\n               and welfare of the public. The city protects its MS4 by regulating land disturbance\n               activities likely to cause or increase soil erosion, or that may contribute other\n               pollutants to stormwater runoff during construction. These activities cause sediment\n               and pollutants to flow into the MS4, waterways, streams, rivers, ponds, and other\n               similar areas. Regulation of land disturbance activities during construction occurs\n               through the permitting, inspection, and enforcement requirements of this article.\n               The purpose of this article is to establish the specific procedures and requirements\n               necessary to promote such protection.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-21"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

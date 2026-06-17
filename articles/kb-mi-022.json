@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "nature",
+      "education",
+      "environmental",
+      "programs",
+      "adults",
+      "areas",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1233/About"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-022",
+    "spreadsheet_id": "MI-022",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "About",
+    "summary": "The Nature Center in Arvada serves as an environmental education facility, offering programs for all ages to engage with nature and learn about local ecosystems. It focuses on habitat restoration and research to enhance biodiversity, while fostering community involvement through volunteer opportunities and educational initiatives. The adjacent Majestic View Park features nearly two miles of trails and wildlife resting areas, promoting conservation and responsible visitor behavior.",
+    "body": "Our mission is to inspire environmental learning and interpretive connections with our community.\n\n## Education\n\nThe Nature Center is the City of Arvada’s environmental education facility. We offer many school and group programs to engage kids with nature as well as programs for toddlers and adults. Using the nature trails, wetland areas and prairie ecosystems to explore, we connect thousands of people with Arvada’s parks to better understand nature.\n\n## Habitat Restoration and Research\n\nWith the help of volunteers, we strive to better understand Arvada’s biodiversity. We study animals as small as pollinators and as big as coyotes to understand what they need to survive.  We monitor lakes and trees, collecting data and partnering with other organizations to help determine ways to improve and preserve Arvada’s natural spaces.\n\n## Community Building\n\nVolunteers and visitors come to our site to create an amazing community that is passionate about learning, our environment, and finding innovative ways to adapt to our changing world. We share knowledge for conserving water; we encourage good stewardship to reduce pollution; we provide a place of belonging with others that are connected to nature.\n\n## Displays & Demonstration Garden\n\nOur facility is 3,000 square feet of hands-on displays, wildlife exhibits, a kids’ activity area, classrooms and meeting spaces. From our augmented reality sandbox to our mounted gray wolf, all ages can learn to explore nature. And just outside the Nature Center is a beautiful 25,000 square foot water-conserving demonstration garden where visitors can discover native and regionally appropriate plants and wildlife. We work with City park maintenance and Master Gardeners to provide information on invasive plants and updated plant recommendation lists, habitat-friendly choices, and best practices to ensure a sustainable and beautiful garden.  We are connected to the Majestic View Community Park, with over 80 acres to explore.\n\n## Park Overview\n\nDiscover almost 2 miles of trails within this 80 acre park, with gorgeous westward mountain views at sunset. The most popular trail is the paved Interpretive Trail or the gravel mini-trail down to the edge of Oberon Lake. The paved trails are ADA accessible, and the gravel trails are stroller friendly.\n\nThere are also many areas in the park that are designated wildlife resting areas, marked by signage, that indicates limited public access. This is to allow the many wildlife species ample space to thrive within the park, especially as most wildlife only use the park as a rest stop along their travels on the nearest wildlife corridor-the Farmers Highline Canal. To ensure they continue to thrive here at Oberon Lake, we request that visitors don't harass, feed, or attempt to catch any wildlife (no fishing).\n\nMajestic View Park is open from sunrise to sunset. No alcohol or amplified music is allowed in the park.\n\nAll animals must be on a leash and you must pick up your pet waste (horses, dogs, cats, or any pet you decide to walk through the park).\n\n- [Reserve the upper field](https://secure.rec1.com/CO/arvada-co/catalog)\n- [Majestic View Farm information](https://www.frontlinefarming.org/)\n- [Majestic View Park information](https://majesticviewnaturecenter.arvada.org/)\n- If you see a distressed wild animal, call Animal Management at 720-898-6900.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

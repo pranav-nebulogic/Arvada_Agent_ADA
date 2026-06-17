@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-53-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "fish",
+      "arvada",
+      "fishing",
+      "permitted",
+      "most",
+      "lakes",
+      "ponds",
+      "unless",
+      "Water Activities - Fishing"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=53"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/where-can-i-fish-in-arvada",
+    "faq_category_name": "Water Activities - Fishing"
+  },
+  "content": {
+    "title": "Where can I fish in Arvada?",
+    "summary": "Fishing is permitted at most Arvada lakes or ponds unless otherwise posted.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Where can I fish in Arvada?",
+        "a": "Fishing is permitted at most Arvada lakes or ponds unless otherwise posted."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

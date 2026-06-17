@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "residential",
+      "agricultural",
+      "district",
+      "agriculture",
+      "allowed",
+      "rural",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/229/RA-Residential-Agricultural-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-444",
+    "spreadsheet_id": "MI-444",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "RA (Residential / Agricultural) District",
+    "summary": "The RA (Residential/Agricultural) District is designed to maintain a semi-rural character through large-lot single-family residential neighborhoods and various agricultural uses. It outlines specific classifications for allowed uses, including residential, hospitality, commercial, community, industrial, utility, and agricultural activities, each with designated allowances and additional regulations as specified in the Land Development Code. If a use is not listed, it is prohibited in this zoning district.",
+    "body": "Intended to provide for \"semi-rural (rural, countryside, or estate) character, in the form of large-lot single-family residential neighborhoods; and agriculture, urban agriculture, greenhouses, stables, or other equestrian uses.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#tabf33ec944-2994-4f92-ad4a-9b5829ca3453_0)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Single-Family Detached | A | 3-1-3-2 |\n| Group Home, FFHA | L | 3-1-3-3 |\n| Group Home, Not Specified Above | C | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#tabf33ec944-2994-4f92-ad4a-9b5829ca3453_1)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Bed and Breakfast | C | 3-1-3-4 |\n| Recreation, Outdoor (playing fields) | A | N/A |\n| Recreation, Outdoor (other) | A | N/A |\n| Stables and Riding Academies, Commercial | A | N/A |\n\n1. [Commercial Uses](#tabf33ec944-2994-4f92-ad4a-9b5829ca3453_2)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Animal Day Care/Training | C | 3-1-3-5 |\n| Animal Hospital (Large Animal) | A | N/A |\n| Art Studio / Makerspace | A | 3-1-3-5 |\n| Kennel | C | 3-1-3-5 |\n| Veterinary Offices or Clinics | C | 3-1-3-5 |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#tabf33ec944-2994-4f92-ad4a-9b5829ca3453_3)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Cemetary | C | 3-1-3-6 |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | A | N/A |\n| Private School, Kindergarten, Elementary, Middle, or High | A | N/A |\n\n1. [Industrial, Processing, Recycling, Storage & Disposal Uses](#tabf33ec944-2994-4f92-ad4a-9b5829ca3453_4)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Resource Extraction (Minerals) | C | 3-1-3-7 |\n\n1. [Utility & Communications Uses](#tabf33ec944-2994-4f92-ad4a-9b5829ca3453_5)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Major | C | 3-1-3-9 |\n| Utilities, Minor | L | 3-1-3-9 |\n| Overhead Power Lines (110 kV+) | C | 3-1-3-9 |\n| Freestanding Towers | C | Chapter 7 |\n| Other Wireless Communications Facilities | L | Chapter 7 |\n\n1. [Agriculture Uses](#tabf33ec944-2994-4f92-ad4a-9b5829ca3453_6)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Agriculture | L | 3-1-3-10 |\n| Agriculture, community | L | 3-1-3-10 |\n| Greenhouses/nurseries with retail sales | C | 3-1-3-10 |\n| Greenhouses/nurseries without retail sales | l | 3-1-3-10 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

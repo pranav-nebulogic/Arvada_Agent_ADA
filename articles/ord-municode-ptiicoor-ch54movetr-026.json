@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "presumption",
+      "reference",
+      "illegal",
+      "parking",
+      "any",
+      "prosecution",
+      "proceeding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-153"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-153. - Presumption in reference to illegal parking.",
+    "summary": "(a)\nIn any prosecution or proceeding related to any of the provisions of this division\n               governing the stopping, standing, or parking of a vehicle, proof that the particular\n               vehicle described in the citation was stopped, standing, or parked in violation of\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-153. - Presumption in reference to illegal parking.",
+        "a": "(a)\nIn any prosecution or proceeding related to any of the provisions of this division\n               governing the stopping, standing, or parking of a vehicle, proof that the particular\n               vehicle described in the citation was stopped, standing, or parked in violation of\n               any such law or regulation, together with proof that the person named in the citation\n               was at the time of such stopping, standing, or parking, the registered owner of such\n               vehicle, shall constitute in evidence, a prima facie presumption that the registered\n               owner of such vehicle was the person who stopped, placed, or parked such vehicle at\n               the place where, and for the time during which such violation occurred.\n(b)\nCopies of the registration of any vehicle, certified as such by the state motor vehicle\n               department, shall be received as evidence to show the name of the registered owner\n               of such vehicle.\n(c)\nThis presumption shall apply to any violation of this division.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-153"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

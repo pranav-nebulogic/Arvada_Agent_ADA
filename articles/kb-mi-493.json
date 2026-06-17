@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "school",
+      "group",
+      "programs",
+      "field",
+      "forms",
+      "program",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1194/School-and-Group-Programs"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-493",
+    "spreadsheet_id": "MI-493",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "School and Group Programs",
+    "summary": "The city offers educational programs for school classes, scout troops, and private groups, focusing on various nature-related topics that align with Colorado science standards. Programs are available both virtually and in-person, with bookings for field trips starting in Fall 2025, as the current calendar is fully booked through August 8. Activities are tailored for different age groups, from Pre-K to 5th grade, covering subjects such as life cycles, habitats, and environmental science.",
+    "body": "We have programs for school classes, scout troops, and other private groups. Any group can request a program with one of our naturalists. Virtual and in-person options are available (prices vary). Topics are grade-level appropriate and meet Colorado science standards.\n\n## Please Note:\n\n**We are now booking field trips for Fall 2025. Our field trip and outreach calendar is fully booked through August 8.**\n\n[Request a Program](https://arvada-forms-mvnc.app.transform.civicplus.com/forms/49496 \"Request a Program form opens in a new tab or window\")\n\n## Pre-K & Kindergartners (Ages 4-6)\n\n25 Minute Programs\n\n### Becoming Butterflies\n\nDiscover the magical transformation from egg to butterfly. After we read a butterfly book, students flit about our garden as they become a newly emerged butterfly.\n\n### Feathered Friends\n\nFrom egg to chick to bird, discover the world of birds. Compare your wingspan and see what birds need to grow.\n\n### Seed, Leaf, Grow!\n\nTrees come from seeds, and many other plants do too! Learn what it takes to make a seed grow with a game or two.\n\n### Nature Connections\n\nExplore nature with observations of plants and animals. See what wildlife, and humans, need in a habitat as we make a connection to nature.\n\n### My Five Senses\n\nNature offers a perfect place to use your senses and make discoveries! Participants will explore nature through hands-on sensory experiences and learn about the ways that animals use their senses to survive.\n\n## 1st - 3rd Grade (Ages 6-9)\n\n40 Minute Programs\n\n### Habitat Homes\n\nWhat is a habitat and how is it a home?  Students learn about different habitats and connect with the living things in them.\n\n### Meet a Mammal\n\nIdentify and explore some of the characteristics that define mammals along with some of their unique adaptations. Challenge yourself in these activities and remember, you're a mammal, too!\n\n### Amphibian or Reptile?\n\nFrom dinosaurs to tadpoles, discover the similarities and differences between these two unique types of animals.\n\n### Bird Expedition\n\nWhy are birds so different? Dive into the different adaptions that help them survive and learn some of the challenges birds encounter.\n\n### Insect Investigation\n\nIt's a buggy world out there! Learn what makes insects special and see if you can find some to identify with a sweep net or beat sheet in the park.\n\n## 3rd - 5th Grade (Ages 8-12)\n\n40 Minute Programs\n\n### Wetland Discoveries\n\nDiscover what a wetland is and explore the science behind one. Dissect a cattail, examine mud, and see what Oberon Lake might have looked like a long time ago.\n\n### What's That Life Cycle?\n\nFrom tadpole to frog, kitten to cougar, seed to tree, explore the many different life cycles of nature.\n\n### Life In the Prairie\n\nMany species live in the prairie, from bison to prairie dogs to even us humans. So learn about how all these species interact and support each other.\n\n### Mammal Detectives\n\nMammals may have similar characteristics, but they live in a wide variety of habitats. Test your identification skills with scientific observations and see how form follows function.\n\n### Who Polluted the Water?\n\nTake an adventure through an interactive city model to determine what polluted the water. Learn about the different sources of pollution and brainstorm ways to help prevent it in your own neighborhood.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

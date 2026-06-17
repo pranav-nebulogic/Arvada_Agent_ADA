@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "reasonable",
+      "accommodations",
+      "generally",
+      "federal",
+      "fair",
+      "housing",
+      "amendments",
+      "amended",
+      "requires",
+      "local"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-11-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-11. EXCEPTIONS, VARIANCES, MODIFICATIONS, AND INTERPRETATIONS"
+  },
+  "content": {
+    "title": "8-3-11-5. Reasonable accommodations.",
+    "summary": "A.\tGenerally. The federal Fair Housing Amendments Act (42 U.S.C. § 3601, et seq., as amended) requires that local governments be prepared to make \"reasonable accommodations\" in order to permit housing for certain protected groups to occur in certain types of residential areas.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-11-5. Reasonable accommodations.",
+        "a": "A.\tGenerally. The federal Fair Housing Amendments Act (42 U.S.C. § 3601, et seq., as amended) requires that local governments be prepared to make \"reasonable accommodations\" in order to permit housing for certain protected groups to occur in certain types of residential areas. In response to a written application identifying the type of housing being provided and the portions of the Fair Housing Amendments Act that require that reasonable accommodations be made for such housing, the Director is authorized to take any of the following actions in order to provide reasonable accommodations without the need for a rezoning or variance process:\n  1.\tModify any facility spacing, building setback, height, lot coverage, or landscaping requirement by no more than 20 percent;\n  2.\tModify any limits on the number of non-related occupants allowed in the principal building by no more than 20 percent;\n  3.\tModify the requirements for dispersal of Group Homes provided that there is a compelling reason to do so;\n  4.\tReduce any off-street parking requirement by no more than one space; or\n  5.\tModify any requirement beyond the 20 percent limitations above, or any other requirement if necessary to comply with the federal Fair Housing Amendments Act.\nB.\tLimitations. The Director may approve a type of reasonable accommodation different from that requested by the Applicant if the Director concludes that a different form of accommodation would satisfy the requirements of the Fair Housing Amendments Act with fewer impacts on adjacent areas.\nC.\tDecision. The decision of the Director shall be accompanied by written findings of fact as to the applicability of the Fair Housing Amendments Act, the need for reasonable accommodations, and the authority for any reasonable accommodations approved."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-11-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

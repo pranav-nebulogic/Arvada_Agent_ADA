@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "appointment",
+      "members",
+      "terms",
+      "officers",
+      "all",
+      "governing",
+      "body"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-33"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-33. - Appointment of members; terms; officers.",
+    "summary": "All members of the governing body of the city shall ex officio be appointed the commissioners\n               of the authority. The terms of office of such commissioners shall be coterminous with\n               their terms of office on the governing body of the city. For the purposes of this\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-33. - Appointment of members; terms; officers.",
+        "a": "All members of the governing body of the city shall ex officio be appointed the commissioners\n               of the authority. The terms of office of such commissioners shall be coterminous with\n               their terms of office on the governing body of the city. For the purposes of this\n               section, the term \"governing body\" means the mayor and council. The mayor shall ex\n               officio be chair of the commissioners. The commissioners shall select from among their\n               members a vice-chair.\n(Code 1981, § 14-3; Ord. No. 1248, § 3, 6-16-1975)\nState Law reference—\nAuthority for above section, C.R.S. § 29-4-205(2)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

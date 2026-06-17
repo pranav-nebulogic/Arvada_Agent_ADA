@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "delivery",
+      "subpoena",
+      "other",
+      "process",
+      "municipal",
+      "court",
+      "issued"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-5"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-5. - Delivery.",
+    "summary": "A subpoena or other process of the municipal court issued pursuant to this chapter\n               may be served by delivering a copy personally or mailing by first class mail the subpoena\n               to the last known address of the person named in such subpoena or other process.\n(Code 1960, § 1-…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-5. - Delivery.",
+        "a": "A subpoena or other process of the municipal court issued pursuant to this chapter\n               may be served by delivering a copy personally or mailing by first class mail the subpoena\n               to the last known address of the person named in such subpoena or other process.\n(Code 1960, § 1-23(b); Code 1981, § 18-9)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

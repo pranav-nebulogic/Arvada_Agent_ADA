@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "development",
+      "review",
+      "fees",
+      "generally",
+      "required",
+      "order",
+      "offset",
+      "cost",
+      "processing",
+      "applications"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-2-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-2. DEVELOPMENT REVIEW FEES"
+  },
+  "content": {
+    "title": "8-4-2-1. Development review fees.",
+    "summary": "A.\tGenerally. Development review fees are required in order to offset the cost of processing applications for development approval.\nB.\tWhen Required.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-2-1. Development review fees.",
+        "a": "A.\tGenerally. Development review fees are required in order to offset the cost of processing applications for development approval.\nB.\tWhen Required. Development review fees shall be paid at the time of application, unless such fees are waived or deferred pursuant to Section 8-4-2-2, Fee Waivers and Deferrals.\nC.\tEstablishment of Fee Schedule. The City Council shall establish development review fees by resolution for each type of development approval set out in this LDC."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

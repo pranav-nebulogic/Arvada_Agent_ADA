@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "uses",
+      "prohibited",
+      "medical",
+      "marijuana",
+      "businesses",
+      "use",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH53MENDIMA"
+    ],
+    "scraped_at": "2026-06-10T12:02:40.728035+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 53-22"
+    ],
+    "chapter": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA"
+  },
+  "content": {
+    "title": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA — Sec. 53-22. - Uses prohibited.",
+    "summary": "Medical marijuana businesses, and the use of any property for such purposes, are prohibited\n               within the municipal boundaries of the city. It is unlawful for any person to operate,\n               cause to be operated, or permit to be operated a medical marijuana business in the\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 53-22. - Uses prohibited.",
+        "a": "Medical marijuana businesses, and the use of any property for such purposes, are prohibited\n               within the municipal boundaries of the city. It is unlawful for any person to operate,\n               cause to be operated, or permit to be operated a medical marijuana business in the\n               city. It is further unlawful for any person to operate, cause to be operated, or permit\n               to be operated any private medical marijuana club or similar business, a primary purpose\n               of which is condoning, permitting, promoting, or otherwise encouraging or facilitating\n               the on-premises consumption or preparation of medical marijuana or medical marijuana-infused\n               products or the on-premises cultivation or processing of medical marijuana.\n(\nOrd. No. 4393, § 7(Att. A), 7-1-2013\n;\nOrd. No. 4436, § 4(Att. A), 3-17-2014\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 53-22"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

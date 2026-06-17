@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "sales",
+      "certain",
+      "persons",
+      "prohibited",
+      "shall",
+      "unlawful",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-6"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-6. - Sales to certain persons prohibited.",
+    "summary": "It shall be unlawful for any person to sell, serve, give away, dispose of, exchange\n               or deliver or permit the sale, serving, giving, or procuring of any alcoholic beverage\n               to or for any person under the age of 21 years or to a visibly intoxicated person\n               or…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-6. - Sales to certain persons prohibited.",
+        "a": "It shall be unlawful for any person to sell, serve, give away, dispose of, exchange\n               or deliver or permit the sale, serving, giving, or procuring of any alcoholic beverage\n               to or for any person under the age of 21 years or to a visibly intoxicated person\n               or to a known habitual drunkard.\n(\nOrd. No. 4670\n, § 1, 12-17-2018)\nState Law reference—\nUnlawful acts, C.R.S. § 44-3-901(1)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "conditions",
+      "operations",
+      "pawnbroker",
+      "shall",
+      "keep",
+      "numerical",
+      "register"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-210"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-210. - Conditions of operations.",
+    "summary": "(a)\nA pawnbroker shall keep a numerical register in which he shall record the following\n               information:\n(1)\nThe name, address, photograph, right index fingerprint, and date of birth of the customer,\n               as well as customer's driver's, license number or other identification num…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-210. - Conditions of operations.",
+        "a": "(a)\nA pawnbroker shall keep a numerical register in which he shall record the following\n               information:\n(1)\nThe name, address, photograph, right index fingerprint, and date of birth of the customer,\n               as well as customer's driver's, license number or other identification number from\n               any other form of identification which is allowed for the sale of valuable articles\n               pursuant to C.R.S. § 18-16-103 or for the sale of secondhand property pursuant to\n               C.R.S. § 18-13-114;\n(2)\nThe date, time, and place of the contract for purchase or purchase transaction; and\n(3)\nAn accurate and detailed account and description of each item of tangible personal\n               property, including, but not limited to, any trademark, identification number, serial\n               number, model number, brand name, or other identifying marks of such property.\n(b)\nThe pawnbroker shall also obtain a written declaration of the customer's ownership\n               which shall state that the tangible personal property is totally owned by the customer,\n               or shall have attached to such declaration a power of sale from the partial owner\n               to the customer, how long the customer has owned the property, whether the customer\n               or someone else found the property, and, if the property was found, the details of\n               the finding.\n(c)\nThe customer shall sign his name in the numerical register and on the declaration\n               of ownership and the pawnbroker shall give the customer a copy of the contract for\n               the purchase or a receipt of the purchase transaction.\n(d)\nThe numerical register shall be kept on a computerized system approved by the chief\n               of police and shall be made available to the chief of police or any police officer\n               for inspection at any reasonable time.\n(e)\nThe pawnbroker shall keep each register for at least three years after the date of\n               the last transaction entered in the register.\n(f)\nA pawnbroker shall hold all contracted goods within his jurisdiction for a period\n               of 45 days following the maturity date of the contract for purchase, during which\n               time such goods shall be held separate and apart from any other tangible personal\n               property and shall not be changed in form or altered in any way.\n(g)\nA pawnbroker shall hold all property purchased by him through a purchase transaction\n               for 45 days following the date of purchase, during which time such property shall\n               be held separate and apart from any other tangible personal property and shall not\n               be changed in form or altered in any way.\n(h)\nEvery pawnbroker shall provide the chief of police, on a weekly basis, with two records,\n               on a form to be provided or approved by the chief of police, of all tangible personal\n               property accepted during the preceding week and one copy of the customer's declaration\n               of ownership. The form shall contain the same information required to be recorded\n               in the pawnbroker's register pursuant to subsection (a) of this section. The police\n               department shall designate the day of the week on which the records and declarations\n               shall be submitted.\n(Code 1981, § 23-10; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-210"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

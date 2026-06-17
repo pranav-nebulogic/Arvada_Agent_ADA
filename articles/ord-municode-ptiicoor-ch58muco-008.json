@@ -1,0 +1,62 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reserved",
+      "editor",
+      "note",
+      "ord",
+      "adopted",
+      "december",
+      "repealed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-8",
+      "§ 58-8",
+      "§ 1-24",
+      "§ 18-12"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-8. - Reserved.",
+    "summary": "Editor's note—\nOrd. No. 4830\n, § 2, adopted December 5, 2022, repealed § 58-8, which pertained to compliance with\n               process; required and derived from § 1-24(a) of the 1960 Code; § 18-12 of the 1981\n               Code.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-8. - Reserved.",
+        "a": "Editor's note—\nOrd. No. 4830\n, § 2, adopted December 5, 2022, repealed § 58-8, which pertained to compliance with\n               process; required and derived from § 1-24(a) of the 1960 Code; § 18-12 of the 1981\n               Code."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-8",
+      "§ 58-8",
+      "§ 1-24",
+      "§ 18-12"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

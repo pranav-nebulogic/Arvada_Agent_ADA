@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "containers",
+      "labels",
+      "shipping",
+      "cases",
+      "become",
+      "code",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/312/Containers-Labels-Shipping-Cases"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-167",
+    "spreadsheet_id": "MI-167",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Containers, Labels & Shipping Cases",
+    "summary": "The Arvada Municipal Code imposes sales tax on commercial shipping materials that do not become part of the finished product, such as containers and labels used exclusively for shipping. However, commercial packaging materials that are integral to the finished product and not returnable for reuse are exempt from sales tax. Specific examples illustrate the distinction between taxable shipping materials and exempt packaging based on their use in manufacturing and retail contexts.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes sales tax on commercial packaging that does not become part of the finished product and is exclusively used for shipping.\n\n## Exempt\n\nCommercial packaging materials are containers, labels, and/or cases, that become part of the finished product to the purchaser, used by or sold to a person engaged in manufacturing, compounding, wholesaling, jobbing, retailing, packaging, distributing or bottling for sale, profit or use, and is not returnable to said person for reuse. These packaging items are exempt from sales / use tax and can be purchased for resale if they meet all the requirements listed. Commercial packaging materials do not include commercial shipping materials.\n\n- Is used by said person to contain or label the finished product;\n- Is transferred by said person along with and as part of the finished product to the purchaser; and\n- Is not returned to said person for reuse.\n\n## Taxable\n\nCommercial shipping materials mean materials that do not become part of the finished product to the purchaser but are used exclusively in the shipping process and are subject to sales and use tax. Commercial shipping materials include but are not limited to containers, labels, pallets, banding material and fasteners, shipping cases, shrink wrap, bubble wrap, bags, or other forms of binding, padding, or protection.\n\n- Returnable containers are taxable. If the retailer, for its convenience, collects sales tax on the deposit for a returnable container, the tax must be refunded upon return of the container\n- Containers sold to firms performing services (e.g. a moving and storage company) are taxable\n- Pallets for warehouse use, which are not sold with a product as a container, are taxable\n\n## Examples\n\n- ABC Speaker Company manufactures stereo speakers and speaker parts. After the speakers are produced and tested, they are packaged in styrofoam that was designed to fit around the component and then into a specially designed box that describes the product. Both the styrofoam and product box is considered \"commercial packaging materials\" and are exempt. Because ABC Speaker Company qualifies as a manufacturer any shipping packaging that is used in addition to the finished products' \"commercial packaging materials\" would be exempt. Note: This exemption for \"Commercial Shipping Materials\" only applies to businesses that are in the business of manufacturing for wholesale sale.\n- The USA. Moving Company is a nationwide mover specializing in personal household moving. USA. is located in Arvada and uses various size boxes to contain various items during the moving process. The boxes in this case are subject to sales or use tax because they do not meet all of the conditions required to be an exempt container. The USA. Moving Company is providing a service and reusing the containers.\n- The Binge Brewery located in Arvada sells its product at retail in returnable kegs. The brewery must pay Arvada sales/use tax on the purchase of the kegs.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

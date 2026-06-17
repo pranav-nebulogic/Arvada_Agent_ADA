@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "general",
+      "hereby",
+      "amended",
+      "adding",
+      "following",
+      "subsections"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-73"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-73. - I.F.C. Section 903.1, General.",
+    "summary": "Section 903.1 General\n, is hereby amended by adding the following subsections:\n\"903.1.2 Location of sprinkler control valves.\nWhen automatic sprinkler systems are required within a building and the system serves\n                  more than one tenant space, the main control valves shall be located w…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-73. - I.F.C. Section 903.1, General.",
+        "a": "Section 903.1 General\n, is hereby amended by adding the following subsections:\n\"903.1.2 Location of sprinkler control valves.\nWhen automatic sprinkler systems are required within a building and the system serves\n                  more than one tenant space, the main control valves shall be located within an approved\n                  room that is accessible directly from the building exterior. The door shall be not\n                  less than three (3) feet in width by six (6) feet in height.\n903.1.3 Fire department access.\nAny change of occupancy of an existing building that does not have approved fire\n                  department access as required in\nChapter 5\nmay be required by the\nfire code official\nto have an automatic fire sprinkler system installed regardless of the building size.\n903.1.4 Multi-tenant buildings.\nIn buildings that have warehouse space(s) that have the ability to allow high-piled\n                  combustible storage per Chapter 32 shall have a fire line installed with a main that\n                  runs the length of the building for future addition of fire sprinkler systems.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-73"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

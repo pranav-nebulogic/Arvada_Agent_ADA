@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "intent",
+      "city",
+      "council",
+      "recognizes",
+      "general"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-2"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-2. - Legislative declaration and intent.",
+    "summary": "(a)\nThe city council recognizes that the general assembly has adopted legislation for\n               the organization of title 32 districts to facilitate the elimination of the overlapping\n               of services provided by local governments and the double taxation that may occur because\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-2. - Legislative declaration and intent.",
+        "a": "(a)\nThe city council recognizes that the general assembly has adopted legislation for\n               the organization of title 32 districts to facilitate the elimination of the overlapping\n               of services provided by local governments and the double taxation that may occur because\n               of annexation or otherwise when all of the taxable property of a title 32 district\n               lies within the boundaries of the city.\n(b)\nThe city council declares that the primary purpose of title 32 districts within the\n               city shall be to fund the local and regional public improvements and facilities necessary\n               for the development of private property. Title 32 districts may provide for the continued\n               operation and maintenance of such improvements and facilities only as provided in\n               their respective approved service plans and intergovernmental agreements with the\n               city.\n(c)\nThe city council, in furtherance of the best interests of the city and the preservation\n               and protection of the health, safety, prosperity, security, and general welfare of\n               city residents declares its intent to:\n(1)\nPrevent the activities of title 32 districts from impacting the city's ability to\n               provide core services;\n(2)\nEnsure that the cost burden of infrastructure in newly developed areas is placed upon\n               those benefiting from such infrastructure improvements;\n(3)\nPrevent the shifting of development risk to non-developers;\n(4)\nMinimize the likelihood of excessive tax and fee burdens upon city residents located\n               within title 32 districts;\n(5)\nRequire facilities and services to be provided efficiently;\n(6)\nPrevent the shifting of costs of title 32 districts to residents of the city who do\n               not live within the geographic boundaries of a title 32 district; and\n(7)\nPermit the use of title 32 districts to serve only those residential, commercial,\n               or industrial developments that will enhance the quality of the entire community.\n(d)\nThe city council further declares that it recognizes that the formation of title 32\n               districts requires the city council to adopt procedures for the orderly processing\n               of proposals for the organization of these districts in order to protect the health,\n               safety, prosperity, security, and general welfare of city residents.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

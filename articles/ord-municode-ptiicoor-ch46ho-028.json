@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "types",
+      "bonds",
+      "authority",
+      "power",
+      "authorized",
+      "time",
+      "discretion"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-57"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-57. - Types of bonds.",
+    "summary": "(a)\nThe authority has the power and is authorized from time-to-time in its discretion\n               to issue for any of its corporate purposes:\n(1)\nBonds on which the principal and interest are payable exclusively from the income\n               and revenues of:\na.\nThe project financed with the proc…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-57. - Types of bonds.",
+        "a": "(a)\nThe authority has the power and is authorized from time-to-time in its discretion\n               to issue for any of its corporate purposes:\n(1)\nBonds on which the principal and interest are payable exclusively from the income\n               and revenues of:\na.\nThe project financed with the proceeds of such bonds, or with such proceeds together\n               with the proceeds of a grant from the federal government to aid in financing the construction\n               thereof; or\nb.\nCertain designated projects, whether or not they were financed in whole or in part\n               with the proceeds of such bonds. The full faith and credit of the authority shall\n               not be pledged to the payment of such bonds, but such bonds shall be payable only,\n               and the bonds shall so state on their face, from the revenues of the designated project\n               and the funds received from the sale or disposal thereof, and, if the authority so\n               determines, by a trust indenture pledging such revenues, or in certain instances as\n               provided in this article, by a mortgage of the property comprising such designated\n               project and the revenues therefrom.\n(2)\nBonds for payment of the principal and interest to which the full faith and credit\n               of the authority is pledged and for which the revenues of the authority or any part\n               thereof may be pledged by a resolution or trust indenture of the authority; in certain\n               instances as provided in this article, such bonds may be additionally secured by a\n               mortgage on the property and revenues of the authority or any part thereof.\n(b)\nNeither the commissioners of the authority nor any person executing the bonds shall\n               be liable personally on the bonds or be subject to any personal liability or accountability\n               by reason of the issuance thereof. The bonds and other obligations of the authority\n               shall not be a debt of the state or the city and neither the state nor the city shall\n               be liable thereon, nor in any event shall they be payable out of any funds other than\n               those of the authority.\n(Code 1981, § 14-26; Ord. No. 1248, § 12, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-214."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-57"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

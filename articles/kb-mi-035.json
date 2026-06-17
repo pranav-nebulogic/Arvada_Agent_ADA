@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "advertising",
+      "agencies",
+      "code",
+      "paid",
+      "price",
+      "sales",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/274/Advertising-Agencies"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-035",
+    "spreadsheet_id": "MI-035",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Advertising Agencies",
+    "summary": "In Arvada, advertising agencies must pay sales tax on goods used in their services and are required to be licensed to collect sales tax if they sell items at retail. The taxable price includes all amounts received, including shipping, and specific guidelines apply to charges for design and printing services, particularly when performed in-house. This summary is intended to clarify tax obligations and should be used alongside the full Arvada tax code for accurate legal guidance.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax on the price paid for items sold at retail in the City of Arvada (COA). If sales and use tax was not paid to the COA or another municipality, Arvada uses tax is due. The taxable price is the amount of money received or due, including shipping charges.\n\nAdvertising agencies providing services must pay tax on goods used in their services.\n\nAgencies that sell items at retail must be licensed to collect sales tax. This includes print jobs created in their own facility.\n\n## Examples\n\n1. XYZ Advertising Agency buys art supplies for its layout work. (Layout work is a drawing or sketch of a proposed printed piece.) Sales tax should be charged by the vendor of the art supplies. If the vendor is unlicensed, or for any reason fails to charge sales tax, then XYZ Advertising Agency is responsible for remitting use tax to the City on its sales and use tax return.\n2. XYZ Advertising Agency designs an annual report for the Big Time Corporation. An outside printer is engaged by YXZ to do the printing. The charge to the Big Time Corporation for the in-house design work and for printing the report is taxable unless the design charge is separately stated on the invoice. If the design charge is separately stated, then only the charge for printing the report is taxable.\n3. XYZ Advertising Agency designs an annual report for the Small Time Corporation. XYZ Advertising has its own in-house print shop and bindery. Thus the guidelines for the taxation of the printing industry must be followed. The total charge to the customer for printing and binding is subject to sales tax.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

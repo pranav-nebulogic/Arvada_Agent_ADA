@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "internal",
+      "affairs",
+      "department",
+      "police",
+      "summary",
+      "allegations",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/206/Internal-Affairs"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-280",
+    "spreadsheet_id": "MI-280",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Internal Affairs",
+    "summary": "Citizens can report suggestions or complaints to the Arvada Police Department's Internal Affairs Unit, which investigates allegations of employee misconduct and provides information on police services and procedures. Concerns can be submitted electronically, by phone, fax, or written form, and investigations include interviews and evidence review, with outcomes categorized as substantiated, unsubstantiated, proper action, unfounded, misconduct not based on the complaint, or exceptionally cleared.",
+    "body": "Citizens can bring any issue to the Arvada Police Department, including suggestions and complaints. The Internal Affairs Unit is responsible for examining and investigating allegations of employee misconduct. They are also available to answer questions regarding police services, procedures, and department issues.\n\nInternal Affairs statistical information can be viewed on our [Internal Affairs Summary webpage](https://www.arvadaco.gov/544/Internal-Affairs-Summary-2024).\n\n## If You Have a Concern\n\nIf a concern of policy, procedure, or any other issue is brought forward, we will listen to your concern. We will explain our policy or procedure and assist you in understanding why and how we do things. Your suggestions and concerns will be taken under consideration for improving our service to the community.\n\nYou can share a concern about police procedure or conduct:\n\n- **Electronically:**[Email the Internal Affairs Unit](/cdn-cgi/l/email-protection#ca9a8e9583a4beafb8a4aba6958bacacaba3b8b98aabb8bcabaeabe4a5b8ad).\n- **By Phone:** During normal business hours, please call the Internal Affairs Unit at **720-898-6666.** After normal business hours, call **303-980-7300** and ask for a police supervisor.\n- **By Fax:**Send an outline of your concern to 720-898-6652.\n- **By Letter or Written Form:** Write a letter outlining your concern, or pick up a Citizen Inquiry Report at your local Community station.\n\n## How Investigations Work\n\nComplaints of misconduct will be thoroughly investigated. This investigation generally includes:\n\n- An interview with the person making the complaint\n- An interview with any witnesses\n- An interview with the involved employee\n- A review of all reports, tape recordings or other evidence\n\nThe investigative report is forwarded to the Chief of Police who reviews the investigation and arrives at a final determination. Determinations are:\n\n- **Substantiated:** The allegation is supported by sufficient evidence\n- **Unsubstantiated:** There was insufficient evidence to prove or disprove the allegation\n- **Proper Action**: The incident occurred, but the employee acted lawfully and properly\n- **Unfounded:** The allegation is false or not factual\n- **Misconduct not Based on Complaint:** Substantiated misconduct, not alleged in the complaint, but disclosed by the investigation\n- **Exceptionally Cleared**: The accused employee is no longer a member of the department at the conclusion of the investigation.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "authority",
+      "enter",
+      "property",
+      "during",
+      "period",
+      "declared",
+      "civil"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-40"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-40. - Authority to enter a property.",
+    "summary": "During the period of a declared civil emergency, emergency, or disaster, a city employee\n               or authorized agent may enter onto or upon private property if the employee or authorized\n               agent has reasonable grounds to believe that there is a true emergency and an immediate\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-40. - Authority to enter a property.",
+        "a": "During the period of a declared civil emergency, emergency, or disaster, a city employee\n               or authorized agent may enter onto or upon private property if the employee or authorized\n               agent has reasonable grounds to believe that there is a true emergency and an immediate\n               need for assistance for the protection of life or property, and that entering onto\n               the private land will allow the person to take such steps to alleviate or minimize\n               the emergency or disaster or to prevent or minimize danger to lives or property from\n               the declared civil emergency, emergency, or disaster.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-40"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

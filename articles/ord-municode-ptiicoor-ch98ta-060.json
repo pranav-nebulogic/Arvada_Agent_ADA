@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "tax",
+      "relief",
+      "footnotes",
+      "editor",
+      "note",
+      "ord",
+      "adopted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 98-121"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — ARTICLE IV. - TAX RELIEF",
+    "summary": "Footnotes:\n--- (\n3\n) ---\nEditor's note—\nOrd. No. 4887\n, § 1, adopted January 27, 2025, repealed the former Art. IV, §§ 98-121—98-124, 98-151—98-154,\n               98-182, 98-212 and enacted a new Art. IV as set out herein. The former Art. IV pertained\n               to similar subject matter and de…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE IV. - TAX RELIEF",
+        "a": "Footnotes:\n--- (\n3\n) ---\nEditor's note—\nOrd. No. 4887\n, § 1, adopted January 27, 2025, repealed the former Art. IV, §§ 98-121—98-124, 98-151—98-154,\n               98-182, 98-212 and enacted a new Art. IV as set out herein. The former Art. IV pertained\n               to similar subject matter and derived from\nOrd. No. 4202, § 1, 2-1-2010\n;\nOrd. No. 4548, § 2, 5-2-2016\n."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 98-121"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

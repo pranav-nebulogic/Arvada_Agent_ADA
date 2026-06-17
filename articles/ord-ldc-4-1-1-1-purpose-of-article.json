@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "promote",
+      "maintain",
+      "environmental",
+      "quality",
+      "livability",
+      "city",
+      "mitigate",
+      "natural"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-1-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "4-1-1-1. Purpose of article.",
+    "summary": "The purpose of this Article is to promote and maintain environmental quality and livability in the City, and to mitigate natural hazards to life, safety, and property using standards that regulate the location and design of development.\n(Ord. No. 4867, § 2, 2-12-2024)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-1-1. Purpose of article.",
+        "a": "The purpose of this Article is to promote and maintain environmental quality and livability in the City, and to mitigate natural hazards to life, safety, and property using standards that regulate the location and design of development.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

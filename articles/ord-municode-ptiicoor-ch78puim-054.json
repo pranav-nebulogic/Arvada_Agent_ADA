@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contractor",
+      "executes",
+      "bond",
+      "contract",
+      "shall",
+      "entered",
+      "into"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-55"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-55. - Contractor executes bond.",
+    "summary": "No contract shall be entered into for construction work under this article unless\n               the contractor shall give an undertaking with a sufficient surety approved by the\n               council and in an amount fixed by it for the faithful performance of the contract,\n               substant…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-55. - Contractor executes bond.",
+        "a": "No contract shall be entered into for construction work under this article unless\n               the contractor shall give an undertaking with a sufficient surety approved by the\n               council and in an amount fixed by it for the faithful performance of the contract,\n               substantially as required by C.R.S. § 38-26-106, except as herein expressly otherwise\n               provided.\n(Code 1981, § 27-56; Ord. No. 551, § 19(G), 5-14-1964)\nState Law reference—\nSimilar provisions, C.R.S. § 31-25-516; contractor executes bond, C.R.S. § 38-26-106."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-55"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

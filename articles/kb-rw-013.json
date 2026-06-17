@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "sidewalk",
+      "assistance",
+      "program",
+      "applicants",
+      "financial",
+      "property",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/501/Sidewalk-Assistance-Program"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-013",
+    "spreadsheet_id": "RW-013",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Sidewalk Assistance Program",
+    "summary": "The Sidewalk Assistance Program in Arvada offers financial and logistical support to residential property owners for replacing deteriorated public sidewalks, enhancing accessibility and safety. Eligible homeowners can receive either 100% or 50% financial assistance based on their household income, with applications reviewed on a first-come, first-served basis. The program includes a thorough review and inspection process to determine eligibility and coordinate the replacement work through approved contractors.",
+    "body": "## Overview\n\nThe Sidewalk Assistance Program provides financial and logistical support to residential property owners for the replacement of deteriorated sidewalk along their property. This program helps improve accessibility and pedestrian safety throughout Arvada.\n\nEligible applicants may receive partial or full financial assistance for sidewalk replacement based on household income. The City will help coordinate all work through our approved contractor.\n\n## Program Eligibility\n\nAll applicants must meet the following requirements:\n\n1. The applicant must be the **legal property owner.**\n2. Property must be classified as **single-family residential**(attached or detached).\n3. The sidewalk must serve as a**public sidewalk**within the City right-of-way or permanent easement.\n4. Sidewalk **condition must be deteriorated**and will be assessed by the City prior to replacement.\n\n1. [Sidewalk Deterioration Criteria](#tab0d564ae3-e32e-449e-8868-f235d7d57a9b_0)\n\nThese are common deterioration factors that can help determine replacement eligibility. Additional criteria may be applied at the City’s discretion.\n\n- **Vertical displacement**greater than 1⁄2 inch.\n- **Cracks or gaps** wider than 1⁄2 inch.\n- **Scaling or spalling**more than 1⁄2 inch deep, or covers more than 50% of the surface area.\n- **Longitudinal cracks**(parallel to the length of the structure)\n- **Heaving or settling**(ponding): If it holds water such that it's considered problematic due to surface area, depth, or duration.\n\n## Financial Assistance\n\nApplicants are eligible for one of two tiers of financial assistance:\n\n- **100% assistance:**household income at or below 80% of the Denver Metro Housing and Urban Development (HUD) [income limits](https://www.huduser.gov/portal/datasets/il.html)\\*\\*\n- **50% assistance\\*:** household income exceeding 80% of Denver Metro HUD income limits\n\n\\*Participants will be eligible for a one year zero interest payment plan for their cost obligations.\n\n\\*\\*HUD income limits in the year that the application is received.\n\n1. [Income Qualified Assistance Documents](#tab64115bc2-c8cf-42dc-9420-819cead5c7a9_0)\n\nTo qualify for 100% assistance, all sources of income must be submitted to determine eligibility. Income documentation may include:\n\n- Social Security Disability Insurance (SSDI)\n- Social Security Insurance (SSI)\n- Social Security\n- Veteran Affairs (VA) benefits\n- Aid to the Needy Disabled (AND)\n- Retirement\n- Wages\n- Day labor\n- Commission or tips\n- Unemployment\n- Temporary Assistance for Needy Families (TANF)\n- Pension\n- Food stamps\n- Old Age Pension (OAP)\n- Workforce development\n- Child support\n- Income from assets or annuity\n- Other\n\n## How to Apply\n\nApplications will be reviewed on a first come, first served basis. Applications received later in the year may be rolled into the next year for consideration. The application may be paused if the program is full.\n\nApplication approval is funding and eligibility criteria dependent. \n\n[Apply](https://arvada-forms.app.transform.civicplus.com/forms/65815)\n\n## Review and Approval Process\n\n1. **Application review.**A member of the City team will review the application and confirm property ownership, sidewalk location and eligibility, any other possible construction project conflicts, and financial assistance eligibility.\n2. **Sidewalk inspection.** A team member will visit the property to inspect the sidewalk and determine if the sidewalk meets replacement criteria.\n3. **Field walk.**A team member will meet with the applicant to review the inspection results and next steps for replacement.\n4. **Contract agreement.**A contract agreement, including cost estimate, will be sent to the applicant for signature.\n5. **Construction.**Concrete replacement will happen on a rolling basis throughout the construction season. Work will be scheduled in partnership with the homeowner.\n\n## Background\n\nPer [Arvada Municipal Code Sec. 94-68](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL_ARTIIIDEST_S94-68MARE) curb, gutter, and sidewalk maintenance is the responsibility of the property owner. The Sidewalk Assistance Program is intended to support residents in sidewalk replacement by assisting with financial and logistical barriers to addressing sidewalk deterioration. This program addresses sidewalk, not sidewalk gaps, sidewalk widening, or curb and gutter when detached from the sidewalk.\n\nMost neighborhood sidewalks were constructed through the land development process. The sidewalk widths, design, and construction reflect the era that the neighborhood was established. The City prioritizes sidewalk projects to close sidewalk gaps along schools, connections to transit, and locations that are flagged for pedestrian safety as a result of crash data.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

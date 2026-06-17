@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "table",
+      "shall",
+      "amended",
+      "read",
+      "follows",
+      "required",
+      "fire"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-94"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-94. - I.F.C. Table B105.2.",
+    "summary": "Table B105.2\nshall be amended to read as follows:\n\"Table B105.2\nREQUIRED FIRE-FLOW FOR BUILDINGS OTHER THAN ONE- AND TWO-FAMILY DWELLINGS, GROUP R-3\n               AND R-4 BUILDINGS AND TOWNHOMES\nAUTOMATIC SPRINKLER SYSTEM (Design Standard)\nMINIMUM FIRE-FLOW (gallons per minute)\nFLOW DURATION (hours…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-94. - I.F.C. Table B105.2.",
+        "a": "Table B105.2\nshall be amended to read as follows:\n\"Table B105.2\nREQUIRED FIRE-FLOW FOR BUILDINGS OTHER THAN ONE- AND TWO-FAMILY DWELLINGS, GROUP R-3\n               AND R-4 BUILDINGS AND TOWNHOMES\nAUTOMATIC SPRINKLER SYSTEM (Design Standard)\nMINIMUM FIRE-FLOW (gallons per minute)\nFLOW DURATION (hours)\nNo automatic sprinkler system\nValue in Table B105.1(2)\nDuration in Table B105.1 (2)\nSection 903.1.1 of the\nInternational Fire Code\n50% of the value in Table B105.1 (2)\na\nDuration in Table B105.1 (2) at the reduced flow rate\nSection 903.1.2 of the\nInternational Fire Code\n50% of the value in Table B105.1 (2)\nb\nDuration in Table B105.1 (2) at the reduced flow rate\nFor SI: 1 gallon per minute = 3.785 L/min.\na. The reduced fire-flow shall not be less than 1,500 gallons per minute.\nb. The reduced fire-flow shall not be less than 1,500 gallons per minute.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-94"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

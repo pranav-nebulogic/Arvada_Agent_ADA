@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "habitual",
+      "offender",
+      "person",
+      "shall",
+      "adjudged",
+      "accumulates",
+      "three"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-11"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-11. - Habitual offender.",
+    "summary": "(a)\nA person shall be adjudged a habitual offender if the person:\n(1)\nAccumulates three convictions for separate and distinct offenses described in\nsection 14-51\nor\n14-52\ncommitted during a consecutive five-year period; or\n(2)\nAccumulates three convictions for separate and distinct offenses of any s…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-11. - Habitual offender.",
+        "a": "(a)\nA person shall be adjudged a habitual offender if the person:\n(1)\nAccumulates three convictions for separate and distinct offenses described in\nsection 14-51\nor\n14-52\ncommitted during a consecutive five-year period; or\n(2)\nAccumulates three convictions for separate and distinct offenses of any section described\n               in this chapter committed during a one-year period.\n(b)\nConviction for more than one offense arising from the same date, set of facts, and\n               circumstances, shall not constitute separate and distinct offenses for purposes of\n               this section.\n(c)\nThe controlling date is the date of each offense, not the date of conviction.\n(\nOrd. No. 4028, § 5, 10-16-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-11"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

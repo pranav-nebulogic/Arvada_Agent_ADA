@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "application",
+      "retirees",
+      "former",
+      "employees",
+      "present",
+      "pension",
+      "fund"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-35"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-35. - Application to retirees and former employees.",
+    "summary": "Present retirees of the former pension fund shall be entitled to a review by the board\n               of trustees. The benefits to be received shall not exceed the benefits of this chapter.\n               The retirees referred to are the widow of Sgt. Leon McKinnon, Leonard Smith and the\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-35. - Application to retirees and former employees.",
+        "a": "Present retirees of the former pension fund shall be entitled to a review by the board\n               of trustees. The benefits to be received shall not exceed the benefits of this chapter.\n               The retirees referred to are the widow of Sgt. Leon McKinnon, Leonard Smith and the\n               two children of Robert Beghtol. All persons who have terminated prior to the effective\n               date of this chapter for any reason whatsoever shall not be entitled to any interest,\n               benefits or provisions of this chapter whatsoever, it being the express intent of\n               this chapter that the provisions herein are to apply from the effective date of this\n               chapter forward and shall not give rise to any rights, obligations or duties for persons\n               that may have contributed to a police pension fund, but have now terminated their\n               employment, for whatever reason, with the city.\n(Code 1960, § 19-23; Code 1981, § 26-5)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

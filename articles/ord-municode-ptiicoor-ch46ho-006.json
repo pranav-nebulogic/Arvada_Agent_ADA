@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "director",
+      "attorney",
+      "agents",
+      "employees",
+      "authority",
+      "employ",
+      "secretary"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-35"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-35. - Director; attorney; agents and employees.",
+    "summary": "The authority may employ a secretary, who shall be executive director, technical experts\n               and such other officers, agents and employees, on a permanent or temporary basis,\n               as it may require, and shall determine their qualifications, duties and compensation.\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-35. - Director; attorney; agents and employees.",
+        "a": "The authority may employ a secretary, who shall be executive director, technical experts\n               and such other officers, agents and employees, on a permanent or temporary basis,\n               as it may require, and shall determine their qualifications, duties and compensation.\n               The authority may call upon the city attorney for such legal services as it may require,\n               or may employ its own counsel and legal staff. The authority may delegate to one or\n               more of its agents or employees such powers or duties as it deems proper.\n(Code 1981, § 14-5; Ord. No. 1248, § 3, 6-16-1975)\nCross reference—\nOfficers and departments,\n§ 2-91\net seq.\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-205(5)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

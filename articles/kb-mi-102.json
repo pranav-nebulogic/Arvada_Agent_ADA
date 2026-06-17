@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "bingo",
+      "supplies",
+      "equipment",
+      "sales",
+      "anything",
+      "code",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/299/Bingo-Supplies-Equipment"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-102",
+    "spreadsheet_id": "MI-102",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Bingo Supplies & Equipment",
+    "summary": "In Arvada, all sales of bingo supplies and equipment are subject to sales tax, as these items are not considered tax-exempt for fundraising purposes. Although the Colorado Department of Revenue exempts bingo equipment sales statewide, this exemption does not apply within the City of Arvada, meaning organizations operating bingo games must pay taxes on their supplies. This summary serves as a guide and should be used alongside the full Arvada tax code for accurate tax liability determination.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax on the price paid for items sold at retail in the City of Arvada (COA). If sales and use tax was not paid to the COA or another municipality, Arvada uses tax is due. The taxable price is the amount of money received or due, including shipping charges.\n\nTax-exempt organizations must pay sales tax on anything used for fundraising purposes. Anything not used in their regular charitable activities is taxable. Fundraising is not considered a charitable activity. As such, supplies purchased for fundraising activities are not tax-exempt.\n\nBingo supplies and equipment are not used by the tax-exempt organization, they are used by the bingo patrons. However, this is not considered to be a retail sale and is not tax-free under the resale exemption. Bingo is a service, and bingo operators are the consumers of their supplies. Organizations that operate bingo games in Arvada must pay taxes on their supplies.\n\nThe Colorado Department of Revenue has exempted the sales of bingo \"equipment\" effective July 1, 2001. This exemption does not extend to the City of Arvada. Bingo equipment that is purchased or rented in Arvada is taxable.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) (chapter 98) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

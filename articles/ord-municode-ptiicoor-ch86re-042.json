@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "death",
+      "benefits",
+      "any",
+      "member",
+      "retirant",
+      "shall",
+      "die"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-128"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-128. - Death benefits.",
+    "summary": "When any member or retirant shall die and leave a dependent widow, dependent widower,\n               dependent mother, dependent father, child or children under the age of 18 years, surviving,\n               such beneficiaries shall receive a monthly allotment as provided for in\nsection 86-152\n.\n(Co…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-128. - Death benefits.",
+        "a": "When any member or retirant shall die and leave a dependent widow, dependent widower,\n               dependent mother, dependent father, child or children under the age of 18 years, surviving,\n               such beneficiaries shall receive a monthly allotment as provided for in\nsection 86-152\n.\n(Code 1960, § 19-10; Code 1981, § 26-63)\nState Law reference—\nDeath benefits under statutory system, C.R.S. § 31-30-608."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-128"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

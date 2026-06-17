@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "drilling",
+      "extraction",
+      "prohibited",
+      "any",
+      "water",
+      "well",
+      "installation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-252"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-252. - Drilling and extraction prohibited.",
+    "summary": "The drilling of any water well and the installation of any water well casing or pump\n               by any person within the corporate limits of the city is hereby expressly prohibited\n               without the written consent of the city. For any water well not in existence on the\n               e…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-252. - Drilling and extraction prohibited.",
+        "a": "The drilling of any water well and the installation of any water well casing or pump\n               by any person within the corporate limits of the city is hereby expressly prohibited\n               without the written consent of the city. For any water well not in existence on the\n               effective date of this article, the extraction or diversion of water from any such\n               water well within the corporate limits of the city by any person is hereby expressly\n               prohibited without the written consent of the city. The provisions of this section\n               do not apply to water wells constructed by or under the direction of the city.\n(Code 1981, § 33-201; Ord. No. 2574, § 1, 11-21-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-252"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

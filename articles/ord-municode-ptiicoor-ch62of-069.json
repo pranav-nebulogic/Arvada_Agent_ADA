@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "curfew",
+      "footnotes",
+      "editor",
+      "note",
+      "ord",
+      "adopted",
+      "august"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 62-151"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — ARTICLE V. - CURFEW",
+    "summary": "Footnotes:\n--- (\n4\n) ---\nEditor's note—\nOrd. No. 4084, § 1, adopted August 20, 2007\n, repealed the former Art. V., §§ 62-151—62-154, and enacted a new Art. V. as set\n               out herein. The former Art. V. pertained to unlawful presence and derived from Ord.\n               No. 2988, § 1, 6-21-…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE V. - CURFEW",
+        "a": "Footnotes:\n--- (\n4\n) ---\nEditor's note—\nOrd. No. 4084, § 1, adopted August 20, 2007\n, repealed the former Art. V., §§ 62-151—62-154, and enacted a new Art. V. as set\n               out herein. The former Art. V. pertained to unlawful presence and derived from Ord.\n               No. 2988, § 1, 6-21-1993. See also the Code Comparative Table."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 62-151"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

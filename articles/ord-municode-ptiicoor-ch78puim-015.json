@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "petition",
+      "method",
+      "initiation",
+      "procedure",
+      "owner",
+      "lands",
+      "assessed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-16"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-16. - Petition method; initiation procedure.",
+    "summary": "The owner of lands to be assessed in the proposed improvement district for not less\n               than 95 per centum of the entire cost of any project, including all incidental expenses,\n               comprising more than 50 per centum of the area of such territory and also comprising\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-16. - Petition method; initiation procedure.",
+        "a": "The owner of lands to be assessed in the proposed improvement district for not less\n               than 95 per centum of the entire cost of any project, including all incidental expenses,\n               comprising more than 50 per centum of the area of such territory and also comprising\n               a majority of the landowners residing in the territory, may by written petition initiate\n               the acquisition of any project which the council is authorized to initiate, subject\n               to the following limitations:\n(1)\nThe council may incorporate such project in any improvement district;\n(2)\nThe council need not proceed with the acquisition of any such project or any part\n                  thereof after holding a hearing thereon, pursuant to\nsections 78-22\n—\n78-30\nhereof, and all provisions thereof thereunto enabling, if the council shall determine\n                  that it is not for the public interest that the proposed project or a part thereof\n                  be then ordered to be made; and\n(3)\nAny particular kind of project, any material therefor, or any part thereof need not\n                  be acquired or located, as provided in the petition, if the council shall determine\n                  that such is not for the public interest.\n(Code 1981, § 27-17; Ord. No. 551, § 9(A), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-16"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

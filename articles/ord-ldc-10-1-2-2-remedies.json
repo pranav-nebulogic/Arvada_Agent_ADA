@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "remedies",
+      "generally",
+      "section",
+      "sets",
+      "city",
+      "impose",
+      "against",
+      "violator",
+      "process",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "10-1-2-2"
+    ],
+    "chapter": "Chapter 10 ENFORCEMENT",
+    "article": "ARTICLE 10-1. ENFORCEMENT",
+    "division": "DIVISION 10-1-2. VIOLATIONS, REMEDIES, AND PENALTIES"
+  },
+  "content": {
+    "title": "10-1-2-2. Remedies.",
+    "summary": "A.\tGenerally. This Section sets out the remedies that the City may impose against a violator in the process of code enforcement.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "10-1-2-2. Remedies.",
+        "a": "A.\tGenerally. This Section sets out the remedies that the City may impose against a violator in the process of code enforcement. These remedies are not exclusive of other remedies that may be available at law or in equity and shall be cumulative and in addition to any other remedy provided by law, and may be exercised in any order.\nB.\tDeny/Withhold Permits.\n  1.\tThe City may deny and withhold all permits, certificates, licenses, or other forms of authorization to use or develop any land, structure, or improvements thereon until the alleged violation related to such property, use, or development is corrected. This provision shall apply whether or not the current owner or Applicant for the permit is responsible for the violation.\n  2.\tWhere a property owner, agent, or other person has a record of an outstanding serious violation or violations of this Code, the relevant Decision-Making Bodies shall be authorized to deny or withhold all permits, certificates, or other forms of authorization for any use or development activity undertaken by such person until the outstanding violation is corrected. This provision shall apply whether or not the property for which the permit or other approval is sought is the property in violation.\nC.\tPermits Approved with Conditions. Instead of withholding or denying a permit or other authorization, the City may grant such authorization subject to the condition that the violation be corrected.\nD.\tRevoke Approvals or Permits.\n  1.\tThe City may revoke any development approval, permit, or other authorization, after notice and a public hearing by the Decision-Making Body that originally granted the final approval, permit, or other authorization, when it is determined that:\n    a.\tThere is a material departure from the approved plans, specifications, or conditions of approval;\n    b.\tThere is a violation of any provision of this Code;\n    c.\tThe development approval permit, or other authorization was obtained by false representation; or\n    d.\tThe development approval, permit, or other authorization issued in error.\n  2.\tWritten notice of revocation shall be served upon the owner, the owner's agent, the Applicant, or other person to whom the permit was issued, or such notice may be posted in a prominent location at the place of the violation. No work or construction shall proceed after service of the revocation notice.\nE.\tStop Work Order.\n  1.\tIssuance of Stop Work Order. With or without revoking permits, the Director, Chief Building Official or designee may issue an order to stop work on any property on which there is an uncorrected violation of either a provision of this Code or a provision of a permit or other form of authorization issued pursuant to this LDC. The stop work order shall specify the LDC provisions allegedly being violated. After any such order has been served, no work shall proceed on any building, other structure, or tract of land covered by such order, except to correct such violation or comply with the order.\n  2.\tTiming/Notice. The stop work order may be issued at the same time as the notice of the initial violation, or subsequent to such notice, and may require immediate cessation of work. The stop work order shall also indicate that failure to comply with the order may subject the violator to civil and/or criminal liability as penalty for the violation(s).\nF.\tInjunctive Relief. The City may initiate injunction proceedings or other appropriate legal action in the District Court, the Arvada Municipal Court, or other court of competent jurisdiction against any person who fails to comply with any provision of this LDC or any requirement or condition imposed pursuant to this LDC. In any court proceeding in which the City seeks a preliminary injunction, it shall be presumed that a violation of this LDC is a real, immediate, and irreparable injury to the public; that the public will be irreparably injured by the continuation of the LDC violation unless the violation is enjoined; and that there is no plain and adequate remedy at law for the subject LDC violation.\nG.\tAbatement. The City may seek a court order in the District Court, the Arvada Municipal Court, or other court of competent jurisdiction, in the nature of abatement, mandatory injunction, or other action to abate or remove a violation or to otherwise restore the premises to the condition which existed before the violation.\nH.\tRevoke Licenses. The City may revoke the license of any City-licensed contractor or City-licensed business operation where there are repeated violations of this LDC. Revocation of licenses shall be processed according to applicable procedures adopted for this purpose by the applicable City Department or entity."
+      }
+    ],
+    "ordinance_refs": [
+      "10-1-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

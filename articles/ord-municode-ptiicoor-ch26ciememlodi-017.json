@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mutual",
+      "aid",
+      "agreements",
+      "city",
+      "manager",
+      "behalf",
+      "enter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-42"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-42. - Mutual aid agreements.",
+    "summary": "(a)\nThe city manager may, on behalf of the city, enter into such reciprocal aid, mutual\n               aid, joint powers agreements, intergovernmental assistance agreements or other compacts\n               or plans with other governmental entities for the protection of life and property.\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-42. - Mutual aid agreements.",
+        "a": "(a)\nThe city manager may, on behalf of the city, enter into such reciprocal aid, mutual\n               aid, joint powers agreements, intergovernmental assistance agreements or other compacts\n               or plans with other governmental entities for the protection of life and property.\n               Such agreements may include the furnishing or exchange of supplies, equipment, facilities,\n               personnel and/or services.\n(b)\nThe governing body or any of its committees, commissions or authorities may exercise\n               such powers and functions in light of the exigencies of the emergency or disaster\n               and may waive compliance with time consuming procedures and formalities prescribed\n               by law pertaining thereto.\n(c)\nThe foregoing shall apply to all executive, legislative and judicial powers and functions\n               conferred upon the city and its officers, employees and authorized agents.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-42"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "active",
+      "shooter",
+      "class",
+      "please",
+      "request",
+      "armed",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1400/Active-Shooter"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-028",
+    "spreadsheet_id": "MI-028",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Active Shooter",
+    "summary": "Active Shooter is a class that provides civilians with national protocols for responding to an armed perpetrator in public or private spaces. Interested individuals can request a class by calling 720-898-6883, with sessions scheduled based on enrollment levels.",
+    "body": "Active Shooter is a class that now serves as the national protocol for civilians on what to do when an armed perpetrator enters a public place or private business with the intent to kill.\n\nFor more information or to request a class please call 720-898-6883. Please note, classes will be scheduled upon request and conducted based on enrollment levels.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

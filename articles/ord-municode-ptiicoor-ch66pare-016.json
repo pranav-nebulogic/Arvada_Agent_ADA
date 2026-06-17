@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "these",
+      "rules",
+      "govern",
+      "recreational",
+      "use"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-52"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-52. - Legislative declaration.",
+    "summary": "These rules govern the recreational use by the public of Arvada/Blunn Reservoir. It\n               is the policy of the city that the principal recreational use of Arvada/Blunn Reservoir\n               is hereby limited to fishing for game fish as the term \"fishing\" is defined in C.R.S.\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-52. - Legislative declaration.",
+        "a": "These rules govern the recreational use by the public of Arvada/Blunn Reservoir. It\n               is the policy of the city that the principal recreational use of Arvada/Blunn Reservoir\n               is hereby limited to fishing for game fish as the term \"fishing\" is defined in C.R.S.\n               § 33-1-102(16) and as the term \"game fish\" is defined in C.R.S. § 33-1-102(20).\n(Code 1981, § 22-21; Ord. No. 2577, § 2, 12-19-1988; Ord. No. 2956, § 3, 2-15-1993)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-52"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

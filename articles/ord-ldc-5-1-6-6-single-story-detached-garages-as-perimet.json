@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "single",
+      "story",
+      "detached",
+      "garages",
+      "perimeter",
+      "walls",
+      "generally",
+      "constructed",
+      "townhome",
+      "multifamily"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-6-6"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-6. SUPPLEMENT STANDARDS FOR NONRESIDENTIAL AND MULTIFAMILY LAND USE"
+  },
+  "content": {
+    "title": "5-1-6-6. Single-story detached garages as perimeter walls.",
+    "summary": "A.\tGenerally. Single-story detached garages may be constructed as perimeter walls of townhome and multifamily sites as provided in this Section.\nB.\tHeight.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-6-6. Single-story detached garages as perimeter walls.",
+        "a": "A.\tGenerally. Single-story detached garages may be constructed as perimeter walls of townhome and multifamily sites as provided in this Section.\nB.\tHeight. The height of the garage building, measured from the finished grade at the outside building line of the garage shall not exceed:\n  1.\tSix feet to bottom of the eave line on the outside face of the garage building; and\n  2.\t12 feet to the highest point on the ridge line of the roof.\nC.\tOffsets. The outside-facing walls of the garage buildings (\"perimeter walls\") shall be interrupted or offset by a distance of at least two feet at intervals of at least 60 feet in façade width. The offset or interruption shall have a width of at least 12 feet.\nD.\tLocation. If the outside walls of the garages are used as part of a required bufferyard, they shall be installed on the inside boundary of the bufferyard, with landscaping installed between the garage building and the property line."
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-6-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

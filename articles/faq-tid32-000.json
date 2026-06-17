@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-32-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "pay",
+      "water",
+      "bill",
+      "bills",
+      "paid",
+      "online",
+      "setting",
+      "account",
+      "Water & Sewer Billing"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=32"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-can-i-pay-my-water-bill",
+    "faq_category_name": "Water & Sewer Billing"
+  },
+  "content": {
+    "title": "How can I pay my water bill?",
+    "summary": "Bills can be paid online by setting up an account. Options are also available to pay by phone, mail or drop box. Please visit the Pay My Bill page for more information, including setting up automatic payments and paperless options.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How can I pay my water bill?",
+        "a": "Bills can be paid online by setting up an account. Options are also available to pay by phone, mail or drop box. Please visit the Pay My Bill page for more information, including setting up automatic payments and paperless options."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

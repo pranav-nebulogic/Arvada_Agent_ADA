@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "same",
+      "taxes",
+      "any",
+      "nonresident",
+      "vendor",
+      "engaged",
+      "business"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-81"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-81. - Same—Taxes.",
+    "summary": "Any nonresident vendor engaged in business in the city shall have the same tax liability\n               and responsibility for reporting and collecting the city use tax on sales to the city\n               residents as a resident vendor has with respect to sales tax pursuant to this article.\n(Code 19…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-81. - Same—Taxes.",
+        "a": "Any nonresident vendor engaged in business in the city shall have the same tax liability\n               and responsibility for reporting and collecting the city use tax on sales to the city\n               residents as a resident vendor has with respect to sales tax pursuant to this article.\n(Code 1981, § 31-55; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-81"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-39-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "talking",
+      "neighbors",
+      "help",
+      "yes",
+      "raising",
+      "awareness",
+      "about",
+      "speeding",
+      "Traffic Control on My Street"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=39"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-talking-with-neighbors-help",
+    "faq_category_name": "Traffic Control on My Street"
+  },
+  "content": {
+    "title": "Can talking with neighbors help?",
+    "summary": "Yes. Raising awareness about speeding and similar issues can help to change people's behavior. In a lot of residential areas, it is residents of the neighborhood who are speeding. If a community conversation starts, people may adjust their driving habits and help contribute to a safer community. For…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can talking with neighbors help?",
+        "a": "Yes. Raising awareness about speeding and similar issues can help to change people's behavior. In a lot of residential areas, it is residents of the neighborhood who are speeding. If a community conversation starts, people may adjust their driving habits and help contribute to a safer community. For tips on starting a neighborhood group and more, check out Neighbors Connected."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

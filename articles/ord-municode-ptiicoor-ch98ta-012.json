@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "transfer",
+      "business",
+      "license",
+      "issued",
+      "under",
+      "article",
+      "designating"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-64"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-64. - Transfer of business license.",
+    "summary": "A business license issued under this article designating a place of business may be\n               transferred to a new location by the filing with the city clerk of a notice of location\n               change. In case a business licensee shall sell his business, the then-existing business\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-64. - Transfer of business license.",
+        "a": "A business license issued under this article designating a place of business may be\n               transferred to a new location by the filing with the city clerk of a notice of location\n               change. In case a business licensee shall sell his business, the then-existing business\n               license shall become void and a new business license shall be issued by the city clerk\n               for the location of the business upon the filing of an application for business license\n               by the new owner.\n(Code 1981, § 31-39; Ord. No. 3783, § 2, 12-16-2002;\nOrd. No. 4548, § 2, 5-2-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-64"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

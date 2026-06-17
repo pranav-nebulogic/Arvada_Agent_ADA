@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "manual",
+      "design",
+      "criteria",
+      "cooling",
+      "temperature",
+      "bulb",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1238/Manual-J-Design-Criteria"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-021",
+    "spreadsheet_id": "BP-021",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Manual J Design Criteria",
+    "summary": "The Manual J design criteria specify key climate and indoor conditions for building design in the area, including an elevation of 5,453 feet, a winter heating temperature of 1°F, and a summer cooling temperature of 91°F. The indoor design temperature is set at 70°F, with a cooling design temperature of 75°F, and humidity levels are 30% in winter and 50% in summer. Wind velocities are noted as 15 mph for heating and 7.5 mph for cooling.",
+    "body": "**Elevation:** 5453' East of Hwy 93; Varies West of Hwy 93\n\n**Latitude:** 40° North\n\n**Winter Heating 99% Dry Bulb:** 1°\n\n**Summer Cooling 1% Dry Bulb:** 91°\n\n**Altitude Correction Factor:** .832 East of Hwy 93; Varies West of Hwy 93\n\n**Indoor Design Temperature:** 70°\n\n**Design Temperature Cooling:** 75°\n\n**Heating Temperature Difference:** 69°\n\n**Cooling Temperature Difference:** 16°\n\n**Wind Velocity Heating:** 15 mph\n\n**Wind Velocity Cooling:** 7.5 mph\n\n**Coincident Wet Bulb:** 60\n\n**Daily Rance:** High (H)\n\n**Winter Humidity:** 30%\n\n**Summer Humidity:** 50%",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "charitable",
+      "organizations",
+      "government",
+      "colorado",
+      "districts",
+      "political",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/303/Charitable-Organizations-Government"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-120",
+    "spreadsheet_id": "MI-120",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Charitable Organizations & Government",
+    "summary": "The Arvada Municipal Code provides tax exemptions for sales to charitable or religious organizations, applicable only when purchases are used for their regular functions and paid directly from the organization's funds. Government entities, including special districts and municipalities, also benefit from similar tax exemptions. Vendors must document exempt transactions, and in cases of uncertainty, they must collect tax, allowing purchasers to seek refunds from the City.",
+    "body": "The Arvada Municipal Code allows exemption from the sales, use, lodging, and admission tax on sales to charitable or religious organizations. This applies only when the purchase is used for their regular functions and activities.\n\n## Government\n\nGovernment includes:\n\n- Certain special districts\n- Colorado counties\n- Municipalities\n- Political subdivisions include:\n- School districts\n- State of Colorado, and its departments, institutions, and political subdivisions\n- U.S. Government (Federal)\n\n## Charitable Organizations\n\nA Charitable Organization is any entity that is:\n\n- Certified as a not-for-profit organization under section 501(c)(3) of the Internal Revenue Code\n\n**And**\n\n- An organization that operates exclusively and lawfully to benefit the general public\n\n## Exempt Purchases\n\nSales by government and charitable organizations are tax-exempt if they are:\n\n- Used in regular charitable or governmental functions and activities\n- Billed directly to the organization, and paid from the organization's funds\n- Not be reimbursed for the purchase in any way, including, but not limited to\n  - Sales of tickets\n  - Collection of a registration fee\n  - Receipt of an involuntary contribution\n\nThe seller must prove that a transaction was properly exempted and will be required to document such claims in an audit situation. In questionable situations, the vendor must collect the tax and the purchaser may apply directly to the City for a refund of the disputed tax.\n\n## Examples\n\n- A teacher at a local public school is purchasing goods for their classroom. The teacher is paying with a personal check but claims that the purchase will be reimbursed by the school. Because the purchase is not paid for directly by the funds of the government, the sale is not tax-exempt.\n- A charitable organization is holding a banquet at the Arvada Center. The organization is selling tickets to the event to recover the costs. Because the organization will be reimbursed for the cost of the banquet, the center should charge the appropriate taxes.\n- An employee of the City of Arvada buys office supplies from a local vendor and gives a purchase order to the vendor. The vendor then bills the City for the supplies. Because it is billed directly to the organization, and paid from the organization's funds, the purchase is exempt from sales tax. The vendor should attach a copy of the purchase order to the invoice as proof of proper exemption.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

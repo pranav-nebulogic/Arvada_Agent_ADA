@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "mixed",
+      "transit",
+      "district",
+      "residential",
+      "allowed",
+      "uses",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/215/MX-T-Mixed-Use-Transit-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-307",
+    "spreadsheet_id": "MI-307",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "MX-T (Mixed-Use, Transit) District",
+    "summary": "The MX-T (Mixed-Use, Transit) District is designed for high-density residential and non-residential developments along transit corridors, allowing for a mix of uses on single parcels or in master-planned areas. Various uses are categorized as Allowed Use By-Right, Limited Use, or Conditional Use, with specific regulations outlined in the Land Development Code for each classification across residential, hospitality, commercial, community, industrial, motor vehicle, and utility sectors.",
+    "body": "Intended to provide for urban-scale, higher density residential and non-residential uses in vertically or horizontally mixed development on a single parcel or in a master planned area, and located along corridors with frequent bus and rail transit service.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#tab13a041c0-4066-4b95-91e6-57cd85db8c91_0)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Townhome | C | 3-1-3-2 |\n| Multiplex | C | N/A |\n| Multifamily | C | N/A |\n| Boarding, Lodging, or Rooming House | A | N/A |\n| Group Home, FFHA | L | 3-1-3-3 |\n| Group Home for Juvenile Offenders | C | 3-1-3-3 |\n| Group Home, Not Specified Above | C | 3-1-3-3 |\n| Live-Work Unit | L | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#tab13a041c0-4066-4b95-91e6-57cd85db8c91_1)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Bar / Tavern / Nightclub | L | 3-1-3-4 |\n| Brew Pub / Distillery Pub / Limited Winery | L | 3-1-3-4 |\n| Hotel / Motel | A | N/A |\n| Recreation and Amusement, Indoor | A | N/A |\n| Recreation, Outdoor (other) | L | 3-1-3-4 |\n| Restaurant | A | N/A |\n| Restaurant, Fast Food | L | 3-1-3-4 |\n| Theater | A | N/A |\n\n1. [Commercial Uses](#tab13a041c0-4066-4b95-91e6-57cd85db8c91_2)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Animal Day Care / Training | L | 3-1-3-5 |\n| Art Studio / Makerspace | A | 3-1-3-5 |\n| Continuing Care Facility | A | N/A |\n| Office, General or Professional | A | N/A |\n| Retail Sales and Services Type 1 | L | 3-1-3-5 |\n| Retail Sales and Services Type 2 | L | 3-1-3-5 |\n| Veterinary Offices or Clinics | L | 3-1-3-5 |\n| Workshop | A | 3-1-3-5 |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#tab13a041c0-4066-4b95-91e6-57cd85db8c91_3)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Day Care Center, Adult or Child | A | N/A |\n| Hospital | A | N/A |\n| Medical Office | A | N/A |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | L | 3-1-3-6 |\n| Private School, Kindergarten, Elementary, Middle, or High | A | N/A |\n| Private School, Vocational, Trade, College, or University | A | N/A |\n\n1. [Industrial, Processing, Recycling, Storage & Disposal Uses](#tab13a041c0-4066-4b95-91e6-57cd85db8c91_4)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Light Industry | L | 3-1-3-7 |\n| Resource Extraction (Minerals) | C | 3-1-3-7 |\n\n1. [Motor Vehicle Uses](#tab13a041c0-4066-4b95-91e6-57cd85db8c91_5)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Fueling / Service Station | L | 3-1-3-8 |\n| Parking Lot, Surface as principal use | C | 3-1-3-8 |\n| Parking Lot, Structured as principal use | C | 3-1-3-8 |\n| Vehicle Equipment Sales or Rentals | L | 3-1-3-8 |\n\n1. [Utility & Communications Uses](#tab13a041c0-4066-4b95-91e6-57cd85db8c91_6)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Major | C | 3-1-3-9 |\n| Utilities, Minor | L | 3-1-3-9 |\n| Overhead Power Lines (110 kV+) | C | 3-1-3-9 |\n| Radio or Television Transmission Tower | C | 3-1-3-9 |\n| Freestanding Towers | C | Chapter 7 |\n| Other Wireless Communications Facilities | L | Chapter 7 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

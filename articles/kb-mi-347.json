@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "june",
+      "address",
+      "allstar",
+      "attorney",
+      "automated",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1421/New-Businesses-June-2025"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-347",
+    "spreadsheet_id": "MI-347",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses June 2025",
+    "summary": "In June 2025, several new businesses opened in Arvada, Colorado, including Allstar Imports, Arvada Eye Care, and KING BUFFET, among others. The list features a range of services from legal and counseling to food and technology, with each business providing contact information for inquiries.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew Businesses June 2025\n\n| Allstar Imports | 6719 W 58TH PL ARVADA CO 80003 | 303-903-3755 |\n| Arvada Eye Care | 16205 W 64TH AVE 100 ARVADA CO 80007 | 303-424-2991 |\n| Automated Gate Services Inc | 8141 I-70 FRONTAGE RD 1 ARVADA CO 80002 | 951-393-2827 |\n| Bichsel Bookkeeping | ARVADA CO 80003 | 859-953-2145 |\n| Bricks & Minifigs Arvada | 7350 W 88TH AVE G ARVADA CO 80021 | 303-941-5262 |\n| G CLEVELAND PAYNE III Attorney at Law | ARVADA CO 80005 | 770-424-1400 |\n| Grace Commercial Builders | ARVADA CO 80002 | 720-676-9780 |\n| Justice Necessary | 6452 FIG ST F ARVADA CO 80004 | 720-344-6489 |\n| K80 Fixes Everything | ARVADA CO 80002 | 720-916-6084 |\n| Kaige Technology Solutions LLC | ARVADA CO 80007 | 303-717-5078 |\n| KING BUFFET | 5220 WADSWORTH BYP S ARVADA CO 80002 | 720-749-5185 |\n| \"Pathfinder Bookkeeping, LLC\" | ARVADA CO 80004 | 303-519-1314 |\n| Peaceful Rivers Counseling PLLC | 5310 WARD RD ARVADA CO 80002 | 720-295-8107 |\n| Skyline Cnc & Fab | 6531 W 56TH AVE 34 ARVADA CO 80002 | 303-944-7338 |\n| Strays Barbershop | 9850 W 59TH PL ARVADA CO 80004 | 805-415-3098 |\n| SUBWAY #2470 | 8025 SHERIDAN BLVD P ARVADA CO 80003 | 720-739-1671 |\n| SUBWAY #28695 | 15400 W 64TH AVE E3 ARVADA CO 80007 | 720-739-1677 |\n| SUBWAY #7075 | 12304 W 64TH AVE ARVADA CO 80004 | 303-423-1204 |\n| Surewerx USA Inc | 5405 W 56TH AVE H ARVADA CO 80002 | 713-459-1829 |\n| The Pretzel Guy | ARVADA CO 80004 | 920-591-2774 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

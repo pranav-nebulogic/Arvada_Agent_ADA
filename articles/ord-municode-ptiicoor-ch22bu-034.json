@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "licensing",
+      "authority",
+      "established",
+      "massage",
+      "parlor",
+      "shall",
+      "vested"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-164"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-164. - Licensing authority established.",
+    "summary": "(a)\nThere is established a massage parlor licensing authority, which shall have and is\n               vested with the authority to grant or refuse licenses for massage parlors based upon\n               the criteria set forth herein and state law, to conduct investigations, and to suspend\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-164. - Licensing authority established.",
+        "a": "(a)\nThere is established a massage parlor licensing authority, which shall have and is\n               vested with the authority to grant or refuse licenses for massage parlors based upon\n               the criteria set forth herein and state law, to conduct investigations, and to suspend\n               or revoke such licenses for good cause in the manner provided by this article.\n(b)\nThe members of the authority shall be the members that comprise the city council and\n               the term of each member of the authority shall be the same as each member's term on\n               the city council.\n(c)\nThe authority shall meet as needed and the chairperson of the authority shall be the\n               mayor. The chairperson shall preside over all hearings and proceedings of the authority.\n               In the absence of the chairperson, the mayor pro tem shall preside. A quorum shall\n               consist of a majority of the members in office at the time, and a decision of the\n               majority of the quorum present shall control all actions of the authority.\n(d)\nThe city clerk shall receive all applications for licenses, and shall issue all licenses\n               granted by the authority, upon receipt of all fees as are required by this chapter.\n               The city clerk shall serve as the official secretary of the authority and shall designate\n               a person to provide the necessary secretarial and reporting services for the authority.\n               All public notices by publication in a newspaper and by the posting of signs, as required\n               by this chapter, shall be accomplished by the city clerk or his designee.\n(e)\nThe police department shall be responsible for routine periodic inspections of the\n               licensed premises and such other duties as the massage parlor licensing authority\n               may reasonably direct.\n(Code 1981, § 16-4; Ord. No. 3292, § 1, 10-21-1996)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-164"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

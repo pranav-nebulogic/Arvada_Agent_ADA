@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exemptions",
+      "officers",
+      "agents",
+      "following",
+      "persons",
+      "acting",
+      "accordance"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-8"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-8. - Exemptions.",
+    "summary": "(a)\nOfficers and agents.\nThe following persons, when acting in accordance with any city wildlife management\n               plan as may from time to time be promulgated by the city, and in the course of the\n               performance of their official duties, shall be deemed exempt from the provision…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-8. - Exemptions.",
+        "a": "(a)\nOfficers and agents.\nThe following persons, when acting in accordance with any city wildlife management\n               plan as may from time to time be promulgated by the city, and in the course of the\n               performance of their official duties, shall be deemed exempt from the provisions of\nsection 14-171\n, cruelty,\nsection 62-51\n, discharging firearms, and\nsection 62-56\n, throwing missiles, of this Code:\n(1)\nAny federal, state or local peace officer including Colorado Division of Wildlife\n               Officers and Arvada Animal Management Officers.\n(2)\nAny employee, agent, or contractor designated by the city to perform specific duties\n               pursuant to any city wildlife management plan.\n(b)\nPolice dogs.\nPolice dogs owned by federal, state, or local law enforcement agencies shall be deemed\n               exempt from the provisions of this chapter while being used in the performance of\n               the functions and duties of said agency.\n(Code 1981, § 6-8; Ord. No. 3496, § 2, 12-14-1998;\nOrd. No. 4176, § 1, 8-17-2009\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

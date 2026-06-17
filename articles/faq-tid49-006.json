@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-49-007",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "other",
+      "ways",
+      "reduce",
+      "family",
+      "exposure",
+      "lead",
+      "replace",
+      "old",
+      "Public Improvement Projects - Service Line Inventory"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=49"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-are-other-ways-i-can-reduce-my-family-s-exposure-to-lea",
+    "faq_category_name": "Public Improvement Projects - Service Line Inventory"
+  },
+  "content": {
+    "title": "What are other ways I can reduce my family’s exposure to lead?",
+    "summary": "Replace old plumbing materials and fixtures, particularly lead, galvanized, or brass. Run your cold tap for several seconds before use, and always use the cold side for consumption. You can warm water for cooking or formula on the stove or in the microwave. The Colorado Department of Public Health a…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What are other ways I can reduce my family’s exposure to lead?",
+        "a": "Replace old plumbing materials and fixtures, particularly lead, galvanized, or brass. Run your cold tap for several seconds before use, and always use the cold side for consumption. You can warm water for cooking or formula on the stove or in the microwave. The Colorado Department of Public Health and the Environment has made resources available on its website for residents to learn more about lead exposure. They have a helpful brochure about common lead sources and health concerns. The EPA has resources available as well."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

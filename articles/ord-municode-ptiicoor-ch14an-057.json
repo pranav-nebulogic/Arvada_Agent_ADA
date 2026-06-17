@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "application",
+      "filing",
+      "applications",
+      "new",
+      "license",
+      "renewal",
+      "existing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-223"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-223. - Application.",
+    "summary": "(a)\nFiling.\nApplications for a new license or renewal of an existing license under the provisions\n               of this chapter shall be on forms furnished by the city clerk.\n(b)\nApplications complete.\nThe city clerk shall not accept any application that is not complete in every detail.\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-223. - Application.",
+        "a": "(a)\nFiling.\nApplications for a new license or renewal of an existing license under the provisions\n               of this chapter shall be on forms furnished by the city clerk.\n(b)\nApplications complete.\nThe city clerk shall not accept any application that is not complete in every detail.\n               If an omission or error is discovered by the city clerk, the application shall be\n               rejected and returned to the applicant for completion or correction without further\n               action by the city clerk. All fees shall be returned with the application. For purposes\n               of this chapter, the date the city clerk accepts an application which is complete\n               in every detail shall be the filing date.\n(c)\nCompliance with city regulation.\nNo kennel license shall be issued until:\n(1)\nA written inspection certificate has been issued by the animal management supervisor\n               or his designee certifying approval of the kennel, compliance with applicable laws\n               of the city and the state, and that the applicant has licenses to operate the kennel\n               which have been issued by the Colorado Department of Health and the Colorado Division\n               of Agriculture and which are valid at time of the issuance of the certificate; and\n(2)\nA written certificate has been issued by the code enforcement supervisor or his designee\n               certifying that the operation of the kennel is in compliance with the zoning ordinance\n               at the time of the issuance of the certificate.\n(d)\nState licenses.\nThe existence of state licenses referenced in subsection (c) of this section shall\n               not in itself assure that a city license shall be issued.\n(e)\nInspections.\nThe animal management or code enforcement officer shall have the right to inspect\n               any premises licensed under this section at any time, and nothing shall prevent the\n               entry onto private property for the purposes of inspection. The application for a\n               kennel license shall constitute consent to such entry and inspection.\n(Code 1981, § 6-102; Ord. No. 3496, § 2, 12-14-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-223"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

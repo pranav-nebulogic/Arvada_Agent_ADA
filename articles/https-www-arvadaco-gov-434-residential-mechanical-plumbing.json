@@ -1,0 +1,210 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_mechanical_plumbing",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/434/Residential-Mechanical-Plumbing"
+    ],
+    "scraped_at": "2026-06-10T10:49:53.875127+00:00",
+    "content_hash": "2dc16ba6cf66a00b9af93fd41d5785f91cc3ce90665c2abe1bac25daf177cce7",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Residential Mechanical & Plumbing Permits",
+    "summary": "The City of Arvada requires building permits and inspections for residential mechanical and plumbing appliance replacements and new installations, including water heaters, boilers, furnaces, air conditioners, heat pumps, and mini-splits. Applications must be submitted through the Arvada Permits online portal or in person at City Hall. Specific documentation and plan reviews may be required depending on the scope of work.",
+    "eligibility": "Contractors with an active City of Arvada license can apply online. Homeowners must submit applications in person to the Building Safety Division at City Hall if they wish to install appliances themselves and plan to occupy the home.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review License and Permit Requirements",
+        "text": "Check your contractor license type to determine which permits you can apply for online. Contact the office if you have questions about your license or permit eligibility.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Prepare Required Documentation",
+        "text": "Gather necessary documents such as a floor plan or site plan sketch, manufacturer equipment specifications, Manual J load calculation, Manual D if applicable, Manual S if applicable, water heater sizing documentation, gas line calculation, and electrical details depending on the installation or modification.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Submit Application",
+        "text": "Submit your permit application through the Arvada Permits online portal if you are a licensed contractor. Homeowners must submit applications in person at Arvada City Hall, 8101 Ralston Road, Arvada, CO 80002, Monday through Friday from 8 a.m. to 5 p.m.",
+        "portal_url": "https://arvada.permits.com"
+      },
+      {
+        "n": 4,
+        "title": "Schedule Inspections",
+        "text": "Schedule required inspections by 6 a.m. on the desired inspection day. Inspections are conducted Monday through Friday from 8 a.m. to 4 p.m., excluding holidays. Someone 18 years or older must be present to allow access.",
+        "portal_url": null
+      },
+      {
+        "n": 5,
+        "title": "Complete Inspections and Close Permit",
+        "text": "After inspections receive an Approved or Final result, the permit will be finalized and closed. You will receive an email notification. Inspection results and permit status can be reviewed online or by texting the automated inspection line.",
+        "portal_url": "https://arvada.permits.com"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Floor Plan / Site Plan",
+        "description": "A simple, clearly labeled sketch showing equipment location. Stamped drawings are not required.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Manufacturer Equipment Specifications",
+        "description": "Specifications, performance data, selected model numbers, and efficiency data such as SEER, HSPF, AFUE, EF (IECC R403).",
+        "where_to_get": "From equipment manufacturer",
+        "example": null
+      },
+      {
+        "name": "Manual J Load Calculation",
+        "description": "An ACCA-approved Manual J load calculation to ensure proper sizing, required for new HVAC systems and replacements with smaller systems.",
+        "where_to_get": "From HVAC professional",
+        "example": null
+      },
+      {
+        "name": "Manual D",
+        "description": "Required when new ductwork is installed or 20% or more of existing duct system is modified to ensure proper airflow.",
+        "where_to_get": "From HVAC professional",
+        "example": null
+      },
+      {
+        "name": "Manual S (if applicable)",
+        "description": "May be required to verify equipment selection.",
+        "where_to_get": "From HVAC professional",
+        "example": null
+      },
+      {
+        "name": "Water Heater Sizing Documentation",
+        "description": "Documentation showing the unit meets required hot water demand for new water heaters.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Gas Line Calculation",
+        "description": "Required when adding or modifying gas piping.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Electrical Details",
+        "description": "One-line diagram including breaker size and wire gauge when adding or modifying electrical components.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "equipment_type",
+        "label": "Equipment Type",
+        "description": "Type of mechanical or plumbing equipment being installed or replaced, e.g., furnace, water heater, mini-split.",
+        "example_value": null,
+        "why_needed": "To determine permit type and applicable requirements."
+      },
+      {
+        "field_name": "installation_type",
+        "label": "Installation Type",
+        "description": "Indicates if the work is a new installation, addition, modification, or like-for-like replacement.",
+        "example_value": null,
+        "why_needed": "To assess documentation and plan review needs."
+      },
+      {
+        "field_name": "manual_j_provided",
+        "label": "Manual J Load Calculation Provided",
+        "description": "Indicates whether an ACCA-approved Manual J load calculation is included.",
+        "example_value": "Yes or No",
+        "why_needed": "Required for proper sizing of HVAC systems."
+      },
+      {
+        "field_name": "gas_line_calculation_provided",
+        "label": "Gas Line Calculation Provided",
+        "description": "Indicates if a gas line sizing calculation is included when gas piping is added or modified.",
+        "example_value": "Yes or No",
+        "why_needed": "Ensures safe and code-compliant gas piping."
+      },
+      {
+        "field_name": "electrical_one_line_diagram",
+        "label": "Electrical One-Line Diagram Provided",
+        "description": "Indicates if a one-line electrical diagram including breaker size and wire gauge is provided when electrical components are added or modified.",
+        "example_value": "Yes or No",
+        "why_needed": "Required for electrical inspection and safety."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Permit Fees",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": "Fees are updated annually and can be found on the Building Fee Schedule webpage."
+      },
+      {
+        "name": "Use Tax",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.use_tax",
+        "notes": "Use Tax will be removed after review if proof of tax exempt status is provided during application."
+      },
+      {
+        "name": "Double Fee for Unpermitted Electrical Work",
+        "amount": null,
+        "rate": null,
+        "config_key": null,
+        "notes": "A double fee will be assessed if additional electrical work is found during inspection that was not included on the permit."
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": "Inspections are conducted Monday through Friday from 8 a.m. to 4 p.m., excluding holidays. Inspections must be scheduled by 6 a.m. on the day of inspection.",
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "866-783-1447",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Can homeowners apply for these permits online?",
+        "a": "No, only contractors with an active City of Arvada license can apply online. Homeowners must submit applications in person at City Hall."
+      },
+      {
+        "q": "Is a licensed plumber required to install water heaters?",
+        "a": "Yes, a licensed plumber is required to install water heaters unless the homeowner plans to occupy the home and performs the work themselves, per Colorado state law."
+      },
+      {
+        "q": "What happens if electrical work is done but not included on the permit?",
+        "a": "The inspection will fail and a double fee will be assessed for the unpermitted electrical work."
+      },
+      {
+        "q": "Are plan reviews always required?",
+        "a": "Plan reviews are required for certain HVAC and water heater installations, especially when modifications or new installations are not like-for-like replacements."
+      }
+    ],
+    "ordinance_refs": [
+      "2018 IRC",
+      "2018 IECC",
+      "IRC M1401.3",
+      "IRC G2413/402",
+      "IRC Chapters 37–38",
+      "IECC R403"
+    ],
+    "related_permit_types": [
+      "building_permit_mechanical",
+      "building_permit_plumbing",
+      "building_permit_electrical"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3986
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "performance",
+      "warranty",
+      "guarantee",
+      "any",
+      "made",
+      "hereunder",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-299"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-299. - Performance warranty/guarantee.",
+    "summary": "(a)\nAny warranty made hereunder shall serve as security for the performance of work necessary\n               to repair the public right-of-way if the applicant fails to make the necessary repairs\n               or to complete the work under the permit.\n(b)\nThe applicant, by acceptance of the permit,…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-299. - Performance warranty/guarantee.",
+        "a": "(a)\nAny warranty made hereunder shall serve as security for the performance of work necessary\n               to repair the public right-of-way if the applicant fails to make the necessary repairs\n               or to complete the work under the permit.\n(b)\nThe applicant, by acceptance of the permit, expressly warrants and guarantees complete\n               performance of the work in a manner acceptable to the city and warrants and guarantees\n               all work done for a period of two years after the date of initial warranty acceptance,\n               and agrees to maintain upon demand and to make all necessary repairs during the two-year\n               period. This warranty shall include all repairs and actions needed as a result of:\n(1)\nDefects in workmanship;\n(2)\nSettling of fills or excavations;\n(3)\nAny unauthorized deviations from the approved plans and specifications;\n(4)\nFailure to properly barricade or to implement the approved traffic control plan;\n(5)\nFailure to cleanup during and after performance of the work; and\n(6)\nAny other violation of this article or the ordinances of the city.\n(c)\nThe two-year warranty period shall run from the date of the city's initial warranty\n               acceptance of the work. If repairs are required during the two-year warranty period,\n               those repairs need only be warranted until the end of the initial two-year period,\n               starting with the date of probationary acceptance. It is not necessary that a new\n               two-year warranty be provided for subsequent repairs after initial warranty acceptance.\n(d)\nAt any time prior to completion of the two-year warranty period, the city may notify\n               the applicant of any needed repairs. Such repairs shall be completed within 24 hours\n               if the defects are determined by the city to be an imminent danger to the public health,\n               safety, and welfare. Nonemergency repairs shall be completed within 14 calendar days\n               after notice.\n(Code 1981, § 27-208; Ord. No. 3717, § 1, 8-27-2001; Ord. No.\n4725\n, § 4, 5-4-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-299"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

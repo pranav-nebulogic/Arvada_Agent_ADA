@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "trade",
+      "exchanged",
+      "property",
+      "code",
+      "vehicle",
+      "another",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/380/Trade-Ins"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-556",
+    "spreadsheet_id": "MI-556",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Trade-Ins",
+    "summary": "The Arvada Municipal Code allows for a reduction in the taxable purchase price when property is exchanged at the time of sale, provided the exchanged property is intended for resale by the retailer or involves vehicles that require licensing. For example, if a resident trades in a car valued at $2,000 when purchasing a new car for $15,500, the taxable amount would be $13,500. This summary is intended for informational purposes and should be used alongside the full Arvada tax code for determining tax liability.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) provides for a reduction of the taxable purchase price by the fair market value of property exchanged at the same time and place of the sale if:\n\n1. The property exchange is to be resold thereafter in the usual course of the retailer's business\n2. The property exchanged is a vehicle and is exchanged for another vehicle and both vehicles are subject to licensing, registration, or certification under the laws of this state, including, but not limited to, vehicles operating upon public highways, off-highway recreation vehicles, watercraft, and aircraft. Any money or other consideration paid over and above the value of the exchanged property is subject to tax.\n\n## Example\n\n- Paul, an Arvada resident, purchases a car from a licensed Arvada car dealer. The price of his car is $15,500. Paul is trading in his used car for $2,000. The taxable basis for the new car is $13,500 = ($15,500 − $2,000).\n- ABC Office Furniture, an Arvada retailer, makes a deal with XYZ Materials Handling to exchange furniture for a forklift that will be used in their warehouse. ABC must collect sales tax on the full purchase price of the furniture sold to XYZ because they are not reselling the forklift.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

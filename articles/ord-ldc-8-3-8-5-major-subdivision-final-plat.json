@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "major",
+      "subdivision",
+      "final",
+      "plat",
+      "generally",
+      "completes",
+      "process",
+      "ensures",
+      "compliance",
+      "approved"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-8-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-8. SUBDIVISIONS"
+  },
+  "content": {
+    "title": "8-3-8-5. Major subdivision final plat.",
+    "summary": "A.\tGenerally. The Major Subdivision Final Plat completes the subdivision process and ensures compliance with the approved Major Subdivision Preliminary Plat and all applicable standards of this LDC.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-8-5. Major subdivision final plat.",
+        "a": "A.\tGenerally. The Major Subdivision Final Plat completes the subdivision process and ensures compliance with the approved Major Subdivision Preliminary Plat and all applicable standards of this LDC. All necessary construction plans for public improvements shall be ready for approval prior to the Director's decision on the Major Subdivision Final Plat.\nB.\tApproval Criteria. The Director shall approve a Major Subdivision Final Plat if it meets the following criteria:\n  1.\tThe proposed Major Subdivision Final Plat conforms with the approved Major Subdivision Preliminary Plat, except as to variations the Director determines are insignificant and incorporates all recommended changes, modifications, and conditions attached to the approval of the Major Subdivision Preliminary Plat.\n  2.\tPlans and specifications for improvements connected with development of the subdivision comply with the development and design standards set forth in Chapter 2, Zoning Districts, Chapter 4, Environmental and Site Design and other applicable provisions of this Code. Applicants shall avoid creating lots or patterns of lots in the subdivision that will make future compliance with such development and design standards difficult or infeasible.\n  3.\tThe Applicant has either installed all required improvements or has executed a development agreement that adequately addresses and secures the Applicant's obligation to do so.\n  4.\tThe Applicant has paid or satisfied the following fees and charges (seeArticle 8-4, Required Improvements, Dedications, and Fees and Section 74-31, Arvada Municipal Code), unless the City Council has approved alternative arrangements:\n    a.\tLand Dedication In-Lieu Fee;\n    b.\tPark Development Fee;\n    c.\tSchool Fees;\n    d.\tEngineering Review Fee; and\n    e.\tAny other fees or reimbursements due."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-8-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

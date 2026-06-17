@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "appeal",
+      "demand",
+      "hearing",
+      "event",
+      "taxpayer",
+      "vendor",
+      "disputes"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-99"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-99. - Appeal and demand for hearing.",
+    "summary": "In the event that the taxpayer or vendor disputes a notice of assessment issued to\n               the vendor or taxpayer for failure to file a return, underpayment of tax owed or as\n               a result of an audit, or disputes a denial of a refund, he shall no later than 30\n               calend…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-99. - Appeal and demand for hearing.",
+        "a": "In the event that the taxpayer or vendor disputes a notice of assessment issued to\n               the vendor or taxpayer for failure to file a return, underpayment of tax owed or as\n               a result of an audit, or disputes a denial of a refund, he shall no later than 30\n               calendar days after the date of the notice of assessment or denial of refund file\n               a written appeal and demand for an administrative hearing which demand will stay the\n               sale under any pending distraint warrant (until the conclusion of the hearing). Any\n               such appeal and demand for hearing shall identify the amount of tax disputed and the\n               basis for the appeal. In the event that it is determined at the hearing that the taxpayer's\n               liability is less than the amount in the possession of the finance director, if any,\n               such excess shall be paid to the taxpayer forthwith. Failure to file a written appeal\n               and demand for an administrative hearing shall constitute a waiver of the right to\n               contest such liability; however, when such hearing is requested, the final decision\n               rendered therein shall be appealable to the district court as provided by law.\n(Code 1981, § 31-68; Ord. No. 3783, § 2, 12-16-2002;\nOrd. No. 4317, § 13, 3-5-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-99"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

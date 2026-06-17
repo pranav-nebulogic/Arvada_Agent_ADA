@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "assessment",
+      "repairs",
+      "time",
+      "payment",
+      "generally",
+      "whenever",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-38"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-38. - Assessment for repairs; time of payment generally.",
+    "summary": "Whenever any repair or reconstruction shall be done by or under the direction of the\n               city, as provided in\nsection 94-37\n, the proportionate share of the cost, as provided in\nsection 94-36\nfor such repair or reconstruction, shall be assessed against the owner of the adjacent\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-38. - Assessment for repairs; time of payment generally.",
+        "a": "Whenever any repair or reconstruction shall be done by or under the direction of the\n               city, as provided in\nsection 94-37\n, the proportionate share of the cost, as provided in\nsection 94-36\nfor such repair or reconstruction, shall be assessed against the owner of the adjacent\n               property. Said owner shall pay to the city the proportionate share of the cost of\n               such construction within 30 days of receiving written notice of the completion of\n               the construction and the cost and expense. The owner's share of the cost may be paid\n               with interest-free monthly installments secured by a promissory note.\n(\nOrd. No. 4365, § 1, 11-19-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-38"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

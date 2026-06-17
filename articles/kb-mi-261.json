@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "household",
+      "hazardous",
+      "waste",
+      "chemicals",
+      "county",
+      "pose",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/738/Household-Hazardous-Waste"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-261",
+    "spreadsheet_id": "MI-261",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Household Hazardous Waste",
+    "summary": "The Rooney Road Recycling Center provides hazardous waste disposal services for the community and small businesses in Arvada, ensuring safe handling of household chemicals that can pose health and environmental risks. Arvada residents can receive a discount for disposal services with proof of residency, and appointments can be made through the Center's website. Certain materials, including radioactive waste, medical waste, controlled substances, explosives, and tires, are not accepted.",
+    "body": "For the community and small businesses of Arvada, [Rooney Road Recycling Center](http://www.rooneyroadrecycling.org/) offers hazardous waste disposal.\n\nMany household chemicals pose serious health risks if not properly handled, stored, and disposed of. Certain chemicals pose a threat to sanitation workers (and anyone who comes into contact with them). They may also threaten ground water and the environment at the landfill. Jefferson County and municipalities in the County contribute to the Center's operations so that residents have a safe place to dispose of household chemicals.\n\nArvada resident receive a [discount](https://www.rooneyroadrecycling.org/pricing/) with proof of residency. Visit the [Rooney Road Recycling Center website](http://www.rooneyroadrecycling.org/) to set up a drop off appointment.\n\nPlease note that the Rooney Road Recycling Center cannot accept:\n\n- Radioactive Materials\n- Biological / Medical Wastes (contact your medical provider)\n- DEA controlled substances (Prescription pain meds)\n- Explosives / Ammunition / Firework\n- Tires",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

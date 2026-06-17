@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-35-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "pfas",
+      "per",
+      "poly",
+      "fluoro",
+      "alkyl",
+      "substances",
+      "term",
+      "describes",
+      "Water - PFAS Information"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=35"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-are-pfas",
+    "faq_category_name": "Water - PFAS Information"
+  },
+  "content": {
+    "title": "What are PFAS?",
+    "summary": "PFAS, or Per- and poly-Fluoro Alkyl Substances, is a term that describes thousands of human-made chemicals found in everyday products that are heat, water, and oil resistant. PFAS can end up in our water, air, and soil from thousands of potential sources resulting in exposure to humans, animals and …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What are PFAS?",
+        "a": "PFAS, or Per- and poly-Fluoro Alkyl Substances, is a term that describes thousands of human-made chemicals found in everyday products that are heat, water, and oil resistant. PFAS can end up in our water, air, and soil from thousands of potential sources resulting in exposure to humans, animals and the environment. Since the 1940s, they have been used to make things like: Non-stick cookware and food packaging Waterproof and stain-resistant carpet and fabrics Cosmetics, sunscreen and other personal care products Fire-resistant and fire-fighting products Studies have shown that, in high enough quantities, certain PFAS may be bad for your health. The Environmental Protection Agency (EPA) uses lifetime Health Advisories to protect people from negative health effects that may come from exposure to PFAS. These calculations are based on drinking about 64 ounces of water per day for 70 years. This also takes into account other potential sources of exposure beyond drinking water (for example, food, air, consumer products, etc.)."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

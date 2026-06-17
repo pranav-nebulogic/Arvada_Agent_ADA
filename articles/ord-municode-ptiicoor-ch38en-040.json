@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "authority",
+      "city",
+      "regarding",
+      "maintenance",
+      "landscaping",
+      "power",
+      "maintain"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-242"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-242. - Authority of the city regarding the maintenance of landscaping.",
+    "summary": "(a)\nThe city has the power to maintain and protect all landscaping within, over, or upon\n               city property.\n(b)\nLandscaping on private property or between the property line and any adjacent city\n               property shall not:\n(1)\nProject into the right-of-way;\n(2)\nBe diseased or infes…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-242. - Authority of the city regarding the maintenance of landscaping.",
+        "a": "(a)\nThe city has the power to maintain and protect all landscaping within, over, or upon\n               city property.\n(b)\nLandscaping on private property or between the property line and any adjacent city\n               property shall not:\n(1)\nProject into the right-of-way;\n(2)\nBe diseased or infested;\n(3)\nPose an unreasonable risk of injury or damage to persons or property on adjacent private\n               property, city property, or rights-of-way;\n(4)\nObstruct the view of vehicular traffic or pedestrians traveling on the right-of-way;\n               or\n(5)\nEncroach within, over, or upon city property.\n(c)\nIf landscaping meets one or more of the criteria in subsections (b)(1)—(5) of this\n               section, the city manager may:\n(1)\nWithout notice to the property owner, maintain the landscaping at issue up to the\n               private property line; or\n(2)\nRequire the owner of the private property, at the expense of the owner, to maintain\n               such landscaping by:\n(i)\nServing a written notice on the owner describing the landscaping at issue and maintenance\n               required. The notice will require the property owner within 14 days of service of\n               the notice to maintain the landscaping located on the private property, or between\n               the property line and any adjacent city property, or that encroaches onto, over, or\n               within city property. The notice shall be served by handing the same to the owner,\n               posting the notice in a conspicuous place on the subject private property, or sending\n               the notice to the owner at the subject private property or the owner's residence by\n               certified mail return receipt requested. A property owner must comply with the requirements\n               stated in the notice within 14 days of service upon the property owner; and\n(ii)\nIf the owner fails to comply with the provisions of the notice, the city manager may\n               enter the private property and maintain the landscaping described in the notice. If\n               the manager maintains the landscape as set forth in this subsection, the manager shall\n               file a lien pursuant to the provisions of\nchapter 59\n, Municipal liens, for any expenses incurred by the city in the maintaining of such\n               landscaping.\n(Ord. No.\n4760\n, § 1, 4-19-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-242"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

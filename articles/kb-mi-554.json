@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "tips",
+      "caring",
+      "neighbor",
+      "neighbors",
+      "snow",
+      "consider",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/935/Tips-for-Being-a-Caring-Neighbor"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-554",
+    "spreadsheet_id": "MI-554",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Tips for Being a Caring Neighbor",
+    "summary": "Arvada residents are encouraged to foster community by checking in on older neighbors, sharing meals and recipes, and passing along local knowledge and resources. Simple gestures like waving and welcoming newcomers can enhance neighborhood connections and well-being. Engaging in these practices contributes to a supportive and resilient community.",
+    "body": "**Look out for your neighbors!**Census data from 2020 shows 17% of Arvada residents are 65 years and older. Check in with your older neighbors and offer support where needed. Consider becoming their [Snow Buddy](https://www.arvadaco.gov/486/Snow-Buddies-Program) to assist with snow removal from their walkways and half of their driveway.\n\n**Share treats with your neighbors!** As seasons change, so do our eating and drinking habits. When getting to know your neighbors, consider exchanging recipes or taking turns cooking treats/meals for each other. Ideas for a neighborhood-wide block party include a baking competition to share cookie recipes.\n\n**Pass along information and resources with your neighbors!** Arvadans who have lived in town for decades know how to navigate the area. They know the best spots to go for a scenic walk, grab coffee and enjoy a meal out. If you are one of these wise neighbors, share this information with your neighbors as they become accustomed to all Arvada has to offer.\n\n**Wave to your neighbors!** According to the Gallup National Health and Well-Being Index, adults in the U.S. who regularly say hello to multiple people in their neighborhood have a higher level of well-being than those who don't. Learn more in the [Gallup August 2023 news article](https://news.gallup.com/poll/509543/saying-hello-linked-higher-wellbeing-limits.aspx).\n\n**Welcome newcomers to your neighborhood!** More Americans move into new homes in the summer than any other time of the year, but any time someone new moves into the neighborhood, introduce yourself! Teach them about local resources and annual events in your neighborhood as well as recurring events led by the City. Developing connections with your neighbors is a key component to neighborhood resilience.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

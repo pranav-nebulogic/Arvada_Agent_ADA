@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "telecommunication",
+      "services",
+      "telecommunications",
+      "code",
+      "interstate",
+      "access",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/379/Telecommunication-Services"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-544",
+    "spreadsheet_id": "MI-544",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Telecommunication Services",
+    "summary": "The Arvada Municipal Code imposes a tax on telecommunications services, excluding carrier access and interstate private communication services, with tax applicability based on the location of the telecommunications equipment rather than the billing address. Taxable services include various forms of telecommunications, such as VoIP, mobile services, and bundled services, while internet access charges are not taxable if separately stated. Additionally, fees and indirect taxes passed on by service providers are included in the taxable purchase price, and mobile telecommunications are taxed based on the customer's primary use location.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a tax on the purchase price paid for telecommunications services except for carrier access services and interstate private communication services. Charges for all international, interstate, watts/800 services and intrastate telecommunications services originating from or received on telecommunications equipment in the City are taxable when the charge for the service is billed to an apparatus, telephone, or account in the City, to a customer location in the City, or to a person residing in the City without regard to where the bill for such services is actually received.\n\nThe Arvada Municipal Code defines telecommunication services as the transmission of any two-way interactive electromagnetic communications including but not limited to voice, image, data, and any other information, by the use of any means but not limited to wire, cable, fiber optical cable, microwave, radio wave, Voice of Internet Protocol (VoIP), or any combination of such media, including any form of mobile two-way communication.\n\n\"Telecommunications service\" includes but is not limited to residential and business service, directory assistance, cellular mobile telephone or telecommunications service, specialized mobile radio and two-way pagers and paging service, including any form of mobile two-way communications. \"Telecommunications services\" **does not include** separately stated non-transmission services, which constitute computer processing applications used to act on the information to be transmitted or internet access charges.\n\nSpecific telecommunications services which are subject to Arvada sales and use tax include but are not limited to charges for the following:\n\n- Intrastate, Interstate, and international telecommunications services\n- Voice of Internet Protocol (VoIP) based telecommunication\n- Call forwarding, call waiting, call completion, caller ID, and call conference calling\n- Voice messaging or voice mail\n- Phone cards\n- Two-way radio communications airtime and two-way paging service\n- Pay-per-use services such as directory assistance, continuous redial, and last-call return\n- Bundled services\n- Cable television service\n- Mobile telecommunications provided the customer's place of primary use is in Arvada\n\nThe determination of whether the City sales tax is applicable is based on the apparatus or equipment location, not on the billing address.\n\n## Taxes & Fees\n\nFees and indirect taxes, such as business and occupation taxes, which are passed on to the customer by the telecommunication service provider are part of the taxable purchase price. City sales tax is also imposed on the sales, lease, or rental of telecommunication equipment such as pagers, mobile phones, fax machines, telephones, modems, and routers.\n\n## Mobile Telecommunications\n\nPursuant to the Mobile Telecommunications Sourcing Act (4 USC. Secs. 116 to 126, as amended) charges for mobile telecommunications services, as defined in the act, are taxed according to the customer's place of primary use (PPU). This will usually be the customer's residence or business location. For taxpayers with multiple locations, it is important to notify home service providers which location each unit will be used at to avoid being assessed tax improperly based upon the billing address.\n\n## Bundled Transactions\n\nIf taxable and non-taxable services are bundled together and sold as one price, the taxable portion of the bundled charge must be determined to compute the sales tax that is due on the sale. The service provider must provide an estimated value of each of the bundled service elements (subject to audit) and receive approval to charge sales tax based on these estimates. If this is not done, the entire price will be subject to sales tax.\n\n## Internet Access Charges\n\nInternet access charges are not taxable when they are separately stated from other charges or when the telecommunications services providers can reasonably identify the internet access charges from books and records kept in the regular course of business to deduct that amount from the sales price before applying sales tax to the bundled charge.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

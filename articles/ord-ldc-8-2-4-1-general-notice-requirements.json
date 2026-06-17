@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "general",
+      "notice",
+      "requirements",
+      "computation",
+      "time",
+      "computing",
+      "period",
+      "prescribed",
+      "purpose",
+      "giving"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-4-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-4. REQUIRED NOTICES"
+  },
+  "content": {
+    "title": "8-2-4-1. General notice requirements.",
+    "summary": "A.\tComputation of Time. In computing any period of time prescribed for the purpose of giving notice under this Division, the day of the publication, mailing, or posting shall be included. The day of the meeting or hearing shall not be counted.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-4-1. General notice requirements.",
+        "a": "A.\tComputation of Time. In computing any period of time prescribed for the purpose of giving notice under this Division, the day of the publication, mailing, or posting shall be included. The day of the meeting or hearing shall not be counted. Saturdays, Sundays, and legal holidays shall be counted as any other day.\nB.\tNotice Cost.\n  1.\tAll costs for providing mail and posted notice as required by this Division shall be the direct responsibility of the Applicant.\n  2.\tThe City shall provide published notice. The cost of such notice shall be included in the development review fee.\nC.\tApplicant's Certification. Prior to the event that is the subject of a public notice, the Applicant shall provide the Director with an executed affidavit certifying that the requirements as to the Applicant's responsibility for the applicable forms of notice under this Division have been met. The Director shall make available sample certifications that address all applicable forms of public notice required by this LDC.\nD.\tFailure to Provide Notice; Defective Notice.\n  1.\tFailure to timely provide the required affidavit, or evidence that a mailing list or notice letter was defective, may be cause to suspend the review process until proper notice is provided. Such suspension may be ordered by the Director or body that is responsible for the meeting, hearing, or decision (e.g., neighborhood meeting, public hearing, or staff decision) that is the subject of the notice.\n  2.\tMinor defects in any notice shall not impair the notice or invalidate proceedings pursuant to the notice if a bona fide attempt has been made to comply with applicable notice requirements. In any case in which a question arises at the public hearing regarding the adequacy of notice, consideration shall be given to the nature and extent of the deficiency, the probability of confusion resulting from the deficiency, and the type and variety of notice successfully accomplished in determining whether substantial compliance with the notice requirements of this Code has been met\nE.\tContinuation of Hearings and Neighborhood Meetings. A hearing or neighborhood meeting for which proper notice was given may be continued to a later date without again complying with the public notice requirements of this Division (unless required by Director), provided that the date, time, and location of the continued hearing or meeting is announced to the public at the time of continuance.\n(Ord. No. 4793, § 6, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

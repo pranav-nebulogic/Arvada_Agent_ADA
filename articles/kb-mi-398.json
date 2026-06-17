@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "pavement",
+      "progress",
+      "dashboards",
+      "lane",
+      "miles",
+      "program",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1537/Pavement-Progress-Dashboards"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-398",
+    "spreadsheet_id": "MI-398",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Pavement Progress Dashboards",
+    "summary": "The City has allocated additional resources to repave 75 lane miles of road in 2026, nearly doubling the typical annual completion rate, in response to community feedback prioritizing road maintenance. The pavement program includes various treatments such as surface treatments and concrete replacement, with a data-driven approach guiding the selection of roads for maintenance. A summary of the past five years of work is available through the city's dashboards and maps.",
+    "body": "## 2026 Pavement Program\n\nThe City allocated additional resources to repave (mill and overlay) 75 lane miles of road in 2026. This is nearly double the lane miles completed in a typical year. This dashboard shows progress on repaving efforts, as well as concrete replacement and surface treatments. Learn more about what to expect during construction on the main [Pavement Program webpage](/629).\n\nCommunity survey feedback continues to show road maintenance is a priority for Arvada residents. In response, we are investing more of your tax dollars into this effort. Follow along and watch the numbers tick up as we complete work this year!\n\n## 5 Year Summary\n\nThe City maintains a street network of over 1,500 lane miles. This dashboard and map provide a summary of work completed in the last 5 years.\n\n**Surface treatments**are a cost effective way to maintain and extend the life of a road in good condition.**Concrete replacement**helps prepare road for repaving. **Mill and overlay** is more costly work to repave roads in poor conditions.\n\nEach year, the team uses a data-driven approach to determine which roads will receive which type of work. Visit the [Understanding the Pavement Program webpage](/1299) for a deeper dive into the decision making and funding for this work.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

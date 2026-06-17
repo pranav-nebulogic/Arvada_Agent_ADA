@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "pre-application",
+      "development review",
+      "planning meeting",
+      "land development code",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/374/Step-1-Your-Pre-Application"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-027",
+    "spreadsheet_id": "BP-027",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Pre-Application Meeting Permit",
+    "summary": "To initiate a pre-application meeting with the city, users must request a meeting through the Permit Portal and provide necessary information about the property, including its zoning and acreage, along with a conceptual plan and project description. During the meeting, city staff will offer feedback and outline development requirements, and after the meeting, attendees will receive notes and a checklist of application requirements via email.",
+    "body": "Meetings must be requested through the [Permit Portal]([NEW PORTAL URL]). A public user account is required in order to submit the request. If you need help setting up an account, [review the instructions](https://www.arvadaco.gov/599/).\n\nThe request form will ask for information including the current zoning of the property and the acreage of the property. This information can be found using the City's [Address and Property Search](https://www.arvadaco.gov/702/Maps-Property-Search) tool. As part of the form, you will need to attach PDFs including:\n\n- A conceptual plan of your project.\n- A detailed description of your project and any specific questions to be addressed during the pre-application meeting.\n\nA meeting request will not be processed if it doesn't include this information.\n\n## At the Pre-Application Meeting\n\nYou will be asked to provide a brief overview of the proposal after which City staff will provide feedback and requirements for development. City staff at the meeting may include building plan reviewers, development engineers, traffic engineers, landscape architects, and City planners. Members of the Arvada Fire Protection District may also attend the meeting.\n\nThe City planner will end the meeting with a discussion about what applications would be needed and an overview of the public hearing process, if a public hearing is required.\n\n## After the Meeting\n\nStaff notes from the meeting and a checklist of application requirements will be available on the Friday following the meeting. The person who submitted the meeting request will receive an email from indicating that those items can be viewed at the meeting link on the [Permit Portal]([NEW PORTAL URL]). Meeting notes are public and can be found under the attachments portion of the meeting page.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

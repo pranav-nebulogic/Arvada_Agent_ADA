@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "powers",
+      "respect",
+      "acquisition",
+      "assessments",
+      "bonds",
+      "etc",
+      "notwithstanding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-48"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-48. - Powers with respect to acquisition, assessments, bonds, etc.",
+    "summary": "Notwithstanding a project herein authorized or any interest therein may not be owned\n               by the city nor be directly acquired or improved, or acquired and improved, nor the\n               costs thereof directly incurred by the city, and notwithstanding the project herein\n               au…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-48. - Powers with respect to acquisition, assessments, bonds, etc.",
+        "a": "Notwithstanding a project herein authorized or any interest therein may not be owned\n               by the city nor be directly acquired or improved, or acquired and improved, nor the\n               costs thereof directly incurred by the city, and notwithstanding the project herein\n               authorized or any interest therein may be located on land, an easement or other interest\n               therein, or other real property owned by the federal government or by a public body,\n               the city shall have the power to:\n(1)\nAcquire or improve, or both acquire and improve, or to cooperate in the acquisition\n                  or improvement of, or both the acquisition and improvement of, the project or any\n                  interest therein with the federal government or with any public body pursuant to agreement\n                  between or among the city and such other bodies corporate and politic so long as the\n                  project or the interest therein acquired or improved, or both acquired and improved,\n                  results in general benefits to the city and in special benefits to the assessable\n                  property being assessed therefor by the city within its boundaries;\n(2)\nLevy special assessments on such assessable property to defray all or any part of\n                  the costs of the project or any interest therein or to defray all or any part of the\n                  city's share of such costs if all costs are not being defrayed by the city; and\n(3)\nIssue bonds and to exercise other powers herein granted and appertaining to such acquisition\n                  or improvement, or both such acquisition and improvement.\n(Code 1981, § 27-49; Ord. No. 551, § 18(C), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-48"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

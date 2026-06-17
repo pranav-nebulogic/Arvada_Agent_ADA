@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "consideration",
+      "arguments",
+      "persons",
+      "heard",
+      "after",
+      "provisional",
+      "order"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-32"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-32. - Consideration of arguments of persons heard.",
+    "summary": "After a provisional order hearing has been concluded, after all written complaints,\n               protests and objections have been read and duly considered and after all persons desiring\n               to be heard in person have been heard, the council shall consider the arguments, if\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-32. - Consideration of arguments of persons heard.",
+        "a": "After a provisional order hearing has been concluded, after all written complaints,\n               protests and objections have been read and duly considered and after all persons desiring\n               to be heard in person have been heard, the council shall consider the arguments, if\n               any, and any other relevant material put forth.\n(Code 1981, § 27-33; Ord. No. 551, § 14(B), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-32"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

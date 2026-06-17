@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-28-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "city",
+      "put",
+      "pressure",
+      "existing",
+      "providers",
+      "provide",
+      "better",
+      "broadband",
+      "Broadband & Internet Services"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=28"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-the-city-put-pressure-on-existing-providers-to-provide-b",
+    "faq_category_name": "Broadband & Internet Services"
+  },
+  "content": {
+    "title": "Can the City put pressure on existing providers to provide better broadband services through negotiations of the cable franchise?",
+    "summary": "Unfortunately, no. The cable franchises that the City has with TDS and Comcast govern broadcast TV services, not broadband. Broadband services are not regulated and therefore, the City does not have the authority to govern existing broadband providers. However, since the opting out of SB-152, the pr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can the City put pressure on existing providers to provide better broadband services through negotiations of the cable franchise?",
+        "a": "Unfortunately, no. The cable franchises that the City has with TDS and Comcast govern broadcast TV services, not broadband. Broadband services are not regulated and therefore, the City does not have the authority to govern existing broadband providers. However, since the opting out of SB-152, the primary ISP providers in Arvada (Comcast and Century Link) have significantly upgraded their infrastructure."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

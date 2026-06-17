@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "issuance",
+      "bonds",
+      "authorized",
+      "council",
+      "shall",
+      "power",
+      "cause"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-66"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-66. - Issuance of bonds; authorized.",
+    "summary": "The council shall have power to cause to be issued on behalf of the city, negotiable\n               bonds in an aggregate principal amount not exceeding the estimated cost of the project\n               or part thereof to be defrayed by the levy and collection of assessments, or, if bonds\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-66. - Issuance of bonds; authorized.",
+        "a": "The council shall have power to cause to be issued on behalf of the city, negotiable\n               bonds in an aggregate principal amount not exceeding the estimated cost of the project\n               or part thereof to be defrayed by the levy and collection of assessments, or, if bonds\n               are issued after the levy of assessments, in an aggregate principal amount not exceeding\n               the aggregate amount of unpaid assessments pledged for the payment of the bonds. A\n               single issue or series of bonds may be authorized and issued for one or more districts\n               or for one or more assessment units of one or more separate districts and the bonds\n               shall be equally and ratably secured by all of the unpaid special assessments of such\n               units or districts; provided, that while interest and principal payment dates of the\n               pledged unpaid special assessments of the different districts need not be exactly\n               the same, such payment dates generally should be such that the installments or the\n               principal of and interest on such bonds may be promptly and fully paid on the scheduled\n               dates.\n(Code 1981, § 27-67; Ord. No. 551, § 25(A), 5-14-1964; Ord. No. 1643, § 4, 2-18-1980;\n               Ord. No. 2294, § 3, 7-7-1986)\nState Law reference—\nAuthority of city to issue special assessment bonds, C.R.S. § 31-25-534."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-66"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

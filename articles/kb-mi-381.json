@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "order",
+      "prohibiting",
+      "photography",
+      "recording",
+      "courthouse",
+      "court",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1316/Order-Prohibiting-Photography-Recording-"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-381",
+    "spreadsheet_id": "MI-381",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Order Prohibiting Photography / Recording in the Courthouse",
+    "summary": "The City of Arvada Municipal Court has issued an order effective June 4, 2025, prohibiting the use of electronic devices for photography, audio, or video recording within the courtroom and its waiting area, except for authorized personnel. While electronic devices can be used for non-disruptive purposes such as note-taking and communication, any violation of these restrictions may disrupt court proceedings. The order aims to ensure the efficient administration of justice and protect the privacy of victims and witnesses.",
+    "body": "## Presiding Judge Order 2025-02  City of Arvada Municipal Court  Effective June 4, 2025\n\nIn accordance with the inherent authority of the City of Arvada Municipal Court to manage its facilities and the proceedings before them, the Court has a responsibility and obligation to ensure the efficient performance of judicial functions, to protect the dignity, independence, and integrity of the Court, and to make lawful actions of the Court effective. Members of the public that have business with the Court must be able to conduct their business freely, in a safe and orderly fashion, and unhindered by threats, confrontation, interference, or harassment. The Court must also minimize any activities that unreasonably disrupt or interfere with the orderly and peaceful conduct of Court business. The Court has an obligation to protect the privacy of victims and witnesses. The City of Arvada Municipal Court therefore issues the following Orders with respect to the use of electronic devices inside the Municipal Courtroom as well as the waiting area outside the Courtroom located at 8101 Ralston Road, Arvada, CO 80002.\n\n1. COURTROOM-All electronic devices shall be turned off or otherwise completely muted. If a device is muted, they are subject to the following restrictions:\n   1. So long as the use of an electronic device is not disruptive, and the presiding judicial officer has not prohibited or restricted its use, an electronic device may be used to access the internet or for the purpose of written communication. This includes activities such as taking notes, preparing work product, accessing or modifying personal schedules and calendars, browsing the internet, communicating via text message or email, or other similar functions.\n   2. Except for security personnel, court personnel, or law enforcement officers acting under color of official authority, no person shall use an electronic or other device to take photographs, make audio or video recordings, make telephone calls, or transmit live audio or video streaming of any proceeding or person.\n   3. Colorado Supreme Court Rules, Chapter 38, Court Rule 3, Media Coverage of Court Proceedings shall be followed for expanded media coverage inside the Courtroom, including virtual proceedings.\n2. ALL OTHER AREAS OF THE MUNICIPAL COURT FACILITY-Electronic devices may be used so long as the use is not disruptive to court-related lawful requests, directions, and orders of law enforcement officers and security personnel in the performance of their duties. Failure to do so will constitute a violation of this order. This Order shall not operate to preclude law enforcement officers or security personnel from taking additional appropriate measures to ensure the orderly and peaceful conduct of Court-related business in the Municipal Courtroom or Municipal Court Facility.\n\nThe Court finds that these Orders are appropriate and necessary to the efficient and effective administration of justice in the City of Arvada.\n\n**Dated and effective this 4th day of June, 2025.**\n\n**By the Court:**\n\n**Kathryn Kurtz  \nPresiding Judge  \nCity of Arvada Municipal Court**",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

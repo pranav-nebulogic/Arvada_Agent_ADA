@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "materials",
+      "prepared",
+      "engineer",
+      "shall",
+      "forthwith",
+      "prepare",
+      "file"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-14",
+      "§ 27-15"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-14. - Materials prepared by engineer.",
+    "summary": "The engineer shall forthwith prepare and file with the clerk the:\n(1)\nPreliminary plans;\n(2)\nPreliminary estimate of costs; and\n(3)\nAssessment plat.\n(Code 1981, § 27-15; Ord. No. 551, § 8(F), 5-14-1964; Ord. No. 766, § 3, 6-16-1969)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-14. - Materials prepared by engineer.",
+        "a": "The engineer shall forthwith prepare and file with the clerk the:\n(1)\nPreliminary plans;\n(2)\nPreliminary estimate of costs; and\n(3)\nAssessment plat.\n(Code 1981, § 27-15; Ord. No. 551, § 8(F), 5-14-1964; Ord. No. 766, § 3, 6-16-1969)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-14",
+      "§ 27-15"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

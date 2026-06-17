@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "electronic",
+      "signatures",
+      "solicitations",
+      "subject",
+      "any",
+      "limitations",
+      "colorado"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-44"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-44. - Electronic signatures—solicitations.",
+    "summary": "Subject to any limitations in the Colorado Uniform Electronic Transactions Act, by\n               submitting a proposal to a city-issued solicitation for goods or services, a bidder\n               agrees to the use of electronic signatures. Notwithstanding the foregoing, the city\n               may …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-44. - Electronic signatures—solicitations.",
+        "a": "Subject to any limitations in the Colorado Uniform Electronic Transactions Act, by\n               submitting a proposal to a city-issued solicitation for goods or services, a bidder\n               agrees to the use of electronic signatures. Notwithstanding the foregoing, the city\n               may require that any proposal be executed with manual signatures.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-44"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chief",
+      "building",
+      "official",
+      "generally",
+      "member",
+      "city",
+      "staff",
+      "principally",
+      "responsible",
+      "administration"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-1-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-1. CITY STAFF AND REFERRAL AGENCIES"
+  },
+  "content": {
+    "title": "8-1-1-2. Chief building official.",
+    "summary": "A.\tGenerally. The Chief Building Official is the member of the City Staff who is principally responsible for the administration of adopted building codes.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-1-2. Chief building official.",
+        "a": "A.\tGenerally. The Chief Building Official is the member of the City Staff who is principally responsible for the administration of adopted building codes. In addition to the duties and responsibilities set out in Chapter 18, Arvada Municipal Code, the Chief Building Official shall have the duties and responsibilities set out in this Section.\nB.\tDuties and Responsibilities. The Chief Building Official shall allocate and supervise staff from the Building Department to provide the following functions:\n  1.\tBuilding Permits. The Chief Building Official shall be responsible for reviewing applications for Building Permits and taking final action to approve, approve with conditions, or deny on such applications.\n  2.\tMiscellaneous Structure Permits. The Chief Building Official shall review applications for Miscellaneous Structure Permits (fences, walls, decks, patios, sheds) and take final action to approve, approve with conditions, or deny such applications.\n  3.\tCompliance with Design Guidelines. Prior to permit issuance within the Olde Town Historic District or Reno Park Addition Historic District Project Area, the Chief Building Official shall confirm with the Director that, with respect to the land-use activity for which a permit is sought, a Certificate of Compliance with Design Guidelines has been issued, a waiver granted, or the Guidelines determined to be inapplicable."
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

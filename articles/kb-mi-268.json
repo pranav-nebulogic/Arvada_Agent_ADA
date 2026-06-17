@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "human",
+      "resources",
+      "mission",
+      "organization",
+      "strategic",
+      "vision",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/193/Human-Resources"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-268",
+    "spreadsheet_id": "MI-268",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Human Resources",
+    "summary": "The Human Resources Department of the City of Arvada aims to enhance workforce management and development, ensuring a high-performing team to achieve operational goals. It serves as a strategic partner to all city departments, focusing on recruitment, retention, and employee support while promoting innovation and community enrichment. Employment verification requests can be made via phone or written request, and those interested in job opportunities can find information on the city's career page.",
+    "body": "## Mission & Vision\n\nThe Mission of the HR Department is to provide strategic partnership, workforce management and development to all City Departments so they can have the healthy, engaged, high performing workforce they need to achieve their operational and strategic results. Our Vision is \"Developing the Foundation for a Great Organization\".\n\n## Organizational Overview\n\nThe City of Arvada is a superior customer-oriented organization that provides safety and protection, essential services, recreational opportunities, fiscal accountability, and strives for community enrichment and personal growth. The key to making this organization successful is having people who are dedicated to delivering superior services to enhance the lives of everyone in our community. The City's Human Resources Department (HR) is responsible for recruiting, retaining, developing, and supporting these great people. We serve as an internal consultant and strategic partner with all City departments to help them Dream Big and Deliver while promoting and fostering innovation, passion, and opportunity throughout the organization.\n\n## Verify Employment\n\nFor **verbal employment** verification of a current or former City of Arvada employee, please call the Human Resources office at 720-898-7555, Monday through Friday, 8 am to 5 pm.\n\n**Written verification** employment requests should be sent to the  [email of Employment Verification Division](/cdn-cgi/l/email-protection#b5c3dad0f5d4c7c3d4d1d49bdac7d2) or faxed to 720-898-7556. Written verifications will be processed within 24 to 48 hours of receipt.\n\n## Employment and Volunteer Opportunities\n\nIf you are interested in a career with the City of Arvada or with the Arvada Police Department, visit our [Career page](/690/Jobs). Here you will find information on current openings, how to apply, information on the City's benefits and pay, as well as how to volunteer.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

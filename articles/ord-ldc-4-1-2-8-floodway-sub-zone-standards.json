@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "floodway",
+      "zone",
+      "standards",
+      "generally",
+      "floodways",
+      "extremely",
+      "dangerous",
+      "areas",
+      "velocity",
+      "floodwaters"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-2-8"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-2. FLOODPLAIN REGULATIONS"
+  },
+  "content": {
+    "title": "4-1-2-8. Floodway sub-zone standards.",
+    "summary": "A.\tGenerally. Floodways are extremely dangerous areas due to the velocity of floodwaters that carry debris, potential projectiles, and have significant erosion potential.\nB.\tSpecial Provisions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-2-8. Floodway sub-zone standards.",
+        "a": "A.\tGenerally. Floodways are extremely dangerous areas due to the velocity of floodwaters that carry debris, potential projectiles, and have significant erosion potential.\nB.\tSpecial Provisions. The following regulations shall apply to all uses within the Floodway Sub-Zone, notwithstanding that such uses may be specifically permitted under the terms of this LDC:\n  1.\tThe flood protection elevation or height shall correspond to a point one foot (two feet for residential structures) above the base flood elevation shown on or attached to the flood map for a particular area.\n  2.\tNo structure or temporary structure, fill, including fill for roads and levees, deposit, obstruction, storage of materials, or other floodplain uses which acting alone or in combination with existing or future floodplain uses, shall be permitted that affects the efficiency of the floodplains based on the assumption that there will be an equal degree of encroachment extending for a significant reach on both sides of the stream. Tents, makeshift structures, enclosures, or other shelters used for human habitation are prohibited in their entirety, regardless of the impact on the efficiency of the floodplain, unless expressly allowed by the City.\n  3.\tNo floodplain uses shall affect the efficiency of or restrict the capacity of the channel or floodways of any tributaries to the main stream, drainage ditches, or any other drainage facilities or systems.\n  4.\tNo developments or improvements shall be allowed within the Floodway Sub-Zone that would result in any increase in flood levels during the occurrence of the base flood discharge within the City.\n  5.\tUnder the provisions of 44 CFR Chapter 1, Section 65.12, of the National Flood Insurance Program regulations, the City may approve certain development in Zones A1-30, AE, AH, on the City's FIRM which increases the water surface elevation of the base flood by more than one-half foot, provided that the City, or other appointed entity, first applies for a conditional FIRM revision through a CLOMR); fulfills the requirements for such revisions as established under the provisions of Section 65.12; and receives FEMA approval.\nC.\tDescription of Permitted Uses. The following open uses shall be permitted within the Floodway Sub-Zone to the extent that they are also permitted in a particular area by the underlying zoning district:\n  1.\tAgricultural uses such as: general farming, pasture, truck farming, sod farming, and wild crop harvesting;\n  2.\tIndustrial-Commercial uses such as: parking areas and airport landing strips;\n  3.\tPublic and private recreation uses not requiring permanent or temporary structures designed for human habitation, such as: parks, golf courses, driving ranges, picnic grounds, wildlife and nature preserves, shooting preserves, target ranges, trap and skeet ranges, hunting, fishing and biking areas;\n  4.\tUtility facilities such as: transmission lines, excluding above ground support facilities; underground pipelines; water monitoring devices; roadways and bridges; and\n  5.\tUses very similar in nature to permitted uses may be allowed provided that they are consistent with the provisions of this Section.\nD.\tDescription of Permitted Structures. Temporary and permanent structures accessory to open uses permitted in Subsection (C), above, shall be permitted subject to submittal of building plans to the Floodplain Administrator for approval in accordance with Section 8-3-5-6, Floodplain Development Permit, which:\n  1.\tWill not be designed for human habitation;\n  2.\tWill have a low flood damage potential;\n  3.\tIf permitted, will be constructed and placed on the building site so as to offer the minimum obstruction to the flow waters:\n    a.\tWhenever possible, structures will be constructed with the longitudinal axis parallel to the direction of the flow of flood waters; and\n    b.\tInsofar as feasible, structures will be placed so their longitudinal axis is approximately on the same line as those of adjoining structures; and\n  4.\tWill be firmly anchored to prevent the structure or building from floating away, thus threatening to further restrict bridge openings and other restricted sections of the stream or river.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-2-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "general",
+      "limitations",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "lots",
+      "developed",
+      "nonresidential",
+      "uses"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-6-1"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-6. SUPPLEMENT STANDARDS FOR NONRESIDENTIAL AND MULTIFAMILY LAND USE"
+  },
+  "content": {
+    "title": "5-1-6-1. General limitations.",
+    "summary": "A.\tGenerally. The standards of this Section apply to all lots that are developed with nonresidential uses, vertically mixed-use buildings, and multifamily buildings.\nB.\tApplicable Standards.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-6-1. General limitations.",
+        "a": "A.\tGenerally. The standards of this Section apply to all lots that are developed with nonresidential uses, vertically mixed-use buildings, and multifamily buildings.\nB.\tApplicable Standards. All buildings shall comply with the standards in all the applicable zoning districts where located and the design standards in Division 5-1-2-3, General Building Design Standards, imposed on the associated principal building or principal use, except as expressly allowed or exempted in this Section.\nC.\tLimits on Mobile Homes, Manufactured Homes, and Recreational Vehicles. No mobile home, manufactured home, or recreational vehicle shall be used as a principal building.\nD.\tFabric Accessory Structures. Fabric structures are not allowed, except in the cases of:\n  1.\tMini-structures;\n  2.\tUses that are located in IL or IG zoning districts;\n  3.\tTemporary uses that are approved according to the standards of Division 3-1-4, Temporary Uses;\n  4.\tShade structures that cover public recreational uses."
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-6-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

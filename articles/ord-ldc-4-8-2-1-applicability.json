@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "applicability",
+      "generally",
+      "following",
+      "standards",
+      "apply",
+      "development",
+      "city",
+      "existing",
+      "lighting",
+      "system"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-8-2-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-8. EXTERIOR LIGHTING",
+    "division": "DIVISION 4-8-2. GENERAL LIGHTING STANDARDS"
+  },
+  "content": {
+    "title": "4-8-2-1. Applicability.",
+    "summary": "A.\tGenerally. The following standards apply to all new development in the City and existing lighting system modifications, alterations, relocations or renovations to exterior fixtures after the effective date of this Code.\nB.\tExceptions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-8-2-1. Applicability.",
+        "a": "A.\tGenerally. The following standards apply to all new development in the City and existing lighting system modifications, alterations, relocations or renovations to exterior fixtures after the effective date of this Code.\nB.\tExceptions. The following are specifically exempted from the requirements of this Article:\n  1.\tPublic street lighting and other lighting providing by local governmental, state, federal agencies;\n  2.\tExisting lighting that remains unchanged (including ongoing standard maintenance such as bulb lamp replacement provided that the replacement lamp is of equivalent luminance level, and/or painting of existing poles or fixtures as required by Section 4-8-2-2);\n  3.\tSeasonal holiday lighting;\n  4.\tLighting of governmental flags and public monuments and statuary;\n  5.\tLighting for public art;\n  6.\tTemporary lighting of construction sites provided such lighting is discontinued upon completion of the construction activity and night time use is limited to address security;\n  7.\tTemporary lighting for emergency situations provided such lighting is discontinued upon abatement of the emergency situation; and\n  8.\tUnderwater lighting in swimming pools, fountains and other water features.\nC.\tProhibited Lighting.\n  1.\tAerial lasers, searchlights and/or rotating beacons; unless part of a special event, for a maximum of five days;\n  2.\tFlashing or blinking lights, or lighting with changing intensity;\n  3.\tLight fixtures that imitate official highway or traffic control lights or signs that are not authorized by a state, federal, or city government; and\n  4.\tSignage lighting that has not been approved by the City."
+      }
+    ],
+    "ordinance_refs": [
+      "4-8-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

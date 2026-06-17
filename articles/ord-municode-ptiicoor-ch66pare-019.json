@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "boating",
+      "boats",
+      "electric",
+      "trolling",
+      "motors",
+      "permitted",
+      "water"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-55"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-55. - Boating.",
+    "summary": "(a)\nBoats with electric trolling motors are permitted on the water at the reservoir.\n(b)\nBoats are required to comply with the rules and regulations promulgated by the Colorado\n               Division of Parks and Outdoor Recreation.\n(c)\nThe city reserves the right to prohibit boating and to close t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-55. - Boating.",
+        "a": "(a)\nBoats with electric trolling motors are permitted on the water at the reservoir.\n(b)\nBoats are required to comply with the rules and regulations promulgated by the Colorado\n               Division of Parks and Outdoor Recreation.\n(c)\nThe city reserves the right to prohibit boating and to close the reservoir to boating\n               during periods of high winds.\n(d)\nAny person who recklessly, carelessly, or unsafely operates a boat on reservoir water\n               may be summarily removed from reservoir property by a police officer or park ranger.\n               After notice and hearing, the permit of any person so removed may be revoked by the\n               city manager or a designee thereof.\n(e)\nEach boat must carry one Coast Guard approved lifesaving device for each occupant\n               and any additional safety equipment required by the state.\n(f)\nBoats loading or unloading at the ramp must expeditiously move away from the ramp\n               after such loading or unloading.\n(g)\nBoats may enter the water only after sunrise and must exit the water before sunset.\n(h)\nExcept when departing or returning to the boat dock or boat ramp, boats must remain\n               at least 150 feet from any person fishing from the shore.\n(Code 1981, § 22-24; Ord. No. 2577, § 2, 12-19-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-55"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

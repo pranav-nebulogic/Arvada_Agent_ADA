@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-21-015",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "str_permit",
+    "category": "short_term_rentals",
+    "tags": [
+      "property",
+      "currently",
+      "active",
+      "stays",
+      "still",
+      "list",
+      "rental",
+      "sites",
+      "Short Term Rentals"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=21"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/my-property-currently-has-no-active-stays-can-i-still-list-i",
+    "faq_category_name": "Short Term Rentals"
+  },
+  "content": {
+    "title": "My property currently has no active stays. Can I still list it on rental sites while I wait for my permit?",
+    "summary": "No. The Short Term Rental Ordiance (3-1-5-3(R)(1) requires you to have an active STR permit and business license before you create or activate a listing. Merely offering the property for rent even with a \"blocked\" calendar can be considered an illegal advertisement and may result in enforcement acti…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "My property currently has no active stays. Can I still list it on rental sites while I wait for my permit?",
+        "a": "No. The Short Term Rental Ordiance (3-1-5-3(R)(1) requires you to have an active STR permit and business license before you create or activate a listing. Merely offering the property for rent even with a \"blocked\" calendar can be considered an illegal advertisement and may result in enforcement action."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

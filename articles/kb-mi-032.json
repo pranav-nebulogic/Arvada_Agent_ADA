@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "admissions",
+      "code",
+      "event",
+      "show",
+      "amateur",
+      "another",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/271/Admissions-Tax"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-032",
+    "spreadsheet_id": "MI-032",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Admissions Tax",
+    "summary": "Arvada Municipal Code imposes a 4% admissions tax on ticket sales for public events, including performances, sports contests, and entry fees to venues like bars and restaurants. Certain entities and events, such as sales to government bodies, amateur productions, and complimentary admissions, are exempt from this tax. The article provides examples of taxable and non-taxable admissions to clarify the application of the tax.",
+    "body": "The [Arvada Municipal Code - Chapter 98, Article VI](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTVIADTA) charges a 4% tax on the price paid for a public event or venue in the city.\n\nThe following **must pay** this tax:\n\n- A movie, stage show, play, concert, or another type of performing arts show\n- Any sports or athletic contest, exhibit, or event, either amateur or professional\n- Any lecture, rally, speech, or dissertation\n- Any showing display, or exhibition of any type, including art exhibitions\n- Any \"cover charge,\" \"door charge,\" or any other term paid to enter a bar or restaurant\n\nThe following are **not required to pay** this tax:\n\n- Sales to the United States of America\n- Sales to the State of Colorado, its departments, institutions, and political subdivisions\n- Sales to the City or its departments\n- Religious, charitable, fraternal, and quasi-governmental organizations, acting in their regular capacities\n- Amateur theatrical productions that engage nonprofessional stage players\n- Any person who refunds an admission price for any reason\n- Any person who provides free passes or complimentary admission tickets\n- Any admission fee for entry into a City-owned or sponsored facility or event\n- Any admission or access fee for entry into a health and athletic club facility\n- Any admission fee for entry into the Arvada Center for the Arts and Humanities facility\n\n## Examples\n\n- A local high school sells tickets to school basketball games. The high school is a public school and a governmental entity. Thus, tickets purchased for the game are not subject to the admissions tax.\n- A bowling alley charges a fee to gain access to a bowling lane for a specific period of time. The fee amount is subject to admissions tax.\n- A firing range charges a fee to gain access to the range for a specific period of time. The fee amount is subject to admissions tax.\n- An indoor trampoline facility charges an entry fee for the trampolines. The fee amount is subject to admissions tax.\n- A fitness club sells memberships or charges a fee to access the facility. The fee or price paid for memberships would not be subject to admission tax.\n- A local concert promoter gives a group of tickets to a radio station for prizes in contests. The promoter receives nothing in return. These are complimentary tickets and as such are not subject to admissions tax.\n- A local concert promoter gives a group of tickets to a radio station for prizes in contests. In return, the promoter gets free commercial air time. Admissions tax would be due based on the price of the admission or the value of the air time, whichever is less.\n- The Boot Skoot'n Bar has a cover charge for Friday and Saturday nights cover the charge for the band. The \"cover charge\" is subject to admissions tax.\n- A local movie theater sells tickets to various movies it shows. The ticket sales are subject to admissions tax. The current price of a movie ticket is $9 which includes a 4% admissions tax. The following is an example of the calculation:\n  - The theater sold 8,000 tickets this month and has $72,000 in Gross Receipts.\n  - Step 1: $72,000 Gross Receipts divided by 1.04 = $69,230.77 Ticket Sales\n  - Step 2: $72,000 Gross Receipts minus $69,230.77 Ticket Sales = $2,762.23 4% admissions tax payable to the City\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

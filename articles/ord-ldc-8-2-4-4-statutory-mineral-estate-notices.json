@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "statutory",
+      "mineral",
+      "estate",
+      "notices",
+      "notification",
+      "owners",
+      "property",
+      "which",
+      "subject",
+      "public"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-4-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-4. REQUIRED NOTICES"
+  },
+  "content": {
+    "title": "8-2-4-4. Statutory mineral estate notices.",
+    "summary": "The notification of mineral estate owners of the property which is the subject of a public hearing may be given by the Applicant in accordance with the law prior to the public hearing in accordance with the Colorado Notification of Surface Development Act, C.R.S. § 24-65.5-101, et seq.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-4-4. Statutory mineral estate notices.",
+        "a": "The notification of mineral estate owners of the property which is the subject of a public hearing may be given by the Applicant in accordance with the law prior to the public hearing in accordance with the Colorado Notification of Surface Development Act, C.R.S. § 24-65.5-101, et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-4-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

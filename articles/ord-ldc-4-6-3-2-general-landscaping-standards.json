@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "general",
+      "landscaping",
+      "standards",
+      "landscape",
+      "plan",
+      "required",
+      "designated",
+      "landscaped",
+      "areas",
+      "submitted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-3-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-3. GENERAL LANDSCAPING STANDARDS"
+  },
+  "content": {
+    "title": "4-6-3-2. General landscaping standards.",
+    "summary": "A.\tLandscape Plan Required.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-3-2. General landscaping standards.",
+        "a": "A.\tLandscape Plan Required. A landscape plan with designated landscaped areas shall be submitted as a part of all development applications where landscaping, buffering, or screening is required, unless the applicable Decision-Making Body determines that compliance with the provisions of this Article can be demonstrated without the use of a landscape plan. Final landscape plans shall be stamped, signed and dated by a State of Colorado Registered Landscape Architect for all projects except residential minor subdivisions as defined in Subsection B.4 above or where the Director determines the scope of the project does not warrant such plans.\nB.\tVegetative Coverage. Landscaped areas shall be covered with shrubs in combination with lower water consuming ground-level plants, ornamental grasses, or turf for at least 75 percent of the landscape area, at maturity.\nC.\tDetention and Retention Ponds. Detention and retention ponds shall be physically, functionally and visually integrated into adjacent landscape uses through the use of topography, building and parking lot placement, plantings, permanent water features, recreational or open space amenities, or other methods. Slopes shall not exceed a 4:1 ratio or be flatter than two percent.\nD.\tSteep Slopes. Grading in landscaped areas shall not exceed slopes greater than 6:1 in the amenitized area of Small Urban Parks and 4:1 for all other areas, except that public maintained shrub beds and native grass areas shall not exceed 3:1 slope.\nE.\tAlternative Requirements for Hardscape Features.\n  1.\tIn mixed-use and nonresidential districts, pedestrian walks and other hardscape landscape features and amenities, such as Small Urban Parks, outdoor seating areas, and plazas with recreation and entertainment areas, water features, and public art, may comprise up to 50 percent of the landscape area.\n  2.\tThe Director may approve a greater percentage of hardscape features based on the consideration of the proposed development, mix of uses, and the quality of the proposed landscape design.\n(Ord. No. 4793, § 3, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "facilities",
+      "facility",
+      "calendar",
+      "close",
+      "closebutton",
+      "common",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Facilities"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-220",
+    "spreadsheet_id": "MI-220",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Facilities",
+    "summary": "The article provides information on various facilities available in Arvada, Colorado, including athletic complexes and parks. Notable locations mentioned are Foster Fields, Harold D. Lutz Sports Complex, Long Lake Regional Park, Majestic View Nature Center, and Pioneer Park, each with specific addresses. Users can search and sort these facilities based on features, ratings, and proximity.",
+    "body": "### Find A Facility\n\n[Facility Types ▼](#)\n\nSelect All\n\n1. Athletic Complexes\n2. Parks\n\n[![Close](../../../Common/images/Calendar/closebutton.png)](#megaFacilityTypes)\n\nAll\nselected\n\n[Features ▼](#)\n\n### Features\n\n[![Close](../../../Common/images/Calendar/closebutton.png)](#)\n\nNumber of People\n\nKeywords\n\n[Search](#)\n[Reset](/Facilities?clear=True)\n\n[Feature Overview](/Facilities/FeatureOverview)\n\n[Find a Facility](#)\n\n1. [Listing](#)\n2. [Map](#)\n\n[Save Search](#)\n\nSort by\nClosest to Me\nHighest Rating\nName, A-Z\nName, Z-A\nOccupancy, Low to High\nOccupancy, High to Low\nZIP Code\n\n### [Foster Fields](/Facilities/Facility/Details/Foster-Fields-7)\n\n[![Image Unavailable](/ImageRepository/Path?filePath=%2fAreas%2fFacilities%2fAssets%2fImages%2fImageUnavailable.jpg&thumbnailSize=Thumb150X100)](/Facilities/Facility/Details/Foster-Fields-7)\n\n5300 Saulsbury Court Arvada, CO  80002\n\n### [Harold D. Lutz Sports Complex](/Facilities/Facility/Details/Harold-D-Lutz-Sports-Complex-3)\n\n[![Image Unavailable](/ImageRepository/Path?filePath=%2fAreas%2fFacilities%2fAssets%2fImages%2fImageUnavailable.jpg&thumbnailSize=Thumb150X100)](/Facilities/Facility/Details/Harold-D-Lutz-Sports-Complex-3)\n\n10664 W 58th Avenue Arvada, CO  80002\n\n### [Long Lake Regional Park](/Facilities/Facility/Details/Long-Lake-Regional-Park-4)\n\n[![Image Unavailable](/ImageRepository/Path?filePath=%2fAreas%2fFacilities%2fAssets%2fImages%2fImageUnavailable.jpg&thumbnailSize=Thumb150X100)](/Facilities/Facility/Details/Long-Lake-Regional-Park-4)\n\n17850 W 64th Avenue Arvada, CO  80403\n\n### [Majestic View Nature Center](/Facilities/Facility/Details/Majestic-View-Nature-Center-9)\n\n[![Image Unavailable](/ImageRepository/Path?filePath=%2fAreas%2fFacilities%2fAssets%2fImages%2fImageUnavailable.jpg&thumbnailSize=Thumb150X100)](/Facilities/Facility/Details/Majestic-View-Nature-Center-9)\n\n7030 Garrison St.  Arvada, CO  80002\n\n[majesticviewnc@arvada.org](/cdn-cgi/l/email-protection#47616476777e7c6164777e707c61647677717c61647677767c61647676727c61647676717c61647677727c6164777e7e7c616476767f7c61647677727c61647677767c616476767e7c61647676777c6164777e7e7c61647771737c6164777e707c61647676737c616476767f7c6164777e707c61647677777c6164777e707c61647773717c61647676767c61647676737c61647677747c)  \n[720-898-7405](tel:7208987405)\n\n### [Pioneer Park](/Facilities/Facility/Details/Pioneer-Park-6)\n\n[![Image Unavailable](/ImageRepository/Path?filePath=%2fAreas%2fFacilities%2fAssets%2fImages%2fImageUnavailable.jpg&thumbnailSize=Thumb150X100)](/Facilities/Facility/Details/Pioneer-Park-6)\n\n12100 W 82nd Avenue Arvada, CO  80005\n\n[▲ Back to top](#)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

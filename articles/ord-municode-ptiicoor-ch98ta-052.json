@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "issuance",
+      "sales",
+      "tax",
+      "revenue",
+      "securities",
+      "pursuant",
+      "authority"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-103"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-103. - Issuance of sales tax revenue securities.",
+    "summary": "(a)\nPursuant to the authority of section\n11.5.5\nof the Charter, the city may from time-to-time, and at any time, issue sales tax\n               revenue securities as set forth therein. Sales tax revenue securities may be issued\n               in one or more series and may bear such date, be payable …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-103. - Issuance of sales tax revenue securities.",
+        "a": "(a)\nPursuant to the authority of section\n11.5.5\nof the Charter, the city may from time-to-time, and at any time, issue sales tax\n               revenue securities as set forth therein. Sales tax revenue securities may be issued\n               in one or more series and may bear such date, be payable upon demand or mature at\n               such time, bear interest at such rate, be in such denomination, be in such form, either\n               coupon or registered or otherwise, carry such conversion or registration privileges,\n               have such rank or priority, be executed in such manner, be payable in such medium\n               of payment, be payable at such place, be subject to such callability provisions or\n               terms of redemption (with or without premiums), be of such description, contain or\n               be subject to such covenants, provisions, terms, conditions and agreements (including\n               provisions concerning events of default), and have such other characteristics as may\n               be determined by the city council of the city and which are not inconsistent with\n               the Charter.\n(b)\nThe city council of the city may, subject to the limitations set forth in\nsection 98-101\nand the Charter, pledge all or any portion, however determined, or any combination,\n               of the sales and use tax proceeds derived under this article to the payment of sales\n               tax revenue securities.\n(c)\nSales tax revenue securities may be issued for any purpose for which city securities\n               may be issued by the city, including, but not limited to, for the purpose of the making\n               of one or more loans to, or for the purpose of purchasing one or more obligations\n               of, the city urban renewal authority, or any other urban renewal authority from time-to-time\n               organized and existing within the city, under such terms and conditions as the city\n               council may approve and which are not inconsistent with the Charter.\n(Code 1981, § 31-72; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-103"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

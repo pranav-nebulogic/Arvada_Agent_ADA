@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "calculation",
+      "required",
+      "parking",
+      "spaces",
+      "generally",
+      "section",
+      "requirements",
+      "tables",
+      "sets",
+      "number"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-2-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-2. PARKING AND LOADING CALCULATIONS"
+  },
+  "content": {
+    "title": "4-5-2-1. Calculation of required parking spaces.",
+    "summary": "A.\tGenerally. Section 4-5-2-2, Parking Requirements Tables, sets out the number of parking spaces that are required for additions, significant redevelopment, and new developments for each land use that is listed in Division 3-1-2, Land Use by Zoning District.\nB.\tRounding.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-2-1. Calculation of required parking spaces.",
+        "a": "A.\tGenerally. Section 4-5-2-2, Parking Requirements Tables, sets out the number of parking spaces that are required for additions, significant redevelopment, and new developments for each land use that is listed in Division 3-1-2, Land Use by Zoning District.\nB.\tRounding. When the calculation of required parking spaces results in a fractional parking space, the result of the parking calculation shall be rounded up to the nearest whole number.\nC.\tTandem Parking Spaces. Tandem spaces are not counted towards the parking requirements of this Division, except as indicated in Section 4-5-3-5, Tandem Parking.\nD.\tExpansions to Buildings.\n  1.\tAny expansion of the gross floor area of an existing principal building by more than 25 percent shall provide additional parking for the expansion areas, including accessible parking.\n  2.\tAdditional parking may be required for an expansion of the gross floor area of an existing principal building by 25 percent or less if the Director determines that the expansion to the building is likely to result in significant increases in on-street parking in any surrounding residential neighborhood.\nE.\tChange in Permitted Use.\n  1.\tWhen a change of use results in an increase in required off-street parking above that required for the prior use, the requirements of this Division shall apply to the increase in required parking.\n  2.\tThe provisions of Subsection E.1., above, do not apply to any change in use in a commercial center, mixed-use development, or industrial building larger than 50,000 square feet in gross floor area, unless the Director determines that the change of use is likely to create a significant increase in on-street parking in any surrounding residential neighborhood.\nF.\tMaximum Parking in Commercial Centers.\n  1.\tFor commercial centers containing more than 50,000 square feet of retail and/or office space, the maximum number of off-street parking spaces allowed shall be 115 percent of the requirements shown in Section 4-5-2-2, Parking Requirements Tables.\n  2.\tUpon the Applicant's written request, the Director or Decision-Making Body may approve a greater amount of off-street parking spaces if the greater number of spaces provides a greater service to prospective users of the center and a greater benefit to the community as a whole, while minimizing any aesthetic and visual impacts of additional paved parking areas on the surrounding areas. In determining whether to approve a greater number of parking spaces, the Director or Decision-Making Body shall consider the number of employees occupying the buildings or land use, the number and timing of expected customers or clients, the availability (if any) of nearby on-street parking, the availability (if any) of shared parking with abutting, adjacent, or surrounding land uses, the provision of purchased or leased parking spaces in a municipal or private parking lot meeting the requirements of the City, and any other factors unique to the Applicant's development request.\nG.\tParking Reductions. Generally, the total number of required parking spaces is equal to the sum of the required parking for each use of a subject property. However, parking requirements may be reduced according to the methodology of Section 4-5-2-4, Shared Parking, and the provisions of Section 4-5-2-5, Parking Credits and Reductions."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

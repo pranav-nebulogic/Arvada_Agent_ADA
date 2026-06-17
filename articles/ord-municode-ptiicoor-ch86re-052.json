@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "sick",
+      "leave",
+      "absence",
+      "charged",
+      "any",
+      "member",
+      "pursuant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-160"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-160. - Sick leave; leave of absence.",
+    "summary": "Sick leave, charged to any member pursuant to the provisions of personnel regulations,\n               may be included in credited service at the discretion of the board. In no event shall\n               the member be entitled to disability retirement pay and sick leave pay simultaneously.\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-160. - Sick leave; leave of absence.",
+        "a": "Sick leave, charged to any member pursuant to the provisions of personnel regulations,\n               may be included in credited service at the discretion of the board. In no event shall\n               the member be entitled to disability retirement pay and sick leave pay simultaneously.\n               Time off from active service taken on leave of absence without pay shall not be included\n               in credited service.\n(Code 1960, § 19-16; Code 1981, § 26-84)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-160"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

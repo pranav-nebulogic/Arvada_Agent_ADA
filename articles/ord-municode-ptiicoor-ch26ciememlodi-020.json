@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "report",
+      "city",
+      "manager",
+      "discretionary",
+      "ratification",
+      "council",
+      "such"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-45"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-45. - Report by city manager/discretionary ratification by city council.",
+    "summary": "At such time as a civil emergency, emergency, or disaster shall be declared ended,\n               the city manager shall prepare a written report that details the official actions\n               taken by the city manager during the declaration, including a timeline, significant\n               action…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-45. - Report by city manager/discretionary ratification by city council.",
+        "a": "At such time as a civil emergency, emergency, or disaster shall be declared ended,\n               the city manager shall prepare a written report that details the official actions\n               taken by the city manager during the declaration, including a timeline, significant\n               actions, and a detailed summary of all expenses incurred during such declaration,\n               and such written report shall be submitted to the city council within 30 calendar\n               days. The city council may, but is not required to, approve a resolution ratifying\n               the actions taken by the city manager during the declaration. In the event that a\n               resolution is not approved, the city manager report shall be retained by the city\n               clerk and made a part of the official record of the city council meeting at which\n               the report was discussed by the city council in conjunction with the city manager.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-45"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

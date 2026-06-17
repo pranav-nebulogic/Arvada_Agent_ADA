@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "court",
+      "hearing",
+      "types",
+      "arraignment",
+      "charge",
+      "delinquent",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/389/Court-Hearing-Types"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-170",
+    "spreadsheet_id": "MI-170",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Court Hearing Types",
+    "summary": "The Arvada Municipal Court conducts various types of hearings, including arraignments, review hearings, show cause hearings, bond hearings, final pre-trial status conferences, trials, and jury trials. Attendance is mandatory for most hearings, and failure to appear can result in a bench warrant for arrest. Each hearing serves a specific purpose, such as entering pleas, reviewing sentencing conditions, or preparing for trial.",
+    "body": "This list does not include every type of hearing held in the Arvada Municipal Court.\n\n## Arraignment\n\nThe arraignment is your first appearance before a Judge. This is your opportunity to be advised of the charge(s) filed against you and your rights in court; this is also your opportunity to enter a plea to the charge(s). If you fail to appear for your arraignment, a delinquent notice will be sent. If you do not respond in person to the delinquent notice within 10 days, a bench warrant will be issued for your arrest.\n\n## Review Hearing\n\nWhen your sentencing conditions are due, you will be set for a review hearing on a Monday at 1:30 pm. Your sentencing could include various consequences such as community service hours, a charge-related class, restitution, etc. If you do not complete your sentencing requirements or the Judge orders your presence, you are required to appear. If you have successfully completed your sentencing requirements, you must turn in proof by the review hearing date. If you fail to provide proof or appear, a bench warrant will be issued for your arrest.\n\n## Show Cause Hearing\n\nIf you fail to appear for your review hearing, you may receive a notice of show cause in the mail. The show cause will give you a date to appear in court to explain to the Judge why you did not provide proof of your sentencing and did not appear for your review hearing. If you complete your sentencing and provide proof to the court prior to your show cause hearing date, you do not need to appear in court. However, if you have not finished, you must appear or a bench warrant will be issued for your arrest.\n\n## Bond Hearing\n\nIf you have bonded out of jail or detention and are given a return date, you must appear on that date. If you do not appear, your bond monies may be forfeited and another bench warrant will be issued for your arrest.\n\n## Final Pre-Trial Status Conference\n\nThis conference may be scheduled at the Judge's discretion prior to your trial date, to ensure that both parties are prepared for trial, and to take care of any issues that may have arisen.\n\n## Trial\n\nIf you set your case for trial, the Judge will preside over the trial proceedings. If you fail to appear, a bench warrant will be issued for your arrest.\n\n## Jury Trial\n\nIf you set your case for a jury trial, a jury will decide your guilt or innocence. If you fail to appear, a bench warrant will be issued. Please note: Not all charges are eligible for a jury trial.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "parking",
+      "violations",
+      "involving",
+      "signage",
+      "generally",
+      "timed",
+      "limitations"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-155"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-155. - Parking violations involving signage, generally.",
+    "summary": "(a)\nTimed parking limitations.\nWhen a traffic control sign is placed or posted giving notice that no vehicle may\n               remain parked for longer than the time specified on the sign, it shall be unlawful\n               for any person to park a vehicle longer than the maximum time specified on…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-155. - Parking violations involving signage, generally.",
+        "a": "(a)\nTimed parking limitations.\nWhen a traffic control sign is placed or posted giving notice that no vehicle may\n               remain parked for longer than the time specified on the sign, it shall be unlawful\n               for any person to park a vehicle longer than the maximum time specified on the sign.\n(b)\nStopping or standing restrictions.\nWhen a traffic control sign is placed or posted giving notice that no vehicle may\n               be stopped or allowed to stand except in accordance with the limitation on the sign,\n               including but not limited to a \"loading\" or \"unloading\" or \"passenger pick up\" or\n               \"drop off\" sign, it shall be unlawful for any person to park, stand, or stop a vehicle\n               in any manner in violation of that restriction.\n(c)\nParking prohibitions.\nWhen a traffic control sign is placed or posted giving notice of any parking, standing,\n               or stopping prohibition, including but not limited to a \"no parking,\" \"no overnight\n               parking,\" \"no parking from 10:00 p.m. to 6:00 a.m.,\" or \"tow-away zone\" sign, it shall\n               be unlawful for any person to park, stop, or stand a vehicle in any manner in violation\n               of that prohibition.\n(i)\nMoving parked vehicle in time limited parking zone.\nVehicles parked in a time limited zone shall be moved no less than 500 feet following\n               the expiration of the posted parking time limit. Vehicle movement of less than 500\n               feet or a vehicle being reparked within 500 feet of its recent location within a four-hour\n               period of time will be considered to be remaining parked and is subject to a citation.\n(d)\nExceptions.\n(i)\nParking, standing, or stopping a vehicle in violation of a parking limitation, restriction,\n               or prohibition sign is allowed when necessary to avoid conflict with other traffic,\n               or in compliance with the direction of a police officer.\n(ii)\nFood trucks or carts displaying a valid parking permit issued by the city are allowed\n               to park, stand, or stop a vehicle in violation of a parking limitation, restriction,\n               or prohibition sign so long as the parking, standing, or stopping activity is also\n               in conformance with the conditions listed on the city permit.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-155"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

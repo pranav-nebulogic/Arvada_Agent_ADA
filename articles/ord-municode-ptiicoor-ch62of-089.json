@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "paraphernalia",
+      "accessories",
+      "determination",
+      "determining",
+      "whether",
+      "object",
+      "drug"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-215"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-215. - Paraphernalia and accessories determination.",
+    "summary": "(a)\nIn determining whether an object is drug paraphernalia or a marijuana accessory, a\n               court, in its discretion, may consider, in addition to all other relevant factors,\n               the following:\n(1)\nStatements by an owner or by anyone in control of the object concerning its use,\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-215. - Paraphernalia and accessories determination.",
+        "a": "(a)\nIn determining whether an object is drug paraphernalia or a marijuana accessory, a\n               court, in its discretion, may consider, in addition to all other relevant factors,\n               the following:\n(1)\nStatements by an owner or by anyone in control of the object concerning its use,\n(2)\nThe proximity of the object to controlled substances,\n(3)\nThe existence of any residue or controlled substances on the object,\n(4)\nDirect or circumstantial evidence of the knowledge of an owner, or of anyone in control\n               of the object, or evidence that such person reasonably should know that it will be\n               delivered to persons who such person knows or reasonably should know could use the\n               object to facilitate a violation of this section,\n(5)\nInstructions, oral or written, provided with the object concerning its use,\n(6)\nDescriptive materials accompanying the object which explain or depict its use,\n(7)\nNational or local advertising concerning its use,\n(8)\nThe manner in which the object is displayed for sale,\n(9)\nWhether the owner, or anyone in control of the object, is a supplier of like or related\n               items to the community for legal purposes, such as an authorized distributor or dealer\n               of tobacco products,\n(10)\nThe existence and scope of legal uses for the object in the community, and,\n(11)\nExpert testimony concerning its use.\n(b)\nIn the event a case brought pursuant to this section is tried before a jury, the court\n               shall hold an evidentiary hearing on issues raised pursuant to this section.\n(\nOrd. No. 4392, § 2, 7-1-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-215"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

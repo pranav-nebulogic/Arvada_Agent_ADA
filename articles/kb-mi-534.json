@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "strollers",
+      "nature",
+      "center",
+      "ensure",
+      "stroller",
+      "visitors",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1273/Strollers-at-the-Nature-Center"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-534",
+    "spreadsheet_id": "MI-534",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Strollers at the Nature Center",
+    "summary": "The Nature Center has implemented a no stroller policy to ensure safety and accessibility for all visitors, particularly those with mobility challenges. Stroller parking areas are provided near the entrance for convenience. The center appreciates visitor cooperation in maintaining a welcoming environment.",
+    "body": "To ensure the safety and comfort of all visitors, we have implemented a no stroller policy inside the Nature Center. This measure is in place to maintain clear pathways, prevent potential accidents, and ensure that everyone—especially individuals with mobility challenges—has full access to our exhibits and facilities.\n\nWe understand that this may be inconvenient for some, and we appreciate your cooperation in helping create a safe and accessible environment for all visitors. **Stroller parking areas are available near the entrance for your convenience.**\n\nThank you for your understanding and support in keeping our space welcoming and safe for everyone.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

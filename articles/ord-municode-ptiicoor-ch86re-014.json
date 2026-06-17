@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "service",
+      "credit",
+      "board",
+      "shall",
+      "fix",
+      "determine",
+      "appropriate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-42"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-42. - Service credit.",
+    "summary": "The board shall fix and determine by appropriate rules and regulations the amount\n               of service to be credited a member in any year; provided, in no case shall less than\n               160 hours of service rendered in a calendar month be credited as a month of service,\n               nor…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-42. - Service credit.",
+        "a": "The board shall fix and determine by appropriate rules and regulations the amount\n               of service to be credited a member in any year; provided, in no case shall less than\n               160 hours of service rendered in a calendar month be credited as a month of service,\n               nor less than 11 months of service rendered in a calendar year be credited as a year\n               of service, nor shall more than one year of service be credited for all service rendered\n               in any calendar year. The board shall credit each member's service account with the\n               number of years and months of service to which the member may be entitled for eligible\n               service rendered by such member within the state. Any person hired after the effective\n               date of this chapter who had eligible service within the state and who received a\n               refund for that service, in order to receive credit for such previous service must\n               pay into the fund all contributions for such previous service as may have been refunded\n               to said person, plus interest at the rate of six percent per annum on such amount.\n(Code 1960, § 19-6; Code 1981, § 26-11)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-42"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

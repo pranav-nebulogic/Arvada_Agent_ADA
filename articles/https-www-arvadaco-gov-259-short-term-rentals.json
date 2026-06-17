@@ -1,0 +1,151 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "str_permit",
+    "category": "business",
+    "source_urls": [
+      "https://www.arvadaco.gov/259/Short-Term-Rentals"
+    ],
+    "scraped_at": "2026-06-10T11:01:07.261041+00:00",
+    "content_hash": "27d1dd22eb8bf7b7262ed21a122a8b9135c937669d7f826c44fb19d586f07856",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Short-Term Rental Permit",
+    "summary": "A short-term rental (STR) is a unit rented for less than 30 nights, with a minimum stay of 2 nights. The City of Arvada requires both a short-term rental permit and a business license to operate an STR within the city, with updated rules effective May 1, 2026.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review STR Requirements",
+        "text": "Read the City of Arvada Land Development Code and the Short-term rental application info page to understand the requirements for operating an STR.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Apply for STR Permit and Business License",
+        "text": "Submit applications for both a short-term rental permit and a business license to legally operate an STR in Arvada.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 3,
+        "title": "Comply with Inspections and Enforcement",
+        "text": "Follow the rules and prepare for inspections as outlined on the Operating a short-term rental page. Maintain compliance to avoid penalties.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Short Term Rental Annual Log",
+        "description": "A log documenting STR activity as required by the City.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Good Neighbor Guide",
+        "description": "Guide outlining expectations for STR operators to maintain good relations with neighbors.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Model Brochure for Contact Information and Local Points of Interest",
+        "description": "A brochure template for providing guests with local information and contact details.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": null,
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "What are the main changes taking effect May 1, 2026?",
+        "a": "The City updated the ordinance to strengthen enforcement measures, adjust the number of STR permits an individual can have at one time, and clarify who can hold an STR permit."
+      },
+      {
+        "q": "Do I need a permit to operate a short-term rental?",
+        "a": "Yes, both a short-term rental permit and a business license are required to operate an STR within the City of Arvada."
+      },
+      {
+        "q": "How many short-term rentals can one owner operate, and how many days a year can it be rented?",
+        "a": "Refer to the City of Arvada Land Development Code and the Short-term rental application info page for specific limits."
+      },
+      {
+        "q": "Who can operate a short-term rental?",
+        "a": "The updated ordinance clarifies the rules around who can hold an STR permit."
+      },
+      {
+        "q": "Can I operate a short-term rental out of a townhome/condo or accessory dwelling unit (ADU)?",
+        "a": "Refer to the City of Arvada Land Development Code for regulations regarding STRs in townhomes, condos, or ADUs."
+      },
+      {
+        "q": "What is the process for obtaining a short-term rental permit?",
+        "a": "Information about the application process is available on the Short-term rental application info page."
+      },
+      {
+        "q": "Do I also need a business license?",
+        "a": "Yes, a business license is required in addition to the STR permit."
+      },
+      {
+        "q": "What are the fees associated with holding a short-term rental permit?",
+        "a": "Fees are detailed on the Short-term rental application info page."
+      },
+      {
+        "q": "If I hold a short-term rental permit, what are my obligations to maintain the permit?",
+        "a": "Obligations include compliance with inspections and enforcement measures as outlined by the City."
+      },
+      {
+        "q": "Will my short-term rental be subject to inspections?",
+        "a": "Yes, inspections are part of the enforcement process."
+      },
+      {
+        "q": "I want to install a sports court, does it need a permit?",
+        "a": "Refer to the City's building permit requirements for sports courts."
+      },
+      {
+        "q": "What building permits are required?",
+        "a": "Building permits depend on the type of work; consult the City's building department."
+      },
+      {
+        "q": "What penalties could I be subject to if my STR is found to be in violation of the City's code?",
+        "a": "Penalties are outlined in the City's enforcement policies."
+      },
+      {
+        "q": "My property currently has no active stays. Can I still list it on rental sites while I wait for my permit?",
+        "a": "Refer to the City's regulations regarding active listings and permit status."
+      },
+      {
+        "q": "What counts as an \"active listing\" if I'm not accepting guests?",
+        "a": "Definitions of active listings are provided in the City's STR regulations."
+      },
+      {
+        "q": "How can I raise concerns about STRs in my neighborhood?",
+        "a": "Use the Report a short-term rental concern page to raise issues."
+      }
+    ],
+    "ordinance_refs": [
+      "City of Arvada Land Development Code"
+    ],
+    "related_permit_types": [
+      "business_license"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2526
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "food",
+      "trucks",
+      "truck",
+      "business",
+      "license",
+      "permit",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/402/Food-Trucks"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-229",
+    "spreadsheet_id": "MI-229",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Food Trucks",
+    "summary": "Food truck operators in Arvada must obtain a business license and a food truck permit, which requires annual renewal and submission of specific documentation, including a county health certificate and a commissary agreement. Food trucks can operate between 6 a.m. and 11 p.m. and must maintain cleanliness and proper waste disposal, while also adhering to restrictions on where they can park and operate.",
+    "body": "Food truck operators must apply for a business license for a food truck with Revenue. Once approved, a business license and food truck permit will be issued. Food truck permits must be renewed annually, expiring one year from date of issue. The permit can be renewed by submitting updated copies of a county health certificate, current commissary agreement and the food truck permit fee.\n\n## Requirements\n\n- A business license, submitted using our [online licensing and tax partner, MUNIRevs](https://arvada.munirevs.com/)\n- Proof of a current county health department certification (Any current county certificate will be accepted)\n- Copy of a current commissary agreement\n- A $60 permit fee\n- If you are operating on private property, please submit written permission from the property owner\n\n## Additional Information\n\n- Permits are valid for 12 months with online renewals being sent the last month of the permit.\n- Hours of operation are limited between 6 a.m. and 11 p.m.\n- Operators are responsible for the storage and daily disposal of all trash, refuse and litter.\n- All areas used for food and retail trucks must be maintained in a safe and clean condition.\n- Liquid waste used in the operation cannot be discharged from the vehicle, with the exception of clean ice melt.\n\n### [FAQs](/Faq.aspx?TID=20)\n\n[When is a food truck permit required?](#)\n:   - If you are selling food from a readily movable wheeled, structure designed and equipped to serve food\n\n[Can I operate a food truck in Arvada without a permit?](#)\n:   You can operate a food truck in Arvada without a permit when:\n\n    - If you operate for less than 15 consecutive minutes at any specific site (such as an ice cream truck)\n    - If you are operating as part of an approved Special Event in coordination with the event planner\n\n[Where are food trucks allowed?](#)\n:   - Trucks must be parked on a paved surface outside of the public right-of-way\n    - In a public street right-of-way (regardless of zoning district) when the street is closed to vehicular traffic as part of a Special Event Permit\n    - In a public street right-of-way (regardless of zoning district) as part of a gathering of two or more food trucks with authorization from the Director\n    - On private property as provided in [Section 3-1-4-2, Temporary Uses by Zoning District](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH3USRE_ART3-1PRLAUSRE_DIV3-1-4TEUS_3-1-4-2TEUSZODI)\n\n[Where are food trucks not allowed?](#)\n:   - On undeveloped property with unoccupied structures or unpaved surfaces\n    - In any location that would obstruct the visibility of motorists\n    - In any public park without a special event permit\n    - In any location that would obstruct parking lot circulation or access to a public street, alley or sidewalk\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

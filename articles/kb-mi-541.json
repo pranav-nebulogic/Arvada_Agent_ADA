@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "taking",
+      "lasting",
+      "care",
+      "program",
+      "featuring",
+      "newly",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/860/Taking-Lasting-Care"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-541",
+    "spreadsheet_id": "MI-541",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Taking Lasting Care",
+    "summary": "The City of Arvada's \\\"Taking Lasting Care\\\" (TLC) program, initiated in 2012, focuses on monitoring and improving parks and playgrounds for accessibility, maintenance, and safety, funded through the Capital Improvement Plan. Community feedback is gathered to inform playground renovations, with projects for 2026 including Pioneer Park, Ralston Cove Park, and Terrace Park, alongside recently completed renovations at Emil Schneider Park and Wyndham Park.",
+    "body": "![newly renovated playground featuring a wildlife theme ](/ImageRepository/Document?documentID=3599 \"newly renovated playground featuring a wildlife theme \")\n\nEach year the City of Arvada closely monitors parks and playgrounds across the City for accessibility, maintenance and safety issues as part of the City’s “Taking Lasting Care” (TLC) program. The TLC program began in 2012 under the direction of City Council. The program is funded through the City's Capital Improvement Plan, which is reviewed and approved by City Council each year.\n\nParks are prioritized based on age and the need for improvements depending on the budget, scope and staff capacity. Some improvements may be prioritized ahead of other parks in order to achieve these City goals.\n\nPlayground renovation projects begin with a survey that gathers feedback from community members about what they would like to see included in the new playgrounds. That feedback is then used to help the City's Parks and Urban Design team choose playground themes and equipment.\n\n## TLC Playground Renovations for 2026\n\n### Pioneer Park\n\n[![](/ImageRepository/Document?documentID=6587)](/1405)\n\n### Ralston Cove Park\n\n[![](/ImageRepository/Document?documentID=6584)](/1392)\n\n### Terrace Park\n\n[![](/ImageRepository/Document?documentID=6581)](/1396)\n\n## Current Taking Lasting Care Projects\n\n- [Pioneer Park Playground Renovation](/1405)\n- [Ralston Cove Park Playground Renovation](/1392)\n- [Terrace Park Playground Renovation](/1396)\n\n## Recently Completed Taking Lasting Care Projects\n\n- [Emil Schneider Park Playground Renovation](/1115)\n- [Wyndham Park Playground Renovation](/1116)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

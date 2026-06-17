@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "employee",
+      "apparel",
+      "all",
+      "employees",
+      "shall",
+      "wear",
+      "clothing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-180"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-180. - Employee apparel.",
+    "summary": "All employees shall wear clothing that covers the pubic area, perineum, buttocks,\n               cleft of the buttocks, and entire chest to four inches below the collarbone and legs\n               not exposed more than six inches above the knee. No transparent clothing shall be\n               permit…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-180. - Employee apparel.",
+        "a": "All employees shall wear clothing that covers the pubic area, perineum, buttocks,\n               cleft of the buttocks, and entire chest to four inches below the collarbone and legs\n               not exposed more than six inches above the knee. No transparent clothing shall be\n               permitted.\n(Code 1981, § 16-20; Ord. No. 3292, § 1, 10-21-1996)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-180"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

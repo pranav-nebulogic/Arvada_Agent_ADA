@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "advisory",
+      "opinions",
+      "before",
+      "engaging",
+      "any",
+      "conduct",
+      "raise"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-382"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-382. - Advisory opinions.",
+    "summary": "(a)\nBefore engaging in any conduct which may raise a conflict of interest or possible\n               violation of this article an officer of the city may request in writing an advisory\n               opinion with respect to this Code or any provision of the Charter or city Code concerning\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-382. - Advisory opinions.",
+        "a": "(a)\nBefore engaging in any conduct which may raise a conflict of interest or possible\n               violation of this article an officer of the city may request in writing an advisory\n               opinion with respect to this Code or any provision of the Charter or city Code concerning\n               possible conflicts of interest or questions regarding the interpretation of this Code.\n(b)\nExcept as provided herein, all advisory opinions as to any potential violation of\n               this Code or the Charter or other conflict of interest provision, shall be given by\n               the city attorney. The advisory opinion so provided shall be in writing unless required\n               immediately at a recorded and official board of council meeting, and may require that\n               all or portions of the opinion remain confidential. Such opinion may be designated\n               as attorney-client privilege and shall generally be provided to the official within\n               24 to 48 hours after receipt of the city attorney's office.\n(c)\nIf a potential conflict or allegation or complaint creates a conflict of interest,\n               or ethical consideration, or otherwise alleges impropriety on the part of the city\n               attorney, then an advisory opinion may be solicited from outside counsel. The city\n               council, or the city manager shall select a disinterested third party attorney who\n               shall not currently or previously have represented any member of council, or the city\n               manager or city attorney to provide such advisory opinion.\n(d)\nThe advisory opinion shall, in the best legal judgment of the advisor, opine as to\n               the legal implications of a situation or contemplated course of action. The advisory\n               opinion shall not be offered for the purpose of determining policy direction except\n               as to its legal validity.\n(e)\nOfficers shall be entitled to rely upon advisory opinion issued for purposes of determining\n               adherence to or violation of this Code. No officer shall be disciplined under the\n               provisions of this Code if, in good faith, the officer or employee has acted in accordance\n               and compliance with the terms of an authorized advisory opinion issued as described\n               hereinabove.\n(Code 1981, § 2-62; Ord. No. 3088, § 2, 6-27-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-382"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "appraisal",
+      "property",
+      "value",
+      "generally",
+      "where",
+      "payment",
+      "cash",
+      "city",
+      "made",
+      "lieu"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-3-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-3. LAND DEDICATION; FEES-IN-LIEU; AND DEVELOPMENT FEES"
+  },
+  "content": {
+    "title": "8-4-3-4. Appraisal of property value.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-3-4. Appraisal of property value.",
+        "a": "A.\tGenerally. Where the payment of cash to the City is to be made in lieu of the dedication of land pursuant to this Division, the owner/developer shall provide to the City, at the owner/developer's cost and expense, a current written appraisal of the fair market value of the subject property within six months of project approval. The appraisal shall be performed by a Colorado-licensed real estate appraiser.\nB.\tWaiver of Appraisal.\n  1.\tThe Director may waive the appraisal requirement where the owner/developer provides to the City documentation evidencing the fair market value of the subject property, provided that the Director finds that the documentation provides a reasonable and credible estimate of the land's fair market value.\n  2.\tIf the Director determines that the documentation is not reasonable and/or credible, then the Director may require submittal of an appraisal as provided in Subsection A., and may either postpone the decision until such information is provided, or condition the approval on the provision of the appraisal.\n(Ord. No. 4905, § 70, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-3-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

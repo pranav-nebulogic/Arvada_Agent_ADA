@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "method",
+      "computing",
+      "limitations",
+      "upon",
+      "assessments",
+      "assessment",
+      "made"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-97"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-97. - Method of computing and limitations upon assessments.",
+    "summary": "(a)\nIf the assessment is made upon the basis of frontage, the engineer shall assess each\n               tract with such relative portion of the whole amount to be levied as the length of\n               front of such premises bears to the whole frontage of all the tracts to be assessed,\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-97. - Method of computing and limitations upon assessments.",
+        "a": "(a)\nIf the assessment is made upon the basis of frontage, the engineer shall assess each\n               tract with such relative portion of the whole amount to be levied as the length of\n               front of such premises bears to the whole frontage of all the tracts to be assessed,\n               and the frontage of all tracts to be assessed shall be deemed to be the aggregate\n               number of feet as determined upon for assessment by the engineer.\n(b)\nIf the assessment is directed to be according to an area, zone or another equitable\n               basis other than a front-foot basis, the engineer shall assess upon each tract such\n               relative portion of the whole sum to be levied as is proportionate to the estimated\n               benefit according to such basis.\n(c)\nRegardless of the basis used, in cases of wedge or V or any other irregular shaped\n               tracts, an amount apportioned thereto shall be in proportion to the special benefits\n               thereby derived.\n(d)\nNo assessment shall exceed the amount of the estimate of maximum special benefits\n               to the tract assessed, as provided in\nsection 78-22\n(b).\n(e)\nThe amount of any difference between the amount of any assessment levied against any\n               tract and the amount which would have been levied there against except that it would\n               then have exceeded the limitation in subsection (d) of this section shall be defrayed\n               by the city by other than the levy of assessments.\n(Code 1981, § 27-98; Ord. No. 551, § 38, 5-14-1964)\nState Law reference—\nCost assessed in proportion to area, C.R.S. § 31-25-512; cost assessed in accordance\n               with benefits, C.R.S. § 31-25-513."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-97"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

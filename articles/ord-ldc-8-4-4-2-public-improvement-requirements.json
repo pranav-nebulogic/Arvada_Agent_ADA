@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "public",
+      "improvement",
+      "requirements",
+      "generally",
+      "improvements",
+      "including",
+      "limited",
+      "streets",
+      "curb",
+      "gutter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-4-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-4. PUBLIC IMPROVEMENTS, WARRANTIES, AND UTILITIES"
+  },
+  "content": {
+    "title": "8-4-4-2. Public improvement requirements.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-4-2. Public improvement requirements.",
+        "a": "A.\tGenerally. All public improvements, including but not limited to streets, curb and gutter, sidewalk, sewer and water lines, irrigation ditch improvements or ditch crossings, storm sewers, storm drainage/water quality structures, bridges, and any other public improvements, shall be constructed in compliance with this LDC, and with the current City of Arvada Engineering Code of Standards and Specifications.\nB.\tIrrigation Ditch Crossings or Encroachments. All crossings of irrigation ditches or encroachments upon irrigation ditch property, easements, or rights-of-way shall be approved by the owner/operator of the irrigation ditch or by a court of competent jurisdiction. Such approvals shall be presented to the City prior to construction. Owners/operators of irrigation ditches may have engineering or design requirements that differ from those of the City. Due to the multiple ways that ditch easements are established under Colorado law, Applicants are advised to consult with the owners/operators of ditches with respect to the extent of their ownerships, easements, or rights-of-way.\nC.\tTiming of Construction Plan Approval. All construction plans for public improvements shall be approved prior to final plat or plan approval. No public improvements shall be made until all plans, profiles, and specifications pertaining to such improvements have been reviewed and approved as required by this LDC, and all improvements shall be constructed as per the approved construction plans."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

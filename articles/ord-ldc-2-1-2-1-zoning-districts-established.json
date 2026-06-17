@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "zoning",
+      "districts",
+      "established",
+      "generally",
+      "order",
+      "carry",
+      "provisions",
+      "code",
+      "city",
+      "divided"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-2-1"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-2. ESTABLISHMENT OF ZONING DISTRICTS"
+  },
+  "content": {
+    "title": "2-1-2-1. Zoning districts established.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-2-1. Zoning districts established.",
+        "a": "A.\tGenerally. In order to carry out the provisions of this Code, the City is divided into the following zoning districts and subdistricts:\n  1.\tParks and Open Space District\n    a.\tOS Parks and Open Space District\n  2.\tResidential Districts\n    a.\tRA Residential/Agricultural District\n    b.\tRN Residential Neighborhood District\n      i.\tRN-32.5 Residential Neighborhood 32,500 Subdistrict\n      ii.\tRN-12.5 Residential Neighborhood 12,500 Subdistrict\n      iii.\tRN-7.5 Residential Neighborhood 7,500 Subdistrict\n      iv.\tRN-6 Residential Neighborhood 6,000 Subdistrict\n      v.\tRN-4 Residential Neighborhood 4,000 Subdistrict\n      vi.\tRN-D Residential Neighborhood Single Family and Duplex Subdistrict\n    c.\tR6 Residential 6 District\n    d.\tR13 Residential 13 District\n    e.\tR24 Residential 24 District\n  3.\tMixed-Use Districts\n    a.\tMX-N Mixed-Use, Neighborhood District\n    b.\tMX-S Mixed-Use, Suburban District\n    c.\tMX-U Mixed-Use, Urban District\n    d.\tMX-T Mixed-Use, Transit-Oriented District\n  4.\tOlde Town Zoning District\n    a.\tOT-E Olde Town East Subdistrict\n    b.\tOT-EY Olde Town East Yukon Subdistrict\n    c.\tOT-GV Olde Town Grandview Subdistrict\n    d.\tOT-OW Olde Town Olde Wadsworth Subdistrict\n    e.\tOT-RN Olde Town Residential Neighborhood Subdistrict\n    f.\tOT-RR Olde Town Ralston Road Subdistrict\n    g.\tOT-W Olde Town Webster Subdistrict\n  5.\tCommercial District\n    a.\tCG Commercial, General District\n    b.\tCN Commercial, Neighborhood District\n  6.\tIndustrial Districts\n    a.\tIL Industrial, Light District\n    b.\tIG Industrial, General District\n  7.\tPlanned Unit Development District\n    a.\tPUD Planned Unit Development District\n(Ord. No. 4851, § 1, 7-10-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

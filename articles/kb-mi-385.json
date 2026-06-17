@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "pfas",
+      "information",
+      "fluoro",
+      "water",
+      "agency",
+      "alkyl",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/454/PFAS-Information"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-385",
+    "spreadsheet_id": "MI-385",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "PFAS Information",
+    "summary": "Arvada's drinking water has not shown any detectable levels of PFAS (Per- and Poly-Fluoro Alkyl Substances) near EPA reporting limits, ensuring the safety of its water supply. The City conducts regular testing and adheres to upcoming EPA regulations regarding PFAS, while also providing resources for residents to learn more about reducing exposure to these substances. For further information or to review test results, residents can contact the Water Quality Department.",
+    "body": "You may have heard of PFAS (Per-Fluoro and Poly-Fluoro Alkyl Substances) and become concerned. We recognize these concerns and want to help provide information about PFAS in Arvada. Your health and safety are always our highest priority!\n\n**To date, we have had no detections near the Environmental Protection Agency (EPA) reporting limits for our finished drinking water.**\n\nIf you would like to review the City's PFAS test results, please contact the Water Quality Department at 720-898-7800.\n\n### [Common Questions](/Faq.aspx?TID=35)\n\n[What are PFAS?](#)\n:   PFAS, or Per- and poly-Fluoro Alkyl Substances, is a term that describes thousands of human-made chemicals found in everyday products that are heat, water, and oil resistant. PFAS can end up in our water, air, and soil from thousands of potential sources resulting in exposure to humans, animals and the environment. Since the 1940s, they have been used to make things like:\n\n    - Non-stick cookware and food packaging\n    - Waterproof and stain-resistant carpet and fabrics\n    - Cosmetics, sunscreen and other personal care products\n    - Fire-resistant and fire-fighting products\n\n    Studies have shown that, in high enough quantities, certain PFAS may be bad for your health. The Environmental Protection Agency (EPA) uses lifetime Health Advisories to protect people from negative health effects that may come from exposure to PFAS. These calculations are based on drinking about 64 ounces of water per day for 70 years. This also takes into account other potential sources of exposure beyond drinking water (for example, food, air, consumer products, etc.).\n\n[Are PFAS in Arvada water?](#)\n:   Arvada Water Quality performs periodic PFAS sampling at both of our drinking water treatment plants. So far there have been no detected PFAS compounds near the EPA reporting limits in our finished waters. If you would like to review the City's PFAS test results, please contact the Water Quality Department at 720-898-7800.\n\n    The City works very hard to keep our drinking water safe for all who drink it. Thankfully, we are very early users of our water source. This means our source water hasn't had as much opportunity to be contaminated. Remember that all water, including bottled water, may reasonably be expected to contain at least small amounts of some contaminants.\n\n[How do PFAS get into water?](#)\n:   PFAS enter the wastewater (sewer) system when products containing them are washed or rinsed down your drains. Wastewater treatment plants typically don't fully remove the tiny particles so they end up moving downstream to the next water user.\n\n    They can also enter groundwater near facilities where PFAS-containing products are made or used. In Arvada, groundwater is not a source of our drinking water.\n\n[How are PFAS regulated in water?](#)\n:   The EPA and CDPHE have created new Maximum Contaminant Levels (MCLs) for 6 PFAS compounds (PFOA, PFOS, PFNA, PFBS, PFHxS, and Gen-X), which will go into effect in the next few years. Some of the requirements in the new federal rule are quite complicated. The current administration is reviewing the rule for possible modification. The City will follow all requirements, and continues to monitor the 6 regulated PFAS compounds as well as several others. The City anticipates being in full compliance with the rule at the outset, and is planning for future treatment capabilities if needed.\n\n    Visit the [Environmental Protection Agency (EPA) webpage on PFAS](https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas) to learn more about the federal regulation.\n\n[How can we reduce our exposure to PFAS?](#)\n:   - Manufacturers and consumers can limit or stop the use of products containing PFAS.\n    - Look for \"PFAS free\" statements or commitments from manufacturers on the products you buy.\n    - If you are still concerned and want to use a Point of Use filter ensure that it states \"PFAS-removing\" and maintain filters according to instructions.\n    - If you choose to use bottled water, use a brand that clearly states treatment with \"reverse osmosis\" or \"ion exchange\". Note that the FDA, not the EPA, regulates bottled water. At this time there are no specific regulations for PFAS in bottled water.\n\n    The State and Federal governments have also created new regulations on the manufacture and sale of PFAS-containing products. [Colorado's HB22-1345](https://leg.colorado.gov/bills/hb22-1345) is one example.\n\n[Where can I find more information?](#)\n:   [EPA: Primary Webpage on All Things PFAS](https://www.epa.gov/pfas)\n\n    [EPA PFAS Questions and Answers](https://www.epa.gov/sdwa/questions-and-answers-drinking-water-health-advisories-pfoa-pfos-genx-chemicals-and-pfbs)\n\n    [CDPHE: PFAS and Your Health](https://cdphe.colorado.gov/pfas-health)\n\n    [Metro Water Recovery: Useful Tips and Links to Reduce Your Product Exposure](https://www.metrowaterrecovery.com/community/learn-more-about-pfas/)\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

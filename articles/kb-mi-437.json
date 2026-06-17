@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "public",
+      "transit",
+      "line",
+      "mass",
+      "options",
+      "provides",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/466/Public-Transit"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-437",
+    "spreadsheet_id": "MI-437",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Public Transit",
+    "summary": "Arvada's mass transit options are provided by the Regional Transportation District (RTD), which includes the G Line Commuter Rail connecting the city to various metro areas and Denver International Airport. The G Line can be accessed at three locations in Arvada: Arvada Ridge Station, Gold Strike Station, and Olde Town Hub. Additionally, RTD offers a comprehensive bus route system and a call-n-ride service for curb-to-curb transportation within the city.",
+    "body": "## Mass Transit\n\nThe Regional Transportation District (RTD) provides Arvada with its mass transit options. For all information including all transit options, schedules, maps and more, visit [RTD](https://www.rtd-denver.com/).\n\n## The G Line\n\nThe G Line Commuter Rail provides a transit option that connects Arvada to metro areas east, west, south and all the way to DIA. You can catch the G Line at three Arvada locations:\n\n- [Arvada Ridge Station](/468/Arvada-Ridge-Station) (West Arvada)\n- [Gold Strike Station](/469/Gold-Strike-Station) (East Arvada)\n- [Olde Town Hub / Plaza](/473/Olde-Town-Hub-Olde-Town-Arvada-Station) (Olde Town Arvada)\n\n## Bus Service / Call-n-Ride\n\nA comprehensive bus route system that connects Arvada to the Denver Metropolitan area is available. A call-n-ride service that provides curb-to-curb transportation is also operated by RTD to serve Arvada. For more information including transit options, schedules, maps and more, visit [RTD](https://www.rtd-denver.com/).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

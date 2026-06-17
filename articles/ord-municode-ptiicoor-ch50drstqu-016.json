@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "land",
+      "disturbance",
+      "activity",
+      "permit",
+      "required",
+      "generally",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-51"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-51. - Land disturbance activity and permit required.",
+    "summary": "(a)\nGenerally.\nAll land disturbance activity must comply with the city's Land Development Code,\n               the Engineering Standards, this article, and any other applicable guidelines and standards\n               adopted by the city. No land disturbance activity may exceed 60 acres on any one si…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-51. - Land disturbance activity and permit required.",
+        "a": "(a)\nGenerally.\nAll land disturbance activity must comply with the city's Land Development Code,\n               the Engineering Standards, this article, and any other applicable guidelines and standards\n               adopted by the city. No land disturbance activity may exceed 60 acres on any one site\n               unless authorized by the director.\n(b)\nPermit required.\nExcept for the land disturbance activity described in subsection (c), a site disturbance\n               permit is required for each site or subdivision filing prior to conducting any land\n               disturbance activity that:\n(1)\nCovers an area equal to or greater than 0.5 acres, including stockpiles, construction\n               staging, employee parking, and building material storage areas;\n(2)\nCovers an area less than 0.5 acres but is part of a larger planned development;\n(3)\nInvolves environmentally sensitive or hazardous areas, as determined by the director;\n               or\n(4)\nInvolves a project for which the director deems a site disturbance permit to be necessary.\n(c)\nWhen not required.\n(1)\nA site disturbance permit is not required for any land disturbance activity which\n               is immediately necessary for the protection of life, property, or natural resources.\n               However, the person responsible for the land disturbance activity is required to apply\n               for a site disturbance permit within 14 days of commencing emergency activities if\n               those activities meet the requirements of\nsection 50-51\n(b).\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-51"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "water",
+      "quality",
+      "enlarge",
+      "report",
+      "adequately",
+      "annual",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/459/Water-Quality"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-598",
+    "spreadsheet_id": "MI-598",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Water Quality",
+    "summary": "The City of Arvada ensures safe and reliable drinking water for its residents through a comprehensive water supply and treatment system, sourcing water from Ralston Reservoir and Arvada Reservoir. The city operates two water treatment plants that meet federal and state drinking water standards, delivering over six billion gallons annually while maintaining a robust distribution network to minimize outages and support fire suppression needs. Compliance with the Safe Drinking Water Act and state regulations is a priority for public health and safety.",
+    "body": "The City of Arvada provides all customers with an [annual Water Quality Report](/448/2022-Water-Quality-Report).\n\nOur goal is to consistently provide our residents with safe and dependable drinking water. The Utilities Department is staffed 24 hours a day 365 days a year make sure that water is properly treated, adequately tested and efficiently distributed to homes and businesses.\n\n## Water Supply\n\n\\*Click the image to enlarge.\n\n[![Enlarge map of Arvada's water sources including Denver Water's north system and Clear Creek](/ImageRepository/Document?documentId=4182)](/DocumentCenter/View/4183/Where-does-My-Water-Come-From)\n\nArvada's drinking water comes from two surface water sources:\n\n1. Ralston Reservoir, filled by Denver Water's North System including Gross Reservoir\n2. Arvada Reservoir, filled by Ralston Creek and Clear Creek\n\n## Water Treatment\n\nThe City has two water treatment plants that treat the water supplies to Federal and State drinking water standards.\n\nThe City treats and delivers over six billion gallons of water using the Arvada and Ralston Water Treatment Plants. The Ralston Water Treatment Plant is the primary water treatment plant. The Arvada Water Treatment Plant is used during our higher-demand season, usually from May-October.\n\n### Compliance with State and Federal Regulations\n\nThe City of Arvada complies with the strict federal regulations of the Safe Drinking Water Act as well as state regulations provided in the Colorado Department of Public Health and Environment's Primary Drinking Water Regulations. These regulatory limits have been established by the state and federal health departments to ensure public health and safety.\n\n## Water Distribution\n\nFrom the water treatment facilities, the water flows through pressurized pipes to storage tanks and residential and commercial buildings throughout the city.\n\nThe delivery system is highly interconnected to minimize outages in the event of a water pipe break. 10 million gallon water tanks have been constructed at critical locations to help with peak flow demands and to supply water for fire suppression needs. The maintenance of this system ranges from making sure the fire hydrants operate every time, pressures in the system are consistent, and the many isolation valves work.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

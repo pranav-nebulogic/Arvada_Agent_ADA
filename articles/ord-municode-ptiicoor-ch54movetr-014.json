@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "default",
+      "judgments",
+      "entry",
+      "judgment",
+      "court",
+      "shall",
+      "authority"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-44"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-44. - Default judgments.",
+    "summary": "(a)\nEntry of judgment.\nThe court shall have authority to enter judgment by default against any defendant\n               charged with a noncriminal traffic infraction who fails to appear in court or otherwise\n               answer as directed by the summons and complaint served upon the defendant on …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-44. - Default judgments.",
+        "a": "(a)\nEntry of judgment.\nThe court shall have authority to enter judgment by default against any defendant\n               charged with a noncriminal traffic infraction who fails to appear in court or otherwise\n               answer as directed by the summons and complaint served upon the defendant on the date\n               and time the defendant is scheduled for trial or hearing.\n(b)\nFines and costs.\nThe municipal court shall assess fines and court costs according to the published\n               fine schedule for the original charge as if the defendant were convicted at trial.\n(c)\nRecord of judgment.\nThe record of a default judgment including original charge, points associated with\n               said charge, and amount owed shall be forwarded to the Colorado Division of Motor\n               Vehicles.\n(d)\nSetting aside judgment.\nThe court may set aside a judgment entered under this section on a showing of good\n               cause or excusable neglect by the defendant. The court shall have no jurisdiction\n               to set aside a judgment after seven calendar days after the entry of judgment.\n(e)\nWarrants.\nNo warrants shall be issued for the arrest of a defendant who fails to appear for\n               a noncriminal traffic infraction and against whom an entry of judgment has been entered.\n(\nOrd. No. 4453, § 1, 8-4-2014\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-44"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

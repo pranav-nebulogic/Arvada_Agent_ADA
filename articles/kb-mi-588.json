@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "volunteer",
+      "events",
+      "interested",
+      "volunteering",
+      "additional",
+      "always",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1204/Volunteer"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-588",
+    "spreadsheet_id": "MI-588",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Volunteer",
+    "summary": "The city government is seeking volunteers to assist with upcoming events and encourages interested individuals to sign up for a mailing list to receive updates.",
+    "body": "## Interested in volunteering?\n\nWe can't do it without great volunteers! We are always in need of additional help at our events. Interested in volunteering? Sign up for our volunteer mailing list below to receive updates via email about our upcoming events.\n\n[Volunteer](https://lp.constantcontactpages.com/su/xoa3EOH)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

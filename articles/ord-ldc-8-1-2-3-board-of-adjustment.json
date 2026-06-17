@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "board",
+      "adjustment",
+      "generally",
+      "there",
+      "established",
+      "consisting",
+      "seven",
+      "members",
+      "qualifications",
+      "selected"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-2-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-2. ELECTED AND APPOINTED OFFICIALS"
+  },
+  "content": {
+    "title": "8-1-2-3. Board of adjustment.",
+    "summary": "A.\tGenerally. There is established a Board of Adjustment consisting of seven members.\nB.\tQualifications of Board Members. All members shall be selected from among the duly qualified residents of the City.\nC.\tAppointment of Board Members.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-2-3. Board of adjustment.",
+        "a": "A.\tGenerally. There is established a Board of Adjustment consisting of seven members.\nB.\tQualifications of Board Members. All members shall be selected from among the duly qualified residents of the City.\nC.\tAppointment of Board Members. Members of the Board of Adjustment shall be appointed by the City Council.\nD.\tTerm of Membership. The term of each appointed board member shall be four years.\nE.\tPowers and Duties; Generally.\n  1.\tAppeals; Exceptions. The Board of Adjustment shall have the power and duty to hear and decide appeals where it is alleged there is an error in any order, requirement, decision, or determination made by an administrative official in the application or enforcement of this LDC, except:\n    a.\tThe Floodplain Hearing Officer shall have the authority to hear administrative appeals where it is alleged there is an error in any order, requirement, decision, or determination made by an administrative official in the application or enforcement of the floodplain regulations. See Sec. 8-1-1-5, Floodplain Hearing Officer.\n    b.\tThe Planning Commission shall have the authority to hear appeals from the Director's final decisions. See Sec. 8-1-2-2, Planning Commission.\n    c.\tThe Community and Economic Development Director shall have the authority to render written interpretations of this Code as provided in Section 8-1-1-1, Director of Community and Economic Development, which are appealable to the City Council pursuant to Section 8-2-5-2, Appellate Body.\n  2.\tVariances. The Board of Adjustment shall be empowered to grant variances from certain standards set forth in this LDC according to the standards set out in Section 8-3-11-2, Variances.\nF.\tChair; Rules; Meetings; Records.\n  1.\tThe Board of Adjustment shall establish its own rules of procedure and bylaws.\n  2.\tRecords. The Board of Adjustment shall keep a record of its motions, findings, and determinations which shall be a public record maintained by the Community and Economic Development Department."
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-2-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

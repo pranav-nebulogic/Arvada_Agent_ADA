@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "curb",
+      "ramp",
+      "request",
+      "program",
+      "acrrp",
+      "ramps",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/620/Arvadas-Curb-Ramp-Request-Program-ACRRP"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-002",
+    "spreadsheet_id": "RW-002",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Arvada's Curb Ramp Request Program (ACRRP)",
+    "summary": "The City of Arvada has established the Arvada Curb Ramp Request Program (ACRRP) to enhance accessibility for individuals with disabilities by installing curb ramps at public street corners and pedestrian crossings, in compliance with the Americans with Disabilities Act (ADA). The program aims to supplement existing curb ramp efforts, fill gaps in the sidewalk network, and ensure access to essential city services and locations. While requests for curb ramps can be submitted, installation is not guaranteed and will depend on various factors such as feasibility and available resources.",
+    "body": "The City of Arvada is committed to providing a safe and accessible environment for all when using our streets and sidewalks. Curb ramps are a requirement of the Americans with Disabilities Act (ADA). Their installation is crucial in creating a city wide network which provides accessibility to city programs, goods and services.\n\nCurb ramps are installed at public street corners, or pedestrian crossings where sidewalk(s) meets curb. They allow for continued, free unobstructed access to the sidewalk system or public right-of-way. A curb ramp ensures that people with mobility disabilities will have access when using the sidewalks and crossing streets.\n\nDuring new construction and certain street alterations, the City upgrades or installs new curb ramps to comply with the ADA. This request program (ACRRP) is designed to build upon or supplement these ongoing efforts.\n\nThis program is intended to assist individuals with disabilities.  It is not intended to assist individuals using baby strollers, bicycles, or other devices not covered by the ADA.\n\nThe ACRRP is designed to:\n\n- Ensure individuals and groups with disabilities have access to sidewalks and thus access to parks, events, public transportation, schools, work, etc.\n- Supplement and enhance the City's current curb ramp installation and replacement efforts\n- In fill corners that may not be scheduled for improvements in the near future\n- Complete sidewalk connections that are missing a couple of key curb ramps\n- Work with the existing sidewalk infrastructure\n\nThis program is specific to curb ramps and their installation. Curb ramp design and construction will coordinate with existing sidewalk(s). This program is not intended for the installation of new sidewalks.\n\nRequesting a curb ramp through this process does not automatically guarantee curb ramp installation. We aim to fulfill your request, but reserve the right to decline it based on said factors.\n\n## Process & Procedure\n\n1. Request is submitted to the Public Works Department, City's ADA Coordinator\n2. ADA Coordinator reviews application, ensures completeness\n3. ADA Coordinator contacts applicant\n4. Relevant sections of the Curb Ramp Flowchart (CRF) are utilized\n5. Approval to hire on-call contractor\n6. Begin construction\n\n## Goals\n\nThe goal is to have curb ramp(s) installed 6 to 8 weeks after request is submitted. Accordingly, factors like feasibility and design, weather, contractor availability, materials, funds etc. will need to be considered. We want each request for a curb ramp(s) to be fulfilled. There may be extenuating circumstances where curb ramp installation is not possible or limited. Arvada will work closely with applicant to ensure, to the maximum extent possible, their request is realized.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

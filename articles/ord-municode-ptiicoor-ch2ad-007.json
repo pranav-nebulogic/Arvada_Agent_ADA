@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "removal",
+      "board",
+      "commission",
+      "members",
+      "city",
+      "council",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-78"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-78. - Removal of board and commission members.",
+    "summary": "(a)\nCity council shall appoint councilmember appointees to boards, commissions and committees\n               following each general municipal election. City councilmembers serve on boards, commissions\n               and committees at the pleasure of city council and may be removed by city council\n  …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-78. - Removal of board and commission members.",
+        "a": "(a)\nCity council shall appoint councilmember appointees to boards, commissions and committees\n               following each general municipal election. City councilmembers serve on boards, commissions\n               and committees at the pleasure of city council and may be removed by city council\n               by a vote of the council at any time.\n(b)\nAll other members of boards, commissions, and committees, except as set forth in subsection\n               (e) of this section, serve on such boards, commissions, and committees at the pleasure\n               of the city council, and may be removed by a vote of the city council at any time.\n(c)\nHowever, before any council action, the board member shall be notified of the reason\n               for intent to remove.\n(d)\nThe board member shall be afforded the opportunity to appear before the council and\n               present his reasons to remain on the board or commission.\n(e)\nCommissioners of the Arvada Urban Renewal Authority may only be removed from office\n               in the manner prescribed in C.R.S. § 31-25-104(4).\n(Code 1981, § 2-15; Ord. No. 2274, § 1, 3-3-1986; Ord. No. 2904A, § 1, 6-1-1992; Ord.\n               No. 3043, § 1, 2-7-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-78"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

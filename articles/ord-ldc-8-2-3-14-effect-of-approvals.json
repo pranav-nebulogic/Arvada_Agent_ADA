@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "effect",
+      "approvals",
+      "generally",
+      "approval",
+      "application",
+      "authorizes",
+      "only",
+      "particular",
+      "plan",
+      "other"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-14"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-14. Effect of approvals.",
+    "summary": "A.\tGenerally. Approval of an application authorizes only the particular use, plan, or other specific activity for which the approval was granted.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-14. Effect of approvals.",
+        "a": "A.\tGenerally. Approval of an application authorizes only the particular use, plan, or other specific activity for which the approval was granted. Approvals run with the land that is the subject of the approval, except that LDC Text Amendments and Comprehensive Plan Text Amendments do not run with the land.\nB.\tWriting and Findings Required. If the application is for an administrative approval, the Director shall provide written notification and shall include findings that support the final decision via personal delivery, electronic mail or first-class mail to the Applicant and make the decision available to the public via the on-line development application. The decision and findings shall be signed by the Director. If the application requires a quasi-judicial hearing, the Director shall provide written notification after a final decision on the application via personal delivery, electronic mail or first-class mail to the Applicant and make the decision available to the public via the on-line development application.\nC.\tExpiration of Approvals. An entitlement shall be valid and shall expire as indicated in Table 8-2-3-14, Time Limitations, for the particular type of application, unless the building permit has been issued. A change in ownership of the land shall not affect the established expiration time period of an approval.\nD.\tExtensions. The Director may grant extensions of the expiration time period upon written request prior to the expiration date. The request shall include reasonable cause. One extension may be granted by the Director for a period not to exceed the original approval period. Failure to submit an application for an extension within the time limits established by this Section shall result in the expiration of the approval as provided above.\nE.\tAppeals. If there is an appeal or litigation during the time period that is not brought by the Applicant, and limits the Applicant's ability to proceed, the appeal or litigation may suspend the expiration date if approved by the Director, and the date may be recalculated when the appeal or litigation is complete. The new expiration date shall be established by adding the number of days that the approval remained valid before the appeal or litigation commenced to the date the appeal or litigation was completed by a final, non-appealable order. This subsection does not apply if the litigation relates to City enforcement of a violation of this LDC.\n(Ord. No. 4793, § 6, 3-21-2022; Ord. No. 4905, § 69, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-14"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

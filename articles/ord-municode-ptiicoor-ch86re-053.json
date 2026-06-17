@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "errors",
+      "correction",
+      "event",
+      "any",
+      "change",
+      "error",
+      "records"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-161"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-161. - Errors; correction.",
+    "summary": "In the event any change or error in the records of the retirement system results in\n               any member, retirant or beneficiary receiving from the retirement system more or less\n               than he would have been entitled to receive had the records been correct, the board\n               s…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-161. - Errors; correction.",
+        "a": "In the event any change or error in the records of the retirement system results in\n               any member, retirant or beneficiary receiving from the retirement system more or less\n               than he would have been entitled to receive had the records been correct, the board\n               shall correct such error and as far as practicable shall adjust subsequent payments\n               in such a manner that the actuarial equivalent of the benefits to which such member,\n               retirant or beneficiary was correctly entitled shall be paid. In the event of overpayment\n               to any member, retirant or beneficiary, the board may take legal action, if necessary,\n               to recover such payment.\n(Code 1960, § 19-21; Code 1981, § 26-85)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-161"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "shelter",
+      "charges",
+      "fees",
+      "animal",
+      "time",
+      "establish",
+      "impoundment"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-208"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-208. - Shelter charges and fees.",
+    "summary": "The animal shelter may from time-to-time establish charges and fees for impoundment,\n               boarding, destruction, disposal, veterinary care, and all other services related to\n               the care of and provisions for animals as needed. The owner or custodian of any impounded\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-208. - Shelter charges and fees.",
+        "a": "The animal shelter may from time-to-time establish charges and fees for impoundment,\n               boarding, destruction, disposal, veterinary care, and all other services related to\n               the care of and provisions for animals as needed. The owner or custodian of any impounded\n               animal will be responsible for the payment of all charges and fees, together with\n               any veterinary fees incurred. No impounded animal may be released until the owner\n               or custodian has paid or arranged to pay all such charges and fees. Failure of the\n               owner or custodian of any impounded animal to claim such animal from the animal shelter\n               within the time frames set forth in this article does not relieve the owner or custodian\n               from payment of all applicable charges and fees as established by the shelter.\n(\nOrd. No. 4878\n, § 9, 10-7-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-208"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

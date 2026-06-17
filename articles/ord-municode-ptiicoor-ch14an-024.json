@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "animals",
+      "prohibited",
+      "causing",
+      "damage",
+      "shall",
+      "unlawful",
+      "owner"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-55"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-55. - Animals prohibited from causing damage.",
+    "summary": "(a)\nIt shall be unlawful for the owner or custodian of any animal to permit or allow the\n               animal, with or without direct knowledge of the owner or custodian, to destroy, damage\n               or injure any shrubbery, plants, flowers, grass, lawn, fence, structure or part thereof,\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-55. - Animals prohibited from causing damage.",
+        "a": "(a)\nIt shall be unlawful for the owner or custodian of any animal to permit or allow the\n               animal, with or without direct knowledge of the owner or custodian, to destroy, damage\n               or injure any shrubbery, plants, flowers, grass, lawn, fence, structure or part thereof,\n               other domestic animal, or anything whatsoever upon any private property owned or occupied\n               by a person other than the owner or custodian of such animal or to permit or allow\n               said animal to come into contact with a motor vehicle owned by someone other than\n               the owner or custodian of the animal in such a way so as to cause damage to the motor\n               vehicle, when the motor vehicle is on property other than that of the animal owner\n               or custodian.\n(b)\nAny animal found trespassing or found causing damage to property as described in subsection\n               (a) of this section may be humanely restrained by the owner or occupant of such property,\n               or by such owner's or occupant's agent, for a reasonable time, during which time such\n               owner, occupant, or agent shall notify animal management of his possession of the\n               animal, notify the owner or custodian of his possession of the animal, release the\n               animal to the owner or custodian, release the animal at the site of its capture, or\n               transport the animal to the animal shelter.\n(c)\nAny animal, domestic or wild, found trespassing or creating a nuisance at any place\n               within the city may be humanely restrained by any person. Nuisance wild animals may\n               be released to an animal management officer, transported to the animal shelter or\n               licensed wildlife rehabilitation facility, or relocated in accordance with all applicable\n               state wildlife regulations. Nuisance domestic animals must be released to an animal\n               management officer, returned to the owner or custodian, or transported to the animal\n               shelter.\n(Code 1981, § 6-34; Ord. No. 3496, § 2, 12-14-1998;\nOrd. No. 4878\n, § 7, 10-7-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-55"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

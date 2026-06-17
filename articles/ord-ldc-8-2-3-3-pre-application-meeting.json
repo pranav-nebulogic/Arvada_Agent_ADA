@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "meeting",
+      "generally",
+      "required",
+      "various",
+      "types",
+      "determined",
+      "director",
+      "establish",
+      "post"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-3. Pre-application meeting.",
+    "summary": "A.\tGenerally. A pre-application meeting is required for various application types, as determined by the Director. The Director may establish and post a regular schedule for pre-application meetings and for intake of required materials.\nB.\tWaiver.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-3. Pre-application meeting.",
+        "a": "A.\tGenerally. A pre-application meeting is required for various application types, as determined by the Director. The Director may establish and post a regular schedule for pre-application meetings and for intake of required materials.\nB.\tWaiver. The Director may waive the pre-application meeting it is determined that the meeting is not necessary.\nC.\tPurpose. The purpose of the pre-application meeting is threefold:\n  1.\tTo review the Applicant's conceptual plans and to identify application requirements;\n  2.\tTo ensure the Applicant is familiar with the procedural and substantive requirements of this LDC;\n  3.\tTo meet with City staff, and representatives from agencies and departments, to discuss details, and potential impacts of the proposed development, and to establish points of contact for the development review process.\nD.\tRequired Materials. A pre-application meeting shall be requested on a pre-application form approved by the Director, which may include requirements for supplemental materials based on the type of application to which the pre-application meeting relates. At a minimum, unless waived by the Director for good cause shown, the request shall include sufficient supporting materials to explain:\n  1.\tThe location of the proposed project;\n  2.\tThe proposed uses (in general terms);\n  3.\tThe proposed general arrangement of buildings, parking, access points, open spaces, and drainage facilities (including water quality and stormwater detention facilities);\n  4.\tThe relationship to existing development; and\n  5.\tSuch other preliminary materials that the Applicant or the Director believes will be pertinent to the application.\nE.\tStaff Opinions and Written Comments.\n  1.\tStaff opinions presented during and after pre-application meetings are informational only and do not represent a commitment on behalf of the City regarding the acceptability of the proposed development. Materials submitted for review at a pre-application meeting shall not constitute an \"application\" for purposes of C.R.S. § 24-68-101, et seq., or any other purposes.\n  2.\tThe Director shall provide written comments to the potential Applicant following the meeting.\nF.\tFormal Application Timing. If a development application is not submitted within 180 days of the pre-application meeting, or if there are substantial changes to the design concept, the Applicant may be required to schedule and attend another pre-application meeting before submitting any application."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

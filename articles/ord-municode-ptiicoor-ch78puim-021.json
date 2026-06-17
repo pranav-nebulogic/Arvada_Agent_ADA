@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "provisional",
+      "order",
+      "hearing",
+      "purpose",
+      "made",
+      "provided",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-22"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-22. - Provisional order hearing; purpose.",
+    "summary": "In the provisional order made as provided in\nsection 78-15\n, the council shall set a time at least 20 days thereafter and a place at which the\n               owners of the tracts to be assessed or any other persons interested therein may appear\n               before the council and be heard as to th…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-22. - Provisional order hearing; purpose.",
+        "a": "In the provisional order made as provided in\nsection 78-15\n, the council shall set a time at least 20 days thereafter and a place at which the\n               owners of the tracts to be assessed or any other persons interested therein may appear\n               before the council and be heard as to the propriety and advisability of acquiring\n               or improving, or acquiring and improving, the project provisionally ordered as to\n               the estimated:\n(1)\nCost thereof; and\n(2)\nAmount thereof to be assessed against each tract in the improvement district.\n(Code 1981, § 27-23; Ord. No. 551, § 13(A), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-22"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

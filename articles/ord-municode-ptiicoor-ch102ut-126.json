@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "administrative",
+      "judicial",
+      "review",
+      "any",
+      "owner",
+      "disputes",
+      "calculation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-357"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-357. - Administrative and judicial review.",
+    "summary": "(a)\nAny owner who disputes the calculation of square footage of impervious surface upon\n               which a service charge is based, or who disputes ownership of the subject property\n               may petition the director for a hearing on a revision, adjustment or modification\n               of…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-357. - Administrative and judicial review.",
+        "a": "(a)\nAny owner who disputes the calculation of square footage of impervious surface upon\n               which a service charge is based, or who disputes ownership of the subject property\n               may petition the director for a hearing on a revision, adjustment or modification\n               of such charge or determination of ownership no later than 30 days after having been\n               first billed for such charge. The director may hold such hearing himself, or designate\n               another as a hearing officer with authority to hold such hearing. The filing of a\n               petition shall not stay any owner's obligation to make payment of the charge during\n               pendency of the hearing.\n(b)\nAny petition filed pursuant to this article shall be in writing, and the facts and\n               figures submitted shall be likewise submitted in writing as sworn statements, in form\n               generally acceptable in similar proceedings. Any hearing shall take place within the\n               city at a date and time set by the director, but not earlier than 14 days nor later\n               than 60 days from the date of receipt of the petition by the director, unless a different\n               time and date is agreed to by the petitioner and the director. Hearings held pursuant\n               to this article shall be held in accordance with the procedures set forth in\nsection 2-171\net seq.\n(c)\nThe director shall make a final determination and may confirm or modify the charge,\n               or make a finding with respect to the ownership of the subject property in accordance\n               with facts submitted. The director's decision shall be in writing and shall be mailed\n               to or served upon petitioner within ten business days of the conclusion of the hearing.\n               The director may issue an order providing for refund of any portion of the service\n               charge previously paid by an owner which charge is subsequently found to be in excess\n               of any modified charge following conclusion of an owner's appeal. Service by certified\n               mail, return receipt requested, shall be conclusive evidence of notice for the purpose\n               of this article. Such action shall be considered a final order of the director, and\n               any review thereof shall be by the district court pursuant to Rule 106(a)(4) of the\n               Colorado Rules of Civil Procedure.\n(Code 1981, § 33-257; Ord. No. 3701, § 1, 6-18-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-357"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

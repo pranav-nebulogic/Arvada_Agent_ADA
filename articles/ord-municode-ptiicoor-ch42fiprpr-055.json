@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "roads",
+      "more",
+      "than",
+      "feet",
+      "width",
+      "hereby"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-100"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-100. - I.F.C. Section D103.6.2, Roads more than 26 feet in width.",
+    "summary": "Section D103.6.2. Roads more than 26 feet in width\n, is hereby amended to read as follows:\n\"\nD103.6.2. Roads 30 to 34 feet in width.\nFire lane signs as specified in Section D103.6 shall be posted on one side of private\n                  streets, roads, or drives designated as fire apparatus access t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-100. - I.F.C. Section D103.6.2, Roads more than 26 feet in width.",
+        "a": "Section D103.6.2. Roads more than 26 feet in width\n, is hereby amended to read as follows:\n\"\nD103.6.2. Roads 30 to 34 feet in width.\nFire lane signs as specified in Section D103.6 shall be posted on one side of private\n                  streets, roads, or drives designated as fire apparatus access that are 30-34 feet\n                  wide (9,144 mm- 10,363 mm). Installation method of fire lane signs shall be in accordance\n                  with City of Arvada Engineering Standards.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-100"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

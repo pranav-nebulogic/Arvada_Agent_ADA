@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "water",
+      "surcharges",
+      "temporary",
+      "charges",
+      "hereby",
+      "adopted",
+      "encourage"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-182"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-182. - Water surcharges.",
+    "summary": "Temporary charges are hereby adopted to encourage water customers to use less water\n               during the drought. The drought surcharge is calculated on the basis of how much water\n               a customer uses and any resulting charge is in addition to the charge derived from\n               w…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-182. - Water surcharges.",
+        "a": "Temporary charges are hereby adopted to encourage water customers to use less water\n               during the drought. The drought surcharge is calculated on the basis of how much water\n               a customer uses and any resulting charge is in addition to the charge derived from\n               water user rates as set forth in\nsections 102-170\n,\n102-171\n,\n102-172\nand\n102-173\n. The bimonthly water surcharge shall be calculated from the following rate structure:\n(1)\nSingle-family or other individually connected units:\na.\n0 to 12,000 gallons at the rate of $0.00 per 1,000 gallons.\nb.\n12,001 to 30,000 gallons at the rate of $0.30 per 1,000 gallons.\nc.\n30,001 to 60,000 gallons at the rate of $0.60 per 1,000 gallons.\nd.\n60,001 to 90,000 gallons at the rate of $0.90 per 1,000 gallons.\ne.\nOver 90,000 gallons at the rate of $1.20 per 1,000 gallons.\n(2)\nDuplex, multifamily, townhouse, or other units that are interconnected:\na.\n0 to 12,000 gallons for the first unit plus 6,000 gallons for each additional unit\n                  at the rate of $0.00 per 1,000 gallons.\nb.\n18,001 to 30,000 gallons for the first unit plus 13,000 gallons for each additional\n                  unit at the rate of $0.30 per 1,000 gallons.\nc.\n30,001 to 60,000 gallons for the first unit plus 26,000 gallons for each additional\n                  unit at the rate of $0.60 per 1,000 gallons.\nd.\n60,001 to 90,000 gallons for the first unit plus 39,000 gallons for each additional\n                  unit at the rate of $0.90 per 1,000 gallons.\ne.\nAll remaining usage at the rate of $1.20 per 1,000 gallons.\n(3)\nNonresidential accounts except irrigation only:\nMeter Size\nQuantity (in 1,000 gallons) at a rate of $0.00 per 1,000 gallons\nQuantity (in 1,000 gallons) at a rate of $0.30 per 1,000 gallons\nQuantity (in 1,000 gallons) at a rate of $0.60 per 1,000 gallons\nQuantity (in 1,000 gallons) at a rate of $0.90 per 1,000 gallons\nQuantity (in 1,000 gallons) at a rate of $1.20 per 1,000 gallons\n⅝″ × ¾″\n0 to 68\n68 to 170\n170 to 340\n340 to 510\nAll over 510\n¾″\n0 to 68\n68 to 170\n170 to 340\n340 to 510\nAll over 510\n1″\n0 to 112\n112 to 280\n280 to 560\n560 to 840\nAll over 840\n1½″\n0 to 240\n240 to 600\n600 to 1,200\n1,200 to 1,800\nAll over 1,800\n2″\n0 to 360\n360 to 900\n900 to 1,800\n1,800 to 2,700\nAll over 2,700\n3″\n0 to 800\n800 to 2,000\n2,000 to 4,000\n4,000 to 6,000\nAll over 6,000\n4″\n0 to 1,360\n1,360 to 3,400\n3,400 to 6,800\n6,800 to 10,200\nAll over 10,200\n(4)\nIrrigation only accounts:\nAll irrigation only accounts will have a surcharge of $1.20 per 1,000 gallons.\n(\nOrd. No. 4385, § 1, 5-20-2013\n)\nNote—\nSection 2 of Ord. No. 4385\nstates: \"The intent of the City Council is that the surcharges set forth herein are\n               temporary and imposed only for the duration of the drought, such duration to be based\n               on the determination of drought made by the Denver Water Board. At such time as the\n               Denver Water Board rescinds the drought surcharges they have imposed on Denver customers,\n               the Arvada City Council will rescind the drought surcharges that are the subject of\n               this ordinance. Until rescinded as provided herein, the surcharges shall remain in\n               effect.\"\nNote—\nSection 3 of Ord. No. 4385\nstates: \"The surcharge rates set forth herein shall take effect on a date that is\n               the latter of June 1, 2013 or such later date set by the Denver Water Board for the\n               implementation of surcharge fees and rates during calendar year 2013.\""
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-182"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "disciplinary",
+      "actions",
+      "sanctions",
+      "penalties",
+      "addition",
+      "grounds",
+      "provided"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-170"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-170. - Disciplinary actions; sanctions; penalties.",
+    "summary": "(a)\nDisciplinary actions.\nIn addition to the grounds provided in the Colorado Liquor Code and chapter 6 of\n               the Arvada City Code, a license may be disciplined, suspended, or revoked for any\n               of the grounds for denial set forth in\nsection 6-169\nor unlawful acts committed p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-170. - Disciplinary actions; sanctions; penalties.",
+        "a": "(a)\nDisciplinary actions.\nIn addition to the grounds provided in the Colorado Liquor Code and chapter 6 of\n               the Arvada City Code, a license may be disciplined, suspended, or revoked for any\n               of the grounds for denial set forth in\nsection 6-169\nor unlawful acts committed pursuant to\nsection 6-171\n.\n(b)\nCriminal penalties.\nNothing in the article shall prevent the city, state, or federal government from\n               filing and prosecuting criminal charges against any licensee or person based on the\n               same act or series of acts for which the licensee faces disciplinary action pursuant\n               to this article. The prosecution of such charges may occur concurrently to any disciplinary\n               proceedings by the authority.\n(c)\nCivil penalties in lieu of fine.\nIn lieu of a fine for license violations, the authority is hereby authorized to impose\n               civil penalties for license violations to the same extent and according to the same\n               standards as are utilized by the Colorado Liquor Code and any and all applicable rules\n               and regulations adopted pursuant thereto.\n(d)\nAll licenses subject to discipline.\nIn addition to any disciplinary action taken against the common consumption area\n               license or certification of the promotional association, each member of a promotional\n               association's individual liquor license may be subject to disciplinary action by the\n               authority for any unlawful act committed by the promotional association.\n(\nOrd. No. 4804\n, § 1, 6-6-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-170"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

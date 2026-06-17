@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "financial",
+      "transparency",
+      "information",
+      "annual",
+      "comprehensive",
+      "report",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/237/Financial-Transparency"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-226",
+    "spreadsheet_id": "MI-226",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Financial Transparency",
+    "summary": "The City of Arvada prioritizes financial transparency by providing detailed financial information to its citizens and businesses. The Annual Comprehensive Financial Report (ACFR), which complies with USGAAP and is audited by BKD, LLP, has received the Government Finance Officers Association's Certificate of Achievement for Excellence in Financial Reporting for 39 consecutive years. Additionally, the city publishes quarterly financial updates and a Revenue Manual to offer insights into its major governmental revenues.",
+    "body": "The City of Arvada is committed to financial transparency and the sharing of information. This page was created in an effort to provide additional financial information of interest to our citizens, our businesses, and other parties.\n\n## City of Arvada Annual Comprehensive Financial Report\n\nThe**Annual**Comprehensive **Financial****Report (ACFR)**is a publication that provides in-depth information about the operations and financial position of the City of Arvada and complies with the City Charter. The Comprehensive Annual Financial Report is prepared in accordance with accounting principles generally accepted in the United States of America (USGAAP) and is audited by BKD, LLP a firm of licensed certified public accountants. The [Government Finance Officers Association](http://www.gfoa.org/) of the United States and Canada (GFOA) awarded a Certificate of Achievement for Excellence in Financial Reporting to the City for its Comprehensive Annual Financial Report for the year ended December 31, 2021. The Certificate of Achievement is a national award recognizing conformance with the highest standards for preparation of state and local government financial reports. This is the 39th consecutive year that the City has received the Certificate of Achievement award. Comprehensive Annual Financial Report documents are also available in hard copy for viewing at the City Clerk's Office located in City Hall or the Finance Department, which is located in the Annex building.\n\n[2024 Annual Comprehensive Financial Report (for the year ended December 31, 2024)](/Archive.aspx?ADID=120)\n\nView/download the [City of Arvada Annual Comprehensive Financial Reports](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=a3fe45b00a84) in our Munidocs archive.\n\n## City of Arvada Quarterly Financial Reports\n\nThe City publishes Quarterly Financial Updates to provide timely information on the major operating funds within the City. Recent quarterly financial updates are available in our Archive Center\n\nView/download the [Quarterly financial Reports](/Archive.aspx?AMID=38&Type=&ADID=) in our Archive Center.\n\n## City of Arvada Revenue Manuals\n\nThe Revenue Manual is intended to provide City Council, staff, and the citizens a comprehensive look at major City governmental revenues. Information provided for each revenue source includes: Up to ten years of actual annual receipts, Revised estimates for each year in the current biennial budget, Associated account numbers in the City’s financial management system, The current rate at which the revenue is assessed, A brief description of the revenue, The governmental entity responsible for collecting the revenue, The enabling legislation providing for the assessment and collection of the revenue, Special use restrictions on the revenue (if any), Current rationale behind the estimates on future collections.\n\nView/download the [City of Arvada Revenue Manual December 2024 (PDF)](/DocumentCenter/View/7117/December-2024-Revenue-Manual-PDF)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

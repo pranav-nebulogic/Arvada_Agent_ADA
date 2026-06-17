@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "landscaping",
+      "lawn",
+      "care",
+      "tree",
+      "services",
+      "landscape",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/347/Landscaping-Lawn-Care-Tree-Services"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-292",
+    "spreadsheet_id": "MI-292",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Landscaping, Lawn Care & Tree Services",
+    "summary": "Landscapers are responsible for landscape design, construction, installation, and maintenance, and they must pay sales or use tax on materials used in their contracts, although professional services like design are non-taxable. When selling plants or landscaping materials without installation, landscapers must collect sales tax at the delivery location, and those with a retail outlet are considered retailers. Non-taxable services include lawn care, tree services, and snow removal, where the landscaper is the consumer of the materials used.",
+    "body": "A landscaper is responsible for landscape design, landscape construction, landscape insulation, and landscape maintenance.\n\n## Landscaping\n\nGenerally, landscapers act as contractors and are the consumers of tangible personal property (material) purchased by them for use in the performance of their contracts. Any professional services of a landscape contract, such as designers' and architects' charges are not subject to sale and use tax. These non-taxable services include but are not limited to consulting, research, preparation of design plans, and other engineering or architectural services.\n\nAs a contractor, the landscaper must pay sales or use tax on the cost of all plants, trees, bushes, shrubs, sod, and other materials, supplies, and equipment used to complete the contract. The sales tax should be included as part of the materials cost to the customer, but should not be separately stated on the invoice. Sales tax should generally be paid to the seller at the time the materials are purchased. However, if the seller does not charge sales tax, the contractor owes use tax on the cost of the materials where the materials are installed.\n\n## Retail Sales\n\nIf a landscaper sells shrubbery, plants, sod, trees, bushes, etc., without installation, the contractor must collect sales tax on the sale at the location where the planting materials are delivered. If the landscaper has a physical (retail) location where it makes sales of tangible personal property, it will be considered a retailer, and sales tax is collected at the retail location.\n\n## Non-Taxable Service\n\n- Lawn care - Mowing and trimming, aerating, dethatching, fertilizing, reseeding\n- Tree services - Trimming, stump grinding and removal, spraying\n- Indoor plant services - Watering, fertilizing\n- Snow removal - Snow shoveling, snow plowing, applying ice melt or sand to driveways, sidewalks or parking lots\n\n## Construction\n\nImprovements to real property are treated as construction contracts and may require building permits depending on the improvement, such as building a deck or retaining walls. Landscaping materials used for new residential or commercial construction would not be taxable when purchased by a landscaping contractor if the landscaping project has been included in the job valuation on a permit by the general contractor.\n\n## Examples\n\n- Bob's Landscaping performs lawn care services for customers including:\n  - Spring and fall cleanup\n  - Lawn seeding\n  - Sod installation\n  - Mowing and trimming\n  - Spreading bark mulch\n  - Aerating\n  - Dethatching\n  - Power raking\n\nThese services are not taxable to the customers and the landscaper is considered the consumer of all of the mulch, seed, sod, and any other material purchased to perform the services for which Bob's Landscaping was hired. Sales or use tax is due to the price paid on the materials.\n\n- Bob's Landscaping also performs snow removal services and, along with plowing, applies:\n  - Sand\n  - Salt\n  - De-icing materials to the driveways and walkways\n\nBob's landscaping bills the customer a lump-sum amount for the snow removal services. The services are not taxable to the customer. The landscaper is considered the consumer of all sand, salt, and de-icing materials purchased to perform the services for which he was hired, and sales or use tax is due on the total price paid for the materials.\n\n- A landscaper with a retail store that sells the following is a retailer.\n  - Mulch\n  - Other materials and products\n  - Pavers\n  - Plants\n  - Sod\n  - Yard art\n\nWhen a landscaper purchases material that will be resold to its customers in its retail outlet, the landscaper should present a completed and signed resale certificate to its supplier at the time the material is purchased. The landscaper is not required to pay sales or use tax on the items purchased for resale but will collect sales tax on non-exempt sales.\n\n- A landscaper contracting to improve the real property is treated as a construction contract and may require a building permit.\n  - Building decks\n  - Installing retaining walls\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

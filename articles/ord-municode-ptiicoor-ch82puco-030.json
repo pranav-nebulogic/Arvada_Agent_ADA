@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "used",
+      "division",
+      "shall",
+      "meanings"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-91"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-91. - Definitions.",
+    "summary": "The following words, when used in this division, shall have the meanings ascribed\n               to them in this section, except where the context clearly indicates a different meaning:\nClaim\nmeans any threatened or asserted demand or action arising from or related to the\n               administrati…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-91. - Definitions.",
+        "a": "The following words, when used in this division, shall have the meanings ascribed\n               to them in this section, except where the context clearly indicates a different meaning:\nClaim\nmeans any threatened or asserted demand or action arising from or related to the\n               administration or completion of a city contract made by the contractor awarded the\n               contract, and includes without limitation, disputes arising under a contract, those\n               based upon breach of contract, mistake, misrepresentation, or other cause for contract\n               modification or rescission. A claim does not include an invoice or payment request\n               submitted under the terms of a contract, although an invoice or payment request may\n               be converted to a claim, if the amount is disputed or is not acted on within a reasonable\n               period of time and if the contractor gives written notice to the city of the conversion.\n               It also does not include a solicitation or bid protest.\nClaimant\nmeans a person who is a party to city contract, who is aggrieved by an action or\n               occurrence caused in whole or in part by a city employee that affects the completion\n               of or payment on that contract, and who files an informal dispute resolution notice\n               or a formal contract claim with the city.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-91"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

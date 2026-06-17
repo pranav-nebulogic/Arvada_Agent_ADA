@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "resignation",
+      "prior",
+      "election",
+      "event",
+      "councilmember",
+      "subject",
+      "recall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-72"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-72. - Resignation prior to election.",
+    "summary": "In the event a councilmember who is subject to a recall resigns after a recall election\n               is set but prior to the recall election having been held, city council shall cancel\n               the recall election and shall fill the vacant seat as set forth in\nsection 4.6\nof the Charter.\n(Co…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-72. - Resignation prior to election.",
+        "a": "In the event a councilmember who is subject to a recall resigns after a recall election\n               is set but prior to the recall election having been held, city council shall cancel\n               the recall election and shall fill the vacant seat as set forth in\nsection 4.6\nof the Charter.\n(Code 1981, § 11-43; Ord. No. 3511, § 2, 2-1-1999)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-72"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

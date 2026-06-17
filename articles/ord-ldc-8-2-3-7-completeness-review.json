@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "completeness",
+      "review",
+      "generally",
+      "director",
+      "chief",
+      "building",
+      "official",
+      "floodplain",
+      "administrator",
+      "appropriate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-7"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-7. Completeness review.",
+    "summary": "A.\tGenerally.\n  1.\tThe Director, Chief Building Official or Floodplain Administrator, as appropriate, shall review each application to verify that it is complete.\n  2.\tApplications for sign permits shall be reviewed for completeness within three business days of the date on which they are filed.\n  3…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-7. Completeness review.",
+        "a": "A.\tGenerally.\n  1.\tThe Director, Chief Building Official or Floodplain Administrator, as appropriate, shall review each application to verify that it is complete.\n  2.\tApplications for sign permits shall be reviewed for completeness within three business days of the date on which they are filed.\n  3.\tApplications for Wireless Communications Facilities and Small Cell Facilities shall be reviewed for completeness according to the applicable \"shot clocks\" set out in Division 8-3-6, Wireless Communications Facilities.\nB.\tComplete Applications.\n  1.\tA complete application is an application that:\n    a.\tContains all of the information and materials required by the Director and this Code (except any items waived by the Director);\n    b.\tAll supporting documents required by the application form (except any items waived by the Director);\n    c.\tAll supporting documents requested by the Director as a result of the pre-application meeting; and\n    d.\tAll required fees. Fees shall not be required for applications initiated by Director, Planning Commission, City Council, or other City department head for City projects.\n  2.\tComplete applications shall be processed according to the applicable procedures of this LDC.\nC.\tIncomplete Applications.\n  1.\tExcept with respect to sign permits, Wireless Communications Facilities and Small Cell Facilities (which are subject to special provisions in Division 8-3-6, Wireless Communications Facilities):\n    a.\tIncomplete applications shall not be processed or reviewed. The Director shall provide written notice of the submittal deficiencies. The Applicant my correct the deficiencies and resubmit the application for determination of application completeness. The written notice shall be delivered to the Applicant by electronic mail.\n  2.\tIncomplete applications for sign permits, Wireless Communication Facilities and Small Cell Facilities shall be returned Subsection after they are determined to be incomplete pursuant to Section 8-2-3-7, Completeness review."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

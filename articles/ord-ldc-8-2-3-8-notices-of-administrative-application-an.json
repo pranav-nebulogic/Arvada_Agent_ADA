@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "notices",
+      "administrative",
+      "application",
+      "decision",
+      "purpose",
+      "intent",
+      "notice",
+      "inform",
+      "city",
+      "residents"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-8"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-8. Notices of administrative application and administrative decision.",
+    "summary": "A.\tPurpose and Intent.\n  1.\tPurpose. The purpose of the notice of administrative application and administrative decision is to inform City residents, businesses and organizations of pending development applications and the date a decision will be made on a development application.\n  2.\tIntent.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-8. Notices of administrative application and administrative decision.",
+        "a": "A.\tPurpose and Intent.\n  1.\tPurpose. The purpose of the notice of administrative application and administrative decision is to inform City residents, businesses and organizations of pending development applications and the date a decision will be made on a development application.\n  2.\tIntent. The notice of application is intended to provide contact information for the Applicant and City staff where interested members of the community can request information and ask questions regarding a pending development application and provide comments to the Director prior to a decision being made.\nB.\tNotice of Administrative Application. The notice shall be prepared by the Applicant per the requirements of Division 8-2-4, Required Notices, for Master Development Plans, Site Plans and Minor Subdivision Final Plats.\nC.\tNotice of Administrative Decision. A notice may be required at the discretion of the Director. If notice is required, it shall be prepared by the Applicant per the requirements of Division 8-2-4, Required Notices.\n(Ord. No. 4793, § 6, 3-21-2022)\nEditor's note(s)—Ord. No. 4793, § 6, adopted March 21, 2022, changed the title of § 8-2-3-8 from \"Notice of administrative application\" to read as set out herein."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

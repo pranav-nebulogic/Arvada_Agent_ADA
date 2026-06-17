@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "pay",
+      "plan",
+      "city",
+      "contains",
+      "list",
+      "all",
+      "regular"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-50"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-50.1. - Pay plan.",
+    "summary": "(a)\nThe city's pay plan contains a list of all regular budgeted positions and corresponding\n               salary schedules. A proposed pay plan will be submitted to the city council by the\n               city manager or their designee for adoption by resolution in coordination with the\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-50.1. - Pay plan.",
+        "a": "(a)\nThe city's pay plan contains a list of all regular budgeted positions and corresponding\n               salary schedules. A proposed pay plan will be submitted to the city council by the\n               city manager or their designee for adoption by resolution in coordination with the\n               annual budget. The pay plan may be amended at any time by resolution of the city council\n               upon the recommendation of the city manager.\n(b)\nBy written directive, the city manager, acting upon the recommendation of the director\n               of human resources, and subject to the availability of funds, shall be authorized\n               to make temporary adjustments to the classification system and pay plan not to exceed\n               12 months in duration. No temporary adjustment to the classification system and pay\n               plan shall be deemed final until approved by the city council as provided herein.\n               Such review and approval by the city council may occur at such times as recommended\n               by the city manager, but in any event not later than the next review of the annual\n               budget.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-50"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

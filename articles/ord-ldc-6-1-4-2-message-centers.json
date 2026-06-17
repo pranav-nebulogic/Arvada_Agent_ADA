@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "message",
+      "centers",
+      "generally",
+      "manual",
+      "changeable",
+      "copy",
+      "electronic",
+      "accordance",
+      "requirements",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-4-2"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-4. ILLUMINATION AND MESSAGE CENTERS"
+  },
+  "content": {
+    "title": "6-1-4-2. Message centers.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-4-2. Message centers.",
+        "a": "A.\tGenerally. The use of manual changeable copy message centers or electronic message centers shall be in accordance with the requirements of this Section.\nB.\tManual Changeable Copy Message Centers.\n  1.\tDesign.\n    a.\tManual changeable copy message centers shall appear integrated into the sign face of a permanent sign that also includes text and graphics that are not part of the manual changeable copy message center.\n    b.\tNo manual changeable copy message center may be constructed using face or screen materials such as expanded metal or other types of mesh; any type of corrugated plastic such as Filon, V3 or Styrene; or other types of materials that are commonly used for \"portable\" or \"homemade\" signs, unless the use of such materials for sign construction is permitted under any uniform code or ordinance adopted by the City.\n    c.\tIf any part of the changeable copy portion of a sign or the track type system or other method of attachment (i) is absent from the sign, or (ii) deteriorates so that it is no longer consistent with the style or materials used in the permanent portion of the sign, or (iii) is altered in such a way that it no longer conforms to the approved plans and specifications, the sign shall be in violation of this Code.\n  2.\tDimensions. No manual changeable copy message center shall occupy more than 30 percent of the sign area of a sign.\n  3.\tOperations. No changeable copy sign or portion of a sign may have changeable copy that is nailed, pinned, glued, taped, or comparably attached.\nC.\tDigital Electronic Message Centers. Digital electronic message centers (\"EMCs\") may be incorporated into signs in the MX, C, I sign district (see Section 6-1-2-4, Sign Districts) and operated only as provided in this Subsection.\n  1.\tNumber, Design, and Dimensions.\n    a.\tNot more than one sign per property may incorporate an EMC.\n    b.\tEMCs shall appear to be incorporated into the face of a permanent sign that includes text or graphics that are not part of the EMC.\n    c.\tEMCs shall not have a pixel pitch that is greater than 20 mm.\n    d.\tNot more than 40 percent of a permitted sign may be occupied by digital electronic message centers.\n  2.\tOperations.\n    a.\tThe displayed message shall not change more frequently than once per eight seconds.\n    b.\tThe sign shall contain static messages only, changed only through dissolve or fade transitions that do not exceed one second.\n    c.\tThe sign shall have automatic dimmer software or solar sensors to control brightness for nighttime viewing and variations in daytime ambient light. The intensity of the light source shall not produce glare, the effect of which constitutes a traffic hazard or is otherwise detrimental to the public health, safety or welfare."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

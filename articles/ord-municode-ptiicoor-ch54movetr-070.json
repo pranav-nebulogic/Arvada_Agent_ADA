@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fare",
+      "evasion",
+      "person",
+      "commits",
+      "theft",
+      "public",
+      "transportation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-291"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-291. - Fare evasion.",
+    "summary": "(a)\nA person commits theft of public transportation services by fare evasion if the person\n               occupies, rides in, or uses a public transportation vehicle without first having paid\n               the applicable fare or having in their possession and producing upon demand a valid\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-291. - Fare evasion.",
+        "a": "(a)\nA person commits theft of public transportation services by fare evasion if the person\n               occupies, rides in, or uses a public transportation vehicle without first having paid\n               the applicable fare or having in their possession and producing upon demand a valid\n               transit pass.\n(b)\nNo person shall occupy, ride in, or use a public transportation vehicle without paying\n               the applicable fare at the time of boarding the public transportation vehicle or without\n               having possession of proof of prior fare payment. A person shall present proof of\n               prior fare payment upon demand of a transit service officer, peace officer, or any\n               other employee or agent of a public transportation entity.\n(c)\nFailure to present proof of prior fare payment upon demand shall constitute prima\n               facie evidence of a violation of subsection (1) of this section.\n(d)\nAs used in this section, unless the context otherwise requires:\n(1)\nProof of prior fare payment means:\n(i)\nA valid transit pass issued by a public transportation entity valid for the day and\n               time of use;\n(ii)\nA receipt showing payment of the applicable fare for use of a public transportation\n               vehicle during the day and time specified in the receipt; or\n(iii)\nA prepaid ticket or series of tickets showing cancellation by a public transportation\n               entity used within the day and time specified in the ticket.\n(2)\nPublic transportation entity\nmeans a mass transit district, mass transit authority or any other public entity\n               authorized under the laws of this state to provide mass transportation services to\n               the general public.\n(3)\nPublic transportation vehicle\nmeans a bus, train, light rail or commuter rail vehicle or any other mode of transportation\n               used by a public transportation entity to provide transportation services to the general\n               public.\n(4)\nTransit pass\nmeans any pass, coupon, transfer, card, identification, token, ticket or other document,\n               issued by a public transportation entity or issued pursuant to an agreement with a\n               public transportation entity, used to obtain public transit.\n(e)\nA violation of this section is a non-criminal traffic infraction punishable by a fine\n               not to exceed the limits established in\nsection 1-5\nof this Code.\n(\nOrd. No. 4574, § 1, 10-17-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-291"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "occupancy",
+      "prohibited",
+      "connections",
+      "required",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-33"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-33. - Occupancy prohibited and connections required.",
+    "summary": "(a)\nIt is unlawful for any person to use or occupy any building in the city unless such\n               building has a system of pipes to provide water and to remove sewage as required by\n               the uniform building and plumbing codes of the city.\n(b)\nIt is unlawful for any person to use, exc…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-33. - Occupancy prohibited and connections required.",
+        "a": "(a)\nIt is unlawful for any person to use or occupy any building in the city unless such\n               building has a system of pipes to provide water and to remove sewage as required by\n               the uniform building and plumbing codes of the city.\n(b)\nIt is unlawful for any person to use, excavate, connect to, open, alter, or otherwise\n               disturb any city water or sewer main.\n(c)\nEach building to which water or sewer service, or both, are required shall have its\n               own connected water and sewer services, except as otherwise determined by the city\n               or as provided in subsections (d) and (e) of this section.\n(d)\nExcept as provided in subsection (e) of this section or in\nsection 102-75\n(a), nonresidential facilities that are located on the same lot, and are owned by\n               only one party may be served through a single water tap, service line and meter, and\n               a single sewer tap and service line. In the event the lot is subdivided and the facilities\n               are no longer located within the same lot, separate water and sewer connections shall\n               be made to each facility. Additional system development charges may be required in\n               accordance with\nsection 102-64\n.\n(e)\nWhen the construction of a building takes place in phases, the size of the existing\n               water and sewer taps and respective service lines shall be reevaluated after the initial\n               phase of construction. Before construction of each phase that is undertaken after\n               the initial phase, the property owner shall submit to the city calculations from which\n               the proper tap and service line sizes can be determined. If the city determines that\n               a larger tap or service line, or both, are required by virtue of the new phase of\n               construction, the computation of any additional system development charges due to\n               the city shall be done in accordance with\nsection 102-64\n.\n(Code 1981, § 33-3; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2855, § 1, 10-21-1991;\n               Ord. No. 2931, § 2, 10-19-1992; Ord. No. 3403, § 2, 10-20-1997; Ord. No. 4819, § 4,\n               10-17-2022, eff. 7-1-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

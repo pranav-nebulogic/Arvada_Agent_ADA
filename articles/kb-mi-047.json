@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "application",
+      "development",
+      "fees",
+      "park",
+      "dedications",
+      "index",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/361/Application-and-Development-Fees"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-047",
+    "spreadsheet_id": "MI-047",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Application and Development Fees",
+    "summary": "New residential units in the City are required to pay park and school land dedication fees, calculated based on development acreage and density, along with annual updates to park development fees. Additionally, new water or sewer taps incur associated tap fees, which are also updated annually. For detailed fee schedules, residents can access the 2026 Land Use Development Fees and Building Fee Schedule PDFs.",
+    "body": "## Park & School Land Dedication Fees\n\nNew residential units in the City are subject to park and trail dedications and fees-in-lieu, park development fees, and school land dedications and fees-in-lieu. Park and school land dedications or fees-in-lieu are calculated using a formula based on the acreage and density of the development. Park development fees are updated annually based on changes to the Consumer Price Index, the Construction Cost Index, and the Building Cost Index for the Denver metro region. To view the Park and School dedication formulas and the current park development fee, please download [Park and School Land Dedication Fees 2024 (PDF)](/DocumentCenter/View/3505).\n\n## Wet Utility Tap Fees\n\nAny new water or sewer taps have an associated tap fee, which can be found on the [Water and Sewer page](https://www.arvadaco.gov/460/Utilities-Rates-Fees) under Resources. Tap fees are updated annually.\n\n## Fee Schedules (2026)\n\n- [2026 Land Use Development Fees (PDF)](/DocumentCenter/View/6740)\n- [2026 Building Fee Schedule (PDF)](/DocumentCenter/View/6741)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

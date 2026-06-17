@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "statute",
+      "limitations",
+      "liability",
+      "total",
+      "assessed",
+      "code",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/377/Statute-of-Limitations"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-518",
+    "spreadsheet_id": "MI-518",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Statute of Limitations",
+    "summary": "The Arvada Municipal Code outlines the statute of limitations for tax-related matters, including assessments, refunds, and liens. Taxpayers must file claims for refunds within specified timeframes, such as 60 days for disputed liabilities and 30 days for overpayment notices. Additionally, assessments and liens must be issued within three years of the tax due date, while the audit period can extend these limitations under certain conditions.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) defines the permissible periods allowed by the City for the following:\n\n## Returns\n\nWhen a taxpayer fails or refuses to file a return, the total tax liability may be assessed and collected at any time. In the case of a false or fraudulent filed return, the total tax liability may be assessed, or proceedings for the collection of such total tax liability may be begun at any time.\n\n## Assessments\n\nNo notice of assessment shall be issued more than three years after:\n\n- The due date of such total tax liability when returns have been filed\n- For a construction project which requires a city building permit, the date the final certificate of occupancy was issued for such a project\n- For a construction project not requiring a city building permit, the date of completion of the project is used\n\n## Refunds\n\nAny claim for a refund for disputed total tax liability shall be submitted to the city on or before 60 days from the date of such purchase.\n\nAny claim for a refund resulting from a notice of overpayment shall be submitted to the city on or before 30 days after the date of such notice of overpayment.\n\nAny other claim for refund shall be filed on or before three years after the date the such overpayment was paid to the city.\n\n## Liens\n\nNo notice of lien shall be issued more than three years after the due date of the total tax liability. If the limitation period is extended, a notice of lien may be filed on or before 30 days from the date of the notice of assessment issued for such an extended period.\n\n## Protests\n\nNo protest of a Notice of Assessment or Denial of a Claim for Refund shall be valid if submitted to the finance director in other than written form or after the period allowed:\n\n- No later than 30 calendar days after the date of the Notice of Assessment or Denial of a Claim for Refund\n\n## Audits\n\nThe period of limitation may be extended before its expiration.\n\nThe taxpayer and the finance director may agree in writing to extend the period.\n\nIf the city provides written notice to the taxpayer prior to the expiration of the period of limitation that the latter's records will be audited pursuant to this article, such period of limitation shall be extended for the audit period until 30 days after the date of the notice of assessment or notice of overpayment issued as a result of such audit. The term \"audit period\" includes all reporting periods with due dates which fall within the 36-month period preceding the date of the notice of audit, or if a city building permit is required, the period between the issuance of such a building permit and the issuance of a final certificate of occupancy.\n\nThe performance of an audit does not constitute a statute of limitations or preclude additional audits of the same period within the parameters of this chapter.\n\n## Example\n\n- Dan's Tile Company has never filed a use tax return with the City. Dan has had several jobs in Arvada beginning in 2015. When selected for audit, Dan's material purchase records may be examined back to January 1, 2015. The statute of limitations will not protect Dan since they failed to file a return and therefore use taxes due for periods after January 1, 2015, which may be assessed at any time.\n- XYZ Wool Distributing has been selected for an audit. When contacted by telephone, XYZ states that due to scheduling conflicts, they could not allow an auditor into their place of business for at least three months. The delay of the audit will not affect the audit period as was stated in the Notice of Audit.\n- A Lakewood customer purchased construction materials from an Arvada Hardware Store for their residence that is being built in Lakewood. The purchaser did not provide their Lakewood Building Permit at the time of purchase and is now requesting a refund from the City of Arvada. The purchaser only has 60 days from the purchase date to submit a Claim for a Refund.\n- ABC Retailer is an Arvada-licensed business. ABC Retailer discovered an accounting error in filing their 2018 returns and has requested a refund after filing amended returns for those periods. ABC Retailer will need to provide supporting documentation with the Claim for Refund prior to the refund being processed. The Claim for Refund and documentation will need to be received on or before 3 years from when the taxes were paid.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

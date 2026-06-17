@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "leaf",
+      "recycling",
+      "drop",
+      "events",
+      "available",
+      "block",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/718/Leaf-Recycling"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-294",
+    "spreadsheet_id": "MI-294",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Leaf Recycling Drop-off",
+    "summary": "Arvada residents can participate in a leaf recycling drop-off event from November 7 to 21, 2026, at Stenger Sports Complex, open Monday through Saturday from 9 am to 2 pm. Participants must provide proof of residency and can only drop off leaves, as branches and other debris will not be accepted. Additionally, residents have options for leaf pick-up through the city's Recycling & Trash Program, including purchasing extra trash carts or tags for additional bags.",
+    "body": "All Arvada Residents are invited to participate in community-wide drop off events. These events are included in the minimum services that Arvada customers invest in as part of the City's Waste and Recycling Program. In an effort to keep leaves out of the landfill and off of City streets where they can block storm drains, residential leaf recycling is available.\n\n## 2026 drop-off details\n\n- **Dates:**November 7 - 21 (Monday through Saturday, closed Sundays)\n- **Time:**9 am to 2 pm\n- **Location:**Stenger Sports Complex - 11200 W 58th Avenue, Arvada, CO 80002\n\n### Know before you go\n\n- **Bring proof of residency.**This event is open to City of Arvada residents. You must provide proof of residency either with a water utility bill or a drivers license with your current address.\n- **Leaves only;** no branches, woody brush, or tree stumps will be accepted.\n- No commercial businesses, please.\n- **Plan to empty your own leaf bags.**All leaves must be emptied on the pile. No full bags, even compostable bags, will be accepted.\n\n### Drop-off map\n\n[![traffic enters Stenger off of 58th Avenue and exits to Oak Street](/ImageRepository/Document?documentId=2399)](/DocumentCenter/View/4533/2024-Leaf-Drop-Map)\n\n\\*Click map to enlarge.\n\n## Leaf pick-up options\n\nIf you subscribe to the City's [Recycling & Trash Program](/715/Trash-and-Recycling) and would prefer to have extra bags of leaves picked up from your residence there are several options available:\n\n1. **Purchase an additional trash cart**for a low monthly rate. Please call 720-898-7575 for more information.\n2. **Purchase tags for extra trash bags** that don't fit in your trash can. Tags can be purchased at City Hall (8101 Ralston Road) or call 720-898-7070 for more information. Change cannot be provided. Please bring the exact amount in cash or pay by check.\n3. **Rent a compost roll-off dumpster**for larger leaf quantities. Call 720-590-4334 for details.\n\nVisit the [Recycling & Trash Program page](/715) for a list of fees for additional carts and bag tags.\n\n## City Code caution\n\n![Pile of leaves on the street](/ImageRepository/Document?documentId=1013)Please do **not** sweep or blow leaves into the street.\n\nIt is against [municipal code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL_ARTIINGE_DIV1GE_S94-6DEETRUET) to sweep/blow your leaves (or any other debris) into the streets. Not only do they find their way into our storm drains, but **piles of leaves can cause damage to our street sweepers.** Often times, trash and damaging debris end up hidden in leaf piles, and when a sweeper is damaged, the amount of sweeping we can achieve is reduced. Thank you in advance!\n\nLeaf piles such as this can damage our street sweepers and impair our ability to keep our streets clean.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

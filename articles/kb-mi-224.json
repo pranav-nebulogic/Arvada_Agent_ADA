@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "festivals",
+      "arts",
+      "culture",
+      "events",
+      "community",
+      "many",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/487/Festivals-Arts-and-Culture"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-224",
+    "spreadsheet_id": "MI-224",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Festivals, Arts, and Culture",
+    "summary": "Arvada hosts a variety of community festivals and events, including WinterFest, the Arvada Kite Festival, and Arvada Days, organized by the Arvada Festivals Commission. The Arvada Arts and Culture Commission promotes local arts and cultural initiatives, while the Arvada Center for the Arts and Humanities provides year-round performances, exhibitions, and classes in various artistic disciplines.",
+    "body": "![Young Asian female in ceremonial clothing, banging on a drum.](/ImageRepository/Document?documentId=5009)\n\nArvada Winterfest\n\nArvada offers many opportunities for residents and visitors in the area of art, culture, humanities, and community events.\n\n## Festivals\n\nArvada is home to many wonderful community festivals and events that celebrate culture, food, and fun. The [Arvada Festivals Commission](/250) is appointed by the Arvada City Council and supports the following [festivals and events](/493) each year: WinterFest, Arvada Kite Festival, High Tea for Seniors, Movies Around Town, Arvada On Tap, and Arvada Days.\n\nVisit [ArvadaFestivals.com](//ArvadaFestivals.com) for the most up-to-date information on events and festivals run by the City of Arvada.\n\nThe [Olde Town Arvada Business Improvement District](https://www.oldetownarvada.org/) also hosts several events each year, including the St. Patrick's Day Festival, Trick or Treat Street, the Olde Town Tree Lighting and more.\n\nThere are always fun and exciting things to do in our community!\n\n## Arts and Culture\n\nThe [Arvada Arts and Culture Commission](/488) (AACC) consists of nine volunteer members from the Arvada community. Members are appointed by the Arvada City Council. The purpose of the Commission is to:\n\n- Make places that deepen community attachment\n- Invest in the future of arts and culture\n- Create a diversity of arts experiences for all\n- Make a home for artists and the creative industry\n\n### Arvada Center for the Arts and Humanities\n\nLooking for great theater, music, or art? Arvada boasts the nationally-renowned [Arvada Center for the Arts and Humanities](//arvadacenter.org), which offers year-round concerts and performances in theater and dance; art exhibitions; a history museum; and classes in ceramics, dance, writing, acting, and the visual and musical arts.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

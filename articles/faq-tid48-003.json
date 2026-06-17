@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-48-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "isn",
+      "dredging",
+      "main",
+      "goal",
+      "project",
+      "anymore",
+      "very",
+      "disruptive",
+      "Public Improvement Projects - Lake Arbor Restoration"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=48"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/why-isn-t-dredging-the-main-goal-of-the-project-anymore",
+    "faq_category_name": "Public Improvement Projects - Lake Arbor Restoration"
+  },
+  "content": {
+    "title": "Why isn’t dredging the main goal of the project anymore?",
+    "summary": "Dredging is a very disruptive and costly process. This would have required a full drain and refill of the lake extending the length and cost of the project with no guarantee that dredging would solve the odor problem. The City could not guarantee the ability to refill the lake completely after drain…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Why isn’t dredging the main goal of the project anymore?",
+        "a": "Dredging is a very disruptive and costly process. This would have required a full drain and refill of the lake extending the length and cost of the project with no guarantee that dredging would solve the odor problem. The City could not guarantee the ability to refill the lake completely after draining. This could result in the lake remaining dry for a long period of time. Shoreline stabilization can be completed without dredging and is a higher priority due to the safety considerations near the trails. The process being used will effectively stabilize the shores and help return Lake Arbor to the original state in which it was created. Further dredging of the lake will still be considered in a future phase after monitoring the shoreline improvements. This would be completed in a manner that is less disruptive and would not require draining the lake."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

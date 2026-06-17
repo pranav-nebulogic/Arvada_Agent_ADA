@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "businesses",
+      "footnotes",
+      "cross",
+      "reference",
+      "alcoholic",
+      "beverages",
+      "amusements"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 98-61"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nAlcoholic beverages, ch. 6; amusements and entertainment, ch. 10; emergency services,\n               ch. 34; taxation, ch. 98; sales and use tax, § 98-61 et seq.; utilities, ch. 102; franchises, app. H; standard commercial zoning districts: intent and distri…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 22 - BUSINESSES",
+        "a": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nAlcoholic beverages, ch. 6; amusements and entertainment, ch. 10; emergency services,\n               ch. 34; taxation, ch. 98; sales and use tax, § 98-61 et seq.; utilities, ch. 102; franchises, app. H; standard commercial zoning districts: intent and district-specific\n               standards, pt. III, § 4.6 et seq.; planned unit development (PUD) zoning districts: intent and district-specific\n               standards, pt. III, § 4.10 et seq.\nState Law reference—\nPower to regulate businesses, C.R.S. § 31-15-501."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 98-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

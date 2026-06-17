@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "report",
+      "minor",
+      "traffic",
+      "crash",
+      "colorado",
+      "patrol",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/556/Report-a-Minor-Traffic-Crash"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-465",
+    "spreadsheet_id": "MI-465",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Report a Minor Traffic Crash",
+    "summary": "To report a minor traffic crash in Arvada, citizens must use the Colorado State Patrol's online system within 30 days, as the Arvada Police Department does not accept walk-in crash reports. This reporting method is applicable in specific situations, such as during an Accident Alert or for hit-and-run incidents on private property.",
+    "body": "Do you need to report a minor traffic crash in Arvada? You can do so using the Colorado State Patrol's online system. The Arvada Police Department does not take over-the-counter crash reports on a walk-in basis. Citizens involved in a minor crash in the City of Arvada should visit [Colorado State Patrol Site](https://www.colorado.gov/pacific/csp/crash-information) within 30 days to file a crash report.\n\n**Use the CSP Website:**\n\n- if an Accident Alert was in effect at the time the crash occurred;\n- if a hit and run accident occurs on private property and there is no suspect information;\n- if drivers have exchanged information and left the scene; or,\n- if minor crash occurred on private property.\n\nVisit the [Colorado State Patrol Site](https://www.colorado.gov/pacific/csp/crash-information).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

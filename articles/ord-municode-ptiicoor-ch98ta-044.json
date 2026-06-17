@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "inception",
+      "business",
+      "initial",
+      "use",
+      "tax",
+      "sale",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-95"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-95. - Inception of business; initial use tax or sale of business.",
+    "summary": "Any person who purchases or establishes a business inside the city shall file an initial\n               use tax return.\n(1)\nExisting businesses.\nUse tax shall be due on tangible personal property, except inventory held for lease,\n                  rental or resale, which is acquired with the purchas…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-95. - Inception of business; initial use tax or sale of business.",
+        "a": "Any person who purchases or establishes a business inside the city shall file an initial\n               use tax return.\n(1)\nExisting businesses.\nUse tax shall be due on tangible personal property, except inventory held for lease,\n                  rental or resale, which is acquired with the purchase of a business. The tax shall\n                  be based on the price of such property as recorded in the bill of sale or agreement\n                  and constituting a part of the total transaction at the time of the sale or transfer,\n                  provided the valuation is as great or greater than the fair market value of such property.\n                  Where the transfer of ownership is a lump sum transaction, the use tax shall be due\n                  on the book value established by the purchaser for income tax depreciation purposes,\n                  or fair market value if no determination has been made. When a business is taken over\n                  by other than the most recent seller in return for the assumption of outstanding indebtedness,\n                  the tax shall be paid on the fair market value of all taxable tangible personal property\n                  acquired by the purchaser. Such tax shall be reported on an initial use tax return.\n                  The due date of this initial use tax return shall be the 20th day of the month following\n                  the opening of the business.\n(2)\nNew businesses.\nUse tax shall be due on the price of all tangible personal property, except inventory\n                  held for lease, rental or resale, which is purchased for use inside the city. Such\n                  tax shall be reported on an initial use tax return. The due date of this initial use\n                  tax return shall be the 20th day of the month following the purchase of the business.\n(3)\nNotifying tax and licensing division.\nAny retailer or vendor who shall sell out his business or stock of goods or shall\n                  quit his business shall be required to notify the tax and licensing division in writing\n                  of his intent to quit business and to file a report or return and remit all taxes\n                  due and owing to the city, including those incurred on the sale of the business within\n                  ten days after the date of the sale of the business or stock of goods or quitting\n                  of the business. The purchaser of the business is liable for any unpaid tax due on\n                  sales made by predecessor, including tax on outstanding accounts on which sales tax\n                  has not been remitted. The purchaser is required to withhold a sufficient amount of\n                  the purchase money to cover any taxes due and unpaid until such time the previous\n                  owner can provide proof all such taxes have been paid. Action by the city against\n                  the former owner shall not prohibit the exercise by the city of the tax lien provisions\n                  stated in this article.\n(Code 1981, § 31-64; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-95"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

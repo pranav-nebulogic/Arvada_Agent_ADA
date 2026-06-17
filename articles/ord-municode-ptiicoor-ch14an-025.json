@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "dogs",
+      "estrus",
+      "any",
+      "unspayed",
+      "dog",
+      "stage",
+      "heat"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-56"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-56. - Dogs in estrus.",
+    "summary": "Any unspayed dog in the stage of estrus (heat) shall be confined during such time\n               in a house or secure and enclosed building, and said area of enclosure shall be so\n               constructed that no male dog may gain access to the confined animal. When outside\n               the hous…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-56. - Dogs in estrus.",
+        "a": "Any unspayed dog in the stage of estrus (heat) shall be confined during such time\n               in a house or secure and enclosed building, and said area of enclosure shall be so\n               constructed that no male dog may gain access to the confined animal. When outside\n               the house or enclosure for waste elimination, the unspayed dog must be physically\n               restrained by a competent person by the use of a hand-held leash. The animal management\n               officer shall order any unspayed dog that is in the state of estrus and that is not\n               properly confined, or any such dog that is creating a neighborhood nuisance, to be\n               removed to a boarding kennel, to a veterinary hospital, or to the animal shelter.\n               All expenses incurred as a result of the confinement shall be paid by the owner or\n               custodian. Failure to comply with the order of the animal management officer shall\n               be a violation of this chapter, and the unspayed dog will then be impounded as prescribed\n               in this chapter, subject to fines and charges as directed.\n(Code 1981, § 6-35; Ord. No. 3496, § 2, 12-14-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-56"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

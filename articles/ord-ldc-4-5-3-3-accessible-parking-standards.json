@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "accessible",
+      "parking",
+      "standards",
+      "generally",
+      "persons",
+      "disabilities",
+      "provided",
+      "required",
+      "table",
+      "spaces"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-3-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-3. PARKING AND LOADING DESIGN"
+  },
+  "content": {
+    "title": "4-5-3-3. Accessible parking standards.",
+    "summary": "A.\tGenerally. Parking for persons with disabilities shall be provided as required in Table 4-5-2-3, Required Accessible Parking Spaces, or as required by the Americans with Disabilities Act (ADA).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-3-3. Accessible parking standards.",
+        "a": "A.\tGenerally. Parking for persons with disabilities shall be provided as required in Table 4-5-2-3, Required Accessible Parking Spaces, or as required by the Americans with Disabilities Act (ADA). Where provisions of this Section conflict with ADA, ADA shall control unless this Section provides for better access and such requirement is not prohibited by the ADA. Where the ADA provides design standards that are not included in this Section, such design standards shall control.\nB.\tDesign of Accessible Parking Spaces. Required disabled parking spaces shall be:\n  1.\tSituated so that they adjoin an accessible parking access aisle, and such that van-accessible parking spaces adjoin the access aisle on the passenger side of the vehicle;\n  2.\tPaved with asphalt, concrete or other approved material;\n  3.\tDesigned so that slope, measured in any direction does not exceed a one foot rise to a 48-foot run;\n  4.\tDesigned so that whenever there is more than a one-half inch change in the elevation of the surface between an accessible route and the accessible parking space, a ramp is provided within 26 feet, connecting the route to the parking spaces. See Figure 4-5-3-3, Ramp Accessibility.\nC.\tLocation. The location of accessible parking spaces shall be:\n  1.\tAs close as possible to principal accessible entrance(s);\n  2.\tDispersed in a multi-building development or shopping center to ensure easy access, and to minimize the travel distance for the disabled.\nD.\tMarking.\n  1.\tEach accessible parking space shall be identified with a sign that includes:\n    a.\tThe International Symbol of Accessibility Parking Space marking per the MUTCD and ADA standards;\n    b.\tThe phrase \"Accessible Parking\"; and\n    c.\tThe statement \"Van Accessible,\" if the space is a van-accessible parking space.\n  2.\tSigns shall be printed with green lettering and symbols on a white background and shall conform to MUTCD standards.\n  3.\tSigns shall be one foot wide by 18 inches high, and installed at least five feet, but not more than seven feet, above the finished floor (for parking structures) or ground surface (for surface parking), measured to the bottom of the sign.\n  4.\tSigns shall be permanently mounted, with anchor bolts, on a post or on an adjacent structure or wall within ten feet of the disabled parking space, oriented to the center of the front of each handicapped parking space, facing the rear of the space.\n  5.\tThe symbol of accessibility shall be painted on the pavement of each disabled parking space.\nE.\tAccessible Routes. All accessible routes shall serve as emergency exits for disabled individuals and shall be free from obstructions. Required ramps shall be identified with a sign and be made with a permanent material which will provide all-weather access."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

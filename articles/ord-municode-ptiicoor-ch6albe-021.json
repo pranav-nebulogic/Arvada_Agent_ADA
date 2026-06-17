@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "liquor",
+      "licenses",
+      "distance",
+      "restriction",
+      "eliminated",
+      "fact",
+      "building"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-94"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-94. - Liquor licenses; distance restriction eliminated.",
+    "summary": "The fact that the building in which the malt, vinous or spirituous liquor is to be\n               sold is located within 500 feet of any public or parochial school or the principal\n               campus of any college, university or seminary shall not be a basis for the denial\n               of an a…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-94. - Liquor licenses; distance restriction eliminated.",
+        "a": "The fact that the building in which the malt, vinous or spirituous liquor is to be\n               sold is located within 500 feet of any public or parochial school or the principal\n               campus of any college, university or seminary shall not be a basis for the denial\n               of an application for the issuance of any liquor license other than a special event\n               permit subject to Colorado Code of Regulations 1 C.C.R. 203-2 § 47-1006, as amended.\n(\nOrd. No. 4670\n, § 1, 12-17-2018)\nState Law reference—\nDistance requirement, C.R.S. § 44-3-313(1)(d)(III)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-94"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

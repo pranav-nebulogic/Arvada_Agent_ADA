@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "appeal",
+      "administrative",
+      "review",
+      "within",
+      "ten",
+      "days",
+      "hearing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-170"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-170.1. - Appeal of administrative review.",
+    "summary": "(a)\nWithin ten days of the hearing officer's decision, either the employee or the appointing\n               authority may appeal the decision of the hearing officer to the city manager. Such\n               appeal must be in writing and must state the reason or reasons upon which such appeal\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-170.1. - Appeal of administrative review.",
+        "a": "(a)\nWithin ten days of the hearing officer's decision, either the employee or the appointing\n               authority may appeal the decision of the hearing officer to the city manager. Such\n               appeal must be in writing and must state the reason or reasons upon which such appeal\n               is made.\n(b)\nWhen considering an appeal, the city manager or designee may exercise their option\n               to perform any of the following: conduct an in-depth administrative review in accordance\n               with the provisions relating to administrative hearings as set forth in chapter 2\n               of the city code; conduct additional proceedings to supplement the record; or the\n               city manager or designee may read the record and consider the evidence of the administrative\n               review conducted by the hearing officer.\n(c)\nThe city manager or their designee is authorized to decide as follows:\n(1)\nTo uphold the decision of the hearing officer;\n(2)\nTo uphold the disciplinary action imposed by the appointing authority;\n(3)\nTo overrule the disciplinary action imposed by the appointing authority; or\n(4)\nTo impose a different form of discipline upon the employee than the discipline imposed\n               by the appointing authority.\n(d)\nIn the event that the city manager or their designee was the appointing authority\n               in the administration of discipline pursuant to this article, then, and for the purpose\n               of appeal of an administrative review as provided in this section, the city manager\n               may designate a third party either within or outside the city, not otherwise a participant\n               in the disciplinary action imposed or any appeal thereof, to hear the appeal of a\n               decision of the administrative hearing officer. The city manager's designation shall\n               be made in writing by written memorandum from the city manager to the city clerk.\n               Any person designated to hear an appeal from the decision of an administrative hearing\n               officer pursuant to this article shall be empowered to hear such appeal and render\n               a decision in the same manner as would the city manager.\n(e)\nThe decision of the city manager or their designee is final for the purpose of judicial\n               review.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-170"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

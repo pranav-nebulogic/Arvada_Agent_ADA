@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "eminent",
+      "domain",
+      "authority",
+      "right",
+      "acquire",
+      "any",
+      "property"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-54"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-54. - Eminent domain.",
+    "summary": "(a)\nThe authority has the right to acquire by eminent domain any property, real or personal,\n               which it may deem necessary to carry out the purposes of this article after the adoption\n               by it of a resolution declaring that the acquisition of the property described therein\n …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-54. - Eminent domain.",
+        "a": "(a)\nThe authority has the right to acquire by eminent domain any property, real or personal,\n               which it may deem necessary to carry out the purposes of this article after the adoption\n               by it of a resolution declaring that the acquisition of the property described therein\n               is in the public interest and necessary for public use. The authority may exercise\n               the power of eminent domain pursuant to the provisions of either C.R.S. §§ 38-1-101\n               to 38-1-115, C.R.S. §§ 38-3-101 et seq., 38-5-106 or C.R.S. § 38-6-101 et seq.\n(b)\nProperty already devoted to a public use may be acquired; but no property belonging\n               to the city or to any government may be acquired without its consent, and no property\n               belonging to a public utility corporation may be acquired without the approval of\n               the commission or other officer or tribunal having regulatory power over such corporation.\n(Code 1981, § 14-23; Ord. No. 1248, § 9, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-211."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-54"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,180 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "process",
+    "permit_type": "str_permit",
+    "category": "business",
+    "source_urls": [
+      "https://www.arvadaco.gov/1509/Application-Info"
+    ],
+    "scraped_at": "2026-06-10T11:01:10.352140+00:00",
+    "content_hash": "55c23ed972c504116a749a50543e7c0d06ae3f719f5dcf1f8b4de8d3706b2834",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Short-Term Rental (STR) Permit Application in Arvada, CO",
+    "summary": "To operate a short-term rental in Arvada, you must obtain both a short-term rental permit and a business license. The application requires submission of ownership proof, property diagrams, maintenance plans, inspection forms, insurance proof, and neighborhood notifications.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Prepare Required Materials",
+        "text": "Gather all required documents including proof of property ownership, a detailed property diagram or floor plan, a written property maintenance plan, a completed STR Property Inspection Form signed by a certified home inspector within 30 days prior to application, proof of a valid City of Arvada business license, proof of insurance with at least $1 million liability coverage, and a notarized neighborhood notification letter.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Apply for Business License",
+        "text": "Obtain a valid City of Arvada business license through the City’s online licensing and tax system, MUNIRevs.",
+        "portal_url": "https://www.arvadaco.gov/1509/Application-Info"
+      },
+      {
+        "n": 3,
+        "title": "Submit STR Permit Application",
+        "text": "Apply online via the City's permitting system. Create a public account if you do not already have one. Submit all required documents including the inspection form and proof of neighborhood notification.",
+        "portal_url": "https://www.arvadaco.gov/1509/Application-Info"
+      },
+      {
+        "n": 4,
+        "title": "Neighborhood Notification",
+        "text": "Notify the owner or tenant of each lot sharing a property line with the STR property by first class U.S. mail within 14 days of permit issuance. Submit notarized proof of this notification with your application.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 5,
+        "title": "Application Review",
+        "text": "The City of Arvada will review the completed application for compliance. Reviews typically take 10 business days.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Proof of Ownership",
+        "description": "Copy of recorded deed, notarized letter attesting ownership interest as defined in Arvada Land Development Code section 11-3-3-1, or proof of being a named beneficiary of a trust owning the property.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Property Diagram or Floor Plan",
+        "description": "Diagram showing all floors, room uses, door locations, egress window locations and sizes, fire extinguisher locations, and smoke and carbon monoxide detector locations.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Property Maintenance Plan",
+        "description": "Written plan including lawn mowing, weed removal, snow and ice removal, rubbish and garbage removal, and trash hauling service contact information.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "STR Property Inspection Form",
+        "description": "Form signed by a third-party Certified Home Inspector (ASHI, InterNACHI, or Certified Master Inspector) within 30 days prior to application.",
+        "where_to_get": "Download Property Inspection Form from City website",
+        "example": null
+      },
+      {
+        "name": "City of Arvada Business License",
+        "description": "Valid business license obtained through the City’s online licensing and tax system, MUNIRevs.",
+        "where_to_get": "MUNIRevs online system",
+        "example": null
+      },
+      {
+        "name": "Proof of Insurance",
+        "description": "Liability insurance with at least $1 million coverage for the use of the property as a short-term rental or proof that hosting platform provides this coverage.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Neighborhood Notification Letter",
+        "description": "Letter notifying owners or tenants of adjacent lots, sent by first class U.S. mail within 14 days of permit issuance, with notarized proof of notice submitted.",
+        "where_to_get": "Download Neighborhood Notification letter template from City website",
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "property_ownership_proof",
+        "label": "Proof of Ownership",
+        "description": "Document showing ownership interest in the property as defined by the Arvada Land Development Code.",
+        "example_value": null,
+        "why_needed": "To verify applicant's legal right to operate STR on the property."
+      },
+      {
+        "field_name": "property_diagram",
+        "label": "Property Diagram or Floor Plan",
+        "description": "Diagram showing layout and safety features of the property.",
+        "example_value": null,
+        "why_needed": "To ensure the property meets safety and use requirements."
+      },
+      {
+        "field_name": "maintenance_plan",
+        "label": "Property Maintenance Plan",
+        "description": "Plan for lawn care, snow removal, and trash management.",
+        "example_value": null,
+        "why_needed": "To maintain property standards and neighborhood quality."
+      },
+      {
+        "field_name": "inspection_form",
+        "label": "STR Property Inspection Form",
+        "description": "Inspection form signed by certified home inspector within 30 days prior to application.",
+        "example_value": null,
+        "why_needed": "To confirm property safety and compliance."
+      },
+      {
+        "field_name": "business_license",
+        "label": "City of Arvada Business License",
+        "description": "Valid business license number obtained through MUNIRevs.",
+        "example_value": null,
+        "why_needed": "Required to legally operate a business in Arvada."
+      },
+      {
+        "field_name": "insurance_proof",
+        "label": "Proof of Insurance",
+        "description": "Documentation of liability insurance coverage of at least $1 million.",
+        "example_value": null,
+        "why_needed": "To protect against liability related to STR operations."
+      },
+      {
+        "field_name": "neighborhood_notification_proof",
+        "label": "Neighborhood Notification Proof",
+        "description": "Notarized proof that neighbors were notified by mail within 14 days of permit issuance.",
+        "example_value": null,
+        "why_needed": "To ensure neighbors are informed of STR operations."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Short-Term Rental Permit Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.business.str_permit",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "10 business days",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "City of Arvada Business Licensing",
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [
+      "Section 11-3-3-1 of Arvada Land Development Code"
+    ],
+    "related_permit_types": [
+      "Business License"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2921
+}

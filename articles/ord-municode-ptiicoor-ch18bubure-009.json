@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fees",
+      "payment",
+      "permit",
+      "shall",
+      "valid",
+      "until",
+      "prescribed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-42"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-42. - Fees.",
+    "summary": "(a)\nPayment of fees.\nA permit shall not be valid until the fees prescribed by law have been paid, nor\n               shall an amendment to a permit be released until the additional fee, if any, has been\n               paid. If for any reason the fees for a permit, whether check or credit card, do no…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-42. - Fees.",
+        "a": "(a)\nPayment of fees.\nA permit shall not be valid until the fees prescribed by law have been paid, nor\n               shall an amendment to a permit be released until the additional fee, if any, has been\n               paid. If for any reason the fees for a permit, whether check or credit card, do not\n               clear the bank or other financial institution, the permit becomes null and void.\nException: The government of the United States of America, the State of Colorado and\n               its political subdivisions, the city, and all agencies and departments thereof, shall\n               be exempt from the payment of fees for work performed on buildings or structures owned\n               wholly by such agencies or departments and devoted exclusively to governmental use.\n(b)\nSchedule of permit fees.\nA fee set in accordance with the administrative fee schedule established by this\n               jurisdiction shall be paid for any permit required by or related to this Code, or\n               for any other service or application as noted in this Code.\n(c)\nCombination permit fees.\nWhen a combination permit is issued, the permit fee charged to the general contractor\n               will generally include the fees due from other subcontractor's fees associated with\n               that permit.\n(d)\nBuilding permit valuations.\nThe determination of value or valuation under the provisions of this chapter shall\n               be based on the actual contract value or by the building valuation table as included\n               in the administrative fee schedule established by this jurisdiction, whichever is\n               higher. The valuation specified above shall be based on the cost figures per square\n               foot shown in the most recent Building Valuation Data Chart published by the International\n               Code Council. The cost figures from the Building Valuation Data shall be revised each\n               year by applying the City Cost Index for Denver as shown in the most recent RSMeans\n               Data. The new cost data will become effective January 1 of each year. If an applicant\n               provides actual documentation of contract cost and those costs are more or less than\n               those calculated by the building valuation data table, adjustments to the building\n               permit and use tax fees may be made if an audit is requested. Audits shall be handled\n               pursuant to\nchapter 98\n. The value to be used in computing the building permit and building plan review fees\n               shall be the total value of all construction work for which the permit is issued as\n               well as all finish work, painting, roofing, electrical, plumbing, heating, air conditioning,\n               elevators, fire extinguishing systems and any other permanent equipment.\n(e)\nWork commencing before permit issuance.\nAny person who commences any work on a building, structure, electrical, gas, mechanical\n               or plumbing system before obtaining the necessary permits shall be subject to an investigation\n               fee set in accordance with the administrative fee schedule of this jurisdiction, in\n               addition to the required permit fees.\nException: This provision shall not apply to emergency work when it can be demonstrated\n               to the satisfaction of the building official that such work was urgently necessary\n               and that it was not practical or possible to obtain a permit prior to the commencement\n               of such work. In all such cases, any person performing emergency work, including equipment\n               replacement or repair, shall notify the building inspection division by telephone\n               or facsimile of the commencement of the work before the end of the next working business\n               day, and shall submit to the building inspection division a permit application within\n               one week of the commencement of the work. Any unreasonable delay in obtaining such\n               permit shall result in the assessment of an investigation fee, in addition to the\n               required permit fees.\n(f)\nRelated fees.\nThe payment of the fee for the construction, alteration, removal, or demolition for\n               work done in connection to or concurrently with the work authorized by a building\n               permit shall not relieve the applicant or holder of the permit from the payment of\n               other fees that are prescribed by law.\n(g)\nPlan review fees.\nWhen submittal documents are required, a plan review fee shall be paid at the time\n               of submitting the submittal documents for plan review. Said plan review fee shall\n               be assessed in accordance with the administrative fee schedule established by this\n               jurisdiction.\n(h)\nReinspection fees.\nWhen a reinspection is called for under this Code, or is necessary in the opinion\n               of the building official, the reinspection shall not be performed until a reinspection\n               fee, assessed in accordance with the administrative fee schedule established by this\n               jurisdiction, is paid. The reinspection fee may be waived for good cause shown by\n               the licensee and at the discretion of the building official.\n(i)\nRefunds.\nThe building official is authorized to establish a refund policy.\n(Ord. No.\n4738\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-42"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-20-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "food_truck_permit",
+    "category": "food_trucks",
+    "tags": [
+      "food",
+      "trucks",
+      "allowed",
+      "undeveloped",
+      "property",
+      "unoccupied",
+      "structures",
+      "unpaved",
+      "Food Trucks"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=20"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/where-are-food-trucks-not-allowed",
+    "faq_category_name": "Food Trucks"
+  },
+  "content": {
+    "title": "Where are food trucks not allowed?",
+    "summary": "On undeveloped property with unoccupied structures or unpaved surfaces In any location that would obstruct the visibility of motorists In any public park without a special event permit In any location that would obstruct parking lot circulation or access to a public street, alley or sidewalk",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Where are food trucks not allowed?",
+        "a": "On undeveloped property with unoccupied structures or unpaved surfaces In any location that would obstruct the visibility of motorists In any public park without a special event permit In any location that would obstruct parking lot circulation or access to a public street, alley or sidewalk"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

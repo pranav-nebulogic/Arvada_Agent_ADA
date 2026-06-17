@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "additional",
+      "remedies",
+      "authority",
+      "power",
+      "trust",
+      "indenture",
+      "mortgage"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-66"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-66. - Additional remedies.",
+    "summary": "The authority has the power, by its trust indenture, mortgage, lease or other contract,\n               to confer upon any obligee holding or representing a specified amount in bonds, lease\n               or other obligations the right, upon the happening of any event of default as defined\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-66. - Additional remedies.",
+        "a": "The authority has the power, by its trust indenture, mortgage, lease or other contract,\n               to confer upon any obligee holding or representing a specified amount in bonds, lease\n               or other obligations the right, upon the happening of any event of default as defined\n               in such instrument by suit, action or proceeding in any court of competent jurisdiction,\n               to:\n(1)\nObtain the appointment of a receiver of any project of the authority or any part thereof.\n                  If such receiver is appointed, he may enter and take possession of such project or\n                  any part thereof and operate and maintain the same, and collect and receive all fees,\n                  rents, revenues or other charges thereafter arising therefrom in the same manner as\n                  the authority itself might do, and to keep such moneys in a separate account and apply\n                  the same in accordance with the obligations of the authority as the court shall direct.\n(2)\nRequire the authority and the commissioners thereof to account as if they were the\n                  trustees of an express trust.\n(Code 1981, § 14-35; Ord. No. 1248, § 17, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-219."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-66"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

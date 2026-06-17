@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "free",
+      "sales",
+      "classes",
+      "requirements",
+      "account",
+      "afterwards",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1193/Free-Sales-and-Use-Tax-Classes"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-235",
+    "spreadsheet_id": "MI-235",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Free Sales and Use Tax Classes",
+    "summary": "The Revenue staff is offering free monthly classes on Sales and Use Tax, covering topics such as licensing, tax forms, record-keeping, and audits. Classes are held on the second Thursday of each month from 12 p.m. to 1 p.m. in the Finance Conference room at 8001 Ralston Road, with opportunities for one-on-one assistance for specific tax-related questions.",
+    "body": "The Revenue staff invites you to attend a free class on collecting and reporting Sales and Use Tax.\n\n## Tax topics include\n\n- Licensing requirements, tax forms, and payment options\n- What and when to tax or not tax items\n- Record-keeping tips\n- What is use tax and how it applies to your business\n- What happens when your account is delinquent\n- Refund requirements\n- What to expect from an audit\n\nBring along your specific tax-related questions, as there will be time during and afterwards for  one-on-one assistance for those who may need it.\n\n**Second Thursdays monthly, 12 p.m. to 1 p.m. in the Finance Conference room, located on the 1st floor of the Annex (east of City Hall), 8001 Ralston Road. 720-898-7100.**",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

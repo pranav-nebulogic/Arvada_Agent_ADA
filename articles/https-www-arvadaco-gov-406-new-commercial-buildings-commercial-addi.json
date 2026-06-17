@@ -1,0 +1,279 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_commercial",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/406/New-Commercial-Buildings-Commercial-Addi"
+    ],
+    "scraped_at": "2026-06-10T10:55:38.363799+00:00",
+    "content_hash": "8e359e5a04da1363ad1a954d6d6f250bd5ac70327e7841fd2413a49dcede6429",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "New Commercial Buildings, Commercial Additions & Multi-Family Building Permits",
+    "summary": "This article provides guidance on applying for building permits for new commercial buildings, commercial additions, and multi-family projects in the City of Arvada. It outlines required documents, the application process, review timelines, fees, inspections, and certificate of occupancy requirements.",
+    "eligibility": "Commercial permits are issued to Licensed Contractors. Permits without sub-contractors listed will be placed on hold.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Required Documents and Steps",
+        "text": "Review the list of required documents and steps on the City of Arvada website before beginning the application process.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Create an Account and Apply Online",
+        "text": "Log in to the City of Arvada permitting system, enter the required information, and upload PDF plans and related documents to your application using the SMART License & Permits Application.",
+        "portal_url": "https://arvadapermits.org"
+      },
+      {
+        "n": 3,
+        "title": "Ensure Contractor Licensing and Sub-Contractor Listing",
+        "text": "Make sure you are a licensed contractor and list all sub-contractors on your permit application to avoid delays or holds.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 4,
+        "title": "Submit Complete Application Package",
+        "text": "Submit a complete application package including all required documents. Incomplete packages may not be accepted.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 5,
+        "title": "Plan Review Process",
+        "text": "The City of Arvada staff will review your plans for code compliance. Review timelines vary by project size and type, ranging from 8 to 14 weeks total.",
+        "portal_url": null
+      },
+      {
+        "n": 6,
+        "title": "Pay Fees and Obtain Permit",
+        "text": "Once approved, pay all fees online or in person at the building inspections office. Download and have the permit documents available on site.",
+        "portal_url": "https://arvadapermits.org"
+      },
+      {
+        "n": 7,
+        "title": "Schedule and Pass Required Inspections",
+        "text": "Coordinate inspections throughout construction. Third-party inspectors handle foundation and special inspections; City staff perform other inspections.",
+        "portal_url": null
+      },
+      {
+        "n": 8,
+        "title": "Obtain Certificate of Occupancy",
+        "text": "No space or structure may be occupied until a Certificate of Occupancy is issued after all final inspections and approvals from related departments and districts are obtained.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Plan Set",
+        "description": "Each plan set must be provided individually in a single PDF, stamped by a licensed Colorado engineer or architect. Plans must include a building code summary with design assumptions and pertinent information.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Civil, Landscaping and Grading Plans",
+        "description": "Include detailed civil, landscaping, and grading plans as part of the submission.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Architectural Plans",
+        "description": "Provide architectural plans stamped by a licensed professional.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Structural Plans",
+        "description": "Provide structural plans stamped by a licensed professional.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Mechanical Plans",
+        "description": "Provide mechanical plans stamped by a licensed professional.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Plumbing Plans",
+        "description": "Provide plumbing plans stamped by a licensed professional.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Electrical Plans",
+        "description": "Provide electrical plans stamped by a licensed professional.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "COMCheck Reports",
+        "description": "Submit COMCheck reports for Building Envelope, Mechanical System, and Electrical Lighting.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Plot Plan",
+        "description": "Submit a detailed site plan showing building distances, setbacks, lot coverage, dimensions, and site accessibility elements such as parking, ramps, and walks. The plot plan from the Development Process is accepted.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Soils Report",
+        "description": "If applicable, provide a soils report related to structural design for the project.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Asbestos Abatement Documentation",
+        "description": "If demolition is required, provide proof of compliance with Colorado Department of Public Health asbestos abatement standards.",
+        "where_to_get": "Colorado Department of Public Health and Environment",
+        "example": null
+      },
+      {
+        "name": "Fire Protection Plans",
+        "description": "Submit a separate set of plans to the applicable Fire Department for approval before permit issuance.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Project Specifications",
+        "description": "If available, provide a specification manual in addition to plans.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Exterior Changes Documentation",
+        "description": "Indicate any proposed exterior changes such as parking, lighting, signage, paving, glazing, awnings, mechanical equipment, and landscaping on plans and applications.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "contract_value",
+        "label": "Job Contract Value",
+        "description": "The total contract value of the construction project used to calculate fees.",
+        "example_value": null,
+        "why_needed": "Used to determine applicable permit fees."
+      },
+      {
+        "field_name": "sub_contractors",
+        "label": "Sub-Contractors List",
+        "description": "List of all sub-contractors involved in the project.",
+        "example_value": null,
+        "why_needed": "Permits without sub-contractors listed will be placed on hold."
+      },
+      {
+        "field_name": "project_plans",
+        "label": "Project Plans Upload",
+        "description": "Upload PDF plans including architectural, structural, mechanical, plumbing, electrical, and other required plans.",
+        "example_value": null,
+        "why_needed": "Required for plan review and permit approval."
+      },
+      {
+        "field_name": "plot_plan",
+        "label": "Plot Plan",
+        "description": "Upload detailed site plan showing building and site dimensions and accessibility features.",
+        "example_value": null,
+        "why_needed": "Used to verify compliance with building code and site requirements."
+      },
+      {
+        "field_name": "soils_report",
+        "label": "Soils Report",
+        "description": "Upload soils report if applicable to structural design.",
+        "example_value": null,
+        "why_needed": "Required for structural design verification."
+      },
+      {
+        "field_name": "asbestos_abatement",
+        "label": "Asbestos Abatement Compliance",
+        "description": "Provide documentation of asbestos abatement compliance if demolition is involved.",
+        "example_value": null,
+        "why_needed": "Required for demolition permits."
+      },
+      {
+        "field_name": "exterior_changes",
+        "label": "Exterior Changes",
+        "description": "Indicate any proposed exterior building or site changes.",
+        "example_value": null,
+        "why_needed": "Needed to determine if additional Planning Division reviews are required."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Building Permit Fee (Table 18-1)",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.permit",
+        "notes": null
+      },
+      {
+        "name": "Use Tax",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.use.tax",
+        "notes": null
+      },
+      {
+        "name": "Plan Review Fee",
+        "amount": "65% of Permit Fee",
+        "rate": null,
+        "config_key": "fees.building.plan_review",
+        "notes": null
+      },
+      {
+        "name": "Plumbing",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.plumbing",
+        "notes": null
+      },
+      {
+        "name": "Mechanical",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.mechanical",
+        "notes": null
+      },
+      {
+        "name": "Electric",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.electric",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "8 weeks for 1 to 100 sheets; 14 weeks for 100+ sheets",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [
+      "Table 18-1"
+    ],
+    "related_permit_types": [
+      "plumbing_permit",
+      "mechanical_permit",
+      "electrical_permit",
+      "demolition_permit",
+      "fire_protection_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 4030
+}

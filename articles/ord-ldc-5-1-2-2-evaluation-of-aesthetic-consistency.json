@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "evaluation",
+      "aesthetic",
+      "consistency",
+      "generally",
+      "where",
+      "standards",
+      "division",
+      "supplemental",
+      "residential",
+      "land"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-2-2"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-2. BUILDING AND STRUCTURE DESIGN STANDARDS"
+  },
+  "content": {
+    "title": "5-1-2-2. Evaluation of aesthetic consistency.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-2-2. Evaluation of aesthetic consistency.",
+        "a": "A.\tGenerally. Where the standards of Division 5-1-5, Supplemental Standards for Residential Land Uses (Except Multifamily), or Division 5-1-6, Supplemental Standards for Nonresidential and Multifamily Land Uses, require aesthetic consistency, aesthetic consistency shall be evaluated in accordance with the standards of this Section.\nB.\tRoof Pitch and Form. As to roof pitch, \"consistency\" means a roof pitch within 1:12 of the slope of the primary roof structure of the principal building.\nC.\tRoofing or Cladding Materials. As to roofing and cladding materials, \"consistency\" means a material that is not obviously different in terms of texture or color from a material used for the same purpose on the principal building.\nD.\tWindow Styles, Window Orientation, and Doors. As to window styles, window orientation, and doors, \"consistency\" means windows and doors with a design and aspect ratio that is not materially different from windows and doors on the principal building.\nE.\tColor Palette. As to color palette, \"consistency\" means colors that are:\n  1.\tThe same as the principal building;\n  2.\tComplimentary to the predominate color(s) of the principal building;\n  3.\tMonochromatic variants of the primary color(s) of the principal building.\n(Ord. No. 4793, § 4, 3-21-2022; Ord. No. 4905, § 55, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

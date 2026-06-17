@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "objectives",
+      "policies",
+      "basic",
+      "objective",
+      "city",
+      "investment",
+      "procedures"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-232"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-232. - Objectives and policies.",
+    "summary": "The basic objective in the city investment procedures and policies should be to earn\n               the maximum amount of interest with safety on cash funds, while maintaining a reasonable\n               working capital balance. In determining the type of investments, the earnings yield\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-232. - Objectives and policies.",
+        "a": "The basic objective in the city investment procedures and policies should be to earn\n               the maximum amount of interest with safety on cash funds, while maintaining a reasonable\n               working capital balance. In determining the type of investments, the earnings yield\n               and maturity schedule should be the primary considerations with both bank certificates\n               of deposits and United States government obligations compared for this purpose. Deposits\n               in local banking institutions should be distributed among the various banks and savings\n               and loan associations on an equitable basis. Deposit insurance or negotiable securities\n               pledged to an escrow agreement are required on all such deposits pursuant to appropriate\n               statute.\n(Code 1960, § 9-3(a); Code 1981, § 2-10)\nState Law reference—\nDeposits and investments by finance director, C.R.S. § 31-20-303."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-232"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

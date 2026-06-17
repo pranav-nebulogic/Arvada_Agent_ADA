@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-38-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "see",
+      "latest",
+      "data",
+      "about",
+      "homelessness",
+      "colorado",
+      "point",
+      "time",
+      "Homelessness in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=38"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/where-can-i-see-the-latest-data-about-homelessness-in-colora",
+    "faq_category_name": "Homelessness in Arvada"
+  },
+  "content": {
+    "title": "Where can I see the latest data about homelessness in Colorado?",
+    "summary": "The Point-in-Time (PIT) Count is a national survey conducted yearly to get a sense of the extent of homelessness on a given night. The 2026 Point-in-Time Count was conducted in January. It showed that homelessness in Arvada has gone down, from 294 in 2025 to 289 in 2026. This is significant, because…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Where can I see the latest data about homelessness in Colorado?",
+        "a": "The Point-in-Time (PIT) Count is a national survey conducted yearly to get a sense of the extent of homelessness on a given night. The 2026 Point-in-Time Count was conducted in January. It showed that homelessness in Arvada has gone down, from 294 in 2025 to 289 in 2026. This is significant, because it means the number of people who exited homelessness was larger than the number who entered it over the course of the year. Read the 2026 PIT data. The Metro Denver Homelessness Initiative (MDHI) 2025 State of Homelessness report includes information on who is accessing support services, where they are located, how they became homeless, and more. Read the report. The National Low Income Housing Coalition is a group that monitors and advocates for housing affordability. The organization's annual report includes data about what a person would need to earn in income to be able to afford rent in Colorado and across the country. Browse the reports. The Colorado Coalition for the Homeless conducts research and surveys on housing, rent costs, healthcare accessibility, chronic homelessness, elder homelessness, and more. Browse the reports."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "berms",
+      "where",
+      "used",
+      "created",
+      "maintained",
+      "natural",
+      "appearance",
+      "variations",
+      "berm",
+      "ridge"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-7-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-7. ADDITIONAL TECHNICAL REQUIREMENTS"
+  },
+  "content": {
+    "title": "4-6-7-3. Berms.",
+    "summary": "Where used, berms shall be created and maintained to have a natural appearance, with variations in the berm ridge line and in the berm height.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-7-3. Berms.",
+        "a": "Where used, berms shall be created and maintained to have a natural appearance, with variations in the berm ridge line and in the berm height. Berms shall have a maximum slope of 4:1 and shall be planted to prevent erosion with appropriate trees, shrubs, groundcovers, and/or grasses as determined by the Director."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-7-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

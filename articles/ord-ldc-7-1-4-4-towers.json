@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "towers",
+      "generally",
+      "freestanding",
+      "compatible",
+      "surrounding",
+      "area",
+      "meet",
+      "requirements",
+      "section",
+      "applications"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-4-4"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-4. ADDITIONAL STANDARDS BY FACILITY TYPE"
+  },
+  "content": {
+    "title": "7-1-4-4. Towers.",
+    "summary": "A.\tGenerally. Freestanding Towers shall be compatible with the surrounding area and shall meet the requirements of this Section.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-4-4. Towers.",
+        "a": "A.\tGenerally. Freestanding Towers shall be compatible with the surrounding area and shall meet the requirements of this Section. All applications for Towers shall demonstrate that other alternative design options such as Base Stations or ATSs are not viable options as determined by the Director.\nB.\tFinish. Towers shall either maintain a galvanized steel finish or, subject to any applicable FAA standards, be painted a neutral color so as to reduce visual obtrusiveness as determined by the City.\nC.\tScreening. Tower structures should use existing land forms, vegetation, and structures to aid in screening the facility from view or blending in with the surrounding built and natural environment.\nD.\tMonopoles. Monopole support structures shall taper from the base to the tip.\nE.\tEnclosure. All Towers shall be enclosed by security fencing or a wall at least six feet in height, and shall also be equipped with an appropriate anti-climbing device.\nF.\tNo New Towers. No new Towers shall be permitted unless the Applicant demonstrates to the reasonable satisfaction of the City that no existing WCFs can accommodate the needs that the Applicant proposes to address with its Tower application. Evidence submitted to demonstrate that no existing WCF can accommodate these needs may consist of the following:\n  1.\tNo existing WCFs with a suitable height are located within the geographic area required to meet the Applicant's engineering requirements;\n  2.\tExisting WCFs do not have sufficient structural strength to support Applicant's proposed WCF and it is not economically feasible to replace such;\n  3.\tThe proposed WCFs would cause electromagnetic interference with the WCFs on the existing WCFs or the existing WCF would cause interference with the Applicant's proposed WCF; and\n  4.\tThe Applicant demonstrates that there are other limiting factors that render existing WCFs unsuitable for collocation.\nG.\tSetbacks and Separation. The following minimum setbacks and separation requirements shall apply to all Towers except provided, however, that the City may reduce standard setbacks and separation requirements if the Applicant demonstrates that the goals of this Section can be better met by reduced setback and separation requirements that protect the public health and safety, view corridors, or minimize adverse impact. Towers shall meet the greater of the following minimum setbacks from all property lines:\n  1.\tThe setback for a principal building within the applicable zoning;\n  2.\tTwenty-five percent of the facility height, including WCFs and Transmission Equipment;\n  3.\tThe WCF height, including antennas, if the Tower is in or adjacent to a residential district; and\n  4.\tTowers over 90 feet in height shall not be located within one-quarter mile from any existing WCF that is over 90 feet in height, unless the Applicant has shown to the satisfaction of the City that there are no reasonably suitable alternative sites in the required geographic area which can meet the Applicant's needs.\nH.\tRelated Accessory Equipment. Related Accessory Equipment shall be located to be as unobtrusive as possible.\n  1.\tRelated Accessory Equipment such as RRUs/RRHs shall be placed behind parapet walls or within an enclosure such that it will not be visible from the surrounding area.\n  2.\tAny equipment that will be visible shall be screened from view using camouflage/concealment techniques.\n  3.\tAll buildings, shelter, cabinets, and other accessory components shall be grouped as closely as technically possible\n  4.\tThe total footprint coverage area of the WCF's Related Accessory Equipment shall not exceed 350 square feet.\n  5.\tNo Related Accessory Equipment or accessory structure shall exceed 12 feet in height."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-4-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

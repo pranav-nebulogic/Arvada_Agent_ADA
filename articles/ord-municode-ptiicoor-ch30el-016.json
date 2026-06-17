@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "intent",
+      "signature",
+      "requirements",
+      "event",
+      "petition",
+      "circulated"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-32"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-32. - Notice of intent and signature requirements.",
+    "summary": "(a)\nIn the event a petition is to be circulated to commence the initiative, referendum,\n               or Charter amendment process, not less than five petition representatives shall sign\n               and submit to the city clerk a typewritten notice which is comprised of a statement\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-32. - Notice of intent and signature requirements.",
+        "a": "(a)\nIn the event a petition is to be circulated to commence the initiative, referendum,\n               or Charter amendment process, not less than five petition representatives shall sign\n               and submit to the city clerk a typewritten notice which is comprised of a statement\n               indicating an intent to circulate a petition. All petition representatives shall be\n               registered voters of the city. The city clerk shall not process any notice which does\n               not contain the required number of signatures of registered voters nor any other documentation\n               which is not clearly delineated as a notice of intent. The filing of a notice of intent\n               shall be a condition precedent to filing any petition for initiative, referendum,\n               or Charter amendment.\n(b)\nThe city shall provide a notice to the designated representatives on the notice of\n               intent as to the required number of valid signatures for a petition to be deemed sufficient.\n               This notice shall not constitute an approval of the form or contents of the petition.\n(c)\nIn the event a notice of intent is filed for an initiative or referendum, the petition\n               shall be signed by registered electors of the city in a number at least equal to ten\n               percent of the total number of registered electors of the city as of the date the\n               notice of intent is filed with the city clerk.\n(d)\nIn the event a notice of intent is filed for a Charter amendment, the notice shall\n               state whether the petition shall be either a ten percent or a 15 percent petition,\n               but not both. If the Charter amendment is to be submitted to the registered electors\n               at the next regular municipal election, the petition shall be signed by registered\n               electors of the city in a number at least equal to ten percent of the total number\n               of registered electors as of the date of notice of intent is filed with the city clerk.\n               If the Charter amendment is to be submitted to the registered electors at a special\n               election, the petition shall be signed by the registered electors of the city in a\n               number at least equal to 15 percent of the total number of registered electors of\n               the city as of the date of the notice of intent is filed with the city clerk.\n(Code 1981, § 11-23; Ord. No. 3511, § 2, 2-1-1999; Ord. No. 3801, § 2, 4-21-2003;\nOrd. No. 4400, § 8, 8-19-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-32"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

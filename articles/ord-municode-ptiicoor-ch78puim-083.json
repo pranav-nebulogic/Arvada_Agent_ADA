@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "large",
+      "denomination",
+      "bonds",
+      "notwithstanding",
+      "any",
+      "other",
+      "provision"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-84"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-84. - Large denomination bonds.",
+    "summary": "Notwithstanding any other provision of law, the council in any proceedings authorizing\n               bonds hereunder may:\n(1)\nProvide for the initial issuance of one or more bonds (in this section called \"bond\")\n                  aggregating the amount of the entire issue or any portion thereof;\n(2…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-84. - Large denomination bonds.",
+        "a": "Notwithstanding any other provision of law, the council in any proceedings authorizing\n               bonds hereunder may:\n(1)\nProvide for the initial issuance of one or more bonds (in this section called \"bond\")\n                  aggregating the amount of the entire issue or any portion thereof;\n(2)\nMake such provision for installment payments of the principal amount of any such bond\n                  as it may consider desirable;\n(3)\nProvide for the making of any such bond payable to bearer or otherwise, registrable\n                  as to principal or as to both principal and interest, and where interest accruing\n                  thereon is not represented by interest coupons, for the endorsing of payments of interest\n                  on such bond; and\n(4)\nMake provision in any such proceedings for the manner and the circumstances in and\n                  under which any such bond may in the future at the request of the holder thereof be\n                  converted into bonds of smaller denominations, which bonds of smaller denominations\n                  may in turn be either coupon bonds or bonds registrable as to principal or as to both\n                  principal and interest, or either, at the option of the holder.\n(Code 1981, § 27-85; Ord. No. 551, § 29(G), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-84"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

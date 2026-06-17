@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "resources",
+      "effective",
+      "communication",
+      "access",
+      "disability",
+      "people",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/617/ADA-Resources-for-Effective-Communicatio"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-017",
+    "spreadsheet_id": "MI-017",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "ADA Resources for Effective Communication",
+    "summary": "The Americans with Disabilities Act (ADA) ensures that individuals who are deaf, hard of hearing, or have communication difficulties receive effective communication and equal access to government programs and services. This often requires the provision of auxiliary aids or services, such as interpreters, open captioning, or assistive listening devices.",
+    "body": "The Americans with Disabilities Act (ADA) designates people who are deaf and hard of hearing and people who have difficulty with typical communication methods as a protected class. Therefore, they are entitled to effective communication and equal access to all government programs, services, and events (ADA, Title II). Communication with someone who has a disability must be as effective as someone without a disability.\n\nEffective communication access will often mean the provision of an auxiliary aid or service such as an interpreter, open captioning via Communication Access Real-time Translation (CART), or an assistive listening device (ALD) for sound amplification.\n\n- [Deaf, Hard of Hearing, Deafblind, Speech Disabilities Resources](/BusinessDirectoryII.aspx?lngBusinessCategoryID=24)\n- [Braille Services](/BusinessDirectoryII.aspx?lngBusinessCategoryID=25)\n- [Advocacy for People with Disabilities](/BusinessDirectoryII.aspx?lngBusinessCategoryID=26)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

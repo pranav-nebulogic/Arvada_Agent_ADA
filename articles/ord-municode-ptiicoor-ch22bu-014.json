@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "display",
+      "transferability",
+      "change",
+      "ownership",
+      "corporate",
+      "structure",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-60"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-60. - Display; transferability; change of ownership; change of corporate structure.",
+    "summary": "(a)\nAny adult business license issued pursuant to the terms of this chapter shall be prominently\n               displayed at all times upon the premises for which the license was issued.\n(b)\nLicenses issued under this chapter shall not be transferable except as provided herein.\n               Any ch…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-60. - Display; transferability; change of ownership; change of corporate structure.",
+        "a": "(a)\nAny adult business license issued pursuant to the terms of this chapter shall be prominently\n               displayed at all times upon the premises for which the license was issued.\n(b)\nLicenses issued under this chapter shall not be transferable except as provided herein.\n               Any change in the partners of the partnership, or in officers or directors of a corporate\n               licensee, or in the members of a limited liability company holding an adult business\n               license, shall result in termination of the license of such entity, unless such licensee\n               within 30 days of any such change, files a written notice of such change accompanied\n               by the application fee and an investigation fee as required by\nsection 22-55\n. Any such change shall be reported on forms provided by the city clerk and shall\n               require the names of all new members, partners, or officers and directors and any\n               information as required by\nsection 22-53\n. Approval or denial by the city clerk of such transfer shall be upon the same terms\n               as provided for in this chapter for the approval or denial of an adult business license.\n(c)\nWhen a license has been issued to a husband and wife or to general or limited partners,\n               the death of a spouse or partner shall not require the surviving spouse or partner\n               to obtain a new license. All rights and privileges granted under the original license\n               shall continue in full force and effect as to such survivors for the balance of the\n               license.\n(d)\nEach license issued under this chapter is separate and distinct, and no person shall\n               exercise any of the privileges granted under any license other than that which he\n               holds. A separate license shall be issued for each specific business or business entity\n               and each geographical location.\n(Code 1981, § 4-19; Ord. No. 3217, § 2, 9-18-1995; Ord. No. 3810, § 1, 6-16-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-60"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

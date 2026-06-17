@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "gold",
+      "strike",
+      "station",
+      "agricultural",
+      "along",
+      "areas",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/469/Gold-Strike-Station"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-246",
+    "spreadsheet_id": "MI-246",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Gold Strike Station",
+    "summary": "Gold Strike Station, located in East Arvada along the RTD G Line, offers convenient commuting options for the community and is undergoing sidewalk and bike lane improvements on 60th Avenue. The station features a public art installation titled \\\"Gold Pour,\\\" created by artist Aaron T Stephan, which commemorates Colorado's first gold strike with shimmering glass and mosaic tiles.",
+    "body": "The Gold Strike Station, along the RTD G Line, provides an easy commute option for local employees, residents, and visitors. East Arvada, where the Gold Strike Station is located, includes industrial, residential, and agricultural areas. Sidewalk and bike lane improvements on 60th Avenue between Fenton and Wolff have begun.\n\n## Public Art at the Station\n\nThe art chosen for the Gold Strike Station is \"Gold Pour\" and commemorates the first documented gold strike in Colorado at the nearby confluence of Ralston and Clear Creeks. Shimmering gold made of glass and mosaic tiles will appear to pour over the Station wall.\n\n![Gold Pour](/ImageRepository/Document?documentId=536)\n\n## Artist Details\n\nPaying homage to Arvada's history, including Colorado's first gold strike, artist Aaron T Stephan is creating the \"Gold Pour\" work. Explore the [artist's profile on RTD's website](http://www.rtd-fastracks.com/main_473) or [visit AaronTStephan.com](http://aarontstephan.com/) to find out more about Aaron.\n\n## Photo Gallery\n\nIf you're a member of the media needing high-resolution images, please contact Sherry Nalbach at 720-898-7521.\n\n1. ![Gold Strike View of Tracks](/ImageRepository/Document?documentID=533 \"Gold Strike View of Tracks\")\n2. ![Gold Strike View of Platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 \"Gold Strike View of Platform\")\n3. ![Gold Strike Alternate View of Platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 \"Gold Strike Alternate View of Platform\")\n\n1. [1\n   Gold Strike View of Tracks](#targetImage)\n2. [2\n   Gold Strike View of Platform](#targetImage)\n3. [3\n   Gold Strike Alternate View of Platform](#targetImage)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

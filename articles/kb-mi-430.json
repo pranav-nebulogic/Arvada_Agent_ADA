@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "prohibited",
+      "items",
+      "court",
+      "search",
+      "subject",
+      "alone",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/405/Prohibited-Items"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-430",
+    "spreadsheet_id": "MI-430",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Prohibited Items",
+    "summary": "Entering the Municipal Court requires individuals to undergo security screening, including searches of personal items like bags and electronic devices. Prohibited items include weapons, illegal drugs, certain clothing accessories, food, and drinks, all of which may be confiscated, and violators could face criminal charges. Additionally, cell phones and electronic devices must be turned off or set to silent mode while in the courtroom.",
+    "body": "Any person entering the Municipal Court may be subject to search by the Court Security Officers in order to provide a safe and secure environment. Stand-alone and hand-held metal detectors are in use at the courtroom entrance.\n\nHandheld possessions including purses, cell phones and other electronic devices, briefcases, backpacks, packages and other containers are subject to search.\n\nWeapons, illegal drugs and any other type of dangerous or hazardous material or property are strictly prohibited and may be confiscated. Other items, such as some clothing and/or 'fashion' accessories may be restricted as well. These may include certain belts and/or belt buckles, or any clothing (including hats or footwear) or jewelry containing protruding studs, spikes, or chains.\n\nThe following items are prohibited and are considered contraband inside the courthouse. These items are subject to seizure and if any are found in your possession, you may have criminal charges filed against you. For details, please download a copy of the [Administrative Order 2016-11 (PDF)](/DocumentCenter/View/362).\n\n- Any form of firearm, ammunition, or simulated \"toy\" weapon, or any flammable, explosive, or otherwise combustible liquid, powder, aerosol, or gel. (By Court Order this includes firearms carried by legal permit holders.)\n- Any form of knife (of any length or style), razor blades, scissors, large handled combs / hair picks, nail files, ice-picks, screwdrivers, knitting needles, throwing stars, or other sharpened or pointed objects.\n- Any form of a Conducted Energy Device, stun gun, or other device capable of delivering a harmful or incapacitating shock.\n- Any type of aerosol / chemical irritant and / or self-defense sprays, or other hazardous, irritating, or combustible material in any form.\n- Any form of tool or multi-tool, large flashlight, or heavy chain.\n- Any form of restraining device, including a handcuff key.\n- Any form of club, baton or other self-defense or martial arts weapon (please note that walking canes and crutches may be examined to determine if they contain prohibited items such as sword and / or knife blades or containers for other types of contraband).\n- Any food or drink.\n- Any illegal drug or drug paraphernalia. (This includes medical marijuana.)\n\nSecurity has the right to request that you return any item (whether listed above or not) to your vehicle, if upon reasonable grounds the item is considered a security / safety risk.\n\nIn addition:\n\nCell phones and other electronic devices must be turned off or turned to silent mode while in the courtroom.\n\nFood and drinks (this includes water) are not allowed in the courtroom. Items may not be stored in a purse, briefcase, backpack, etc., but must be removed from the courtroom, even if in a sealed or unopened container.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

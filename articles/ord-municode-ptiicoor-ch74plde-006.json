@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "comprehensive",
+      "plan",
+      "generally",
+      "planning",
+      "commission",
+      "shall",
+      "power"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-64"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-64. - Comprehensive plan; generally.",
+    "summary": "The planning commission shall have power to prepare a comprehensive plan as a guide\n               for future zoning and rezoning and shall have lawful and comprehensive studies made\n               in conjunction therewith. Any plan so prepared shall be made with the general purpose\n               o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-64. - Comprehensive plan; generally.",
+        "a": "The planning commission shall have power to prepare a comprehensive plan as a guide\n               for future zoning and rezoning and shall have lawful and comprehensive studies made\n               in conjunction therewith. Any plan so prepared shall be made with the general purpose\n               of carrying out the objective of providing for the planning, and orderly physical\n               development of the city and applicable surrounds.\n(Code 1960, § 2-24; Code 1981, § 25-34; Ord. No. 2498, § 1, 3-7-1988)\nState Law reference—\nComprehensive plan, C.R.S. § 31-23-303."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-64"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

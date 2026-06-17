@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "city",
+      "council",
+      "powers",
+      "respect",
+      "implementation",
+      "conferred",
+      "upon",
+      "arvada",
+      "home",
+      "rule"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-2-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-2. ELECTED AND APPOINTED OFFICIALS"
+  },
+  "content": {
+    "title": "8-1-2-1. City council.",
+    "summary": "A.\tPowers. With respect to the implementation of this LDC, the City Council shall have all powers conferred upon it by the City of Arvada Home Rule Charter and the constitution and laws of the State of Colorado and the United States.\nB.\tDelegations.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-2-1. City council.",
+        "a": "A.\tPowers. With respect to the implementation of this LDC, the City Council shall have all powers conferred upon it by the City of Arvada Home Rule Charter and the constitution and laws of the State of Colorado and the United States.\nB.\tDelegations. The City Council may delegate authority as provided in this LDC, the Arvada City Code, and the City of Arvada Home Rule Charter.\nC.\tAppointments. The City Council shall appoint members of the Planning Commission, Board of Adjustment, and Design Review Advisory Committee, as provided in this Division and the City of Arvada Home Rule Charter.\nD.\tSchedule of Fees, Charges and Expenses.\n  1.\tThe City Council shall establish a schedule of fees, charges, and expenses, and a collection procedure for building permits, appeals, amendments, and other administrative and review matters pertaining to this Code. The schedule of fees shall be available in the Community and Economic Development Department and may be altered or amended only by the City Council.\nE.\tDecisions.\n  1.\tThe City Council shall decide applications or petitions for approval of:\n    a.\tAnnexations;\n    b.\tLDC Text Amendments;\n    c.\tZoning and Rezoning;\n    d.\tFormation of Reimbursement Assessment Districts; and\n    e.\tRight-of-Way Vacations of Existing Rights-of-Way.\n  2.\tThe City Council shall decide applications for approval or major amendment of:\n    a.\tConditional Uses;\n    b.\tPUD Development Plans;\n    c.\tHeight Exceptions;\n    d.\tMajor Subdivision Preliminary Plats;\n    e.\tMajor Modification;\n    f.\tFree-standing Towers;\n    g.\tCreation or Extension of Vested Rights;\n    h.\tRevocable Right-of-Way License Agreements;\n    i.\tVacation of Right-of-Way and Access Easements; and\n    j.\tOut-of-City Utility Requests.\n  3.\tThe City Council shall hear and decide administrative appeals as identified Subsection 8-2-5-2C.\n  4.\tCity Council shall also ratify, as it determines appropriate, the Comprehensive Plan and other plans for the physical development of the City. If the City Council decides to adopt or approve the Comprehensive Plan or other plans for the physical development of the City, then subsequent amendments to said plans shall be subject to City Council adoption or approval."
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

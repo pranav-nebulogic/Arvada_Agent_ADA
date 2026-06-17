@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "outdoor",
+      "storage",
+      "retail",
+      "display",
+      "dining",
+      "areas",
+      "generally",
+      "subject",
+      "standards",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-6-3"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-6. SUPPLEMENT STANDARDS FOR NONRESIDENTIAL AND MULTIFAMILY LAND USE"
+  },
+  "content": {
+    "title": "5-1-6-3. Outdoor storage, retail display, and outdoor dining areas.",
+    "summary": "A.\tGenerally. Outdoor storage, outdoor retail display, and outdoor dining areas are subject to the standards of this Section.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-6-3. Outdoor storage, retail display, and outdoor dining areas.",
+        "a": "A.\tGenerally. Outdoor storage, outdoor retail display, and outdoor dining areas are subject to the standards of this Section. For outdoor storage standards for the CG, IL, and IG zoning districts, refer to Section 4-3-3-5, Outdoor Storage.\nB.\tLocation.\n  1.\tOutdoor storage areas are not allowed in Olde Town zoning district.\n  2.\tOutdoor storage areas shall not be located within 300 feet of a RA or RN zoning district, except within the area south of West 60th Avenue and east of Lamar Street.\n  3.\tOutdoor retail display and outdoor dining areas shall not be located within 100 feet of a RA or RN zoning district.\n  4.\tNo outdoor retail display may be located on a required parking area except for approved temporary outdoor sales.\n  5.\tNo outdoor retail may be located on a required landscape area.\nC.\tSetbacks.\n  1.\tOutdoor Retail Display and Outdoor Dining. Outdoor retail display and outdoor dining areas are allowed and shall be set back as required for the principal building, except that within the Olde Town zoning district, such areas may be extended onto the adjacent sidewalk or plaza if the City approves such extension using a revocable right-of-way license.\n(Ord. No. 4905, § 67, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-6-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

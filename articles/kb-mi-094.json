@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "banks",
+      "federal",
+      "credit",
+      "unions",
+      "sales",
+      "code",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/296/Banks-Federal-Credit-Unions"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-094",
+    "spreadsheet_id": "MI-094",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Banks & Federal Credit Unions",
+    "summary": "The Arvada Municipal Code imposes a sales tax on retail items sold within the city, applicable to national and state banks, trust companies, savings and loans, and state-chartered credit unions, while federally chartered credit unions are exempt for their own use. These institutions must collect and remit sales tax on retail sales, including leases and sales of equipment, while use tax applies if purchases are made from non-licensed vendors. The information provided serves as a layman's summary of the relevant tax laws and should be used alongside the full Arvada tax code for accurate tax liability determination.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax on the price paid for items sold at retail in the City of Arvada (COA). If sales and use tax was not paid to the COA or another municipality, Arvada uses tax is due. The taxable price is the amount of money received or due, including shipping charges.\n\nSales of items to national and state banks, trust companies, savings and loans, and to state-chartered credit unions are taxable. Sales to federally chartered credit unions for their own use are exempt.\n\nWhenever any of these institutions sell anything at retail, they must collect and remit the sales tax. These sales can include\n\n- Leases of equipment and autos\n- Sales of credit card supplies\n- Sales of obsolete equipment\n\n## Example\n\nXYZ Bank, ABC Credit Union (State Chartered), and Uptown Federal Credit Union each buy a new computer system. Then they sell their old computer equipment at retail. If the new equipment is purchased from a licensed Arvada vendor, sales tax is due on the sale to XYZ Bank and ABC Credit Union. The sales tax would not be collected on the sale to Uptown Federal Credit Union. If the purchase is from a non-licensed vendor, XYZ Bank and ABC Credit Union are required to remit use tax. Uptown Federal Credit Union does not need to pay taxes. All entities are required to collect and pay sales tax on the retail sale of their old computer equipment.\n\nNote: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

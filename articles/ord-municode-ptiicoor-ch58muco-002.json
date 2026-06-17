@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "initiation",
+      "prosecution",
+      "contents",
+      "summonses",
+      "complaints",
+      "prosecutions",
+      "municipal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-2"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-2. - Initiation of prosecution; contents of summonses and complaints.",
+    "summary": "(a)\nProsecutions in the municipal court shall be initiated by the:\n(1)\nIssuance of a summons and complaint; or\n(2)\nFiling of a complaint following an arrest; or\n(3)\nFiling of a summons and complaint following arrest.\n(b)\nEvery summons and complaint shall state the name of the defendant, the Code sec…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-2. - Initiation of prosecution; contents of summonses and complaints.",
+        "a": "(a)\nProsecutions in the municipal court shall be initiated by the:\n(1)\nIssuance of a summons and complaint; or\n(2)\nFiling of a complaint following an arrest; or\n(3)\nFiling of a summons and complaint following arrest.\n(b)\nEvery summons and complaint shall state the name of the defendant, the Code section\n               number or ordinance and section number alleged to have been violated, the general\n               type of offense to which each such section or ordinance relates, the date and place\n               of each alleged violation, that the defendant is known or believed to have committed\n               such offense, and that the defendant is required to appear to answer the charges on\n               a date and at a time and place designated in the complaint or summons.\n(c)\nFor purposes of this article, police officers, animal management officers, police\n               service technicians, police department licensing investigators, parking enforcement\n               officers or as designated by the Arvada police chief, building, technical, and zoning\n               code enforcement officers, finance department collections agents, and those fire marshals\n               appointed by the chief of the city, Coal Creek, or Adams County fire protection district\n               and approved by the chief of police of the city as fire arson investigators in the\n               city shall be deemed to be peace officers.\n(Code 1960, § 1-18; Code 1981, § 18-5; Ord. No. 1850, § 1, 9-7-1982; Ord. No. 2701,\n               § 1, 2-5-1990; Ord. No. 3483, § 1, 10-5-1998; Ord. No. 3752, § 1, 6-17-2002;\nOrd. No. 4560, § 1, 8-29-2016\n)\nState Law reference—\nCommencement of actions, C.R.S. § 13-10-111."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

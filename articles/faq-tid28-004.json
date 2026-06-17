@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-28-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "city",
+      "coordinate",
+      "street",
+      "maintenance",
+      "construction",
+      "installation",
+      "fiber",
+      "conduit",
+      "Broadband & Internet Services"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=28"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/why-does-the-city-not-coordinate-street-maintenance-construc",
+    "faq_category_name": "Broadband & Internet Services"
+  },
+  "content": {
+    "title": "Why does the City not coordinate street maintenance / construction with the installation of fiber conduit?",
+    "summary": "The City has a strategy (Dig Once Policy) to install fiber conduit in coordination with street repairs/construction projects whenever those projects align with the City Master Fiber Optic Plan; however, projects do not always align with the Master Plan. Installing conduit during projects that are no…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Why does the City not coordinate street maintenance / construction with the installation of fiber conduit?",
+        "a": "The City has a strategy (Dig Once Policy) to install fiber conduit in coordination with street repairs/construction projects whenever those projects align with the City Master Fiber Optic Plan; however, projects do not always align with the Master Plan. Installing conduit during projects that are not part of the Master Plan would result in \"stranded\" lines that do not connect to anything."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

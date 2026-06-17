@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "burden",
+      "proof",
+      "proving",
+      "any",
+      "person",
+      "exempt",
+      "taxation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-87"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-87. - Burden of proof.",
+    "summary": "The burden of proving that any person is exempt from taxation under this article shall\n               be upon the vendor unless the vendor accepts a resale certificate, exemption certificate\n               or building permit from the purchaser, under the conditions in\nsections 98-88\nthrough\n98-90\n. …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-87. - Burden of proof.",
+        "a": "The burden of proving that any person is exempt from taxation under this article shall\n               be upon the vendor unless the vendor accepts a resale certificate, exemption certificate\n               or building permit from the purchaser, under the conditions in\nsections 98-88\nthrough\n98-90\n. It shall be the duty of every person engaging or continuing in business within the\n               city or otherwise subject to the tax under the provisions of this article or a person\n               requiring a license under\nsection 98-63\nor\n98-80\nhereof to keep and preserve suitable records of all sales and transactions as may\n               be necessary from time-to-time to determine the applicability of the provisions of\n               this article thereto, and to keep such invoices, sales memoranda, books and records\n               for a period of three years; and they shall be open at any time for examination by\n               the enforcement officer or his agents.\n(Code 1981, § 31-62; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-87"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "assessment",
+      "public",
+      "property",
+      "city",
+      "body",
+      "federal",
+      "government"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-120"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-120. - Assessment of public property.",
+    "summary": "(a)\nWhen the city, public body or the federal government (except the federal government\n               in the absence of its consent by Congress to assessment) shall own any tract or shall\n               hold the title to any tract not used as a street or other public right-of-way of the\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-120. - Assessment of public property.",
+        "a": "(a)\nWhen the city, public body or the federal government (except the federal government\n               in the absence of its consent by Congress to assessment) shall own any tract or shall\n               hold the title to any tract not used as a street or other public right-of-way of the\n               city or other public body, which if owned by a private person would be liable to assessment\n               for benefits to pay for any project herein mentioned, an assessment shall be made\n               against such tract as though such tract were the property of a private person.\n(b)\nThe city, the public body or the federal government in the case of such consent shall\n               pay the amount of each such assessment by the levy of taxes or from other funds available\n               therefor.\n(c)\nIf the assessment is not paid as provided by law, suit may be brought in a district\n               court to enforce the collection of the assessment, and the judgment rendered against\n               the city, the public body or the federal government shall be enforced as other judgments\n               there against.\n(d)\nNo such tract owned thereby shall be sold under any such judgment nor as the result\n               of any foreclosure of an assessment nor otherwise.\n(Code 1981, § 27-120; Ord. No. 551, § 61, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-120"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

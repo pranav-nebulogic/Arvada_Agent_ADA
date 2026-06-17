@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "sanctions",
+      "any",
+      "title",
+      "district",
+      "undertake",
+      "act",
+      "omission"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-42"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-42. - Sanctions.",
+    "summary": "(1)\nShould any title 32 district undertake any act or omission which violates the City\n               Code or constitutes a material modification to the service plan without proper authorization,\n               the city council may impose one or more of the following sanctions, as it deems appropria…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-42. - Sanctions.",
+        "a": "(1)\nShould any title 32 district undertake any act or omission which violates the City\n               Code or constitutes a material modification to the service plan without proper authorization,\n               the city council may impose one or more of the following sanctions, as it deems appropriate:\n(a)\nExercise any applicable remedy under the Special District Act;\n(b)\nWithhold the issuance of any permit, authorization, acceptance or other administrative\n               approval or withhold any cooperation necessary for the district's development or construction\n               or operation of improvements or provision of services;\n(c)\nExercise any legal remedy under the terms of any intergovernmental agreement under\n               which the district is in default; and\n(d)\nExercise any other legal remedy, including, but not limited to, seeking injunctive\n               relief against the district, to ensure compliance with the provisions of the service\n               plan or applicable law.\n(2)\nAll remedies available to the city under this section shall be cumulative and non-exclusive.\n(3)\nIn any proceeding brought to enforce the provisions of the applicable title 32 district's\n               service plan or any provision of the City Code against a title 32 district, the prevailing\n               party shall be entitled to an award of reasonable attorneys' fees, actual court costs,\n               and other expenses incurred.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-42"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

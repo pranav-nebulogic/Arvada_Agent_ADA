@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exchange",
+      "information",
+      "facilitate",
+      "progress",
+      "hearing",
+      "ensure",
+      "fairness"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-182"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-182. - Exchange of information.",
+    "summary": "(a)\nTo facilitate the progress of the hearing, and to ensure fairness, the parties will\n               make a good faith effort to exchange information concerning documents, exhibits, and\n               names of witnesses to be called during the hearing. Such information shall be exchanged\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-182. - Exchange of information.",
+        "a": "(a)\nTo facilitate the progress of the hearing, and to ensure fairness, the parties will\n               make a good faith effort to exchange information concerning documents, exhibits, and\n               names of witnesses to be called during the hearing. Such information shall be exchanged\n               not less than five business days prior to the hearing. Upon motion by either party,\n               the hearing officer shall be authorized to compel such exchange of information.\n(b)\nIf the hearing officer determines that a party has failed to exchange information\n               in good faith, the hearing officer may exclude documents, exhibits, and witnesses\n               whose names have not been previously made available to the other party, if such evidence\n               would constitute an unfair surprise. In the absence of bad faith, the hearing officer\n               may require that previously undisclosed information be turned over to the other party\n               and may continue the hearing for such time as may reasonably be needed for review\n               of the previously undisclosed evidence.\n(c)\nOnly those witnesses, documents, and exhibits to be used in the hearing may be compelled\n               by the hearing officer. Nothing in this section shall confer upon the hearing officer\n               the power to compel production of documents or files of a protected or privileged\n               nature, nor to compel either party to create documents or conduct research for or\n               on behalf of the other party, or to compel production of documents or witnesses not\n               presented or called at the hearing.\n(Code 1981, § 2-147; Ord. No. 3608, §§ 1, 2, 4-3-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-182"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

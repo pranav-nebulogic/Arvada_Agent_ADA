@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "financial",
+      "qualifications",
+      "unless",
+      "forms",
+      "available",
+      "edgar",
+      "database"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH23CAFRAPPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:29.502011+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 23-34"
+    ],
+    "chapter": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS"
+  },
+  "content": {
+    "title": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS — Sec. 23-34. - Financial qualifications.",
+    "summary": "(a)\nUnless SEC forms 10K and 10Q are available on the EDGAR database, applicants with\n               existing operations shall provide audited financial statements, including statements\n               of income, balance sheets and cash flow statements, together with any notes necessary\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 23-34. - Financial qualifications.",
+        "a": "(a)\nUnless SEC forms 10K and 10Q are available on the EDGAR database, applicants with\n               existing operations shall provide audited financial statements, including statements\n               of income, balance sheets and cash flow statements, together with any notes necessary\n               to the understanding of the financial statements for the last three fiscal years for\n               the applicant and any parent corporation.\n(b)\nApplicants that are new (start-up) entities shall provide pro forma projections for\n               the next five fiscal years, if available, but at a minimum the next three fiscal years\n               from the date of the application.\n(\nOrd. No. 4078, § 1, 7-16-07\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 23-34"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

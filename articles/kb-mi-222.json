@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "horizons",
+      "water",
+      "line",
+      "replacement",
+      "drive",
+      "project",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1483/Far-Horizons-Water-Line-Replacement"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-222",
+    "spreadsheet_id": "MI-222",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Far Horizons Water Line Replacement",
+    "summary": "The Far Horizons neighborhood in Arvada will undergo a water line replacement project due to aging infrastructure, with construction expected to start in late March or April 2026 and last 8 to 10 months. The project will be funded by water rates and will involve multiple segments, resulting in construction noise, traffic disruptions, and scheduled water shut-offs, with residents notified in advance. For more information, residents can contact the city through the \\\"Ask Arvada\\\" platform.",
+    "body": "Many of the water lines within the Far Horizons neighborhood have reached the end of their useful life and need to be replaced. The general project area is east of Lamar Drive and north of Chase Drive (see detailed locations below).\n\nThe water rates you pay directly fund this project and the repair and replacement of aging utility infrastructure in Arvada to ensure we can continue to provide high-quality, reliable drinking water. Learn more about the City’s approach to long range planning and funding for utility improvements on the [Utilities Transparency webpage](/661).  \n\n## Timeline\n\nConstruction is expected to begin **as soon as late March or April 2026 with 8 to 10 months of construction**across all project areas.\n\n### Timelines by segment\n\n1. **Segment 1**(4-5 weeks): Ames Way, Benton Way\n2. **Segment 2**(2-3 months): Depew Way, Eaton Way, Fenton Way between Chase Dr and W 84th Ave\n3. **Segment 3**(5-6 months): Chase St, Depew St, Eaton St, Fenton St, Gray St, and Gray Ct. between W 84th Ave and W 86th Ave\n4. **Segment 4**(4-5 weeks), Lake Arbor Neighborhood: W 86th Ave to Lamar Dr, Jay Ct, and Kendal Ct.\n\n![map of locations for water line replacement in Far Horizons neighborhood](/ImageRepository/Document?documentId=7149)\n\n## What to Expect\n\n- Work hours 7am to 7pm\n- Additional construction noise and traffic\n- Partial or full road closures with local traffic only in work zones\n- Scheduled water shut-offs, residents will be notified in advance\n- Road patching, full repaving is not within the project scope\n\n## Contact\n\nPlease submit a ticket through [Ask Arvada](/898) and a team member will be in touch.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

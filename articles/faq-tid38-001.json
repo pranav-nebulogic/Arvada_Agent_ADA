@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-38-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "homeless",
+      "arvada",
+      "losing",
+      "stable",
+      "housing",
+      "happen",
+      "anyone",
+      "men",
+      "Homelessness in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=38"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/who-is-homeless-in-arvada-and-why",
+    "faq_category_name": "Homelessness in Arvada"
+  },
+  "content": {
+    "title": "Who is homeless in Arvada and why?",
+    "summary": "Losing stable housing can happen to anyone – men, women, families, children, youth, seniors, and veterans. Recent data show that in Jefferson County, 77% of those experiencing homelessness are families with children. Most people (94%) say they did not choose to be homeless",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Who is homeless in Arvada and why?",
+        "a": "Losing stable housing can happen to anyone – men, women, families, children, youth, seniors, and veterans. Recent data show that in Jefferson County, 77% of those experiencing homelessness are families with children. Most people (94%) say they did not choose to be homeless"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,59 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "utility",
+      "communications",
+      "land",
+      "zoning",
+      "district",
+      "uses",
+      "allowed",
+      "each",
+      "table"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-2-9"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-2. LAND USE BY ZONING DISTRICT"
+  },
+  "content": {
+    "title": "3-1-2-9. Utility and communications land use by zoning district.",
+    "summary": "The utility and communications land uses that are allowed in each zoning district are set out in Table 3-1-2-9, Utility and Communications Land Use by Zoning District.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-2-9. Utility and communications land use by zoning district.",
+        "a": "The utility and communications land uses that are allowed in each zoning district are set out in Table 3-1-2-9, Utility and Communications Land Use by Zoning District."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-2-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

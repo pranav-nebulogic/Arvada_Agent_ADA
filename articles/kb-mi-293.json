@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "lead",
+      "drinking",
+      "water",
+      "service",
+      "lines",
+      "galvanized",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/841/Lead-in-Drinking-Water"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-293",
+    "spreadsheet_id": "MI-293",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Lead in Drinking Water",
+    "summary": "Arvada has no city-owned lead drinking water service lines, but private service lines may still contain lead or galvanized components, especially in homes built before 1960. The city is actively replacing these customer-owned lines, which are prohibited, and fines may be issued starting in 2027 for non-compliance. Residents can identify their service line materials using a scratch test and are encouraged to report their findings or seek assistance through the city's resources.",
+    "body": "Arvada does not have any city-owned (system side) lead drinking water service lines. Customer-owned (private side) service lines may still have lead or galvanized components.\n\n**If your home was built after 1959 your service line is most likely copper.**\n\n## Service Line Replacement Program\n\nThe City is working to locate and replace any remaining lead (or pre-1960 galvanized) customer-owned service lines. Lead and pre-1960 galvanized services lines are **prohibited**in Arvada's water system. These **lines should be replaced as soon as possible.**\n\nCustomers with lead lines, and lines that are uncategorized, may be issued fines beginning in 2027. **Please visit the**[**Service Line Replacement Program page**](/647)**for more information**or reference the [City's service line inventory map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=960927ac3a7a4dccb104c3440fea172a).\n\n[Service Line Replacement Program](/647)\n\n**![Lines under the street, sidewalk are system owned; lines under private property are customer owned](/ImageRepository/Document?documentId=4697)**\n\n## Identifying service line materials\n\n**First, search for your address on the [City's service line inventory map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=960927ac3a7a4dccb104c3440fea172a).** If your address is marked as unknown, follow the steps below.\n\nFind where the water line enters your home and inspect the pipe. If you can access the pipe but you aren't sure what it is, perform a**\"scratch test\"** using a key or coin and test it for **magnetism**. Click into each tab for details.\n\n1. [Copper](#tabcf5576cb-f703-46c9-9921-49dec30a9e75_0)\n\nIf the scratched area is copper in color, like a penny, your service line is copper. Copper is **not magnetic.**\n\n**New copper**\n\n![](/ImageRepository/Document?documentId=3453)\n\n**Old copper****![](/ImageRepository/Document?documentId=3452)**\n\n1. [Galvanized](#tabcf5576cb-f703-46c9-9921-49dec30a9e75_1)\n\nIf the scratched area is dull gray and **magnetic,**your service line is galvanized steel. These pipes are likely **threaded at the connections.**\n\n**![](/ImageRepository/Document?documentId=3451)**\n\n1. [Lead](#tabcf5576cb-f703-46c9-9921-49dec30a9e75_2)\n\nIf the scratched area is soft and shows bright silver, your service line may be lead. If may have a bulb in the pipe near where it enters your home. Lead is **not magnetic.**\n\n![](/ImageRepository/Document?documentId=3450)![lead pipe](/ImageRepository/Document?documentId=3449)\n\n### Submit your findings or get help\n\nOnce you've completed the \"scratch test\" submit your findings through [**this online survey**](https://arcg.is/0inWG80). If you need help identifying the material or you aren't sure, fill out this [service line inspection request form](https://arvada-forms.app.transform.civicplus.com/forms/47784).\n\nContact the Water Quality team with questions.\n\n## Health effects of lead\n\nExposure to lead in drinking water can cause serious health effects in all age groups. Infants and children can have decreases in IQ and attention span. Lead exposure can lead to new learning and behavior problems or make existing learning and behavior problems worse. Children of women who are exposed to lead before or during pregnancy can have increased risk of these adverse health effects. Adults can have increased risks of heart disease, high blood pressure, kidney or nervous system problems.\n\n### Ways to lower risk of lead consumption\n\nOlder parts of your faucets and spot specific repairs to your plumbing may contain lead. The most common sources of lead in drinking water are lead pipes or solder, and brass or bronze faucets and fixtures.\n\n1. **Flush your cold tap** for several seconds (until it feels uniformly cold) before using water for drinking or cooking.\n2. **Do not use hot tap water** for cooking, drinking or preparing baby formula. Start with cold water and warm it on the stove or in the microwave.\n3. **Clean out aerators**regularly and replace any chipped or broken screens, faucets, aerators, or gaskets. While removed, run water to flush out any sediment or particles.\n4. If you choose to use a pitcher or point of use **filter**, ensure it specifies lead reduction. Maintain the filter according to the manufacturer's instructions.\n\n**Remember:**Lead in water typically comes from plumbing materials in your home. Arvada's source water is not a significant source of lead in your drinking water. The water that leaves the water treatment plant does NOT contain any lead.\n\n- Boiling water does not remove lead.\n- Whole house filters may remove lead at your house connection, but not at your tap. These also remove chlorine, increasing your chance of bacterial and fungal growth.\n- Find [other ways to reduce lead exposure on the EPA's website](https://www.epa.gov/lead).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

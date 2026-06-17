@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "eligibility",
+      "applicant",
+      "eligible",
+      "receive",
+      "financial",
+      "assistance",
+      "stated"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-152"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-152. - Eligibility.",
+    "summary": "An applicant is eligible to receive the financial assistance stated in\nsection 98-155\nif:\n(a)\nThe applicant's total household income from all income sources, including household\n                  member income, does not exceed the HUD income limit corresponding to the applicant's\n                  h…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-152. - Eligibility.",
+        "a": "An applicant is eligible to receive the financial assistance stated in\nsection 98-155\nif:\n(a)\nThe applicant's total household income from all income sources, including household\n                  member income, does not exceed the HUD income limit corresponding to the applicant's\n                  household size and using the HUD income limit for the fiscal year during for which\n                  the applicant is applying for the rebate program;\n(b)\nThe applicant and any household members reside within the Arvada city limits; and\n(c)\nThe applicant and any household members have not already received a rebate for the\n                  fiscal year for which the applicant is applying.\n(\nOrd. No. 4887\n, § 1, 1-27-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-152"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

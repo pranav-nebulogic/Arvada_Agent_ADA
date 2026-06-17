@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "sufficiency",
+      "article",
+      "without",
+      "reference",
+      "other",
+      "laws",
+      "except"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-155"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-155. - Sufficiency of article.",
+    "summary": "(a)\nThis article, without reference to other laws, except as herein otherwise expressly\n               provided, shall constitute full authority for the exercise of powers herein granted,\n               including but not limited to the:\n(1)\nAcquisition or improvement, or acquisition and improvement,…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-155. - Sufficiency of article.",
+        "a": "(a)\nThis article, without reference to other laws, except as herein otherwise expressly\n               provided, shall constitute full authority for the exercise of powers herein granted,\n               including but not limited to the:\n(1)\nAcquisition or improvement, or acquisition and improvement, of any project;\n(2)\nLevy and collection of any assessment;\n(3)\nBorrowing of any money or the incurrence of any other obligation; and\n(4)\nAuthorization and issuance of any security hereunder.\n(b)\nNo other act or law with regard to the authorization or the issuance of securities\n               or the exercise of any other power herein granted that provides for an election, requires\n               an approval or in any way impedes or restricts the carrying out of the acts herein\n               authorized to be done shall be construed as applying to any proceedings taken hereunder\n               or acts done pursuant hereto.\n(c)\nNo board, agency, bureau, commission or official other than the council shall have\n               authority to fix, prescribe, modify, supervise or regulate the levy or the collection\n               of special assessments or taxes herein designated, except as herein expressly provided\n               or necessarily implied, nor to supervise or to regulate the acquisition or improvement,\n               or acquisition and improvement, of any project herein authorized.\n(d)\nThe provisions of no other law, either general, special or local, except as provided\n               herein, shall apply to the doing of the things herein authorized to be done; and no\n               public body other than the council shall have authority or jurisdiction over the doing\n               of any of the acts herein authorized to be done.\n(e)\nThe powers conferred hereby shall be in addition and supplemental to, and not in substitution\n               for, and the limitations imposed hereby shall not affect the powers conferred by,\n               any other law.\n(Code 1981, § 27-155; Ord. No. 551, § 97, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-155"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "parks",
+      "open",
+      "space",
+      "district",
+      "allowed",
+      "land",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/217/OS-Parks-Open-Space-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-358",
+    "spreadsheet_id": "MI-358",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "OS (Parks & Open Space) District",
+    "summary": "The OS (Parks & Open Space) District aims to preserve open land from urban development for parks and recreational areas. Various uses are classified under allowed, limited, or conditional categories, with specific regulations outlined in the Land Development Code for each use type, including recreation, community services, utilities, and agriculture. If a use is not specified, it is not permitted in this zoning district.",
+    "body": "Provided for the purpose of preserving tracts of open land from urban development, and for the preservation of land for parks, open space, and recreational areas\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Hospitality, Recreation & Entertainment Uses](#tabf4210de3-4fe9-41d3-aec4-ee3694d342d6_0)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Recreation and Amusement, Indoor | A | N/A |\n| Recreation, Outdoor (other) | A | N/A |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#tabf4210de3-4fe9-41d3-aec4-ee3694d342d6_1)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Cemetery | C | 3-1-3-6 |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n\n1. [Industrial, Processing, Recycling, Storage & Disposal Uses](#tabf4210de3-4fe9-41d3-aec4-ee3694d342d6_2)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Resource Extraction (Minerals) | C | 3-1-3-7 |\n\n1. [Utility & Communications Uses](#tabf4210de3-4fe9-41d3-aec4-ee3694d342d6_3)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Major | C | 3-1-3-9 |\n| Utilities, Minor | L | 3-1-3-9 |\n| Overhead Power Lines (110 kV+) | C | 3-1-3-9 |\n| Radio or Television Transmission Tower | C | 3-1-3-9 |\n| Freestanding Towers | C | Chapter 7 |\n| Other Wireless Communications Facilities | L | Chapter 7 |\n\n1. [Agriculture Uses](#tabf4210de3-4fe9-41d3-aec4-ee3694d342d6_4)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Agriculture | A | 3-1-3-10 |\n| Agriculture, community | L | 3-1-3-10 |\n| Greenhouses/nurseries with retail sales | C | 3-1-3-10 |\n| Greenhouses/nurseries without retail sales | A | N/A |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

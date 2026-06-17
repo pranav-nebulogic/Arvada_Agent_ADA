@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "grading",
+      "under",
+      "structural",
+      "floors",
+      "hereby",
+      "added"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-193"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-193. - I.R.C. Section R501.3.2, Grading under structural floors.",
+    "summary": "Section R501.3.2. Grading under structural floors,\nis hereby added to read as follows:\n\"R501.3.2. Grading under structural floors.\nWhen structural basement floors are installed, a minimum of 18 inches (457 mm) of\n                  clear space is required below untreated wood floor joists and any woo…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-193. - I.R.C. Section R501.3.2, Grading under structural floors.",
+        "a": "Section R501.3.2. Grading under structural floors,\nis hereby added to read as follows:\n\"R501.3.2. Grading under structural floors.\nWhen structural basement floors are installed, a minimum of 18 inches (457 mm) of\n                  clear space is required below untreated wood floor joists and any wood girders or\n                  beams. Where steel or concrete beams or joists are used, the minimum clearance shall\n                  be the height of the void plus 6 inches (152 mm), or be as recommended by the soils\n                  engineer.\nThe surface of the underfloor area shall be free of construction debris and graded\n                  to a relatively flat plane to slope toward the sump pit, or toward drain systems installed\n                  to control free water in the underfloor space. The underfloor area shall not allow\n                  ponding of water.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-193"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

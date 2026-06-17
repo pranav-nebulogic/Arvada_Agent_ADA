@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "assisted",
+      "living",
+      "facilities",
+      "code",
+      "paid",
+      "price",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/280/Assisted-Living-Facilities"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-082",
+    "spreadsheet_id": "MI-082",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Assisted Living Facilities",
+    "summary": "The Arvada Municipal Code requires owners and managers of assisted living facilities to obtain a Business License and pay sales tax on retail purchases, with use tax applicable if sales tax is not collected at the time of sale. When purchasing an existing facility, tax is due on the entire transaction price, and facilities must also pay sales tax on meals served to residents. Additionally, rental charges for contracts longer than 30 days are exempt from sales tax, while certain materials and equipment used in operations are subject to tax.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax on the price paid for items sold at retail in the City of Arvada (COA). If sales and use tax was not paid to the COA or another municipality, Arvada uses tax is due. The taxable price is the amount of money received or due, including shipping charges.\n\nOwners and managers of nursing homes and assisted living facilities in the City must obtain a Business License and pay Arvada sales tax on items used for their properties.\n\nIf Arvada sales tax is not paid at the time of sale, then a use tax must be paid to the City. Sales or use taxes paid to other municipalities will be credited toward Arvada taxes. Such credit may not exceed the Arvada use tax due.\n\nMaterials used in minor repair work (not requiring a building permit) are subject to sales and use tax. Labor, if billed separately, is not subject to sales and use tax. Property like finished units, appliances, water heaters, carpets, etc., are subject to sales and use tax.\n\n## For-Profit Nursing Home\n\nFor purposes of this guide, a for-profit nursing home includes:\n\n- Adult day services,\n- Assisted-living facilities\n- Home health agencies\n- Hospice facilities\n- Intermediate care facilities\n- Nursing facilities\n- Respite care facilities\n- Skilled nursing facilities\n\n## Purchase of an Existing Assisted Living Facility\n\nWhen a business purchases an existing assisted living facility, tax is due on everything included in the transaction. The amount taxed is the price recorded in the bill of sale or agreement, as long as the price is greater than or equal to the fair market value at the time of sale. The City uses the best information available to find the tax due on properties like appliances furniture, and window coverings. Sometimes, past taxes or an independent appraisal is required.\n\n## Rental Charges\n\nRent payments or charges are not subject to City sales or accommodations tax if the contract is for a period of at least 30 consecutive days. City sales tax applies to personal property like vending machine sales, and furniture or equipment rental.\n\n## Meals and Beverages\n\nFacilities serving meals and beverages only to regular residents and not to the public should pay sales tax on the cost of the food.\n\nIf the facility is an exempt organization and sells meals to employees or the public, sales tax should be collected on those sales.\n\n## Examples\n\n- Arvada Assisted Living purchases a new commercial washer and dryer unit for the laundry facility from an online retailer. The units are delivered to the Arvada facility. They hire an Arvada plumber to remove the old units and install the new units. Arvada Assisted Living is charged $2,500 for the units plus freight of $300. The plumber charges $500 for labor and $85 plus tax for miscellaneous hoses, clamps, and PVC extensions. Because the online retailer did not charge sales tax for the new units, use tax is due from the facility on the $2,500 sale price and the $300 freight charges. No additional tax is due for the installation because the plumber separately stated his labor and charged City sales tax on the parts he used.\n- Arvada Assisted Living buys all food and ingredients for their meals from the residents from Good Food Distributors. Good Food Distributors does not collect sales tax on anything sold to Arvada Assisted Living. Arvada Assisted Living will need to pay use tax on all of the items being purchased.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

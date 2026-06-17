@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "applicability",
+      "definitions",
+      "except",
+      "otherwise",
+      "noted",
+      "herein",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-201"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-201. - Applicability; definitions.",
+    "summary": "(a)\nApplicability.\nExcept as otherwise noted herein, this article governs the impoundment and disposition\n               by the city of animals including those seized under\nsection 14-9\nof this Code.\n(b)\nDefinitions.\nAs used in this article, unless the context otherwise requires:\nCare\nor\ncare and pr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-201. - Applicability; definitions.",
+        "a": "(a)\nApplicability.\nExcept as otherwise noted herein, this article governs the impoundment and disposition\n               by the city of animals including those seized under\nsection 14-9\nof this Code.\n(b)\nDefinitions.\nAs used in this article, unless the context otherwise requires:\nCare\nor\ncare and provision\nmeans those actions and activities reasonably necessary to provide adequate food,\n               shelter, and socialization to an animal during its impoundment and includes veterinary\n               care reasonably necessary to assess and stabilize an animal and to otherwise provide\n               reasonable veterinary care, if any, to the animal throughout the term of its impoundment.\n(\nOrd. No. 4878\n, § 9, 10-7-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-201"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

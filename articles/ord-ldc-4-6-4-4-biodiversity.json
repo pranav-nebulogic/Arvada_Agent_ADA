@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "biodiversity",
+      "generally",
+      "diversity",
+      "genus",
+      "species",
+      "trees",
+      "shrubs",
+      "required",
+      "order",
+      "prevent"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-4-4"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-4. CALCULATION OF LANDSCAPE REQUIREMENTS"
+  },
+  "content": {
+    "title": "4-6-4-4. Biodiversity.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-4-4. Biodiversity.",
+        "a": "A.\tGenerally. Diversity of the genus and species of trees and shrubs is required in order to prevent monocultures that could result in large-scale losses in the event of disease or blight.\nB.\tStandards.\n    1.\tWithin each of the large tree and shrub categories, not more than 30 percent of the trees or evergreens installed on a subject property shall be of a single genus, and not more than 20 percent of the trees or evergreens installed on a subject property shall be of a single species.\n    2.\tA minimum of ten percent of the trees shall be evergreen.\n    3.\tThe Director may require biodiversity of street trees that are planted in public rights-of-way in order to serve the purpose of this Section.\nC.\tExceptions. Exceptions may be made with written permission of the Director upon good cause shown, provided that the Director finds that the exception does not materially undermine the purpose of this Section."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-4-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

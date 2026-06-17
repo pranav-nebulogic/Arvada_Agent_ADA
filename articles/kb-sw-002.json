@@ -1,0 +1,48 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "stormwater",
+    "tags": [
+      "stormwater",
+      "system",
+      "improvements",
+      "channel",
+      "projects",
+      "adding"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1416/Stormwater-System-Improvements"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/stormwater/sw-002",
+    "spreadsheet_id": "SW-002",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Stormwater System Improvements",
+    "summary": "The City is undertaking several stormwater system improvement projects to repair aging structures and increase capacity. Upcoming projects include repairs at Ralston Creek at Memorial Park, installation of new infrastructure along Grandview Avenue and Zephyr Street, and stabilization work at Ralston Creek near Creekside Park, all expected to take 2-3 months each. These projects will involve temporary trail closures, detours, and increased construction noise and traffic.",
+    "body": "## Overview\n\nThe City’s stormwater system includes both open channel (creeks, lakes, and ponds)  and closed channel (stormwater pipes) systems. The stormwater system helps manage flooding from rain and snow melt while also keeping our waterways and natural environment clean.\n\nThese improvement projects ensure the system continues to operate as intended by:\n\n- repairing aging structures and\n- adding capacity where the system is undersized.\n\n### Upcoming projects\n\n1. Ralston Creek Trail at Indiana Street (complete)\n2. Ralston Creek at Memorial Park\n3. Grandview Ave & Zephyr St (Lawrence Elementary)\n4. Ralston Creek at Creekside Park\n\n## Ralston Creek at Memorial Park\n\nUpdated 3/10/26![Map of Ralston Creek Trail closure and detour near Memorial Park along 59th Ave and Olde Wadsworth](/ImageRepository/Document?documentId=7155)\n\nThis project will repair and stabilize damaged sections of the stone creek crossing and eroded sections of the creek bank.\n\n- **Location:**east side of Memorial Park along the Ralston Creek Trail\n- **Timeline:**approx. 2-3 months, **beginning as soon as March 16**\n\n### What to Expect\n\n- **Hole 2 and 3 of Johnny Roberts Disc Golf Course closed**\n- **Ralston Creek Trail closed**on the east side of Memorial Park\n  - **Detour route:**W. 59th Ave. and Olde Wadsworth\n  - Trail will remain closed for the duration of the project\n- Working hours 7am to 7pm\n- Additional construction noise and traffic possible\n\nA separate project on the west end of Memorial Park is underway to construct a new [Arvada Police Honor Garden](/1500).\n\n## map of construction zone on Zephyr and Grandview near Lawrence Elementary SchoolGrandview & Zephyr (Lawrence Elementary)\n\nUpdated 6/2/26\n\nThis project will install new stormwater infrastructure along Grandview Avenue and Zephyr Street and replace sidewalk along Zephyr.\n\n- **Location:**along Grandview Avenue and Zephyr Street\n- **Timeline:**2-3 months, June to August 2026\n\n### What to expect\n\n- Single lane closures\n  - Flaggers will direct alternating traffic\n- Working hours 7am to 7pm\n- Additional construction noise and traffic\n\n## Ralston Creek at Creekside Park\n\nUpdated 2/20/26![Ralston Creek Trail detour south to Ralston Road along Wadsworth and Pierce St.](/ImageRepository/Document?documentId=7145)\n\nThis project will repair and stabilize heavy bank erosion near the pedestrian trail crossing at Creekside Park.\n\n- **Location:**Ralston Creek Trail approximately 500 ft west of Pierce St.\n- **Timeline:**approx. 2-3 months, once work at Memorial Park is complete\n\n### What to Expect\n\n- **Ralston Creek Trail closed**west of Creekside Park to Wadsworth Blvd.\n  - **Detour route:**Wadsworth Blvd and Ralston Road to Pierce St.\n  - Trail may be re-opened during non-working hours depending on site safety\n- Working hours 7am to 7pm\n- Additional construction noise and traffic possible\n\n## Contact\n\nPlease submit a ticket through [Ask Arvada](/898) and a team member will be in touch.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

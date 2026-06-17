@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "height",
+      "exceptions",
+      "generally",
+      "purpose",
+      "exception",
+      "authorize",
+      "building",
+      "portion",
+      "exceed",
+      "limitations"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-11-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-11. EXCEPTIONS, VARIANCES, MODIFICATIONS, AND INTERPRETATIONS"
+  },
+  "content": {
+    "title": "8-3-11-1. Height exceptions.",
+    "summary": "A.\tGenerally. The purpose of a Height Exception is to authorize a building or portion of a building to exceed the height limitations of the zoning district in which the building is located.\nB.\tApproval Criteria.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-11-1. Height exceptions.",
+        "a": "A.\tGenerally. The purpose of a Height Exception is to authorize a building or portion of a building to exceed the height limitations of the zoning district in which the building is located.\nB.\tApproval Criteria. A Height Exception application may be approved only if it is demonstrated that:\n  1.\tThere would be demonstrated benefits to the City if the exception is granted.\n  2.\tAll other applicable zoning and development regulations have been or will be adhered to by the Applicant, including but not limited to parking, screening, setbacks, lot and area dimensions, and landscaping, unless otherwise modified, waived, or varied through approval of an Administrative Minor Modification or variance.\n  3.\tThe proposed structure has minimal effect upon adjacent properties with respect to solar access, visual access, and rights of privacy, light, and air.\n  4.\tThe exception will not interfere with the City's ability to provide public services to the subject property at the level currently enjoyed by the area, or at adequate levels per existing City policies and regulations.\n  5.\tThe project complies with all currently adopted fire department regulations and standards.\n  6.\tThe architecture and character of the proposed building or structure that will exceed the height limitations of the underlying zoning district are (or will be) appropriately related to existing or planned development on surrounding property in that:\n    a.\tThe transition to the building or portion of building to which the height exception applies mitigates the appearance of building mass from the street and from adjoining property; or\n    b.\tThe building to which the height exception is applied is designed and intended to be a landmark or focal point for the surrounding area.\nC.\tEffect of Approval. A building permit shall be issued and construction substantially initiated within three years from the date of approval of a Height Exception, unless another time frame applies to the approval of a related application (e.g., a conditional use permit). If construction has not timely commenced within the applicable time frame, the height exception approved shall lapse and become null and void. Amendments to a related approval do not affect the original three-year approval period, unless specifically provided in such amendments."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-11-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "conflict",
+      "state",
+      "federal",
+      "regulations",
+      "provisions",
+      "code",
+      "inconsistent",
+      "those",
+      "government",
+      "control"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-4-1"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-4. RELATIONSHIP TO OTHER CODES, ORDINANCES, AND REGULATIONS"
+  },
+  "content": {
+    "title": "1-1-4-1. Conflict with State or Federal Regulations.",
+    "summary": "If the provisions of this Code are inconsistent with those of the state or federal government, the provisions of this Code will control, to the extent permitted by law.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-4-1. Conflict with State or Federal Regulations.",
+        "a": "If the provisions of this Code are inconsistent with those of the state or federal government, the provisions of this Code will control, to the extent permitted by law."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

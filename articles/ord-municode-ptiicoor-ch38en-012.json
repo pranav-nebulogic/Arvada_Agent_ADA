@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reserved",
+      "editor",
+      "note",
+      "ord",
+      "adopted",
+      "repealed",
+      "pertained"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-92",
+      "§ 38-92",
+      "§ 19-20"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-92. - Reserved.",
+    "summary": "Editor's note—\nOrd. No.\n4728\n, § 12, adopted May 18, 2020, repealed § 38-92, which pertained to Same—PUD-CC and\n               derived from 1981 Code, § 19-20.1; and Ord. No. 3017, § 3, adopted Nov. 15, 1993.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-92. - Reserved.",
+        "a": "Editor's note—\nOrd. No.\n4728\n, § 12, adopted May 18, 2020, repealed § 38-92, which pertained to Same—PUD-CC and\n               derived from 1981 Code, § 19-20.1; and Ord. No. 3017, § 3, adopted Nov. 15, 1993."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-92",
+      "§ 38-92",
+      "§ 19-20"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

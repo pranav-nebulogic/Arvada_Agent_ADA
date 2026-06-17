@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "athletic",
+      "field",
+      "status",
+      "open",
+      "sports",
+      "complex",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/888/Athletic-Field-Status"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-083",
+    "spreadsheet_id": "MI-083",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Athletic Field Status",
+    "summary": "All athletic fields and sports complexes in the City of Arvada are currently open. The Parks Department will decide to close fields by 1 p.m. if weather conditions render them unusable, considering factors such as safety, field condition, and potential long-term damage. Organizations with reserved fields will be notified of any closures, and the status will be updated accordingly.",
+    "body": "Last Content Update:\n 4 days ago\n\nView the status for the City of Arvada's athletic fields and sports complexes below. In the event of bad weather or unusable conditions, a decision to close a field will be made by 1 p.m.\n\n|  |  |\n| --- | --- |\n| Harold D. Lutz Sports Complex | OPEN |\n| Long Lake Regional Park - Baseball/Softball | OPEN |\n| Youth Memorial Sports Complex - Baseball/Softball | OPEN |\n| Pioneer Sports Complex | OPEN |\n| Stenger Sports Complex | OPEN |\n| Long Lake Regional Park - Multipurpose | OPEN |\n| Long Lake Regional Park - Synthetics | OPEN |\n| Youth Memorial Sports Complex - Multipurpose | OPEN |\n| Ralston Park Addition | OPEN |\n| Foster Sports Complex | OPEN |\n| West Woods Fields - East/West | OPEN |\n| Tier 3 Parks | OPEN |\n\n## Athletic Field Weather Policy\n\nIn the case of unusable conditions, athletic fields will be closed. The City of Arvada Parks Department has the ultimate authority to close fields if necessary at any time due to weather, unforeseen maintenance situations, or for the safety of participants. [View the full Athletic Field Weather Policy](https://arvada-forms.app.transform.civicplus.com/forms/33045).\n\nUnusable conditions that cause a field to close include:\n\n- Standing water in goal mouths, midfields, or any other playing surface\n- Saturated ground\n- Frost\n- Snow\n- Sparse grass or badly worn grass\n\n## Criteria for Unusable Field Conditions\n\nThe City Parks Team considers the following criteria in determining when to close a field:\n\n- Safety of Participants\n  - Fields are considered unsafe due to moisture when proper footing or traction cannot be gained and athletes can injure themselves.\n  - Fields can also become too hard and injuries from falling or lack of traction can occur, resulting in concussions.\n- Long-Term Condition of the Field\n  - When fields get wet, the Parks team not only considers if a field is safe to play on that day, but also the long-term health of a field. The number of days it would take to repair a field when it's played on with a wet surface is considered.\n  - Closing a field for one or two days, or in some cases a week, is better than shutting down a field for an entire season for repairs due to damage that occurred from games that were played on with a wet surface.\n  - Synthetic fields also absorb water, and therefore they take time to drain much like grass fields.\n- Parking Lots\n  - All of the City's athletic fields and complexes have dirt parking lots. These parking lots are susceptible to damage if there is heavy traffic during significant storms. Small pot holes can quickly become larger pot holes when filled with water.\n  - The City has yet to close a field due to the condition of a parking lot; however, some parking lots recently needed significant maintenance. The time spent fixing those parking lots took away time from maintaining fields.\n\n## Field Closing Procedures\n\nWhen the City makes a decision to close a field, a city representative will communicate that information to the designated primary contact for each organization that has reserved a field for that day. The field status on this page will be updated as soon as possible, no later than 1 p.m.\n\nIf an organization questions whether games should be played, and fields have not been closed, that organization must contact the Parks Department. The Parks Department will then make a recommendation to the organization at that time.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

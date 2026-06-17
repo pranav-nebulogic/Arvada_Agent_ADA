@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "obstruction",
+      "public",
+      "passageways",
+      "definitions",
+      "used",
+      "section",
+      "obstruct"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-52"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-52. - Obstruction of public passageways.",
+    "summary": "(a)\nDefinitions.\nAs used in this section:\n(1)\nObstruct\nmeans to render a passageway impassable or make passage thereupon unreasonably inconvenient\n               or hazardous; to place furniture or other personal property upon a passageway unless\n               incidental to the lawful use of the pa…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-52. - Obstruction of public passageways.",
+        "a": "(a)\nDefinitions.\nAs used in this section:\n(1)\nObstruct\nmeans to render a passageway impassable or make passage thereupon unreasonably inconvenient\n               or hazardous; to place furniture or other personal property upon a passageway unless\n               incidental to the lawful use of the passageway; to stop or stand within or occupy\n               a crosswalk for a period of time longer than that reasonably necessary to cross over\n               the roadway, except when necessary to avoid conflict with vehicular traffic, or in\n               compliance with the direction of a police officer or an official traffic control device;\n               or to cause a violation of other applicable law, such as the Americans with Disabilities\n               Act, to occur or exist the passageway.\n(2)\nPassageway\nmeans an alley, building entrance, public elevator or entrance to a public elevator,\n               sidewalk, stairway, stairwell or stairwell landing, railway, creek, creek bank or\n               other waterway, or any other public place used for the passage of persons, vehicles,\n               or conveyances.\n(3)\nPerson with authority to control the use of the premises\nmeans a uniformed peace officer, emergency medical technician, paramedic, firefighter,\n               or city employee acting within the course and scope of their duties.\n(4)\nPublic place\nmeans property owned by the city or other political subdivision of the State.\n(b)\nUnlawful act.\nNo person shall intentionally, knowingly, or recklessly:\n(1)\nObstruct a passageway, whether the obstruction was created by the person acting alone\n               or with others; or\n(2)\nDisobey a reasonable request or order to end or discontinue an obstruction of a passageway\n               that is issued by a person with authority to control the use of the premises to maintain\n               public safety.\n(c)\nException.\nSubsection (b)(1) shall not apply to an obstruction caused by a medical emergency,\n               or by attending a parade, festival, performance, rally, demonstration, meeting, or\n               similar event conducted in the public right-of-way pursuant to any permit or license\n               issued by the city, or as otherwise authorized by law.\n(d)\nPenalty.\nAny violation of this section shall be punished by a fine or imprisonment not to\n               exceed the limits established in\nsection 1-5\nof this Code.\n(Ord. No.\n4838\n, § 2, 3-20-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-52"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

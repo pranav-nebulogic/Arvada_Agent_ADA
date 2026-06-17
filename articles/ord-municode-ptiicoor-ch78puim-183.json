@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "permit",
+      "fee",
+      "before",
+      "issued",
+      "pursuant",
+      "article",
+      "applicant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-296"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-296. - Permit fee.",
+    "summary": "(a)\nBefore a permit is issued pursuant to this article, the applicant shall pay to the\n               city a permit fee, which shall be determined annually in accordance with a fee schedule\n               adopted by the city council by resolution. Fees will be reasonably related to the\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-296. - Permit fee.",
+        "a": "(a)\nBefore a permit is issued pursuant to this article, the applicant shall pay to the\n               city a permit fee, which shall be determined annually in accordance with a fee schedule\n               adopted by the city council by resolution. Fees will be reasonably related to the\n               costs inherent in managing the public rights-of-way. As used in this article, these\n               costs include, but are not necessarily limited to, the costs of permitting rights-of-way\n               occupants, verifying rights-of-way occupation, mapping rights-of-way occupations,\n               review and approval of a traffic control plan, inspecting job sites and rights-of-way\n               restorations, administering this article, and costs incurred by the city relating\n               to the degradation of the rights-of-way, (i.e., the cost to achieve a level of restoration\n               as determined by the city at the time the permit is issued).\n(b)\nRecognizing that excavation or disturbance of the right-of-way results in degradation\n               of such right-of-way that may be difficult to restore to its original condition, a\n               portion of the permit fee relates to degradation/restoration costs. The portion of\n               the permit fee relating to degradation/restoration costs shall be as established by\n               annual resolution and equally apportioned by the city in cases where the applicant\n               demonstrates to the satisfaction of the director that the excavation proposed will\n               be used by two or more entities, legally and financially unrelated, for the installation,\n               maintenance, or repair of facilities.\n(c)\nAny permit for temporary use or occupation of the public rights-of-way, where there\n               is no construction involved, shall not require payment of a degradation fee as part\n               of the permit fee.\n(d)\nAny contractor who excavates or otherwise disturbs a right-of-way shall, following\n               such excavation, construction, or disturbance, restore the right-of-way according\n               to the following criteria:\n(1)\nAny trench or hole cut into a street will significantly decrease the remaining life\n               of the street. The impact on the degradation of the street can be similar, regardless\n               of street age or condition. Subject to subsection (b) of this section, all fees will\n               be applied equally to all streets regardless of age or condition.\n(2)\nDegradation fees shall be based on the actual cost of the work required to prevent\n               further damage to the street, and such fees shall be reevaluated annually.\n(e)\nThat portion of any permit fee relating to degradation/restoration costs shall be\n               segregated by the city into an account to cover general street maintenance and construction.\n(Code 1981, § 27-205; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-296"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

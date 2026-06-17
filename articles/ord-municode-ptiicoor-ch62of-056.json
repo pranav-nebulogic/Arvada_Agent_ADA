@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "property",
+      "held",
+      "evidence",
+      "custodian",
+      "shall",
+      "keep",
+      "custody"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-94"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-94. - Property held as evidence.",
+    "summary": "(a)\nThe custodian shall keep in custody all items of property seized or held as evidence,\n               which property has been delivered to the custodian for care, custody, and control\n               and for use in any pending trial or other court proceeding, unless otherwise ordered\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-94. - Property held as evidence.",
+        "a": "(a)\nThe custodian shall keep in custody all items of property seized or held as evidence,\n               which property has been delivered to the custodian for care, custody, and control\n               and for use in any pending trial or other court proceeding, unless otherwise ordered\n               by the court having jurisdiction or upon proper authorization of the prosecuting attorney\n               following the final disposition of any pending charges, including any appeals or the\n               lapse of time for filing any appeal. Thereafter, the custodian shall make disposition\n               of such property in accordance with the provisions of this article, and any applicable\n               police department policy.\n(b)\nNotwithstanding the above, any evidence that is required to be maintained pursuant\n               to C.R.S. § 18-1-1101 et seq., as may be from time to time amended, shall be destroyed\n               only upon receipt of signed notice from the district attorney or his designee, or\n               a court order allowing such destruction.\n(c)\nPhotographs, video tapes, or films of property over which a person is alleged to have\n               exerted unauthorized control or otherwise to have obtained unlawfully are competent\n               evidence if the photographs, video tapes, or films are admissible into evidence under\n               the rules of law governing the admissibility of photographs, video tapes, or films\n               into evidence pursuant to C.R.S. § 13-25-130, as may be from time to time amended.\n(d)\nDuring any trial for a violation of any section of Chapter 6, Alcoholic Beverages,\n               of the Arvada City Code, any bottle, can, or any other container that has affixed\n               to it or contains a label indicating the contents of such bottle, can, or container\n               shall be admissible into evidence, and the information contained on any label on such\n               bottle, can, or container shall be admissible into evidence and shall not constitute\n               hearsay. In the event that multiple bottles, cans, or other containers of liquid are\n               recovered, an officer may log into evidence one empty bottle, can, or other container\n               as being representative of the whole. A judge or jury, as appropriate, may consider\n               the information upon such label in determining whether the contents of the bottle,\n               can, or other container were composed in whole or in part of ethyl alcohol. A label\n               which identifies the contents of any bottle, can or other container as \"beer,\" \"ale,\"\n               \"malt beverage,\" \"fermented malt beverage,\" \"malt liquor,\" \"wine,\" \"champagne,\" \"bourbon,\"\n               \"rum,\" \"scotch,\" \"whiskey,\" \"gin,\" \"vodka,\" \"tequila,\" \"schnapps,\" \"brandy,\" \"cognac,\"\n               \"liqueur,\" \"cordial,\" \"alcohol,\" \"liquor,\" or other similar term shall constitute\n               prima facie evidence that the contents of the bottle, can, or other container was\n               composed in whole or in part of ethyl alcohol.\n(e)\nAn officer who seizes or otherwise takes control of a cigarette or any other type\n               of tobacco product from a minor pursuant to C.R.S. § 18-13-121 or C.R.S. § 25-14-301\n               may deliver such item or items to the custodian for destruction, or may immediately\n               destroy the item or items.\n(\nOrd. No. 4238, § 1, 12-6-2010\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-94"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "special",
+      "event",
+      "permit",
+      "application",
+      "fee",
+      "permitted",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-142",
+      "§ 44-5"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-142. - Special event permit application fee.",
+    "summary": "As permitted by C.R.S. § 44-5-107(2), a fee of $50.00 shall accompany each application\n               for a special event permit to defray the local licensing authority's costs to investigate\n               the application and issue the special event permit.\n(\nOrd. No. 4670\n, § 1, 12-17-2018)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-142. - Special event permit application fee.",
+        "a": "As permitted by C.R.S. § 44-5-107(2), a fee of $50.00 shall accompany each application\n               for a special event permit to defray the local licensing authority's costs to investigate\n               the application and issue the special event permit.\n(\nOrd. No. 4670\n, § 1, 12-17-2018)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-142",
+      "§ 44-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

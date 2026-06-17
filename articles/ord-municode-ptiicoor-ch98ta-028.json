@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "form",
+      "return",
+      "date",
+      "due",
+      "rate",
+      "tax",
+      "every"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-79"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-79. - Form of return; date due; rate of tax.",
+    "summary": "Every purchaser, consumer, user, owner or lessee of personal property and owner or\n               lessee of real estate shall, in compliance with\nsection 98-77\n, file with the finance director on or before the 20th day of the month following\n               the month of purchase or month of commencem…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-79. - Form of return; date due; rate of tax.",
+        "a": "Every purchaser, consumer, user, owner or lessee of personal property and owner or\n               lessee of real estate shall, in compliance with\nsection 98-77\n, file with the finance director on or before the 20th day of the month following\n               the month of purchase or month of commencement of use or storage of tangible personal\n               property which is taxable under the provisions of this article, a return on a form\n               prescribed by the enforcement officer, and pay to the finance director the tax on\n               the purchase price or monthly lease value at the rate of 3.46 percent. Interest charges\n               for deficiency and interest and penalty charges for failure to report and pay the\n               tax as prescribed in\nsections 98-71\nand\n98-72\nhereof shall be applicable to the tax due under this section. Upon the prior approval\n               of the finance director, any taxpayer may file periodic reports and pay accrued tax\n               at intervals not greater than once per year, in lieu of reporting and payment of tax\n               on each taxable event.\n(Code 1981, § 31-53; Ord. No. 3783, § 2, 12-16-2002; Ord. No. 3980, § 4, 12-12-2005)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-79"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

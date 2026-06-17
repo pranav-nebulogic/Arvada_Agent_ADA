@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "certificate",
+      "filed",
+      "signed",
+      "commissioners",
+      "shall",
+      "office",
+      "secretary"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-77"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-77. - Certificate to be filed.",
+    "summary": "A certificate signed by the commissioners shall be filed in the office of the secretary\n               of state by the city clerk; said certificate shall set forth that notice has been\n               given and public hearing has been held and that the city council has made a determination,\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-77. - Certificate to be filed.",
+        "a": "A certificate signed by the commissioners shall be filed in the office of the secretary\n               of state by the city clerk; said certificate shall set forth that notice has been\n               given and public hearing has been held and that the city council has made a determination,\n               after such hearing, and that the mayor has appointed the council as commissioners.\n               In any suit, action or proceeding involving the validity or enforcement of any bond,\n               contract, mortgage, trust indenture or other agreement of the authority, the authority\n               shall be conclusively deemed to have been established in accordance with the provisions\n               of this article upon proof of the filing of the aforesaid certificate. A copy of said\n               certificate, duly certified by the secretary of state, shall be admissible in evidence\n               in any such suit, action or proceeding, and shall be conclusive proof of the filing\n               and contents thereof.\n(Code 1981, § 14-46; Ord. No. 1248, § 28, 6-16-1975)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-77"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

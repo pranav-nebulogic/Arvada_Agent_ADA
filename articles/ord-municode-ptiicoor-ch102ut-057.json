@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "private",
+      "sewage",
+      "disposal",
+      "system",
+      "installation",
+      "alteration",
+      "repair"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-137"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-137. - Private sewage disposal system.",
+    "summary": "The installation, alteration or repair of any private sewage disposal system or any\n               part thereof will be in accordance with the Uniform Plumbing Code as adopted in section\n               82-182.\n(Code 1981, § 33-70; Ord. No. 2671, § 13, 10-16-1989)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-137. - Private sewage disposal system.",
+        "a": "The installation, alteration or repair of any private sewage disposal system or any\n               part thereof will be in accordance with the Uniform Plumbing Code as adopted in section\n               82-182.\n(Code 1981, § 33-70; Ord. No. 2671, § 13, 10-16-1989)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-137"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

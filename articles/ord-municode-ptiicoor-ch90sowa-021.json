@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "records",
+      "reports",
+      "all",
+      "haulers",
+      "shall",
+      "report",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-59"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-59. - Records and reports.",
+    "summary": "(a)\nAll haulers shall report to the city by March 31\nst\nof each year an annual recycling report for the previous year, on forms to be provided\n               by the city. Such records shall be subject to the Colorado Open Records Act, C.R.S.\n               §24-72-201 et seq.\n(b)\nThe city manager or …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-59. - Records and reports.",
+        "a": "(a)\nAll haulers shall report to the city by March 31\nst\nof each year an annual recycling report for the previous year, on forms to be provided\n               by the city. Such records shall be subject to the Colorado Open Records Act, C.R.S.\n               §24-72-201 et seq.\n(b)\nThe city manager or his or her designee shall review each licensed hauler's annual\n               recycling report for compliance with the recycling requirements of this chapter.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-59"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

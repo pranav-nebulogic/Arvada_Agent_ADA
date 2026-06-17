@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "policy",
+      "adoption",
+      "intergovernmental",
+      "agreements",
+      "iga",
+      "shall",
+      "adopted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-2"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-2. - Policy for adoption of intergovernmental agreements.",
+    "summary": "(1)\nIntergovernmental agreements (IGA's) shall be adopted by ordinance if:\n(a)\nThe IGA establishes new or significantly different responsibilities for any employee\n               or work unit of the city; or\n(b)\nThe execution or implementation of the IGA requires funding in excess of $5,000,000.00;\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-2. - Policy for adoption of intergovernmental agreements.",
+        "a": "(1)\nIntergovernmental agreements (IGA's) shall be adopted by ordinance if:\n(a)\nThe IGA establishes new or significantly different responsibilities for any employee\n               or work unit of the city; or\n(b)\nThe execution or implementation of the IGA requires funding in excess of $5,000,000.00;\n               or\n(c)\nThe IGA is for extraordinary duration in excess of five years; or\n(d)\nThe IGA establishes new or extraordinary legal liabilities for the city.\n(2)\nIntergovernmental agreements shall be adopted by resolution if:\n(a)\nThe IGA merely facilitates existing responsibilities or duties of an employee or work\n               unit of the city; or\n(b)\nThe IGA is an extension or minor modification of an existing IGA; or\n(c)\nThe IGA does not require new funding.\n(3)\nThe process for adopting intergovernmental agreements shall include:\n(a)\nIn no instance shall an intergovernmental agreement be placed upon a consent agenda.\n(b)\nThe presiding officer shall inquire if members of the public present at the council\n               meeting wish to speak to the intergovernmental agreement prior to city council voting\n               on such matter.\n(\nOrd. No. 4330, § 1, 4-2-2012\n;\nOrd. No. 4897\n, §§ 1—3, 6-3-2025)\nEditor's note—\nOrdinance No. 4330, § 1, adopted April 2, 2012\n, did not specifically amend the Code. Therefore, such ordinance has been added as\n               § 2-2 at the editor's discretion."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

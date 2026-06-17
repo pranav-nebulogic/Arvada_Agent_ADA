@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "floodplain",
+      "administrator",
+      "appeal",
+      "hearing",
+      "officer",
+      "person",
+      "disputes",
+      "determination",
+      "made",
+      "behalf"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-5-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-5. ADMINISTRATIVE APPEALS"
+  },
+  "content": {
+    "title": "8-2-5-3. Floodplain administrator.",
+    "summary": "A.\tAppeal to Floodplain Hearing Officer:\n  1.\tAny person who disputes any determination made by or on behalf of the City pursuant to and by authority of the Floodplain Administrator, which determination adversely affects such person, may petition the Director of Public Works for a hearing concerning…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-5-3. Floodplain administrator.",
+        "a": "A.\tAppeal to Floodplain Hearing Officer:\n  1.\tAny person who disputes any determination made by or on behalf of the City pursuant to and by authority of the Floodplain Administrator, which determination adversely affects such person, may petition the Director of Public Works for a hearing concerning such determination no later than 20 business days after having been notified of and such determination by the procedure described below.\n  2.\tThe Floodplain Hearing Officer shall hear and decide requests for variances from the requirements of this Code.\n  3.\tThe Floodplain Hearing Officer shall hear and decide appeals, when it is alleged there is an error in any requirement, decision or determination made by the Floodplain Administrator in the enforcement or administration of this Code.\n  4.\tUpon consideration of the factors of this Section and the purposes of this Code, the Floodplain Hearing Officer may attach such conditions to the granting of variances as deemed necessary to further the purposes of this Section.\n  5.\tThe City shall maintain the records of all appeal actions, including technical information, and report any variances to the federal emergency management agency in perpetuity."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-5-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "general",
+      "requirements",
+      "licensing",
+      "contractors",
+      "construction",
+      "public",
+      "improvements"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-183"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-183. - General requirements.",
+    "summary": "The licensing of contractors and construction of general public improvements within\n               the city shall be governed by\nchapter 18\nand\nchapter 42\n, when it applies, in the same manner as the construction of improvements to private\n               property.\n(Ord. No.\n4749\n, § 1, 1-25-2021)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-183. - General requirements.",
+        "a": "The licensing of contractors and construction of general public improvements within\n               the city shall be governed by\nchapter 18\nand\nchapter 42\n, when it applies, in the same manner as the construction of improvements to private\n               property.\n(Ord. No.\n4749\n, § 1, 1-25-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-183"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

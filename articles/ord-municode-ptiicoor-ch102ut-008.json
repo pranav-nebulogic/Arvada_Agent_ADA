@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "application",
+      "charges",
+      "water",
+      "user",
+      "sewer",
+      "applied",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-39"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-39. - Application of charges.",
+    "summary": "Water user and sewer user charges are applied to all properties at present rates commencing\n               at the time the system development charges are paid and for so long thereafter as\n               the service lines to such properties are intact and serve the property, regardless\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-39. - Application of charges.",
+        "a": "Water user and sewer user charges are applied to all properties at present rates commencing\n               at the time the system development charges are paid and for so long thereafter as\n               the service lines to such properties are intact and serve the property, regardless\n               of whether or not the property is occupied or the utility service is used.\n(Code 1981, § 33-8; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 4819, § 8, 10-17-2022,\n               eff. 7-1-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-39"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

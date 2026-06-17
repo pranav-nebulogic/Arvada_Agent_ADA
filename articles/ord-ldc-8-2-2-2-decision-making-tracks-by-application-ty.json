@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "decision",
+      "making",
+      "tracks",
+      "application",
+      "type",
+      "generally",
+      "different",
+      "types",
+      "development",
+      "applications"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-2-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-2. REQUIRED DEVELOPMENT APPROVALS"
+  },
+  "content": {
+    "title": "8-2-2-2. Decision-making tracks by application type.",
+    "summary": "A.\tGenerally. Different types of development applications and land use approvals are subject to different decision-making procedures.\nB.\tDecision-Making Tracks.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-2-2. Decision-making tracks by application type.",
+        "a": "A.\tGenerally. Different types of development applications and land use approvals are subject to different decision-making procedures.\nB.\tDecision-Making Tracks. Table 8-2-2-2A, Decision-Making Tracks, sets out eight procedural tracks for review and approval of development applications.\nC.\tDecision-Making Tracks by Application Type. Table 8-2-2-2B, Decision-Making Track by Application Type, provides:\n  1.\tA brief purpose and description for each application type;\n  2.\tA reference to where more information can be found regarding each application type;\n  3.\tThe decision-making track required for each application type; and\n  4.\tThe submittal type.\n(Ord. No. 4793, § 6, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

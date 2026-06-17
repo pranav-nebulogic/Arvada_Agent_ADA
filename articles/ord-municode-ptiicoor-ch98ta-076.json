@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "vendor",
+      "responsible",
+      "payment",
+      "tax",
+      "every",
+      "shall",
+      "add"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-247"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-247. - Vendor responsible for payment of tax.",
+    "summary": "(a)\nEvery vendor shall add the tax imposed by\nsection 98-244\n(a) to the purchase price or charge of all lodging within the city; provided, however,\n               that the vendor shall be liable and responsible to the city for the payment on a monthly\n               basis of an amount equal to two p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-247. - Vendor responsible for payment of tax.",
+        "a": "(a)\nEvery vendor shall add the tax imposed by\nsection 98-244\n(a) to the purchase price or charge of all lodging within the city; provided, however,\n               that the vendor shall be liable and responsible to the city for the payment on a monthly\n               basis of an amount equal to two percent of all gross taxable sales of the vendor and\n               any collection in excess of the percentage, less that percentage amount prescribed\n               in\nsection 98-68\nto cover the vendor's expense in the collection and remittance of the tax.\n(b)\nEvery vendor shall, before October 20, 1984, and before the 20th day of each month\n               thereafter, make a return to the finance director for the preceding calendar month\n               commencing with the month of September 1984, and remit to the finance director, the\n               total amount due to the city as provided in subsection (a) of this section. The monthly\n               returns of the vendor as required hereunder shall be made in such manner and upon\n               such forms as the finance director may prescribe.\n(c)\nIf the accounting methods regularly employed by the vendor in the transaction of business,\n               or other conditions, are such that the returns aforesaid made on a calendar month\n               basis will impose an unnecessary hardship, the finance director may, upon request\n               of the vendor, accept returns at such intervals as will, in the opinion of the finance\n               director, better suit the convenience of the vendor and will not jeopardize collection\n               of the tax; provided, however, the finance director may permit a vendor whose monthly\n               tax collected is less than $60.00 to make returns and pay taxes at intervals not greater\n               than three months.\n(Code 1981, § 31-107; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-247"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

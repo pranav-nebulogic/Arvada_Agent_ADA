@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "liquor",
+      "licensing",
+      "authority",
+      "aspx",
+      "calendar",
+      "meeting",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/255/Arvada-Liquor-Licensing-Authority"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-065",
+    "spreadsheet_id": "MI-065",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Liquor Licensing Authority",
+    "summary": "The Arvada Liquor Licensing Authority is responsible for reviewing new liquor license applications, overseeing renewals, and handling hearings related to liquor code violations. Meetings are held at 10:00 AM on the 2nd and 4th Mondays of each month in the Council Chambers at City Hall, located at 8101 Ralston Road.",
+    "body": "## Overview\n\nArvada's Liquor Licensing Authority considers new applications for liquor licenses, oversees renewals and other administrative tasks, and conducts hearings on alleged violations of the liquor code.\n\n## Meeting Information\n\n- 10:00 AM\n- 2nd and 4th Mondays of every month\n- Council Chambers  \n  City Hall  \n  8101 Ralston Road\n\n### [Upcoming Meetings and Agendas](/calendar.aspx?CID=26)\n\n1. #### Mon, Jun. 22\n\n   **[Liquor Licensing Authority Meeting](/Calendar.aspx?EID=3437)**\n\n1. #### Mon, Jul. 13\n\n   **[Liquor Licensing Authority Meeting](/Calendar.aspx?EID=3426)**\n\n[View All](/calendar.aspx?CID=26)\n\n/Calendar.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

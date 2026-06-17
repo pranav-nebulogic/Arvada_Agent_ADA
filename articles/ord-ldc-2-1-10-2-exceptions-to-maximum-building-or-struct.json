@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "exceptions",
+      "maximum",
+      "building",
+      "structure",
+      "height",
+      "limits",
+      "established",
+      "apply",
+      "following",
+      "structures"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-10-2"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-10. EXCEPTIONS AND ADJUSTMENTS TO LOT AND BUILDING STANDARDS"
+  },
+  "content": {
+    "title": "2-1-10-2. Exceptions to maximum building or structure height.",
+    "summary": "A.\tThe maximum building or structure height limits established shall not apply to the following structures or structural elements:\n  1.\tChimneys, cornices without windows, cupolas, domes not used for human occupancy, elevator penthouses, roof top decks, monuments, parapet walls, skylights, spires, s…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-10-2. Exceptions to maximum building or structure height.",
+        "a": "A.\tThe maximum building or structure height limits established shall not apply to the following structures or structural elements:\n  1.\tChimneys, cornices without windows, cupolas, domes not used for human occupancy, elevator penthouses, roof top decks, monuments, parapet walls, skylights, spires, stairs, steeples, wireless communication facilities, theater scenery lofts, towers, ventilators, water tanks, and similar structures and necessary mechanical appurtenances, provided, with the exception of roof top decks, they:\n    a.\tDo not cover more than 25 percent of the roof area of the structure to which they are attached; and\n    b.\tComply with applicable screen standards for mechanical equipment and appurtenances in Section 5-1-2-3, General Building Design Standards.\n  2.\tAntennas, provided they comply with height limits established for the specific use in Section 5-1-5-4.\n  3.\tRoof-mounted small scale solar energy collection systems, in accordance with standards in Section 5-1-4-4, Renewable Energy Systems.\n  4.\tSmall wind energy conversion systems, provided the maximum height of the system, including any tower and extended blades, is in accordance with the standards in Section 5-1-4-4, Renewable Energy Systems.\n(Ord. No. 4905, § 13, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-10-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

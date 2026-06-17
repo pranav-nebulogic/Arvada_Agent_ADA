@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "annexation",
+      "requirements",
+      "state",
+      "references",
+      "generally",
+      "property",
+      "into",
+      "city",
+      "disconnection",
+      "accordance"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-3-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-3. ANNEXATION AND DISCONNECTION"
+  },
+  "content": {
+    "title": "8-3-3-2. Annexation requirements; state law references.",
+    "summary": "A.\tGenerally.\n  1.\tAnnexation of property into the City and disconnection of property from the City shall be in accordance with the constitution and laws of the State of Colorado in effect at the time of the petition.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-3-2. Annexation requirements; state law references.",
+        "a": "A.\tGenerally.\n  1.\tAnnexation of property into the City and disconnection of property from the City shall be in accordance with the constitution and laws of the State of Colorado in effect at the time of the petition. Annexations shall also be processed in accordance with this Division (which is intended to supplement Colorado law), except to the extent of any irreconcilable conflict with Colorado law.\n  2.\tIn the event that additional requirements are imposed by applicable Colorado law, the Director shall modify the annexation process or standards to add any additional requirements of Colorado law.\nB.\tAnnexation References. As of the effective date of this LDC, annexation is controlled by C.R.S. § 31-12-101, et seq. (the Municipal Annexation Act of 1965) and Article II, Section 30 of the Colorado Constitution.\nC.\tDisconnection References. As of the effective date of this LDC, applications for disconnection shall be processed according to the standards and procedures set out in C.R.S. §§ 31-12-501 to 31-12-503, inclusive except with respect to the effective date of a disconnection ordinance adopted pursuant thereto, which shall be governed by Section 5.8 of the City of Arvada Home Rule Charter."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

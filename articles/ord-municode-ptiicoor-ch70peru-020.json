@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "appointment",
+      "rate",
+      "initial",
+      "hire",
+      "time",
+      "determined",
+      "based"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-53"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-53. - Appointment rate.",
+    "summary": "(a)\nInitial hire.\nAt the time of initial hire, the appointment rate will be determined based on an\n               evaluation of an applicant's qualifications, including relevant education, training,\n               and experience as compared to others in similar positions. Appointment rates above\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-53. - Appointment rate.",
+        "a": "(a)\nInitial hire.\nAt the time of initial hire, the appointment rate will be determined based on an\n               evaluation of an applicant's qualifications, including relevant education, training,\n               and experience as compared to others in similar positions. Appointment rates above\n               the middle of the pay grade may be paid with approval of the city manager or designee\n               thereof. No position will be paid above the assigned salary grade maximum.\n(b)\nRe-hire.\nThe appointment rate for an employee who is rehired at the city after a layoff or\n               voluntary resignation will be handled pursuant to\nsection 70-39\n.\n(c)\nTransfer, promotion, demotion, or voluntary reassignment, or advancement in career\n                  progression.\nIf an employee is transferred, promoted, demoted, voluntarily reassigned, or advances\n               in career progression, the appointment rate for the employee in the new position will\n               be based on the employee's qualifications, including relevant education, training,\n               experience, and seniority, as compared to others in similar positions. The new appointment\n               rate will not be less than the minimum rate or more than the maximum rate for the\n               new grade.\n(\nOrd. No. 4862\n, § 1, 10-16-2023;\nOrd. No. 4890\n, § 4, 2-10-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-53"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

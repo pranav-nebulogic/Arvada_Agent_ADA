@@ -1,0 +1,52 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "environment",
+      "footnotes",
+      "cross",
+      "reference",
+      "animals",
+      "buildings",
+      "building"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nAnimals, ch. 14; buildings and building regulations, ch. 18; drainage and stormwater quality, ch. 50; transportation of hazardous materials or hazardous waste, § 54-181 et seq.; parks and recreation, ch. 66; planning and development, ch. 74; solid waste, ch.…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 38 - ENVIRONMENT",
+        "a": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nAnimals, ch. 14; buildings and building regulations, ch. 18; drainage and stormwater quality, ch. 50; transportation of hazardous materials or hazardous waste, § 54-181 et seq.; parks and recreation, ch. 66; planning and development, ch. 74; solid waste, ch. 90; streets, sidewalks and certain other public places, ch. 94; utilities, ch. 102; zoning districts, pt. III, art. 4; use regulations, pt. III, art. 5; development\n               standards, pt. III, art. 6; subdivision regulations and improvements, pt. III, art.\n               7.\nState Law reference—\nNoise, C.R.S. § 25-12-101 et seq."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

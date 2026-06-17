@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "residential",
+      "properties",
+      "excluded",
+      "services",
+      "except",
+      "otherwise",
+      "provided"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-36"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-36. - Residential properties excluded from services.",
+    "summary": "Except as otherwise provided in this chapter, the city shall not provide residential\n               waste collection services to the following:\n(1)\nAll commercial and industrial establishments and multifamily residences containing\n                  eight or more units are excluded from the city's re…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-36. - Residential properties excluded from services.",
+        "a": "Except as otherwise provided in this chapter, the city shall not provide residential\n               waste collection services to the following:\n(1)\nAll commercial and industrial establishments and multifamily residences containing\n                  eight or more units are excluded from the city's residential waste collection services\n                  program and waste services fees.\n(2)\nResidential properties that are part of a homeowners' association and have an active\n                  contract with a waste and recycling hauler as of December 31, 2020 are excluded from\n                  the city's residential waste collection services program but are still subject to\n                  the city program fee. Homeowners' associations must maintain an active waste and recycling\n                  contract and proof of an active contract must be provided to the city if requested.\na.\nHomeowners' associations that wish to join the city's residential waste collection\n                  services program must join pursuant to the city's current waste hauling agreement.\nb.\nAll homeowners' associations formed after December 31, 2020 shall be subject to the\n                  city's residential waste collection program and fees.\n(Ord. No.\n4733\n, § 1, 6-15-2020;\nOrd. No. 4891\n, § 2, 3-4-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-36"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "december",
+      "business",
+      "newland",
+      "address",
+      "arva",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1496/New-Businesses-December-2025"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-343",
+    "spreadsheet_id": "MI-343",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses December 2025",
+    "summary": "In December 2025, several new businesses opened in Arvada, Colorado, including $1.35 A Scoop & Up Chinese Restaurant, At Ease Painting LLC, and HoneyMoon Bakery. Other notable additions are Behind The Cleats Collectibles, Complete Kaimana Kailani Holdings LLC, and Cre8tive Entertainment, among others. Each business has provided contact information for inquiries.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew business listings for the month of December 2025\n\n| $1.35 A SCOOP & UP CHINESE RESTAURANT | 7501 RALSTON RD ARVADA CO 80002 | 303-422-2388 |\n| At Ease Painting LLC | 5618 NEWLAND WAY ARVADA CO 80002 | 720-330-5855 |\n| Behind The Cleats Collectibles | 6429 MILLER ST B ARVADA CO 80004 | 720-891-6911 |\n| Complete Kaimana Kailani Holdings LLC | 6264 W 62ND AVE ARVADA CO 80003 | 314-709-1812 |\n| Cre8tive Entertainment | 5609 NEWLAND WAY ARVADA CO 80002 | 303-478-5965 |\n| HoneyMoon Bakery | ARVADA CO 80005 | 909-456-0274 |\n| Kyle Trombly Foundation | ARVADA CO 80004 | 303-249-4903 |\n| Rocky Mountain Base | ARVADA CO 80003 | 720-271-6761 |\n| Sean Greenspan | 6115 CHASE ST ARVADA CO 80003 | 240-994-4561 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

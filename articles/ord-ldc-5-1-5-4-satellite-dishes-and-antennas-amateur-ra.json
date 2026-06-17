@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "satellite",
+      "dishes",
+      "antennas",
+      "amateur",
+      "radio",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "federal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-5-4"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-5. SUPPLEMENT STANDARDS FOR RESIDENTIAL LAND USES (EXCEPT MULTIFAMILY)"
+  },
+  "content": {
+    "title": "5-1-5-4. Satellite dishes and antennas; Amateur radio antennas.",
+    "summary": "A.\tGenerally. The standards of this Section apply to satellite dishes and antennas that the Federal Communications Commission (\"FCC\") has designated as \"over-the-air-reception-devices\" (\"OTARD\"), which are typically associated with residential uses; and to amateur (\"HAM\") radio antennas.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-5-4. Satellite dishes and antennas; Amateur radio antennas.",
+        "a": "A.\tGenerally. The standards of this Section apply to satellite dishes and antennas that the Federal Communications Commission (\"FCC\") has designated as \"over-the-air-reception-devices\" (\"OTARD\"), which are typically associated with residential uses; and to amateur (\"HAM\") radio antennas. These standards are not applicable to facilities that are used for commercial purposes or the provision of personal wireless telecommunication services to people who do not reside on the lot on which the dish or antenna is located.\nB.\tTV Antennas, DTV Antennas, Wireless Cable Antennas, and Satellite Dishes One Meter or Less in Diameter.\n  1.\tThe following OTARD are permitted if they are attached to a building or mounted on a mast that extends not more than 12 feet above the highest peak of the roof:\n    a.\tTV antennas;\n    b.\tWireless cable antennas; or\n    c.\tSatellite dishes that are one meter or less in diameter.\n  2.\tUnless such location is unreasonable in that it does not offer acceptable quality reception or transmission, or it would present an unreasonable expense compared to an alternative location, OTARD shall be mounted on rear building elevations. If the rear building elevation is unreasonable, OTARD shall be mounted on interior side building elevations, as far towards the rear of the building as will not make the location unreasonable. If the interior side building elevation is unreasonable, OTARD shall be mounted on street side building elevations or masts that are as low as possible so as not to be unreasonable. Masts that are not mounted on the building shall be set back from property lines as required for principal buildings.\n  3.\tOTARD shall be mounted as inconspicuously as possible.\n  4.\tOnly one satellite dish per dwelling unit is permitted.\n  5.\tDishes and antennas no longer in use shall be promptly removed.\n  6.\tSubject to operational requirements, the satellite dish color shall be a neutral color (i.e., white or gray), and blend in with the surroundings. No additional signage is permitted on the satellite dish other than the logos of the satellite dish service provider or dish manufacturer.\nC.\tSatellite Dishes That Are More Than One Meter in Diameter. Satellite dishes that are more than one meter in diameter are permitted if:\n  1.\tThey are located on the ground in the rear yard and are not visible from ground-level views from public rights-of-way or adjoining properties; or\n  2.\tIf the dish cannot be located in the rear yard, it is located on the ground within the permitted building envelope on the side of the building, and the dish or antenna is fully screened from view from public rights-of-way with:\n    a.\tA screen fence or wall; or\n    b.\tEvergreen shrubs or trees.\n  3.\tWhere feasible, all cabling must be run internally (or underground, as appropriate), securely attached, and as inconspicuous as practicable.\nD.\tAmateur Radio Antennas. Amateur radio antennas are permitted if the following standards are met:\n  1.\tHeight, setbacks, and screening for the antenna structure shall be as provided in Table 5-1-5-4, Amateur Radio Antennas.\n  2.\tSupport structures that are not attached to the antenna structure shall be treated as accessory structures for the purposes of height, setbacks, and screening.\n(Ord. No. 4793, § 4, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-5-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

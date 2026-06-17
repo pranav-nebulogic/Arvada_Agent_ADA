@@ -1,0 +1,92 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "special_event_permit",
+    "category": "events",
+    "source_urls": [
+      "https://www.arvadaco.gov/663/Special-Event-Permits"
+    ],
+    "scraped_at": "2026-06-10T11:01:34.307123+00:00",
+    "content_hash": "e99455e470616de3b319fcb44c3c06c43b9a7a4951f1805392d353b6f4f17c4b",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Special Event Permits",
+    "summary": "A temporary special event permit is required in the City of Arvada if your event meets certain criteria such as having more than 100 attendees, involving amplification or lighting, temporary structures, amusement rides, or traffic control. Events must also comply with the Americans With Disabilities Act (ADA) guidelines.",
+    "eligibility": "Any organizer of an event in the City of Arvada that meets the specified criteria for special event permits.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Determine if you need a permit",
+        "text": "You need a temporary special event permit if any of the following criteria are met: your event is expected to have more than 100 attendees at any one time; your event involves amplification (of music or speech) and/or lighting; your event involves temporary structures (other than canopies and tables) or amusement rides; your event involves traffic control. Ensure your event complies with ADA guidelines.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Identify your event type",
+        "text": "Select the type of event you are having: Olde Town Event, Race Event, Public Park Event, Park Pavilion Event, or Other Event.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Apply online via SMART License & Permits",
+        "text": "The City of Arvada uses SMART License & Permits for the permit application process. If you are new to SMART License & Permits, view the login instructions and application guide. Returning users can log in to the SMART License & Permits application to apply.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 4,
+        "title": "Security review",
+        "text": "The Arvada Police Department reserves the right to specify the need for and number of off-duty police officers or security personnel required to be in attendance at any event.",
+        "portal_url": null
+      },
+      {
+        "n": 5,
+        "title": "Alternative application method",
+        "text": "If you are unable to complete your application electronically, contact the City to request an appointment at City Hall.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": null,
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Do I need a special event permit?",
+        "a": "You need a temporary special event permit if your event meets any of the specified criteria such as attendance over 100, amplification, temporary structures, amusement rides, or traffic control."
+      },
+      {
+        "q": "What are the time and fee requirements?",
+        "a": "Refer to the City of Arvada's special event permit guidelines and SMART License & Permits application for specific timeframes and fees."
+      },
+      {
+        "q": "Does my event need to follow accessibility guidelines?",
+        "a": "Yes, your event must comply with the Americans With Disabilities Act (ADA) guidelines. Follow the guidance on the Special Events ADA Checklist page."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "temporary_structure_permit",
+      "amusement_ride_permit",
+      "traffic_control_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1934
+}

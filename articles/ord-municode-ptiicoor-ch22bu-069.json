@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "impersonating",
+      "peace",
+      "officer",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-234"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-234. - Impersonating a peace officer.",
+    "summary": "It shall be unlawful for any person, while performing the duties of a business or\n               security guard, to falsely pretend to be a peace officer. The term \"pretending\" to\n               be a peace officer means to:\n(1)\nWear or display any uniform, badge, insignia, shield, patch, or pattern …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-234. - Impersonating a peace officer.",
+        "a": "It shall be unlawful for any person, while performing the duties of a business or\n               security guard, to falsely pretend to be a peace officer. The term \"pretending\" to\n               be a peace officer means to:\n(1)\nWear or display any uniform, badge, insignia, shield, patch, or pattern that:\na.\nIndicates or is intended to indicate to the public that the person is a sworn peace\n                  officer;\nb.\nContains or includes the words \"police\" or the words \"public safety\"; or\nc.\nIs a colorable imitation of or can be confused with the uniforms of the city police\n                  department.\n(2)\nHave or utilize any vehicle or equipment that:\na.\nDisplays the words \"police,\" \"law enforcement,\" or \"public safety\";\nb.\nDisplays any sign, shield, marking, accessory, or insignia that indicates or is intended\n                  to indicate to the public that the vehicle or equipment is operated by the city police\n                  department or another law enforcement agency; or\nc.\nIs a colorable imitation of or so similarly marked as to cause confusion with patrol\n                  vehicles of the city police department.\n(Code 1981, § 21-94; Ord. No. 3739, § 2, 3-4-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-234"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

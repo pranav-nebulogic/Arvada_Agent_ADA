@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "relief",
+      "judge",
+      "city",
+      "council",
+      "appoint",
+      "many",
+      "judges"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-74"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-74. - Relief judge.",
+    "summary": "The city council may appoint as many relief judges as is determined at the sole discretion\n               of the city council to substitute for the presiding or associate judge from time-to-time.\n               Relief judges shall be residents of the city and shall be compensated pursuant to\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-74. - Relief judge.",
+        "a": "The city council may appoint as many relief judges as is determined at the sole discretion\n               of the city council to substitute for the presiding or associate judge from time-to-time.\n               Relief judges shall be residents of the city and shall be compensated pursuant to\n               an employment agreement, be supervised by the presiding judge on day-to-day opera\n               tions of the municipal court and shall report to the city council as directed from\n               time-to-time.\n(Code 1981, § 18-43; Ord. No. 3676, § 1, 1-22-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-74"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

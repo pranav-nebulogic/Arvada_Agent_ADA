@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "graphic",
+      "design",
+      "purchase",
+      "code",
+      "paid",
+      "price",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/342/Graphic-Design"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-018",
+    "spreadsheet_id": "BP-018",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Graphic Design",
+    "summary": "The Arvada Municipal Code imposes a sales tax on the purchase price of tangible personal property sold at retail, with use tax applicable if insufficient tax was paid at the time of purchase. Graphic design, which encompasses the creation of visual communication for various media, is subject to specific tax guidelines, including the taxation of materials, labor, and services involved in the production of designs. This summary serves as a layman's overview of the relevant tax laws for graphic design services in Arvada and should be used alongside the full tax code for accurate tax liability determination.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property sold at retail in the City. To the extent a sufficient, legally-imposed sales and use tax was not paid to the City or another municipality at the time of purchase, Arvada use tax is due. The taxable purchase price is defined, in part, as the amount of money received or due in cash and credit inclusive of charges for freight, delivery, and transportation. Graphic design is a creative process that combines art and technology to communicate ideas in print and electronic media.\n\nGraphic design often refers to both the process (designing) by which the visual communication is created and the products (designs) which are generated. Common uses of graphic design include identity (logos and branding), websites, publications (magazines, newspapers, and books), advertisements, and product packaging.\n\nFor example, a product package might include a logo or other artwork, organized text, and pure design elements such as shapes and colors which unify the piece.\n\n## Graphic Design Process\n\nUnderstanding the graphic arts process is crucial when determining the correct application of tax to transfers of tangible products and related services. The providers of graphic art services generally include advertising agencies; commercial artists; stock shot houses; sketch artists; illustrators; commercial photographers; copywriters; printers; publishers; color separators, and photo labs providing scans and transparencies. The consumers of graphic art services can include advertising agencies acting as agents of their clients, businesses that use forms or business cards, event producers, publishers, and other end users of the designs produced.\n\nWhen tangible personal property is produced for sale, the taxable price includes the entire cost of materials used, labor or services performed, and the profit thereon. Also, included in the taxable base of the sale of property transactions would be: minimum charges, rush charges, delivery or transportation charges, and services that involve components of the product including such charges as for pre-press preparation, even if separately stated on the invoice.\n\n## Examples\n\n- XYZ Advertising Agency buys art supplies for its layout work. (Layout work is a drawing or sketch of a proposed printed piece.) Sales tax should be charged by the vendor of the art supplies. If the vendor is unlicensed, or for any reason fails to charge sales tax, then XYZ Advertising Agency is responsible for remitting use tax to the City on its sales and use tax return.\n- XYZ Advertising Agency designs an annual report for the Big Time Corporation. An outside printer is engaged by YXZ to do the printing. The charge to the Big Time Corporation for the in-house design work and for printing the report is taxable unless the design charge is separately stated on the invoice. If the design charge is separately stated, then only the charge for printing the report is taxable.\n- XYZ Advertising Agency designs an annual report for the Small Time Corporation. XYZ Advertising has its own in-house print shop and bindery. Thus the guidelines for the taxation of the printing industry must be followed. The total charge to the customer for printing and binding is subject to sales tax.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

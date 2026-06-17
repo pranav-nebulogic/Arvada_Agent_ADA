@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "development",
+    "tags": [
+      "neighborhood",
+      "block",
+      "party",
+      "park",
+      "site",
+      "plan",
+      "Planning & Zoning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1539/Neighborhood-Block-Party-Park-Site-Plan-"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/development/pz-006",
+    "spreadsheet_id": "PZ-006",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Neighborhood Block Party Park Site Plan Guidelines",
+    "summary": "To host a block party in a city park, a permit application must be submitted along with a site map detailing the planned use of the park, including the placement of items like bounce houses and food trucks. This ensures proper use of the park facilities and minimizes damage. Guidelines for creating the site plan can be found on the City of Arvada's interactive Parks and Open Space map.",
+    "body": "A block party in a city park requires a permit application and approval. The permit application also requires a site map of the park that shows how you plan to use the park. The site plan must include the location of items like bounce houses, electrical generators, food trucks and movie screens. This ensures that the park is used properly to minimize damage to the irrigation system and grassy areas. Use these guidelines to prepare a park site plan for your neighborhood block party.\n\nTo find a map of your neighborhood park:\n\n- Begin by visiting the [City of Arvada interactive Parks and Open Space map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=b0199c652f7447338b3759ff63f61882)\n- In the search box, type the name or address of the park\n- Use the resulting map to create your own park map (you can grab a screenshot or print the park map).\n- Add any applicable items to your map. Some examples are listed here.\n\nFood Truck\n\n![black food truck icon ](/ImageRepository/Document?documentId=7451)\n\nObstacle Course\n\n![black x icons symbolizing an obstacle course ](/ImageRepository/Document?documentId=7450)\n\nGenerator\n\n![black lightning bolt icon symbolizing a generator ](/ImageRepository/Document?documentId=7452)\n\nMovie Screen\n\n![Black rectangle icon symbolizing a movie screen](/ImageRepository/Document?documentId=7448)\n\nTent\n\n![black triangle icon symbolizing a tent](/ImageRepository/Document?documentId=7449)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

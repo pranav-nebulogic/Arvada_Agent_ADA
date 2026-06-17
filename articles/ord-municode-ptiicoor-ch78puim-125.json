@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "classification",
+      "sewer",
+      "districts",
+      "council",
+      "order",
+      "ordinance",
+      "acquisition"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-126"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-126. - Classification of sewer districts.",
+    "summary": "(a)\nThe council may order by ordinance the acquisition of:\n(1)\nDistrict sewers and appurtenances for sanitary drainage for districts to be known\n               as sanitary sewer districts;\n(2)\nDistrict sewers and appurtenances for storm and sanitary drainage for districts to\n               be known …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-126. - Classification of sewer districts.",
+        "a": "(a)\nThe council may order by ordinance the acquisition of:\n(1)\nDistrict sewers and appurtenances for sanitary drainage for districts to be known\n               as sanitary sewer districts;\n(2)\nDistrict sewers and appurtenances for storm and sanitary drainage for districts to\n               be known as combined sewer districts;\n(3)\nRelief sewers or intercepting sewers and appurtenances for storm drainage, sanitary\n               drainage or both, for districts to be known as relief sewer districts or as intercepting\n               sewer districts; and\n(4)\nDistrict sewers and appurtenances for sanitary drainage for districts to be known\n               as special sanitary sewer districts.\n(b)\nSuch sewers shall be constructed so as to connect within or without the district with\n               some other sufficient sewer or sewage disposal station or with some natural drainage.\n               Such districts, except special sanitary sewer districts, may be composed of subdistricts\n               to be specifically named or numbered in said ordinance.\n(c)\nDistrict sewers, except as hereinafter provided, shall include all submains necessary\n               to provide outlets for all subdistrict laterals within the district.\n(d)\nSpecial district sewers shall include the necessary mains to provide outlets for all\n               laterals within the special sewer district.\n(Code 1981, § 27-126; Ord. No. 551, § 67, 5-14-1964)\nState Law reference—\nSewer districts, C.R.S. § 31-25-505 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-126"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "budgets",
+      "appropriations",
+      "capital",
+      "improvements",
+      "fund",
+      "budget",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-295"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-295. - Budgets and appropriations.",
+    "summary": "A capital improvements fund budget shall be prepared annually for a five-year period\n               and will include all of the facilities described in section 2-69 hereof. The budget\n               shall include the location and annual total estimated cost, together with the apportionment\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-295. - Budgets and appropriations.",
+        "a": "A capital improvements fund budget shall be prepared annually for a five-year period\n               and will include all of the facilities described in section 2-69 hereof. The budget\n               shall include the location and annual total estimated cost, together with the apportionment\n               of the total estimated cost of each applicable year of the budget period. The budget\n               will reflect the anticipated source of revenues for each facility including sources\n               other than those available in the capital improvements fund. The capital improvements\n               budget shall be adopted annually by resolution and appropriations shall be made by\n               ordinance. Appropriations may be made without regard to the time of year and shall\n               not expire until the project authorized thereby is complete and all costs thereof\n               are paid or the project is cancelled.\n(Code 1981, § 2-70; Ord. No. 2547, § 1, 8-15-1988)\nCharter reference—\nBudget procedure, § 10.2."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-295"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

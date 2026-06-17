@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fees",
+      "charges",
+      "expenses",
+      "lien",
+      "upon",
+      "property",
+      "debt"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-279"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-279. - Fees, charges, and expenses to be lien upon property.",
+    "summary": "(a)\nDebt due and owing.\nUnless paid within 63 days of assessment, all fees, rates, charges, penalties, or\n               expenses incurred by the city under this article constitute a debt due and owing to\n               the city, and the city has the right to recover on any such debt in the manner p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-279. - Fees, charges, and expenses to be lien upon property.",
+        "a": "(a)\nDebt due and owing.\nUnless paid within 63 days of assessment, all fees, rates, charges, penalties, or\n               expenses incurred by the city under this article constitute a debt due and owing to\n               the city, and the city has the right to recover on any such debt in the manner provided\n               by law in any court of competent jurisdiction.\n(b)\nLien.\nUnless paid within 63 days of assessment, all fees, rates, charges, penalties, or\n               expenses incurred by the city under this article constitute a perpetual lien on and\n               against the property served, and any such lien may be foreclosed by the city at any\n               time in the manner as provided by the laws of the state for the foreclosure of mechanics'\n               liens or in accordance with\nchapter 59\nof this Code entitled \"Municipal Liens.\" Such lien foreclosure by the city is subject\n               to all rights of redemption granted by C.R.S. § 38-39-101 et seq., as amended.\n(\nOrd. No. 4829\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-279"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

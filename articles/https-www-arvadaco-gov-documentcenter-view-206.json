@@ -1,0 +1,87 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "licensing",
+    "source_urls": [
+      "https://www.arvadaco.gov/DocumentCenter/View/206"
+    ],
+    "scraped_at": "2026-06-10T11:21:35.469194+00:00",
+    "content_hash": "80eed6bff4777ca32c97ffe6f96cf327c85368963608223a652d3dc115036d60",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Licenses and Permitting for Contractors in the City of Arvada",
+    "summary": "Contractors working on City of Arvada projects must obtain specific licenses and permits depending on the project scope. These include licenses and permits administered by the Building Department and the Engineer Division.",
+    "eligibility": "Contractors working on City of Arvada projects",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Obtain a Contractor's License",
+        "text": "A Contractors License is required for any contractor working in the City of Arvada.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Obtain a Building Permit if Applicable",
+        "text": "A Building Permit is required for anything constructed above grade, such as a restroom enclosure or park shelter. Additional permits may be required for miscellaneous project elements such as fences or retaining walls. The need for these permits will be determined during the application process for the building permit.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 3,
+        "title": "Obtain an Irrigation Permit if Applicable",
+        "text": "An Irrigation Permit is typically required for irrigation work, both inside and outside the public Right of Way (ROW).",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Obtain a Municipal Contractor’s License if Working in City ROW or Property",
+        "text": "A Municipal Contractor’s License is required for any contractor working in a City of Arvada Right of Way or on City property. The type of Municipal Contractor’s License(s) required depends on the scope of work involved. Examples include Landscaping Contractor’s License, Excavation Contractor’s License, Flatwork Concrete Contractor’s License, and Traffic Control Contractor.",
+        "portal_url": null
+      },
+      {
+        "n": 5,
+        "title": "Obtain a General Public Improvement Permit if Working in City ROW or Property",
+        "text": "A General Public Improvement Permit is required for any work performed in a City of Arvada Right of Way or on City property. This permit covers taps up to 2\" and is a no cost permit for contractors working on City projects.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "Municipal Contractor’s License",
+        "amount": null,
+        "rate": null,
+        "config_key": null,
+        "notes": "Costs vary based on which particular licenses are required for a given project."
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Inspection Department",
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Building Permit",
+      "Irrigation Permit",
+      "General Public Improvement Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1851
+}

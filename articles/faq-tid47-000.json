@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-47-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "colorado",
+      "safety",
+      "stop",
+      "law",
+      "makes",
+      "legal",
+      "cyclists",
+      "other",
+      "Bicycling in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=47"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-is-the-colorado-safety-stop-law",
+    "faq_category_name": "Bicycling in Arvada"
+  },
+  "content": {
+    "title": "What is the Colorado Safety Stop Law?",
+    "summary": "The Colorado Safety Stop Law makes it legal for cyclists (and other low-speed conveyances) to: Treat stop signs like yield signs Red traffic signals like stop signs After checking for traffic, cyclists can then proceed through the intersection. This helps move cyclists through the intersection and o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What is the Colorado Safety Stop Law?",
+        "a": "The Colorado Safety Stop Law makes it legal for cyclists (and other low-speed conveyances) to: Treat stop signs like yield signs Red traffic signals like stop signs After checking for traffic, cyclists can then proceed through the intersection. This helps move cyclists through the intersection and out of the high-conflict zone, improving safety for everyone."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

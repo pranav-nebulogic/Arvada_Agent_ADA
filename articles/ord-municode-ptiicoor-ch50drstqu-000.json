@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "drainage",
+      "stormwater",
+      "quality",
+      "footnotes",
+      "editor",
+      "note",
+      "ord"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 50-1"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nEditor's note—\nOrd. No. 4875\n, § 1, adopted August 19, 2024, repealed the former Ch. 50, §§ 50-1, 50-21—50-26,\n               50-51, 50-52, 50-70—50-79, and enacted a new Ch. 50 as set out herein. The former\n               Ch. 50 pertained to irrigation and drainage and deri…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY",
+        "a": "Footnotes:\n--- (\n1\n) ---\nEditor's note—\nOrd. No. 4875\n, § 1, adopted August 19, 2024, repealed the former Ch. 50, §§ 50-1, 50-21—50-26,\n               50-51, 50-52, 50-70—50-79, and enacted a new Ch. 50 as set out herein. The former\n               Ch. 50 pertained to irrigation and drainage and derived from Code 1960, §§ 13-1—13-4,\n               16A-17; Code 1981, § 15-1, 15-16—15-21, 15-34, 15-44; Ord. No. 2934, § 1, 11-2-1992;\n               Ord. No. 4081, §§ 1, 2, 8-20-2007;\nOrd. No. 4367, §§ 1—5, 11-19-2012\n;\nOrd. No. 4452, § 1, 8-4-2014\n; Ord. No.\n4728\n, § 13, 5-18-2020.\nCross reference—\nEnvironment, ch. 38; utilities, ch. 102."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 50-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

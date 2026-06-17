@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-48-007",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "residents",
+      "help",
+      "maintain",
+      "lake",
+      "quality",
+      "reduce",
+      "odor",
+      "issues",
+      "Public Improvement Projects - Lake Arbor Restoration"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=48"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-can-residents-do-to-help-maintain-the-lake-quality-and-",
+    "faq_category_name": "Public Improvement Projects - Lake Arbor Restoration"
+  },
+  "content": {
+    "title": "What can residents do to help maintain the lake quality and reduce odor issues?",
+    "summary": "Fertilizers Use natural, slow-release nitrogen or low phosphorus fertilizers to help keep drainage ways clean. If you need to use fertilizers or pesticides, follow the instructions on the label. Do not apply fertilizers or pesticides before it rains. This will not allow the fertilizers or pesticides…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What can residents do to help maintain the lake quality and reduce odor issues?",
+        "a": "Fertilizers Use natural, slow-release nitrogen or low phosphorus fertilizers to help keep drainage ways clean. If you need to use fertilizers or pesticides, follow the instructions on the label. Do not apply fertilizers or pesticides before it rains. This will not allow the fertilizers or pesticides to fully penetrate through the soil. Clean up pet waste Ensure that you always pick up after your pet and dispose of waste appropriately. Landscaping Use \"barrier\" and drought-tolerant plants on your property that can help retain run-off water, improve nutrient uptake, and reduce the amount of contaminants going downstream to the lake. Shrubs and trees that perform well in the semi-arid state of Colorado include: Western or northern catalpa Gambel oak Silver fountain butterfly bush Arnold red honeysuckle Yellow flowering or golden currant Car Washing Limit the amount of water entering street gutters and storm drains. Using a bucket and water to reduce the amount of water used. Consider using a local car wash facility, as they are often required to have systems to better handle runoff and, in some cases, recycle and reuse water."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

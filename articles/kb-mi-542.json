@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "guides",
+      "information",
+      "subjects",
+      "assist",
+      "assistance",
+      "businesses",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/270/Tax-Guides"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-542",
+    "spreadsheet_id": "MI-542",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Tax Guides",
+    "summary": "Tax guides in Arvada are designed to help businesses understand local taxation on various subjects, offering clear explanations and examples. While these guides provide general information, they do not replace the official Arvada tax code and are not for legal use. For further inquiries or assistance, businesses can contact the provided phone number.",
+    "body": "## What Is a Tax Guide and How Do I Use It\n\nTax guides are valuable tools put together to assist businesses in how Arvada treats taxation on a variety of subjects. The guides provide general tax information on popular subjects, with easy-to-understand explanations and relevant examples. The guides are not meant to replace the Arvada tax code and are not intended to be used for legal purposes. If you still have questions, need more information, or need assistance with a topic not listed here, please give us a call at **720-898-7100** and let us help you!",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

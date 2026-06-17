@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "golf",
+      "courses",
+      "restaurants",
+      "water",
+      "restrictions",
+      "stage",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/634/Golf-Courses-and-Restaurants"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-248",
+    "spreadsheet_id": "MI-248",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Golf Courses and Restaurants",
+    "summary": "The City of Arvada is implementing Stage 1 water restrictions, requiring a 20% reduction in water use at its golf courses, West Woods and Lake Arbor. The irrigation plan prioritizes water use for greens and tees while allowing rough and practice areas to experience reduced irrigation, leading to potential dormancy in some turf. Both courses maintain full-service dining options and are certified members of the Audubon Cooperative Sanctuary Program for Golf.",
+    "body": "1. [Stage 1 Drought Restrictions](#tab8de32b68-e99f-45a8-89e1-b6f9657d0d21_0)\n\n## How Arvada Golf Courses are Responding to Stage 1 Water Restrictions\n\nThe City of Arvada is currently in [Stage 1 watering restrictions](/1499), which require a reduction in water use of approximately 20%.\n\nBoth West Woods and Lake Arbor golf courses follow a structured drought response plan that prioritizes where water is used on the course and adjusts irrigation accordingly.\n\n### Prioritizing Water Use\n\nDuring drought conditions, Arvada Golf prioritizes irrigation based on playability and safety. The highest priority areas are:\n\n1. Greens\n2. Tees\n3. Fairways and approaches\n4. Rough\n5. Practice areas\n6. Clubhouse areas\n7. Native areas\n\nIf water use must be reduced, irrigation is adjusted in this order to focus available water on the most critical areas of the course.\n\n### What Stage 1 (20% Reduction) Means for Golf Courses\n\nUnder a 20% overall reduction scenario, the City’s drought plan outlines the following adjustments:\n\n- Greens and tees: No reduction in irrigation\n- Fairways and approaches: No reduction in irrigation\n- Rough areas: Reduced irrigation, which will result in some turf going dormant\n- Native areas: No irrigation\n- Practice areas: Reduced irrigation, with some turf going dormant\n- Clubhouse landscape areas: Maintained under current conditions\n\nThese changes are designed to meet water reduction goals while maintaining safe and playable conditions where it matters most.\n\n### What You May Notice\n\nAs a result of these required reductions, golfers and visitors may notice:\n\n- Drier or browning turf in rough and practice areas\n- Non-irrigated native areas\n- Less uniform conditions across the course\n\nThese conditions are expected during drought response and reflect the City’s commitment to reducing water use.\n\n### A Balanced Approach\n\nArvada Golf uses a data-driven irrigation system that allows staff to precisely control where and when water is applied. This system uses weather data and monitoring tools to reduce waste and improve efficiency, helping the City meet its conservation goals while maintaining the golf experience.\n\nThe City of Arvada owns and operates two golf courses, West Woods Golf Club and Lake Arbor Golf Course. Both courses offer a full-service, sit-down restaurant along with grab-and-go options.\n\nBoth courses are certified members of the [Audubon Cooperative Sanctuary Program for Golf](/638).\n\n[![Audubon Banner with City Logo and Golf Course Logos](/ImageRepository/Document?documentId=6597)](/638)\n\n### West Woods Golf Club\n\nWest Woods Golf Club is a scenic 27-hole public course located at [6655 Quaker St.](https://maps.app.goo.gl/wvLj1gk6g587X5kz6) in west Arvada. The course was designed by Richard Phelps and is nestled along the foothills of the Rocky Mountains.\n\n[**Visit the West Woods Golf Club website**](https://www.westwoodsgolf.com/)**for more information or to book a tee time.**\n\n[![Aerial view of West Woods Golf Club clubhouse with carts, driving range, and foothills in the backgr](/ImageRepository/Document?documentId=7454)](https://www.westwoodsgolf.com/)\n\n### Lake Arbor Golf Course\n\nLake Arbor Golf Club is a scenic 18-hole public course located at [8860 Wadsworth Blvd.](https://maps.app.goo.gl/jsc8JyF2J1ozoNBGA) in east Arvada. The course features lush, medium-sized greens and narrow fairways. The classic layout is easily walked and provides picturesque views of the Rocky Mountains.\n\n[**Visit the Lake Arbor Golf Course website**](https://www.lakearborgolf.com/)**for more information or to book a tee time.**\n\n[![Sunlit green at Lake Arbor Golf Course with flagstick, trees, and long shadows across the fairway.](/ImageRepository/Document?documentId=7453)](https://lakearborgolf.com/)\n\nA third public golf course located in Arvada is the [Indian Tree Golf Course](https://indiantree.apexprd.org/) owned and operated by the [Apex Park and Recreation District](http://apexprd.org/).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

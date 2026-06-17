@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "signs",
+      "signals",
+      "street",
+      "safety",
+      "devices",
+      "traffic",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/477/Signs-Signals-Street-Safety"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-036",
+    "spreadsheet_id": "BP-036",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Signs, Signals, & Street Safety",
+    "summary": "The City of Arvada employs various traffic control measures, including signs, signals, and speed limits, to ensure safe and efficient travel for its residents, adhering to national standards. The Public Works Department regularly evaluates and adjusts these measures based on roadway conditions, traffic volume, and safety data. Residents are encouraged to report concerns regarding traffic issues through the city's communication channels.",
+    "body": "Street signs, signals, speed limits, or other traffic control measures are thoughtfully employed to safely and efficiently serve Arvada’s traveling public. The Public Works Department uses national and regional standards to establish, maintain, and improve City infrastructure.\n\nTraffic control devices are intended to manage the flow of travel in a safe and efficient manner. Some of these devices include:\n\n- Traffic signals\n- Stop signs\n- Speed limits\n- Lane markings\n\nThese devices are designed and installed using criteria in the Manual on Uniform Traffic Control Devices (MUTCD) and additional traffic engineering principles. These criteria have been established nationally and have been adopted by the City. Examples of criteria include:\n\n- Roadway classification, features and operational safety (e.g., the curve of the road or sight distance at an intersection)\n- Location, frequency and type of devices that may be appropriate (placing devices where they are unexpected or unwarranted can cause driver error)\n- Traffic volume, speed and crash data, and other relevant location specific information\n\n## Common concerns\n\n1. [Speeding & Speed Limits](#tab7265d563-f47d-41b5-ac54-6c3c2192c4be_0)\n\nSpeed limits are established based on the roadway classification and engineering surveys. Speed limits are adjusted for:\n\n- school zones\n- road design (e.g., curves)\n- roadway conditions (e.g., crash patterns and average speeds)\n\nWhen traffic flows at a uniform speed, drivers are less impatient, pass less often, and tailgate less, which reduces both head-on and rear-end collisions. Posting the appropriate speed limit results in improved roadway operation and safety.\n\n1. [Traffic Signals](#tab7265d563-f47d-41b5-ac54-6c3c2192c4be_1)\n\nThe City of Arvada operates and maintains more than 100 traffic signals and school zone flashers placed throughout the city. Traffic signals located along state highways, including Wadsworth Boulevard, Sheridan Boulevard, and State Highway 72, are operated and maintained by the Colorado Department of Transportation (CDOT).\n\nThe City budgets for installing and reconstructing traffic signals. Signal timing plans along roadway corridors are also reviewed on a regular basis to ensure that changes in travel patterns are reflected in the signal timing at each signalized intersection.\n\n1. [Crosswalks](#tab7265d563-f47d-41b5-ac54-6c3c2192c4be_2)\n\nCrosswalks are installed on designated walking routes for pedestrian paths or schools. To ensure proper maintenance, traffic safety, and appropriate operations of roadways, crosswalk treatments are installed based on roadway classifications, traffic volumes, number of lanes, and other engineering factors.\n\n[HeadsUp Arvada](/476) is the City's educational campaign with reminders about our shared responsibility when biking, walking, or driving to help keep one another safe.\n\n### [HeadsUp Arvada Safety Campaign](/476)\n\nWhether walking, biking, or driving, we all play a role in keeping our community safe. Learn how you can help by doing your part!\n\n## Report a concern\n\nTo report concern about street signs, signals, speeding, or other traffic control efforts, please [submit a request through Ask Arvada](http://arvadaco.gov/ask-arvada).\n\n[State highways](https://www.arvadaco.gov/502/Report-a-Road-Issue) (Wadsworth, Sheridan, HWY 72) are maintained by CDOT, please contact CDOT [online](https://dialog.my.salesforce-sites.com/WebToCase?region=1&Type=Traffic) or by [live chat](https://dialog.my.salesforce-sites.com/SelectLiveAgentRegion).\n\nRandom speeding issues or erratic driving behavior should be reported to the Arvada Police by calling the non-emergency number: 720-898-6900. Arvada Police works with Traffic Engineering to identify locations where enforcement efforts are not a feasible solution and traffic control or traffic calming measures may be appropriate.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

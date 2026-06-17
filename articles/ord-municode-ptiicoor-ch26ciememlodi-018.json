@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "duties",
+      "community",
+      "resilience",
+      "coordinator",
+      "shall",
+      "comply",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-43"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-43. - Duties of the community resilience coordinator.",
+    "summary": "The community resilience coordinator shall:\n(a)\nComply with all requirements issued by the Federal Emergency Management Agency (FEMA)\n                  and the Colorado Division of Homeland Security and Emergency Management Agency (DHSEM)\n                  in order to procure the maximum amount of f…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-43. - Duties of the community resilience coordinator.",
+        "a": "The community resilience coordinator shall:\n(a)\nComply with all requirements issued by the Federal Emergency Management Agency (FEMA)\n                  and the Colorado Division of Homeland Security and Emergency Management Agency (DHSEM)\n                  in order to procure the maximum amount of federal and state assistance and grant monies\n                  for the city.\n(b)\nEnsure that the local emergency operations plan (EOP) is kept current.\n(c)\nAct as liaison with all local emergency response agencies and ensure their cooperation\n                  in drafting their portions of the plan. All departments over which the city has authority\n                  shall provide such cooperation in planning.\n(d)\nDevelop, coordinate, and conduct a schedule of training to ensure that all persons\n                  with specific responsibilities under the EOP understand their duties and are capable\n                  of performing their duties in accordance with DHSEM and FEMA. All persons with specific\n                  responsibilities under the EOP shall comply with, and participate in, the training\n                  schedule to understand their duties and be capable of performing their duties. The\n                  EOP shall be tested as deemed necessary by the community resilience coordinator or\n                  the city manager.\n(e)\nPrepare and coordinate exercises of the EOP as mandated by DHSEM and FEMA.\n(f)\nConduct debriefings in the aftermath of EOP exercises and revise the EOP to reflect\n                  lessons learned.\n(g)\nAssist the city manager in negotiating and entering into mutual aid agreements.\n(h)\nCoordinate resources for the city manager or their designee and perform all other\n                  duties assigned by the city manager or their designee in the response to a civil emergency,\n                  emergency, or disaster.\n(i)\nCooperate and coordinate with state and federal authorities in the aftermath of a\n                  civil emergency, emergency or disaster to ensure the maximum available support for\n                  recovery and assistance for persons and businesses.\n(j)\nDevelop or implement a mitigation plan for the city in cooperation with all city departments\n                  and agencies. All agencies over which the city has authority shall provide cooperation\n                  in mitigation planning.\n(k)\nWork through the city manager or their designee to ensure that requirements for infrastructure\n                  replacement are consistent with current best practices to ensure the maximum assistance\n                  from the federal government in the event that public facilities must be reconstructed\n                  or replaced in the aftermath of a civil emergency, emergency, or disaster.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-43"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

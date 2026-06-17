@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "evidence",
+      "strict",
+      "colorado",
+      "rules",
+      "shall",
+      "apply",
+      "hearings"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-179"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-179. - Evidence.",
+    "summary": "(a)\nStrict Colorado Rules of Evidence shall not apply in hearings under this article,\n               but rather any evidence may be received which is relevant and possesses probative\n               value commonly accepted by reasonable and prudent men in the conduct of their affairs.\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-179. - Evidence.",
+        "a": "(a)\nStrict Colorado Rules of Evidence shall not apply in hearings under this article,\n               but rather any evidence may be received which is relevant and possesses probative\n               value commonly accepted by reasonable and prudent men in the conduct of their affairs.\n               Every party to the proceeding may present such party's case or defense by oral and\n               documentary evidence, to submit rebuttal evidence, and to conduct such cross examination\n               as may be required for a full and true disclosure of the facts. The hearing officer\n               may receive all or part of the evidence in written form if the interests of the parties\n               will not be prejudiced substantially, and if the hearing will be expedited thereby.\n(b)\nThe rules of evidence and procedure shall conform when practicable to those in state\n               civil nonjury cases, but when necessary to ascertain facts affecting the substantial\n               rights of the parties to the proceeding, the hearing officer shall receive and consider\n               evidence not admissible under the Colorado Rules of Evidence if such evidence possesses\n               probative value.\n(c)\nThe hearing officer shall give effect to the rules of privilege required by state\n               law, may exclude incompetent, irrelevant, and unduly repetitious evidence, and may\n               receive documentary evidence in the form of a copy.\n(d)\nThe hearing officer may take notice of general, technical or scientific facts within\n               his knowledge, not in evidence, so long as such facts and the reliance thereon is\n               made known to the parties.\n(e)\nThe hearing officer may take notice of the laws, codes, ordinances, statutes and regulations\n               of the city, state, and of the United States.\n(f)\nThe city shall be entitled to a rebuttable presumption of good faith and validity\n               concerning administrative actions or determinations of the city, which may be the\n               subject of the hearing.\n(g)\nNo ex parte material or representation of any kind or any other communication outside\n               the hearing shall be considered by the hearing officer unless it is fully disclosed\n               on the record and an opportunity is given to the other party for comment thereon at\n               the hearing.\n(h)\nParties to the hearing may make objections to evidentiary offers, which shall then\n               be noted in the record.\n(Code 1981, § 2-144; Ord. No. 3608, §§ 1, 2, 4-3-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-179"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

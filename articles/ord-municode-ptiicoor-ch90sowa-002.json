@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "sites",
+      "demolition",
+      "all",
+      "contractors",
+      "shall",
+      "provide"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-2"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-2. - Construction sites and demolition sites.",
+    "summary": "All construction and demolition contractors shall provide on-site waste containers\n               for loose debris, paper, building material wastes, scrap building materials and other\n               trash produced by those working on the site. All such materials shall be containerized\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-2. - Construction sites and demolition sites.",
+        "a": "All construction and demolition contractors shall provide on-site waste containers\n               for loose debris, paper, building material wastes, scrap building materials and other\n               trash produced by those working on the site. All such materials shall be containerized\n               by the end of each day, and the site shall be kept in a reasonably clean and litter-free\n               condition. The number of waste containers shall be determined by the size of the job.\n               Dirt, mud, construction materials or other debris deposited upon any public or private\n               property as a result of construction or demolition shall be removed by the contractor.\n               Construction sites shall be kept clean and orderly at all times.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

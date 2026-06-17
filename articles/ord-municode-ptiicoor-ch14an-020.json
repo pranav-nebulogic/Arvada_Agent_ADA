@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "dangerous",
+      "animals",
+      "any",
+      "animal",
+      "exhibiting",
+      "behavior",
+      "set"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-51"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-51. - Dangerous animals.",
+    "summary": "(a)\nAny animal exhibiting behavior set forth in this section is hereby declared to be\n               a dangerous animal. It shall be unlawful for any owner or custodian of an animal to\n               permit or allow said animal, without intentional provocation, to:\n(1)\nCause bodily injury to any per…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-51. - Dangerous animals.",
+        "a": "(a)\nAny animal exhibiting behavior set forth in this section is hereby declared to be\n               a dangerous animal. It shall be unlawful for any owner or custodian of an animal to\n               permit or allow said animal, without intentional provocation, to:\n(1)\nCause bodily injury to any person at any place within the city;\n(2)\nApproach any person in a menacing or terrorizing manner, or in an apparent attitude\n               of attack, while off the owner's or custodian's property;\n(3)\nKill another animal while off the owner's or custodian's property; or\n(4)\nAttack any person who is lawfully on the owner's or custodian's property.\n(b)\nIt shall be an affirmative defense to charges under this section if the victim of\n               the attack has made an unlawful entry into the dwelling or enclosed premises of the\n               owner or custodian or was bitten during the commission of a crime against the owner\n               or custodian.\n(c)\nReserved.\n(d)\nNothing in this chapter shall be construed to prevent the animal management officer\n               from taking whatever action is reasonably necessary to protect his person or other\n               members of the public from injury or damage, including immediate destruction of any\n               dangerous animal without notice to the owner or custodian.\n(Code 1981, § 6-30; Ord. No. 3496, § 2, 12-14-1998;\nOrd. No. 4028, § 7, 10-16-2006\n;\nOrd. No. 4878\n, § 5, 10-7-2024)\nState Law reference—\nDangerous dogs, C.R.S. § 18-9-204.5."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-51"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

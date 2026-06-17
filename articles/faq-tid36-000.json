@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-36-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "screens",
+      "participant",
+      "arvada",
+      "housing",
+      "authority",
+      "aha",
+      "providing",
+      "assistance",
+      "Housing Choice Voucher Program Landlord Guide"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=36"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/who-screens-the-participant",
+    "faq_category_name": "Housing Choice Voucher Program Landlord Guide"
+  },
+  "content": {
+    "title": "Who screens the participant?",
+    "summary": "The Arvada Housing Authority (AHA), by providing housing assistance, in no way verifies a family's suitability as a participant. The landlord is responsible for screening participants according to their own tenancy requirements. If requested by the landlord, the AHA may provide the landlord with the…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Who screens the participant?",
+        "a": "The Arvada Housing Authority (AHA), by providing housing assistance, in no way verifies a family's suitability as a participant. The landlord is responsible for screening participants according to their own tenancy requirements. If requested by the landlord, the AHA may provide the landlord with the current and last known address of the prospective participant."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

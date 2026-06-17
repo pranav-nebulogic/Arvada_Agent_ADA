@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "poisoning",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "knowingly",
+      "recklessly"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-175"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-175. - Poisoning.",
+    "summary": "It shall be unlawful for any person knowingly, recklessly, or with criminal negligence\n               to poison any domesticated animal or livestock, or to knowingly distribute or set\n               out poison or any other toxicant anywhere within the city in any manner whatsoever\n               tha…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-175. - Poisoning.",
+        "a": "It shall be unlawful for any person knowingly, recklessly, or with criminal negligence\n               to poison any domesticated animal or livestock, or to knowingly distribute or set\n               out poison or any other toxicant anywhere within the city in any manner whatsoever\n               that causes the poisoning of any such animal. The distribution or setting out of any\n               poison, toxicant, or poisoned meat or food, other than those specifically for insect,\n               bat, rat, mouse, or other rodent poisoning, shall be prima facie evidence of violation\n               of this section. The poisoning of insects, bats, rats, mice, and other rodents shall\n               conform with all applicable state and federal laws.\n(Code 1981, § 6-77; Ord. No. 3496, § 2, 12-14-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-175"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

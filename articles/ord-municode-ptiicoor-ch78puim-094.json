@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "statement",
+      "cost",
+      "project",
+      "upon",
+      "completion",
+      "any",
+      "district"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-95"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-95. - Statement of cost of project.",
+    "summary": "Upon the completion of any project in any district, or in the case of assessment units\n               or sewers upon completion from time-to-time of a project in any assessment unit or\n               any part of sewers affording complete drainage for any part of the district, or after\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-95. - Statement of cost of project.",
+        "a": "Upon the completion of any project in any district, or in the case of assessment units\n               or sewers upon completion from time-to-time of a project in any assessment unit or\n               any part of sewers affording complete drainage for any part of the district, or after\n               the determination of the net cost to the city, and upon the acceptance thereof by\n               the council, or whenever the total cost of such project or any of such part of sewers\n               can be definitely ascertained, and upon the council's determination to assess all\n               or a part of the cost thereof, the engineer shall prepare and shall furnish to the\n               council a statement showing the total cost of the project or of any such part thereof.\n(Code 1981, § 27-96; Ord. No. 551, § 36, 5-14-1964)\nState Law reference—\nStatement of expenses, C.R.S. § 31-25-519."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-95"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

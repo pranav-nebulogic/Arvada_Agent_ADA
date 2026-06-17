@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "title",
+      "chapter",
+      "shall",
+      "known",
+      "cited",
+      "civil",
+      "emergency"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-31"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-31. - Title.",
+    "summary": "This chapter shall be known and may be cited as \"civil emergency, emergency, or local\n               disaster.\"\n(\nOrd. No. 4827\n, § 2, 12-5-2022)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-31. - Title.",
+        "a": "This chapter shall be known and may be cited as \"civil emergency, emergency, or local\n               disaster.\"\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-31"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

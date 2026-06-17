@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mtc",
+      "part",
+      "parking",
+      "amended",
+      "model",
+      "traffic",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-40"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-40. - MTC Part 12 \"Parking\" amended.",
+    "summary": "The Model Traffic Code is hereby amended by adding section 1213 to Part 12 to read\n               as follows:\n1213. Parking for certain purposes prohibited.\n(1)\nThe city council hereby finds and declares that the parking of vehicles on streets\n                  and other public areas done for the pr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-40. - MTC Part 12 \"Parking\" amended.",
+        "a": "The Model Traffic Code is hereby amended by adding section 1213 to Part 12 to read\n               as follows:\n1213. Parking for certain purposes prohibited.\n(1)\nThe city council hereby finds and declares that the parking of vehicles on streets\n                  and other public areas done for the principal purpose of displaying the vehicle for\n                  sale is detrimental to public safety in creating a traffic hazard, and that the regulation\n                  of commercial activity upon public streets and other public areas is a permissible\n                  regulation of the streets and other public areas. The city council also finds and\n                  declares that the parking of these vehicles is detrimental to the economic welfare\n                  of the community, and that the regulation of such parking upon streets and other public\n                  areas is a permissible regulation of the aesthetics of the community.\n(2)\nNo person shall park a vehicle upon a roadway, street, alley, sidewalk, or sidewalk\n                  area, in a park or in any publicly owned parking area within the city for the principal\n                  purpose of:\n(a)\nDisplaying such vehicle for sale.\n(b)\nRepairing such vehicle, except repairs necessitated by an emergency.\n(3)\nWhenever a parked vehicle displays a sign or message indicating that it is being offered\n                  for sale, such display shall be prima facie evidence that the vehicle is parked for\n                  the principal purpose of being displayed for sale.\n(4)\nFor purposes of this section only, the term \"vehicle\" shall include any device capable\n                  of being moved from place to place upon wheels or tracks, as well as devices capable\n                  of being moved on or through water or air, such as boats and airplanes.\n(5)\nFor purposes of this section only, it shall be presumed that the person that parked\n                  the vehicle was the registered owner of the vehicle, or that the vehicle was parked\n                  with the registered owner's knowledge and permission.\n(6)\nThis section shall not apply on any street or highway designated as a state highway\n                  within this municipality.\n(\nOrd. No. 4384, § 2, 4-15-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-40"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

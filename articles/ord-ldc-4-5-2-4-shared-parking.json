@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "shared",
+      "parking",
+      "generally",
+      "city",
+      "encourages",
+      "sharing",
+      "potential",
+      "reduce",
+      "impervious",
+      "surfaces"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-2-4"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-2. PARKING AND LOADING CALCULATIONS"
+  },
+  "content": {
+    "title": "4-5-2-4. Shared parking.",
+    "summary": "A.\tGenerally. The City encourages the sharing of parking for its potential to reduce impervious surfaces or enhance the efficiency of land use.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-2-4. Shared parking.",
+        "a": "A.\tGenerally. The City encourages the sharing of parking for its potential to reduce impervious surfaces or enhance the efficiency of land use. Thus, where a mix of uses creates synergy with respect to the utilization of parking spaces due to differences in peak parking demand periods, the City may reduce the required number of spaces according to the provisions of this Section.\n  1.\tShared Parking Reduction Table. Shared parking allows a reduction in the total number of required parking spaces when a subject property is occupied by two or more uses that typically do not experience peak parking demands at the same time. When any land or building is used for two or more uses that are listed in Table 4-5-2-4A, Shared Parking Reduction Table, the minimum number of parking spaces required may be reduced by the percentage indicated for each column of five time periods as shown below.\nB.\tShared Parking Study.\n  1.\tAs an alternative to the methodology in Subsection A., above, an Applicant may submit to the Director a shared parking study to demonstrate that the parking that is required to serve mixed uses is less than the sum of the parking requirements for each individual use.\n  2.\tThe shared parking study shall:\n    a.\tAddress the size and type of the proposed development, the composition of tenants, and the anticipated peak parking and traffic loads for all uses that that will be sharing the off-street parking spaces;\n    b.\tReview peak parking demand periods for the proposed uses during a 24-hour weekday and each weekend day, and shall propose a required number of parking spaces based on the combined maximum peak hour demand for parking; and\n    c.\tProvide data on the following:\n      i.\tThe sensitivity of the proposed uses to change, e.g., a shopping center with no restaurant could have significant changes in parking if a restaurant was added;\n      ii.\tSimilar mixes of uses in other areas of the community; and\n      iii.\tDegree of variability of parking for individual uses (average, range, and standard deviation).\n  3.\tThe City may require a reserved open area (which shall not be counted as open space) if it finds that the risk of parking needs changing over time so warrants. Once the project is occupied and well established, if there is a surplus of parking, the Applicant may request the Director in writing for additional development capacity and parking using the reserved area.\n  4.\tThe shared parking study that is allowed by this Subsection B shall be conducted by a qualified transportation planner or traffic engineer at the Applicant's expense.\nC.\tShared Parking Among Different Lots. When a shared parking reduction is to be applied to uses on several different lots, the following shall be provided:\n  1.\tLocation Plan. A plan that provides for a pedestrian circulation system that conveniently connects the land uses and parking areas among the lots and meets the following:\n    a.\tLocation of Shared and/or Off-Site Parking.\n      i.\tFor nonresidential uses, every shared and/or off-site parking space shall be located within 500 feet (measured along a legal pedestrian route) of the entrance to each building for which the shared and/or off-site parking is provided.\n      ii.\tFor multifamily uses, every shared and/or off-site parking space shall be located within 300 feet (measured along a legal pedestrian route) of the entrance to each building for which the shared and/or off-site parking is provided.\n      iii.\tShared and/or off-site parking is not permitted for single-family detached, single-family attached, and duplex dwelling uses.\n    b.\tIneligible Activities. Accessible parking (ADA parking) shall not be permitted off-site.\n  2.\tShared Parking Easements and Shared Parking Agreement. Recorded shared parking easements, approved as to form by the City Attorney, that provide, at a minimum, for:\n    a.\tCross-access among the shared parking areas and connections to allow parking by the different uses in areas that are used for shared parking;\n    b.\tAllocation of maintenance responsibilities;\n    c.\tTerms for reallocating parking spaces upon redevelopment or re-use of any of the affected properties;\n    d.\tA right of enforcement by the City; and\n    e.\tTermination of the shared parking arrangement only if all required off-street parking spaces are provided in accordance with the requirements of Section 4-5-2-2, Parking Requirements Tables, for all participating properties.\n  3.\tAs an alternative to the establishment of an easement, a recorded shared parking agreement may be provided. The agreement shall include provisions indicated in Subsection C.2. above, unless otherwise approved by the Director."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-2-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

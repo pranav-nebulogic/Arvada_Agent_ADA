@@ -1,0 +1,52 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "streets",
+      "sidewalks",
+      "certain",
+      "other",
+      "public",
+      "places",
+      "footnotes"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nAny ordinance or resolution dedicating, naming, establishing, locating, relocating,\n               opening, paving, widening, repairing, vacating, etc., any street or public way saved\n               from repeal, § 1-10(a)(5); any ordinance establishing and p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES",
+        "a": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nAny ordinance or resolution dedicating, naming, establishing, locating, relocating,\n               opening, paving, widening, repairing, vacating, etc., any street or public way saved\n               from repeal, § 1-10(a)(5); any ordinance establishing and prescribing the street grades of any street\n               saved from repeal, § 1-10(a)(10); any ordinance providing for local improvements and assessing taxes for such\n               improvements saved from repeal, § 1-10(a)(11); buildings and building regulations, ch. 18; environment, ch. 38; smoking in public places, § 38-301 et seq.; overflow of water on streets, etc., § 50-25; motor vehicles and traffic,\n               ch. 54; urination and defecation in public, § 62-57; sales and solicitation near or on streets and highways prohibited, § 62-62; parks and recreation, ch. 66; planning and development, ch. 74; public improvements, ch. 78; utilities, ch. 102; zoning districts, pt. III, art. 4; use regulations, pt. III, art. 5; development\n               standards, pt. III, art. 6; subdivision regulations and improvements, pt. III, art.\n               7.\nState Law reference—\nGeneral power of city council as to streets and alleys, C.R.S. § 31-15-702; public\n               improvements generally, C.R.S. § 31-25-101 et seq.; acceptance and improvement of\n               streets, C.R.S. § 31-23-217; improvements in city and towns, C.R.S. § 31-35-303 et\n               seq.; city highways, C.R.S. § 43-2-101 et seq."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

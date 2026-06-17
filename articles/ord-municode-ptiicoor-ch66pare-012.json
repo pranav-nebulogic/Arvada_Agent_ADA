@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "destruction",
+      "park",
+      "property",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-31"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-31. - Destruction of park property.",
+    "summary": "(a)\nIt shall be unlawful for any person to cut, mark, remove, break or in any way injure,\n               damage or deface the trees, shrubs, plants, turf, or any of the buildings, fences,\n               bridges, tennis courts or other structures, or property within or upon park premises;\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-31. - Destruction of park property.",
+        "a": "(a)\nIt shall be unlawful for any person to cut, mark, remove, break or in any way injure,\n               damage or deface the trees, shrubs, plants, turf, or any of the buildings, fences,\n               bridges, tennis courts or other structures, or property within or upon park premises;\n               or any way injure or impair the natural beauty or usefulness of any park or recreational\n               facility.\n(b)\nSubsection (a) shall not apply where the aggregate damage to real or personal property\n               is $100.00 or more.\n(Code 1960, § 17-24; Code 1981, § 22-12)\nState Law reference—\nCriminal mischief, C.R.S. § 18-4-501."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-31"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "communications",
+      "dispatch",
+      "crime",
+      "call",
+      "emergency",
+      "police",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/201/Communications-Dispatch"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-155",
+    "spreadsheet_id": "MI-155",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Communications (Dispatch)",
+    "summary": "Citizens should call 911 for emergencies requiring immediate police, fire, or medical response, especially for crimes in progress. For non-emergency situations, such as filing a crime report or seeking information, the non-emergency dispatch number 303-980-7300 should be used. Additionally, Arvada offers a Text to 911 service for emergencies, but users must provide their location and nature of the emergency in the first message, as dispatchers cannot determine exact locations from texts.",
+    "body": "## When to Call 911\n\n911 should be utilized any time a citizen has an emergency situation that **urgently**requires **police**, **fire**or **medical response**. 911 should be called for any **crime that is in progress**\n\n## When to Call Non-Emergency Dispatch\n\nDial 303-980-7300for any situation requiring the action/response of an Arvada police officer; when:\n\n- The crime is**not**in progress, and no suspect is present\n- The filing of a crime report; or\n- Information or questions related to criminal activity or assistance.\n\n## Call If You Can, Text if You Must\n\nThe City of Arvada, along with Jefferson County and the City and County of Broomfield, offer Text to 911 service. Most cell phone carriers, including Verizon, AT&T, Sprint and T-Mobile, have made this service available. If you are in a service area where texting is not available, you will be sent a bounce-back text alerting you. At that point, you will need to call 911.\n\nIf you must text 911, remember:\n\n- Dispatchers **will not know your exact location**. It is important to include your location and the nature of your emergency as part of the **first message**\n- **Avoid slang**and abbreviations for the sake of clarity\n- Texts are limited to **160 characters**\n- **Photos**and **videos cannot be sent**to dispatchers through text\n\n## Other Ways to Contact Arvada Police\n\nYou can visit your [local police sector](/550/Police-Sectors) in person or[report a crime or file a police report online](/555/Report-a-Crime). For a complete list of ways to get in touch, visit [Contact the Arvada Police](/203/Contact-the-Arvada-Police).\n\n## Jeffcom 911\n\nArvada Police are dispatched as part of the Jefferson County Communications Authority (Jeffcom 911) system. [Jeffcom 911](https://jeffcom911.org/) is a centralized communications center for multiple member agencies. The decision to transition to a consolidated communications center was based on best practices within the emergency services industry to provide the most efficient level of service to residents and emergency services personnel of Jefferson County.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

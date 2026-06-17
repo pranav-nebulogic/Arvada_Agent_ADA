@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "pedestrian",
+      "hindering",
+      "flow",
+      "traffic",
+      "legislative",
+      "declaration",
+      "purpose"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-36"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-36. - Pedestrian hindering the flow of traffic.",
+    "summary": "(a)\nLegislative declaration; purpose.\nThe city council hereby finds that collisions between pedestrians and vehicles in\n               Arvada have increased significantly and declares it necessary to clearly delineate\n               the responsibilities of pedestrians to allow for safer pedestrian a…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-36. - Pedestrian hindering the flow of traffic.",
+        "a": "(a)\nLegislative declaration; purpose.\nThe city council hereby finds that collisions between pedestrians and vehicles in\n               Arvada have increased significantly and declares it necessary to clearly delineate\n               the responsibilities of pedestrians to allow for safer pedestrian and vehicle interactions\n               throughout the city. The purpose of this ordinance [from which this section derives]\n               is to reduce dangers to persons and property, to prevent traffic delays, and to avoid\n               interference with traffic. Efforts to reduce the possibility that pedestrians may\n               interfere with vehicular traffic are key to promoting pedestrian and traffic safety.\n               The city council finds that this ordinance is necessary to protect the health, safety,\n               and welfare of the public.\n(b)\nDefinition.\nThe following word, when used in this section, shall have the meaning ascribed to\n               it in this section, except where the context clearly indicates otherwise:\nObstruct\nmeans to render impassable or to render passage unreasonably inconvenient or hazardous,\n               and includes but is not limited to, conduct such as extending objects into the traveled\n               portion of a roadway.\n(c)\nUnlawful act.\nIt shall be unlawful for any person to willfully and unnecessarily hinder, obstruct,\n               or delay traffic, or to willfully and unnecessarily attempt to hinder, obstruct, or\n               delay any other person who is lawfully driving or traveling along or upon any roadway\n               so as to interfere with the effective movement of traffic.\nException: This section shall not apply to any person within a crosswalk who lawfully\n               entered the crosswalk and is crossing from one side of the traveled portion of the\n               roadway for that period of time reasonably necessary to cross over the roadway.\n(d)\nPenalty.\nAny violation of this section shall be punished by a fine or imprisonment not to\n               exceed the limits established in\nsection 1-5\nof this Code.\n(Ord. No.\n4679\n, § 1, 3-18-2019)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-36"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

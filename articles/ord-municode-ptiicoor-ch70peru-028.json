@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "pay",
+      "rates",
+      "upon",
+      "reclassification",
+      "employee",
+      "rate",
+      "determined"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-60"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-60. - Pay rates upon reclassification.",
+    "summary": "(a)\nAn employee's pay rate upon reclassification will be determined based on an assessment\n               of the employee's qualifications, including relevant education, training, experience,\n               and seniority as compared to others in similar positions. This new pay amount will\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-60. - Pay rates upon reclassification.",
+        "a": "(a)\nAn employee's pay rate upon reclassification will be determined based on an assessment\n               of the employee's qualifications, including relevant education, training, experience,\n               and seniority as compared to others in similar positions. This new pay amount will\n               not be less than the minimum rate or more than the maximum rate for the new grade.\n(b)\nAn employee who has been reclassified will be considered for additional pay increases\n               upon either the satisfactory completion of each 12 subsequent months of service from\n               the date of reclassification, or upon a date established by the city manager as the\n               annual pay increase review date until the employee reaches the maximum rate of the\n               pay grade.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-60"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mtc",
+      "part",
+      "driving",
+      "overtaking",
+      "passing",
+      "amended",
+      "model"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-37"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-37. - MTC Part 10 \"Driving - Overtaking - Passing\" amended.",
+    "summary": "The Model Traffic Code is hereby amended by adding subsection (3) to section 1007\n               of Part 10 to read as follows:\n1007. Driving on roadways laned for traffic.\n(3)\nNo person shall ride or operate a motorcycle or motor-driven vehicle within a bicycle\n                  lane or path design…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-37. - MTC Part 10 \"Driving - Overtaking - Passing\" amended.",
+        "a": "The Model Traffic Code is hereby amended by adding subsection (3) to section 1007\n               of Part 10 to read as follows:\n1007. Driving on roadways laned for traffic.\n(3)\nNo person shall ride or operate a motorcycle or motor-driven vehicle within a bicycle\n                  lane or path designated for the use of bicycles except for maintenance, construction\n                  or emergency vehicles, temporarily disabled vehicles, electrical assisted bicycles\n                  as defined in C.R.S. § 42-1-102(28.5), vehicles executing a legal parking maneuver,\n                  passing a vehicle turning left, and buses entering or leaving the bicycle lane to\n                  pick up or discharge passengers.\n(\nOrd. No. 4384, § 2, 4-15-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-37"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

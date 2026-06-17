@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "animals",
+      "footnotes",
+      "cross",
+      "reference",
+      "environment",
+      "horses",
+      "parks"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 66-6",
+      "§ 25-4",
+      "§ 35-42"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nEnvironment, ch. 38; horses in parks, § 66-6.\nState Law reference—\nRabies control, C.R.S. § 25-4-601 et seq.; animal protection, C.R.S. § 35-42-101 et\n               seq.; pet animal care and control, C.R.S. § 35-80-101 et seq.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 14 - ANIMALS",
+        "a": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nEnvironment, ch. 38; horses in parks, § 66-6.\nState Law reference—\nRabies control, C.R.S. § 25-4-601 et seq.; animal protection, C.R.S. § 35-42-101 et\n               seq.; pet animal care and control, C.R.S. § 35-80-101 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 66-6",
+      "§ 25-4",
+      "§ 35-42"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

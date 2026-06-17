@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "public",
+      "hearing",
+      "notice",
+      "schedule",
+      "generally",
+      "applications",
+      "require",
+      "hearings",
+      "track",
+      "through"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-12"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-12. Public hearing notice and schedule.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-12. Public hearing notice and schedule.",
+        "a": "A.\tGenerally. For applications that require public hearings, Track 2 through Track 8, when administrative review pursuant to Section 8-2-3-11, Review by Director, is complete, the Director shall coordinate with the Applicant to cause notice to be issued according to the requirements of Division 8-2-4, Required Notices, and set the application on the agenda of the next body that will consider the application, consistent with the legal requirements for public notice.\nB.\tSpecial Provisions for Signs, Wireless Communications Facilities, and Small Cell Facilities.\n  1.\tApplications for Alternative Sign Programs shall be set for hearing within 45 days after the determination of completeness (see Section 8-2-3-7, Completeness Review).\n  2.\tApplications for Wireless Communications Facilities Freestanding Towers shall be processed as required by the applicable \"shot clocks\" set out in Division 8-3-6, Wireless Communications Facilities.\nC.\tNotice to Applicant. The Director shall notify the Applicant regarding the time and place of public hearings."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-12"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

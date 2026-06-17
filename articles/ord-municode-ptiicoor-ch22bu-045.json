@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "identification",
+      "cards",
+      "every",
+      "applicant",
+      "licensee",
+      "agent",
+      "employee"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-175"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-175. - Identification cards.",
+    "summary": "(a)\nEvery applicant, licensee, agent, or employee of said applicant or licensee who administers\n               massages shall, prior to commencing work in or upon the licensed premises, obtain\n               an identification card from the city clerk and shall carry said identification card\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-175. - Identification cards.",
+        "a": "(a)\nEvery applicant, licensee, agent, or employee of said applicant or licensee who administers\n               massages shall, prior to commencing work in or upon the licensed premises, obtain\n               an identification card from the city clerk and shall carry said identification card\n               at all times while in or upon the licensed premises.\n(b)\nThe identification card shall include the location of the massage parlor, the name,\n               signature, and photograph of the individual. A fee of $50.00 shall be charged for\n               each card, said fee to be collected by the city clerk and used to defray the expenses\n               of providing such identification cards. A separate identification card shall be required\n               for each person for each place of employment.\n(c)\nEach applicant for an identification card shall be photographed and fingerprinted\n               by the city police department and must submit an application form, background investigation\n               report, a copy of a valid picture driver's license or other form of acceptable picture\n               identification, and the required identification card and investigation fees to the\n               city clerk. Upon receipt of a properly completed application form, acceptable form\n               of identification, and fee, the city clerk shall transmit the application to the city\n               police department for investigation of the applicant's background. The city clerk\n               shall reject any application that is not complete in every detail.\n(d)\nWithin 60 days after filing of a properly completed application for an identification\n               card, the city clerk must either issue the requested identification card or notify\n               the applicant that the city police department has recommended denial of the identification\n               card. The police department may request a reasonable extension of time from the city\n               clerk if such extension of time is necessary in order to complete its investigation.\n               Notice of denial of an identification card setting out the grounds for denial shall\n               be sent by certified mail to the applicant at the address provided by the applicant.\n               The grounds for denial shall be those set out in this section and\nsection 22-177\nherein. In the event of a denial, an applicant shall have the right to a hearing\n               before the licensing authority as set forth in\nsection 22-176\n.\n(e)\nShould any identification card be lost, stolen, or otherwise missing, the person to\n               whom the identification card was issued shall report the missing card to the city\n               clerk within 48 hours of discovery that the identification card is missing. Replacement\n               cards shall be issued within five business days of receipt of an application for a\n               replacement identification card. The fee for a replacement card shall be $10.00.\n(Code 1981, § 16-15; Ord. No. 3292, § 1, 10-21-1996)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-175"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

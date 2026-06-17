@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "connections",
+      "before",
+      "paving",
+      "whenever",
+      "any",
+      "district",
+      "local"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-147"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-147. - Connections before paving.",
+    "summary": "Whenever any district or local improvement providing for paving is ordered under the\n               provisions hereof, the city manager if he deems it advisable may order the owners\n               of the abutting tracts or other property to connect their several premises with the\n               wate…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-147. - Connections before paving.",
+        "a": "Whenever any district or local improvement providing for paving is ordered under the\n               provisions hereof, the city manager if he deems it advisable may order the owners\n               of the abutting tracts or other property to connect their several premises with the\n               water and gas mains or with any other utility in the street in front of their several\n               premises, and upon default of the owners for 20 days after such order to make such\n               connections, the city may contract for and may make the said connections or do the\n               work by day labor in the manner and in accordance with the specifications prescribed\n               for such work; and the whole cost of each connection shall be assessed against the\n               premises with which the connections are made in accordance with the provisions of\n               this article for the acquisition of improvements, the creation of districts and the\n               defraying of the costs thereof for such districts.\n(Code 1981, § 27-147; Ord. No. 551, § 88, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-147"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

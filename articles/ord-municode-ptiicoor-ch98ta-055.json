@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "sales",
+      "use",
+      "tax",
+      "ordinance",
+      "amendment",
+      "order"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-106"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-106. - Notice of sales and use tax ordinance amendment.",
+    "summary": "(a)\nIn order to initiate a central register of sales and use tax ordinances for municipalities\n               that administer local sales tax collection, the finance director shall file with the\n               state municipal league prior to the effective date of this section a copy of the city\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-106. - Notice of sales and use tax ordinance amendment.",
+        "a": "(a)\nIn order to initiate a central register of sales and use tax ordinances for municipalities\n               that administer local sales tax collection, the finance director shall file with the\n               state municipal league prior to the effective date of this section a copy of the city\n               sales and use tax ordinance reflecting all provisions in effect on the effective date\n               of this section.\n(b)\nIn order to keep current the central register of sales and use tax ordinances for\n               municipalities that administer local sales tax collection, the finance director shall\n               file with the state municipal league prior to the effective date of any amendment\n               a copy of each sales and use tax ordinance amendment enacted by the city.\n(c)\nFailure of the city to file such ordinance or ordinance amendment pursuant to this\n               section shall not invalidate any provision of the sales and use tax ordinance or any\n               amendment thereto.\n(Code 1981, § 31-75; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-106"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

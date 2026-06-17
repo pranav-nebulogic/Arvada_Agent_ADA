@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fund",
+      "insufficient",
+      "any",
+      "time",
+      "sufficient",
+      "money",
+      "other"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-154"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-154. - Fund insufficient.",
+    "summary": "If at any time there should not be sufficient money or other property in the police\n               pension fund to pay to each beneficiary the full amount per month to which such beneficiary\n               may be entitled, then and in that event, an equal percentage of such monthly payments\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-154. - Fund insufficient.",
+        "a": "If at any time there should not be sufficient money or other property in the police\n               pension fund to pay to each beneficiary the full amount per month to which such beneficiary\n               may be entitled, then and in that event, an equal percentage of such monthly payments\n               shall be made to each, until such fund is so replenished as to warrant payment in\n               full to each of such beneficiaries.\n(Code 1960, § 19-11(G); Code 1981, § 26-78)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-154"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

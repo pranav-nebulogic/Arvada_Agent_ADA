@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "computers",
+      "internet",
+      "mail",
+      "voicemail",
+      "employees",
+      "responsible",
+      "accountable"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-151"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-151. - Computers, internet, e-mail, and voicemail.",
+    "summary": "(a)\nEmployees are responsible and accountable, in part, for the on-going integrity of\n               the city's information technology. Such systems include, but are not limited to, computers,\n               e-mail, voicemail, mobile devices, and any other similar technology systems. These\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-151. - Computers, internet, e-mail, and voicemail.",
+        "a": "(a)\nEmployees are responsible and accountable, in part, for the on-going integrity of\n               the city's information technology. Such systems include, but are not limited to, computers,\n               e-mail, voicemail, mobile devices, and any other similar technology systems. These\n               systems are the property of the city and are intended for business use only. Therefore\n               the city expressly reserves the right to access any computer files, use of software,\n               internet usage, e-mail, chat messages, voicemail and other similar electronic data\n               on a city-owned device or system. Although employees select individual passwords,\n               employees should not assume that such data is confidential. However, other than management\n               acting on behalf of the city, employees should not attempt to gain access to another\n               employee's computer, internet, e-mail, voicemail, or other similar account or device.\n               Furthermore, an employee is prohibited from installing or connecting personal or non-business\n               software or hardware without the express, written permission from the chief information\n               officer of the information technology department or their designee.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-151"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

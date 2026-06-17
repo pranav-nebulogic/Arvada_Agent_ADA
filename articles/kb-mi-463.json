@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "report",
+      "short",
+      "term",
+      "rental",
+      "concern",
+      "around",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1508/Report-a-concern"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-463",
+    "spreadsheet_id": "MI-463",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Report A Short-Term Rental Concern",
+    "summary": "The City updated its Land Development Code in 2026 to enhance enforcement of regulations concerning short-term rentals (STRs), addressing issues such as property maintenance, noise, and safety. Residents can report concerns about STRs in their neighborhoods by submitting a complaint online or by calling a dedicated hotline available 24/7.",
+    "body": "A short-term rental (STR) is a dwelling or portion of a dwelling rented to guests for a period of less than 30 nights, with a minimum of 2 nights. Often, STRs are rented as vacation homes through websites such as AirBnB or VRBO.\n\nIn 2026, to help address resident concerns around property maintenance, trash and snow removal, noise, and safety related to STR properties in their neighborhoods, the City updated its Land Development Code to strengthen enforcement of the rules around STR ownership. For full details, refer to the [City of Arvada Land Development Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH3USRE_ART3-1PRLAUSRE_DIV3-1-5BUUSHO_3-1-5-3SHTERE) or the [FAQ page](https://www.arvadaco.gov/m/faq?cat=21).\n\n## Reporting a concern with a short-term rental\n\nAs part of their obligations for maintaining a short-term rental license, STR owners must adhere to application state and local laws and rules. If you have an STR in your neighborhood and have concerns, [please submit a concern here](https://secure.hostcompliance.com/arvada-co/complaints/type) or call (720) 806-9412 to speak to a representative 24 hours a day, 7 days a week.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

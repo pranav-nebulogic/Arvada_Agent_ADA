@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "land",
+      "uses",
+      "allowed",
+      "zoning",
+      "district",
+      "following",
+      "criminal",
+      "detention",
+      "facilities",
+      "disposal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-2-11"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-2. LAND USE BY ZONING DISTRICT"
+  },
+  "content": {
+    "title": "3-1-2-11. Land uses that are not allowed in any zoning district.",
+    "summary": "The following land uses are not allowed in any zoning district:\n  1.\tCriminal Detention facilities;\n  2.\tDisposal facilities;\n  3.\tDisposal of radioactive wastes;\n  4.\tOutdoor shooting ranges;\n  5.\tIntensive agriculture; and\n  6.\tAny marijuana use identified in Chapter 53, Article II of the Arvada M…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-2-11. Land uses that are not allowed in any zoning district.",
+        "a": "The following land uses are not allowed in any zoning district:\n  1.\tCriminal Detention facilities;\n  2.\tDisposal facilities;\n  3.\tDisposal of radioactive wastes;\n  4.\tOutdoor shooting ranges;\n  5.\tIntensive agriculture; and\n  6.\tAny marijuana use identified in Chapter 53, Article II of the Arvada Municipal Code."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-2-11"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "administrative",
+      "appeals",
+      "provide",
+      "opportunity",
+      "eligible",
+      "parties",
+      "seek",
+      "review",
+      "final"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-5-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-5. ADMINISTRATIVE APPEALS"
+  },
+  "content": {
+    "title": "8-2-5-1. Purpose.",
+    "summary": "The purpose of administrative appeals is to provide an opportunity for eligible parties to seek review of a final decision of the Director or Planning Commission (The Decision).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-5-1. Purpose.",
+        "a": "The purpose of administrative appeals is to provide an opportunity for eligible parties to seek review of a final decision of the Director or Planning Commission (The Decision)."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

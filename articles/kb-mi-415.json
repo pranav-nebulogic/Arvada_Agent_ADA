@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "police",
+      "ride",
+      "alongs",
+      "must",
+      "rider",
+      "citizens",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/536/Police-Ride-Alongs"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-415",
+    "spreadsheet_id": "MI-415",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Police Ride-Alongs",
+    "summary": "Citizens of Arvada or police applicants aged 16 and older can participate in a Police Ride-Along, which allows them to accompany an on-duty officer or Animal Management. Requests must be submitted at least two weeks in advance, and participants are limited to one ride per calendar year. Applications can be completed at the Records counter at the Arvada Police Headquarters, but approval is not guaranteed and may be denied at the discretion of supervisors.",
+    "body": "A Police Ride-Along gives citizens the opportunity to ride on patrol with an on-duty uniformed officer or Animal Management.\n\n## Requirements to Participate\n\n- Rider must be a citizen of Arvada **or** a police applicant.\n- Rider must be at least 16 years of age. If rider is under 18 years of age, a parent must complete a waiver form in person.\n- Requests to ride must be submitted a least two weeks in advance.\n- Citizens may ride once per rolling calendar year.\n- Riders must provide their own transportation to and from the police department.\n\nRide-Along submissions **are not guaranteed** and requests **can be denied** based on supervisory discretion.\n\n### How to Apply for a Ride-Along\n\nCitizens can complete a Ride-Along form at the Records counter at Arvada Police Headquarters, 8101 Ralston Road, Arvada, CO 80002.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

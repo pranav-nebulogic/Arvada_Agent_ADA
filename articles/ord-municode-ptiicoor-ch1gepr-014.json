@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "supplementation",
+      "code",
+      "contract",
+      "city",
+      "personnel",
+      "supplements",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH1GEPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:08.706973+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 1-14"
+    ],
+    "chapter": "Chapter 1 - GENERAL PROVISIONS"
+  },
+  "content": {
+    "title": "Chapter 1 - GENERAL PROVISIONS — Sec. 1-14. - Supplementation of Code.",
+    "summary": "(a)\nBy contract or by city personnel, supplements to this Code shall be prepared and printed\n               whenever authorized or directed by the city council. A supplement to the Code shall\n               include all substantive permanent and general parts of ordinances passed by the city\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 1-14. - Supplementation of Code.",
+        "a": "(a)\nBy contract or by city personnel, supplements to this Code shall be prepared and printed\n               whenever authorized or directed by the city council. A supplement to the Code shall\n               include all substantive permanent and general parts of ordinances passed by the city\n               council during the period covered by the supplement and all changes made thereby in\n               the Code. The pages of a supplement shall be so numbered that they will fit properly\n               into the Code and will, where necessary, replace pages which have become obsolete\n               or partially obsolete, and the new pages shall be so prepared that, when they have\n               been inserted, the Code will be current through the date of the adoption of the latest\n               ordinance included in the supplement.\n(b)\nIn preparing a supplement to this Code, all portions of the Code which have been repealed\n               shall be excluded from the Code by the omission thereof from reprinted pages.\n(c)\nWhen preparing a supplement to this Code, the codifier (meaning the person, agency\n               or organization authorized to prepare the supplement) may make formal, nonsubstantive\n               changes in ordinances and parts of ordinances included in the supplement, insofar\n               as it is necessary to do so to embody them into a unified code. For example, the codifier\n               may:\n(1)\nOrganize the ordinance material into appropriate subdivisions;\n(2)\nProvide appropriate catchlines, headings and titles for sections and other subdivisions\n               of the Code printed in the supplement, and make changes in such catchlines, headings\n               and titles;\n(3)\nAssign appropriate numbers to sections and other subdivisions to be inserted in the\n               Code and, where necessary to accommodate new material, change existing section or\n               other subdivision numbers;\n(4)\nChange the words \"this ordinance\" or words of the same meaning to \"this chapter,\"\n               \"this article,\" \"this division,\" etc., as the case may be, or to \"sections _____ to\n               _____\" (inserting section numbers to indicate the sections of the Code which embody\n               the substantive sections of the ordinance incorporated into the Code); and\n(5)\nMake other nonsubstantive changes necessary to preserve the original meaning of ordinance\n               sections inserted into the Code; but in no case, shall the codifier make any change\n               in the meaning or effect of ordinance material included in the supplement or already\n               embodied in the Code.\n(Code 1981, § 1-11)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 1-14"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

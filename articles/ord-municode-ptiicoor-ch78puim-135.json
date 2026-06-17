@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedure",
+      "relevy",
+      "assessment",
+      "hereafter",
+      "determined",
+      "invalid",
+      "illegal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-136"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-136. - Procedure for relevy.",
+    "summary": "(a)\nWhen an assessment has been or is hereafter so determined to be invalid or illegal,\n               the council shall by ordinance order and shall make a new assessment or reassessment\n               upon the tracts which have been or will be benefited by the project to which the invalid\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-136. - Procedure for relevy.",
+        "a": "(a)\nWhen an assessment has been or is hereafter so determined to be invalid or illegal,\n               the council shall by ordinance order and shall make a new assessment or reassessment\n               upon the tracts which have been or will be benefited by the project to which the invalid\n               assessment appertains to the extent of their proportionate part of the expense thereof,\n               and in case the cost shall exceed the actual value of such project, the new assessment\n               or reassessment shall be for and shall be based upon the actual value of the same\n               at the time of the project's completion.\n(b)\nTo this end the engineer shall make a new assessment roll in an equitable manner with\n               reference to the benefits received, as near as may be in accordance with the law in\n               force at the time such reassessment is made; and when the same shall have been confirmed\n               and approved by the council as provided for the original assessments, the reassessment\n               shall be enforced and collected in the same manner that other assessments for such\n               project are enforced and collected, under the provisions of\nsections 78-98\n—\n78-111\n, both inclusive; but all proceedings relative to making the cost of any project chargeable\n               upon property benefited thereby, required and provided by the laws of the city prior\n               to the making of the original assessment roll, shall not be included nor required\n               within the purpose of\nsections 78-135\n—\n78-146\n, both inclusive.\n(Code 1981, § 27-136; Ord. No. 551, § 77, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-136"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

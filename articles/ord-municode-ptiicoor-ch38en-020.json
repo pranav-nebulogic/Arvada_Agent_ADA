@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "prohibited",
+      "shall",
+      "unlawful",
+      "any",
+      "owner",
+      "agent",
+      "tenant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-123"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-123. - Prohibited.",
+    "summary": "It shall be unlawful for any owner, agent, tenant, or occupant of any structure, premises,\n               lot, or real property to create, maintain or allow any nuisance thereon, or to remain\n               thereon.\n(\nOrd. No. 4095, § 2, 11-19-2007\n)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-123. - Prohibited.",
+        "a": "It shall be unlawful for any owner, agent, tenant, or occupant of any structure, premises,\n               lot, or real property to create, maintain or allow any nuisance thereon, or to remain\n               thereon.\n(\nOrd. No. 4095, § 2, 11-19-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-123"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "trapping",
+      "animals",
+      "shall",
+      "unlawful",
+      "trap",
+      "any",
+      "wild"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-176"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-176. - Trapping animals.",
+    "summary": "(a)\nIt shall be unlawful to trap any wild animal within the city.\nExceptions:\nAn animal management officer may authorize any person to trap a wild animal on property\n               within the city. Any person so authorized shall sign and conform to the city's trapping\n               agreement.\nA lic…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-176. - Trapping animals.",
+        "a": "(a)\nIt shall be unlawful to trap any wild animal within the city.\nExceptions:\nAn animal management officer may authorize any person to trap a wild animal on property\n               within the city. Any person so authorized shall sign and conform to the city's trapping\n               agreement.\nA licensed wildlife trapper or licensed pest control company may set a humane trap\n               on private property with prior written permission of the owner or occupant of the\n               property. All such trapping must be done in conformance with all applicable laws and\n               regulations.\nA private property owner or occupant may set a humane trap on his property. All such\n               trapping must be done in conformance with all applicable laws and regulations.\nAn animal management officer, peace officer, or any person working for the Colorado\n               Division of Wildlife may set a humane trap in conformance with all applicable laws\n               and regulations.\n(b)\nIt shall be unlawful for any person setting or using a trap to use a non-humane trap.\n(c)\nIt shall be unlawful for any person setting or using a trap intended to catch or trap\n               an animal to deprive or otherwise fail to provide any animal which may be caught by\n               or within the trap with potable water available at all times, and proper protection\n               from the elements and extremes in temperature at all times.\n(d)\nIt shall be unlawful for any person to release any wild animal in a city park or on\n               any other publicly owned property within the city.\nException:\nAn animal management officer, a peace officer, or any person working for the Colorado\n               Division of Wildlife may release a wild animal on city or other publicly owned property\n               in conformance with all applicable laws and regulations.\n(e)\nIt shall be unlawful to release any wild animal on private property except in conformance\n               with all applicable laws and regulations.\n(f)\nIt shall be unlawful for any person to euthanize any wild animal within the city.\n(i)\nNothing in this subsection shall be construed to prohibit the destruction of any animal\n               to protect life and property as authorized by state law.\n(ii)\nNothing in this subsection shall be construed to limit or restrict the authority of\n               an animal management officer, peace officer, or any person working for the Colorado\n               Division of Wildlife to humanely euthanize an animal in conformance with all applicable\n               laws and regulations.\n(iii)\nNothing in this subsection shall be construed to prohibit the destruction of a wild\n               animal by a licensed wildlife trapper or licensed pest control employee in the course\n               of his employment. Any euthanizing of wildlife by such person shall be done in a humane\n               manner and in conformance with all applicable laws and regulations.\n(Code 1981, § 6-79; Ord. No. 3496, § 2, 12-14-1998;\nOrd. No. 4344, § 7, 8-6-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-176"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

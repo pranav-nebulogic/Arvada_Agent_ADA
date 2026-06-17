@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-22"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-22. - Definitions.",
+    "summary": "The following words, terms, and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nConfidential information\nmeans any information which is available to an employee…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-22. - Definitions.",
+        "a": "The following words, terms, and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nConfidential information\nmeans any information which is available to an employee only because of the employee's\n               status as an employee of the city and is not a matter of public knowledge or available\n               to the public on request.\nDirect participation\nor\ndirectly participating\nmeans to be the project owner for a solicitation, or to be the director of the work\n               system or department which initiated the solicitation.\nFinancial interest\nmeans:\n(a)\nAny interest or involvement in any relationship from which, or as a result of which,\n                  a person within the past year has received, or is presently or in the future entitled\n                  to receive, anything of value, except that receipt of an advertising or promotional\n                  item of minimal value by shall not be considered a financial interest;\n(b)\nOwnership of five percent or more of any property or business; or\n(c)\nBeing an officer, director, trustee, or partner of, or being a manager, supervisor,\n                  employee, or holding a similar position in a business.\nException: Assets held by an employee or an employee's family member in a disclosed\n                  blind trust shall not be deemed to be a financial interest that constitutes a conflict\n                  of interest with regard to matters pertaining to that financial interest.\nFormer employee\nmeans a person who was employed by the city within the past 12 months, but who is\n               no longer employed by the city.\nGift, gratuity,\nor\nkickback\nmeans anything of value including but not limited to cash, a gift certificate, a\n               gift card, loan, advance, service, or an offer of employment, either given or promised.\n               It does not include an advertising or promotional item of minimal value, or the occasional\n               donation at a city work site of perishable items for consumption by city employees.\nImmediate family\nor\nfamily\nmeans an employee's spouse, child, parent, sibling, grandparent, or grandchild (including\n               natural, step, adopted, foster, or in-law relationships); or a person whom the employee\n               identifies as his or her significant other or domestic partner whose primary residence\n               or place of primary abode is the same as the employee's.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-22"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

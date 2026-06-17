@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "housing",
+      "needs",
+      "assessment",
+      "findings",
+      "inventory",
+      "family",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1276/2024-Housing-Needs-Assessment-Findings"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-002",
+    "spreadsheet_id": "MI-002",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "2024 Housing Needs Assessment Findings",
+    "summary": "Arvada's housing inventory is predominantly composed of detached single-family homes, with 71% of units falling into this category, leading to a median sales price of $606,000 that is unaffordable for many residents. The city needs to add approximately 2,790 affordable rental units for low-income renters, and only 6% of for-sale homes are within reach for renters transitioning to homeownership. Community feedback indicates a strong desire for increased investment in affordable housing options, particularly for low- to middle-income workers.",
+    "body": "## Inventory\n\nArvada’s physical housing inventory is woefully lacking in a diversity of home types that could produce natural affordability for both renters and potential homebuyers. Nearly 2/3 (71%) of all housing units in Arvada are detached, single-family homes. The median sales price for a single-family home in Arvada was $606,000 as of the end of 2023, meaning a household would need to earn $199,000 a year to afford it. An analysis of Arvada’s housing stock and available inventory, when compared to resident incomes, revealed that:\n\n- For renters earning less than 50% AMI, the City would have to add an additional 2,790 units at an affordable rent so that tenants were not spending more than 30% of their income on housing.\n- Only 6% of the for-sale housing stock would be within the budget of renters looking to transition into homeownership; those earning between 50%-120% AMI (38% of all renters) and looking to transition into homeownership, only 6% of the for-sale housing stock would be within their budget.\n\n### Challenges\n\nDue to the lack of rental inventory and low stock of lower priced for-sale homes, many of Arvada’s local workers have nowhere to live within the City. There is no industry in Arvada that on average, pays a high enough salary to purchase a home at the median sales price. Only eight industries pay a high enough average salary for employees to rent an apartment in Arvada without being cost burdened.\n\n## Administrative Burden\n\nInterviews with developers and other stakeholders revealed a sentiment that the City was placing a development burden on projects that would be attainable and affordable for low- to moderate-income workers. There was a specific request for a more expedited review process, as well as the inclusion of some development incentives to be added to the Land Use Development Code, such as height or density bonuses, where appropriate.\n\n*Note*: As a condition of opting in to Proposition 123, the City of Arvada must create a plan for a 90-day review process for residential affordable development by Dec. 31, 2026.\n\n## Community Input\n\nAs a component of the assessment, Root Policy Research distributed a comprehensive community survey for both in-commuters to Arvada and local Arvada residents. The survey found:\n\n- 62% of in-commuters considered living in Arvada but were unable to find an acceptable home to either buy or rent in their price range\n- 60% of all respondents believed the City should invest in housing stock for low- to middle-income wage workers\n- Nearly half of Arvada residents believe that multi-family homes would be appropriate in their neighborhood. More believe that it could be appropriate elsewhere in Arvada.\n\n[READ THE HOUSING NEEDS ASSESSMENT](/DocumentCenter/View/5997/Arvada-Housing-Needs-Final-5-22-24)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

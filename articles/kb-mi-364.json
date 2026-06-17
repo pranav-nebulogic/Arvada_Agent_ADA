@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "olde",
+      "town",
+      "webster",
+      "district",
+      "mixed",
+      "based",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/224/OT-W-Olde-Town-Webster-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-364",
+    "spreadsheet_id": "MI-364",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "OT-W (Olde Town Webster) District",
+    "summary": "The Olde Town Webster zoning district in Arvada is designed to preserve the historic character of the area while allowing for a variety of mixed-use developments, including residential, hospitality, commercial, and civic uses. Specific classifications for allowed uses include townhomes, hotels, restaurants, and medical offices, with varying regulations outlined in the Land Development Code. Uses not explicitly listed are prohibited in this zoning district.",
+    "body": "The intent of the Olde Town form-based zoning districts is to protect the established historic character of Olde Town Arvada based on the City's adopted plans and design guidelines for the area. The Olde Town Webster zoning district is a mixed-use zone district allowing mixed- use, mixed-use parking structure, apartment, townhouse, multiplex, and civic building form types.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#taba21ed6fe-c8fb-4728-9e6a-3120976757d8_0)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Townhome | C | 3-1-3-2 |\n| Multiplex | C | N/A |\n| Multifamily | C | N/A |\n| Boarding, Lodging, or Rooming House | A | N/A |\n| Group Home, FFHA | L | 3-1-3-3 |\n| Group Home, Not Specified Above | C | 3-1-3-3 |\n| Live-Work Unit | L | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#taba21ed6fe-c8fb-4728-9e6a-3120976757d8_1)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Bar / Tavern / Nightclub | L | 3-1-3-4 |\n| Bed and Breakfast | L | 3-1-3-4 |\n| Hotel / Motel | A | 3-1-3-4 |\n| Brew Pub / Distillery Pub / Limited Winery | L | 3-1-3-4 |\n| Recreation and Amusement, Indoor | A | N/A |\n| Recreation, Outdoor (other) | L | N/A |\n| Restaurant | A | N/A |\n| Restaurant, Fast Food | L | 3-1-3-4 |\n\n1. [Commercial Uses](#taba21ed6fe-c8fb-4728-9e6a-3120976757d8_2)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Art Studio / Makerspace | L | 3-1-3-5 |\n| Continuing Care Facility | A | N/A |\n| Office, General or Professional | A | N/A |\n| Retail Sales and Services Type 1 | L | 3-1-3-5 |\n| Veterinary Offices or Clinics | L | 3-1-3-5 |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#taba21ed6fe-c8fb-4728-9e6a-3120976757d8_3)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Medical Office | A | N/A |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | L | 3-1-3-6 |\n| Private School, Kindergarten, Elementary, Middle, or High | A | N/A |\n| Private School, Vocational, Trade, College, or University | A | N/A |\n\n1. [Utility & Communications Uses](#taba21ed6fe-c8fb-4728-9e6a-3120976757d8_4)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Minor | L | 3-1-3-9 |\n| Other Wireless Communications Facilities | L | Chapter 7 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

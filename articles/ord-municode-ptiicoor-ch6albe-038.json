@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "changing",
+      "altering",
+      "modifying",
+      "common",
+      "consumption",
+      "area",
+      "entertainment"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-166"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-166. - Changing, altering, or modifying a common consumption area or entertainment district.",
+    "summary": "(a)\nCommon consumption area.\nAfter the issuance of a common consumption area license, a licensee shall make no\n               physical change, alteration, or modification to the common consumption area which\n               alters the boundaries or the usage of the common consumption area from the pl…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-166. - Changing, altering, or modifying a common consumption area or entertainment district.",
+        "a": "(a)\nCommon consumption area.\nAfter the issuance of a common consumption area license, a licensee shall make no\n               physical change, alteration, or modification to the common consumption area which\n               alters the boundaries or the usage of the common consumption area from the plans and\n               specifications submitted at the time of the original license application without first\n               filing a new application and paying a new license fee pursuant to\nsection 6-163\n. Changes, alterations, and modifications must receive approval of the authority after\n               a public hearing held pursuant to\nsection 6-164\n.\n(b)\nEntertainment district.\nThe boundaries of an entertainment district may not be expanded, enlarged, reduced,\n               or modified without approval from city council through a resolution.\n(\nOrd. No. 4804\n, § 1, 6-6-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-166"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

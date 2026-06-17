@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "newspapers",
+      "magazines",
+      "publications",
+      "newspaper",
+      "general",
+      "include",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/356/Newspapers-Magazines-Other-Publications"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-355",
+    "spreadsheet_id": "MI-355",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Newspapers, Magazines & Other Publications",
+    "summary": "A newspaper is defined as a regularly published print publication on newsprint that provides information and editorials on current events for general circulation. It excludes various other forms of publications such as magazines, trade journals, and advertising materials. This summary serves as a layman's interpretation of the relevant Arvada tax law and should be used alongside the full Arvada tax code for determining tax liability.",
+    "body": "Newspaper means a publication, printed on newsprint, intended for general circulation, and published regularly at short intervals, containing information and editorials on current events and news of general interest. The term newspaper does not include magazines, trade publications or journals, credit bulletins, advertising inserts, circulars, directories, maps, racing programs, reprints, newspaper clippings, mailing services or listings, publications that include an updating or revision service, or books or pocket editions of books.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "land",
+      "development",
+      "code",
+      "information",
+      "municode",
+      "provides",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1397/Land-Development-Code"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-290",
+    "spreadsheet_id": "MI-290",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Land Development Code",
+    "summary": "The Land Development Code (LDC) outlines the regulations for property development and use within the city, covering aspects such as zoning, subdivisions, building permits, and flood plain information. The full version of the code is available for download from Municode.",
+    "body": "The Land Development Code (LDC) provides the City's regulations for the development and use of property within the city. The code provides information on zoning, subdivisions, building permits, flood plain information and other related land use activities.\n\nYou can download the full version of the land development code from [Municode](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

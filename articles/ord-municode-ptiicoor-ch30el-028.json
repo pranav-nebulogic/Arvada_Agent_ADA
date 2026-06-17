@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "petition",
+      "filing",
+      "affidavit",
+      "within",
+      "ten",
+      "days",
+      "following"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-63"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-63. - Petition.",
+    "summary": "(a)\nFiling of petition/affidavit.\nWithin ten days following the filing of the notice of intent, a prepared petition\n               form containing the petitioner's affidavit provided for in\nsection 3.6\nof the Charter shall be submitted to the city clerk.\n(b)\nAuthority to circulate.\nAfter the petitio…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-63. - Petition.",
+        "a": "(a)\nFiling of petition/affidavit.\nWithin ten days following the filing of the notice of intent, a prepared petition\n               form containing the petitioner's affidavit provided for in\nsection 3.6\nof the Charter shall be submitted to the city clerk.\n(b)\nAuthority to circulate.\nAfter the petition containing the affidavit specified in subsection (a) of this section\n               has been filed, the city clerk shall notify the councilmember as set forth in the\n               Charter.\n(c)\nTo contain reasons.\nAll petitions for recall shall contain the reasons for the recall, as stated in the\n               affidavit filed with the city clerk, which statement of reasons are intended for the\n               information of the electors, and the electors shall be the sole and exclusive judges\n               of the legality, reasonableness, and sufficiency of such reasons assigned for such\n               recall, and said reasons shall not be open for review.\n(d)\nStatement in defense.\nThe city councilmember shall have ten business days to file with the city clerk a\n               sworn statement in defense of the reasons stated in the petitioner's affidavit. All\n               petitions for recall shall contain the city councilmember's statement in defense of\n               the recall, if so requested by the person sought to be recalled, prior to the authorization\n               to circulate the petition by the city clerk.\n(e)\nWarning statement.\nAll petitions for recall shall meet the requirements set forth in\nsection 30-34\n.\n(f)\nThe city clerk's authorization shall not constitute an approval of the form or contents\n               of the petition, but rather, shall commence the running of the time periods provided\n               herein.\n(Code 1981, § 11-34; Ord. No. 3511, § 2, 2-1-1999;\nOrd. No. 4400, § 11, 8-19-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-63"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-39-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "children",
+      "play",
+      "signs",
+      "slow",
+      "people",
+      "down",
+      "fact",
+      "some",
+      "Traffic Control on My Street"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=39"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/do-children-at-play-signs-slow-people-down",
+    "faq_category_name": "Traffic Control on My Street"
+  },
+  "content": {
+    "title": "Do children at play signs slow people down?",
+    "summary": "No. In fact, some studies suggest that these signs can decrease safety. These signs can introduce new dangers. Some residents may feel more secure when these signs are present. Children may be more prone to play in the street and others may be less vigilant. Due to the serious concerns over the effe…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Do children at play signs slow people down?",
+        "a": "No. In fact, some studies suggest that these signs can decrease safety. These signs can introduce new dangers. Some residents may feel more secure when these signs are present. Children may be more prone to play in the street and others may be less vigilant. Due to the serious concerns over the effects of the signs, neither federal nor state regulations recognize their effectiveness."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "order",
+      "police",
+      "records",
+      "attorney",
+      "district",
+      "office",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/554/Order-Police-Records"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-380",
+    "spreadsheet_id": "MI-380",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Order Police Records",
+    "summary": "Requests for police records in Arvada can be made online, in person, or by mail, with processing times typically ranging from 5 to 7 business days. Certain reports, particularly those involving confidential information or open investigations, are not available, and additional fees may apply for extensive requests. For assistance, individuals can contact the Arvada Police Department Records Unit directly.",
+    "body": "If you are a defendant in an active criminal case, your report must be obtained through the appropriate office:\n\n- [Jefferson County District Attorney](https://firstda.co/)\n- [Adams County District Attorney](https://www.adcogov.org/district-attorney)\n- [City Attorney's office](/195/Legal-City-Attorneys-Office)\n\n## Police Records\n\nRequests for police reports, records checks, videos, photos, computer or address searches, and other documents can be made online, in person, or by mail. Requests for police reports take 5 to 7 business days to process, processing time for other records vary.\n\nBy submitting a request online, you affirm that the criminal justice records obtained from the Arvada Police Department under this request will not be used for the direct solicitation of business for pecuniary gain, and also affirm that any booking photographs obtained under this request will not be placed in a publication or posted to a website that requires the payment of a fee or other exchange for pecuniary gain in order to remove or delete the booking photograph from the publication or website. See: C.R.S. § 24-72-305.5\n\n[Request Records Online](https://secure.coplogic.com/rar/startrequest/200001172/ \"Request Records Online opens in a new tab or window\")\n\nFor in-person and mail requests, complete the [Records Request Form (PDF)](/DocumentCenter/View/697) and return it in person or by mail to:\n\n- Attention: Records  \n  City of Arvada  \n  8101 Ralston Road  \n  Arvada CO 80002\n\n### Restrictions and Fees\n\n- Reports relating to**confidential information** or **open investigations** are not available.\n- You will be contacted prior to the release of a report if the completion of the request requires additional fees (such as for reports of more than 10 pages).\n- All payments are non-refundable. Please review the [administrative fee schedule](https://www.arvadaco.gov/1315/Police-Records-Fee-Schedule) before submitting your request.\n\n## Traffic Accident Reports\n\nAvailable traffic accident reports can be accessed online through [Traffic Accident Reports (BuyCrash)](https://buycrash.lexisnexisrisk.com/search?AGENCY=CO0300100).\n\n## Dispatch Notes and Recordings\n\nDispatch notes, and recordings must be requested through the [Jefferson County Communications Center (Jeffcom)](https://www.jeffcom911co.gov/).\n\n## Get Assistance\n\nIf you have questions or need assistance requesting a report, please call the Arvada Police Department Records Unit at 720-898-6920.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

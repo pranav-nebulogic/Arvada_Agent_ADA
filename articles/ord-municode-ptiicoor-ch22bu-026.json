@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "grant",
+      "conditions",
+      "revocation",
+      "city",
+      "council",
+      "upon",
+      "finding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-133"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-133. - Grant; conditions; revocation.",
+    "summary": "The city council, upon finding that an application under this division is consistent\n               with the public interest, safety and welfare, may grant by ordinance a revocable permit\n               for such application in whole or in part, subject to such agreements, conditions,\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-133. - Grant; conditions; revocation.",
+        "a": "The city council, upon finding that an application under this division is consistent\n               with the public interest, safety and welfare, may grant by ordinance a revocable permit\n               for such application in whole or in part, subject to such agreements, conditions,\n               charges, assessments and taxes as the city council may impose upon the applicant;\n               provided that the right to revoke said permit without cause at any time, whether or\n               not said right is expressly reserved in the permit, shall be retained by the city\n               council.\n(Code 1960, § 7A-3; Code 1981, § 9-4)\nCharter reference—\nRevocable permits, §\n12.8\n.\nState Law reference—\nIrrevocable grant of franchise prohibited, Colo. Const. Art. II, § 11."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-133"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

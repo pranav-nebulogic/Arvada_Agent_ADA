@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procurement",
+      "records",
+      "public",
+      "subject",
+      "any",
+      "limitations",
+      "provided"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-6"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-6. - Procurement records.",
+    "summary": "(a)\nProcurement records public.\nSubject to any limitations provided for by federal or state law concerning open access\n               and right to privacy, all procurement information is hereby declared to be a public\n               record and open for inspection pursuant to C.R.S. § 24-72-201 et se…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-6. - Procurement records.",
+        "a": "(a)\nProcurement records public.\nSubject to any limitations provided for by federal or state law concerning open access\n               and right to privacy, all procurement information is hereby declared to be a public\n               record and open for inspection pursuant to C.R.S. § 24-72-201 et seq., as may be amended,\n               except the custodian of records may deny inspection of responses to solicitations\n               until the award is approved or the city determines that it will not be awarding a\n               contract.\n(b)\nRecords maintenance and retention.\nAll procurement records shall be kept and maintained in accordance with the city's\n               records retention schedule. The city clerk is the official custodian of city procurement\n               records. The responsibility for keeping and maintaining procurement records is as\n               follows:\n(1)\nThe purchasing manager shall keep and maintain records of all formal solicitation\n               processes, solicitations for tasks of $50,000.00 or more performed under a contract\n               with a pre-qualified vendor, all sole source justification records, and all records\n               relating to emergency contracts.\n(2)\nThe director shall keep and maintain records of solicitations and contracts initiated\n               by his or her department, except those ordinarily kept and maintained by the city\n               clerk, or by the purchasing manager as set forth herein. The director is also responsible\n               for ensuring that all bonds, notices, certificate of insurance, and other documents\n               required by a contract are timely obtained, current, and maintained for record keeping\n               purposes. The director may delegate any of these responsibilities, for any or all\n               procurements, to the project owner or to another work system employee.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

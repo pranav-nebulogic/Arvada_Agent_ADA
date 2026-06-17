@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "division"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH34EMSE"
+    ],
+    "scraped_at": "2026-06-10T12:02:33.665000+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 34-71"
+    ],
+    "chapter": "Chapter 34 - EMERGENCY SERVICES"
+  },
+  "content": {
+    "title": "Chapter 34 - EMERGENCY SERVICES — Sec. 34-71. - Definitions.",
+    "summary": "The following words, terms and phrases, when used in this division, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nAlarm system\nmeans any device designed for the detection of an unauthorized entr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 34-71. - Definitions.",
+        "a": "The following words, terms and phrases, when used in this division, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nAlarm system\nmeans any device designed for the detection of an unauthorized entry on or into any\n               building, place or premises, or for alerting others of the commission of an unlawful\n               act, or both, and when activated causes an audible and/or visual signal or transmits\n               a signal or message to which police officers are expected to respond or that would\n               imply to a reasonable person that police officers are needed at the alarm source to\n               investigate a criminal activity or emergency. Included are single and/or multiple\n               devices, such as an electronic unit which plugs directly into a 110-volt AC line.\nException:\n(1)\nSingle unit smoke detectors or personal protection alerting devices which alert only\n                  the user and which do not require special wiring.\n(2)\nAlarms installed in or on motorized vehicles.\nAlarm user\nmeans any person, firm, business, partnership, association or corporation or employee\n               thereof which maintains control of, his responsibility for, and/or is associated with\n               the operation of the alarm device or who buys and/or leases or otherwise obtains or\n               uses an alarm system.\nFalse alarm\nmeans an alarm signal necessitating response by the police department where a criminal\n               activity does not exist.\nValid alarm\nis where a criminal activity occurred, possibly occurred, or is occurring at the\n               time of the alarm, as determined by the police officer's investigation.\n(Code 1981, § 2-191(a); Ord. No. 1745, §§ 2—6, 5-18-1981; Ord. No. 1959, § 1, 8-1-1983;\n               Ord. No. 3237, § 2, 12-18-1995)\nCross reference—\nDefinitions,\n§ 1-2\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 34-71"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

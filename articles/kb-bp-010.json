@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "electrical permit",
+      "commercial electrical",
+      "service panel",
+      "wiring",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/344/Electrical"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-010",
+    "spreadsheet_id": "BP-010",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Commercial Electrical Permit",
+    "summary": "Permits for residential and commercial electrical work must be approved before starting any projects, with applications now submitted through the online Permit Portal. Homeowners can apply for permits for various electrical tasks, including service replacements and new wiring, while commercial projects require engineered plans. Applications are typically reviewed within one to three business days, and all associated fees can be paid online or at City Hall.",
+    "body": "Permits for residential and commercial electrical is required to be approved and issued before work can be started. Applicants interested in applying for an Electrical Permit, should review all information below. Applications can now be submitted through our online customer portal, the [Permit Portal]([NEW PORTAL URL]).\n\n## Getting Started\n\nPermits for the following electrical work are required for commercial and residential structures. If you are the homeowner and occupant of the structure, you can obtain the permit. Please review all application requirements before submittal:\n\n1. Service Replace or New\n2. Meter Housing replacement\n3. Construction meter\n4. New wiring circuit\n\n### Applications Must Include\n\n- Project is for a panel rating that is over 200 amps application must include an Engineered signed and stamped set of plans.\n- Project is for commercial structures must include an Engineered signed and stamped set of plans.\n- Completing a project as a homeowner, a single line diagram must be included with application.\n- Project is for a new utilities meter or a telephone cabinet, a site plan locating the new installation must be included.\n\n### Reasons to Stop the Process\n\nThe electrical work is part of a larger project such as installation of mechanical appliances, residential remodels, commercial remodels, new residential or commercial structures. The project permit will have the electrical permit and fee associated with that permit. Electrical contractors will need to complete the sub-contractor form for those permits.\n\n## Review Timelines\n\nApplications are typically reviewed within an 8 hour business day. Some electrical permits will require a technical review. Please see below for typical review timelines.\n\n| Panel Under 200 Amps | Panel Over 200 Amps | Commercial |\n| --- | --- | --- |\n| Reviewed within 1 Business Day | 3 business day technical review | 3 business day technical review |\n\n## Fees\n\nOnce an application is processed, all fees can be paid through the [Permit Portal]([NEW PORTAL URL]). Fees can also be paid at City Hall during regular business hours.\n\n| Application Type | Work Type | Permit Fees |\n| --- | --- | --- |\n| Residential | Replace or New Service | $54, Use Tax |\n| Residential | Construction Meter | $54, Use Tax |\n| Residential | Meter Housing | $50, Use Tax |\n| Residential | New Wiring Circuit | Building Permit Fee, Use Tax |\n| Commercial | All subtypes | Building Permit Fee, Use Tax |\n\nIf you are a contractor that submits their Use Tax to the City of Arvada Sales Tax division, Use Tax will be removed from the permit after review by the Building Division staff, proof of Tax Exempt status will be requested during the application process. Utilize the [Fee Calculator]([NEW PORTAL URL]).\n\n## Submit Application\n\nThe City of Arvada uses the Permit Portal for the permit application process. Contractors that have a valid City of Arvada registration are able to submit their application through the online system. Homeowners that are applying for permits may complete the application and submit it to the [Building Permits Division](mailto:buildingpermits@arvada.org).\n\n## Inspection Required\n\nThis list is not inclusive, commercial projects may require other inspections. Please contact the Building Inspections if you have questions about inspections.\n\n| Permit Sub-Type | Inspection Type |\n| --- | --- |\n| Replace or New Service | Electrical Service/CL, Final Electrical |\n| Construction Meter | Final Electrical |\n| Meter Housing | Electrical Service/CL, Final Electrical |\n| New Wiring Circuit | Rough Electrical, Final Electrical |\n\n## Closing the Permit\n\nOnce the required inspections are completed with a FINAL result, the permit will be finalized and considered closed. An email with the results and notice of permit closer will be sent to the email that is on file. Inspection results and permit status can always be reviewed online at the [Permit Portal]([NEW PORTAL URL]) or by calling the automated inspection line at 720-898-7630.\n\nFor meter releases - The City of Arvada releases inspection information to [Xcel Energy](https://www.xcelenergy.com/start,_stop,_transfer/new_construction_service_activation_for_builders) the day after the inspection is approved. Applicants are responsible for contacting Xcel Energy to complete the setup of the meter.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

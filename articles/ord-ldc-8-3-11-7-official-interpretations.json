@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "official",
+      "interpretations",
+      "generally",
+      "person",
+      "entity",
+      "seek",
+      "written",
+      "interpretation",
+      "provision",
+      "including"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-11-7"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-11. EXCEPTIONS, VARIANCES, MODIFICATIONS, AND INTERPRETATIONS"
+  },
+  "content": {
+    "title": "8-3-11-7. Official interpretations.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-11-7. Official interpretations.",
+        "a": "A.\tGenerally. Any person or entity may seek an official written interpretation of any provision of this LDC, including but not limited to interpretations as to whether a specific use is deemed to be within a use classification permitted in a particular zoning district, or interpretations regarding the boundaries of the various special flood hazard areas that are shown on the Official Floodplain Map.\nB.\tLimitations. An official written interpretation shall not permit any specific use that is expressly prohibited in a zoning district. If a specific use cannot clearly be determined to be in a use classification permitted in a particular zoning district, such use may be permitted by way of Section 3-1-2-12, Land Uses That Are Not Listed, or officially incorporated into this LDC by an LDC Text Amendment.\nC.\tResponsible Staff Member. Official written interpretations shall be approved by the Director, except that the floodplain regulations set forth in Division 4-1-2, Floodplain Regulations, shall be interpreted by the Floodplain Administrator.\nD.\tOfficial Record of Interpretations.\n  1.\tAn Official Record of Interpretations shall be kept on file in the office of the Director. The official record shall include all written interpretations and, as to any interpretations that are administratively or judicially appealed, the results of the appeals.\n  2.\tThe Official Record of Interpretations shall be available for public inspection in the Department during normal business hours."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-11-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

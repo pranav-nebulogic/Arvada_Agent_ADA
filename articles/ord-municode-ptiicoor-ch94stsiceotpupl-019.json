@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "cost",
+      "sharing",
+      "completing",
+      "work",
+      "except",
+      "public",
+      "streets"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-36"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-36. - Cost sharing and completing the work.",
+    "summary": "(a)\nExcept where public streets are scheduled to undergo major capital maintenance as\n               defined by\nsection 2-291\nwithin two years, curb, gutter and sidewalk shall be maintained on a 50/50 cost sharing\n               basis whereby the property owner shall pay one-half of the reasonable c…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-36. - Cost sharing and completing the work.",
+        "a": "(a)\nExcept where public streets are scheduled to undergo major capital maintenance as\n               defined by\nsection 2-291\nwithin two years, curb, gutter and sidewalk shall be maintained on a 50/50 cost sharing\n               basis whereby the property owner shall pay one-half of the reasonable cost to replace\n               or repair existing curb, gutter and sidewalk and the city shall pay the other half.\n               The city shall pay the entire cost of existing curb, gutter and sidewalk replacement\n               or repair for public streets that are scheduled to undergo major capital maintenance\n               as defined by\nsection 2-291\nwithin two years. The reasonable cost shall be determined prior to March 15 of each\n               year and shall be based upon the contract unit prices accepted by the city through\n               a bid process or unit prices determined pursuant to\nsection 2-171\net seq.\n(b)\nThe property owner may elect to hire a contractor licensed pursuant to\nsection 78-181\net seq. to perform the work. The property owner will be reimbursed by the city for\n               half the reasonable cost, as determined by\nsection 94-36\n(a), upon completion of the work, inspection and approval by the city, and receipt\n               of a paid invoice from the contractor.\n(c)\nThe property owner may elect, when offered by the city, to have the work performed\n               by the city's contractor; however, the property owner's share of the reasonable cost\n               shall either be paid prior to starting work or secured by a promissory note with interest-free\n               monthly installments.\n(\nOrd. No. 4365, § 1, 11-19-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-36"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

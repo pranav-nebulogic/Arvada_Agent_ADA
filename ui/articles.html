@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Knowledge Base · Arvada</title>
+<script>
+  (function () {
+    const saved = localStorage.getItem("arvada-theme");
+    const initial = saved || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    document.documentElement.dataset.theme = initial;
+  })();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  /* Design tokens — ported from the 311 design system (311-lovable-app/src/styles.css). */
+  :root {
+    --bg: oklch(0.985 0.005 250); --surface: oklch(1 0 0); --surface-2: oklch(0.965 0.012 250);
+    --line: oklch(0.92 0.012 250); --line-strong: oklch(0.88 0.015 250);
+    --text: oklch(0.18 0.04 260); --text-2: oklch(0.5 0.025 255); --text-3: oklch(0.62 0.02 255);
+    --heading: oklch(0.2 0.05 260); --navy: oklch(0.18 0.045 260);
+    --accent: oklch(0.45 0.16 258); --accent-soft: oklch(0.955 0.025 255); --accent-text: oklch(0.45 0.16 258);
+    --brand-blue: oklch(0.45 0.16 258); --brand-blue-soft: oklch(0.955 0.025 255);
+    --gold: oklch(0.82 0.17 82); --gold-soft: oklch(0.93 0.08 90);
+    --shadow-sm: 0 1px 2px 0 rgb(15 23 42 / .04);
+    --shadow-card: 0 1px 2px 0 rgb(15 23 42 / .04), 0 8px 24px -12px rgb(15 23 42 / .08);
+    --shadow-md: 0 2px 4px 0 rgb(15 23 42 / .05), 0 16px 32px -12px rgb(15 23 42 / .16);
+    --radius: 20px; --radius-sm: 12px;
+    --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --serif: "Plus Jakarta Sans", "Inter", system-ui, sans-serif;
+  }
+  html[data-theme="dark"] {
+    --bg: oklch(0.195 0.038 258); --surface: oklch(0.255 0.042 258); --surface-2: oklch(0.3 0.04 258);
+    --line: oklch(0.35 0.03 258); --line-strong: oklch(0.41 0.03 258);
+    --text: oklch(0.96 0.014 255); --text-2: oklch(0.75 0.02 255); --text-3: oklch(0.62 0.02 255);
+    --heading: oklch(0.96 0.014 255); --navy: oklch(0.16 0.04 258);
+    --accent: oklch(0.72 0.14 258); --accent-soft: oklch(0.72 0.14 258 / .14); --accent-text: oklch(0.78 0.12 258);
+    --brand-blue: oklch(0.72 0.14 258); --brand-blue-soft: oklch(0.72 0.14 258 / .12);
+    --shadow-sm: 0 1px 2px rgba(0,0,0,.3);
+    --shadow-card: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px -12px rgba(0,0,0,.5);
+    --shadow-md: 0 8px 28px rgba(0,0,0,.45);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body { font-family: var(--sans); background: var(--bg); color: var(--text); min-height: 100vh;
+    line-height: 1.6; -webkit-font-smoothing: antialiased; transition: background .3s, color .3s; }
+  svg { display: block; }
+
+  .topbar { position: sticky; top: 0; z-index: 50; display: flex; align-items: center; gap: 12px;
+    padding: 14px 24px; background: color-mix(in srgb, var(--bg) 82%, transparent);
+    backdrop-filter: saturate(140%) blur(12px); border-bottom: 1px solid var(--line); }
+  .nav-btn { display: inline-flex; align-items: center; gap: 7px; color: var(--text); text-decoration: none;
+    font-size: 13.5px; font-weight: 600; padding: 8px 14px; border-radius: 999px;
+    border: 1px solid var(--line-strong); background: var(--surface); transition: border-color .18s, transform .18s; }
+  .nav-btn:hover { border-color: var(--accent); transform: translateY(-1px); }
+  .brand { display: flex; align-items: center; gap: 9px; margin-left: auto; color: var(--text-2); font-size: 13px; font-weight: 600; }
+  .brand .mark { width: 26px; height: 26px; border-radius: 8px; background: var(--brand-blue); color: #fff;
+    display: grid; place-items: center; font-size: 14px; box-shadow: var(--shadow-sm); }
+  .icon-btn { width: 38px; height: 38px; border-radius: 999px; display: grid; place-items: center; cursor: pointer;
+    font-size: 15px; color: var(--text); border: 1px solid var(--line-strong); background: var(--surface); transition: border-color .18s, transform .18s; }
+  .icon-btn:hover { border-color: var(--accent); transform: translateY(-1px); }
+
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 30px 24px 110px; }
+
+  /* ── Control row: [Dept ▾]  [ search · Keyword|AI ]  [Filters ▾] ───────── */
+  .controls { display: flex; gap: 12px; align-items: center; justify-content: center; flex-wrap: wrap; }
+  .menu-wrap { position: relative; }
+  .ctrl { display: inline-flex; align-items: center; gap: 9px; height: 52px; padding: 0 16px;
+    border-radius: 14px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--text);
+    font-size: 14px; font-weight: 600; cursor: pointer; white-space: nowrap; box-shadow: var(--shadow-sm); transition: border-color .15s; }
+  .ctrl:hover { border-color: var(--accent); }
+  .ctrl.on { border-color: var(--brand-blue); background: var(--brand-blue-soft); color: var(--brand-blue); }
+  .ctrl svg { width: 17px; height: 17px; }
+  .ctrl .cnt { min-width: 18px; height: 18px; padding: 0 5px; border-radius: 999px; background: var(--brand-blue); color: #fff;
+    font-size: 11px; font-weight: 700; display: grid; place-items: center; }
+  .ctrl .car { color: var(--text-3); transition: transform .18s; }
+  .ctrl[aria-expanded="true"] .car { transform: rotate(180deg); }
+
+  .search { flex: 1 1 420px; max-width: 560px; display: flex; gap: 8px; align-items: center;
+    background: var(--surface); border: 1px solid var(--line-strong); border-radius: 16px;
+    padding: 6px 8px 6px 16px; box-shadow: var(--shadow-md); transition: border-color .18s, box-shadow .18s; height: 52px; }
+  .search.ai { border-color: color-mix(in srgb, var(--brand-blue) 55%, transparent);
+    box-shadow: var(--shadow-md), 0 0 0 3px color-mix(in srgb, var(--brand-blue) 14%, transparent); }
+  .search:focus-within { border-color: var(--accent); }
+  .search .mag { color: var(--text-3); }
+  .search .mag svg { width: 19px; height: 19px; }
+  .search input { flex: 1; min-width: 0; background: transparent; border: none; outline: none; color: var(--text); font-size: 15.5px; padding: 10px 0; }
+  .search input::placeholder { color: var(--text-3); }
+  .mode { display: inline-flex; gap: 3px; background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+  .mode button { font-size: 12.5px; font-weight: 700; color: var(--text-2); border: none; background: transparent; cursor: pointer;
+    padding: 7px 12px; border-radius: 999px; transition: color .15s, background .15s; display: inline-flex; align-items: center; gap: 5px; white-space: nowrap; }
+  .mode button svg { width: 14px; height: 14px; }
+  .mode button:hover { color: var(--text); }
+  .mode button.on { background: var(--surface); color: var(--accent-text); box-shadow: var(--shadow-sm); }
+  .mode button.on.ai { background: var(--brand-blue); color: #fff; }
+
+  /* Dropdown panels */
+  .menu { position: absolute; top: calc(100% + 8px); left: 0; z-index: 40; min-width: 256px; max-width: 320px;
+    background: var(--surface); border: 1px solid var(--line-strong); border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md); padding: 8px; display: none; max-height: 60vh; overflow: auto; }
+  .menu.right { left: auto; right: 0; }
+  .menu.open { display: block; }
+  .menu .mh { font-size: 11px; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; color: var(--text-3); padding: 8px 10px 6px; }
+  .opt { display: flex; align-items: center; gap: 10px; padding: 9px 10px; border-radius: 9px; cursor: pointer; font-size: 13.5px; font-weight: 500; color: var(--text); }
+  .opt:hover { background: var(--surface-2); }
+  .opt .box { width: 18px; height: 18px; flex: 0 0 auto; border-radius: 5px; border: 2px solid var(--line-strong);
+    display: grid; place-items: center; color: #fff; }
+  .opt .box svg { width: 12px; height: 12px; opacity: 0; }
+  .opt.sel .box { background: var(--brand-blue); border-color: var(--brand-blue); }
+  .opt.sel .box svg { opacity: 1; }
+  .opt .oi { width: 22px; text-align: center; }
+  .opt .ol { flex: 1; }
+  .opt .oc { font-size: 12px; color: var(--text-3); font-variant-numeric: tabular-nums; }
+  .menu .mfoot { display: flex; justify-content: space-between; gap: 8px; padding: 8px 6px 2px; border-top: 1px solid var(--line); margin-top: 6px; }
+  .menu .mbtn { font-size: 12.5px; font-weight: 700; border: none; background: transparent; cursor: pointer; color: var(--text-2); padding: 6px 8px; border-radius: 8px; }
+  .menu .mbtn:hover { background: var(--surface-2); color: var(--text); }
+  .menu .mbtn.primary { color: var(--brand-blue); }
+
+  /* Active filter pills */
+  .pills { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 14px; }
+  .pill { display: inline-flex; align-items: center; gap: 7px; font-size: 12.5px; font-weight: 600;
+    padding: 5px 8px 5px 12px; border-radius: 999px; border: 1px solid color-mix(in srgb, var(--brand-blue) 45%, transparent);
+    background: var(--brand-blue-soft); color: var(--brand-blue); }
+  .pill button { border: none; background: transparent; color: inherit; cursor: pointer; display: inline-flex; opacity: .65; }
+  .pill button:hover { opacity: 1; }
+  .pill button svg { width: 13px; height: 13px; }
+  .pill.clear { border-style: dashed; background: transparent; color: var(--text-2); cursor: pointer; padding: 5px 12px; }
+
+  /* Collections (Recent / Trending / Favorites) */
+  .collections { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 18px; }
+  .col-chip { display: inline-flex; align-items: center; gap: 7px; font-size: 13px; font-weight: 600; cursor: pointer;
+    padding: 7px 14px; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--text-2); transition: all .15s; }
+  .col-chip:hover { border-color: var(--accent); color: var(--text); }
+  .col-chip.on { background: var(--brand-blue); border-color: transparent; color: #fff; }
+  .col-chip svg { width: 15px; height: 15px; }
+  .col-chip .cnt { font-size: 11px; font-weight: 700; background: color-mix(in srgb, var(--surface-2) 80%, transparent); color: var(--text-2); border-radius: 999px; padding: 1px 7px; }
+  .col-chip.on .cnt { background: rgba(255,255,255,.22); color: #fff; }
+
+  /* Results bar */
+  .resbar { display: flex; align-items: center; justify-content: flex-end; gap: 14px; margin: 26px 0 14px; flex-wrap: wrap; }
+  /* Footer bar under the results: count on the left, pagination on the right. */
+  .resfoot { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-top: 24px; flex-wrap: wrap; }
+  .count { font-size: 13px; color: var(--text-2); font-weight: 500; display: inline-flex; align-items: center; gap: 12px; }
+  .pagesize { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--text-3); }
+  .pagesize select { font: inherit; font-size: 12.5px; font-weight: 600; color: var(--text); background: var(--surface);
+    border: 1px solid var(--line-strong); border-radius: 8px; padding: 4px 7px; cursor: pointer; }
+  .viewtoggle { display: inline-flex; gap: 4px; background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px; padding: 4px; }
+  .viewtoggle button { width: 36px; height: 32px; display: grid; place-items: center; border: none; background: transparent;
+    border-radius: 8px; cursor: pointer; color: var(--text-3); transition: all .15s; }
+  .viewtoggle button svg { width: 17px; height: 17px; }
+  .viewtoggle button:hover { color: var(--text); }
+  .viewtoggle button.on { background: var(--brand-blue); color: #fff; box-shadow: var(--shadow-sm); }
+
+  /* ── GRID view ─────────────────────────────────────────────────────────── */
+  .cardgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+  .card { display: block; text-decoration: none; color: inherit; position: relative;
+    background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px;
+    box-shadow: var(--shadow-card); transition: transform .2s, border-color .2s, box-shadow .2s; }
+  .card:hover { transform: translateY(-4px); border-color: color-mix(in srgb, var(--brand-blue) 40%, transparent); box-shadow: var(--shadow-md); }
+  .card:hover h3 { color: var(--brand-blue); }
+  .card:hover .arr { color: var(--brand-blue); transform: translate(1px,-1px); }
+  .card-top { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; }
+  .kind { font-size: 11px; font-weight: 700; letter-spacing: .03em; text-transform: uppercase; color: var(--tc, var(--brand-blue));
+    background: color-mix(in srgb, var(--tc, var(--brand-blue)) 13%, transparent); padding: 3px 9px; border-radius: 999px; }
+  .card .arr { color: var(--text-3); transition: color .2s, transform .2s; margin-left: auto; }
+  .card .arr svg { width: 16px; height: 16px; }
+  .card h3 { font-size: 15.5px; font-weight: 700; line-height: 1.35; color: var(--heading); font-family: var(--serif); transition: color .2s;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .card p { color: var(--text-2); font-size: 13.5px; margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .card-foot { margin-top: 14px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .kw { font-size: 11.5px; font-weight: 600; color: var(--text-3); background: color-mix(in srgb, var(--surface-2) 70%, transparent); border-radius: 999px; padding: 3px 9px; }
+
+  /* Favorite star button (shared) */
+  .fav { border: none; background: transparent; cursor: pointer; color: var(--text-3); display: inline-flex; padding: 4px; border-radius: 8px; transition: color .15s, background .15s; }
+  .fav svg { width: 17px; height: 17px; }
+  .fav:hover { background: var(--surface-2); color: var(--gold); }
+  .fav.on { color: var(--gold); }
+  .card .fav { position: absolute; top: 14px; right: 44px; }
+
+  /* ── LIST / TABLE view ─────────────────────────────────────────────────── */
+  .table-wrap { border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-card); background: var(--surface); }
+  table.data { width: 100%; border-collapse: collapse; font-size: 14px; }
+  table.data thead th { text-align: left; padding: 14px 16px; background: var(--surface-2); color: var(--text-3);
+    font-size: 11px; letter-spacing: .05em; text-transform: uppercase; font-weight: 700; white-space: nowrap; }
+  table.data tbody td { padding: 14px 16px; border-top: 1px solid var(--line); vertical-align: middle; }
+  table.data tbody tr { transition: background .12s; }
+  table.data tbody tr:hover { background: color-mix(in srgb, var(--brand-blue-soft) 55%, transparent); }
+  table.data td.num { width: 1%; color: var(--text-3); font-variant-numeric: tabular-nums; text-align: right; }
+  table.data .badge { display: inline-flex; align-items: center; gap: 6px; font-size: 10.5px; font-weight: 800; letter-spacing: .03em;
+    text-transform: uppercase; color: var(--tc, var(--brand-blue)); background: color-mix(in srgb, var(--tc, var(--brand-blue)) 13%, transparent);
+    padding: 4px 9px; border-radius: 999px; white-space: nowrap; }
+  table.data .t-title { display: block; color: var(--heading); font-weight: 700; text-decoration: none; line-height: 1.35; }
+  table.data tr:hover .t-title { color: var(--brand-blue); }
+  table.data .t-sub { margin-top: 3px; font-size: 12.5px; color: var(--text-3); line-height: 1.4; max-width: 520px;
+    display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+  table.data .dept { display: inline-flex; align-items: center; gap: 9px; color: var(--text-2); font-weight: 600; white-space: nowrap; }
+  table.data .dept .di { width: 30px; height: 30px; flex: 0 0 auto; border-radius: 9px; display: grid; place-items: center; font-size: 15px;
+    background: color-mix(in srgb, var(--tc, var(--brand-blue)) 14%, transparent); color: var(--tc, var(--brand-blue)); }
+  table.data .kws { display: flex; gap: 6px; flex-wrap: wrap; max-width: 240px; }
+  table.data td.open { width: 1%; white-space: nowrap; text-align: right; }
+  .open-btn { display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 9px;
+    border: 1px solid color-mix(in srgb, var(--brand-blue) 25%, transparent); background: var(--brand-blue-soft); color: var(--brand-blue); }
+  .open-btn svg { width: 16px; height: 16px; }
+  .open-btn:hover { background: var(--brand-blue); color: #fff; }
+  @media (max-width: 860px) {
+    table.data .col-dept, table.data .col-kw { display: none; }
+  }
+
+  /* ── COMPACT view ──────────────────────────────────────────────────────── */
+  .compact { border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-card); background: var(--surface); }
+  .crow { display: flex; align-items: center; gap: 16px; padding: 13px 18px; border-top: 1px solid var(--line); text-decoration: none; color: inherit; transition: background .12s; }
+  .crow:first-child { border-top: none; }
+  .crow:hover { background: color-mix(in srgb, var(--brand-blue-soft) 50%, transparent); }
+  .crow .cid { width: 92px; flex: 0 0 auto; font-size: 11px; font-weight: 700; letter-spacing: .03em; text-transform: uppercase; color: var(--tc, var(--text-3)); }
+  .crow .ctitle { flex: 1; min-width: 0; color: var(--heading); font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .crow:hover .ctitle { color: var(--brand-blue); }
+  .crow .cfav { color: var(--text-3); }
+  .crow .chev { color: var(--text-3); }
+  .crow .chev svg { width: 17px; height: 17px; }
+
+  /* Pagination */
+  .pager { display: flex; align-items: center; justify-content: flex-end; gap: 6px; margin: 0 0 0 auto; flex-wrap: wrap; }
+  .pager button { min-width: 38px; height: 38px; padding: 0 12px; border-radius: 10px; border: 1px solid var(--line-strong);
+    background: var(--surface); color: var(--text); font-size: 13.5px; font-weight: 600; cursor: pointer; transition: all .12s; }
+  .pager button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent-text); }
+  .pager button.on { background: var(--brand-blue); border-color: transparent; color: #fff; }
+  .pager button:disabled { opacity: .4; cursor: not-allowed; }
+  .pager .gap { color: var(--text-3); padding: 0 4px; }
+
+  .state { text-align: center; padding: 70px 20px; color: var(--text-2); }
+  .state a { color: var(--accent-text); font-weight: 700; text-decoration: none; }
+  .spinner { width: 28px; height: 28px; border-radius: 50%; margin: 0 auto 16px; border: 3px solid var(--line); border-top-color: var(--brand-blue); animation: spin .8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .ai-note { display: none; margin: 14px auto 0; align-items: center; gap: 8px; justify-content: center; font-size: 12.5px; font-weight: 600; color: var(--brand-blue); }
+  .ai-note.show { display: flex; }
+  .ai-note svg { width: 14px; height: 14px; }
+  mark { background: rgba(251,191,36,.32); color: inherit; border-radius: 3px; padding: 0 1px; }
+
+  @media (max-width: 620px) { .wrap { padding: 22px 14px 80px; } .search { flex-basis: 100%; order: -1; } }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a class="nav-btn" href="/" id="back">← Ask ADA</a>
+  <a class="nav-btn" href="/feedback" id="adminFeedback" style="display:none">📋 Feedback List</a>
+  <div class="brand"><span class="mark">A</span> Arvada Knowledge Base</div>
+  <button class="icon-btn" id="themeToggle" title="Toggle theme">☀️</button>
+</div>
+
+<div class="wrap">
+  <div class="controls">
+    <div class="menu-wrap">
+      <button class="ctrl" id="deptBtn" aria-haspopup="true" aria-expanded="false">
+        <span class="di-ic" id="deptIc"></span><span>Department</span><span class="cnt" id="deptCnt" style="display:none"></span><span class="car" id="deptCar"></span>
+      </button>
+      <div class="menu" id="deptMenu"></div>
+    </div>
+
+    <div class="search" id="searchbar">
+      <span class="mag" id="magIcon"></span>
+      <input id="q" type="search" placeholder="Search the knowledge base…" autocomplete="off" />
+      <div class="mode" id="modeToggle" role="tablist" aria-label="Search mode">
+        <button id="modeKeyword" class="on" role="tab" aria-selected="true" title="Match titles & summaries">Keyword</button>
+        <button id="modeAI" class="ai" role="tab" aria-selected="false" title="Semantic AI search"></button>
+      </div>
+    </div>
+
+    <div class="menu-wrap">
+      <button class="ctrl" id="filterBtn" aria-haspopup="true" aria-expanded="false">
+        <span id="filterIc"></span><span>Filters</span><span class="cnt" id="filterCnt" style="display:none"></span><span class="car" id="filterCar"></span>
+      </button>
+      <div class="menu right" id="filterMenu"></div>
+    </div>
+  </div>
+
+  <div class="ai-note" id="aiNote"></div>
+  <div class="pills" id="pills"></div>
+  <div class="collections" id="collections"></div>
+
+  <div class="resbar">
+    <div class="viewtoggle" id="viewToggle"></div>
+  </div>
+
+  <div id="results"><div class="state"><div class="spinner"></div>Loading the knowledge base…</div></div>
+
+  <div class="resfoot">
+    <div class="count" id="count">
+      <span id="countText">Loading…</span>
+      <span class="pagesize">Show
+        <select id="pageSize">
+          <option value="10">10</option>
+          <option value="20">20</option>
+          <option value="24" selected>24</option>
+          <option value="50">50</option>
+        </select>
+      </span>
+    </div>
+    <div class="pager" id="pager"></div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script>
+const TOKEN = "local-dev-token-change-in-prod";
+const REDUCED = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+const hasGSAP = typeof gsap !== "undefined";
+
+/* ── Inline icons (Lucide) ─────────────────────────────────────────────── */
+const ICONS = {
+  search:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>`,
+  arrow:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg>`,
+  spark:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.94 14.06 4 16l5.94 1.94L12 24l2.06-6.06L20 16l-5.94-1.94L12 8z"/><path d="M19 3l.7 2.3L22 6l-2.3.7L19 9l-.7-2.3L16 6l2.3-.7z"/></svg>`,
+  chevron:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>`,
+  caret:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>`,
+  check:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>`,
+  x:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>`,
+  grid:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>`,
+  list:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg>`,
+  rows:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="6" rx="1"/><rect x="3" y="13" width="18" height="6" rx="1"/></svg>`,
+  open:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>`,
+  filter:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4h18l-7 8v6l-4 2v-8z"/></svg>`,
+  building:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="1"/><path d="M9 22v-4h6v4M8 6h.01M12 6h.01M16 6h.01M8 10h.01M12 10h.01M16 10h.01M8 14h.01M12 14h.01M16 14h.01"/></svg>`,
+  clock:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>`,
+  trend:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 7h6v6"/><path d="m22 7-8.5 8.5-5-5L2 17"/></svg>`,
+  star:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>`,
+  starFill:`<svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>`,
+};
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+const titleCase = s => String(s || "").replace(/[_-]/g, " ").replace(/\b\w/g, m => m.toUpperCase());
+const adaHref = q => "/" + (q ? "?ask=" + encodeURIComponent(q) : "");
+
+/* Type metadata */
+const TYPE_META = {
+  permit:       { ico:"📋", label:"Permit",    color:"#3b82f6" },
+  license:      { ico:"🪪", label:"License",   color:"#8b5cf6" },
+  process:      { ico:"🧭", label:"Process",   color:"#14b8a6" },
+  faq:          { ico:"❓", label:"FAQ",        color:"#f59e0b" },
+  ordinance:    { ico:"§",  label:"Ordinance", color:"#64748b" },
+  tax:          { ico:"$",  label:"Tax",       color:"#10b981" },
+  fee_schedule: { ico:"$",  label:"Fees",      color:"#10b981" },
+  kb:           { ico:"📚", label:"Knowledge Base", color:"#0ea5e9" },
+};
+const typeColor = t => (TYPE_META[t] && TYPE_META[t].color) || "var(--brand-blue)";
+const typeLabel = t => (TYPE_META[t] && TYPE_META[t].label) || titleCase(t);
+
+/* Category -> department group */
+const CATEGORY_MAP = {
+  building:{g:"Building & Construction",ico:"🏗️"}, building_permits:{g:"Building & Construction",ico:"🏗️"},
+  development:{g:"Building & Construction",ico:"🏗️"}, row:{g:"Building & Construction",ico:"🏗️"},
+  short_term_rentals:{g:"Housing & Rentals",ico:"🏡"},
+  business:{g:"Business & Licensing",ico:"💼"}, licensing:{g:"Business & Licensing",ico:"💼"},
+  contractor_licenses:{g:"Business & Licensing",ico:"💼"},
+  food_trucks:{g:"Food Trucks",ico:"🚚"}, events:{g:"Events",ico:"🎪"},
+  sales_tax:{g:"Tax & Fees",ico:"$"}, tax:{g:"Tax & Fees",ico:"$"},
+  stormwater:{g:"Building & Construction",ico:"🏗️"},
+  faq:{g:"FAQs & Help",ico:"❓"}, ordinance:{g:"City Code & Ordinances",ico:"§"},
+  general:{g:"City Information",ico:"🏛️"},
+};
+function groupOf(a) {
+  const m = CATEGORY_MAP[a.category];
+  if (m) return m;
+  const t = TYPE_META[a.article_type];
+  return { g:(t && t.label + "s") || titleCase(a.article_type) || "Other", ico:(t && t.ico) || "📄" };
+}
+
+/* ── Favorites (localStorage now; swap getFavs/setFavs to a user-scoped API
+   once the agent is behind auth — that is the only change needed) ───────── */
+const FAV_KEY = "arvada-kb-favs";
+function getFavs() { try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || "[]")); } catch { return new Set(); } }
+function setFavs(set) { localStorage.setItem(FAV_KEY, JSON.stringify([...set])); }
+let FAVS = getFavs();
+const isFav = id => FAVS.has(id);
+function toggleFav(id) { FAVS.has(id) ? FAVS.delete(id) : FAVS.add(id); setFavs(FAVS); }
+
+/* Recently viewed (written by article.html) */
+const RECENT_KEY = "arvada-kb-recent";
+function getRecentIds() { try { return JSON.parse(localStorage.getItem(RECENT_KEY) || "[]").map(x => x.id || x); } catch { return []; } }
+
+/* ── State ─────────────────────────────────────────────────────────────── */
+let ALL = [], BY_ID = new Map();
+let view = localStorage.getItem("arvada-kb-view") || "list";
+if (!["list","grid","compact"].includes(view)) view = "list";
+let pageSize = +localStorage.getItem("arvada-kb-pagesize") || 24;
+let page = 1;
+let deptSel = new Set();    // selected department-group names
+let typeSel = new Set();    // selected article_types
+let facetSel = new Set();   // 'updated' | 'code'
+let collection = null;      // null | 'recent' | 'trending' | 'favorites'
+let trendingCache = null;
+
+/* Search mode */
+let searchMode = localStorage.getItem("arvada-kb-searchmode") || "keyword";
+if (!["ai","keyword"].includes(searchMode)) searchMode = "keyword";
+let aiResults = null, aiLoading = false, aiSeq = 0;
+
+const qEl = document.getElementById("q");
+const curQ = () => qEl.value.trim();
+const searchbar = document.getElementById("searchbar");
+const modeKeyword = document.getElementById("modeKeyword");
+const modeAI = document.getElementById("modeAI");
+const aiNote = document.getElementById("aiNote");
+
+/* ── Theme ─────────────────────────────────────────────────────────────── */
+const tbtn = document.getElementById("themeToggle");
+function syncThemeBtn() {
+  const dark = document.documentElement.dataset.theme === "dark";
+  tbtn.textContent = dark ? "☀️" : "🌙";
+  tbtn.title = dark ? "Switch to light mode" : "Switch to dark mode";
+}
+tbtn.addEventListener("click", () => {
+  const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  localStorage.setItem("arvada-theme", next); syncThemeBtn();
+});
+syncThemeBtn();
+if (document.referrer && document.referrer.includes(location.host)) {
+  document.getElementById("back").addEventListener("click", e => {
+    e.preventDefault(); history.length > 1 ? history.back() : (location.href = "/");
+  });
+}
+
+/* Admin flag (no auth yet): ?admin=1 enables the Feedback List link for this
+   browser; ?admin=0 disables it. Replace with real role-based auth later. */
+(function () {
+  const p = new URLSearchParams(location.search);
+  if (p.has("admin")) localStorage.setItem("arvada-admin", p.get("admin") === "0" ? "" : "1");
+  if (localStorage.getItem("arvada-admin") === "1") document.getElementById("adminFeedback").style.display = "";
+})();
+
+/* ── Static icon wiring ────────────────────────────────────────────────── */
+document.getElementById("magIcon").innerHTML = ICONS.search;
+document.getElementById("deptIc").innerHTML = ICONS.building;
+document.getElementById("deptCar").innerHTML = ICONS.caret;
+document.getElementById("filterIc").innerHTML = ICONS.filter;
+document.getElementById("filterCar").innerHTML = ICONS.caret;
+modeAI.innerHTML = ICONS.spark + "AI";
+
+/* ── Load ──────────────────────────────────────────────────────────────── */
+async function load() {
+  try {
+    const res = await fetch("/api/articles", { headers: { "X-Internal-Token": TOKEN } });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    ALL = data.articles || [];
+    BY_ID = new Map(ALL.map(a => [a.id, a]));
+    document.getElementById("pageSize").value = String(pageSize);
+    buildViewToggle();
+    buildDeptMenu();
+    buildFilterMenu();
+    buildCollections();
+    syncControls();
+    syncModeUI();
+    render();
+  } catch (e) {
+    document.getElementById("results").innerHTML =
+      `<div class="state">⚠️ Could not load the knowledge base (${esc(e.message)}). Is the agent running?</div>`;
+  }
+}
+
+/* ── Departments (category groups) ─────────────────────────────────────── */
+function deptList() {
+  const map = new Map();
+  ALL.forEach(a => {
+    const g = groupOf(a);
+    if (!map.has(g.g)) map.set(g.g, { name:g.g, ico:g.ico, n:0 });
+    map.get(g.g).n++;
+  });
+  return [...map.values()].sort((a, b) => b.n - a.n);
+}
+function buildDeptMenu() {
+  const m = document.getElementById("deptMenu");
+  const opts = deptList().map(d => `
+    <div class="opt ${deptSel.has(d.name) ? "sel" : ""}" data-dept="${esc(d.name)}">
+      <span class="box">${ICONS.check}</span><span class="oi">${d.ico}</span>
+      <span class="ol">${esc(d.name)}</span><span class="oc">${d.n}</span>
+    </div>`).join("");
+  m.innerHTML = `<div class="mh">Department</div>${opts}
+    <div class="mfoot"><button class="mbtn" data-clear="dept">Clear</button><button class="mbtn primary" data-close="dept">Done</button></div>`;
+  m.querySelectorAll("[data-dept]").forEach(el => el.onclick = () => {
+    const d = el.dataset.dept; deptSel.has(d) ? deptSel.delete(d) : deptSel.add(d);
+    collection = null; page = 1; buildDeptMenu(); syncControls(); render();
+  });
+  m.querySelector('[data-clear="dept"]').onclick = () => { deptSel.clear(); page = 1; buildDeptMenu(); syncControls(); render(); };
+  m.querySelector('[data-close="dept"]').onclick = () => closeMenus();
+}
+
+/* ── Filters (type + facets) ───────────────────────────────────────────── */
+const FACETS = [{ id:"updated", label:"Updated this year" }, { id:"code", label:"Has code reference" }];
+function typeList() {
+  const c = {}; ALL.forEach(a => c[a.article_type] = (c[a.article_type] || 0) + 1);
+  return Object.keys(c).sort((a, b) => c[b] - c[a]).map(t => ({ t, n:c[t] }));
+}
+function buildFilterMenu() {
+  const m = document.getElementById("filterMenu");
+  const types = typeList().map(x => `
+    <div class="opt ${typeSel.has(x.t) ? "sel" : ""}" data-type="${esc(x.t)}">
+      <span class="box">${ICONS.check}</span><span class="oi">${(TYPE_META[x.t]?.ico) || "📄"}</span>
+      <span class="ol">${esc(typeLabel(x.t))}</span><span class="oc">${x.n}</span>
+    </div>`).join("");
+  const facets = FACETS.map(f => `
+    <div class="opt ${facetSel.has(f.id) ? "sel" : ""}" data-facet="${f.id}">
+      <span class="box">${ICONS.check}</span><span class="oi">✦</span><span class="ol">${esc(f.label)}</span>
+    </div>`).join("");
+  m.innerHTML = `<div class="mh">Type</div>${types}<div class="mh">More</div>${facets}
+    <div class="mfoot"><button class="mbtn" data-clear="filter">Clear</button><button class="mbtn primary" data-close="filter">Done</button></div>`;
+  m.querySelectorAll("[data-type]").forEach(el => el.onclick = () => {
+    const t = el.dataset.type; typeSel.has(t) ? typeSel.delete(t) : typeSel.add(t);
+    collection = null; page = 1; buildFilterMenu(); syncControls(); render();
+  });
+  m.querySelectorAll("[data-facet]").forEach(el => el.onclick = () => {
+    const f = el.dataset.facet; facetSel.has(f) ? facetSel.delete(f) : facetSel.add(f);
+    collection = null; page = 1; buildFilterMenu(); syncControls(); render();
+  });
+  m.querySelector('[data-clear="filter"]').onclick = () => { typeSel.clear(); facetSel.clear(); page = 1; buildFilterMenu(); syncControls(); render(); };
+  m.querySelector('[data-close="filter"]').onclick = () => closeMenus();
+}
+
+/* ── Dropdown open/close ───────────────────────────────────────────────── */
+function closeMenus() {
+  document.querySelectorAll(".menu").forEach(m => m.classList.remove("open"));
+  document.getElementById("deptBtn").setAttribute("aria-expanded", "false");
+  document.getElementById("filterBtn").setAttribute("aria-expanded", "false");
+}
+function toggleMenu(btnId, menuId) {
+  const menu = document.getElementById(menuId), btn = document.getElementById(btnId);
+  const open = menu.classList.contains("open");
+  closeMenus();
+  if (!open) { menu.classList.add("open"); btn.setAttribute("aria-expanded", "true"); }
+}
+document.getElementById("deptBtn").onclick = e => { e.stopPropagation(); toggleMenu("deptBtn", "deptMenu"); };
+document.getElementById("filterBtn").onclick = e => { e.stopPropagation(); toggleMenu("filterBtn", "filterMenu"); };
+document.addEventListener("click", e => { if (!e.target.closest(".menu-wrap")) closeMenus(); });
+
+/* ── Collections (Recent / Trending / Favorites) ──────────────────────── */
+function buildCollections() {
+  const el = document.getElementById("collections");
+  const recentN = getRecentIds().filter(id => BY_ID.has(id)).length;
+  const favN = [...FAVS].filter(id => BY_ID.has(id)).length;
+  const chip = (id, icon, label, n) => `
+    <button class="col-chip ${collection === id ? "on" : ""}" data-col="${id}">
+      ${icon}<span>${label}</span>${n != null ? `<span class="cnt">${n}</span>` : ""}
+    </button>`;
+  el.innerHTML =
+    chip("recent", ICONS.clock, "Recently viewed", recentN) +
+    chip("trending", ICONS.trend, "Trending", null) +
+    chip("favorites", ICONS.star, "Favorites", favN);
+  el.querySelectorAll("[data-col]").forEach(b => b.onclick = () => selectCollection(b.dataset.col));
+}
+async function selectCollection(id) {
+  collection = collection === id ? null : id;
+  page = 1;
+  if (collection === "trending" && !trendingCache) {
+    document.getElementById("results").innerHTML = `<div class="state"><div class="spinner"></div>Loading trending articles…</div>`;
+    try {
+      const res = await fetch("/api/articles/trending?k=60", { headers: { "X-Internal-Token": TOKEN } });
+      const data = await res.json();
+      trendingCache = (data.articles || []);
+    } catch { trendingCache = []; }
+  }
+  buildCollections(); render();
+}
+
+/* ── Search mode ───────────────────────────────────────────────────────── */
+function syncModeUI() {
+  modeKeyword.classList.toggle("on", searchMode === "keyword");
+  modeAI.classList.toggle("on", searchMode === "ai");
+  modeKeyword.setAttribute("aria-selected", searchMode === "keyword");
+  modeAI.setAttribute("aria-selected", searchMode === "ai");
+  searchbar.classList.toggle("ai", searchMode === "ai" && !!curQ());
+  qEl.placeholder = searchMode === "ai"
+    ? "Ask anything, then press Enter — e.g. “can I run a food truck downtown?”"
+    : "Search the knowledge base…";
+}
+function setMode(m) {
+  if (m === searchMode) return;
+  searchMode = m; localStorage.setItem("arvada-kb-searchmode", m);
+  aiResults = null; aiLoading = false; page = 1; syncModeUI();
+  if (m === "ai" && curQ()) runAISearch(); else { updateAINote(); render(); }
+}
+function updateAINote() {
+  if (searchMode !== "ai" || !curQ()) { aiNote.classList.remove("show"); aiNote.innerHTML = ""; return; }
+  aiNote.classList.add("show");
+  aiNote.innerHTML = aiLoading ? ICONS.spark + "Searching the knowledge base…"
+    : ICONS.spark + `AI results for “${esc(curQ())}” — ranked by relevance`;
+}
+async function runAISearch() {
+  const q = curQ(); syncModeUI();
+  if (!q) { aiResults = null; aiLoading = false; updateAINote(); render(); return; }
+  const seq = ++aiSeq; aiLoading = true; aiResults = null; page = 1; updateAINote(); render();
+  try {
+    const res = await fetch(`/kb-search?q=${encodeURIComponent(q)}&k=40`, { headers: { "X-Internal-Token": TOKEN } });
+    const data = await res.json();
+    if (seq !== aiSeq) return;
+    aiResults = (data.articles || []).map(a => a.answerId).filter(Boolean);
+  } catch { if (seq === aiSeq) aiResults = []; }
+  if (seq !== aiSeq) return;
+  aiLoading = false; updateAINote(); render();
+}
+modeKeyword.addEventListener("click", () => setMode("keyword"));
+modeAI.addEventListener("click", () => setMode("ai"));
+let st;
+qEl.addEventListener("input", () => {
+  // AI mode: wait for Enter — don't fire a semantic search on every keystroke.
+  if (searchMode === "ai") { syncModeUI(); return; }
+  clearTimeout(st);
+  st = setTimeout(() => {
+    page = 1;
+    if (curQ() && collection) { collection = null; buildCollections(); }  // typing exits a collection
+    updateAINote(); render();
+  }, 130);
+});
+qEl.addEventListener("keydown", e => {
+  if (e.key === "Enter" && searchMode === "ai") {
+    e.preventDefault();
+    page = 1;
+    if (curQ() && collection) { collection = null; buildCollections(); }
+    runAISearch();
+  }
+});
+document.addEventListener("keydown", e => { if (e.key === "/" && document.activeElement !== qEl) { e.preventDefault(); qEl.focus(); } });
+
+/* ── Filtering ─────────────────────────────────────────────────────────── */
+const thisYear = String(new Date().getFullYear());
+function passFacets(a) {
+  if (facetSel.has("updated") && !(a.effective_date || "").startsWith(thisYear)) return false;
+  if (facetSel.has("code") && !((a.ordinance_refs || []).length)) return false;
+  return true;
+}
+function computeList() {
+  // Collections override the search/filter pipeline.
+  if (collection === "favorites") return [...FAVS].map(id => BY_ID.get(id)).filter(Boolean);
+  if (collection === "recent")   return getRecentIds().map(id => BY_ID.get(id)).filter(Boolean);
+  if (collection === "trending") return trendingCache || [];
+
+  let items;
+  if (searchMode === "ai" && curQ()) {
+    if (!aiResults) return [];
+    items = aiResults.map(id => BY_ID.get(id)).filter(Boolean);
+  } else {
+    items = ALL.slice();
+    const ql = curQ().toLowerCase();
+    if (ql) items = items.filter(a => (a.title || "").toLowerCase().includes(ql) || (a.summary || "").toLowerCase().includes(ql));
+    // Ordinances (2,300+ code sections) sort AFTER every other article type.
+    const ordRank = a => a.article_type === "ordinance" ? 1 : 0;
+    items.sort((a, b) => (ordRank(a) - ordRank(b)) || (a.title || "").localeCompare(b.title || ""));
+  }
+  if (deptSel.size)  items = items.filter(a => deptSel.has(groupOf(a).g));
+  if (typeSel.size)  items = items.filter(a => typeSel.has(a.article_type));
+  if (facetSel.size) items = items.filter(passFacets);
+  return items;
+}
+
+function highlight(text, q) {
+  const s = esc(text || "");
+  if (!q || searchMode === "ai") return s;
+  try { return s.replace(new RegExp("(" + q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig"), "<mark>$1</mark>"); }
+  catch { return s; }
+}
+
+/* ── View toggle ───────────────────────────────────────────────────────── */
+function buildViewToggle() {
+  const el = document.getElementById("viewToggle");
+  const defs = [["list", ICONS.list, "List"], ["grid", ICONS.grid, "Grid"], ["compact", ICONS.rows, "Compact"]];
+  el.innerHTML = defs.map(([id, ic, t]) => `<button data-view="${id}" class="${view === id ? "on" : ""}" title="${t} view" aria-label="${t} view">${ic}</button>`).join("");
+  el.querySelectorAll("[data-view]").forEach(b => b.onclick = () => {
+    view = b.dataset.view; localStorage.setItem("arvada-kb-view", view); buildViewToggle(); render();
+  });
+}
+
+/* ── Render ────────────────────────────────────────────────────────────── */
+function render() {
+  const res = document.getElementById("results");
+  const items = computeList();
+
+  if (searchMode === "ai" && curQ() && aiLoading) {
+    res.innerHTML = `<div class="state"><div class="spinner"></div>Searching the knowledge base…</div>`;
+    document.getElementById("countText").textContent = "Searching…";
+    document.getElementById("pager").innerHTML = ""; return;
+  }
+
+  const total = items.length;
+  const pages = Math.max(1, Math.ceil(total / pageSize));
+  if (page > pages) page = pages;
+  const start = (page - 1) * pageSize;
+  const slice = items.slice(start, start + pageSize);
+
+  // Count text
+  const noun = collection === "trending" ? "trending article" : collection === "favorites" ? "favorite" : collection === "recent" ? "recent article" : "article";
+  document.getElementById("countText").textContent = total
+    ? `Showing ${start + 1}–${Math.min(start + pageSize, total)} of ${total.toLocaleString()} ${noun}${total === 1 ? "" : "s"}`
+    : `No ${noun}s`;
+
+  if (!total) {
+    res.innerHTML = emptyState();
+    document.getElementById("pager").innerHTML = "";
+    wireFavs(); return;
+  }
+
+  if (view === "grid")        res.innerHTML = renderGrid(slice);
+  else if (view === "compact") res.innerHTML = renderCompact(slice);
+  else                         res.innerHTML = renderList(slice);
+
+  renderPager(pages);
+  wireFavs();
+  animate();
+}
+
+function emptyState() {
+  if (collection === "favorites") return `<div class="state">No favorites yet. Tap the ☆ on any article to save it here.</div>`;
+  if (collection === "recent")    return `<div class="state">Nothing viewed yet. Open an article and it'll show up here.</div>`;
+  if (collection === "trending")  return `<div class="state">No trending data yet — check back once articles get some views.</div>`;
+  if (searchMode === "ai" && curQ()) return `<div class="state">No close matches for “${esc(curQ())}”. Try rephrasing, switch to <b>Keyword</b>, or <a href="${adaHref(curQ())}">ask Ada →</a></div>`;
+  return `<div class="state">No articles match. Try clearing filters or a different term.</div>`;
+}
+
+function favBtn(a) {
+  const on = isFav(a.id);
+  return `<button class="fav ${on ? "on" : ""}" data-fav="${esc(a.id)}" title="${on ? "Remove favorite" : "Add to favorites"}" aria-pressed="${on}">${on ? ICONS.starFill : ICONS.star}</button>`;
+}
+function kwOf(a) {
+  let kws = (a.tags || []).slice(0, 3);
+  if (!kws.length && a.permit_type) kws = [titleCase(a.permit_type)];
+  return kws;
+}
+
+/* GRID */
+function renderGrid(items) {
+  return `<div class="cardgrid">${items.map(a => {
+    const g = groupOf(a);
+    return `<a class="card" style="--tc:${typeColor(a.article_type)}" href="/article/${esc(a.id)}">
+      <div class="card-top"><span class="kind">${esc(typeLabel(a.article_type))}</span><span class="arr">${ICONS.arrow}</span></div>
+      <h3>${highlight(a.title, curQ())}</h3>
+      ${a.summary ? `<p>${highlight(a.summary, curQ())}</p>` : ""}
+      <div class="card-foot">${kwOf(a).map(k => `<span class="kw">${esc(k)}</span>`).join("") || `<span class="kw">${esc(g.g)}</span>`}</div>
+      ${favBtn(a)}
+    </a>`;
+  }).join("")}</div>`;
+}
+
+/* LIST / TABLE */
+function renderList(items) {
+  const rows = items.map((a, i) => {
+    const g = groupOf(a);
+    const kws = kwOf(a).map(k => `<span class="kw">${esc(k)}</span>`).join("");
+    return `<tr style="--tc:${typeColor(a.article_type)}">
+      <td class="num">${i + 1}</td>
+      <td><span class="badge">${esc(typeLabel(a.article_type))}</span></td>
+      <td><a class="t-title" href="/article/${esc(a.id)}">${highlight(a.title, curQ())}</a>${a.summary ? `<div class="t-sub">${highlight(a.summary, curQ())}</div>` : ""}</td>
+      <td class="col-dept"><span class="dept"><span class="di">${g.ico}</span>${esc(g.g)}</span></td>
+      <td class="col-kw"><div class="kws">${kws}</div></td>
+      <td class="open"><span style="display:inline-flex;align-items:center;gap:6px">${favBtn(a)}<a class="open-btn" href="/article/${esc(a.id)}" title="Open article">${ICONS.open}</a></span></td>
+    </tr>`;
+  }).join("");
+  return `<div class="table-wrap"><table class="data">
+    <thead><tr><th class="num">#</th><th>Type</th><th>Title</th><th class="col-dept">Department</th><th class="col-kw">Keywords</th><th class="open">Open</th></tr></thead>
+    <tbody>${rows}</tbody></table></div>`;
+}
+
+/* COMPACT */
+function renderCompact(items) {
+  return `<div class="compact">${items.map(a => `
+    <a class="crow" style="--tc:${typeColor(a.article_type)}" href="/article/${esc(a.id)}">
+      <span class="cid">${esc(typeLabel(a.article_type))}</span>
+      <span class="ctitle">${highlight(a.title, curQ())}</span>
+      ${favBtn(a)}
+      <span class="chev">${ICONS.chevron}</span>
+    </a>`).join("")}</div>`;
+}
+
+/* ── Pagination ────────────────────────────────────────────────────────── */
+function renderPager(pages) {
+  const el = document.getElementById("pager");
+  if (pages <= 1) { el.innerHTML = ""; return; }
+  const win = [];
+  const add = p => win.push(p);
+  add(1);
+  let lo = Math.max(2, page - 1), hi = Math.min(pages - 1, page + 1);
+  if (lo > 2) win.push("…");
+  for (let p = lo; p <= hi; p++) add(p);
+  if (hi < pages - 1) win.push("…");
+  if (pages > 1) add(pages);
+  el.innerHTML =
+    `<button data-pg="${page - 1}" ${page === 1 ? "disabled" : ""}>‹ Prev</button>` +
+    win.map(p => p === "…" ? `<span class="gap">…</span>` : `<button data-pg="${p}" class="${p === page ? "on" : ""}">${p}</button>`).join("") +
+    `<button data-pg="${page + 1}" ${page === pages ? "disabled" : ""}>Next ›</button>`;
+  el.querySelectorAll("[data-pg]").forEach(b => b.onclick = () => {
+    const p = +b.dataset.pg; if (p < 1 || p > pages || p === page) return;
+    page = p; render(); window.scrollTo({ top: 0, behavior: REDUCED ? "auto" : "smooth" });
+  });
+}
+
+/* ── Misc wiring ───────────────────────────────────────────────────────── */
+function wireFavs() {
+  document.querySelectorAll("[data-fav]").forEach(b => b.onclick = e => {
+    e.preventDefault(); e.stopPropagation();
+    const id = b.dataset.fav; toggleFav(id);
+    const on = isFav(id);
+    b.classList.toggle("on", on); b.innerHTML = on ? ICONS.starFill : ICONS.star;
+    b.setAttribute("aria-pressed", on);
+    buildCollections();
+    if (collection === "favorites") render();   // removing from the favorites view
+  });
+}
+
+function syncControls() {
+  const dc = document.getElementById("deptCnt"), fc = document.getElementById("filterCnt");
+  dc.style.display = deptSel.size ? "grid" : "none"; dc.textContent = deptSel.size;
+  document.getElementById("deptBtn").classList.toggle("on", deptSel.size > 0);
+  const fn = typeSel.size + facetSel.size;
+  fc.style.display = fn ? "grid" : "none"; fc.textContent = fn;
+  document.getElementById("filterBtn").classList.toggle("on", fn > 0);
+  renderPills();
+}
+function renderPills() {
+  const el = document.getElementById("pills");
+  const out = [];
+  deptSel.forEach(d => out.push(`<span class="pill">${esc(d)}<button data-rm-dept="${esc(d)}">${ICONS.x}</button></span>`));
+  typeSel.forEach(t => out.push(`<span class="pill">${esc(typeLabel(t))}<button data-rm-type="${esc(t)}">${ICONS.x}</button></span>`));
+  facetSel.forEach(f => out.push(`<span class="pill">${esc((FACETS.find(x => x.id === f) || {}).label || f)}<button data-rm-facet="${esc(f)}">${ICONS.x}</button></span>`));
+  if (out.length > 1) out.push(`<span class="pill clear" id="clearAll">Clear all</span>`);
+  el.innerHTML = out.join("");
+  el.querySelectorAll("[data-rm-dept]").forEach(b => b.onclick = () => { deptSel.delete(b.dataset.rmDept); page = 1; buildDeptMenu(); syncControls(); render(); });
+  el.querySelectorAll("[data-rm-type]").forEach(b => b.onclick = () => { typeSel.delete(b.dataset.rmType); page = 1; buildFilterMenu(); syncControls(); render(); });
+  el.querySelectorAll("[data-rm-facet]").forEach(b => b.onclick = () => { facetSel.delete(b.dataset.rmFacet); page = 1; buildFilterMenu(); syncControls(); render(); });
+  const ca = document.getElementById("clearAll");
+  if (ca) ca.onclick = () => { deptSel.clear(); typeSel.clear(); facetSel.clear(); page = 1; buildDeptMenu(); buildFilterMenu(); syncControls(); render(); };
+}
+
+document.getElementById("pageSize").addEventListener("change", e => {
+  pageSize = +e.target.value; localStorage.setItem("arvada-kb-pagesize", pageSize); page = 1; render();
+});
+
+function animate() {
+  if (!hasGSAP || REDUCED) return;
+  const els = document.querySelectorAll(".cardgrid .card, table.data tbody tr, .crow");
+  if (els.length) gsap.from(els, { y: 10, opacity: 0, duration: .35, ease: "power2.out", stagger: { amount: 0.3 } });
+}
+
+load();
+</script>
+</body>
+</html>

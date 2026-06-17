@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "variations",
+      "landscape",
+      "area",
+      "requirements",
+      "director",
+      "authorize",
+      "planting",
+      "division",
+      "based",
+      "documented"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-6-7"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-6 REQUIREMENTS BY LANDSCAPE AREA"
+  },
+  "content": {
+    "title": "4-6-6-7. Variations of landscape area requirements.",
+    "summary": "The Director may authorize variations from the planting requirements of this Division if, based on documented soil conditions, the Director determines that the soils are unsuitable for such plantings in the required locations because they either:\n  1.\tWill not support plant growth; or\n  2.\tRequire m…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-6-7. Variations of landscape area requirements.",
+        "a": "The Director may authorize variations from the planting requirements of this Division if, based on documented soil conditions, the Director determines that the soils are unsuitable for such plantings in the required locations because they either:\n  1.\tWill not support plant growth; or\n  2.\tRequire moisture control in order to prevent damage to the building foundation."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-6-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

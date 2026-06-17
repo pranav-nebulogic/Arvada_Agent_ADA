@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "access",
+      "meter",
+      "water",
+      "service",
+      "provided",
+      "any",
+      "property"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-62"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-62. - Access to meter.",
+    "summary": "When water service is provided to any property by the city, as a condition of obtaining\n               or continuing such water service, it shall be the responsibility of the owner of any\n               property so served to provide the city with access to any water meter or related meter\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-62. - Access to meter.",
+        "a": "When water service is provided to any property by the city, as a condition of obtaining\n               or continuing such water service, it shall be the responsibility of the owner of any\n               property so served to provide the city with access to any water meter or related meter\n               pit or meter vault for the purpose of reading utility meters, for the purpose of inspection\n               and repair of meters, meter pits, meter vaults or the utility system or any part thereof,\n               for the purpose of connecting and disconnecting service, and for the purpose of removing\n               or replacing meters, or related pits or vaults. If a meter, meter pit, or meter vault\n               serving an owner's property becomes obstructed by bushes, landscaping, fencing, trees\n               or by any other fixture, decoration, structure or material, and the owner of the property\n               otherwise fails to provide access to the meter, meter pit, or meter vault as required\n               herein, or if the property owner fails to remove any obstruction to a meter, meter\n               pit, or meter vault as required herein, or if the property owner, any agent of the\n               property owner, or any tenant or occupant of the property shall deny the city access\n               for the purposes described in this\nsection 102-62\nand\nsection 102-62.1\n, then the owner of the property receiving water service shall be in violation of\n               this section and shall thereafter be subject to the fees and actions provided for\n               in this article.\n(Code 1981, § 33-37; Ord. No. 2574, § 1, 11-21-1988;\nOrd. No. 4030, § 1, 10-16-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-62"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

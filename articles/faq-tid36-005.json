@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-36-006",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "evict",
+      "participant",
+      "landlord",
+      "following",
+      "terms",
+      "lease",
+      "along",
+      "state",
+      "Housing Choice Voucher Program Landlord Guide"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=36"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-i-evict-a-participant",
+    "faq_category_name": "Housing Choice Voucher Program Landlord Guide"
+  },
+  "content": {
+    "title": "Can I evict a participant?",
+    "summary": "The landlord may evict a participant by following the terms of the lease along with state and local laws for eviction. Landlords are required to notify the Arvada Housing Authority (AHA) in writing of lease violations and eviction actions. Providing copies of any legal notices or warning letters to …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can I evict a participant?",
+        "a": "The landlord may evict a participant by following the terms of the lease along with state and local laws for eviction. Landlords are required to notify the Arvada Housing Authority (AHA) in writing of lease violations and eviction actions. Providing copies of any legal notices or warning letters to the Arvada Housing Authority (AHA) and the contracting agency is sufficient notice that a lease violation has occurred. However, the landlord may not evict a family for nonpayment of the housing assistance payment by the Arvada Housing Authority (AHA)."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

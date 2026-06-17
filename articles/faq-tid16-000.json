@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-16-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "ask",
+      "salespeople",
+      "come",
+      "door",
+      "yes",
+      "private",
+      "property",
+      "owner",
+      "Door to Door Sales & Flyers"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=16"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-i-ask-salespeople-not-to-come-to-my-door",
+    "faq_category_name": "Door to Door Sales & Flyers"
+  },
+  "content": {
+    "title": "Can I ask salespeople not to come to my door?",
+    "summary": "Yes. As a private property owner you do have the right to post your property with a \"no solicitations\" sign and you have the right to ask someone to leave your property if you do not want them there. If a person refuses to leave or you feel threatened by them you should dial 911 and request a police…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can I ask salespeople not to come to my door?",
+        "a": "Yes. As a private property owner you do have the right to post your property with a \"no solicitations\" sign and you have the right to ask someone to leave your property if you do not want them there. If a person refuses to leave or you feel threatened by them you should dial 911 and request a police officer."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

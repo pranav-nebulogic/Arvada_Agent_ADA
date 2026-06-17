@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "water",
+      "pressure",
+      "reducing",
+      "valve",
+      "regulator",
+      "hereby"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-403"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-403. - I.P.C. Section 604.8, Water-pressure reducing valve or regulator.",
+    "summary": "Section 604.8. Water-pressure reducing valve or regulator,\nis hereby amended by amending the first paragraph in its entirety to read as follows:\n\"\n604.8. Water pressure reducing valve or regulator.\nAll buildings connected to city water mains shall be provided an approved water-pressure\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-403. - I.P.C. Section 604.8, Water-pressure reducing valve or regulator.",
+        "a": "Section 604.8. Water-pressure reducing valve or regulator,\nis hereby amended by amending the first paragraph in its entirety to read as follows:\n\"\n604.8. Water pressure reducing valve or regulator.\nAll buildings connected to city water mains shall be provided an approved water-pressure\n                  reducing valve conforming to ASSE 1003 with strainer to reduce the pressure in the\n                  building water distribution piping to 80 psi (552 kPa) static or less.\"\n(Ord. No.\n4738\n, § 11, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-403"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

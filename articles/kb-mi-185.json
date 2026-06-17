@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "departments",
+      "department",
+      "clerk",
+      "directory",
+      "information",
+      "manager",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Directory.aspx"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-185",
+    "spreadsheet_id": "MI-185",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Departments",
+    "summary": "The article provides a directory of departments within the Arvada city government, including contact information for each department's director and phone number. Key departments include the City Manager's Office, Community and Economic Development, Finance, Human Resources, and Public Safety, among others, each offering various services to residents. For specific inquiries, individuals can reach out directly to the respective department using the provided contact details.",
+    "body": "## Department Directory\n\nIf you know which department you wish to contact, visit our Department Directory for information on how to do so. Find information for contacting staff via telephone, fax, email or in person.\n\n| Name of Department | Services | Director | Phone |\n| --- | --- | --- | --- |\n| Arvada City Hall | Please see departmental services. | N/A | 720-898-7000 |\n| [City Manager's Office](/183/City-Manager) | - [City Clerk](https://www.arvadaco.gov/184/City-Clerk) - [City Council](/157/City-Council) - [Neighborhood Engagement](/482/Neighbors-Connected) - [Communications and Engagement](/185/Communications-Engagement) - [Emergency Management](/682/Emergency-Preparedness) | Don Wick - City Manager | 720-898-7500 |\n| [Community and Economic Development](/187/Community-Economic-Development) | - [Arvada Economic Development Association](https://www.arvadaco.gov/689/Arvada-Economic-Development-Association-) - [Land Development Code](/179) - [Building Services](/188/) - [Planning and Development](/1369/Planning-and-Development) - [Permits and Applications](/330) - [Arvada Housing Authority](/438/) - [Housing Preservation and Resources](/186/) | Jessica Garner | 720-898-7435 |\n| [Finance](/190/Finance) | - [Apply for Business License](/253/Business-Licenses) - [City Finances](/233/City-Finances) - [Sales Tax and Business Licensing](/254/Sales-Tax-Filing) - [Business Licensing](/251/City-Licensing) - [Purchasing](/191/Purchasing) | Bryan Archer | 720-898-7120 |\n| [HR](/193/Human-Resources) | - [City Job Information](/690/Jobs) - [Volunteer](/695/Volunteer-Opportunities) | Gabriella Bommer | 720-898-7555 |\n| [Information Technology](/194/Information-Technology-Department) | Please see the main Department page | Craig Poley | 720-898-7894 |\n| [Infrastructure](/1301) | - [Public Improvement Projects](/612) - [Utilities](/785) - [Roads and Transit](/462) | Jacqueline Rhoades | 720-898-7600 |\n| [Judicial (Municipal Court)](/295) | - [Pay Municipal Fine](http://www.citepayusa.com/payments/welcome.do?court=ArvadaMuni) |  | [720-898-7150](https://co-arvada.civicplus.com/295/Municipal-Court) |\n| [Legal (City Attorney's Office)](/195/Legal-City-Attorneys-Office) | - [Internal Legal Counsel and Prosecution](/195/Legal-City-Attorneys-Office) | Rachel Morris | 720-898-7180 |\n| [Public Safety (Police)](/806/Public-Safety-Police) | - [Vacation Watch](/569/Request-a-Vacation-Watch) - [Municipal Code and Ordinances](https://www.municode.com/library/co/arvada/codes/code_of_ordinances) - [Code Enforcement](/400/Code-Enforcement-Neighborhood-Services) - [Public Safety (Police) Jobs](/693/Police-Jobs) - [Data and Reports (Police)](/538/Crime-Maps-Statistics) - [Lost Pets](/FAQ.aspx?TID=72) - [Registered Sex Offenders](/583/Sex-Offenders) - [Submit Crime Tip](/585/Submit-a-Crime-Tip) - [Police Services / Report Crime](/527/Police-Services) | Ed Brady | 720-898-6650 |\n| [Urban Renewal Authority (AURA)](/182/Arvada-Urban-Renewal-Authority) | - [Urban Renewal](https://arvadaurbanrenewal.org/) | Carrie Briscoe | 720-898-7060 |\n| [Vibrant Community and Neighborhoods](/196/Parks-Golf-Hospitality) | - [Golf Courses](/634/Golf) - [Park Pavilion Rentals](/518/Park-Pavilion-Rentals-in-Arvada) - [Majestic View Nature Center](https://majesticviewnaturecenter.arvada.org/) - [Park and Urban Design](/519) - [Park Maintenance](/523/Parks-Maintenance) - [Sports Complex Permitting and Scheduling](/649) - [Open Space and Trails](/557) - [Festivals](/493) | Ryan Stevenson | 720-898-7400 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "purposes",
+      "permitted",
+      "limited",
+      "conditional",
+      "prohibited",
+      "uses",
+      "primary",
+      "each"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-1-1"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "3-1-1-1. Purpose of article.",
+    "summary": "The purposes of this Article is:\n  1.\tTo set out the permitted, limited, conditional, and prohibited uses for primary uses in each zoning district;\n  2.\tTo establish the use-specific standards that apply to limited and conditional land uses;\n  3.\tTo establish standards for certain temporary uses;\n  …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-1-1. Purpose of article.",
+        "a": "The purposes of this Article is:\n  1.\tTo set out the permitted, limited, conditional, and prohibited uses for primary uses in each zoning district;\n  2.\tTo establish the use-specific standards that apply to limited and conditional land uses;\n  3.\tTo establish standards for certain temporary uses;\n  4.\tTo establish standards for the business use of the home;\n  5.\tTo establish standards applicable to oil and gas operations."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

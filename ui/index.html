@@ -1,0 +1,1247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Ask ADA · City of Arvada</title>
+<script>
+  /* Set theme before paint to avoid a flash. */
+  (function () {
+    const saved = localStorage.getItem("arvada-theme");
+    const initial = saved || (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+    document.documentElement.dataset.theme = initial;
+  })();
+</script>
+<!-- Markdown rendering + sanitization (graceful fallback to plain text if offline) -->
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.5/dist/purify.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #070a14;
+    --bg2: #0b1022;
+    --panel: rgba(255, 255, 255, 0.04);
+    --panel-border: rgba(255, 255, 255, 0.08);
+    --text: #e7ecf5;
+    --text-dim: #8b94ab;
+    --cyan: #22d3ee;
+    --violet: #8b5cf6;
+    --green: #34d399;
+    --amber: #fbbf24;
+    --red: #f87171;
+    --grad: linear-gradient(135deg, var(--cyan), var(--violet));
+    --radius: 18px;
+    --font: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --heading-from: #fff;
+    --strong: #fff;
+    --code-bg: rgba(255, 255, 255, 0.08);
+  }
+  html[data-theme="light"] {
+    --bg: #eef2f9;
+    --bg2: #ffffff;
+    --panel: rgba(15, 23, 42, 0.04);
+    --panel-border: rgba(15, 23, 42, 0.12);
+    --text: #16203a;
+    --text-dim: #5b6679;
+    --cyan: #0e8fa8;
+    --violet: #7c3aed;
+    --heading-from: #0b1220;
+    --strong: #0b1220;
+    --code-bg: rgba(15, 23, 42, 0.07);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; }
+  body {
+    font-family: var(--font);
+    background: var(--bg);
+    color: var(--text);
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* ── Ambient background ─────────────────────────────────────────────── */
+  .bg-glow {
+    position: fixed; inset: 0; z-index: 0; pointer-events: none;
+    background:
+      radial-gradient(700px 500px at 15% -10%, rgba(139, 92, 246, .22), transparent 60%),
+      radial-gradient(800px 600px at 90% 110%, rgba(34, 211, 238, .16), transparent 60%),
+      radial-gradient(500px 400px at 60% 40%, rgba(52, 211, 153, .05), transparent 70%);
+    animation: glowDrift 18s ease-in-out infinite alternate;
+  }
+  @keyframes glowDrift {
+    from { transform: translate3d(0,0,0) scale(1); }
+    to   { transform: translate3d(0,-30px,0) scale(1.06); }
+  }
+  html[data-theme="light"] .bg-glow { opacity: .55; }
+  html[data-theme="light"] .stars span { background: var(--violet); }
+  .bg-grid {
+    position: fixed; inset: 0; z-index: 0; pointer-events: none; opacity: .35;
+    background-image:
+      linear-gradient(rgba(139,92,246,.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(34,211,238,.05) 1px, transparent 1px);
+    background-size: 44px 44px;
+    mask-image: radial-gradient(ellipse 90% 70% at 50% 40%, black 30%, transparent 75%);
+  }
+  .stars { position: fixed; inset: 0; z-index: 0; pointer-events: none; }
+  .stars span {
+    position: absolute; width: 3px; height: 3px; border-radius: 50%;
+    background: var(--cyan); opacity: 0;
+    animation: twinkle 6s linear infinite;
+  }
+  @keyframes twinkle {
+    0%, 100% { opacity: 0; transform: scale(.4); }
+    50% { opacity: .8; transform: scale(1); }
+  }
+
+  /* ── Layout ─────────────────────────────────────────────────────────── */
+  .app { position: relative; z-index: 1; display: flex; flex-direction: column; height: 100vh; max-width: 880px; margin: 0 auto; padding: 0 20px; }
+
+  header {
+    display: flex; align-items: center; gap: 14px;
+    padding: 18px 6px 14px;
+    border-bottom: 1px solid var(--panel-border);
+  }
+  .mini-bot { width: 44px; height: 44px; flex: 0 0 auto; filter: drop-shadow(0 0 12px rgba(34,211,238,.35)); }
+  .title-block { flex: 1; min-width: 0; }
+  .title-block h1 {
+    font-size: 19px; font-weight: 700; letter-spacing: .3px;
+    background: var(--grad); -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+  .title-block p { font-size: 12px; color: var(--text-dim); margin-top: 2px; }
+  /* "ADA" stays the brand gradient; "· Arvada Assistant" reads as the lighter full form. */
+  .title-block h1 .full { -webkit-text-fill-color: var(--text-dim); color: var(--text-dim); font-weight: 600; font-size: .8em; letter-spacing: .2px; }
+  .status {
+    display: flex; align-items: center; gap: 7px; font-size: 12px; color: var(--text-dim);
+    padding: 6px 12px; border: 1px solid var(--panel-border); border-radius: 999px; background: var(--panel);
+  }
+  .status .dot {
+    width: 8px; height: 8px; border-radius: 50%; background: var(--text-dim);
+    transition: background .3s;
+  }
+  .status.online .dot { background: var(--green); box-shadow: 0 0 8px var(--green); animation: pulse 2.2s ease-in-out infinite; }
+  .status.offline .dot { background: var(--red); }
+  @keyframes pulse { 0%,100% { transform: scale(1);} 50% { transform: scale(1.35);} }
+  /* ── Language picker (globe pill + popover) ─────────────────────────── */
+  .lang-picker { position: relative; }
+  .lang-trigger {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: var(--panel); color: var(--text); border: 1px solid var(--panel-border);
+    border-radius: 999px; padding: 6px 11px; font-size: 12.5px; font-weight: 600;
+    font-family: inherit; outline: none; cursor: pointer; transition: border-color .2s, color .2s;
+  }
+  .lang-trigger:hover { border-color: rgba(34,211,238,.5); }
+  .lang-trigger .globe { width: 14px; height: 14px; flex: 0 0 auto; opacity: .85; }
+  .lang-trigger .chev { width: 11px; height: 11px; flex: 0 0 auto; transition: transform .2s; opacity: .7; }
+  .lang-trigger[aria-expanded="true"] .chev { transform: rotate(180deg); }
+  .lang-menu {
+    position: absolute; bottom: calc(100% + 8px); left: 0; z-index: 60;
+    width: 200px; max-height: min(60vh, 340px); overflow-y: auto;
+    background: var(--bg2); border: 1px solid var(--panel-border);
+    border-radius: 16px; padding: 6px; box-shadow: 0 18px 50px rgba(0,0,0,.45);
+    animation: menuIn .16s ease both;
+  }
+  @keyframes menuIn { from { opacity: 0; transform: translateY(6px) scale(.97);} to { opacity: 1; transform: translateY(0) scale(1);} }
+  .lang-menu .menu-label {
+    padding: 4px 8px 6px; font-size: 10px; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: var(--text-dim);
+  }
+  .lang-opt {
+    display: flex; align-items: center; justify-content: space-between; gap: 8px;
+    width: 100%; padding: 9px 10px; border: none; border-radius: 11px; cursor: pointer;
+    background: transparent; color: var(--text); font-family: inherit; font-size: 13.5px; text-align: left;
+    transition: background .15s;
+  }
+  .lang-opt:hover { background: var(--panel); }
+  .lang-opt.active { background: var(--grad); color: #060913; }
+  .lang-opt .native { font-weight: 600; }
+  .lang-opt .en-name { font-size: 11px; color: var(--text-dim); }
+  .lang-opt.active .en-name { color: rgba(6,9,19,.7); }
+  .lang-opt .tick { width: 14px; height: 14px; flex: 0 0 auto; opacity: 0; }
+  .lang-opt.active .tick { opacity: 1; }
+  .nav-link {
+    display: inline-flex; align-items: center; gap: 6px; text-decoration: none;
+    color: var(--text-dim); font-size: 12.5px; font-weight: 600; cursor: pointer; font-family: inherit;
+    border: 1px solid var(--panel-border); background: var(--panel);
+    border-radius: 999px; padding: 6px 12px; transition: border-color .2s, color .2s;
+  }
+  .nav-link:hover { border-color: rgba(34,211,238,.5); color: var(--text); }
+  .icon-btn {
+    width: 34px; height: 34px; border-radius: 999px; display: grid; place-items: center; cursor: pointer;
+    font-size: 15px; color: var(--text); border: 1px solid var(--panel-border); background: var(--panel);
+    transition: border-color .2s;
+  }
+  .icon-btn:hover { border-color: rgba(34,211,238,.5); }
+  .chat::-webkit-scrollbar-thumb { background: var(--panel-border); }
+
+  /* ── Chat area ──────────────────────────────────────────────────────── */
+  .chat { flex: 1; overflow-y: auto; padding: 26px 4px 18px; scroll-behavior: smooth; }
+  .chat::-webkit-scrollbar { width: 8px; }
+  .chat::-webkit-scrollbar-thumb { background: rgba(255,255,255,.1); border-radius: 8px; }
+
+  /* Hero (empty state) */
+  .hero { text-align: center; padding: 28px 10px 10px; animation: fadeUp .7s ease both; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(18px);} to { opacity: 1; transform: translateY(0);} }
+  .hero .bot-stage { width: 240px; margin: 0 auto; position: relative; }
+  .hero h2 {
+    font-size: 30px; font-weight: 800; margin-top: 4px; letter-spacing: .3px;
+    background: linear-gradient(120deg, var(--heading-from), var(--cyan) 55%, var(--violet));
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+  .hero .sub { color: var(--text-dim); font-size: 14.5px; margin-top: 8px; max-width: 520px; margin-inline: auto; line-height: 1.6; }
+  .chips { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 24px; }
+  .chip {
+    border: 1px solid var(--panel-border); background: var(--panel); color: var(--text);
+    padding: 10px 16px; font-size: 13px; border-radius: 999px; cursor: pointer;
+    transition: transform .18s ease, border-color .18s ease, box-shadow .18s ease;
+  }
+  .chip:hover {
+    transform: translateY(-2px);
+    border-color: rgba(34,211,238,.5);
+    box-shadow: 0 6px 22px rgba(34,211,238,.15);
+  }
+
+  /* Turn grouping + bottom spacer (enables pin-latest-turn-to-top scroll) */
+  .turn { scroll-margin-top: 12px; }
+  #spacer { flex: 0 0 auto; }
+
+  /* Messages */
+  .msg { display: flex; gap: 12px; margin-bottom: 22px; animation: msgIn .35s ease both; }
+  @keyframes msgIn { from { opacity: 0; transform: translateY(10px);} to { opacity: 1; transform: translateY(0);} }
+  .msg.user { flex-direction: row-reverse; }
+  .bubble {
+    max-width: 78%; padding: 14px 18px; border-radius: var(--radius);
+    font-size: 14.5px; line-height: 1.65; overflow-wrap: break-word;
+  }
+  .msg.user .bubble {
+    background: linear-gradient(135deg, rgba(139,92,246,.85), rgba(99,102,241,.75));
+    border-bottom-right-radius: 6px;
+    box-shadow: 0 8px 28px rgba(139,92,246,.25);
+  }
+  /* No avatar, no card around the assistant reply — full-width message with
+     its sources and tools flush below, like Claude / ChatGPT. */
+  .msg.bot .bubble {
+    background: transparent;
+    border: none;
+    padding: 2px 0 0;
+    max-width: 100%;
+  }
+  .bubble :is(p, ul, ol, table, blockquote) { margin: 0 0 10px; }
+  .bubble :is(p, ul, ol, table):last-child { margin-bottom: 0; }
+  .bubble ul, .bubble ol { padding-left: 20px; }
+  .bubble li { margin-bottom: 4px; }
+  .bubble strong { color: var(--strong); }
+  /* Inline links inside the AI response (and source links) — hyperlink + trailing ↗ */
+  .bubble a, .src-list a { color: var(--cyan); text-decoration: none; font-weight: 600;
+    border-bottom: 1px solid rgba(34,211,238,.45); transition: border-color .15s, color .15s; }
+  .bubble a:hover, .src-list a:hover { border-bottom-color: var(--cyan); }
+  .bubble a .lk-arr, .src-list a .lk-arr { display: inline-flex; vertical-align: -2px; margin-left: 3px; }
+  .bubble a .lk-arr svg, .src-list a .lk-arr svg { width: 13px; height: 13px; }
+  .bubble code { background: var(--code-bg); padding: 2px 6px; border-radius: 6px; font-size: 13px; }
+  .bubble table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  .bubble th, .bubble td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--panel-border); }
+  .bubble th { color: var(--cyan); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .6px; }
+  .bubble tr:last-child td { border-bottom: none; }
+
+  /* ── Inline fact chips ──────────────────────────────────────────────────
+     Phone / money / date / email mentions get a small icon pill. Theme-aware
+     via the palette vars; phone + email are real tel:/mailto: links. */
+  .bubble .chip {
+    display: inline-flex; align-items: center; gap: 4px;
+    padding: 1px 7px 1px 6px; margin: 0 1px; border-radius: 7px;
+    font-weight: 600; font-size: .92em; line-height: 1.45;
+    white-space: nowrap; vertical-align: baseline;
+    background: var(--panel); border: 1px solid var(--panel-border);
+  }
+  .bubble a.chip { text-decoration: none; border-bottom: 1px solid transparent; }
+  .bubble a.chip:hover { border-color: currentColor; }
+  .bubble .chip svg { width: 12px; height: 12px; flex: 0 0 auto; }
+  .bubble .chip-phone { color: var(--cyan); }
+  .bubble .chip-money { color: var(--green); background: rgba(52,211,153,.12); border-color: rgba(52,211,153,.3); }
+  .bubble .chip-date  { color: var(--amber); background: rgba(251,191,36,.12); border-color: rgba(251,191,36,.3); }
+  .bubble .chip-email { color: var(--violet); }
+
+  /* ── Contextual bullet icons ────────────────────────────────────────────
+     Leaf bullets get a leading icon picked from their content. Bullets that
+     contain a nested list keep the native marker. */
+  /* Headings — proportional scale so generated answers read like a document. */
+  .bubble h1, .bubble h2, .bubble h3, .bubble h4 {
+    color: var(--strong); font-weight: 700; line-height: 1.3; margin: 16px 0 7px;
+  }
+  .bubble h1 { font-size: 17px; }
+  .bubble h2 { font-size: 15.5px; }
+  .bubble h3 { font-size: 13.5px; }
+  .bubble h4 { font-size: 12.5px; }
+  .bubble > :first-child { margin-top: 0; }
+
+  /* Clean, consistent list markers. Items stay normal blocks so bold runs and
+     inline chips wrap naturally (no flex shattering of the line). */
+  .bubble ul { list-style: none; padding-left: 2px; }
+  .bubble ul > li { position: relative; padding-left: 20px; }
+  .bubble ul > li::before {
+    content: ""; position: absolute; left: 5px; top: .68em;
+    width: 5px; height: 5px; border-radius: 50%; background: var(--cyan);
+    transform: translateY(-50%);
+  }
+  .bubble ol { padding-left: 22px; }
+  .bubble ol > li { padding-left: 4px; }
+  .bubble ol > li::marker { color: var(--cyan); font-weight: 700; }
+
+  /* Streaming caret */
+  .caret { display: inline-block; width: 8px; height: 16px; background: var(--cyan); margin-left: 3px; vertical-align: -2px; border-radius: 2px; animation: blinkCaret .8s steps(1) infinite; }
+  @keyframes blinkCaret { 50% { opacity: 0; } }
+
+  /* Tool pill */
+  .tool-pill {
+    display: inline-flex; align-items: center; gap: 9px; margin: 4px 0 14px 0;
+    font-size: 12.5px; color: var(--text-dim);
+    border: 1px dashed rgba(34,211,238,.35); border-radius: 999px; padding: 7px 14px;
+    background: rgba(34,211,238,.05);
+    animation: msgIn .3s ease both;
+  }
+  .tool-pill .spinner {
+    width: 13px; height: 13px; border: 2px solid rgba(34,211,238,.3); border-top-color: var(--cyan);
+    border-radius: 50%; animation: spin .8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Sources — a section at the end of the message, separated by a hairline so it
+     reads as part of the reply (not a detached card). */
+  .sources { margin: 16px 0 2px 0; padding-top: 12px; border-top: 1px solid var(--panel-border); max-width: 620px; }
+  .sources .src-h { display: flex; align-items: center; gap: 7px; margin-bottom: 9px;
+    font-size: 11px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--text-dim); }
+  .sources .src-h svg { width: 13px; height: 13px; }
+  .src-list { list-style: none; padding: 0; margin: 0; }
+  .src-list li { display: flex; align-items: baseline; gap: 9px; margin: 6px 0; }
+  .src-list li::before { content: ""; flex: 0 0 auto; width: 5px; height: 5px; border-radius: 50%;
+    background: var(--cyan); transform: translateY(-2px); }
+
+  /* Per-message toolbar — Listen / Copy (like Agent311) */
+  .msg-tools { display: flex; flex-wrap: wrap; gap: 4px; margin: 10px 0 2px 0; }
+  .mtool { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 500; color: var(--text-dim);
+    background: transparent; border: none; cursor: pointer; padding: 5px 10px; border-radius: 999px; transition: background .15s, color .15s; }
+  .mtool:hover { background: var(--panel); color: var(--text); }
+  .mtool svg { width: 14px; height: 14px; }
+  .mtool .sp { width: 13px; height: 13px; border-radius: 50%; border: 2px solid rgba(34,211,238,.3); border-top-color: var(--cyan); animation: mspin .7s linear infinite; }
+  @keyframes mspin { to { transform: rotate(360deg); } }
+  @media (max-width: 560px) { .msg-tools { margin-left: 0; } }
+
+  /* Warning / escalation cards */
+  .notice {
+    margin: 10px 0 4px 0; padding: 11px 15px; border-radius: 12px; font-size: 13px;
+    animation: msgIn .3s ease both; max-width: 100%;
+  }
+  .notice.warning { background: rgba(251,191,36,.09); border: 1px solid rgba(251,191,36,.35); color: #fde68a; }
+  .notice.escalate { background: rgba(52,211,153,.08); border: 1px solid rgba(52,211,153,.35); color: #a7f3d0; }
+  .notice .ticket { font-family: ui-monospace, monospace; font-weight: 700; letter-spacing: 1px; }
+
+  /* Typing dots */
+  .typing { display: inline-flex; gap: 5px; padding: 6px 2px; }
+  .typing i { width: 7px; height: 7px; border-radius: 50%; background: var(--cyan); opacity: .4; animation: bounceDot 1.2s ease-in-out infinite; }
+  .typing i:nth-child(2) { animation-delay: .15s; }
+  .typing i:nth-child(3) { animation-delay: .3s; }
+  @keyframes bounceDot { 0%,60%,100% { transform: translateY(0); opacity: .35;} 30% { transform: translateY(-6px); opacity: 1;} }
+
+  /* ── Composer ───────────────────────────────────────────────────────── */
+  .composer { padding: 14px 0 22px; }
+  /* Vertical card: input row on top, divider, then the language/hint toolbar. */
+  .input-shell {
+    display: flex; flex-direction: column;
+    background: rgba(255,255,255,.05);
+    border: 1px solid var(--panel-border);
+    border-radius: 20px;
+    transition: border-color .25s, box-shadow .25s;
+    backdrop-filter: blur(14px);
+  }
+  .input-shell:focus-within {
+    border-color: rgba(34,211,238,.55);
+    box-shadow: 0 0 0 3px rgba(34,211,238,.12), 0 10px 36px rgba(34,211,238,.10);
+  }
+  .input-row { display: flex; align-items: flex-end; gap: 10px; padding: 10px 10px 6px 18px; }
+  .composer-bar {
+    display: flex; align-items: center; gap: 8px;
+    padding: 7px 12px; border-top: 1px solid var(--panel-border);
+  }
+  .composer-hint { margin-left: auto; font-size: 10.5px; color: var(--text-dim); opacity: .8; }
+  @media (max-width: 560px) { .composer-hint { display: none; } }
+  textarea {
+    flex: 1; background: transparent; border: none; outline: none; resize: none;
+    color: var(--text); font-family: var(--font); font-size: 14.5px; line-height: 1.5;
+    max-height: 130px; padding: 6px 0;
+  }
+  textarea::placeholder { color: var(--text-dim); }
+  /* Round send — gradient when there's text, muted outline when empty/disabled. */
+  .send {
+    width: 38px; height: 38px; border-radius: 999px; border: none; cursor: pointer;
+    background: var(--grad); color: #fff; display: grid; place-items: center; flex: 0 0 auto;
+    transition: transform .15s ease, box-shadow .2s ease, background .2s, color .2s;
+    box-shadow: 0 6px 20px rgba(139,92,246,.35);
+  }
+  .send:hover:not(:disabled) { transform: translateY(-2px) scale(1.04); }
+  .send:active:not(:disabled) { transform: scale(.95); }
+  .send:disabled {
+    background: transparent; color: var(--text-dim);
+    border: 1px solid var(--panel-border); box-shadow: none; cursor: not-allowed;
+  }
+  .send svg { width: 18px; height: 18px; }
+  .hint { text-align: center; font-size: 11px; color: var(--text-dim); margin-top: 9px; opacity: .8; }
+
+  /* ── Robot mascot + salute ──────────────────────────────────────────── */
+  .bot-svg { width: 100%; height: auto; overflow: visible; }
+  .bot-float { animation: floaty 4.5s ease-in-out infinite; transform-origin: center; }
+  @keyframes floaty { 0%,100% { transform: translateY(0);} 50% { transform: translateY(-9px);} }
+
+  .bot-shadow { animation: shadowPulse 4.5s ease-in-out infinite; transform-origin: center; }
+  @keyframes shadowPulse { 0%,100% { transform: scaleX(1); opacity: .35;} 50% { transform: scaleX(.82); opacity: .2;} }
+
+  .antenna-tip { animation: antennaBlink 2.4s ease-in-out infinite; }
+  @keyframes antennaBlink { 0%,100% { opacity: .5; r: 5;} 50% { opacity: 1; } }
+
+  .eye { animation: blink 5.2s infinite; transform-origin: center; }
+  @keyframes blink { 0%, 94%, 100% { transform: scaleY(1);} 96.5% { transform: scaleY(.08);} }
+
+  /* Salute arm — shoulder pivot. Idle: down. .saluting raises it to the visor. */
+  .arm-salute { transform-origin: 142px 118px; transform: rotate(8deg); transition: transform .45s cubic-bezier(.34,1.56,.64,1); }
+  .saluting .arm-salute { animation: saluteSeq 2.6s cubic-bezier(.34,1.56,.64,1) both; }
+  @keyframes saluteSeq {
+    0%   { transform: rotate(8deg); }
+    22%  { transform: rotate(-118deg); }
+    30%  { transform: rotate(-108deg); }
+    36%  { transform: rotate(-114deg); }
+    72%  { transform: rotate(-112deg); }
+    100% { transform: rotate(8deg); }
+  }
+  /* slight head tilt + visor flash during the salute */
+  .head-grp { transform-origin: 100px 96px; transition: transform .4s ease; }
+  .saluting .head-grp { animation: headDip 2.6s ease both; }
+  @keyframes headDip { 0%,100% { transform: rotate(0);} 25%,70% { transform: rotate(-4deg);} }
+  .visor-shine { opacity: 0; }
+  .saluting .visor-shine { animation: visorFlash 2.6s ease both; }
+  @keyframes visorFlash { 20%, 70% { opacity: .85; } 0%, 100% { opacity: 0; } }
+
+  .ring { transform-origin: center; animation: ringSpin 14s linear infinite; opacity: .5; }
+  @keyframes ringSpin { to { transform: rotate(360deg); } }
+
+  .speech {
+    position: absolute; top: 6px; right: -36px;
+    background: var(--panel); border: 1px solid var(--panel-border);
+    border-radius: 12px 12px 12px 2px; padding: 7px 13px;
+    font-size: 12.5px; color: var(--cyan); font-weight: 600; letter-spacing: .4px;
+    opacity: 0; transform: translateY(6px) scale(.9); transition: all .4s ease .5s;
+    backdrop-filter: blur(8px);
+  }
+  .saluting-stage .speech { opacity: 1; transform: translateY(0) scale(1); }
+
+  @media (max-width: 640px) {
+    .bubble { max-width: 88%; }
+    .hero .bot-stage { width: 190px; }
+    .speech { right: -10px; }
+  }
+</style>
+</head>
+<body>
+<div class="bg-glow"></div>
+<div class="bg-grid"></div>
+<div class="stars" id="stars"></div>
+
+<div class="app">
+  <header>
+    <div class="mini-bot" id="miniBot"></div>
+    <div class="title-block">
+      <h1>ADA<span class="full"> &middot; Arvada Assistant</span></h1>
+      <p>Permits &middot; Licenses &middot; Fees &middot; Ordinances</p>
+    </div>
+    <button class="nav-link" id="newChat" title="Start a new chat">✎ New chat</button>
+    <a class="nav-link" href="/articles" title="Browse the knowledge base">📚 Browse</a>
+    <button class="icon-btn" id="themeToggle" title="Toggle theme">☀️</button>
+    <div class="status" id="status"><span class="dot"></span><span id="statusText">connecting…</span></div>
+  </header>
+
+  <main class="chat" id="chat">
+    <div class="hero" id="hero">
+      <div class="bot-stage saluting-stage" id="botStage">
+        <div id="heroBot"></div>
+        <div class="speech">At your service! 🫡</div>
+      </div>
+      <h2>Hi, I'm Ada!</h2>
+      <p class="sub">I'm the City of Arvada's virtual agent. Ask me about building permits, contractor licensing,
+        business licenses, short-term rentals, fee estimates, or ordinances.</p>
+    </div>
+  </main>
+
+  <div class="composer">
+    <div class="input-shell">
+      <div class="input-row">
+        <textarea id="input" rows="1" placeholder="Ask about permits, fees, licenses…"></textarea>
+        <button class="send" id="send" title="Send" aria-label="Send message" disabled>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4Z"/><path d="M22 2 11 13"/></svg>
+        </button>
+      </div>
+      <div class="composer-bar">
+        <div class="lang-picker" id="langPicker">
+          <button class="lang-trigger" id="langTrigger" aria-haspopup="listbox" aria-expanded="false" title="Reply language">
+            <svg class="globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+            <span id="langCurrent">English</span>
+            <svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+          </button>
+          <div class="lang-menu" id="langMenu" role="listbox" hidden>
+            <div class="menu-label">Reply language</div>
+          </div>
+        </div>
+        <span class="composer-hint">Enter ↵ to send &middot; Shift+Enter for new line</span>
+      </div>
+    </div>
+    <div class="hint">Answers are generated from official City of Arvada sources &middot; verify critical details with the city</div>
+  </div>
+</div>
+
+<script>
+/* ════════════════════════════════════════════════════════════════════════
+   Arvada Agent — Dev Console UI
+   Local development console served by the agent itself. The internal token
+   below matches INTERNAL_SERVICE_TOKEN in .env (dev value). In production
+   the UI goes through the Spring gateway proxy, never directly here.
+   ════════════════════════════════════════════════════════════════════════ */
+const API = "/chat/stream";
+const TOKEN = "local-dev-token-change-in-prod";
+const SESSION_KEY = "arvada-chat-session";
+const THREAD_KEY = "arvada-chat-thread";
+let SESSION_ID = localStorage.getItem(SESSION_KEY) || crypto.randomUUID();
+localStorage.setItem(SESSION_KEY, SESSION_ID);
+
+/* Reply languages. `code` is sent to the backend (must exist in prompts.LANG_NAMES);
+   `native` is shown in the picker, `en` is the English name subtitle. */
+const LANGUAGES = [
+  { code: "en", native: "English",    en: "English" },
+  { code: "es", native: "Español",    en: "Spanish" },
+  { code: "my", native: "မြန်မာ",      en: "Burmese" },
+  { code: "fr", native: "Français",   en: "French" },
+  { code: "ar", native: "العربية",     en: "Arabic" },
+  { code: "so", native: "Soomaali",   en: "Somali" },
+  { code: "vi", native: "Tiếng Việt", en: "Vietnamese" },
+  { code: "zh", native: "中文",        en: "Chinese" },
+  { code: "de", native: "Deutsch",    en: "German" },
+  { code: "ru", native: "Русский",    en: "Russian" },
+];
+const LANG_KEY = "arvada-chat-lang";
+let currentLang = localStorage.getItem(LANG_KEY) || "en";
+if (!LANGUAGES.some(l => l.code === currentLang)) currentLang = "en";
+
+/* ── Robot SVG (mascot). Drawn once, reused for hero + header. ─────────── */
+function botSVG(id) {
+  return `
+  <svg class="bot-svg" id="${id}" viewBox="0 0 200 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="${id}-body" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#2dd4f0"/><stop offset="100%" stop-color="#8b5cf6"/>
+      </linearGradient>
+      <linearGradient id="${id}-visor" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#0b1022"/><stop offset="100%" stop-color="#141b36"/>
+      </linearGradient>
+      <linearGradient id="${id}-shine" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="rgba(34,211,238,0)"/>
+        <stop offset="50%" stop-color="rgba(34,211,238,.8)"/>
+        <stop offset="100%" stop-color="rgba(34,211,238,0)"/>
+      </linearGradient>
+    </defs>
+
+    <!-- ground shadow -->
+    <ellipse class="bot-shadow" cx="100" cy="196" rx="52" ry="9" fill="#000" opacity=".35"/>
+
+    <!-- orbit ring -->
+    <g class="ring">
+      <ellipse cx="100" cy="120" rx="84" ry="26" stroke="url(#${id}-body)" stroke-width="1.4"
+               stroke-dasharray="6 10" fill="none" opacity=".55"/>
+    </g>
+
+    <g class="bot-float">
+      <!-- LEFT arm (viewer-left, relaxed) -->
+      <g>
+        <rect x="46" y="116" width="14" height="38" rx="7" fill="url(#${id}-body)"/>
+        <circle cx="53" cy="158" r="9" fill="url(#${id}-body)"/>
+      </g>
+
+      <!-- body -->
+      <rect x="62" y="108" width="76" height="62" rx="20" fill="url(#${id}-body)"/>
+      <rect x="70" y="116" width="60" height="46" rx="14" fill="#0b1022" opacity=".88"/>
+      <!-- chest core -->
+      <circle cx="100" cy="139" r="11" fill="none" stroke="#22d3ee" stroke-width="2.4" opacity=".9"/>
+      <circle cx="100" cy="139" r="4.5" fill="#22d3ee">
+        <animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <!-- badge -->
+      <rect x="84" y="156" width="32" height="5" rx="2.5" fill="#22d3ee" opacity=".5"/>
+
+      <!-- legs -->
+      <rect x="76" y="170" width="14" height="18" rx="7" fill="url(#${id}-body)"/>
+      <rect x="110" y="170" width="14" height="18" rx="7" fill="url(#${id}-body)"/>
+
+      <!-- head group (tilts on salute) -->
+      <g class="head-grp">
+        <!-- antenna -->
+        <rect x="97.5" y="32" width="5" height="16" rx="2.5" fill="url(#${id}-body)"/>
+        <circle class="antenna-tip" cx="100" cy="28" r="5" fill="#22d3ee"/>
+        <!-- helmet -->
+        <rect x="58" y="46" width="84" height="58" rx="26" fill="url(#${id}-body)"/>
+        <!-- visor -->
+        <rect x="66" y="56" width="68" height="38" rx="17" fill="url(#${id}-visor)"/>
+        <rect class="visor-shine" x="66" y="56" width="68" height="38" rx="17" fill="url(#${id}-shine)"/>
+        <!-- eyes -->
+        <g class="eye"><rect x="80" y="68" width="9" height="14" rx="4.5" fill="#22d3ee"/></g>
+        <g class="eye"><rect x="111" y="68" width="9" height="14" rx="4.5" fill="#22d3ee"/></g>
+        <!-- ear pods -->
+        <rect x="52" y="66" width="8" height="18" rx="4" fill="url(#${id}-body)"/>
+        <rect x="140" y="66" width="8" height="18" rx="4" fill="url(#${id}-body)"/>
+      </g>
+
+      <!-- RIGHT arm = SALUTE arm (viewer-right; pivots at the shoulder) -->
+      <g class="arm-salute">
+        <rect x="135" y="112" width="14" height="40" rx="7" fill="url(#${id}-body)"/>
+        <!-- hand: flat salute palm -->
+        <rect x="132" y="146" width="20" height="11" rx="5.5" fill="url(#${id}-body)"/>
+      </g>
+    </g>
+  </svg>`;
+}
+
+/* ── Boot ──────────────────────────────────────────────────────────────── */
+const chat = document.getElementById("chat");
+const hero = document.getElementById("hero");
+const input = document.getElementById("input");
+const sendBtn = document.getElementById("send");
+const statusEl = document.getElementById("status");
+const statusText = document.getElementById("statusText");
+
+/* ── Theme toggle (persisted, shared across all agent pages) ──────────── */
+const themeBtn = document.getElementById("themeToggle");
+function syncThemeBtn() {
+  const light = document.documentElement.dataset.theme === "light";
+  themeBtn.textContent = light ? "🌙" : "☀️";
+  themeBtn.title = light ? "Switch to dark mode" : "Switch to light mode";
+}
+themeBtn.addEventListener("click", () => {
+  const next = document.documentElement.dataset.theme === "light" ? "dark" : "light";
+  document.documentElement.dataset.theme = next;
+  localStorage.setItem("arvada-theme", next);
+  syncThemeBtn();
+});
+syncThemeBtn();
+const botStage = document.getElementById("botStage");
+
+document.getElementById("heroBot").innerHTML = botSVG("hero-bot");
+document.getElementById("miniBot").innerHTML = botSVG("mini-bot");
+
+// star field
+const starsEl = document.getElementById("stars");
+for (let i = 0; i < 26; i++) {
+  const s = document.createElement("span");
+  s.style.left = Math.random() * 100 + "%";
+  s.style.top = Math.random() * 100 + "%";
+  s.style.animationDelay = (Math.random() * 6).toFixed(2) + "s";
+  s.style.animationDuration = (4 + Math.random() * 5).toFixed(2) + "s";
+  starsEl.appendChild(s);
+}
+
+
+/* ── Language picker (globe pill + popover) ───────────────────────────── */
+const langTrigger = document.getElementById("langTrigger");
+const langMenu = document.getElementById("langMenu");
+const langCurrent = document.getElementById("langCurrent");
+
+function renderLangMenu() {
+  // Keep the label, rebuild options.
+  langMenu.querySelectorAll(".lang-opt").forEach(el => el.remove());
+  LANGUAGES.forEach(l => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "lang-opt" + (l.code === currentLang ? " active" : "");
+    b.setAttribute("role", "option");
+    b.setAttribute("aria-selected", String(l.code === currentLang));
+    b.innerHTML =
+      `<span><span class="native">${l.native}</span> · <span class="en-name">${l.en}</span></span>` +
+      `<svg class="tick" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>`;
+    b.onclick = () => { setLang(l.code); closeLangMenu(); };
+    langMenu.appendChild(b);
+  });
+}
+function syncLangLabel() {
+  const l = LANGUAGES.find(x => x.code === currentLang) || LANGUAGES[0];
+  langCurrent.textContent = l.native;
+}
+function setLang(code) {
+  currentLang = code;
+  localStorage.setItem(LANG_KEY, code);
+  syncLangLabel();
+  renderLangMenu();
+}
+function openLangMenu() { langMenu.hidden = false; langTrigger.setAttribute("aria-expanded", "true"); }
+function closeLangMenu() { langMenu.hidden = true; langTrigger.setAttribute("aria-expanded", "false"); }
+langTrigger.addEventListener("click", e => {
+  e.stopPropagation();
+  langMenu.hidden ? openLangMenu() : closeLangMenu();
+});
+document.addEventListener("click", e => { if (!document.getElementById("langPicker").contains(e.target)) closeLangMenu(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeLangMenu(); });
+renderLangMenu();
+syncLangLabel();
+
+/* ── Salute control ────────────────────────────────────────────────────── */
+function salute(el) {
+  if (!el) return;
+  el.classList.remove("saluting");
+  void el.offsetWidth;            // restart animation
+  el.classList.add("saluting");
+  setTimeout(() => el.classList.remove("saluting"), 2700);
+}
+const heroBot = document.getElementById("hero-bot");
+const miniBot = document.getElementById("mini-bot");
+setTimeout(() => salute(heroBot), 600);            // greet on load
+setInterval(() => { if (!hero.hidden) salute(heroBot); }, 9000);  // idle re-salute
+
+/* ── Health check ──────────────────────────────────────────────────────── */
+async function checkHealth() {
+  try {
+    const r = await fetch("/health");
+    const h = await r.json();
+    statusEl.className = "status " + (h.ok ? "online" : "offline");
+    statusText.textContent = h.ok ? "online" : "degraded";
+  } catch {
+    statusEl.className = "status offline";
+    statusText.textContent = "offline";
+  }
+}
+checkHealth();
+setInterval(checkHealth, 30000);
+
+/* ── Markdown ──────────────────────────────────────────────────────────── */
+const LINK_ARROW = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg>`;
+
+/* Sources appear ONLY in the end-of-message list. Strip any link the model put
+   inline in the answer body (replace each anchor with its plain text), so no
+   external URLs leak into the reply. Mutates `root`. */
+function stripBodyLinks(root) {
+  root.querySelectorAll("a").forEach(a => {
+    a.replaceWith(document.createTextNode(a.textContent || ""));
+  });
+}
+
+/* ── Inline fact chips + contextual bullet icons (Agent311 parity) ──────────
+   Lucide-style icons; stroke = currentColor so the chip/bullet color drives it. */
+const ICONS = {
+  phone: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>`,
+  money: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>`,
+  date: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>`,
+  email: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>`,
+  location: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>`,
+  web: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>`,
+  chevron: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>`,
+};
+
+// Priority order matters: earlier rules win when matches overlap.
+// Phone is Arvada-specific (full 7/10-digit numbers only — no bare "311").
+const CHIP_RULES = [
+  { type: "phone", re: /\(\d{3}\)[\s.-]?\d{3}[\s.-]?\d{4}|\b\d{3}[\s.-]\d{3}[\s.-]\d{4}\b/g },
+  { type: "money", re: /\$[\d,]+(?:\.\d{1,2})?/g },
+  { type: "date",  re: /\b\d{1,2}\/\d{1,2}(?:\/\d{2,4})?\b|\b\d+\s*(?:business\s+)?(?:days?|weeks?|months?)\b/gi },
+  { type: "email", re: /[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}/g },
+];
+
+function buildChip(type, text) {
+  const tel = type === "phone", mail = type === "email";
+  const el = document.createElement(tel || mail ? "a" : "span");
+  el.className = "chip chip-" + type;
+  if (tel) el.href = "tel:" + text.replace(/[^\d+]/g, "");
+  if (mail) el.href = "mailto:" + text;
+  el.innerHTML = ICONS[type] || "";
+  // The money icon already shows a "$", so drop a literal leading $ to avoid "$ $45".
+  const label = type === "money" ? text.replace(/^\$\s*/, "") : text;
+  el.appendChild(document.createTextNode(label));
+  return el;
+}
+
+/* Wrap phone/money/date/email mentions in the body with an icon chip. Walks
+   text nodes only, skipping links, code, headings and existing chips. */
+function decorateChips(root) {
+  const SKIP = new Set(["A", "CODE", "PRE", "BUTTON", "TH"]);
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+    acceptNode(node) {
+      if (!node.nodeValue || !node.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+      for (let p = node.parentNode; p && p !== root; p = p.parentNode) {
+        if (p.nodeType === 1 && (SKIP.has(p.tagName) || p.classList.contains("chip")))
+          return NodeFilter.FILTER_REJECT;
+      }
+      return NodeFilter.FILTER_ACCEPT;
+    },
+  });
+  const nodes = [];
+  for (let n; (n = walker.nextNode());) nodes.push(n);
+
+  nodes.forEach(node => {
+    const text = node.nodeValue;
+    const hits = [];
+    for (const rule of CHIP_RULES) {
+      rule.re.lastIndex = 0;
+      let m;
+      while ((m = rule.re.exec(text))) {
+        const start = m.index, end = start + m[0].length;
+        if (hits.some(h => start < h.end && end > h.start)) continue; // overlap → keep higher priority
+        hits.push({ start, end, type: rule.type, text: m[0] });
+      }
+    }
+    if (!hits.length) return;
+    hits.sort((a, b) => a.start - b.start);
+    const frag = document.createDocumentFragment();
+    let cursor = 0;
+    for (const h of hits) {
+      if (h.start < cursor) continue;
+      if (h.start > cursor) frag.appendChild(document.createTextNode(text.slice(cursor, h.start)));
+      frag.appendChild(buildChip(h.type, h.text));
+      cursor = h.end;
+    }
+    if (cursor < text.length) frag.appendChild(document.createTextNode(text.slice(cursor)));
+    node.parentNode.replaceChild(frag, node);
+  });
+}
+
+/* Run all body decorations on one parsed fragment (strip inline links, then chips). */
+function enhanceHtml(html) {
+  const div = document.createElement("div");
+  div.innerHTML = html;
+  stripBodyLinks(div);
+  decorateChips(div);
+  return div.innerHTML;
+}
+
+function renderMd(text) {
+  try {
+    if (window.marked && window.DOMPurify) {
+      return enhanceHtml(DOMPurify.sanitize(marked.parse(text, { breaks: true })));
+    }
+  } catch { /* fall through */ }
+  const div = document.createElement("div");
+  div.textContent = text;
+  return div.innerHTML.replace(/\n/g, "<br>");
+}
+
+/* ── Chat state ────────────────────────────────────────────────────────── */
+let thread = [];       // client-owned conversation: [{role, content, citations?}]
+let busy = false;
+
+/* A trailing spacer after the turns. It gives a short turn enough room below it
+   to sit pinned at the top of the viewport (see pinTurnToTop). */
+const spacer = document.createElement("div");
+spacer.id = "spacer";
+spacer.setAttribute("aria-hidden", "true");
+chat.appendChild(spacer);
+
+let currentTurn = null;
+
+/* Each send is one "turn": the user bubble + the bot reply (+ its tool pill,
+   citations, notices) grouped together so we can pin the whole turn to the top. */
+function newTurn() {
+  const t = document.createElement("div");
+  t.className = "turn";
+  chat.insertBefore(t, spacer);
+  currentTurn = t;
+  return t;
+}
+
+/* Pin a turn so its top sits just below the top of the scroll viewport — the
+   "question jumps to the top, answer streams below it" behaviour. */
+function pinTurnToTop(turn) {
+  if (!turn) return;
+  // Force an instant jump (the chat uses scroll-behavior: smooth elsewhere) so
+  // the just-sent question snaps to the top before the answer starts streaming.
+  const prev = chat.style.scrollBehavior;
+  chat.style.scrollBehavior = "auto";
+  const delta = turn.getBoundingClientRect().top - chat.getBoundingClientRect().top;
+  chat.scrollTop += delta - 12;
+  chat.style.scrollBehavior = prev;
+}
+
+/* Size the trailing spacer so a short turn can still reach the top of the view.
+   Only ever as tall as the leftover viewport height; shrinks to 0 once the turn
+   fills the screen. Never moves the scroll position. */
+function syncBottomSpacer(turn) {
+  if (!turn) return;
+  spacer.style.height = Math.max(0, chat.clientHeight - turn.offsetHeight) + "px";
+}
+
+/* Persist the conversation so it survives navigating to articles & back. */
+function saveThread() {
+  try { localStorage.setItem(THREAD_KEY, JSON.stringify(thread)); } catch { /* quota */ }
+}
+function restoreThread() {
+  let saved;
+  try { saved = JSON.parse(localStorage.getItem(THREAD_KEY) || "[]"); } catch { saved = []; }
+  if (!Array.isArray(saved) || !saved.length) return;
+  thread = saved;
+  hero.hidden = true;
+  for (let i = 0; i < thread.length; i++) {
+    const m = thread[i];
+    if (m.role === "user") {
+      const turn = newTurn();
+      addUserMsg(m.content, turn);
+      const next = thread[i + 1];
+      if (next && next.role === "assistant") {
+        addBotMsg(next.content, turn);
+        addCitations(next.citations, turn);
+        addMsgTools(turn, next.content);
+        i++;
+      }
+    } else {
+      const turn = newTurn();
+      addBotMsg(m.content, turn);
+      addCitations(m.citations, turn);
+      addMsgTools(turn, m.content);
+    }
+  }
+  // Land on the most recent turn pinned to the top (matches the live behaviour).
+  syncBottomSpacer(currentTurn);
+  pinTurnToTop(currentTurn);
+}
+function newChat() {
+  if (busy) return;
+  stopTts();
+  thread = [];
+  try { localStorage.removeItem(THREAD_KEY); } catch {}
+  SESSION_ID = crypto.randomUUID();
+  localStorage.setItem(SESSION_KEY, SESSION_ID);
+  chat.querySelectorAll(".turn").forEach(el => el.remove());
+  spacer.style.height = "0px";
+  currentTurn = null;
+  hero.hidden = false;
+  input.value = ""; autoGrow(); syncSendBtn();
+  salute(heroBot);
+  input.focus();
+}
+
+function addUserMsg(text, container = chat) {
+  const el = document.createElement("div");
+  el.className = "msg user";
+  // dir="auto" so right-to-left replies (e.g. Arabic) lay out correctly.
+  el.innerHTML = `<div class="bubble" dir="auto"></div>`;
+  el.querySelector(".bubble").textContent = text;
+  container.appendChild(el);
+}
+
+/* A fully-rendered bot message (used when restoring saved history). */
+function addBotMsg(content, container = chat) {
+  const el = document.createElement("div");
+  el.className = "msg bot";
+  el.innerHTML = `<div class="bubble" dir="auto"></div>`;
+  el.querySelector(".bubble").innerHTML = renderMd(content || "");
+  container.appendChild(el);
+}
+
+function addBotShell(container = chat) {
+  const el = document.createElement("div");
+  el.className = "msg bot";
+  el.innerHTML = `<div class="bubble" dir="auto"><span class="typing"><i></i><i></i><i></i></span></div>`;
+  container.appendChild(el);
+  return el.querySelector(".bubble");
+}
+
+function addToolPill(name, container = chat) {
+  const labels = {
+    fee_calculator: "Running the numbers…",
+    status_lookup: "Pulling up your permit…",
+    change_tracker: "Checking for recent changes…",
+    project_planner: "Mapping out your projects…",
+    search: "Looking that up…",
+  };
+  const p = document.createElement("div");
+  p.className = "tool-pill";
+  p.innerHTML = `<span class="spinner"></span>${labels[name] || "Working…"}`;
+  // Insert before the bot message inside the turn so it reads as activity.
+  const botMsg = container.querySelector(".msg.bot");
+  if (botMsg) container.insertBefore(p, botMsg); else container.appendChild(p);
+  return p;
+}
+
+/* Source icons (Lucide) for the Agent311-style "Sources" card list. */
+const SRC_ICON = {
+  file:  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7z"/><path d="M14 2v5h5"/></svg>`,
+  arrow: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg>`,
+};
+
+/* Sources section — rendered at the end of the assistant message (under a
+   "Sources" heading) as the cited knowledge-base articles. */
+function addCitations(citations, container = chat) {
+  if (!citations || !citations.length) return;
+  const wrap = document.createElement("div");
+  wrap.className = "sources";
+
+  const head = document.createElement("div");
+  head.className = "src-h";
+  head.innerHTML = SRC_ICON.file;
+  head.appendChild(document.createTextNode("Sources"));
+  wrap.appendChild(head);
+
+  const ul = document.createElement("ul");
+  ul.className = "src-list";
+  citations.forEach(c => {
+    let href = c.href || c.source || "#";
+    const internal = href.startsWith("/");
+    // Tag in-app article links so the article page can show a breadcrumb back here.
+    if (internal && href !== "#") href += (href.includes("?") ? "&" : "?") + "from=ada";
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = href;
+    if (!internal) { a.target = "_blank"; a.rel = "noopener noreferrer"; }
+    a.title = c.title || "Source";
+    a.appendChild(document.createTextNode(c.title || "Knowledge article"));
+    const s = document.createElement("span");
+    s.className = "lk-arr"; s.innerHTML = LINK_ARROW;
+    a.appendChild(s);
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+  wrap.appendChild(ul);
+  container.appendChild(wrap);
+}
+
+/* ── Per-message Listen / Copy toolbar ─────────────────────────────────── */
+const TOOL_ICONS = {
+  listen: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4.7 6.3 9H2v6h4.3l4.7 4.3z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a9 9 0 0 1 0 14"/></svg>`,
+  stop:   `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4.7 6.3 9H2v6h4.3l4.7 4.3z"/><path d="m22 9-6 6"/><path d="m16 9 6 6"/></svg>`,
+  copy:   `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>`,
+  check:  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="color:#34d399"><path d="M20 6 9 17l-5-5"/></svg>`,
+};
+let _ttsAudio = null, _ttsBtn = null;
+function stopTts() {
+  if (_ttsAudio) { try { _ttsAudio.pause(); } catch {} _ttsAudio = null; }
+  try { window.speechSynthesis && window.speechSynthesis.cancel(); } catch {}
+  if (_ttsBtn) setListenBtn(_ttsBtn, "idle");
+  _ttsBtn = null;
+}
+function setListenBtn(btn, state) {
+  const label = state === "loading" ? "Loading…" : state === "playing" ? "Stop" : "Listen";
+  const ic = state === "loading" ? `<span class="sp"></span>` : state === "playing" ? TOOL_ICONS.stop : TOOL_ICONS.listen;
+  btn.innerHTML = ic + `<span>${label}</span>`;
+}
+function setCopyBtn(btn, copied) { btn.innerHTML = (copied ? TOOL_ICONS.check : TOOL_ICONS.copy) + `<span>${copied ? "Copied" : "Copy"}</span>`; }
+function fallbackSpeak(btn, text) {
+  if (!window.speechSynthesis) { stopTts(); return; }
+  const u = new SpeechSynthesisUtterance(text.slice(0, 30000)); u.rate = 0.97;
+  u.onend = () => { if (_ttsBtn === btn) stopTts(); };
+  u.onerror = () => { if (_ttsBtn === btn) stopTts(); };
+  window.speechSynthesis.cancel();
+  setListenBtn(btn, "playing");
+  window.speechSynthesis.speak(u);
+}
+async function speakMessage(btn, text) {
+  if (_ttsBtn === btn) { stopTts(); return; }   // toggle off
+  stopTts();
+  if (!text) return;
+  _ttsBtn = btn; setListenBtn(btn, "loading");
+  try {
+    const res = await fetch("/tts", {
+      method: "POST", headers: { "Content-Type": "application/json", "X-Internal-Token": TOKEN },
+      body: JSON.stringify({ text: text.slice(0, 4000) }),
+    });
+    if (!res.ok) throw new Error("tts " + res.status);
+    const blob = await res.blob();
+    if (_ttsBtn !== btn) return;                 // user cancelled while loading
+    const audio = new Audio(URL.createObjectURL(blob));
+    _ttsAudio = audio;
+    audio.onended = () => { if (_ttsBtn === btn) stopTts(); };
+    audio.onerror = () => { if (_ttsBtn === btn) fallbackSpeak(btn, text); };
+    setListenBtn(btn, "playing");
+    await audio.play();
+  } catch {
+    if (_ttsBtn === btn) fallbackSpeak(btn, text);   // OpenAI TTS unavailable -> browser voice
+  }
+}
+function copyMessage(btn, md) {
+  if (!navigator.clipboard) return;
+  const done = () => { setCopyBtn(btn, true); setTimeout(() => setCopyBtn(btn, false), 1600); };
+  if (window.ClipboardItem) {
+    const item = new ClipboardItem({
+      "text/html": new Blob([renderMd(md)], { type: "text/html" }),
+      "text/plain": new Blob([md], { type: "text/plain" }),
+    });
+    navigator.clipboard.write([item]).then(done).catch(() => navigator.clipboard.writeText(md).then(done));
+  } else {
+    navigator.clipboard.writeText(md).then(done);
+  }
+}
+function addMsgTools(turn, md) {
+  if (turn.querySelector(".msg-tools")) return;
+  // Read the assistant reply, not the user's question (which is the first .bubble).
+  const bubble = turn.querySelector(".msg.bot .bubble");
+  const plain = bubble ? bubble.innerText.trim() : (md || "");
+  const tools = document.createElement("div");
+  tools.className = "msg-tools";
+  const listen = document.createElement("button"); listen.type = "button"; listen.className = "mtool"; setListenBtn(listen, "idle");
+  listen.onclick = () => speakMessage(listen, plain);
+  const copy = document.createElement("button"); copy.type = "button"; copy.className = "mtool"; setCopyBtn(copy, false);
+  copy.onclick = () => copyMessage(copy, md || plain);
+  tools.append(listen, copy);
+  turn.appendChild(tools);
+}
+
+function addNotice(kind, html, container = chat) {
+  const n = document.createElement("div");
+  n.className = "notice " + kind;
+  n.innerHTML = html;
+  container.appendChild(n);
+}
+
+/* Keep the spacer sized to the viewport when the window resizes. */
+window.addEventListener("resize", () => syncBottomSpacer(currentTurn));
+
+/* ── Send + SSE stream ─────────────────────────────────────────────────── */
+async function sendMessage() {
+  const text = input.value.trim();
+  if (!text || busy) return;
+  busy = true;
+  sendBtn.disabled = true;
+  input.value = "";
+  autoGrow();
+  hero.hidden = true;
+
+  thread.push({ role: "user", content: text });
+  saveThread();
+
+  const turn = newTurn();
+  addUserMsg(text, turn);
+  const bubble = addBotShell(turn);
+  // Pin the new turn to the top: the question scrolls up, the answer fills in below.
+  syncBottomSpacer(turn);
+  pinTurnToTop(turn);
+
+  let answer = "";
+  let citations = null;
+  let firstToken = true;
+  let toolPill = null;
+
+  const renderStreaming = () => {
+    bubble.innerHTML = renderMd(answer) + '<span class="caret"></span>';
+    // Keep the turn pinned (don't yank to the bottom); just shrink the spacer
+    // as the answer grows so we don't leave a big empty gap.
+    syncBottomSpacer(turn);
+  };
+
+  try {
+    const res = await fetch(API, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Internal-Token": TOKEN },
+      body: JSON.stringify({
+        messages: thread.map(m => ({ role: m.role, content: m.content })),
+        lang: currentLang,
+        session_id: SESSION_ID,
+      }),
+    });
+    if (!res.ok || !res.body) throw new Error("HTTP " + res.status);
+
+    const reader = res.body.getReader();
+    const decoder = new TextDecoder();
+    let buf = "";
+
+    streamLoop:
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      buf += decoder.decode(value, { stream: true });
+      const lines = buf.split("\n");
+      buf = lines.pop() ?? "";
+
+      for (const line of lines) {
+        if (!line.startsWith("data: ")) continue;
+        const payload = line.slice(6).trim();
+        if (payload === "[DONE]") break streamLoop;
+
+        let ev;
+        try { ev = JSON.parse(payload); } catch { continue; }
+
+        switch (ev.type) {
+          case "token":
+            if (firstToken) { firstToken = false; if (toolPill) toolPill.querySelector(".spinner")?.remove(); }
+            answer += ev.content || "";
+            renderStreaming();
+            break;
+          case "tool_call":
+            toolPill = addToolPill(ev.name, turn);
+            syncBottomSpacer(turn);
+            break;
+          case "citation":
+            break; // rendered from the done payload
+          case "warning":
+            addNotice("warning", "⚠️ " + (ev.message || "Please verify this answer with the city."), turn);
+            break;
+          case "escalate":
+            addNotice("escalate",
+              `✅ Routed to <strong>${(ev.contact && ev.contact.name) || ev.department || "city staff"}</strong>` +
+              (ev.ticket_id ? ` &middot; ticket <span class="ticket">${String(ev.ticket_id).replace(/-/g,"").slice(0,12).toUpperCase()}</span>` : "") +
+              ((ev.contact && ev.contact.phone) ? ` &middot; ☎ ${ev.contact.phone}` : ""), turn);
+            break;
+          case "done":
+            answer = ev.answer || answer;
+            citations = ev.citations || null;
+            bubble.innerHTML = renderMd(answer);
+            addCitations(citations, turn);
+            addMsgTools(turn, answer);
+            syncBottomSpacer(turn);
+            break;
+          case "error":
+            answer = answer || "";
+            bubble.innerHTML = renderMd(answer) +
+              `<div style="color:var(--red);margin-top:8px;font-size:13px;">⚠ ${ev.message || "Something went wrong."}</div>`;
+            break;
+        }
+      }
+    }
+
+    bubble.querySelector(".caret")?.remove();
+    if (!answer) bubble.innerHTML = renderMd("_…no answer received. Is the agent running?_");
+    thread.push({ role: "assistant", content: answer, citations });
+    saveThread();
+    salute(miniBot);  // mission complete 🫡
+  } catch (e) {
+    bubble.innerHTML = `<span style="color:var(--red)">⚠ Could not reach the assistant (${e.message}). Make sure the agent is running on this port.</span>`;
+  } finally {
+    busy = false;
+    syncSendBtn();
+    syncBottomSpacer(turn);
+    input.focus();
+  }
+}
+
+/* ── Input behaviour ───────────────────────────────────────────────────── */
+/* Send is enabled (gradient) only when there's text and we're not busy. */
+function syncSendBtn() {
+  sendBtn.disabled = busy || !input.value.trim();
+}
+function autoGrow() {
+  input.style.height = "auto";
+  input.style.height = Math.min(input.scrollHeight, 130) + "px";
+}
+input.addEventListener("input", () => { autoGrow(); syncSendBtn(); });
+input.addEventListener("keydown", e => {
+  if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); sendMessage(); }
+});
+sendBtn.addEventListener("click", sendMessage);
+document.getElementById("newChat").addEventListener("click", newChat);
+
+/* Restore any in-progress conversation from a previous visit. */
+restoreThread();
+input.focus();
+
+/* Smart Knowledge handoff: /?ask=<query> prefills the composer and sends to Ada. */
+(function () {
+  try {
+    const q = new URLSearchParams(location.search).get("ask");
+    if (q && q.trim()) {
+      input.value = q.trim();
+      autoGrow();
+      history.replaceState(null, "", location.pathname);   // drop the param so reloads don't re-send
+      sendMessage();
+    }
+  } catch { /* ignore malformed query strings */ }
+})();
+</script>
+</body>
+</html>

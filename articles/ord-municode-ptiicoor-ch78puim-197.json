@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "abandonment",
+      "removal",
+      "facilities",
+      "notification",
+      "abandoned",
+      "any",
+      "permittee"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-310"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-310. - Abandonment and removal of facilities.",
+    "summary": "(a)\nNotification of abandoned facilities.\nAny permittee that intends to discontinue use of any facilities within the public\n               rights-of-way shall notify the director, in writing, of the intent to discontinue\n               use. Such notice shall describe the facilities for which the use…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-310. - Abandonment and removal of facilities.",
+        "a": "(a)\nNotification of abandoned facilities.\nAny permittee that intends to discontinue use of any facilities within the public\n               rights-of-way shall notify the director, in writing, of the intent to discontinue\n               use. Such notice shall describe the facilities for which the use is to be discontinued,\n               a date of discontinuance of use, which date shall not be less than 30 days from the\n               date such notice is submitted to the director, and the method of removal and restoration.\n               The permittee may not remove, destroy, or permanently disable any such facilities\n               during said 30-day period without written approval of the director. After 30 days\n               from the date of such notice, the permittee shall remove and dispose of such facilities\n               as set forth in the notice, as the same may be modified by the director, and shall\n               complete such removal and disposal within six months, unless additional time is requested\n               from and approved by the director.\n(b)\nConveyance of facilities.\nAt the discretion of the city, and upon written notice from the director within 30\n               days of the notice of abandonment, the permittee may abandon the facilities in place,\n               and shall further convey full title and ownership of such abandoned facilities to\n               the city. The consideration for the conveyance is the city's permission to abandon\n               the facilities in place. The permittee is responsible for all obligations as owner\n               of the facilities, or other liabilities associated therewith, until the conveyance\n               to the city is completed.\n(Code 1981, § 27-219; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-310"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

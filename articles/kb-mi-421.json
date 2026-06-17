@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "preventing",
+      "frozen",
+      "pipes",
+      "water",
+      "like",
+      "lines",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/455/Preventing-Frozen-Pipes"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-421",
+    "spreadsheet_id": "MI-421",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Preventing Frozen Pipes",
+    "summary": "Frozen pipes can cause significant damage as water expands when it freezes, leading to ruptures, particularly in exposed areas like outdoor hoses and unheated spaces. To prevent freezing, homeowners should insulate pipes, drain outdoor lines, and allow warm air to circulate around plumbing during cold weather. If pipes do freeze, it's important to keep the faucet open while applying heat to the affected area and to seek professional help if the problem persists.",
+    "body": "## Why Pipe Freezing is a Problem\n\nWater expands as it freezes. No matter the \"strength\" of a container, expanding water can cause pipes to rupture and break.\n\nPipes that freeze most frequently are those that are exposed to severe cold, like outdoor hose bibs, swimming pool supply lines, water sprinkler lines and water supply pipes in unheated interior areas like basements and crawl spaces, attics, garages or kitchen cabinets. Pipes that run against exterior walls that have little or no insulation are also subject to freezing.\n\n## Preventing Frozen Pipes\n\n- Drain water from swimming pool and water sprinkler supply lines following manufacturer's or installer's directions.\n- Remove, drain, and carefully store all hoses that are used outdoors.\n- Both hot and cold water pipes in unheated areas should be insulated. A hot water supply line can freeze just as easily as a cold water supply.\n- Consider installing specific products made to insulate water pipes like a \"pipe sleeve\" or installing UL-listed \"heat tape\", \"heat cable\" or similar materials on exposed or susceptible to freezing water pipes.\n\n## During Very Cold Weather, Take Preventive Action\n\n- Open kitchen and bathroom cabinet doors to allow warmer air to circulate around the plumbing.\n- When the weather is very cold outside, let the cold water drip from the faucet served by pipes that are susceptible to freezing.\n  - Running water through the pipe - even at a trickle - helps prevent pipes from freezing because the temperature of the water running through them is above freezing.\n- If you will be going away during cold weather, leave the heat on in your home set to a temperature no lower than 55ºF.\n\n## Thawing Frozen Pipes\n\n- If you turn on a faucet and only a trickle comes out, first make sure your main water valve is turned on. If it is on, then you may have a frozen pipe.\n- Locate the frozen area of the water pipe: likely places include pipes running against exterior walls or where your water service enters your home through the foundation.\n- Keep the faucet open. As you treat the frozen pipe and the frozen area begins to melt, water will begin to flow through the frozen area. Running water through the pipe will help melt more ice.\n- Apply heat to the frozen section of pipe using an electric heating pad wrapped around the pipe, electric hair dryer, a portable space heater (kept away from flammable materials), or by wrapping pipes with towels soaked in hot water. Make sure electrical devices do not come into contact with water.\n- Do not use a blowtorch, kerosene or propane heater, charcoal stove, or other open flame device. A blowtorch can make water in a frozen pipe boil and cause the pipe to explode. All open flames in homes present a serious fire danger, as well as a severe risk of exposure to lethal carbon monoxide.\n- Apply heat until full water pressure is restored.\n- If you are unable to locate the frozen area, if the frozen area is not accessible or if you cannot thaw the pipe, call a licensed plumber.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

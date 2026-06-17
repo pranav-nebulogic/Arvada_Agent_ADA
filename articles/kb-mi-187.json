@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "development",
+      "plan",
+      "instructions",
+      "application",
+      "required",
+      "applications",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1338/Development-Plan-Set-Instructions"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-187",
+    "spreadsheet_id": "MI-187",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Development Plan Set Instructions",
+    "summary": "Development projects require specific documentation for application submission, which must be organized as a single PDF file with navigation bookmarks. The application cutoff is Sunday at midnight, and submissions lacking bookmarks or deviating from standards will be rejected. A checklist provided during the Pre-Application Meeting will help determine the necessary documents, which include site plans, civil construction drawings, and various reports and studies.",
+    "body": "## Required Documents and Organization for Application Submittal\n\nThe items identified on the following pages are typically required for development projects; as each project is different, you will need to use the checklist provided as part of your Pre-Application Meeting to determine the specific documents required for your project. Applications must be submitted as a single PDF file with navigation bookmarks. The application cutoff is Sunday at midnight. Applications will be reviewed for completeness and conformance the following business day.\n\nNumbered items must be bookmarked with the hierarchy and names shown below. Text in *(parenthetical italics)* is for guidance and should not be included in bookmark labels. Bulleted items identified under Reports/ Studies/Other Documents should generally follow the order shown, but a strict hierarchy is not required. Please use the following suitable resources if you are unfamiliar with bookmarks: [Bluebeam](https://support.bluebeam.com/online-help/revu2017/Content/RevuHelp/03--View/01--Tabs/Bookmarks/Working-with-Bookmarks--MT.htm), [AutoCAD](https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2021/ENU/AutoCAD-Core/files/GUID-41A77B2E-0853-4706-8743-44CE60EFA9E0-htm.html?st=bookmarks), [Adobe](https://helpx.adobe.com/acrobat/using/page-thumbnails-bookmarks-pdfs.html#about_bookmarks), [Foxit Phantom PDF](https://www.foxitsoftware.com/blog/add-bookmarks-to-make-your-pdf-easier-to-navigate/).\n\n**APPLICATIONS THAT ARE SUBMITTED WITHOUT BOOKMARKS AND THAT SIGNIFICANTLY DEVIATE FROM THESE STANDARDS WILL NOT BE ACCEPTED.**\n\n1. ### Site Plan (or PUD/Final Development Plan)\n\n   1. Project Overview Letter\n   2. Cover Sheet\n   3. Site Plan\n   4. Landscaping Plan\n      1. Landscaping Details\n      2. Tree Survey\n   5. Lighting Plan\n      1. Lighting Details\n   6. Architectural Elevations\n   7. MX - RN Transition Profile Sheet(if applicable)\n   8. Addendum(if needed for non-standard projects)\n2. ### Civil Construction Drawings\n\n   1. Cover Sheet\n   2. Notes & Materials\n   3. Existing Conditions(or Demolition Plan)\n   4. Horizontal Control Plan\n   5. Construction Phasing Plan(if required)\n   6. Grading\n      1. Grading Details\n   7. Erosion Control Plan\n   8. Utility Plan\n   9. Water Plan & Profiles\n   10. Sanitary Plan & Profiles\n   11. Storm Plan & Profiles\n   12. Roadway Plan\n       1. Profile Details\n       2. Section Details\n       3. Signing and Striping\n       4. Signal Plans\n   13. Civil Details\n3. ### Plats / Reports / Studies / Other Documents\n\n   - #### Standard (Typically required for submittals)\n\n     - Title Report\n     - Plat (if subdividing)\n       - Separately upload the DWG file for closure verification\n     - Easement Legal Descriptions & Exhibits (if dedicating)\n       - Separately upload the DWG file(s) for closure verification\n     - Vehicle Turning Analysis - Emergency\n     - Vehicle Turning Analysis - Delivery\n     - Traffic Impact Study (or letter)\n     - Utility Report\n     - Geotechnical Study or Soils Report\n     - Drainage Report (Including MS4 Form)\n     - Stormwater Management Plan (aka SWMP)\n   - #### Public Hearings\n\n     - Neighborhood Meeting Summary\n     - Adjacent Property Owner List\n     - Severed Mineral Rights Certification\n   - #### New Residential Development\n\n     - Land Appraisal\n     - HOA Covenants\n     - Addressing Base Map\n   - #### Miscellaneous\n\n     - Design Guidelines Compliance Analysis (for Olde Town projects)\n     - Justification Letter (for height exception, minor/major modifications)\n     - Rezoning Map\n     - Annexation Documents\n       - Petition\n       - Annexation Map\n       - Phase I Environmental Site Assessment\n       - Statements from Fire and Recreation Districts\n       - Water Rights Questionnaire",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

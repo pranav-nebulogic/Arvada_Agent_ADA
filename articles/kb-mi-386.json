@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "planned",
+      "unit",
+      "development",
+      "district",
+      "property",
+      "additionally",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/225/PUD-Planned-Unit-Development-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-386",
+    "spreadsheet_id": "MI-386",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "PUD (Planned Unit Development) District",
+    "summary": "The Planned Unit Development (PUD) District allows for flexible zoning and development tailored to the specific needs of the City and its stakeholders, enabling innovative projects that may not fit within traditional zoning categories. Properties within this district require approval from the Planning Commission and City Council, with any proposed uses needing to be established during the approval process.",
+    "body": "The Planned Unit Development District is intended to provide procedures for property that can be uniquely zoned and developed to meet the needs of the City, property owners, residents, and developers. Additionally, the district allows for flexibility that results in an innovative or exceptional project and site design or for unique and imaginative uses, where no other zoning district set out in the Land Development Code would allow for a product that is substantially similar to the proposed development, and where the proposed development would result in a net benefit to the community.\n\nPUD zoned properties are subject to review by the Planning Commission and City Council during a public hearing. Any proposed use(s) allowed within a PUD zoning district shall be established as part of the approval granted by the City Council.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

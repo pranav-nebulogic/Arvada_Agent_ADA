@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "type",
+      "streets",
+      "within",
+      "city",
+      "all",
+      "shall",
+      "designated"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-65"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-65. - Type of streets.",
+    "summary": "Within the city, all streets shall be designated as one of the following types, and\n               their type and layout shall conform to that as shown in the city Land Development\n               Code and engineering standards adopted in section 82-161 et seq.\n(Code 1981, § 30-50; Ord. No. 1432, § 5…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-65. - Type of streets.",
+        "a": "Within the city, all streets shall be designated as one of the following types, and\n               their type and layout shall conform to that as shown in the city Land Development\n               Code and engineering standards adopted in section 82-161 et seq.\n(Code 1981, § 30-50; Ord. No. 1432, § 5, 3-6-1978)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-65"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "public account",
+      "account registration",
+      "permit portal",
+      "online access",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/599/Creating-a-Public-Account"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-173",
+    "spreadsheet_id": "MI-173",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Creating a Public Account",
+    "summary": "The Permit Portal allows citizens to access building and right-of-way permits and development projects online, enabling them to create accounts for applying for permits, scheduling inspections, and reviewing historical data. Public accounts are not for contractors, who should use their AEC license number to log in. Users can create an account by completing an online form and will then have access to a dashboard for managing their permit activities.",
+    "body": "The [Permit Portal]([NEW PORTAL URL]) provides online access to building and right-of-way permits and development projects. Citizens are able to create an account to be used to apply for permits and projects, schedule inspections and review historical permit data. Below are the steps to successfully create an online public account.\n\nPublic accounts are not intended to be used by contractors. If you are a City of Arvada licensed contractor please login using your AEC license number provided to you at time of licensing.\n\n**Note:** Not all online permit applications are available for online submittal by a public account. Please go to [Permit Portal Help]([NEW PORTAL URL]) to view all of the available online applications.\n\n1. **Signing Up:** Visit [Permit Portal]([NEW PORTAL URL]). Find and select \"Setup an Account,\" which is located in the header.\n2. **Complete Online Form:** Complete all of the information in the form. Fields that have an asterisk next to them indicates that they are required. When finished, Select \"Create Account\".\n3. **Continue to Dashboard:** Once your account has been created you will be directed back to the main page. If you have activity that you want to start or search for you can click on the appropriate link or you can select \"Dashboard\" in the top tool bar to be directed back to your user accounts dashboard.\n\nAs you start to create activities in the Permit Portal or link your account to permits and projects all of the linked permits will show on the dashboard. From the dashboard you are able to schedule inspection, pay fees or review comments and notes from staff.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "refusal",
+      "report",
+      "estimate",
+      "tax",
+      "event",
+      "any",
+      "taxpayer"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-86"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-86. - Refusal to report; estimate of tax.",
+    "summary": "(a)\nIn the event any taxpayer neglects or refuses to report in accordance with the provisions\n               of this article, thereby prohibiting the establishment by the finance director of\n               an accurate and exact amount of tax due, the enforcement officer may, in any reasonable\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-86. - Refusal to report; estimate of tax.",
+        "a": "(a)\nIn the event any taxpayer neglects or refuses to report in accordance with the provisions\n               of this article, thereby prohibiting the establishment by the finance director of\n               an accurate and exact amount of tax due, the enforcement officer may, in any reasonable\n               manner possible, estimate the amount of tax due, to which interest and penalty prescribed\n               in\nsections 98-71\nand\n98-72\nshall be added.\n(b)\nWhen an estimate of tax is made, the enforcement officer shall serve a notice of assessment\n               on the taxpayer by personal service, certified or registered mail or by leaving a\n               copy with the person in charge at the taxpayer's business establishment. Unless the\n               taxpayer files a written demand for an administrative hearing and determination of\n               tax liability, as provided in\nsection 98-99\n, within 30 calendar days after the date of the notice of assessment, he shall be\n               deemed to have accepted the estimate as a fair and accurate determination of his tax\n               obligation and shall thereby waive the right to contest that determination. In the\n               event that such a hearing is held, the determination of the hearing officer shall\n               be reviewable in the district court in accordance with law.\n(Code 1981, § 31-61; Ord. No. 3783, § 2, 12-16-2002;\nOrd. No. 4317, § 11, 3-5-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-86"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

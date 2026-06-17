@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "compliance",
+      "generally",
+      "notice",
+      "district",
+      "court",
+      "approval",
+      "upon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-40"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-40. - Compliance—Generally.",
+    "summary": "(a)\nNotice of district court approval.\nUpon final approval by the district court of the organization of the title 32 district,\n               the petitioner shall file written notice thereof with the department.\n(b)\nModifications to the approved service plan.\nAfter the creation of a title 32 distric…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-40. - Compliance—Generally.",
+        "a": "(a)\nNotice of district court approval.\nUpon final approval by the district court of the organization of the title 32 district,\n               the petitioner shall file written notice thereof with the department.\n(b)\nModifications to the approved service plan.\nAfter the creation of a title 32 district, material modifications to the approved\n               service plan may be made by the board of directors of the title 32 district only by\n               petition to and approval by the city council. City council approval of modifications\n               to an approved service plan shall be in substantially the same manner as the approval\n               for an original service plan described in this chapter. Such approval of modifications\n               shall be required with regard to changes of a basic or essential nature, including,\n               but not limited to, material modifications as outlined in the approved service plan.\n               A resolution of approval of modification shall not be required for changes of a mechanical\n               or technical nature. The title 32 district shall be responsible for all fees and costs\n               described in\nsections 91-20\n(e) and (f) of this chapter which relate to modification to the approved service plan.\n(c)\nUnauthorized departures.\nAny departures from the approved service plan, except for mechanical or technical\n               changes as referred to in subsection (b) of this section or, if such has been modified,\n               from the approved service plan as modified, shall be considered to be a violation\n               of this section.\n(d)\nIntergovernmental agreement.\nThe city and the title 32 district shall enter into an intergovernmental agreement\n               that shall contain language intended to enforce the service plan.\n(e)\nAny unauthorized actions including unauthorized modifications by the title 32 district\n               shall be subject to being enjoined and/or enforced by the district court upon application\n               by either the city or the title 32 district.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-40"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

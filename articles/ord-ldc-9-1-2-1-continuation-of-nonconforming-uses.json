@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "continuation",
+      "nonconforming",
+      "uses",
+      "generally",
+      "except",
+      "provided",
+      "subsection",
+      "below",
+      "continued",
+      "maintained"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-2-1"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-2. NONCONFORMING USES"
+  },
+  "content": {
+    "title": "9-1-2-1. Continuation of nonconforming uses.",
+    "summary": "A.\tGenerally. Except as provided in Subsection B., below, nonconforming uses may be continued and maintained in reasonable repair, subject to the standards of this Subsection.\n  1.\tBuilding or Structure Enlargement.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-2-1. Continuation of nonconforming uses.",
+        "a": "A.\tGenerally. Except as provided in Subsection B., below, nonconforming uses may be continued and maintained in reasonable repair, subject to the standards of this Subsection.\n  1.\tBuilding or Structure Enlargement. A building or structure that is put to a nonconforming use shall not be enlarged, extended, constructed, reconstructed, moved, or structurally altered except to change the use of the structure to a permitted use.\n  2.\tExpansion of Nonconforming Use.\n    a.\tA nonconforming use shall not be enlarged, expanded, or extended, except to occupy any interior parts of the building or structure enclosing such use that were designed or arranged for such use at the time the use was lawfully established.\n    b.\tNo new accessory use, accessory building, or accessory structure shall be established on the site of the nonconforming use if it is accessory to the nonconforming use or expands the footprint of the nonconforming use.\n  3.\tAdditional Signs or Uses. In connection with a nonconforming use, the following are prohibited:\n    a.\tThe attachment on the building or premises of additional signs that are intended to be viewed from off the premises; and\n    b.\tThe addition of other uses that are prohibited in the zoning district in which the subject property is located.\nB.\tIndustrial Zoning Districts. A nonconforming use in the IL or IG zoning district may be continued and maintained in reasonable repair, and if it is listed in Section 3-1-2-5, Commercial Land Use by Zoning District, Section 3-1-2-7 Industrial, Processing, Recycling, Storage, and Disposal Land Use by Zoning District, or 3-1-2-8 Motor Vehicle Land Use by Zoning District, it may be expanded, cumulatively, by up to 25 percent of its footprint on the effective date of this LDC. For the purposes of this Subsection, the extension of a nonconforming use to a portion of an existing building or structure that was designed and constructed for the nonconforming use on the Effective Date of this LDC is not counted towards the limitation on expansion.\n  1.\tExpansion of a nonconforming building or structure greater than 2,500 square feet shall be exempt if the Director finds that the expansion will not cause an increase in vehicular traffic, thus requiring traffic and roadway improvements to public streets.\n  2.\tThe degree of expansion shall be determined by the gross floor area as of the Effective Date of the LDC. The expansion may be to an existing building or the addition of a new building."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "tax",
+      "exemptions",
+      "authority",
+      "exempt",
+      "payment",
+      "any",
+      "taxes"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-74"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-74. - Tax exemptions.",
+    "summary": "The authority is exempt from the payment of any taxes or fees to the state or any\n               subdivision thereof, or to any officer or employee of the state or any subdivision\n               thereof. The property of an authority shall be exempt from all local and municipal\n               taxes. …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-74. - Tax exemptions.",
+        "a": "The authority is exempt from the payment of any taxes or fees to the state or any\n               subdivision thereof, or to any officer or employee of the state or any subdivision\n               thereof. The property of an authority shall be exempt from all local and municipal\n               taxes. Bonds, notes, debentures and other evidences of indebtedness of the authority\n               are declared to be issued for a public purpose and to be public instruments, and,\n               together with interest thereon, shall be exempt from taxes. All property leased to\n               the authority for the purposes of a project shall likewise be exempt from taxation,\n               as shall the income derived from the authority by the lessor under such lease. The\n               portion of a project that is not used as a store, office, or other commercial facility\n               that is occupied by persons of low income and that is owned by or leased to an entity\n               that is wholly owned by an authority, an entity in which an authority has an ownership\n               interest, or an entity in which an entity wholly owned by an authority has an ownership\n               interest shall likewise be exempt from taxation, and the income derived from the above\n               entities by the lessor under a lease shall likewise be exempt from taxation.\n(Code 1981, § 14-43; Ord. No. 1248, § 25, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-227."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-74"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

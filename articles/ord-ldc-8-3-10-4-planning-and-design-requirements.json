@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "planning",
+      "design",
+      "requirements",
+      "generally",
+      "zoning",
+      "districts",
+      "defined",
+      "objective",
+      "based",
+      "locational"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-10-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-10. PLANNED UNIT DEVELOPMENT"
+  },
+  "content": {
+    "title": "8-3-10-4. Planning and design requirements.",
+    "summary": "A.\tGenerally.\n  1.\tPUD zoning districts shall have a defined planning and design objective that is based on the locational context and/or natural assets of the proposed PUD zone (e.g., the protection of a unique natural asset).\n  2.\tPUD zoning districts shall provide linkages to abutting development…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-10-4. Planning and design requirements.",
+        "a": "A.\tGenerally.\n  1.\tPUD zoning districts shall have a defined planning and design objective that is based on the locational context and/or natural assets of the proposed PUD zone (e.g., the protection of a unique natural asset).\n  2.\tPUD zoning districts shall provide linkages to abutting development, if appropriate, and shall provide landscaped buffers along property lines in areas where such buffers are appropriate to ensure an appropriate transition between the PUD zoning district boundary and the development on adjoining property.\n  3.\tPUD zoning districts that are located within areas that are subject to design standards or guidelines shall be consistent with such standards or guidelines, unless the PUD zoning district documents provide otherwise.\n  4.\tThe development approved through the use of the PUD zoning district must be of demonstrably higher quality or provide greater value to the City than would otherwise be achieved through the application of this LDC. PUD zoning districts shall not be used to avoid the intent of the requirements of this LDC which provide for the protection or enhancement of community character or the reduction of development impacts on nearby properties without providing community benefit that more than offsets the impacts of the development allowed with a PUD zoning district."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-10-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

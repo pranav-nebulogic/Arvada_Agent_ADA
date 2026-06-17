@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "menacing",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "threat",
+      "physical"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-33"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-33. - Menacing.",
+    "summary": "(a)\nIt shall be unlawful for any person, by threat or physical action, intentionally to\n               place another person in fear of imminent bodily injury.\n(b)\nThis section shall not apply in any case where menacing is committed by use of a deadly\n               weapon.\n(Code 1960, § 17-7; Code 1…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-33. - Menacing.",
+        "a": "(a)\nIt shall be unlawful for any person, by threat or physical action, intentionally to\n               place another person in fear of imminent bodily injury.\n(b)\nThis section shall not apply in any case where menacing is committed by use of a deadly\n               weapon.\n(Code 1960, § 17-7; Code 1981, § 21-2)\nState Law reference—\nMenacing, C.R.S. § 18-3-206."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

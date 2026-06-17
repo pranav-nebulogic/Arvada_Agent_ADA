@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fees",
+      "application",
+      "annual",
+      "license",
+      "charged",
+      "liquor",
+      "licenses"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-92",
+      "§ 44-4"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-92. - Fees.",
+    "summary": "Application and annual license fees charged for liquor licenses shall be the maximum\n               amounts specified in the Colorado Beer Code and Liquor Code (C.R.S. §§ 44-4-101 et\n               seq. and 44-3-101 et seq.), and shall be paid to the city before the local licensing\n               au…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-92. - Fees.",
+        "a": "Application and annual license fees charged for liquor licenses shall be the maximum\n               amounts specified in the Colorado Beer Code and Liquor Code (C.R.S. §§ 44-4-101 et\n               seq. and 44-3-101 et seq.), and shall be paid to the city before the local licensing\n               authority considers the application complete. Any fees not determined by the state\n               will be determined by the city clerk.\n(\nOrd. No. 4670\n, § 1, 12-17-2018)\nState Law reference—\nFermented malt beverage license fee, C.R.S. § 44-4-107; hotel and restaurant fee,\n               C.R.S. § 44-3-411; alcoholic beverage license fees, C.R.S. § 44-3-505; special event\n               permit fees, C.R.S. § 44-5-104."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-92",
+      "§ 44-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

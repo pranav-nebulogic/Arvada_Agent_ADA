@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "officer",
+      "gordon",
+      "beesley",
+      "community",
+      "police",
+      "appreciation",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/576/Officer-Gordon-Beesley"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-367",
+    "spreadsheet_id": "MI-367",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Officer Gordon Beesley",
+    "summary": "On June 21, 2021, Officer Gordon Beesley of the Arvada Police Department tragically lost his life while serving the community. The webpage offers information on ways for the community to express support and appreciation for Officer Beesley, his family, and the police department.",
+    "body": "![Gordon Beesley End of Watch](/ImageRepository/Document?documentId=729)\n\nOn June 21, 2021, an unspeakable tragedy took place in our community. During that terrible event, an Arvada Police officer gave his life in service to our community. This webpage provides information about community opportunities for sharing support and appreciation for Officer Beesley, his family and the Arvada Police Department.\n\n## In Memory of Officer Beesley\n\n2015 [9News video of Officer Beesley](https://drive.google.com/file/d/1G1fUQWOiu266kU6IKaXAcsqfSPhBn0Fj/view?usp=sharing) riding to school with Oberon students",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

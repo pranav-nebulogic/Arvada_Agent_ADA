@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "implied",
+      "consent",
+      "effect",
+      "contributions",
+      "provided",
+      "section",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-39"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-39. - Implied consent; effect.",
+    "summary": "The contributions provided for in\nsection 86-37\nshall be made notwithstanding that the minimum compensation provided by law for any\n               member shall be changed. Every member shall be deemed to consent and agree to the\n               deductions made as provided for herein, and payment of t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-39. - Implied consent; effect.",
+        "a": "The contributions provided for in\nsection 86-37\nshall be made notwithstanding that the minimum compensation provided by law for any\n               member shall be changed. Every member shall be deemed to consent and agree to the\n               deductions made as provided for herein, and payment of the member's compensation less\n               such deduction for the member's contributions shall be a full and complete discharge\n               and acquittal of all claims and demands whatsoever for services rendered by such member\n               during the period covered by such payment, except as to benefits provided under this\n               chapter.\n(Code 1960, § 19-18(D); Code 1981, § 26-9)\nState Law reference—\nPolice pensions, C.R.S. § 31-30-101 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-39"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

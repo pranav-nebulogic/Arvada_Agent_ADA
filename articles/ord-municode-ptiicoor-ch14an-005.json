@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "interference",
+      "animal",
+      "management",
+      "officer",
+      "unlawful",
+      "shall",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-5"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-5. - Interference with animal management officer unlawful.",
+    "summary": "(a)\nIt shall be unlawful for any person intentionally to interfere with, hinder, harass,\n               molest, injure, obstruct, or disobey a lawful order from any animal management officer\n               in the discharge of his official duties under this chapter or other applicable law.\n(b)\nIt sha…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-5. - Interference with animal management officer unlawful.",
+        "a": "(a)\nIt shall be unlawful for any person intentionally to interfere with, hinder, harass,\n               molest, injure, obstruct, or disobey a lawful order from any animal management officer\n               in the discharge of his official duties under this chapter or other applicable law.\n(b)\nIt shall be unlawful for any person to fail to allow or to refuse entry to an animal\n               management officer demanding entry for purposes of inspection pursuant to\nsection 14-4\n(e) and (f).\n(c)\nIt shall be unlawful for an owner or custodian to fail to produce an animal that must\n               be made available to an animal management officer within 24 hours of the issuance\n               of a summons and complaint under\nsection 14-202\n(c). Failure to produce the animal will be considered interference with an officer.\n(Code 1981, § 6-5; Ord. No. 3496, § 2, 12-14-1998;\nOrd. No. 4878\n, § 3, 10-7-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

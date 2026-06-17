@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exempt",
+      "employees",
+      "employee",
+      "works",
+      "any",
+      "work",
+      "week"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-56"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-56.2. - Exempt employees.",
+    "summary": "(a)\nAn exempt employee who works in any work week more than 40 hours shall accrue compensatory\n               time at the rate of one hour for each hour worked in excess of 40 hours in a work\n               week. Exempt employees who are regularly scheduled for 12-hour shifts and who work\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-56.2. - Exempt employees.",
+        "a": "(a)\nAn exempt employee who works in any work week more than 40 hours shall accrue compensatory\n               time at the rate of one hour for each hour worked in excess of 40 hours in a work\n               week. Exempt employees who are regularly scheduled for 12-hour shifts and who work\n               longer than their scheduled hours during the designated work week will accrue compensatory\n               time at the rate of one hour for each hour worked in excess of their scheduled hours\n               of the week.\n(b)\nCompensatory work must be authorized in advance by an employee's appointing authority\n               or designee thereof. The following leaves will be considered as work days for purposes\n               of computing compensatory time: sick leave, holiday, fatigue leave, floating holiday,\n               extended care leave, city closure, injury leave, bereavement leave, military leave,\n               administrative leave, and jury duty.\n(1)\nException\n: Vacation time and compensatory time taken may be used for purposes of computing\n               compensatory time if it is taken during a week in which a designated emergency service\n               status employee works for non-discretionary reasons during time which occurs immediately\n               before or after their normally scheduled hours for that day. Such time must be approved\n               by their supervisor.\n(c)\nAn exempt employee will accrue no more than 40 hours of compensatory time at any given\n               time. However, the city manager may, by administrative directive, authorize accruals\n               of compensatory time in excess of 40 hours. Any hours accrued in excess of the 40-hour\n               compensatory time accrual limitation and not otherwise authorized or permitted by\n               administrative directive of the city manager will be forfeited. Compensatory time\n               off may be taken by an exempt employee at a time determined by the employee's appointing\n               authority or designee thereof, to be convenient to the city and, where possible, to\n               the employee. Upon termination of employment, or upon separation for any other reason,\n               an exempt employee is not entitled to any payment or reimbursement for accrued compensatory\n               time at the time of such termination or separation.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-56"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

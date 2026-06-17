@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fees",
+      "charges",
+      "expenses",
+      "lien",
+      "upon",
+      "property",
+      "debt"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-37"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-37. - Fees, charges, and expenses to be a lien upon property.",
+    "summary": "(a)\nDebt due and owing.\nUnless paid within 30 days of assessment or request for reimbursement, all fees,\n               rates, charges, penalties, or expenses incurred by the city under this article constitute\n               a debt owing to the city, and the city has the right to recover on any such…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-37. - Fees, charges, and expenses to be a lien upon property.",
+        "a": "(a)\nDebt due and owing.\nUnless paid within 30 days of assessment or request for reimbursement, all fees,\n               rates, charges, penalties, or expenses incurred by the city under this article constitute\n               a debt owing to the city, and the city has the right to recover on any such debt in\n               the manner provided by law in any court of competent jurisdiction.\n(b)\nLien.\nUnless paid within 30 days of assessment or request for reimbursement, all fees,\n               rates, charges, penalties, or expenses incurred by the city under this article constitute\n               a perpetual lien on and against the site, and any such lien may be foreclosed by the\n               city at any time in the manner as provided by the laws of the state for the foreclosure\n               of mechanics' liens or in accordance with\nchapter 59\nof this Code entitled \"Municipal Liens.\" Such lien foreclosure by the city is subject\n               to all rights of redemptions granted by C.R.S. § 38-39-101 et seq., as amended.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-37"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

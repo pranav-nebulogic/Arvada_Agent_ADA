@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "contracts",
+      "authorized",
+      "contract",
+      "doing",
+      "work",
+      "acquiring"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-49"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-49. - Construction contracts; when authorized.",
+    "summary": "No contract for doing construction work for acquiring or improving the project contemplated\n               shall be made or shall be awarded nor shall the council incur any expense or any liability\n               in relation thereto, except for maps, plats, diagrams, estimates, plans, specifications…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-49. - Construction contracts; when authorized.",
+        "a": "No contract for doing construction work for acquiring or improving the project contemplated\n               shall be made or shall be awarded nor shall the council incur any expense or any liability\n               in relation thereto, except for maps, plats, diagrams, estimates, plans, specifications\n               and notices until after the provisional order hearing and notice thereof provided\n               for herein have been given and had.\n(Code 1981, § 27-50; Ord. No. 551, § 19(A), 5-14-1964)\nState Law reference—\nProvisions in contracts, C.R.S. § 31-25-518."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-49"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

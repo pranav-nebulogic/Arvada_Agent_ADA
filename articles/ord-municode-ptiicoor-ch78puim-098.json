@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "preparation",
+      "proposed",
+      "roll",
+      "upon",
+      "receiving",
+      "report",
+      "mentioned"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-99"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-99. - Preparation of proposed roll.",
+    "summary": "(a)\nUpon receiving the report mentioned in\nsection 78-96\n, the engineer shall make an assessment roll and state a proposed assessment therein\n               upon each tract so reported to him, and by such proposed assessments he shall defray\n               the whole amount of all charges so directed…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-99. - Preparation of proposed roll.",
+        "a": "(a)\nUpon receiving the report mentioned in\nsection 78-96\n, the engineer shall make an assessment roll and state a proposed assessment therein\n               upon each tract so reported to him, and by such proposed assessments he shall defray\n               the whole amount of all charges so directed to be levied upon each of such tracts\n               respectively. When completed, he shall report the assessment roll to the council.\n(b)\nWhen any assessment is reported by the engineer to the council as directed in this\n               section, the same shall be filed in the office of the city clerk and numbered.\n(Code 1981, § 27-100; Ord. No. 551, § 40, 5-14-1964)\nState Law reference—\nAssessment roll, C.R.S. § 31-25-523."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-99"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

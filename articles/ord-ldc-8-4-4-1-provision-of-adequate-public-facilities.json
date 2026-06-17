@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "provision",
+      "adequate",
+      "public",
+      "facilities",
+      "proposed",
+      "development",
+      "reviewed",
+      "regard",
+      "whether",
+      "site"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-4-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-4. PUBLIC IMPROVEMENTS, WARRANTIES, AND UTILITIES"
+  },
+  "content": {
+    "title": "8-4-4-1. Provision of adequate public facilities.",
+    "summary": "Proposed development shall be reviewed in regard to whether off-site utilities and services, including but not limited to drainage facilities and streets, that are necessary to serve the proposed development are adequate in terms of capacity, configuration, connections, routes, and other relevant co…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-4-1. Provision of adequate public facilities.",
+        "a": "Proposed development shall be reviewed in regard to whether off-site utilities and services, including but not limited to drainage facilities and streets, that are necessary to serve the proposed development are adequate in terms of capacity, configuration, connections, routes, and other relevant considerations. Any deficiencies shall be identified and commitments made by the Applicant to undertake remedial measures."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

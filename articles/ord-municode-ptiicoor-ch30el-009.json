@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mail",
+      "ballot",
+      "election",
+      "additional",
+      "report",
+      "required",
+      "provisions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-9",
+      "§ 1-45"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-9. - Mail ballot election; additional report required.",
+    "summary": "The provisions of C.R.S. § 1-45-108, as amended, which relate to reporting campaign\n               contributions and expenditures are incorporated by reference into this section. In\n               addition to the reports required by C.R.S. § 1-45-108, as amended, candidates or campaign\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-9. - Mail ballot election; additional report required.",
+        "a": "The provisions of C.R.S. § 1-45-108, as amended, which relate to reporting campaign\n               contributions and expenditures are incorporated by reference into this section. In\n               addition to the reports required by C.R.S. § 1-45-108, as amended, candidates or campaign\n               treasurers shall file a report of all contributions received and all expenditures\n               made by or on behalf of such candidate, 45 days prior to a mail ballot election. All\n               reports shall be complete as of five days prior to the filing date. Any person that\n               makes a late filing of the 45 day report, shall be subject to the same civil penalty\n               as is measured in the Fair Campaign Practices Act.\n(Code 1981, § 11-9; Ord. No. 3511, § 2, 2-1-1999;\nOrd. No. 4400, § 4, 8-19-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-9",
+      "§ 1-45"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

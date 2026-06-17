@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "project",
+      "based",
+      "voucher",
+      "program",
+      "housing",
+      "affordable",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/952/Project-Based-Voucher-Program"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-431",
+    "spreadsheet_id": "MI-431",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Project Based Voucher Program",
+    "summary": "The Arvada Housing Authority has announced funding for the 2024 Housing Choice Voucher Project Based Voucher Program, aimed at expanding housing options for low-income individuals and families, increasing affordable housing supply, and supporting new construction projects. Additionally, the waitlist for the Project Based Voucher Program will close at 12 a.m. on August 1, 2024, with future openings to be announced on their website. The program adheres to Fair Housing and Equal Opportunity requirements.",
+    "body": "## For developers\n\n### Public Notice of Awards\n\nThe Arvada Housing Authority (AHA) has awarded funding for the 2024 Housing Choice Voucher Project Based Voucher Program. A public notice of the awards can be found below. The objectives of this allocation are to:\n\n1. Expand housing options for low-income individuals and families with special needs\n2. To increase the supply of affordable housing for individuals and families\n3. Support the development of high-density new construction affordable housing projects\n\n[**2024 Project Based Voucher Public Notice of Awards**](/DocumentCenter/View/4329)\n\nNote:  Participation in the PBV Program requires compliance with Fair Housing and Equal Opportunity Requirements, and Federal Labor Standards will apply to eligible projects.\n\nQuestions can be directed to Dena Kothe at [[email protected]](/cdn-cgi/l/email-protection#91f5fafee5f9f4d1f0e3e7f0f5f0bffee3f6) or 720-898-7476.\n\n## FOR TENANTS\n\n### Public Notice of Waitlist Closure\n\nAs of 12 a.m. on August 1, 2024, the Arvada Housing Authority Project Based Voucher Program wait list will be closed. Please check our website for notification of future openings.\n\nThe wait list is not first-come, first-served as certain preferences will apply and applications will be ranked for placement as such. Please contact the Arvada Housing Authority at 720-898-7476 with questions about the selection process.\n\n**Equal Housing Opportunity**\n\nThe Arvada Housing Authority does not discriminate on the basis of race, color, religion, sex, handicap, sexual orientation, familial status or national origin in the admission, access to, or treatment in its federally assisted programs. If you have a disability and need a reasonable accommodation, please contact the Arvada Housing Authority via phone at 720-898-7494, Fax 720-898-7490 or email [[email protected]](/cdn-cgi/l/email-protection#11757a7e657974517063677075703f7e6376).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

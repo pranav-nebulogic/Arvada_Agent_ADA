@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "decision",
+      "appeal",
+      "generally",
+      "upon",
+      "review",
+      "record",
+      "evidence",
+      "together",
+      "arguments",
+      "advanced"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-5-7"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-5. ADMINISTRATIVE APPEALS"
+  },
+  "content": {
+    "title": "8-2-5-7. Decision on appeal.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-5-7. Decision on appeal.",
+        "a": "A.\tGenerally. Upon review of the record evidence together with the arguments advanced on appeal, the Appellate Body shall determine whether the Decision was correct based on the evidence presented to the original Decision-Maker and the applicable provisions of this LDC.\nB.\tNature of Relief on Appeal.\n  1.\tIf the Decision is determined to be incorrect, the Appellate Body shall reverse and correct the Decision, and approve the original application, approve the original application with conditions, or deny the original application.\n  2.\tIf the Decision is determined to be correct, the Appellate Body shall affirm it.\n  3.\tIf the Decision is determined to be partially correct, the Appellate Body may affirm in part, deny in part, or place conditions on the original application.\n  4.\tIf the Decision was not supported by substantial competent evidence, but the Appellate Body finds that such evidence could reasonably be presented, the Appellate Body may remand the original application to the original Decision-Maker with instructions as to what additional information must be provided.\nC.\tDecisions Reduced to Writing. The decision of the Appellate Body shall be promptly reduced to writing and shall include findings of fact and conclusions of law. The written decision shall be reviewed and executed by a member of the Appellate Body (as appropriate) who is designated by the members who cast votes in the majority.\nD.\tFurther Appeal. For purposes of further appeal, the decision of the Appellate Body shall be considered a final quasi-judicial decision of the City that may be appealed to a court pursuant to the applicable Colorado Rules of Civil Procedure. The date of execution of the written decision shall be considered the date the appeal was adjudicated."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-5-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

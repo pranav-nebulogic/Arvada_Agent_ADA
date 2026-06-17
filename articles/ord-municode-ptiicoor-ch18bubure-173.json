@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "maintenance",
+      "hereby",
+      "amended",
+      "entirety",
+      "read",
+      "follows"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-460"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-460. - I.P.M.C. Section 102.2, Maintenance.",
+    "summary": "Section 102.2. Maintenance,\nis hereby amended in its entirety to read as follows:\n\"\n102.2. Maintenance.\nEquipment, systems, devices and safeguards required by this code or a previous regulation\n                  or code under which the structure or premises was constructed, altered or repaired\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-460. - I.P.M.C. Section 102.2, Maintenance.",
+        "a": "Section 102.2. Maintenance,\nis hereby amended in its entirety to read as follows:\n\"\n102.2. Maintenance.\nEquipment, systems, devices and safeguards required by this code or a previous regulation\n                  or code under which the structure or premises was constructed, altered or repaired\n                  shall be maintained in good working order. No owner, operator or occupant shall cause\n                  removal, shut off or discontinuance of any service, facility, equipment or utility\n                  which is required under this section except for such temporary interruption as necessary\n                  while repairs or alterations are in progress. The requirements of this code are not\n                  intended to provide the basis for removal or abrogation of fire protection and safety\n                  systems and devices in existing structures. Except as otherwise specified herein,\n                  the owner shall be responsible for the maintenance of buildings, structures and premises.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-460"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

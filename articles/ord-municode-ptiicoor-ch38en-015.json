@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "correction",
+      "character",
+      "sound",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-95"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-95. - Correction for character of sound.",
+    "summary": "It shall be unlawful for any person to operate or cause or permit to be operated any\n               stationary source of noise which emits a pure tone, cyclically varying noise or repetitively\n               impulsive noise which exceeds five dB(A) less than the limits set in\nsection 38-91\n.\n(Code 1…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-95. - Correction for character of sound.",
+        "a": "It shall be unlawful for any person to operate or cause or permit to be operated any\n               stationary source of noise which emits a pure tone, cyclically varying noise or repetitively\n               impulsive noise which exceeds five dB(A) less than the limits set in\nsection 38-91\n.\n(Code 1981, § 19-23; Ord. No. 2208, § 1, 9-16-1985)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-95"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

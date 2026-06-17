@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reserved",
+      "editor",
+      "note",
+      "ord",
+      "adopted",
+      "september",
+      "repealed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-164",
+      "§ 102-164"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-164.6. - Reserved.",
+    "summary": "Editor's note—\nOrd. No.\n4854\n, § 8, adopted September 11, 2023, repealed § 102-164.6, which pertained to nonresidential\n               water fees within the Mountain Shadows Subdivision and derived from\nOrd. No. 4361, § 7, 10-22-2012, eff. 1-1-2013\n;\nOrd. No. 4411, § 7, 10-21-2013, eff. 1-1-2014\n;\nO…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-164.6. - Reserved.",
+        "a": "Editor's note—\nOrd. No.\n4854\n, § 8, adopted September 11, 2023, repealed § 102-164.6, which pertained to nonresidential\n               water fees within the Mountain Shadows Subdivision and derived from\nOrd. No. 4361, § 7, 10-22-2012, eff. 1-1-2013\n;\nOrd. No. 4411, § 7, 10-21-2013, eff. 1-1-2014\n;\nOrd. No. 4465, § 7, 10-20-2014, eff. 1-1-2015\n;\nOrd. No. 4524, § 7, 10-19-2015, eff. 1-1-2016\n;\nOrd. No. 4571, § 7, eff. 1-1-2017\n; Ord. No. 4819, § 23, 10-17-2022, eff. 7-1-2023."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-164",
+      "§ 102-164"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

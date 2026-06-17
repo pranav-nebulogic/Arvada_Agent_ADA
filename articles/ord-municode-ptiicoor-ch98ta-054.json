@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "intercity",
+      "claims",
+      "recovery",
+      "intent",
+      "section",
+      "streamline",
+      "standardize"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-105"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-105. - Intercity claims and recovery.",
+    "summary": "The intent of this section is to streamline and standardize procedures related to\n               situations where tax has been remitted to the incorrect municipality. It is not intended\n               to reduce or eliminate the responsibilities of the taxpayer or vendor to correctly\n               p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-105. - Intercity claims and recovery.",
+        "a": "The intent of this section is to streamline and standardize procedures related to\n               situations where tax has been remitted to the incorrect municipality. It is not intended\n               to reduce or eliminate the responsibilities of the taxpayer or vendor to correctly\n               pay, collect, and remit sales and use taxes to the city.\n(1)\nAs used herein, \"claim for recovery\" means a claim for reimbursement of sales or use\n                  taxes, or both, paid to the wrong taxing jurisdiction.\n(2)\nWhen it is determined by the finance director of the city that sales or use tax or\n                  both, owed to the city has been reported and paid to another municipality, the city\n                  shall promptly notify the vendor that taxes are being improperly collected and remitted,\n                  and that as of the date of the notice the vendor must cease improper tax collections\n                  and remittances.\n(3)\nThe city may make a written claim for recovery directly to the municipality that received\n                  tax and/or penalty and interest owed to the city, or, in the alternative, may institute\n                  procedures for collection of the tax from the taxpayer or vendor. The decision to\n                  make a claim for a recovery lies in the sole discretion of the city. Any claim for\n                  recovery shall include a properly executed release of claim from the taxpayer and/or\n                  vendor releasing its claim to the taxes paid to the wrong municipality, evidence to\n                  substantiate the claim, and a request that the municipality approve or deny, in whole\n                  or in part, the claim within 90 days of its receipt. The municipality to which the\n                  city submits a claim for recovery may, for good cause, request an extension of time\n                  to investigate the claim, and approval of such extension by the city shall not be\n                  unreasonably withheld.\n(4)\nWithin 90 days after receipt of a claim for recovery, the city shall verify to its\n                  satisfaction whether or not all or a portion of the tax claimed was improperly received,\n                  and shall notify the municipality submitting the claim in writing that the claim is\n                  either approved or denied in whole or in part, including the reasons for the decision.\n                  If the claim is approved in whole or in part, the city shall remit the undisputed\n                  amount to the municipality submitting the claim within 30 days after approval. If\n                  a claim is submitted jointly by a municipality and a vendor or taxpayer, the check\n                  shall be made to the parties jointly. Denial of a claim for recovery may only be made\n                  for good cause.\n(5)\nThe city may deny a claim on the grounds that it has previously paid a claim for recovery\n                  arising out of an audit of the same taxpayer.\n(6)\nThe period subject to the claim for recovery shall be limited to the 36-month period\n                  prior to the date the municipality that was wrongly paid the tax receives the claim\n                  for recovery.\n(Code 1981, § 31-74; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-105"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "refund",
+      "contributions",
+      "leaving",
+      "prior",
+      "eligibility",
+      "any",
+      "member"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-43"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-43. - Refund of contributions; leaving prior to eligibility.",
+    "summary": "Should any member leave the service of the city prior to becoming eligible to receive\n               a pension payable from funds of the retirement system, for any reason other than his\n               death.\n(1)\nIf said member has less than ten years of credited service at termination, he shall\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-43. - Refund of contributions; leaving prior to eligibility.",
+        "a": "Should any member leave the service of the city prior to becoming eligible to receive\n               a pension payable from funds of the retirement system, for any reason other than his\n               death.\n(1)\nIf said member has less than ten years of credited service at termination, he shall\n                  be entitled to a refund of all of the member's contributions without interest paid\n                  subsequent to the effective date of Ordinance No. 1192; provided, however, the refunding\n                  of all of the member's contribution paid subsequent to the effective date of Ordinance\n                  No. 1192 shall not be applicable to former members who terminated their employment\n                  with the city prior to January 1, 1978.\n(2)\nIf said member has ten or more years of credited service at termination, the member\n                  may elect either:\na.\nDeferred monthly benefit payable beginning at age 55 based upon the member's final\n                  base pay, allowing 2½ percent for each year of credited service to a maximum of 65\n                  percent of final base pay. Final base pay is to be determined on the basis of the\n                  highest total salary received during any three consecutive years (or 36 months) of\n                  service preceding the date of retirement, divided by the number of months for which\n                  pay was received. If the member does not have three consecutive years (or 36 months)\n                  of service, the member's final base pay shall be determined on the basis of the total\n                  salary received divided by the number of months for which pay was received; or\nb.\nA refund of the member's contribution without interest. Should a member request a\n                  refund of his contributions, that portion refunded shall apply only to the member's\n                  contributions made subsequent to the effective date of Ordinance No. 1192.\n(Code 1960, § 19-17(A); Code 1981, § 26-12)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-43"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

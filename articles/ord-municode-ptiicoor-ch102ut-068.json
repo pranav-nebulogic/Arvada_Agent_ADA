@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "standby",
+      "fire",
+      "protection",
+      "fees",
+      "water",
+      "facilities",
+      "follows"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-167"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-167. - Standby fire protection fees.",
+    "summary": "Water fees for standby fire protection facilities are as follows:\n(1)\nTapping fee: .....\na.\nIn city .....$60.00\nb.\nOut of city .....90.00\n(2)\nInspection fee: .....\na.\n⅝″, ¾″ and 1″ meters .....$45.00\nb.\n1½″ and larger meters .....80.00\n(3)\nPermit fee based on the following schedule: .....\nTap Size\nI…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-167. - Standby fire protection fees.",
+        "a": "Water fees for standby fire protection facilities are as follows:\n(1)\nTapping fee: .....\na.\nIn city .....$60.00\nb.\nOut of city .....90.00\n(2)\nInspection fee: .....\na.\n⅝″, ¾″ and 1″ meters .....$45.00\nb.\n1½″ and larger meters .....80.00\n(3)\nPermit fee based on the following schedule: .....\nTap Size\nIn City\nOut of City\n¾″\n$18.30\n$27.45\n1″\n36.60\n54.90\n1½″\n73.15\n109.75\n2″\n109.75\n164.65\n3″\n146.50\n219.75\n4″\n219.45\n329.00\n6″\n292.60\n439.00\n8″\n365.75\n548.50\n(4)\nThe above water fees for standby fire protection are to be paid prior to issuance\n                  of the general public improvement permit for the standby fire protection system.\n(Code 1981, § 33-83; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 3202, § 7, 8-7-1995;\n               Ord. No. 3489, § 5, 10-26-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-167"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-39-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "electronic",
+      "speed",
+      "signs",
+      "help",
+      "sometimes",
+      "show",
+      "drivers",
+      "current",
+      "Traffic Control on My Street"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=39"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-electronic-your-speed-signs-help",
+    "faq_category_name": "Traffic Control on My Street"
+  },
+  "content": {
+    "title": "Can electronic \"Your Speed\" signs help?",
+    "summary": "Sometimes. \"Your Speed\" signs (which show drivers their current speed) can help to reduce speeding in some instances. Usually, these signs are placed temporarily in areas where speeding is a confirmed issue. To inquire about getting a \"Your Speed\" sign placed, please call Traffic Engineering at 720-…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can electronic \"Your Speed\" signs help?",
+        "a": "Sometimes. \"Your Speed\" signs (which show drivers their current speed) can help to reduce speeding in some instances. Usually, these signs are placed temporarily in areas where speeding is a confirmed issue. To inquire about getting a \"Your Speed\" sign placed, please call Traffic Engineering at 720-898-7740. Engineering will follow a process to see whether, and to what degree, a \"Your Speed\" sign could be effective in your area."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

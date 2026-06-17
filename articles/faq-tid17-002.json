@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-17-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "sales_tax",
+    "tags": [
+      "debit",
+      "block",
+      "please",
+      "log",
+      "into",
+      "munirevs",
+      "business",
+      "center",
+      "Sales Tax"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=17"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/i-have-a-debit-block-what-is-your-id",
+    "faq_category_name": "Sales Tax"
+  },
+  "content": {
+    "title": "I have a debit block, what is your id?",
+    "summary": "Please log into your MUNIRevs Business Center to get the debit block and be sure to set it up before attempting payment. If you submit payment before this has been set up your bank will reject the payment.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "I have a debit block, what is your id?",
+        "a": "Please log into your MUNIRevs Business Center to get the debit block and be sure to set it up before attempting payment. If you submit payment before this has been set up your bank will reject the payment."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

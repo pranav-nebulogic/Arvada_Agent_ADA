@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "unlawful",
+      "acts",
+      "under",
+      "chapter",
+      "shall",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-73"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-73. - Unlawful acts.",
+    "summary": "Under this chapter, it shall be unlawful for any person to:\n(1)\nWillfully and knowingly circulate or cause to be circulated, or sign or procure to\n                  be signed, any petition bearing the name, device, logo or motto of any person, organization,\n                  association, league, or …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-73. - Unlawful acts.",
+        "a": "Under this chapter, it shall be unlawful for any person to:\n(1)\nWillfully and knowingly circulate or cause to be circulated, or sign or procure to\n                  be signed, any petition bearing the name, device, logo or motto of any person, organization,\n                  association, league, or political party; or purporting in anyway to be endorsed, approved,\n                  or submitted by any person, organization, association, league or political party,\n                  without the written consent, approval, and authorization of such person, organization,\n                  association, league or political party;\n(2)\nSign any name other than his own to any petition, or knowingly to sign his name more\n                  than once for the same measure at one election;\n(3)\nSign any petition who is not at the time of signing the same a registered elector\n                  of the city;\n(4)\nSign an affidavit as circulator without knowing or reasonably believing the statements\n                  made in such affidavit are true;\n(5)\nFor a notary to certify that an affidavit attached to a petition was subscribed or\n                  sworn to before him unless it was so subscribed and sworn to before him; or\n(6)\nWillfully violate any provision of this article.\nAll violations of this section may, in the sole discretion of the city clerk, be remedied\n               in the manner prescribed by the order of the city clerk.\n(Code 1981, § 11-44; Ord. No. 3511, § 2, 2-1-1999;\nOrd. No. 4400, § 12, 8-19-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-73"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

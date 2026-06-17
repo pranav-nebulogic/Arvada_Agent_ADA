@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "revival",
+      "industrial",
+      "highway",
+      "state",
+      "acre",
+      "acres",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1517/Revival-Industrial"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-479",
+    "spreadsheet_id": "MI-479",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Revival Industrial",
+    "summary": "Revival Industrial is a proposed development by Brumley Realty for a 56,160 square foot industrial building on a 5.398-acre parcel located south of State Highway 72 in Jefferson County, which the developer seeks to annex to Arvada. The project aims to rezone the area from low-density residential to Mixed-Use, Suburban (MX-S) to accommodate business, light industrial, or warehouse uses, with public hearings scheduled for May and July 2026.",
+    "body": "![Overhead layout of industrial building lot](/ImageRepository/Document?documentId=7419)\n\n## DA2025-0015\n\n### **Project Name:** Revival Industrial\n\n- **Address/Location:**A 5.3980 acre parcel of land approximately located south of State Highway 72, east of 15350 State Highway 72\n- **Developer:** Brumley Realty\n- **Planner:**Julia Duncan\n- **Acres:**5.3980\n- **Use:**Industrial\n- **Total Units:** N/A\n- **Planning Commission Public Hearing:**May 6, 2026, 6:15pm\n- **City Council First Reading:**July 7, 2026\n- **City Council Public Hearing:** July 21, 2026\n\n**Project Narrative from the Developer:**This development project is for a 56,160 s.f. building on a 5 acre vacant lot near CO-72 and Indiana St. The lot is in Jefferson County, but the owner would like to annex to Arvada. No less than one-sixth of the perimeter of the area proposed to be annexed is contiguous with the City of Arvada.\n\nThe current zoning is SR-2, low density residential, and the surrounding uses are mixed. There are two self-storage unit lots, one commercial property and a few rural residential lots surrounding the property. We are proposing the MX-S (Mixed-Use, Suburban) zoning for this site, with a speculative building to lease and use for business, light industrial or warehouse use, which are compatible with the surrounding area land uses.\n\n[Learn more about the project.](https://aca-prod.accela.com/ARVADA)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

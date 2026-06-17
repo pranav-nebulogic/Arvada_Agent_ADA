@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "hearing",
+      "procedures",
+      "except",
+      "article",
+      "provides",
+      "otherwise",
+      "provisions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-194"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-194. - Hearing procedures.",
+    "summary": "(a)\nExcept where this article provides otherwise, the provisions of article V of chapter\n               2 of this Code shall govern the conduct of any administrative hearing conducted in\n               accordance with this article.\n(b)\nThe hearing notice shall be sent by first class mail addressed t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-194. - Hearing procedures.",
+        "a": "(a)\nExcept where this article provides otherwise, the provisions of article V of chapter\n               2 of this Code shall govern the conduct of any administrative hearing conducted in\n               accordance with this article.\n(b)\nThe hearing notice shall be sent by first class mail addressed to the property owner\n               at the address given the city by the owner pursuant to\nsection 38-193\n(5).\n(c)\nThe administrative hearing shall be held within 14 days of receipt of the property\n               owner's request for hearing.\n(d)\nAt the hearing, the city manager or his designee, shall hear such statements and consider\n               such evidence as the property owner, code enforcement officer, other party in interest,\n               or other witness shall offer relative to the existence of and removal or elimination\n               of graffiti on the affected property.\n(e)\nThe city manager, or his designee, shall make findings of fact from the statements\n               and evidence offered as to whether graffiti exists and whether it should be removed\n               or eliminated. If the city manager, or his designee, determines that graffiti exists\n               and should be removed or eliminated, he shall issue an order based on the findings\n               of fact made pursuant herewith commanding the property owner to remove or eliminate\n               the causes of graffiti.\n(f)\nIf an order issued by the city manager, or his designee, pursuant to subsection (e)\n               of this section has not been complied with within 30 days after its issuance, the\n               city, at the direction of the city manager, or his designee, may cause the elimination\n               or removal of the causes of graffiti.\n(g)\nAny such owner who fails to comply with an order issued by the city manager, or his\n               designee, pursuant to subsection (e) of this section, shall be charged with all administrative\n               costs and expenses incurred in the elimination or removal of the causes of graffiti.\n               Such administrative costs shall include the cost of said removal or elimination, inspection\n               fees, postal charges, legal expenses, and other expenses as ascertained by the city\n               manager, or his designee, which are the result of the enforcement of this article.\n               Imposition of costs are independent of any other powers of the city as set forth anywhere\n               in this Code.\n(Code 1981, § 20-53; Ord. No. 3455, § 3, 7-6-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-194"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

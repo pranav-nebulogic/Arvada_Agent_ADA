@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "natural",
+      "disasters",
+      "emergencies",
+      "temporary",
+      "uses",
+      "structures",
+      "needed",
+      "result",
+      "disaster",
+      "other"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-4-6"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-4. TEMPORARY USES"
+  },
+  "content": {
+    "title": "3-1-4-6. Natural disasters and emergencies.",
+    "summary": "Temporary uses and structures needed as the result of a natural disaster or other health and safety emergencies are allowed for the duration of the emergency. No temporary use permit or other review shall be required.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-4-6. Natural disasters and emergencies.",
+        "a": "Temporary uses and structures needed as the result of a natural disaster or other health and safety emergencies are allowed for the duration of the emergency. No temporary use permit or other review shall be required."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-4-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

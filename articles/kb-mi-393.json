@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "parking",
+      "permit",
+      "registration",
+      "cmrpay",
+      "dashboard",
+      "https",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/465/Parking-Permit-Registration"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-393",
+    "spreadsheet_id": "MI-393",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Parking Permit Registration",
+    "summary": "Parking permits in Arvada can be registered online at the Arvada Parking Permit site, requiring vehicle information and proof of residency or employment. Residential permits are valid for one year and are restricted to specific neighborhoods, while visitor permits can be added for 24-hour use. For further details on parking regulations and FAQs, residents can visit the city's official resources.",
+    "body": "Parking permits are issued online through the [Arvada Parking Permit site](https://arvada.cmrpay.com/dashboard/landing).\n\nTo register your vehicle(s):\n\n1. Have your vehicle(s) information on hand\n2. Go to the [Arvada Parking Permit site](https://arvada.cmrpay.com/dashboard/landing)\n3. Follow the steps as prompted\n\nYou will need proof of residency for a residential permit by uploading a copy or picture of your driver's license with the address listed on the card.\n\nIf applying for an employee permit, you will need to upload proof of employment. For more information on parking permit ordinances, please visit our [Municode Site](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR_ARTVIIPAPE).\n\nVisit the [Parking Permit Frequently Asked Questions](http://arvadapermits.rmcpay.com/#help) for more information on how to register.\n\n### [Residential Permit Program FAQs](/Faq.aspx?TID=37)\n\n[How does enforcement of the new digital permit program work?](#)\n:   Beginning January 1, 2021, due to the adoption of the digital parking permit program, enforcement of these residential areas will be enforceable through the use License Plate Reader camera technology.\n\n[How long is my parking permit valid for?](#)\n:   Residential permits are valid for one year from the date of approval. Olde Town employee permits must be renewed every three months.\n\n[Is my residential permit valid all over the city where permits are required?](#)\n:   No. Your residential permit is only valid in your neighborhood.\n\n[Can I get a permit for a visitor to my residence?](#)\n:   Yes. If you have an account with a registered vehicle that has been approved you may add a visitor permit to your account that is good for 24 hours. If you already have two complimentary permits you may purchase up to 3 more at $5 each.\n\n[How will I know when it is time for me to re-register?](#)\n:   An automatic email will be generated and sent to you prior to the permit's expiration. The email will come from [[email protected]](/cdn-cgi/l/email-protection) so ensure the address is added to your contact list or it may go to your junk mailbox.\n\n[What if I get a new vehicle, license plate or have a temporary plate?](#)\n:   Simply log in to the site, click on \"Manage Permit\", then click \"Edit\" next to the vehicle that is registered, and edit the information on the following screen. If the temporary plate is replaced with a permanent plate, follow the same instructions to input the new plate.\n\n[Who do I call to report an issue with permit-only parking violations in my neighborhood?](#)\n:   Beginning March 1, 2026 you can call the City’s Parking Ambassador line at 720-364-8587 if you would like City staff to drive through your neighborhood and ensure all vehicles are permitted properly.\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

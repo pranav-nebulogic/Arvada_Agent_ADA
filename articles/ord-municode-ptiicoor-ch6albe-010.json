@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "required",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "sell",
+      "serve"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-31"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-31. - Required.",
+    "summary": "It shall be unlawful for any person to sell, serve, or to offer for sale at retail,\n               within the city, any fermented malt beverage or any malt, vinous or spirituous liquors,\n               as those terms are defined by state law, without first having been granted and issued\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-31. - Required.",
+        "a": "It shall be unlawful for any person to sell, serve, or to offer for sale at retail,\n               within the city, any fermented malt beverage or any malt, vinous or spirituous liquors,\n               as those terms are defined by state law, without first having been granted and issued\n               a license or permit to do so by the city and when applicable, by the state.\n(\nOrd. No. 4670\n, § 1, 12-17-2018)\nState Law reference—\nFermented malt beverage defined, C.R.S. § 44-4-103; malt, vinous and spirituous liquors\n               defined, C.R.S. § 44-3-103."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-31"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

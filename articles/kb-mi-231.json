@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "home",
+      "business",
+      "owners",
+      "prepare",
+      "property",
+      "wildfire",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1447/For-Home-and-Business-Owners-Prepare-you"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-231",
+    "spreadsheet_id": "MI-231",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "For Home and Business Owners: Prepare your property for wildfire",
+    "summary": "The City of Arvada is set to update its Building Codes in 2026, introducing significant changes to fire codes aimed at enhancing safety against wildfires for builders, homeowners, and business owners in specific risk zones. Residents are encouraged to prepare their properties by maintaining defensible space, using ignition-resistant building materials, and keeping gutters clear of debris. The city will provide resources and support as these changes are implemented, inviting community engagement and questions.",
+    "body": "As the City of Arvada prepares to update its Building Codes in 2026, a number of changes are coming that will impact many builders, homeowners and business owners. Some of the most significant changes will be related to fire codes, and are designed to keep your property and our community safe and resilient in the face of the growing threat of wildfires.\n\nIn general, these changes will new buildings and changes made to existing buildings that fall within the specific risk zones. Read more about what could be affected in the [FAQ](https://www.arvadaco.gov/m/faq?cat=105) or [**search by address**](https://arvada.maps.arcgis.com/apps/instant/lookup/index.html?appid=e436198a1e0045bbbab18b1cf359cb6d) to see if you are in a risk zone.\n\n## How you can be prepared now\n\nAs Coloradans know, it is never too early to start preparing your property for wildfire risks, and there are simple steps you can take even before the new wildfire codes take effect:\n\n- Keep your gutters free of dead leaves\n- Harden your home with ignition resistant building materials, such as:\n  - Roofing materials: Concrete (standard weight and lightweight), metal/stone-coated asphalt shingles, clay tile, synthetic slate, hybrid composite\n  - Siding materials: Fiber-cement board, stucco, masonry/brick, manufactured stone and similar materials\n- Removing vegetation from around your home to create and maintain defensible space on all sides of your home. This can also protect your foundation if you select materials to help with drainage away from your home.\n\n### Other resources\n\n- [Colorado State University guide for preparing your home for wildfire](https://csfs.colostate.edu/wp-content/uploads/2021/04/2021_CSFS_HIZGuide_Web.pdf)\n- [City of Colorado Springs ignition-resistant design manual](https://co-co.org/wp-content/uploads/2020/06/2020_ignition_resistant_design_manual_march_2020.pdf)\n\n## Questions?\n\nYou will not be alone as these changes are made. The City of Arvada will be your partner as we adjust and build a more resilient community together. Stay tuned for more information on opportunities to ask questions and learn more. If you have questions about any of the upcoming changes, please do not hesitate to reach out to the Building Division at [[email protected]](/cdn-cgi/l/email-protection#2240574b4e464b4c455247504f4b5651624350544346430c4d5045).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

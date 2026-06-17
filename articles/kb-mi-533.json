@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "street",
+      "sweeping",
+      "leaf",
+      "free",
+      "leaves",
+      "piles",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/504/Street-Sweeping"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-533",
+    "spreadsheet_id": "MI-533",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Street Sweeping",
+    "summary": "Street sweeping in the city follows a flexible schedule, with streets swept every four to six weeks during spring and summer, and efforts made to clear leaves in the fall to prevent storm sewer blockages. In winter, snowplow routes are prioritized for sweeping within four days after storms, while residential streets are swept at least once from mid-March to April. Residents are encouraged to avoid placing leaves and grass in the street and to maintain vegetation near curbs to facilitate effective street cleaning.",
+    "body": "Please do not rake or blow leaves and grass into the street. Trash and damaging debris end up hidden in leaf piles, and when a sweeper is damaged, the amount of sweeping we can achieve is reduced.\n\nStreet sweepers will sweep around piles or a row of leaves in the street. Please take advantage of our[**free leaf recycling events**](/718/Free-Leaf-Recycling) each fall.\n\n## Street Sweeping Schedule\n\nThe City conducts street sweeping on a general rather than a fixed schedule. This allows us to use our resources most efficiently, based on available equipment and personnel, while also taking into consideration seasonal weather conditions.\n\n### General Street Sweeping Schedule\n\n**Spring / Summer, Mid-April through Mid-October**: Each city street is swept every four to six weeks.\n\n**Fall, Mid-October to Mid-November**: Our goal is to sweep all of the City streets at least once during this period, with areas of the City with many mature trees usually swept more than once. Our priority is to reduce the amount of leaves that end up in the storm sewers.\n\n**Winter, Mid-November to Mid-April**: Our goal is to sweep snowplow routes within four days after each winter storm to be in compliance with Denver regional area air quality guidelines. Very cold weather and/or continuous snowstorms may delay sweeping. Residential streets are not on our snowplow routes but we attempt to sweep all residential streets at least once from mid-March to the end of April.\n\n**Central Business District**: Olde Town Arvada streets are swept every two weeks between 4 and 6 am, weather permitting. High-volume traffic intersections and City facility parking lots are also swept every two weeks in the early morning.\n\n## How You Can Help\n\n- Please do not rake or blow leaves and/or grass into the street. It is against [municipal code Sec. 94-6](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL_ARTIINGE_DIV1GE_S94-6DEETRUET) to do so. The street sweepers will sweep around piles or a row of leaves in the street.\n- Trim trees and shrubs to a height of 12 feet above the curb to avoid damaging equipment. The street sweepers will sweep around low-hanging branches.\n- Trim shrubs and vegetation back from the curb. The street sweepers will sweep around vegetation that overhangs the curb and is in the gutter area.\n\nFor more information on Street Sweeping, please call the Streets Division at 720-898-7720.\n\n## Sidewalk Sweeping and Maintenance\n\nMaintenance and sweeping of sidewalks is the responsibility of the property owner according to [municipal code Sec. 94-68](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL_ARTIIIDEST_S94-68MARE).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

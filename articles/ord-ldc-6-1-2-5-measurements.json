@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "measurements",
+      "sign",
+      "clearance",
+      "distance",
+      "between",
+      "bottom",
+      "face",
+      "structural",
+      "element",
+      "affixed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-2-5"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-2. APPLICABILITY; EXEMPTIONS; PERMIT EXCEPTIONS; SIGN DISTRICTS; AND MEASUREMENTS"
+  },
+  "content": {
+    "title": "6-1-2-5. Measurements.",
+    "summary": "A.\tSign Clearance. Sign clearance is the distance between the bottom of a sign face or structural element that is not affixed to the ground and the nearest point on the ground-level surface under it.\nB.\tSign Height.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-2-5. Measurements.",
+        "a": "A.\tSign Clearance. Sign clearance is the distance between the bottom of a sign face or structural element that is not affixed to the ground and the nearest point on the ground-level surface under it.\nB.\tSign Height. Sign height is the vertical distance to the top of the sign face or sign structure, whichever is higher, measured from the elevation of the average grade in the area within the required landscape area around the base of the sign. If said average grade is more than two feet lower than the average grade of the nearest abutting street (if two streets are equidistant, the higher of the two), then the height of the detached sign shall be measured from the elevation of said street to the top of the higher of the sign face or sign structure.\nC.\tSign Area.\n  1.\tThe sign area is the area within a continuous polygon with up to eight straight sides that completely encloses the limits of text and graphics of a sign, together with any frame or other material or color forming an integral part of the display or used to differentiate the sign's contents from the background against which they are placed.\n  2.\tThe sign area does not include the structure upon which the sign is placed (unless the structure is an integral part of the display or used to differentiate it), but does include any open space contained within the outer limits of the display face, or between any component, panel, strip, or figure of any kind composing the display face, whether this open space is enclosed by a frame or border or not, except that wall signs that are separated by a distance of more than three (3) feet shall be considered separate signs.\n  3.\tFree-standing and projecting signs may have multiple faces or contain three-dimensional objects. The area of such signs is measured using the vertical cross-section that represents the sign's maximum projection upon a vertical plane.\nD.\tProperty Frontage.\n  1.\tProperty frontage is measured as the length of each property boundary that abuts a street right-of-way. For the purposes of this measurement, street right-of-way includes public streets, private streets, and access easements.\n  2.\tThe measurement of property frontage may be combined across abutting properties if the owner of each of the affected properties executes an agreement in a form acceptable to the City that:\n    a.\tAggregates the properties for the purposes of the application and enforcement of this Section as to signage that is permitted or sized based on measurements of property frontage;\n    b.\tEither provides a limited power of attorney to one of the property owners for the purposes of making application for signage, or sets out which property owners must approve of sign applications; and\n    c.\tProhibits the termination of the agreement without the approval of the Director, which shall be withheld if such termination would result in noncompliance with this Section with respect to any affected property."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-2-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "police",
+      "pension",
+      "board",
+      "calendar",
+      "aspx",
+      "meeting",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/260/Police-Pension-Board"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-414",
+    "spreadsheet_id": "MI-414",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Police Pension Board",
+    "summary": "The City of Arvada Police Pension Board oversees the management of the police retirement system and meets quarterly on the second Thursday of February, May, August, and November at 3:30 pm. The board consists of eight members serving four-year terms, and recruitment for vacancies will begin in December for those interested in joining.",
+    "body": "## Overview\n\nThe City of Arvada Police Pension Board is responsible for overseeing the general administration and management of the police retirement system.\n\n## Meeting Information\n\n- 3:30 pm\n- 2nd Thursday of the second month of each quarter\n\n### [Upcoming Meetings and Agendas](/calendar.aspx?CID=33)\n\n1. #### Thu, Aug. 13\n\n   **[Police Pension Board Meeting](/Calendar.aspx?EID=3479)**\n\n1. #### Thu, Nov. 12\n\n   **[Police Pension Board Meeting](/Calendar.aspx?EID=3482)**\n\n[View All](/calendar.aspx?CID=33)\n\n/Calendar.aspx\n\n## Board Details\n\n- 8 members\n- 4 yr terms\n- Volunteer appointment\n- Must be registered to vote in Arvada\n\n## Interested in Joining the Arvada Police Pension Board?\n\nRecruitment to fill vacancies on boards and commissions will begin in December. You can review the application process on the main [Boards, Commissions and Committees page](/248/Boards-Commissions-and-Committees).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

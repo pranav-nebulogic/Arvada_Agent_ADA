@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "floodplain",
+      "risk",
+      "floodplains",
+      "along",
+      "already",
+      "appid",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/697/Floodplain-Risk"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-011",
+    "spreadsheet_id": "RW-011",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Floodplain Risk",
+    "summary": "Many homes in Arvada's floodplain were built before the floodplain regulations were established in 1974, particularly in neighborhoods along Ralston Creek. Property owners can check if their property is in a floodplain using the Interactive Floodplain Map and are encouraged to consider flood insurance due to the potential for significant damage from even a small amount of water. The Engineering Division offers assistance for assessing flooding risks and can provide site visits for property owners.",
+    "body": "## Know Your Risk\n\nMost homes located in Arvada's floodplain were constructed before the floodplains officially existed. Arvada's floodplains took effect in 1974 and most of the neighborhoods along the creeks; including Ralston Creek, were already built.\n\n![](/ImageRepository/Document?documentId=3066)\n\n### Is my property in a floodplain?\n\nCheck the [Interactive Floodplain Map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=6dea6f00d3f14106b3c8350de9b38a78) or contact the Engineering Division by [email](/cdn-cgi/l/email-protection#284d464f41464d4d5a41464f584d5a45415c5b68495a5e494c4906475a4f) or at 720-898-7640.\n\n![](/ImageRepository/Document?documentId=3066)\n\n### Do I need flood insurance?\n\nJust a few inches of water can cause tens of thousands of dollars in property damage. Visit the [flood insurance page](/698).\n\n## Need Assistance?\n\nEngineering staff can meet with property owners to assess your flooding risk. If available, historic flooding and location-specific information will be provided. Site visits can assess flooding, drainage, and sewer problems and answer any related questions. Contact the Engineering Division by [email](/cdn-cgi/l/email-protection#e98c878e80878c8c9b80878e998c9b84809d9aa9889b9f888d88c7869b8e) or at 720-898-7640.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

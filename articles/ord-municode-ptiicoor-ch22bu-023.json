@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definition",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-111"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-111. - Definition.",
+    "summary": "The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nCommunity antenna television system\nas used in this article means any facility wh…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-111. - Definition.",
+        "a": "The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nCommunity antenna television system\nas used in this article means any facility which receives directly over the air and\n               amplifies or otherwise modifies the signals transmitting programs broadcast by one\n               or more television stations and distributes such signals by wire or cable to subscribing\n               members of the public who pay for such service, but such term shall not include any\n               facility which services only the residents of one or more apartment dwellings or office\n               buildings under common ownership, control or management.\n(Code 1960, § 7A-1(b); Code 1981, § 9-1)\nCross reference—\nDefinitions,\n§ 1-2\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-111"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

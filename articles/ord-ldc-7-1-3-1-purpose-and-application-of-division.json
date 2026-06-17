@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "application",
+      "division",
+      "ensure",
+      "wcfs",
+      "designed",
+      "located",
+      "minimize",
+      "impact",
+      "surrounding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-3-1"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-3. GENERALLY APPLICABLE DESIGN STANDARDS"
+  },
+  "content": {
+    "title": "7-1-3-1. Purpose and application of division.",
+    "summary": "A.\tPurpose. The purpose of this Division is to ensure that WCFs are designed and located to minimize the impact on the surrounding neighborhood, and to maintain the character and appearance of the City, consistent with other provisions of this Code.\nB.\tApplication.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-3-1. Purpose and application of division.",
+        "a": "A.\tPurpose. The purpose of this Division is to ensure that WCFs are designed and located to minimize the impact on the surrounding neighborhood, and to maintain the character and appearance of the City, consistent with other provisions of this Code.\nB.\tApplication. The requirements set forth in this Division shall apply to the location and design of all WCFs governed by this Article as specified herein; provided, however, that the City may waive these requirements if it determines that the goals of this Division are better served thereby. Such determination shall be in writing, identify the relevant goals, and specify how such goals are better served by a waiver."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

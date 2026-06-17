@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "number",
+      "jurors",
+      "effect",
+      "acquittal",
+      "jury",
+      "shall",
+      "consist"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-42"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-42. - Number of jurors; effect of acquittal.",
+    "summary": "The jury shall consist of three jurors unless a greater number, not to exceed six,\n               is requested by the defendant in said jury demand. If the charge is dismissed or the\n               defendant is acquitted of the charge in the municipal court, or if the defendant,\n               havin…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-42. - Number of jurors; effect of acquittal.",
+        "a": "The jury shall consist of three jurors unless a greater number, not to exceed six,\n               is requested by the defendant in said jury demand. If the charge is dismissed or the\n               defendant is acquitted of the charge in the municipal court, or if the defendant,\n               having paid the jury fee, files with the court, at least ten days prior to the scheduled\n               trial date a written waiver of jury trial, the jury fee shall be refunded.\n(Code 1960, § 1-10; Code 1981, § 18-30)\nState Law reference—\nSimilar provisions, C.R.S. § 16-10-109."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-42"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

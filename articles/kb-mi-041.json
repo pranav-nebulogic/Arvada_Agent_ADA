@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "allowed",
+      "conditional",
+      "principal",
+      "uses",
+      "district",
+      "land",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/174/Allowed-Conditional-Principal-Uses"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-041",
+    "spreadsheet_id": "MI-041",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Allowed & Conditional Principal Uses",
+    "summary": "The Arvada Land Development Code (LDC) outlines land-use regulations within various zoning districts, categorizing uses as Allowed (A), Limited Use (L), Conditional Use (C), or prohibited (blank cell). Allowed uses are permitted as-of-right if they comply with LDC regulations, while Limited and Conditional Uses require adherence to specific standards and, in the case of Conditional Uses, a public hearing. For the most accurate and current information, the official source is Municode.",
+    "body": "The [Arvada Land Development Code (LDC)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO)establishes land-uses that are permitted \"as-of-right,\" permitted if certain conditions are met, permitted after a public hearing if certain conditions are met, and not allowed in each zoning district. Within the LDC, Land Use by Zoning District, is a table organized by zoning district and uses with four different identification types within each cell that indicates whether or not the use is allowed in a zone district. Those being:\n\n- **Allowed (A):** The use is allowed \"as-of-right\" provided that all other regulations within the LDC are met to accommodate the use on the property.\n- **Limited Use (L):** The use is allowed provided that specific standards related to that use are met. These standards can be found in the code section included under the reference column of the table in the LDC.\n- **Conditional Use (C):** The use **may** be allowed provided that compliance with specific standards that pertain to that use are met and that a public hearing review in front of the Planning Commission and City Council have occurred.\n- **Blank Cell**: The use is prohibited in the zoning district.\n\nFor ease in determining whether or not a use is allowed in a specific zoning district, please use the links in the navigation.\n\nFor the most up-to-date version of the City of Arvada Land Development Code, please explore [Municode](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO).\n\nInformation contained within this section of the City website is provided for informational purposes only. Municode is, and should be considered, the official and most accurate source of information related to Land Development Code.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

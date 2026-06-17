@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "accessory",
+      "buildings",
+      "generally",
+      "storage",
+      "sheds",
+      "studios",
+      "cabanas",
+      "stables",
+      "loafing",
+      "barns"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-5-3"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-5. SUPPLEMENT STANDARDS FOR RESIDENTIAL LAND USES (EXCEPT MULTIFAMILY)"
+  },
+  "content": {
+    "title": "5-1-5-3. Accessory buildings.",
+    "summary": "A.\tGenerally.\n  1.\tAccessory buildings, such as storage sheds, studios, cabanas, stables, loafing sheds, barns, and detached garages requiring a building permit shall comply with the standards of this Section.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-5-3. Accessory buildings.",
+        "a": "A.\tGenerally.\n  1.\tAccessory buildings, such as storage sheds, studios, cabanas, stables, loafing sheds, barns, and detached garages requiring a building permit shall comply with the standards of this Section. Accessory dwelling units are subject to Section 5-1-5-2, Accessory Dwelling Units, and not this Section. Accessory structures, such as pergolas, gazebos, and other open roof structures, are subject to Section 5-1-5-1, General Limitations, and not this Section.\n  2.\tStables, loafing sheds, and barns are allowed only in RA and RN-32.5 zoning districts.\n  3.\tExcept for barns and stables, each Accessory Building shall have a square footage area that is less than the footprint of the living area, excluding attached garage square footage, of the principal dwelling unit.\nB.\tNumber. The maximum number of Accessory Buildings that may be constructed or installed upon a residential lot is based on the zoning district and lot size, and shall be as set forth in Table 5-1-5-3A, Maximum Number of Accessory Buildings.\nC.\tBuilding Coverage. Accessory Buildings are counted towards the combined square footage of the principal building footprint and accessory structure(s) and shall not exceed the zoning district maximum lot coverage limitations.\nD.\tHeight. Accessory Buildings shall not exceed the maximum height for accessory buildings identified in the zoning districts in Chapter 2, Zoning Districts.\nE.\tLocation.\n  1.\tAll Zoning Districts except RA. Accessory Buildings shall be:\n    a.\tLocated within the setbacks identified in the zoning districts. (See Chapter 2, Zoning Districts); and\n    b.\tSet back at or behind the front plane as the nearest front façade of the principal building.\n  2.\tRA Zoning District. Accessory Buildings may be located in any yard, and must meet the required setbacks.\n  3.\tProhibited in Front and Side Yards. Accessory buildings shall not be in the front or side yards.\nF.\tDesign. The design of accessory buildings shall be aesthetically consistent with the design of the principal building. See Section 5-1-2-2, Evaluation of Aesthetic Consistency, for applicable standards.\n(Ord. No. 4793, § 4, 3-21-2022; Ord. No. 4905, §§ 64—66, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-5-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

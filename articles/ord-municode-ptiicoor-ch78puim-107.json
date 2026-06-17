@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "division",
+      "tract",
+      "case",
+      "districts",
+      "initial",
+      "action",
+      "council"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-108"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-108. - Division of tract.",
+    "summary": "(a)\nIn the case of districts where the initial action by the council, pursuant to\nsections 78-9\n—\n78-15\nor\nsections 78-16\n—\n78-18\nof this local improvements article, as amended, was taken on or before February 26,\n               1980: Should any tract be divided after a special assessment thereon ha…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-108. - Division of tract.",
+        "a": "(a)\nIn the case of districts where the initial action by the council, pursuant to\nsections 78-9\n—\n78-15\nor\nsections 78-16\n—\n78-18\nof this local improvements article, as amended, was taken on or before February 26,\n               1980: Should any tract be divided after a special assessment thereon has been levied\n               and divided into installments and before the collection of all the installments, the\n               council may require the county assessor to apportion the uncollected amounts upon\n               the several parts of land so divided according to the proportions thereof based upon\n               their assessed valuations for taxes. The report of such apportionment, when approved,\n               shall be conclusive on all the parties, and all assessments thereafter made upon such\n               tracts shall be according to such subdivision.\n(b)\nIn the case of districts where the initial council action, pursuant to\nsections 78-9\n—\n78-15\nor\nsections 78-16\n—\n78-18\nof this local improvements article, as amended, is taken after February 26, 1980:\n               Should any tract be divided, upon sale of a part thereof or by formal subdivision,\n               or otherwise, after a special assessment thereon has been levied and made payable\n               in installments and before the collection of all the installments, the unpaid special\n               assessment and lien therefor shall thereupon become divided ratably according to area,\n               without further action by the city or county; but this section shall not have application\n               if at the time of such tract division there are outstanding bonds payable from special\n               assessments levied or to be levied against such tract and if such bonds shall have\n               been issued pursuant to an ordinance, authorizing the issuance of a series of bonds\n               hereunder, which provides that there shall be no division of special assessments pledged\n               thereto, or special assessment liens therefor, so long as such bonds are outstanding.\n(Code 1981, § 27-109; Ord. No. 551, § 49, 5-14-1964; Ord. No. 1643, § 8, 2-18-1980)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-108"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "severability",
+      "court",
+      "competent",
+      "jurisdiction",
+      "declares",
+      "section",
+      "subsection",
+      "provision",
+      "land",
+      "development"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-6-3"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-6. EFFECTIVE DATE, TRANSITIONAL PROVISIONS, AND SEVERABILITY"
+  },
+  "content": {
+    "title": "1-1-6-3. Severability.",
+    "summary": "A.\tIf any court of competent jurisdiction declares that any section, Subsection, or provision of this Land Development Code is invalid, such judgment shall not affect the validity of the remaining provisions of this Code.\nB.\tIf any court of competent jurisdiction invalidates the application of any p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-6-3. Severability.",
+        "a": "A.\tIf any court of competent jurisdiction declares that any section, Subsection, or provision of this Land Development Code is invalid, such judgment shall not affect the validity of the remaining provisions of this Code.\nB.\tIf any court of competent jurisdiction invalidates the application of any provision of this Code to a development, such judgment shall not affect the application of that provision to any other development not specifically included in the judgment.\nC.\tIf any court of competent jurisdiction invalidates any condition attached to a development approval granted under this Code, such judgment shall not affect the validity of any other condition attached to the approval that is not specifically included in the judgment."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-6-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

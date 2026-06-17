@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "public",
+      "safety",
+      "permittee",
+      "shall",
+      "maintain",
+      "safe",
+      "work"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-301"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-301. - Public safety.",
+    "summary": "The permittee shall maintain a safe work area free of safety hazards. The city may\n               make any repair necessary to eliminate any safety hazards not performed as directed.\n               Any such work performed by the city shall be completed and billed to the permittee\n               at t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-301. - Public safety.",
+        "a": "The permittee shall maintain a safe work area free of safety hazards. The city may\n               make any repair necessary to eliminate any safety hazards not performed as directed.\n               Any such work performed by the city shall be completed and billed to the permittee\n               at the city's cost plus a penalty of 50 percent. The permittee shall pay all such\n               charges within 30 days of the statement date. If the permittee fails to pay such charges\n               within the prescribed time period, the city may, in addition to taking other collection\n               remedies, seek reimbursement through the warranty guarantee. The city shall not issue\n               any further permits of any kind to said permittee until all outstanding charges (except\n               those outstanding charges that are honestly and reasonably disputed by the permittee\n               and such charges are being negotiated in good faith with the city) have been paid\n               in full.\n(Code 1981, § 27-210; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-301"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "city",
+      "prerogatives",
+      "reserved",
+      "reserves",
+      "all",
+      "management",
+      "administrative"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-3"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-3. - City prerogatives reserved.",
+    "summary": "(a)\nThe city reserves all management, administrative, and executive rights to which it\n               is entitled under these rules, the Charter, and any other provision in this Code or\n               other law including, but not limited to, the following:\n(1)\nHiring, promoting, reclassifying, regra…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-3. - City prerogatives reserved.",
+        "a": "(a)\nThe city reserves all management, administrative, and executive rights to which it\n               is entitled under these rules, the Charter, and any other provision in this Code or\n               other law including, but not limited to, the following:\n(1)\nHiring, promoting, reclassifying, regrading, transferring, retiring, and assigning\n               employees of the city;\n(2)\nEvaluating employees' skills, abilities, and performance;\n(3)\nDetermining beginning and ending times for work and the number of hours to be worked\n               by an employee;\n(4)\nDetermining the location and assignment of work and the size and composition of the\n               workforce;\n(5)\nRevising, eliminating, combining, and establishing positions;\n(6)\nEstablishing, closing down, or expanding the operation of any facility, department,\n               or division;\n(7)\nReducing, increasing, altering, combining, transferring, ceasing, or otherwise curtailing\n               the operation, service, or equipment of any department or division of the city;\n(8)\nEntering into contracts for services and labor and determining the services and labor\n               to be performed by any person or entity;\n(9)\nIntroducing technological changes and new, improved, or modified services, methods,\n               techniques, and equipment and otherwise generally managing the operation and directing\n               the workforce of the city in all respects;\n(10)\nLaying off and recalling employees to work; and\n(11)\nReprimanding, suspending, demoting, dismissing, or otherwise disciplining employees\n               of the city.\n(b)\nThe city reserves the right to interpret these personnel rules and to promulgate such\n               policies and procedures as may be necessary to implement them or to assist in their\n               interpretation. Such right also includes the right to promulgate, implement, and interpret\n               policies and procedures specific to a department.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

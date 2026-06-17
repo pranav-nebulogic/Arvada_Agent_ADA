@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "hearing",
+      "procedures",
+      "generally",
+      "applications",
+      "subject",
+      "track",
+      "development",
+      "review",
+      "requirements",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-13"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-13. Hearing procedures.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-13. Hearing procedures.",
+        "a": "A.\tGenerally. All applications that are subject to Track 2, Track 3, Track 4, and Track 5, Track 6, Track 7 and Track 8 development review procedures are subject to the requirements of this Section and the applicable rules of the body conducting the hearing.\nB.\tHearing Procedures.\n  1.\tThe Planning Commission, Board of Adjustment, and City Council shall adopt rules of procedure for the conduct of public hearings.\nC.\tContinuances. Requests for continuance may be granted at the discretion of the body holding the public hearing.\nD.\tDecision or Recommendation.\n  1.\tIf the hearing is before the Planning Commission, the Planning Commission shall:\n    a.\tApply the approval criteria for review and approval as stated in the LDC when considering an application.\n    b.\tAt the conclusion of the public hearing, recommend approval of the application, approval with conditions, or deny the application.\n    c.\tIf the decision-maker is the Director, the Director shall decide the application following the Planning Commission hearing, based on the facts found by the Planning Commission.\n  2.\tIf the hearing is before the Board of Adjustment, the Board of Adjustment shall:\n    a.\tApply the approval criteria for review and approval as stated in the LDC when considering an application.\n    b.\tAt the conclusion of a public hearing, approve the application as presented, approve with conditions, or deny the application.\n  3.\tIf the hearing is before the City Council, the City Council shall:\n    a.\tApply the approval criteria for review and approval as stated in the LDC when considering an application.\n    b.\tAt the conclusion of the public hearing, approve the application as presented; approve with conditions, or deny the application. The City Council may also defer its decision to obtain additional information, or it may remand the application to the Planning Commission for further consideration."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-13"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

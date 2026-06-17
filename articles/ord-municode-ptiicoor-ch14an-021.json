@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "aggressive",
+      "animals",
+      "any",
+      "animal",
+      "exhibiting",
+      "behavior",
+      "set"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-52"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-52. - Aggressive animals.",
+    "summary": "Any animal exhibiting behavior set forth in this section is hereby declared to be\n               an aggressive animal. It shall be unlawful for any owner or custodian of an animal\n               to permit or allow said animal, without intentional provocation, to:\n(1)\nHarass a person by encroaching o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-52. - Aggressive animals.",
+        "a": "Any animal exhibiting behavior set forth in this section is hereby declared to be\n               an aggressive animal. It shall be unlawful for any owner or custodian of an animal\n               to permit or allow said animal, without intentional provocation, to:\n(1)\nHarass a person by encroaching onto public property or the property of another from\n                  a vehicle or from the owner's or custodian's yard through or over a fence; or\n(2)\nAttack or injure another animal while off the owner's or custodian's property.\n(Code 1981, § 6-31; Ord. No. 3496, § 2, 12-14-1998;\nOrd. No. 4028, § 8, 10-16-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-52"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

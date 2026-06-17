@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "landscape",
+      "maintenance",
+      "generally",
+      "plants",
+      "maintained",
+      "continually",
+      "healthy",
+      "condition",
+      "accordance",
+      "accepted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-8-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-8. LANDSCAPE MAINTENANCE AND WARRANTIES"
+  },
+  "content": {
+    "title": "4-6-8-1. Landscape maintenance.",
+    "summary": "A.\tGenerally. All plants shall be maintained continually in a healthy condition in accordance with generally accepted professional horticultural standards and practices. Plants that die or are unhealthy shall be replaced according to the approved landscape plan.\nB.\tPruning and Trimming.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-8-1. Landscape maintenance.",
+        "a": "A.\tGenerally. All plants shall be maintained continually in a healthy condition in accordance with generally accepted professional horticultural standards and practices. Plants that die or are unhealthy shall be replaced according to the approved landscape plan.\nB.\tPruning and Trimming. Regular pruning and trimming shall be performed to maintain health and an attractive appearance and to permit the plants to achieve their intended form and height.\nC.\tGroundskeeping. All landscape areas shall be kept free of weeds, litter and trash and all irrigation systems shall be properly maintained."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-8-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exemptions",
+      "following",
+      "classes",
+      "persons",
+      "establishments",
+      "exempted",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-182"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-182. - Exemptions.",
+    "summary": "The following classes of persons and establishments are exempted from this article:\n(1)\nPhysicians, osteopaths, physical therapists, chiropodists, chiropractors, or podiatrists\n                  licensed or registered to practice in this state while performing such services in\n                  the …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-182. - Exemptions.",
+        "a": "The following classes of persons and establishments are exempted from this article:\n(1)\nPhysicians, osteopaths, physical therapists, chiropodists, chiropractors, or podiatrists\n                  licensed or registered to practice in this state while performing such services in\n                  the practice of their respective professions;\n(2)\nRegistered nurses and licensed practical nurses who are licensed to practice in this\n                  state while performing such services in their usual nursing duties;\n(3)\nBarbers and cosmetologists duly licensed under the laws of this state in the course\n                  of practice of their usual and ordinary licensed vocation and profession, as defined\n                  in C.R.S. § 12-8-101 et seq.;\n(4)\nHospitals, clinics, nursing, and convalescent homes and other similar institutions\n                  dedicated to medical or nursing practices licensed under the laws of the state where\n                  massage and baths may be given;\n(5)\nMassage practiced in an institution of learning established for such instruction under\n                  C.R.S. title 12, art. 59;\n(6)\nTraining rooms of public and private schools accredited by the state board of education\n                  or approved by the state board for community colleges and occupational education,\n                  and training rooms of recognized professional or amateur athletic teams;\n(7)\nHealth care facilities licensed by the state, and not specified in this article; and\n(8)\nMassage therapists as defined in\nsection 22-163\nherein.\n(Code 1981, § 16-22; Ord. No. 3292, § 1, 10-21-1996)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-182"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

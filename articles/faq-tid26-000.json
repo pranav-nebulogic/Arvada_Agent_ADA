@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-26-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "lost",
+      "ticket",
+      "get",
+      "information",
+      "phone",
+      "email",
+      "regarding",
+      "juveniles",
+      "Municipal Court - Ticket Information - Teens"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=26"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/i-lost-my-ticket-can-i-get-information-by-phone-or-email",
+    "faq_category_name": "Municipal Court - Ticket Information - Teens"
+  },
+  "content": {
+    "title": "I lost my ticket! Can I get information by phone or email?",
+    "summary": "No. Information regarding juveniles cannot be provided by phone or email. You must appear in person to get information.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "I lost my ticket! Can I get information by phone or email?",
+        "a": "No. Information regarding juveniles cannot be provided by phone or email. You must appear in person to get information."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

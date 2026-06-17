@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "construction",
+      "sales",
+      "trailers",
+      "building",
+      "code",
+      "temporary",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/340/Construction-Sales-Trailers"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-163",
+    "spreadsheet_id": "MI-163",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Construction & Sales Trailers",
+    "summary": "Construction trailers for temporary use during site construction are permitted under specific zoning regulations, requiring a building permit and adherence to setback requirements. Applications must be submitted online with necessary documents in PDF format, and the review process typically takes about 10 business days. Temporary use approvals expire 30 days after construction completion or after 60 days of inactivity, and a flat fee of $200 is required for the permit.",
+    "body": "The use of construction trailers in connection with site construction, or an area used for the temporary storage of building materials and equipment necessary for construction of a permanent use, is allowed as provided in[Section 3-1-4-2](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=COARCO_CH3USRE_ART3-1PRLAUSRE_DIV3-1-4TEUS_3-1-4-2TEUSZODI), Temporary Uses by Zoning District of the Land Development Code. Additionally a building permit is required.\n\n## Application\n\nAll applications can be completed online at the [Arvada Permits Site](http://www.arvadapermits.org/). Please login with your contractor's license to apply. You will use the COMMMISC permit type to apply for this permit. Utilize the [SMART License & Permits Application](https://aca-prod.accela.com/ARVADA \"SMART License & Permits Application\").\n\n## Setback Requirements\n\nA temporary construction trailer, or a temporary construction yard, shall be located on the subject property on which construction is progressing, and shall not be located within 25 feet of any adjoining residential lot that is not part of the subject property with ten feet of clearance on all sides.\n\n## Submittal Documents\n\nAll documents must be in a PDF format, unlocked and unprotected so that corrections may be identified by reviewers. Any submittal containing a file that is locked or protected will be considered incomplete and must be resubmitted.\n\n- Floor plans labeling the room uses drawn to scale/with dimensions.\n- If the trailer is a factory-built, pre-manufactured non-residential structure, it must be approved by the State of Colorado Division of Housing. Plans stamped by the state of Colorado DOH are required in this situation and the structure itself is required to have a blue Colorado Certification Insignia on the exterior front of each section.\n- A support and anchorage plan, stamped by a Colorado registered engineer, showing how the building or trailer will be supported and tied down and demonstrating that such techniques will meet the minimum requirements for wind speed and exposure category.\n- Plot plan showing the location of the building or trailer on the property and its setbacks measured to property lines, easements, existing dwellings, and rivers/creeks. Fire separation requirements and dimensions measured from the face of the structure on all sides to the property line, middle of a public way, or middle of a street or alley shall be provided as well.\n\n## Review Timeline\n\nOnce all required documents have been submitted, a review request will be sent for review. The review will be an estimated 10 business days from the date of acceptance. Please plan accordingly and ensure you are providing all required documents to avoid any potential delays.\n\n## Expiration of Temporary Use Approval\n\nThe term of a temporary use approval for construction uses shall automatically expire 30 days after completion of construction, or upon cessation of construction for more than 60 days, or one year after issuance, whichever occurs first. If construction is interrupted and ceases for more than 60 days, excluding weather delays, a construction trailer shall be removed until actual construction commences again. The building permit will be closed upon approval of final inspection.\n\n## Licensing Requirements\n\nArvada Builders Unlimited 1A, Builders Unlimited 2B or Builders Miscellaneous 3B. All subcontractors must be licensed and listed on the permit. Any electrical, plumbing or mechanical work may require additional licensing.\n\n## Fees\n\nFlat fee of $200\n\n## Inspections\n\n- Electrical Service/CL\n- Final Structural\n- Final Electrical\n- Final Plumbing (If applicable)\n- Final HVAC (If applicable)\n\nThis does not apply to office trailers and buildings being set up on a long-term basis, such as to provide modular office space outside of a building. These are considered permanent structures and must meet all planning, building, health, fire department, accessibility, and electrical requirements.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

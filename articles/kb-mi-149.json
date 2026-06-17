@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "cold",
+      "weather",
+      "shelter",
+      "county",
+      "jefferson",
+      "lower",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1404/Cold-weather-shelter"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-149",
+    "spreadsheet_id": "MI-149",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Cold weather shelter in Arvada",
+    "summary": "The City of Arvada, in collaboration with Jefferson County and other municipalities, is providing temporary cold weather vouchers for shelter during severe cold weather events from October 1, 2025, to April 30, 2026. Individuals can sign up for these limited vouchers at the City of Arvada One Small Step court on Tuesday afternoons, but must have a roommate and register before cold weather occurs, as there is no guarantee of shelter availability. Additionally, local churches are partnering to provide food during these events, and residents can subscribe to notifications for cold weather alerts through Jefferson County's website.",
+    "body": "The City of Arvada, in coordination with Jefferson County and six other cities in the county, is offering temporary cold weather vouchers for individuals in need of shelter and services during severe cold weather events **between Oct. 1, 2025 and April 30, 2026**. A severe cold weather event is declared by Jefferson County when the temperature is **32°F or lower with accumulation of snow greater than one inch, or 20°F or lower with or without snow**.\n\n## How to receive cold weather sheltering\n\nWhile there is no emergency congregate shelter in Jefferson County, there are other options for those in need. The City of Arvada has 50 vouchers for temporary shelter during cold weather.\n\nYou can sign up at **City of Arvada One Small Step (OSS) court on Tuesday afternoons**.\n\n- Signups are available from 1-3 p.m. each Tuesday during cold weather season.\n- You will also need a roommate to sign up for this option, and you must sign up prior to cold weather occurring.\n- Partners who receive vouchers will be notified ahead of time. Vouchers are selected according to Jefferson County's selection criteria.\n\nWith a limited number of vouchers and no congregate shelter available, there is no guarantee that you will have a place to stay during cold weather in Jefferson County or Arvada. **It is best to have a plan to find congregate shelter outside of Jefferson County or find friends or family you can stay with during cold weather** as not everyone will be selected to receive a hotel voucher and this is intended to be used as a last resort.\n\n## Be notified of cold weather events\n\nTo know when cold weather services are activated in Jefferson County and where you can go for help, please visit [Jefferson County's Notify Me page](https://www.jeffco.us/list.aspx?Mode=Subscribe#alertCenter) and subscribe to the specific list titled \"Heading Home Severe Weather Alerts\" under the alert category.\n\n## Lend a hand\n\nThe City is partnering with local churches who have signed up to provide food during cold weather events. If you are interested in helping this effort by making food, reach out to Hudson Janz at [[email protected]](/cdn-cgi/l/email-protection#e1898b808f9ba1809397808580cf8e9386) or Alexandra Williams at [[email protected]](/cdn-cgi/l/email-protection#4829243f2124242129253b08293a3e292c2966273a2f) to be put in touch with a local church.\n\n[![Colorado Gives Foundation](/ImageRepository/Document?documentId=6492)Donate through Colorado Gives](https://www.coloradogives.org/story/Arvadahomelessnavigation)\n\n[![](/ImageRepository/Document?documentId=6494)Provide supplies through our Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/LBK0XZ9TTFTB?type=wishlist&ref=cm_wl_list_create&relatedRequestID=1JYVC73Z46Z4W6V0QDCT)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

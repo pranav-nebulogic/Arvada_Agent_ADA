@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "pigs",
+      "hereby",
+      "declared",
+      "nuisance",
+      "shall",
+      "unlawful",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-93"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-93. - Pigs.",
+    "summary": "(a)\nIt is hereby declared to be a nuisance and shall be unlawful for any person to keep,\n               pasture, house, or maintain in the city any hogs, pigs, or swine, except pot-bellied\n               pigs as set forth below.\n(b)\nIt shall be unlawful for any person to keep, pasture, house, mainta…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-93. - Pigs.",
+        "a": "(a)\nIt is hereby declared to be a nuisance and shall be unlawful for any person to keep,\n               pasture, house, or maintain in the city any hogs, pigs, or swine, except pot-bellied\n               pigs as set forth below.\n(b)\nIt shall be unlawful for any person to keep, pasture, house, maintain, or harbor a\n               pot-bellied pig within the city unless the owner or custodian registers said pot-bellied\n               pig with the animal management office within 14 days of acquiring said pig and complies\n               with the following requirements:\n(1)\nMale pot-bellied pigs must be castrated prior to the age of four months and female\n               pot-bellied pigs must be spayed prior to the age of four months.\n(2)\nPot-bellied pigs must wear an identification tag at all times and be tattooed prior\n               to the age of four months.\n(3)\nNotice of completion of the requirements of subsections (1) and (2) of this section\n               must be on file with the animal management office as a requirement of registration.\n(4)\nAll pot-bellied pigs must wear a harness except when inside the owner's or custodian's\n               home or dwelling.\n(c)\nIt is hereby declared to be a nuisance, and it shall be unlawful for any person to\n               keep, pasture, or maintain in the city any pot-bellied pig weighing more than 70 pounds.\n(Code 1981, § 6-48; Ord. No. 3496, § 2, 12-14-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-93"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

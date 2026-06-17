@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "officers",
+      "chair",
+      "board",
+      "shall",
+      "elect",
+      "members",
+      "secretary"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-73"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-73. - Officers.",
+    "summary": "(a)\nChair.\nThe board shall elect from its members a chair of the board.\n(b)\nSecretary.\nThe board shall elect from its members a secretary to the board.\n(c)\nTreasurer.\nThe finance director shall be ex officio treasurer of the board and the administrative\n               officer of the retirement syste…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-73. - Officers.",
+        "a": "(a)\nChair.\nThe board shall elect from its members a chair of the board.\n(b)\nSecretary.\nThe board shall elect from its members a secretary to the board.\n(c)\nTreasurer.\nThe finance director shall be ex officio treasurer of the board and the administrative\n               officer of the retirement system. Nothing contained in this chapter shall prevent\n               the treasurer from serving as secretary of the board. The treasurer shall be bonded\n               in an amount to be determined by the board. The cost of the bond shall be paid from\n               the police pension fund; provided, however, if the bond of the treasurer required\n               by the city is sufficient to meet the board's requirements, no additional bond shall\n               be required of the treasurer.\n(d)\nLegal adviser.\nThe city attorney shall be legal adviser to the board.\n(e)\nTerms.\nThe terms of the respective officers specified in this section shall be as determined\n               by the rules and regulations established by the board.\n(Code 1960, § 19-2(G); Code 1981, § 26-29)\nCharter reference—\nDuties of city attorney, § 8.1.\nState Law reference—\nSimilar provisions as to statutory system, C.R.S. § 31-30-618."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-73"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

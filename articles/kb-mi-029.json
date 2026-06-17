@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "activities",
+      "categories",
+      "complex",
+      "date",
+      "search",
+      "sports",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Activities"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-029",
+    "spreadsheet_id": "MI-029",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Activities",
+    "summary": "No activities are currently available for online registration in the selected categories and locations. Users can search for activities by entering specific terms, selecting date ranges, age limits, and preferred days of the week.",
+    "body": "### Search Activities by:\n\nEnter Search Terms\n\n[Select Categories](#)\n\nSelect category/categories to filter\n\n1. All Categories\n\nSearch\n\nDate and Time Range\n\nStart Date\n\nEnd Date\n\nStart Time\n\nEnd Time\n\nMinimum Age\n\nMaximum Age\n\nDays of the Week\n\nM\nTu\nW\nTh\nF\nSa\nSu\n\nLocation\nAll\nFoster Fields\nHarold D. Lutz Sports Complex\nLong Lake Regional Park\nMajestic View Nature Center \nPioneer Park\nStenger Sports Complex\nYouth Memorial Sports Complex\n\nOnly Include Sessions Available for Online Registration\n\n[More Options](#)\n\nNo activities available.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

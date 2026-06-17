@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "collection",
+      "tax",
+      "every",
+      "vendor",
+      "making",
+      "sales",
+      "purchaser"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-246"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-246. - Collection of tax.",
+    "summary": "(a)\nEvery vendor making sales to a purchaser in the city that are taxable under the provisions\n               of this article is required to collect the tax imposed by\nsection 98-244\n(a) from the purchaser at the time of making such sales.\n(b)\nThe tax to be collected as provided in subsection (a) of…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-246. - Collection of tax.",
+        "a": "(a)\nEvery vendor making sales to a purchaser in the city that are taxable under the provisions\n               of this article is required to collect the tax imposed by\nsection 98-244\n(a) from the purchaser at the time of making such sales.\n(b)\nThe tax to be collected as provided in subsection (a) of this section shall be stated\n               and charged separately from the sale price on any record thereof at the time when\n               the sale is made or at the time when evidence of the sale is issued or employed by\n               the vendor; provided, however, that when added, such tax shall constitute a part of\n               such sale price or charge and shall be a debt from the purchaser to the vendor until\n               paid and shall be recoverable at law in the same manner as other debts. The tax shall\n               be paid by the purchaser to the vendor, who shall act as trustee for and on account\n               of the city, and the vendor shall be liable for the collection therefore and on account\n               of the city.\n(c)\nTaxes paid on the amount of gross sales that are represented by accounts that are\n               found to be worthless and are actually and properly charged off as bad debts for the\n               purpose of the income tax imposed by the laws of the state may be credited upon a\n               subsequent payment of the tax as herein provided. Should, however, any such amounts\n               be thereafter collected by the vendor, the tax shall be paid to the city upon the\n               amount so collected.\n(Code 1981, § 31-106; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-246"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "order",
+      "hereby",
+      "amended",
+      "read",
+      "follows",
+      "whenever"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-41"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-41. - I.F.C. Section 112.1, Order.",
+    "summary": "Section 112.1. Order\n, is hereby amended to read as follows:\n\"112.1. Order.\nWhenever the fire code official finds any work regulated by the Code is being performed\n                  in a manner contrary to the provisions of this code or in a dangerous or unsafe manner,\n                  the fire cod…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-41. - I.F.C. Section 112.1, Order.",
+        "a": "Section 112.1. Order\n, is hereby amended to read as follows:\n\"112.1. Order.\nWhenever the fire code official finds any work regulated by the Code is being performed\n                  in a manner contrary to the provisions of this code or in a dangerous or unsafe manner,\n                  the fire code official, with the concurrence of the building official, is authorized\n                  to issue a stop work order.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-41"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "simultaneous",
+      "processing",
+      "applications",
+      "generally",
+      "director",
+      "approve",
+      "discretion",
+      "applicant",
+      "request",
+      "otherwise"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-6"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-6. Simultaneous processing of applications.",
+    "summary": "A.\tGenerally. The Director may approve, at the Director's discretion, an Applicant's request for the simultaneous processing of otherwise sequential applications for development approval in order to shorten the total review and processing time.\nB.\tApplicant to Assume All Risk and Cost of Delay.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-6. Simultaneous processing of applications.",
+        "a": "A.\tGenerally. The Director may approve, at the Director's discretion, an Applicant's request for the simultaneous processing of otherwise sequential applications for development approval in order to shorten the total review and processing time.\nB.\tApplicant to Assume All Risk and Cost of Delay. The Applicant bears all risk that:\n  1.\tIf the application that normally is considered first is denied, the other associated application(s) will become moot; and\n  2.\tIf the application that normally is considered first is either modified during the approval process or approved with conditions, then the application that is normally considered following the first application may have to be modified in order to conform to the resulting requirements. Such situations may create processing delays and increased costs to the Applicant.\nC.\tEffect on Timing. Where a proposed development requires more than one type of development approval required by this LDC, all of the applications can be processed simultaneously, but none of the required approvals shall be considered final until the last of the related approvals has been approved."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

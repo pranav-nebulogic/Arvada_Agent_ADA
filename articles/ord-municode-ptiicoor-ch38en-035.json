@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "payment",
+      "assessment",
+      "upon",
+      "first",
+      "violation",
+      "same",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-213"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-213. - Payment of assessment.",
+    "summary": "(a)\nUpon the first violation by the same person within the same calendar year, if the\n               weeds are not cut to a height less than 12 inches or noxious weeds removed by the\n               owner or the occupant within the seven calendar days specified in the notice, the\n               city …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-213. - Payment of assessment.",
+        "a": "(a)\nUpon the first violation by the same person within the same calendar year, if the\n               weeds are not cut to a height less than 12 inches or noxious weeds removed by the\n               owner or the occupant within the seven calendar days specified in the notice, the\n               city may cut the weeds or cut or remove the noxious weeds and assess the whole cost\n               thereof, including five percent for inspection and incidental costs, upon the lots\n               or tracts of land from which the plants are controlled or removed. Any code compliance\n               administration service fees are due in addition to the assessment set forth in this\n               section.\n(b)\nUpon any subsequent violation by the same person within the same calendar year, the\n               city may cut the weeds or may remove the noxious weeds and assess the whole cost thereof,\n               including five percent for inspection and incidental costs, upon the lots or tracts\n               of land from which the weeds are cut or the noxious weeds are cut or removed without\n               any further notice. Any code compliance administration service fees are due in addition\n               to the assessment set forth in this section.\n(c)\nThe city shall send a statement of costs to the owner of record by first class mail.\n               The amount of the costs in the statement is due and payable by the owner of record\n               to the city within 30 calendar days from the date of the statement. If the amount\n               is not paid by the date due, interest on any unpaid balance due to the city shall\n               accrue at the legal rate specified in C.R.S. § 5-12-101, as amended.\n(d)\nThe city clerk is authorized to record a statement of lien with the clerk and recorder\n               for the county in which the lot or tract of land is located if the assessment is not\n               paid by the owner within 30 calendar days from the date of the statement.\n(Ord. No. 4095, § 4, 11-19-2007)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-213"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

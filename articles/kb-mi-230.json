@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "food",
+      "sales",
+      "code",
+      "paid",
+      "purchase",
+      "sold",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/336/Food"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-230",
+    "spreadsheet_id": "MI-230",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Food",
+    "summary": "Arvada imposes a sales tax on the purchase of tangible personal property, including food, with no exemptions for food sold for home consumption. While certain sales to governments and charitable organizations are exempt, food purchased with federal food stamps or WIC funds is also exempt. Water is only tax-exempt when sold by the city's water utility, and all food and water sold through vending machines are subject to sales tax, which vendors can include in the item price.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property sold at retail in the City. To the extent that a sufficient, legally‐imposed sales and use tax was not paid at the time of purchase to the City or another municipality, Arvada uses tax is due. While some taxing jurisdictions provide an exemption for certain food sales, such as food sold for home consumption, the Arvada Municipal Code provides no such exemption. Candy and soda continue to be subject to Arvada tax as they were prior to changes in state statute.\n\nQualifying wholesales or sales to governments and certified charitable organizations are exempted similar to other sales of tangible personal property and taxable services. In addition to the exemptions provided for sales of other taxable items, food, and certain meals are exempt from tax when purchased from qualifying retailers with Federal food stamps or funds provided by the supplemental food program for women, infants, and children (the WI.C. program).\n\nWater is exempt from tax only when sold by the City's water utility. This exemption does not extend, for example, to bottled water or ice sold by retailers including those providing such via home or business delivery.\n\nFood and water sold through vending machines or other coin-operated devices are subject to sales tax; however, the vendor is permitted to include the tax in the price of the items sold. All other vendors must add the tax to the price showing it as a separate and distinct item.\n\nPurchases of food that do not include a sufficient, legally‐imposed sales tax are subject to use tax and should be reported on the Arvada sales and use tax return. Meals given away without charge are also subject to use tax. There is no special sale or use tax rate for food, meals, or water.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

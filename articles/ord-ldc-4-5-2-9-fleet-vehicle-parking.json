@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "fleet",
+      "vehicle",
+      "parking",
+      "generally",
+      "maximum",
+      "number",
+      "spaces",
+      "allowed",
+      "vehicles",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-2-9"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-2. PARKING AND LOADING CALCULATIONS"
+  },
+  "content": {
+    "title": "4-5-2-9. Fleet vehicle parking.",
+    "summary": "A.\tGenerally. The maximum number of parking spaces allowed for fleet vehicles shall be as set out in this Section. Spaces used for fleet vehicles are in addition to the minimum parking requirements.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-2-9. Fleet vehicle parking.",
+        "a": "A.\tGenerally. The maximum number of parking spaces allowed for fleet vehicles shall be as set out in this Section. Spaces used for fleet vehicles are in addition to the minimum parking requirements. Uses requiring fewer than 25 fleet parking spaces shall be exempt.\nB.\tMaximum Number of Fleet Vehicle Parking Spaces. The calculation to determine the maximum number of fleet vehicle parking spaces in the allowed zoning districts is as follows:\n  1.\tIn the CG zoning district, the maximum number shall be no more than 50 percent of the minimum required parking spaces, as identified in Section 4-5-2-1, Calculation of Required Parking Spaces.\n  2.\tIn the IL zoning district, the maximum number shall be no more than 100 percent of the minimum required parking spaces, as identified in Section 4-5-2-1, Calculation of Required Parking Spaces.\n  3.\tIn the IG zoning district, the maximum number shall be no more than 200 percent of the minimum required parking spaces, as identified in Section 4-5-2-1, Calculation of Required Parking Spaces.\n(Ord. No. 4810, § 2, 9-19-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-2-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

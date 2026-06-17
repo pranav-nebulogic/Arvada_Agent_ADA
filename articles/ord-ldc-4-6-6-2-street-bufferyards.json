@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "street",
+      "bufferyards",
+      "setbacks",
+      "zoning",
+      "districts",
+      "multifamily",
+      "front",
+      "setback",
+      "landscaped",
+      "accordance"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-6-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-6 REQUIREMENTS BY LANDSCAPE AREA"
+  },
+  "content": {
+    "title": "4-6-6-2. Street bufferyards.",
+    "summary": "A.\tStreet Bufferyards in Setbacks.\n  1.\tIn the CG, IL and IG zoning districts, and multifamily in the R13 and R24 zoning districts, the front setback shall be landscaped in accordance with Sections 4-6-6-4, Foundation Plantings and 4-6-6-5, General Landscape Areas.\n  2.\tIn the MX and OT zoning distr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-6-2. Street bufferyards.",
+        "a": "A.\tStreet Bufferyards in Setbacks.\n  1.\tIn the CG, IL and IG zoning districts, and multifamily in the R13 and R24 zoning districts, the front setback shall be landscaped in accordance with Sections 4-6-6-4, Foundation Plantings and 4-6-6-5, General Landscape Areas.\n  2.\tIn the MX and OT zoning districts, if the principal building is set back more than five feet from the property line, then that area shall be landscaped in accordance with Sections 4-6-6-4, Foundation Plantings and 4-6-6-5, General Landscape Areas. If the building is set back less than five feet, the area shall be hardscaped with paving materials such as concrete, pavers or other quality paving materials, or landscaped with shrubs and ground-level plants. The remainder of all setbacks shall be landscaped in accordance with Sections 4-6-6-4, Foundation Plantings and 4-6-6-5, General Landscape Areas.\n(Ord. No. 4793, § 3, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-6-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

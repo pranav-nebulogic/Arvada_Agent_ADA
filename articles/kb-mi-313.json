@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "maps",
+      "property",
+      "search",
+      "data",
+      "address",
+      "geographic",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/702/Maps-and-Property-Search"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-313",
+    "spreadsheet_id": "MI-313",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Maps and Property Search",
+    "summary": "The City of Arvada offers a Geographic Information System (GIS) that provides maps and location-based information for residents. Through the Arvada Open Data Hub, users can access online map applications to search for addresses, intersections, and specific property information.",
+    "body": "Need a map? Interested in finding out more about an address or property? You've come to the right place! The City of Arvada's Infrastructure Geographic Information System (GIS) creates, manages and maintains geographic data resources, and provides maps and location-based information.\n\n## [Arvada Open Data Hub](https://www.arvadaco.gov/703/Arvada-Open-Data-Hub)\n\nOnline map applications are developed to allow address and intersection searches or map navigation in order to find property or other specific GIS layer information about areas in Arvada.\n\n## Find a Property",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

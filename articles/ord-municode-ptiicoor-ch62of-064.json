@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "other",
+      "than",
+      "commercial",
+      "establishment",
+      "employee",
+      "shall",
+      "unlawful"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-124"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-124. - By other than commercial establishment or employee.",
+    "summary": "It shall be unlawful for any person, except a person who is at the time of sale or\n               offer of sale lawfully employed by or engaged in a bona fide commercial establishment,\n               to sell or offer to sell to any person any substance releasing toxic vapors.\n(Code 1981, § 21-59; Or…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-124. - By other than commercial establishment or employee.",
+        "a": "It shall be unlawful for any person, except a person who is at the time of sale or\n               offer of sale lawfully employed by or engaged in a bona fide commercial establishment,\n               to sell or offer to sell to any person any substance releasing toxic vapors.\n(Code 1981, § 21-59; Ord. No. 738, § 3, 10-21-1968)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-124"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

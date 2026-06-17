@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "liability",
+      "tax",
+      "shall",
+      "violation",
+      "article",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-313"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-313. - Liability for tax.",
+    "summary": "(a)\nIt shall be a violation of this article for any person who pays to gain admission\n               to any place or event in the city that is open to the public to fail to pay the admissions\n               tax imposed pursuant to this article.\n(b)\nIt shall be a violation of this article for any per…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-313. - Liability for tax.",
+        "a": "(a)\nIt shall be a violation of this article for any person who pays to gain admission\n               to any place or event in the city that is open to the public to fail to pay the admissions\n               tax imposed pursuant to this article.\n(b)\nIt shall be a violation of this article for any person, whether owner, lessee, or\n               operator, who charges or causes admission to be charged to any place or event in the\n               city that is open to the public to fail to collect and remit the admissions tax to\n               the city. If an owner or operator of a facility leases or rents such facility to another\n               party who conducts an event open to the public in such facility, such owner or operator\n               shall not be liable for collecting and remitting the admissions tax, provided that\n               such party to whom the facility is leased or rented is at the time of such leasing\n               or rental licensed to collect and remit the admissions tax.\n(c)\nThe burden of proving that any transaction is not subject to the admissions tax imposed\n               pursuant to this article shall be upon the person upon whom the duty to collect and\n               remit the admissions tax is imposed.\n(Code 1981, § 31-132; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-313"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

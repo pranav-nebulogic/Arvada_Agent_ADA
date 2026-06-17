@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "housing",
+      "authority",
+      "footnotes",
+      "state",
+      "law",
+      "reference",
+      "authorities"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 29-4"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — ARTICLE II. - HOUSING AUTHORITY",
+    "summary": "Footnotes:\n--- (\n2\n) ---\nState Law reference—\nHousing Authorities Law, C.R.S. § 29-4-201 et seq.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE II. - HOUSING AUTHORITY",
+        "a": "Footnotes:\n--- (\n2\n) ---\nState Law reference—\nHousing Authorities Law, C.R.S. § 29-4-201 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 29-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "failure",
+      "pay",
+      "civil",
+      "parking",
+      "citation",
+      "driver",
+      "registered"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-154"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-154. - Failure to pay a civil parking citation.",
+    "summary": "(a)\nThe driver or registered owner of a motor vehicle charged with a violation of the\n               restrictions on stopping, standing, or parking pursuant to this division must respond\n               within 15 calendar days of the date of the citation by payment of the applicable civil\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-154. - Failure to pay a civil parking citation.",
+        "a": "(a)\nThe driver or registered owner of a motor vehicle charged with a violation of the\n               restrictions on stopping, standing, or parking pursuant to this division must respond\n               within 15 calendar days of the date of the citation by payment of the applicable civil\n               penalty as provided by the city.\n(b)\nIf the applicable civil penalty is not paid within such 15 calendar day period, the\n               director of public works or designee thereof may petition the municipal court, setting\n               forth the facts and circumstances of the case, and seeking that a show cause order\n               be issued to the driver or registered owner. The municipal court is authorized to\n               issue a show cause notice to the driver or registered owner to appear before the court\n               and show cause why such payment was not made, under penalty of punishment for contempt.\n(c)\nService of the show cause notice shall be made by mailing the notice to the last known\n               address of the driver or registered owner by certified mail, return receipt requested,\n               not less than seven calendar days prior to the time the driver or registered owner\n               is required to appear in municipal court.\n(d)\nShould the driver or registered owner not appear in municipal court following service\n               of the show cause order, the court is authorized to enter a default judgment in favor\n               of the city for the amount of the citation and any late fees, or other administrative\n               costs and fees.\n(e)\nThe city may assess a late fee for any parking citation that is not paid within 15\n               calendar days of the date of the citation.\n(Ord. No.\n4561\n, § 2, 8-29-2016; Ord. No.\n4794\n, § 1, 4-4-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-154"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "purpose",
+      "article",
+      "city",
+      "council",
+      "finds",
+      "declares",
+      "defacing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-191"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-191. - Purpose of article.",
+    "summary": "The city council finds and declares that defacing of public or private property by\n               painting, drawing, writing, etching, or carving, by use of paint, spray paint, ink,\n               knife, or any similar method, commonly referred to as \"graffiti vandalism,\" constitutes\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-191. - Purpose of article.",
+        "a": "The city council finds and declares that defacing of public or private property by\n               painting, drawing, writing, etching, or carving, by use of paint, spray paint, ink,\n               knife, or any similar method, commonly referred to as \"graffiti vandalism,\" constitutes\n               a serious and growing menace, injurious to the public health, safety, morals, and\n               general welfare of the residents of the city; that graffiti vandalism contributes\n               substantially to the spread of gang activity, violence, and crime; and that prompt\n               eradication of graffiti vandalism is necessary to control the spread of graffiti vandalism,\n               and promote the public health, safety, morals, and general welfare of the residents\n               of the city. All property defaced by graffiti vandalism which is visible to public\n               view is declared to be a public nuisance, and in the interest of public health, safety,\n               morals, and general welfare, shall be abated as set forth in this article.\n(Code 1981, § 20-50; Ord. No. 3455, § 3, 7-6-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-191"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

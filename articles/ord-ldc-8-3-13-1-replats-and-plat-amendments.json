@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "replats",
+      "plat",
+      "amendments",
+      "revision",
+      "previously",
+      "approved",
+      "major",
+      "subdivision",
+      "preliminary",
+      "final"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-13-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-13. AMENDMENTS TO EXISTING APPROVALS"
+  },
+  "content": {
+    "title": "8-3-13-1. Replats and plat amendments.",
+    "summary": "Any revision to a previously approved Major Subdivision Preliminary Plat, Major Subdivision Final Plat, or Minor Subdivision Plat (or to any plat or plan that created platted lots, however titled, that was approved prior to the adoption of this LDC), that increases the number of lots, tracts, or par…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-13-1. Replats and plat amendments.",
+        "a": "Any revision to a previously approved Major Subdivision Preliminary Plat, Major Subdivision Final Plat, or Minor Subdivision Plat (or to any plat or plan that created platted lots, however titled, that was approved prior to the adoption of this LDC), that increases the number of lots, tracts, or parcels, or creates new lots, tracts, or parcels, shall be processed as a new subdivision, and shall comply with the procedures and criteria for a major subdivision in accordance with Section 8-3-8-3, Major Subdivision Preliminary Plat or Section 8-3-8-5, Major Subdivision Final Plat, as applicable. This requirement shall not apply to subdivision applications that are eligible for processing under the Minor Subdivision Plat provisions set out in Section 8-3-8-4, Minor Subdivision Plat."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-13-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

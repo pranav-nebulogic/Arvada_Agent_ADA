@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-35-006",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "find",
+      "more",
+      "information",
+      "epa",
+      "primary",
+      "webpage",
+      "all",
+      "things",
+      "Water - PFAS Information"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=35"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/where-can-i-find-more-information",
+    "faq_category_name": "Water - PFAS Information"
+  },
+  "content": {
+    "title": "Where can I find more information?",
+    "summary": "EPA: Primary Webpage on All Things PFAS EPA PFAS Questions and Answers CDPHE: PFAS and Your Health Metro Water Recovery: Useful Tips and Links to Reduce Your Product Exposure",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Where can I find more information?",
+        "a": "EPA: Primary Webpage on All Things PFAS EPA PFAS Questions and Answers CDPHE: PFAS and Your Health Metro Water Recovery: Useful Tips and Links to Reduce Your Product Exposure"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

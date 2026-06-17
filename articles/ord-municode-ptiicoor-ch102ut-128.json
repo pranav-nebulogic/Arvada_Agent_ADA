@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rulemaking",
+      "director",
+      "shall",
+      "authorized",
+      "evaluate",
+      "analyze",
+      "those"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-359"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-359. - Rulemaking.",
+    "summary": "The director shall be authorized to evaluate and analyze those situations, facts or\n               circumstances which occur with respect to application of this article to individual\n               owners or property that are unusual or not addressed by the procedures and criteria\n               of …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-359. - Rulemaking.",
+        "a": "The director shall be authorized to evaluate and analyze those situations, facts or\n               circumstances which occur with respect to application of this article to individual\n               owners or property that are unusual or not addressed by the procedures and criteria\n               of this article. Decisions and determinations with respect to procedures necessary\n               to give effect to this article that are of general applicability to the public, and\n               not otherwise addressed under this article, shall be subject to the provisions of\nsection 2-141\net seq. concerning administrative rulemaking. The director shall be authorized to\n               promulgate such administrative rules pursuant thereto.\n(Code 1981, § 33-259; Ord. No. 3701, § 1, 6-18-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-359"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "ballot",
+      "title",
+      "submission",
+      "clause",
+      "procedures",
+      "fixing",
+      "petitions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-33"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-33. - Ballot title and submission clause.",
+    "summary": "Procedures for fixing the ballot title and submission clause for petitions shall be\n               as follows:\n(1)\nAll petitions shall be in the form of an ordinance. Upon finding that a petition is\n                  sufficient and that no protest has been filed within the designated time frame as\n …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-33. - Ballot title and submission clause.",
+        "a": "Procedures for fixing the ballot title and submission clause for petitions shall be\n               as follows:\n(1)\nAll petitions shall be in the form of an ordinance. Upon finding that a petition is\n                  sufficient and that no protest has been filed within the designated time frame as\n                  set forth in\nsection 30-36\n, the city clerk, with the assistance of the city attorney, shall designate and fix\n                  a submission clause and ballot title to the proposed ordinance which shall fairly\n                  and accurately express the intent and meaning of the proposed ordinance. In fixing\n                  the ballot title, the city clerk shall consider the public confusion that might be\n                  caused by misleading titles and shall, whenever practicable, avoid titles for which\n                  the general understanding of the effect of a \"yes\" or \"no\" vote would be unclear.\n                  Ballot titles shall be brief and shall not conflict with titles selected for any petitions\n                  previously filed for the same election. Proceedings for fixing the submission clause,\n                  and ballot title shall be concluded within ten business days after the certificate\n                  of sufficiency is issued by the city clerk.\n(2)\nIf any person submitting a petition claims that the ballot title and submission clause\n                  do not fairly express the intent and meaning of the proposed measure, such person\n                  shall file a request for an administrative hearing with the city clerk not later than\n                  three business days after the ballot title and submission clause are fixed by the\n                  city clerk. The city clerk or designee shall appoint a hearing officer. An administrative\n                  hearing on the ballot title and submission clause shall be held within seven business\n                  days from the date of the request for hearing. If the hearing officer finds that the\n                  ballot title and submission clause fairly express the intent and meaning of the proposed\n                  measure, the person aggrieved by such decision may appeal such decision to the district\n                  court as set forth in the Colorado Rules of Civil Procedure.\n(Code 1981, § 11-24; Ord. No. 3511, § 2, 2-1-1999; Ord. No. 3590, § 3, 1-10-2000)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "redemption",
+      "impounded",
+      "animal",
+      "subject",
+      "summons",
+      "hold",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-204"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-204. - Redemption of impounded animal.",
+    "summary": "(a)\nAnimal subject to a summons hold.\nAny animal impounded by an animal management officer may be subject to a summons\n               hold. An animal subject to a summons hold may be redeemed by and will be released\n               to the owner or custodian if, within five days after the impoundment,…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-204. - Redemption of impounded animal.",
+        "a": "(a)\nAnimal subject to a summons hold.\nAny animal impounded by an animal management officer may be subject to a summons\n               hold. An animal subject to a summons hold may be redeemed by and will be released\n               to the owner or custodian if, within five days after the impoundment, the owner or\n               custodian pays to the animal shelter the fees assessed by the shelter for costs related\n               to the impoundment of, care of, and provision for the animal through and including\n               the date of its release, if any, and accepts service of process as determined by the\n               officer.\n(b)\nAnimal subject to a court hold.\nAn animal that is being held pending municipal court proceedings for a violation\n               of\nsection 14-51\n, dangerous animals,\nsection 14-52\n, aggressive animals, a third or subsequent violation within a one-year period by\n               an owner or custodian of\nsection 14-54\n, running at large,\nsection 14-91\n, certain animals prohibited,\nsection 14-171\n, cruelty,\nsection 14-171.5\n, neglect,\nsection 14-174\n, care of animals, or an animal belonging to or living within the same household as\n               a person who has been adjudged to be a habitual offender under\nsection 14-11\nmay not be released except on order of a municipal court judge. The owner or custodian\n               of the animal subject to a court hold may prevent disposition of the animal by the\n               shelter if, within ten days after the impoundment, the owner or custodian:\n(1)\nFiles with the court a payment in an amount determined to be sufficient by the animal\n               management officer and the animal shelter to cover the costs of impoundment, care,\n               and provision for the animal for at least 30 days including the day on which the animal\n               was impounded, and continues to file these payments with the court as set forth in\nsection 14-206\n(e)(1) throughout the pendency of the municipal court case; or\n(2)\nFiles with the court a written petition for an impoundment hearing. The petition must\n               state whether the owner or custodian is disputing probable cause for the impoundment,\n               is disputing whether the costs of impoundment, care, or provision for the animal are\n               fair, reasonable, and necessary, or both. If the owner or custodian does not indicate\n               on the petition that they dispute probable cause for the impoundment, the owner or\n               custodian will be presumed to have agreed that sufficient probable cause existed.\n               If the owner or custodian does not indicate on the petition that they dispute the\n               reasonableness of the costs of impoundment, care, or provision, the owner will be\n               presumed to have accepted the stated costs as reasonable.\n(i)\nAt the time the petition is filed with the court, the owner or custodian must also\n               provide a copy of the petition for an impoundment hearing to the city prosecutor.\n(ii)\nIf the owner requests a hearing under this section, the court must set the hearing\n               to occur within seven days after the petition is filed.\n(\nOrd. No. 4878\n, § 9, 10-7-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-204"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

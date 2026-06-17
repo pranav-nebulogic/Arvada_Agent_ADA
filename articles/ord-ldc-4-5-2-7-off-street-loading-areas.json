@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "street",
+      "loading",
+      "areas",
+      "generally",
+      "required",
+      "multifamily",
+      "mixed",
+      "residential",
+      "uses",
+      "require"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-2-7"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-2. PARKING AND LOADING CALCULATIONS"
+  },
+  "content": {
+    "title": "4-5-2-7. Off-street loading areas.",
+    "summary": "A.\tGenerally. Off-street loading areas shall be required for multifamily, mixed-use, and non-residential uses that require goods, merchandise, or equipment to be routinely delivered to or shipped from the subject property.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-2-7. Off-street loading areas.",
+        "a": "A.\tGenerally. Off-street loading areas shall be required for multifamily, mixed-use, and non-residential uses that require goods, merchandise, or equipment to be routinely delivered to or shipped from the subject property. Ridesharing services pick-up and drop-off areas should also be provided on site.\nB.\tMinimum Required Loading Spaces. Unless additional loading space is necessary to meet the requirements of the use, loading spaces for nonresidential uses described in Subsection A., above, including nonresidential components of mixed-use development, shall be provided according to the standards in Table 4-5-2-7, Minimum Loading Requirements.\nC.\tAdjustment of Loading Requirements. The Director may reduce loading requirements if it is demonstrated that the loading requirements of a particular land use may be adequately met even if fewer spaces than are required by Table 4-5-2-7, Minimum Loading Requirements, are provided."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-2-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

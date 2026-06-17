@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "complaints",
+      "regarding",
+      "violations",
+      "person",
+      "file",
+      "complaint",
+      "alleging",
+      "violation",
+      "stating",
+      "fully"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "10-1-3-1"
+    ],
+    "chapter": "Chapter 10 ENFORCEMENT",
+    "article": "ARTICLE 10-1. ENFORCEMENT",
+    "division": "DIVISION 10-1-3. ENFORCEMENT PROCEDURES"
+  },
+  "content": {
+    "title": "10-1-3-1. Complaints regarding violations.",
+    "summary": "Any person may file a complaint alleging a violation of this LDC. Such complaint, stating fully the causes and basis thereof, shall be filed with the Code Enforcement Officer.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "10-1-3-1. Complaints regarding violations.",
+        "a": "Any person may file a complaint alleging a violation of this LDC. Such complaint, stating fully the causes and basis thereof, shall be filed with the Code Enforcement Officer. The Code Enforcement Officer shall properly record such complaint, immediately investigate, and take enforcement action as is appropriate."
+      }
+    ],
+    "ordinance_refs": [
+      "10-1-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

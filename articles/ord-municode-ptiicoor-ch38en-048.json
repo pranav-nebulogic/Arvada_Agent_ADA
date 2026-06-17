@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exemptions",
+      "city",
+      "manager",
+      "designee",
+      "thereof",
+      "shall",
+      "grant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-283"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-283. - Exemptions.",
+    "summary": "(a)\nThe city manager, or a designee thereof, shall grant an exemption to the enforcement\n               of subsection\n38-282\n(a) hereof to any person who relies on a solid fuel burning device as a sole source\n               of heat; provided, however, such solid fuel burning device was installed in …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-283. - Exemptions.",
+        "a": "(a)\nThe city manager, or a designee thereof, shall grant an exemption to the enforcement\n               of subsection\n38-282\n(a) hereof to any person who relies on a solid fuel burning device as a sole source\n               of heat; provided, however, such solid fuel burning device was installed in the building\n               prior to November 1, 1987. As a condition of granting an exemption, any person applying\n               for an exemption shall be required to sign an affidavit stating reliance on a solid\n               fuel burning device installed prior to November 1, 1987, as the sole source of heat.\n               An exemption granted by the city manager shall be effective for one year from the\n               date it is granted.\n(b)\nThere shall be an exemption from enforcement of this article for heating or cooking\n               by a solid fuel burning device in the event of the interruption of either a heating\n               or cooking source to a building.\n(c)\nThere shall be an exemption from enforcement of this article, as well as enforcement\n               of any burning restrictions contained in the International Building or Residential\n               Code and the International Mechanical Code as they are adopted and amended from time-to-time,\n               for any areas above 7,000 feet.\n(d)\nThere shall be an exemption from enforcement of this article for any exemptions contained\n               in the International Building or Residential Code and the International Mechanical\n               Code as adopted and amended from time-to-time.\n(e)\nThe requirements in subsection\n38-282\n(c) relating to newly installed new or used solid fuel burning factory-built fireplaces\n               or to new masonry fireplaces shall not apply upon issuance by the city of the fireplace\n               exemption permit. Any fireplace for which there is issued a fireplace exemption permit\n               shall conform to all other applicable provisions and regulations, including installation\n               terms and listings of the manufacturer as specified in the Mechanical Code, of\nchapter 18\n. The fee for issuance by the city of a fireplace exemption permit shall be $500.00.\n               Each fireplace shall require a separate exemption permit.\n(Code 1981, § 21-78; Ord. No. 2451, § 1, 10-19-1987; Ord. No. 2868, § 10, 1-20-1992)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-283"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

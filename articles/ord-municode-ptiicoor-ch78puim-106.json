@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "assessment",
+      "liens",
+      "payment",
+      "amount",
+      "assessed",
+      "under",
+      "ordinance"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-107"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-107. - Assessment liens.",
+    "summary": "(a)\nThe payment of the amount assessed under an assessment ordinance, including each installment\n               thereof, the interest thereon and any penalties and collection costs shall be secured\n               by an assessment lien upon the tract assessed from the effective date of the assessment…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-107. - Assessment liens.",
+        "a": "(a)\nThe payment of the amount assessed under an assessment ordinance, including each installment\n               thereof, the interest thereon and any penalties and collection costs shall be secured\n               by an assessment lien upon the tract assessed from the effective date of the assessment\n               ordinance.\n(b)\nEach such lien upon each tract assessed shall be:\n(1)\nSubordinate and junior to any lien thereon for any general (ad valorem) taxes, whether\n               prior in time or not;\n(2)\nPrior and superior to any assessment lien thereon subsequently levied by the city\n               or by any public body;\n(3)\nSubordinate and junior to any assessment lien thereon theretofore levied by the city\n               or by any public body; and\n(4)\nPrior and superior to all liens, claims, mortgages, other encumbrances and titles\n               other than the liens of assessments and general taxes; and all purchasers, mortgagees\n               or encumbrances of any such tract shall hold the same subject to such lien so created,\n               whether prior in time or not.\n(c)\nEach such assessment lien shall continue as to unpaid installments, principal, interest\n               and any penalties and costs until such assessments, the principal thereof, interest\n               thereon and any penalties and costs appertaining thereto shall be fully paid, unless\n               terminated by the foreclosure of any prior and superior lien on the tract assessed;\n               but unmatured installments shall not be deemed to be within the terms of any general\n               covenant or warranty.\n(d)\nNo statute of limitations shall begin to run against any assessment nor the assessment\n               lien to secure its payment until after the last installment of principal thereof shall\n               become due.\n(e)\nThe city may use any available funds or moneys for the satisfaction of any lien prior\n               in right to any special assessment lien created by the city.\n(f)\nIn the resale of any property to which the city has so acquired title, the city shall\n               use its best efforts to sell the property for an amount at least equal to the funds\n               or moneys so used plus the amount necessary to satisfy the special assessment lien\n               created by the city, principal, interest, penalties and collection costs.\n(g)\nThe moneys received from such a resale in payment for the property shall be used first\n               to satisfy such special assessment lien and thereafter to restore to the fund from\n               which any such prior lien were satisfied and the moneys used therefor.\n(h)\nThe city is authorized to acquire and to dispose of property on which there are delinquent\n               taxes or special assessments, or both.\n(Code 1981, § 27-108; Ord. No. 551, § 48, 5-14-1964)\nState Law reference—\nAssessment a lien, C.R.S. § 31-25-522; sale of property for nonpayment of assessments,\n               C.R.S. § 31-25-531."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-107"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-192"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-192. - Definitions.",
+    "summary": "The following words, terms, and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning:\nDeface\nmeans to alter the appearance of something by removing, distorting, ad…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-192. - Definitions.",
+        "a": "The following words, terms, and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning:\nDeface\nmeans to alter the appearance of something by removing, distorting, adding to, or\n               covering all or a part of.\nGang\nmeans a group of three or more individuals with a common interest or bond and engaging\n               in activity specifically characterized by an intent to commit criminal acts.\nGraffiti vandalism\nmeans defacement of public or private property by means of painting, drawing, writing,\n               etching, or carving, by use of paint, spray paint, ink, knife, or any similar method.\nOwner\nor\nproperty owner\nmeans any person leasing, occupying, having the right to possession and/or control\n               of any property real or personal located within the city boundaries.\n(Code 1981, § 20-51; Ord. No. 3455, § 3, 7-6-1998)\nCross reference—\nDefinitions,\n§ 1-2\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-192"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

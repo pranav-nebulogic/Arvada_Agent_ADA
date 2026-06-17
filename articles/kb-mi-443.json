@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "residential",
+      "district",
+      "allowed",
+      "uses",
+      "acre",
+      "acronyms",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/228/R6-Residential-6-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-443",
+    "spreadsheet_id": "MI-443",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "R6 (Residential 6) District",
+    "summary": "The R6 (Residential 6) District is designed for new residential developments with a density of up to six units per acre, along with community and institutional uses. Various housing types are allowed, including single-family detached homes and multiplexes by-right, while other uses like duplexes and group homes are permitted under limited or conditional regulations. Additionally, the district accommodates certain recreational, educational, and utility uses, each with specific allowances and regulations outlined in the Land Development Code.",
+    "body": "Intended to allow for new residential development of a variety of housing products up to a gross density of six units per acre along with supporting community and institutional uses.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#tabd92ae0a5-e1de-4055-bb30-782567951128_0)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Single-Family Detached | A | 3-1-3-2 |\n| Duplex | L | 3-1-3-2 |\n| Townhome | L | 3-1-3-2 |\n| Multiplex | A | N/A |\n| Cottages, Micro-Homes, or Co-Housing | A | N/A |\n| Group Home, FFHA | L | 3-1-3-3 |\n| Group Home, Not Specified Above | C | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#tabd92ae0a5-e1de-4055-bb30-782567951128_1)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Bed and Breakfast | C | 3-1-3-4 |\n| Recreation, Outdoor (playing fields) | A | N/A |\n| Recreation, Outdoor (other) | A | 3-1-3-4 |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#tabd92ae0a5-e1de-4055-bb30-782567951128_2)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Day Care Center, Adult or Child | C | 3-1-3-6 |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | L | 3-1-3-6 |\n| Private School, Kindergarten, Elementary, Middle, or High | A | N/A |\n\n1. [Industrial, Processing, Recycling, Storage & Disposal Uses](#tabd92ae0a5-e1de-4055-bb30-782567951128_3)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Resource Extraction (Minerals) | C | 3-1-3-7 |\n\n1. [Utility & Communications Uses](#tabd92ae0a5-e1de-4055-bb30-782567951128_4)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Major | C | 3-1-3-9 |\n| Utilities, Minor | L | 3-1-3-9 |\n| Overhead Power Lines (110 kV+) | C | 3-1-3-9 |\n| Freestanding Towers | C | Chapter 7 |\n| Other Wireless Communications Facilities | L | Chapter 7 |\n| Solar Garden | L | 3-1-3-9 |\n\n1. [Agriculture Uses](#tabd92ae0a5-e1de-4055-bb30-782567951128_5)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Agriculture, community | L | 3-1-3-10 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

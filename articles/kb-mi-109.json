@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "building",
+      "services",
+      "codes",
+      "advisory",
+      "application",
+      "appropriate",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/188/Building-Services"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-109",
+    "spreadsheet_id": "MI-109",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Building Services",
+    "summary": "The Building Inspection Division of the City of Arvada is dedicated to ensuring the safety of buildings by enforcing international building, energy, residential, and fire codes, with guidance from an advisory board of professionals. The division provides resources on permits, contractor licensing, and the adopted building code, and is currently amending its codes to align with the 2024 International Codes.",
+    "body": "At the City of Arvada, the Building Inspection Division seeks to ensure that buildings are safe. In order to protect the safety of our citizens and visitors, we utilize and enforce international building, energy, residential, fire, and related codes. An advisory board, comprised of engineers, architects, and local business owners, helps to make sure that the City’s interpretation and application of these codes is appropriate for our community.\n\nThe Building Services team includes:\n\n- [Permits and Inspections](/332/Building-Permits): Current codes, address verification, and examples of changes that require permits and inspections\n- [Contractor Licensing](/265/Building-Contractor): Information about who needs to be licensed, applying for a license, and what you'll need for the process.\n- [Adopted Code](/165/Adopted-Building-Code): Adopted building code and design criteria for wind, shingles, exposure, and snow load.\n\n**Attention: The City is currently in the process of amending its Building Codes to align with the 2024 International Codes.**[**Read more about the upcoming changes on the New Building Codes 2026 page**](https://www.arvadaco.gov/1388/New-Building-Codes-2026)**.**",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

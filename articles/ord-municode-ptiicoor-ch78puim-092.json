@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "remedies",
+      "subject",
+      "any",
+      "contractual",
+      "limitations",
+      "binding",
+      "upon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-93"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-93. - Remedies.",
+    "summary": "(a)\nSubject to any contractual limitations binding upon the holders of any issue or series\n               of bonds or trustee therefor, including but not limited to the restriction of the\n               exercise of any remedy to a specified proportion, percentage or number of such holders,\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-93. - Remedies.",
+        "a": "(a)\nSubject to any contractual limitations binding upon the holders of any issue or series\n               of bonds or trustee therefor, including but not limited to the restriction of the\n               exercise of any remedy to a specified proportion, percentage or number of such holders,\n               any holder of bonds or trustee therefor shall have the right and power for the equal\n               benefit and protection of all holders of bonds similarly situated:\n(1)\nBy mandamus or by other suit, action or proceeding at law or in equity to enforce\n               his rights against the city and against its council and any of its officers, agents\n               and employees and to require and to compel the city or its council or any such officers,\n               agents or employees to perform and to carry out its and their duties, obligations\n               or other commitments under this article and under its and their covenants and agreements\n               with the bondholders;\n(2)\nBy action or by suit in equity to require the city and its council to account as if\n               they were the trustees of an express trust;\n(3)\nBy action or by suit in equity to have appointed a receiver, which receiver may take\n               possession of any accounts and may collect, receive and apply all revenues or other\n               moneys pledged for the payment of the bonds in the same manner as the city itself\n               might do;\n(4)\nBy action or by suit in equity to enjoin any acts or things which might be unlawful\n               or might be in violation of the rights of the bondholders; and\n(5)\nTo bring suit upon the bonds.\n(b)\nNo right or remedy conferred by this article upon any holder of bonds or any trustee\n               therefor is intended to be exclusive of any other right or remedy, but each such right\n               or remedy is cumulative and is in addition to every other right or remedy and may\n               be exercised without exhausting and without regard to any other remedy conferred by\n               this article or by any other law. The failure of any bondholder so to proceed as herein\n               provided shall not relieve the city, its council or any of its officers, agents and\n               employees of any liability for failure to perform or to carry out any duty, obligation\n               or other commitment.\n(Code 1981, § 27-94; Ord. No. 551, § 34, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-93"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

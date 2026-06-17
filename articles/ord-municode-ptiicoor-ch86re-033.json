@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "interest",
+      "trustees",
+      "except",
+      "otherwise",
+      "provided",
+      "chapter",
+      "board"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-84"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-84. - Interest of trustees.",
+    "summary": "Except as otherwise provided in this chapter, no board member or any officer or employee\n               of the retirement system shall have any interest, direct or indirect, in the gains\n               or profits of any investments made by the board. No board member or other person connected\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-84. - Interest of trustees.",
+        "a": "Except as otherwise provided in this chapter, no board member or any officer or employee\n               of the retirement system shall have any interest, direct or indirect, in the gains\n               or profits of any investments made by the board. No board member or other person connected\n               with the board, directly or indirectly for himself or as an agent or partner of others,\n               shall borrow any of the funds or deposits of the retirement system, or in any manner\n               use the same, except to make such current and necessary payments as are authorized\n               by the board; nor shall any board member, or other person connected with the board,\n               become an endorser, surety or become, in any manner, an obligor for moneys loaned\n               or borrowed of the retirement system.\n(Code 1960, § 19-19(D); Code 1981, § 26-40)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-84"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

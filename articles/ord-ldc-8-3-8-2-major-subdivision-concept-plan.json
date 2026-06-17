@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "major",
+      "subdivision",
+      "concept",
+      "plan",
+      "generally",
+      "plans",
+      "optional",
+      "step",
+      "review",
+      "process"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-8-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-8. SUBDIVISIONS"
+  },
+  "content": {
+    "title": "8-3-8-2. Major subdivision concept plan.",
+    "summary": "A.\tGenerally. Major Subdivision Concept Plans are an optional step in the major subdivision review process. They are reviewed according to the standards of this Section.\nB.\tForm of Application.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-8-2. Major subdivision concept plan.",
+        "a": "A.\tGenerally. Major Subdivision Concept Plans are an optional step in the major subdivision review process. They are reviewed according to the standards of this Section.\nB.\tForm of Application. The application for Major Subdivision Concept Plan review shall include, at a minimum, the following information:\n  1.\tProposed land uses;\n  2.\tProposed density and/or intensity;\n  3.\tGeneral location of public and private open space;\n  4.\tGeneral layout of existing and proposed street and pedestrian networks; and\n  5.\tGeneral layout of existing or proposed major utility lines/facilities and public services that serve the development.\nC.\tConcurrent Planning Commission and City Council Review. The Director may, in the Director's discretion, place a Major Subdivision Concept Plan on the agenda of a joint workshop session -before Planning Commission and City Council.\nD.\tEffect of Review; Disclaimer. The Major Subdivision Concept Plan is not part of a formal application for approval of a major subdivision and no comments made by the City with regard to a Major Subdivision Concept Plan shall be binding on the City's consideration of any subsequent major subdivision preliminary or final plat application nor result in a vested property right under this LDC or state statute. The voluntary submission of a Major Subdivision Concept Plan shall constitute a complete waiver of any and all legal claims that are based on, or arise from, Planning Commission or City Council review of, or comment upon, such Major Subdivision Concept Plan. Since the Major Subdivision Concept Plan is conceptual only, it does not lapse."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-8-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

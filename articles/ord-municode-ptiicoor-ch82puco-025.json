@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "multi",
+      "year",
+      "contracts",
+      "authorized",
+      "unless",
+      "otherwise",
+      "provided"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-64"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-64. - Multi-year contracts.",
+    "summary": "(a)\nMulti-year contracts authorized.\nUnless otherwise provided by law, the city may enter into a contract for the purchase\n               of goods or services for any period of time deemed to be in the best interest of the\n               city. The term of the contract and conditions of renewal or ex…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-64. - Multi-year contracts.",
+        "a": "(a)\nMulti-year contracts authorized.\nUnless otherwise provided by law, the city may enter into a contract for the purchase\n               of goods or services for any period of time deemed to be in the best interest of the\n               city. The term of the contract and conditions of renewal or extension, if any, should\n               be included in the solicitation. Funds shall be available for the first fiscal year\n               at the time of contracting. Payment and performance obligations for succeeding fiscal\n               periods shall be subject to the availability and appropriation of funds, and these\n               conditions shall be included as a provision of the multi-term contract.\n(b)\nPricing.\nPricing in multi-year contracts shall be reasonably firm and documented for the initial\n               and each renewal term of the contract such that the contract serves the best interests\n               of the city.\n(c)\nNon-appropriation.\nWhen funds are not appropriated or otherwise made available to support continuation\n               of performance in a renewal period, the contract shall be terminated. Termination\n               for non-appropriation shall not be deemed a breach of contract.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-64"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

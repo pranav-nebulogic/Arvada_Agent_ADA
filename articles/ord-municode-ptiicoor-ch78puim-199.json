@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "revocation",
+      "permits",
+      "any",
+      "permit",
+      "revoked",
+      "suspended",
+      "director"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-312"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-312. - Revocation of permits.",
+    "summary": "(a)\nAny permit may be revoked or suspended by the director, after notice to the permittee\n               for:\n(1)\nViolation of any material condition of the permit or of any material provision of\n               this article;\n(2)\nViolation of any material provision of any other ordinance of the city …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-312. - Revocation of permits.",
+        "a": "(a)\nAny permit may be revoked or suspended by the director, after notice to the permittee\n               for:\n(1)\nViolation of any material condition of the permit or of any material provision of\n               this article;\n(2)\nViolation of any material provision of any other ordinance of the city or state law\n               relating to the work; or\n(3)\nExistence of any condition or performance of any act that the city determines constitutes\n               or causes a condition endangering life or damage to property.\n(b)\nA suspension or revocation by the director, and a stop work order, shall take effect\n               immediately upon notice to the person performing the work in the public way, or to\n               the permittee's last known address.\n(c)\nA stop work order may be issued by the director to any person doing or causing any\n               work to be done in the public way without a permit, or in violation of any provision\n               of this article, or any other ordinance of the city.\n(d)\nAny suspension or revocation or stop work order may be appealed by the permittee to\n               the city manager by filing a written notice of appeal within 30 days of the action.\n(Code 1981, § 27-221; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-312"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "application",
+      "state",
+      "statute",
+      "addition",
+      "power",
+      "authority",
+      "protections"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-3"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-3. - Application of state statute.",
+    "summary": "In addition to the power, authority, and protections set forth in this article, the\n               city council shall have all the power, authority and protections granted to municipalities\n               by C.R.S. tit. 32, art. I (C.R.S. § 32-1-101 et seq.), in effect as of the effective\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-3. - Application of state statute.",
+        "a": "In addition to the power, authority, and protections set forth in this article, the\n               city council shall have all the power, authority and protections granted to municipalities\n               by C.R.S. tit. 32, art. I (C.R.S. § 32-1-101 et seq.), in effect as of the effective\n               date of the ordinance from which this article derives and as amended from time to\n               time; provided, however, where any conflicts exist between such state statute and\n               this article, such inconsistencies are specifically intended and the provisions of\n               this article shall control, it being the intention that all requirements for the processing\n               of proposed service plans for title 32 districts within the city's boundaries are\n               contained or referenced in this chapter.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

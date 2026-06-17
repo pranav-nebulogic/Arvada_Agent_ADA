@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "compliance",
+      "other",
+      "laws",
+      "requirements",
+      "code",
+      "shall",
+      "addition"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-373"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-373. - Compliance with other laws.",
+    "summary": "The requirements of this Code shall be in addition to the applicable requirements\n               of the laws of the state. To the extent that any conflict exists between requirements\n               of this article and any other provisions of this Code the requirements of this Code\n               sha…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-373. - Compliance with other laws.",
+        "a": "The requirements of this Code shall be in addition to the applicable requirements\n               of the laws of the state. To the extent that any conflict exists between requirements\n               of this article and any other provisions of this Code the requirements of this Code\n               shall apply for the purposes of any enforcement by the city. This Code shall not create\n               any private rights of action.\n(Code 1981, § 2-53; Ord. No. 3088, § 2, 6-27-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-373"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

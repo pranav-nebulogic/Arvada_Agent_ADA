@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "exception",
+      "frontage",
+      "zone",
+      "requirements",
+      "where",
+      "required",
+      "encumbered",
+      "easement",
+      "other",
+      "physical"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-10-6"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-10. EXCEPTIONS AND ADJUSTMENTS TO LOT AND BUILDING STANDARDS"
+  },
+  "content": {
+    "title": "2-1-10-6. Exception to frontage zone requirements.",
+    "summary": "Where a required frontage zone is encumbered by an easement or other physical constraint that can not be relocated, as determined by the Director, the frontage zone requirement shall be measured from the edge of the easement or constraint, or from a line determined by the Director.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-10-6. Exception to frontage zone requirements.",
+        "a": "Where a required frontage zone is encumbered by an easement or other physical constraint that can not be relocated, as determined by the Director, the frontage zone requirement shall be measured from the edge of the easement or constraint, or from a line determined by the Director."
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-10-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

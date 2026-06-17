@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "copies",
+      "available",
+      "city",
+      "clerk",
+      "shall",
+      "maintain",
+      "public"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-144"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-144. - Copies available.",
+    "summary": "The city clerk shall maintain for public inspection during regular business hours\n               copies of all rules in effect under this article and shall furnish copies of rules\n               to the public at a price not to exceed copying expense.\n(Code 1960, § 2-53; Code 1981, § 2-124)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-144. - Copies available.",
+        "a": "The city clerk shall maintain for public inspection during regular business hours\n               copies of all rules in effect under this article and shall furnish copies of rules\n               to the public at a price not to exceed copying expense.\n(Code 1960, § 2-53; Code 1981, § 2-124)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-144"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

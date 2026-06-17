@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-53-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "buy",
+      "fishing",
+      "license",
+      "visit",
+      "colorado",
+      "parks",
+      "wildlife",
+      "page",
+      "Water Activities - Fishing"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=53"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/where-can-i-buy-a-fishing-license",
+    "faq_category_name": "Water Activities - Fishing"
+  },
+  "content": {
+    "title": "Where can I buy a fishing license?",
+    "summary": "Visit the Colorado Parks and Wildlife Fishing page for information on fishing license requirements, stocking reports, and more. Fishing licenses can be purchased online, through the Colorado Parks and Wildlife website, by phone, or at many retailers throughout the state.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Where can I buy a fishing license?",
+        "a": "Visit the Colorado Parks and Wildlife Fishing page for information on fishing license requirements, stocking reports, and more. Fishing licenses can be purchased online, through the Colorado Parks and Wildlife website, by phone, or at many retailers throughout the state."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

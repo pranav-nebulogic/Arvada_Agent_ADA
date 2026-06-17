@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "compliance",
+      "occupancy",
+      "building",
+      "structure",
+      "land",
+      "hereafter",
+      "used",
+      "occupied",
+      "portion",
+      "thereof"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-2-2"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-2. MINIMUM STANDARDS AND COMPLIANCE"
+  },
+  "content": {
+    "title": "1-1-2-2. Compliance.",
+    "summary": "A.\tUse or Occupancy.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-2-2. Compliance.",
+        "a": "A.\tUse or Occupancy. No building, structure, or land shall hereafter be used or occupied, and no building or structure or portion thereof shall hereafter be erected, moved, constructed, reconstructed, extended, enlarged, or altered contrary to the provisions of this Code, including without limitation the provisions of Chapter 9 Nonconformities.\nB.\tMultiple Use of Space Prohibited. No part of a yard or other open space or off-street parking or loading space required about or in connection with any building or land use for the purpose of complying with this Code shall be included as part of a yard, open space, or off street parking or loading space similarly required for any other building or land use, except as specifically allowed in an approved development or an approved shared parking arrangement.\nC.\tFuture Reduction or Creation of Lots and Yards.\n  1.\tNo yard or lot existing at the time of the adoption of this Code shall be reduced in dimensions or area below the minimum requirements set forth in this Code, except where reduction is specifically authorized by this Code.\n  2.\tYards or lots created after the effective date of this Code shall meet at least the minimum requirements established by this Code.\nD.\tProperty Annexed to the City.\n  1.\tAny territory annexed to the City shall be zoned pursuant to the applicable procedures and requirements of this Code and of the Arvada City Code. No lands within the corporate limits of the City of Arvada shall be without a zoning district designation for more than 90 days, during which period no building permit shall be issued.\nE.\tNonconforming Uses, Structures, and Lots.\n  1.\tSeeChapter 9 of this Code for regulations regarding nonconforming uses, buildings, structures, signs, lots, and residential densities."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

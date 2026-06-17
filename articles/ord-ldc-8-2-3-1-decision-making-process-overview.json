@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "decision",
+      "making",
+      "process",
+      "overview",
+      "generally",
+      "division",
+      "sets",
+      "steps",
+      "applications",
+      "decided"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-1. Decision-making process overview.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-1. Decision-making process overview.",
+        "a": "A.\tGenerally. This Division sets out the steps in the decision-making process for applications decided by the Director, the Planning Commission, the Board of Adjustment, or the City Council.\nB.\tDecisions by the Director or Other City Staff.\n  1.\tApplications that are decided by the Director without fact-finding by the Planning Commission (see Section 8-2-2-2, Decision-Making Tracks By Application Type), or by other City staff, require the following process:\n    a.\tPre-application meeting (if applicable) (Section 8-2-3-3, Pre-Submittal Meeting);\n    b.\tNeighborhood meeting (if applicable) (Section 8-2-3-4, Neighborhood Meetings);\n    c.\tFormal application (Section 8-2-3-5, Formal Application);\n    d.\tCompleteness review (Section 8-2-3-7, Completeness Review);\n    e.\tNotice of application (Section 8-2-3-8, Notice of Application);\n    f.\tAdministrative review (Section 8-2-3-11, Review by Director);\n    g.\tAgency referrals (Section 8-1-1-6, Agency Referrals);\n    h.\tDesign Review Advisory Committee review (if applicable) (Section 8-1-2-4, Design Review Advisory Committee);\n    i.\tEffect of approvals (Section 8-2-3-14, Effect of Approvals); and\n    j.\tEffect of denial; successive applications (Section 8-2-3-15, Effect of Denial; Successive Applications).\n  2.\tAll development review procedures involving a decision by the Director (but not involving fact-finding by the Planning Commission) are subject to Section 8-2-3-2, Burden of Proof and Persuasion.\nC.\tProcedures Involving the Planning Commission and City Council.\n  1.\tProcedures involving the Planning Commission or City Council are subject to Section 8-2-3-3, Pre-Application Meeting, through Section 8-2-3-15, Effect of Denial; Successive Applications, inclusive.\n  2.\tIf a procedure requires a recommendation of the Planning Commission before a decision of the City Council, then the public hearing notice requirements of Section 8-2-3-12, Public Hearing Notice and Schedule, and the hearing procedures requirements of Section 8-2-3-13, Hearing Procedures, shall apply to the Planning Commission hearing and the City Council Hearing.\n  3.\tAll development review procedures (except as to legislative matters) involving the Planning Commission or City Council are subject to Section 8-2-3-2, Burden of Proof and Persuasion.\nD.\tSpecial Provisions. The following provisions apply to specific situations that may arise during development review, whether processed under Subsection B., above, or Subsection C., above:\n  1.\tSection 8-2-3-9, Inactive Applications, applies to applications that are not diligently pursued by the Applicant.\n  2.\tSection 8-2-3-10, Withdrawal of Applications, applies to situations where the Applicant seeks to withdraw an application.\n  3.\tSection 8-2-3-6, Simultaneous Processing of Applications, allows the Director to approve the simultaneous processing of related applications for development approval under certain conditions."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

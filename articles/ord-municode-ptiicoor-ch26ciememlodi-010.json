@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "filing",
+      "declaration",
+      "any",
+      "civil",
+      "emergency",
+      "disaster",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-35"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-35. - Filing of declaration.",
+    "summary": "(a)\nAny declaration of a civil emergency, emergency, or disaster by the city manager shall\n               be promptly filed with the city clerk, and the city manager shall notify as soon as\n               possible the city council. The public shall be notified of such a declaration through\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-35. - Filing of declaration.",
+        "a": "(a)\nAny declaration of a civil emergency, emergency, or disaster by the city manager shall\n               be promptly filed with the city clerk, and the city manager shall notify as soon as\n               possible the city council. The public shall be notified of such a declaration through\n               general dissemination to the news media, posting on the city website or other means\n               of publicity as intended to advise the general public.\n(b)\nAny order or proclamation declaring, continuing, or terminating a disaster or emergency\n               or civil emergency shall be filed promptly with the Colorado Division of Homeland\n               Security & Emergency Management and the Office of Emergency Management at Jefferson\n               County or Adams County (as appropriate).\n(c)\nThe form of the declaration may follow a template previously created by the community\n               resilience coordinator or any form as deemed appropriate by the city manager.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

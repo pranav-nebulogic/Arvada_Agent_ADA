@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-34-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "responsibilities",
+      "allowed",
+      "contaminate",
+      "another",
+      "water",
+      "supply",
+      "cities",
+      "colorado",
+      "Stormwater - Power Washing"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=34"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-are-our-responsibilities",
+    "faq_category_name": "Stormwater - Power Washing"
+  },
+  "content": {
+    "title": "What are our responsibilities?",
+    "summary": "We are not allowed to contaminate another’s water supply and cities in Colorado are required to control the discharge of any potential contaminants that could end up in our storm drain. The dirty water that is left after power washing often contains mud, soap, dirt, metals, oil, grease and other pol…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What are our responsibilities?",
+        "a": "We are not allowed to contaminate another’s water supply and cities in Colorado are required to control the discharge of any potential contaminants that could end up in our storm drain. The dirty water that is left after power washing often contains mud, soap, dirt, metals, oil, grease and other pollutants. Federal, State and local regulations on how wash water can be disposed are designed to improve water quality in rivers and streams by reducing the amount of pollutants carried to downstream communities."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

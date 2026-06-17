@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mtc",
+      "part",
+      "parking",
+      "amended",
+      "model",
+      "traffic",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-39"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-39. - MTC Part 12 \"Parking\" amended.",
+    "summary": "The Model Traffic Code is hereby amended by amending section 1206 of Part 12 in its\n               entirety to read as follows:\n1206. Unattended motor vehicle.\n(1)\nNo person driving or in charge of a motor vehicle shall permit it to stand unattended\n                  without first stopping the engin…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-39. - MTC Part 12 \"Parking\" amended.",
+        "a": "The Model Traffic Code is hereby amended by amending section 1206 of Part 12 in its\n               entirety to read as follows:\n1206. Unattended motor vehicle.\n(1)\nNo person driving or in charge of a motor vehicle shall permit it to stand unattended\n                  without first stopping the engine, locking the ignition, removing the key from the\n                  ignition, and effectively setting the brake thereon, and, when standing upon any grade,\n                  said person shall turn the front wheels to the curb or side of the highway in such\n                  a manner as to prevent the vehicle from rolling into the traveled way.\n(2)\nNo person driving or in charge of a motor vehicle shall permit it to stand unattended\n                  on property other than a street or highway without first stopping the engine, locking\n                  the ignition, removing the key from the ignition and effectively setting the brake\n                  thereon.\n(\nOrd. No. 4384, § 2, 4-15-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-39"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

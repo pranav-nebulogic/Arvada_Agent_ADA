@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exemptions",
+      "person",
+      "exempt",
+      "prosecution",
+      "under",
+      "certain",
+      "sections"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-217"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-217. - Exemptions.",
+    "summary": "(a)\nA person may be exempt from prosecution under certain sections of this article if,\n               at the time of the alleged offense, he or she is in possession of a valid medical\n               or retail marijuana transport manifest approved by the state marijuana enforcement\n               div…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-217. - Exemptions.",
+        "a": "(a)\nA person may be exempt from prosecution under certain sections of this article if,\n               at the time of the alleged offense, he or she is in possession of a valid medical\n               or retail marijuana transport manifest approved by the state marijuana enforcement\n               division at the time of the offense and is transporting the marijuana in accordance\n               with the rules allowing transport that are promulgated by the Colorado Department\n               of Revenue.\n(b)\nA person may be exempt from prosecution under certain section of this article if,\n               at the time of the alleged offense, he or she holds a valid retail marijuana establishment\n               license issued by the state marijuana enforcement division, or is an owner, employee,\n               or agent of such establishment and who is at the time of the alleged offense actually\n               engaged in regular authorized work activities.\n(c)\nDocumentation demonstrating any such exemption may be presented at an arraignment\n               or a pre-trial conference on the offense and may result in dismissal of the charge\n               as appropriate.\n(\nOrd. No. 4392, § 2, 7-1-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-217"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

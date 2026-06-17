@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "board",
+      "jurisdiction",
+      "membership",
+      "deleted",
+      "entirety",
+      "replaced"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-482"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-482. - I.P.M.C. Section 111.2, Board jurisdiction.",
+    "summary": "Section 111.2 Membership of board,\nis deleted in its entirety and replaced with\n111.2. Board jurisdiction\nto read as follows:\n\"(A) The following violations are exclusively appealable to the board of adjustment\n                  subject to those limitations as set forth in Section 111.1:\n301.3\nVacant…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-482. - I.P.M.C. Section 111.2, Board jurisdiction.",
+        "a": "Section 111.2 Membership of board,\nis deleted in its entirety and replaced with\n111.2. Board jurisdiction\nto read as follows:\n\"(A) The following violations are exclusively appealable to the board of adjustment\n                  subject to those limitations as set forth in Section 111.1:\n301.3\nVacant Structures and Land;\n302.1\nMisc. Standing/Stagnant Water;\n302.3\nSidewalk/Driveway Maintenance;\n302.3.1\nParking Lots/Potholes;\n302.4\nWeeds/Noxious Weeds;\n302.7\nMaintenance of Fences;\n302.8\nInoperable/Unlicensed Vehicles;\n302.8\nVehicle Repairs on Street;\n302.9\nGraffiti;\n302.10\nStorage of Building Materials;\n303.1\nSwimming Pools-Maintenance;\n303.2\nSwimming Pool Enclosures; or\n308\nAll offenses involving the Accumulation and Disposal of Rubbish and Garbage as well\n                     as its Removal.\n(B) Those violations of the IPMC not listed above in subsection (A) shall be appealable\n                  to the building code advisory board subject to those limitations in section 111.1.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-482"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

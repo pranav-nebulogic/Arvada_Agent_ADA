@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "temporary",
+      "obligations",
+      "pending",
+      "authorization",
+      "preparation",
+      "execution",
+      "delivery"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-59"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-59. - Temporary obligations.",
+    "summary": "Pending the authorization, preparation, execution or delivery of definite bonds, the\n               authority may issue interim certificates or other temporary obligations to the purchaser\n               of such bonds. Such interim certificates or other temporary obligations shall be in\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-59. - Temporary obligations.",
+        "a": "Pending the authorization, preparation, execution or delivery of definite bonds, the\n               authority may issue interim certificates or other temporary obligations to the purchaser\n               of such bonds. Such interim certificates or other temporary obligations shall be in\n               such form, contain such terms, conditions and provisions, bear such dates and evidence\n               such agreements relating to their discharge or payment or the delivery of definite\n               bonds as the authority may by resolution, trust indenture or mortgage determine.\n(Code 1981, § 14-28; Ord. No. 1248, § 13(2), 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-215(2)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-59"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

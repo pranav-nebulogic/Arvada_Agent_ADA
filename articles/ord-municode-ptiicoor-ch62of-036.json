@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "recyclable",
+      "materials",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-66"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-66. - Recyclable materials.",
+    "summary": "(a)\nDefinitions.\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nRecyclable materials\nmeans newspaper, magazines, cardboard, tele…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-66. - Recyclable materials.",
+        "a": "(a)\nDefinitions.\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nRecyclable materials\nmeans newspaper, magazines, cardboard, telephone books, loose paper, glass containers,\n               steel cans, plastic, aluminum cans and scraps, reusable clothing, or household items.\nRecycling agent\nmeans a person who collects recyclable materials throughout the city as such materials\n               appear on the curbs.\n(b)\nRemoval of recyclable materials.\nIt shall be unlawful for any person, other than the person placing recyclable materials\n               at the curb for collection or the designated recycling agent thereof, to take possession\n               and remove from the vicinity of the curb any recyclable materials that are plainly\n               marked with the name of the recycling agent for whom such recyclable materials are\n               intended.\n(Code 1981, § 21-34; Ord. No. 2747, § 1, 9-4-1990)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-66"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

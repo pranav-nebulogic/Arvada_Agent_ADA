@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "martinez",
+      "annexation",
+      "carr",
+      "council",
+      "project",
+      "public",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1319/Martinez-Annexation"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-315",
+    "spreadsheet_id": "MI-315",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Martinez Annexation",
+    "summary": "The Martinez Annexation project involves the annexation of 5044 Carr Street in Arvada, which is currently unincorporated Jefferson County, to provide the property with municipal water service due to a failing well. The annexation will cover approximately 1.17 acres, including portions of adjacent streets, and will rezone the property from R-2 to R-6 residential zoning upon integration into the City of Arvada. Key public hearings are scheduled for July 2025 and March-April 2026 for further consideration of the annexation.",
+    "body": "![Map showing parcel to be annexed at 5040 Carr Street in Arvada](/ImageRepository/Document?documentId=6012)\n\n## DA2024-0068\n\n### **Project Name:** Martinez Annexation\n\n**Project information:** Annexation and Rezoning\n\n- **Address/Location:**5044 Carr Street\n- **Developer:** TBD\n- **Planner: Rob Smetana**\n- **Acres:**1.17\n- **Use:**Residential\n- **Total Units:** N/A\n- **Planning Commission Public Hearing:**July 2, 2025\n- **City Council First Reading:**March 24, 2026\n- **City Council Public Hearing:**April 21, 2026\n\n**Project Narrative from the Developer:**Orlando Martinez, the owner (“Owner”) of 5044 Carr Street, Arvada (“Property”), is submitting this annexation petition to annex the Property and portions of the adjoining streets into the City of Arvada (“City”) to obtain water service from the City of Arvada. To date, the Property has been served by a well, which is now failing.  The Property has no access to municipal water. The Property is located in unincorporated Jefferson County and is not in the service area for any water district. The City no longer offers out-of-service-area contracts. Annexation would allow the Property access to water from the City of Arvada.\n\nSize of annexation: The Property is located in unincorporated Jefferson County less than a quarter mile outside the City’s boundary.  The Property is approximately 0.9 acres and is residential, consistent with the surrounding parcels.  The Property is bordered by Carr Street to the west and W. 51st Avenue to the north.  Annexation will require the City to annex certain small portions of Carr Street and W. 51st Avenue to connect the Property to the existing City limits.  In total, the approximate acreage of the annexed property, including both the Property and the portions of the adjoining streets, will be about 1.17 acres.\n\nComprehensive Plan Designation: The Property is currently located in an area designated as suburban residential under the City of Arvada’s Comprehensive Plan.\n\nUse and zoning: The Property is currently zoned as R-2 (Residential) under Jefferson County regulations. Upon annexation, the Property is expected to be zoned to the City’s equivalent zoning, R-6 (Residential).  There will be no development of the Property except as necessary in connection with connecting to the City’s water system; this application is only for annexation and does not include other development proposals.\n\nConstruction activities associated with project: If annexed, the Owner will work to connect the Property to the City’s water system, which may require limited construction. Current Service; Future plans.  The Property has a failing well; sewer service is provided by Clear Creek Valley Water & Sanitation. The Property will continue to be used for residential purposes.  Any further development of the Property will go through appropriate City approvals, as necessary.\n\n[Learn more about the project.](https://aca-prod.accela.com/ARVADA)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

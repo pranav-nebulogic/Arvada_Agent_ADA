@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "bufferyard",
+      "options",
+      "following",
+      "installed",
+      "along",
+      "street",
+      "frontage",
+      "alley",
+      "when",
+      "required"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-5-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-5. LANDSCAPE AREAS AND BUFFERYARDS"
+  },
+  "content": {
+    "title": "4-6-5-3. Bufferyard options.",
+    "summary": "A.\tOne of the following bufferyard options shall be installed along any non-street frontage or alley when required by Section 4-6-5-2, Purpose and Applicability, and landscape material shall be from the City's approved plant list to include acceptable buffer trees and shrubs.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-5-3. Bufferyard options.",
+        "a": "A.\tOne of the following bufferyard options shall be installed along any non-street frontage or alley when required by Section 4-6-5-2, Purpose and Applicability, and landscape material shall be from the City's approved plant list to include acceptable buffer trees and shrubs. The options are identified below:\n  1.\tOption A. A landscaped bufferyard with a minimum width of 30 feet shall be provided along the property line. Canopy shade trees, evergreen trees, and shrubs shall be provided as follows:\n    a.\tThree trees and 20 shrubs per 100 lineal feet of adjacency. A minimum 20 percent evergreen trees.\n  2.\tOption B. A landscaped bufferyard with a minimum width of 20 feet shall be provided along the property line. Canopy shade trees, evergreen trees, and shrubs shall be provided as follows:\n    a.\tFour trees and 24 shrubs per 100 lineal feet of adjacency. A minimum 40 percent evergreen trees.\n  3.\tOption C. A landscaped bufferyard with a minimum width of 20 feet shall be provided along the property line. The bufferyard shall include a six-foot tall solid fence or wall along the property line. Canopy shade trees, evergreen trees, and shrubs shall be provided as follows:\n    a.\tTwo trees and ten shrubs per 100 linear feet of adjacency plus six-foot tall solid fence or wall along the property line. A minimum 20 percent evergreen trees.\n  4.\tOption D. A landscaped bufferyard with a minimum of ten feet shall be provided along the property line. The bufferyard shall include a six-foot tall solid fence or wall along the property line. Brick or stone columns shall be incorporated into the fence or wall design and spaced at least every 30 feet. Canopy shade trees, evergreen trees, and shrubs shall be provided as follows:\n    a.\tFour trees and ten shrubs per 100 lineal feet of adjacency. A minimum 40 percent evergreen trees.\n  5.\tOption E. Option E shall be permitted only in the CN, MX-N and OT zoning districts. A six-foot tall solid wall constructed of brick, stone or other comparable materials with brick or stone columns spaced at least every 30 feet may be installed in-lieu of landscaping for sites containing 25 or fewer parking spaces.\n(Ord. No. 4851, § 3, 7-10-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-5-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

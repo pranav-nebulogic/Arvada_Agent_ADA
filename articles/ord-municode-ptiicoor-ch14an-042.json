@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "unsafe",
+      "transporting",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "control"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-173"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-173. - Unsafe transporting.",
+    "summary": "(a)\nIt shall be unlawful for any person who has control of any animal to allow such animal\n               to ride in or upon any motor vehicle in such a manner as to permit injury or endanger\n               the life of said animal such as:\n(1)\nTransporting any animal in an open truck or any vehicle …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-173. - Unsafe transporting.",
+        "a": "(a)\nIt shall be unlawful for any person who has control of any animal to allow such animal\n               to ride in or upon any motor vehicle in such a manner as to permit injury or endanger\n               the life of said animal such as:\n(1)\nTransporting any animal in an open truck or any vehicle in such a manner as to permit\n               the animal to jump or be thrown from the vehicle by acceleration, sudden movement\n               or accident involving the vehicle; or\n(2)\nConfinement or transportation of any animal in such a way that the animal is exposed\n               to extremes in temperature or weather conditions.\n(b)\nFor purposes of this section, the operator of a motor vehicle shall be deemed to have\n               control of any animals riding therein.\n(Code 1981, § 6-76(d); Ord. No. 3496, § 2, 12-14-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-173"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

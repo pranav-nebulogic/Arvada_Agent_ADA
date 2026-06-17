@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "voluntary",
+      "retirement",
+      "age",
+      "requirement",
+      "any",
+      "member",
+      "more"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-126"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-126. - Voluntary retirement; age requirement.",
+    "summary": "Any member who has 20 or more years of credited service may retire. If such member\n               elects to retire, he shall submit his written application to the board setting forth\n               what time, neither less than 90 days nor more than 180 days subsequent to the execution\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-126. - Voluntary retirement; age requirement.",
+        "a": "Any member who has 20 or more years of credited service may retire. If such member\n               elects to retire, he shall submit his written application to the board setting forth\n               what time, neither less than 90 days nor more than 180 days subsequent to the execution\n               and filing thereof, he desires to be retired. Such member shall be entitled to a pension\n               as provided for in\nsection 86-75\n.\n(Code 1960, § 19-7; Code 1981, § 26-61; Ord. No. 3287, §§ 1, 2, 8-19-1996)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-126"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

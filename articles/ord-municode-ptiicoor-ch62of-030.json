@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "transient",
+      "merchants",
+      "shall",
+      "unlawful",
+      "any",
+      "merchant",
+      "term"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-60"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-60. - Transient merchants.",
+    "summary": "It shall be unlawful for any transient merchant, as that term is defined in the Land\n               Development Code, to engage in any such business within the city without first obtaining\n               a permit therefor in compliance with the provisions of the zoning ordinance.\n(Code 1981, § 21-30…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-60. - Transient merchants.",
+        "a": "It shall be unlawful for any transient merchant, as that term is defined in the Land\n               Development Code, to engage in any such business within the city without first obtaining\n               a permit therefor in compliance with the provisions of the zoning ordinance.\n(Code 1981, § 21-30; Ord. No. 2285, § 1, 4-7-1986; Ord. No. 2318, § 1, 7-21-1986)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-60"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

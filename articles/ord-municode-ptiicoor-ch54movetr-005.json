@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mtc",
+      "part",
+      "signals",
+      "signs",
+      "markings",
+      "amended",
+      "model"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-35"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-35. - MTC Part 6 \"Signals - Signs - Markings\" amended.",
+    "summary": "The Model Traffic Code is hereby amended by amending subsection (1) of section 615\n               of Part 6 in its entirety to read as follows:\n615. School zones - increase in penalties for moving traffic violations.\n(1)\nAny person who commits a moving traffic violation in a school zone is subject t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-35. - MTC Part 6 \"Signals - Signs - Markings\" amended.",
+        "a": "The Model Traffic Code is hereby amended by amending subsection (1) of section 615\n               of Part 6 in its entirety to read as follows:\n615. School zones - increase in penalties for moving traffic violations.\n(1)\nAny person who commits a moving traffic violation in a school zone is subject to the\n                  increased penalties and surcharges imposed by section 1705(5).\n(\nOrd. No. 4384, § 2, 4-15-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "call",
+      "back",
+      "pay",
+      "regular",
+      "probationary",
+      "non",
+      "exempt"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-64"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-64. - Call-back pay.",
+    "summary": "Regular and probationary non-exempt employees who are called back to work outside\n               of their regular work hours shall be paid in accordance with applicable federal and\n               state laws and a policy established by the city manager.\n(\nOrd. No. 4862\n, § 1, 10-16-2023;\nOrd. No. 489…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-64. - Call-back pay.",
+        "a": "Regular and probationary non-exempt employees who are called back to work outside\n               of their regular work hours shall be paid in accordance with applicable federal and\n               state laws and a policy established by the city manager.\n(\nOrd. No. 4862\n, § 1, 10-16-2023;\nOrd. No. 4890\n, § 6, 2-10-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-64"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

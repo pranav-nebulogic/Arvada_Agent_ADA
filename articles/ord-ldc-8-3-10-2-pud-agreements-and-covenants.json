@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "agreements",
+      "covenants",
+      "generally",
+      "zoning",
+      "district",
+      "approval",
+      "constitutes",
+      "rezoning",
+      "agreement",
+      "between"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-10-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-10. PLANNED UNIT DEVELOPMENT"
+  },
+  "content": {
+    "title": "8-3-10-2. PUD agreements and covenants.",
+    "summary": "A.\tGenerally.\n  1.\tA PUD zoning district approval constitutes a rezoning and an agreement between the City and the owner(s) of the PUD-zoned property for the development of the property in accordance with specific conditions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-10-2. PUD agreements and covenants.",
+        "a": "A.\tGenerally.\n  1.\tA PUD zoning district approval constitutes a rezoning and an agreement between the City and the owner(s) of the PUD-zoned property for the development of the property in accordance with specific conditions. These conditions of approval shall be filed at the Community and Economic Development Department and shall be recorded at the office of the County Clerk and Recorder for the County in which the subject property is located.\n  2.\tThe use of the subject property, and the construction, modification, or alteration of any use or structures within a PUD zoning district shall be governed by the approved PUD documents and related conditions, if any.\n  3.\tThe City may require that conditions of approval be set out within recorded covenants.\n  4.\tThe Applicant, owner (if different), any subsequent buyers, as well as entities created by the developer such as a homeowners' or property owners' association or an architectural review committee, are subject to the conditions of approval and terms of all recorded documents.\nB.\tProperty Owners' Association Required. A property owners' association may be required if the development is designed in anticipation of more than one ownership within the PUD zoning district. See Sec. 8-4-5-4, Property Owners Associations; Covenants, Conditions, and Restrictions."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-10-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "water",
+      "sewer",
+      "lines",
+      "developer",
+      "required",
+      "design",
+      "install"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-94"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-94. - Water and sewer lines.",
+    "summary": "A developer is required to design and install at the developer's cost all water and\n               sanitary sewer lines and accessories to serve a development. City standards will be\n               used wherever applicable to the specific development. All such water and sanitary\n               sewer…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-94. - Water and sewer lines.",
+        "a": "A developer is required to design and install at the developer's cost all water and\n               sanitary sewer lines and accessories to serve a development. City standards will be\n               used wherever applicable to the specific development. All such water and sanitary\n               sewer lines will be not less than eight inches nominal diameter, unless smaller diameters\n               are permitted by the design criteria of the city. The requirements imposed by this\n               section are subject to the findings of the Community and Economic Development Director\n               as required in\nDivision 8-4-4\nof the city Land Development Code.\n(Code 1960, § 2-5(H); Code 1981, § 25-60; Ord. No. 2127, § 1, 12-17-1984; Ord. No.\n               2837, § 6, 8-5-1991; Ord. No.\n4728\n, § 21, 5-18-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-94"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

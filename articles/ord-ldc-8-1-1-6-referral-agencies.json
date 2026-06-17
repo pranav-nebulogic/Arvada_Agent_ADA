@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "referral",
+      "agencies",
+      "generally",
+      "director",
+      "maintain",
+      "list",
+      "including",
+      "limited",
+      "colorado",
+      "department"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-1-6"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-1. CITY STAFF AND REFERRAL AGENCIES"
+  },
+  "content": {
+    "title": "8-1-1-6. Referral agencies.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-1-6. Referral agencies.",
+        "a": "A.\tGenerally. The Director shall maintain a list of referral agencies, including, but not limited to: the Colorado Department of Transportation (\"CDOT\"), Jefferson County, Adams County, special districts, fire protection districts, school districts, ditch and/or reservoir companies, irrigation districts, and utility providers that may be affected by land use and development within the City. The Director shall refer applications to affected referral agencies as required by this Code or, if not required by this Code, as the Director may determine appropriate.\nB.\tReferral Agency Review. The Applicant for development approval shall be responsible for the payment of review fees and escrows charged by referral agencies, if any. Failure to pay referral agency fees in a timely manner may result in delays in application processing."
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-1-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

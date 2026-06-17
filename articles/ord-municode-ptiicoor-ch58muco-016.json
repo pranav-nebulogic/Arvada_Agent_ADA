@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "classification",
+      "violations",
+      "right",
+      "jury",
+      "trial",
+      "offenses",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-41"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-41. - Classification of violations; right to jury trial.",
+    "summary": "(a)\nClassification of violations.\nOffenses shall be classified as either ordinance violations or traffic violations.\n               Certain parking offenses shall be classified as civil parking violations. Ordinance\n               violations are found within the Arvada City Code. Traffic violations …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-41. - Classification of violations; right to jury trial.",
+        "a": "(a)\nClassification of violations.\nOffenses shall be classified as either ordinance violations or traffic violations.\n               Certain parking offenses shall be classified as civil parking violations. Ordinance\n               violations are found within the Arvada City Code. Traffic violations are found in\n               the Model Traffic Code for Colorado as adopted and amended by Arvada. Civil parking\n               violations are found in division 1 of article IV, local parking regulations, of\nchapter 54\n, motor vehicles and traffic, of the Arvada City Code.\n(1)\nNotwithstanding any other provision of this Code, ordinance violations that carry\n               the possibility of a jail sentence shall be known as misdemeanor ordinance violations,\n               and those that do not carry the possibility of a jail sentence shall be known as petty\n               offenses.\n(2)\nTraffic violations shall be classified as either misdemeanor traffic offenses or noncriminal\n               traffic infractions. A violation of any of the following provisions of the Model Traffic\n               Code for Colorado as adopted and amended by Arvada shall be classified as misdemeanor\n               traffic offenses:\na.\nSection 1101(1), \"Speed Limits,\" only where the speed alleged is twenty-five or more\n               miles in excess of the reasonable and prudent speed;\nb.\nSection 1105, \"Speed contests-speed exhibition;\"\nc.\nSection 1401, \"Reckless driving;\"\nd.\nSection 1402, \"Careless driving'\"\ne.\nSection 1409, \"Compulsory insurance;\"\nf.\nSection 1413, \"Eluding or attempting to elude a police officer;\" or\ng.\nSection 1903, \"School buses-stops-signs-passing.\"\nAll other traffic violations contained in the Model Traffic Code for Colorado as adopted\n               and amended by Arvada shall be classified as noncriminal traffic infractions.\n(b)\nRight to jury trial.\nAny defendant charged with a misdemeanor ordinance violation, petty offense, or a\n               misdemeanor traffic offense shall have a right to a trial by jury if, within 21 calendar\n               days after entry of a plea, the defendant files with the court a written jury demand\n               and tenders to the court a jury fee of $25.00. The jury fee may be waived by the court\n               if the court finds the defendant to be indigent.\nException: No child under the age of 18 years shall be entitled to a trial by jury\n               for any municipal ordinance violation, petty offense, misdemeanor traffic offense,\n               or traffic violation.\n(c)\nMultiple violations.\nIn the event that a defendant is charged with more than one traffic violation arising\n               out of the same incident, and at least one of the charged offenses is a misdemeanor\n               traffic offense, the defendant shall have the right to demand a trial by jury as to\n               all violations arising out of that incident. All such violations shall be consolidated\n               for purposes of trial.\n(Code 1960, § 1-10; Code 1981, § 18-29; Ord. No. 2039, § 1, 3-5-1984; Ord. No. 3286,\n               § 1, 8-19-1996;\nOrd. No. 4384, § 5, 4-15-2013\n; Ord. No.\n4768\n, § 2, 7-19-2021)\nState Law reference—\nTrial by jury, C.R.S. §§ 13-10-114, 16-10-109."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-41"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

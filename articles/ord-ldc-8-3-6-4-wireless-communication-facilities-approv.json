@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "wireless",
+      "communication",
+      "facilities",
+      "approval",
+      "criteria",
+      "base",
+      "stations",
+      "including",
+      "alternative",
+      "tower"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-6-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-6. WIRELESS COMMUNICATION FACILITIES"
+  },
+  "content": {
+    "title": "8-3-6-4. Wireless communication facilities - approval criteria.",
+    "summary": "A.\tBase Stations including Alternative Tower Structures.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-6-4. Wireless communication facilities - approval criteria.",
+        "a": "A.\tBase Stations including Alternative Tower Structures. The Director may approve or approve with conditions the request for a base station, including alternative tower structures, should it be determined that the application does meet the operational standards, design criteria and all other applicable elements of this Code. The Director may deny such request, if it is determined by the Director that the application does not meet the operational standards, design criteria or any other applicable elements of this Code.\nB.\tSmall Cell Facilities. The Director may approve or approve with conditions the request for a Small Cell Facility should it be determined that the application does meet the operational standards, design criteria and all other applicable elements of this Code. The Director may deny such request, if it is determined by the Director that the application does not meet the operational standards, design criteria or any other applicable elements of this Code.\nC.\tTowers. Applications for freestanding Towers shall be processed through the public hearing process before Planning Commission and City Council based on the approval criteria in Section 8-3-5-1."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-6-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

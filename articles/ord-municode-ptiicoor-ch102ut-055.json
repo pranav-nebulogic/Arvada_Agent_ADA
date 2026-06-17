@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "discharge",
+      "groundwater",
+      "sanitary",
+      "sewers",
+      "prohibited",
+      "unlawful",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-135"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-135. - Discharge of groundwater in sanitary sewers prohibited.",
+    "summary": "It is unlawful for any person to discharge precipitation runoff from roof downspouts\n               or stormwater collection systems or subsurface groundwater from such sources as foundation\n               drainage systems and sump pumps into the city sanitary sewer system.\n(Code 1981, § 33-68; Ord.…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-135. - Discharge of groundwater in sanitary sewers prohibited.",
+        "a": "It is unlawful for any person to discharge precipitation runoff from roof downspouts\n               or stormwater collection systems or subsurface groundwater from such sources as foundation\n               drainage systems and sump pumps into the city sanitary sewer system.\n(Code 1981, § 33-68; Ord. No. 2574, § 1, 11-21-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-135"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "development",
+      "review",
+      "fees",
+      "division",
+      "authorizes",
+      "city",
+      "impose",
+      "offset"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-1-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "8-4-1-2. Application of article.",
+    "summary": "A.\tDevelopment Review Fees.Division 8-4-2, Development Review Fees, authorizes the City to impose fees to offset the City's costs of development review.\nB.\tLand Dedications and Fees-in-Lieu.Division 8-4-3, Land Dedications; Fees-in-Lieu; and Development Fees, establishes standards for land dedicatio…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-1-2. Application of article.",
+        "a": "A.\tDevelopment Review Fees.Division 8-4-2, Development Review Fees, authorizes the City to impose fees to offset the City's costs of development review.\nB.\tLand Dedications and Fees-in-Lieu.Division 8-4-3, Land Dedications; Fees-in-Lieu; and Development Fees, establishes standards for land dedication for certain public purposes, or for the payment of fees-in-lieu of land dedication in cases where the dedication of land is not practical.\nC.\tPublic Improvements.Division 8-4-4, Public Improvements, Warranties, and Utilities, sets out the requirements for the installation of public improvements and for the provision of the associated warranties and financial guarantees, provides a process for inspection and acceptance of public improvements, and provides for security and long-term maintenance of drainage improvements and landscaping.\nD.\tDevelopment-Related Agreements and Covenants.Division 8-4-5, Development-Related Agreements and Covenants, establishes minimum requirements for agreements that are related to development (e.g., annexation agreements, public improvements agreements, etc.), and, in certain circumstances, for covenants, conditions, and restrictions on real property that provide for the long-term maintenance of certain improvements."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

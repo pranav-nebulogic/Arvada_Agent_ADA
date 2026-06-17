@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "applying",
+      "permit",
+      "SMART License & Permits",
+      "account",
+      "public",
+      "select",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://aca-prod.accela.com/ARVADA"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-048",
+    "spreadsheet_id": "MI-048",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Applying for a Permit with SMART License & Permits",
+    "summary": "To apply for a permit using SMART License & Permits, users must first sign in or create an account by selecting \\\"Public\\\" and setting a username and password. New users can set up their accounts through the provided link, while returning users can log in directly to access their dashboard.",
+    "body": "**Attention**: You may need to complete and upload supplementary documents during the application process.\n\n## Step 1: Sign in to SMART License & Permits\n\n### New Users\n\n- If you do not have an SMART License & Permits account, you will need to set up an account. To do so, you will need to select \"Public\" in the log in window and select a username and password.\n- [Setup An Account](https://aca-prod.accela.com/ARVADA).\n\n### Returning Users\n\n- Sign in as a [Public User with your SMART License & Permits account](https://aca-prod.accela.com/ARVADA).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

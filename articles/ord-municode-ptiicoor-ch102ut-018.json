@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "water",
+      "meters",
+      "generally",
+      "all",
+      "connected",
+      "services",
+      "metered"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-61"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-61. - Water meters; generally.",
+    "summary": "(a)\nAll connected water services will be metered by the installation of water meters of\n               the style and type as set forth in the schedule of materials issued by the engineering\n               division in accordance with city standard specifications and drawings. Each meter\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-61. - Water meters; generally.",
+        "a": "(a)\nAll connected water services will be metered by the installation of water meters of\n               the style and type as set forth in the schedule of materials issued by the engineering\n               division in accordance with city standard specifications and drawings. Each meter\n               and its service line from the main to the meter will be the same size as the connection\n               to the city main, unless the utilities manager determines otherwise.\n(b)\nEvery residential and nonresidential facility shall have a separate service line and\n               meter from the city main to the building except in such circumstances as set forth\n               in\nsection 102-33\n.\n(c)\nThe first and original meter will be purchased by the owner and become a part of the\n               property served. This meter will be used to measure water use during construction,\n               and, subsequently, the water delivered to the user.\n(d)\nThe city shall have reasonable access to the meter for the purpose of reading and\n               servicing. The city may remove or exchange the meter for purposes of testing and servicing.\n(e)\nThe cost of normal servicing, repairing, and replacement of water meters will be paid\n               by the city. The cost of repairs resulting from abuse, freezing, hot water, or other\n               causes will be paid by the user.\n(f)\nWater meters cannot be installed in driveways, sidewalks, or parking lots except upon\n               prior written authorization from the utilities manager. If there is no alternative\n               location, then heavy duty round meter pit ring and lids shall be used as specified\n               in city engineering specifications. All costs associated with relocating or upgrading\n               existing meter pits to heavy duty shall be at the user's expense.\n(g)\nThe meter flow accuracy limits shall be determined by the city in accordance with\n               industry standards as set forth in \"Water Meters—Selection, Installation, Testing,\n               and Maintenance\" (AWWA M6), third edition, copyright 1986 by the American Water Works\n               Association, which is hereby adopted by reference.\n(h)\nIt is unlawful for any person to interfere with or remove a water meter from any service\n               connection without first obtaining the written approval of the department of utilities.\n               Whenever any meter is removed with such approval, the meter will be immediately returned\n               to the department of utilities. In the event that a meter is missing from a location\n               where it is known that a meter had previously been installed, the owner of the premises\n               is required to install a new meter and pay all costs for such installation.\n(i)\nWater service lines to all residential dwellings for fire protection will be metered.\n               The owner will furnish engineering calculations to the department of utilities substantiating\n               the fire flow and domestic flow requirements. The system development charge will be\n               based on the domestic flow requirement and not the fire flow requirement. The meter\n               will be installed as previously set forth in this section. The fire line will be installed\n               as required in the Engineering Code of Standards and Specifications, as amended.\n(j)\nShould the city perform any work or incur any expense for the installation, removal,\n               replacement, servicing, relocation, or maintenance of any water meter, appurtenance,\n               or meter pit, and any such work or expense is determined to be the responsibility\n               by either the user or the owner, the city is authorized to recover the actual cost\n               of such work or expense as provided in\nsection 102-41\n.\n(k)\nWater service lines to commercial swimming pools, including the supporting facilities,\n               such as the bath or club house, and mechanical room, shall be metered. Water meters\n               will be installed in the water service lines at the following locations:\n(1)\nFor seasonal and nonseasonal swimming pool installations where no water is delivered\n               to irrigate the landscaping on the property, then only one water meter will be installed\n               at the property line in accordance with\nsection 102-61\n(c).\n(2)\nFor seasonal and nonseasonal swimming pool installations where water is also delivered\n               to irrigate landscaping on the property, in addition to the first water meter required\n               in accordance with\nsection 102-61\n(c), a second water meter will be installed in the water service line immediately\n               ahead of the swimming pool and supporting facilities.\n(3)\nFor seasonal and nonseasonal swimming pool installations serving multi-family residential\n               facilities, with or without water being delivered to irrigate landscaping on the property,\n               in addition to the first water meter required in accordance with\nsection 102-37\n(c), a second water meter shall be installed in the water service line immediately\n               ahead of the swimming pool and supporting facilities.\n(l)\nAll the water and sewer service lines to a multifamily residential facility shall\n               be installed downstream of the master meter pit on the building or subdivision property.\n               Each water service line branch to each unit in the building shall have a curb stop\n               valve.\n(m)\nThe water meter in an inactive connected water service will be removed by the city.\n(Code 1981, § 33-36; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, §§ 2—4, 10-16-1989;\n               Ord. No. 2823, § 5, 7-1-1991; Ord. No. 2931, § 3, 10-19-1992; Ord. No. 3127, § 6,\n               10-24-1994; Ord. No. 3223, § 5, 10-23-1995; Ord. No. 3403, § 6, 10-20-1997; Ord. No.\n               4819, § 11, 10-17-2022, eff. 7-1-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

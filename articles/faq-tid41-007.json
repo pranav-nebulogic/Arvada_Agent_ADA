@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-41-008",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "throw",
+      "yard",
+      "waste",
+      "other",
+      "trash",
+      "ditch",
+      "please",
+      "anything",
+      "Parks & Open Space - Ditches"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=41"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-i-throw-yard-waste-or-other-trash-in-the-ditch",
+    "faq_category_name": "Parks & Open Space - Ditches"
+  },
+  "content": {
+    "title": "Can I throw yard waste or other trash in the ditch?",
+    "summary": "Please do not throw anything in the ditches, even grass clippings and especially dog poop. Ditches are a vital water source, and you or someone downstream may use this water for irrigation or drinking after treatment. Additionally, yard waste left piled on the ditch banks can cause erosion problems.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can I throw yard waste or other trash in the ditch?",
+        "a": "Please do not throw anything in the ditches, even grass clippings and especially dog poop. Ditches are a vital water source, and you or someone downstream may use this water for irrigation or drinking after treatment. Additionally, yard waste left piled on the ditch banks can cause erosion problems."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

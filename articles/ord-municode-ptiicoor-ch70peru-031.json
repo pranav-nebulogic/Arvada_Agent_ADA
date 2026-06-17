@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reduction",
+      "wages",
+      "subject",
+      "requirements",
+      "limitations",
+      "fair",
+      "labor"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-63"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-63. - Reduction of wages.",
+    "summary": "(a)\nSubject to the requirements and limitations of the Fair Labor Standards Act (FLSA),\n               reductions in an employee's regular pay may be made for any of the following reasons:\n(1)\nUnauthorized absence,\n(2)\nAbsence due to illness after all sick leave, holiday leave, floating holiday leav…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-63. - Reduction of wages.",
+        "a": "(a)\nSubject to the requirements and limitations of the Fair Labor Standards Act (FLSA),\n               reductions in an employee's regular pay may be made for any of the following reasons:\n(1)\nUnauthorized absence,\n(2)\nAbsence due to illness after all sick leave, holiday leave, floating holiday leave,\n               and vacation time has been used,\n(3)\nAbsence due to suspension from duty without pay,\n(4)\nLeave without pay,\n(5)\nOverpayments, or\n(6)\nAny other absence not authorized by this chapter or by the city manager.\n(b)\nWhenever an employee works for less than the regularly established number of hours\n               a day, days per week, or weeks per month, the amount paid shall be pro rata based\n               on the number of hours worked for that pay period.\n(c)\nThe employee's appointing authority will approve all reductions in pay.\n(d)\nIt is the city's policy to comply with the salary basis requirements of the FLSA.\n               Therefore, the city will not intentionally make improper reductions of pay from the\n               salaries of employees not permitted under FLSA. If an employee believes that an improper\n               reduction of pay has been made to their pay, they should report this information to\n               payroll or the human resources department. Reports of improper reductions of pay will\n               be promptly investigated. If it is determined that an improper reduction of pay has\n               occurred, the employee will be promptly reimbursed. If the city makes an overpayment,\n               the city will set up a repayment schedule after conferring with the employee.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-63"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

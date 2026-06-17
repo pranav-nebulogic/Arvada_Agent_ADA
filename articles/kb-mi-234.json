@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "franchise",
+      "operations",
+      "agreement",
+      "code",
+      "paid",
+      "purchase",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/337/Franchise-Operations"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-234",
+    "spreadsheet_id": "MI-234",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Franchise Operations",
+    "summary": "Arvada imposes a sales tax on the purchase price of tangible personal property sold at retail, with a use tax applicable if insufficient tax was paid at purchase. Franchise agreements allow franchisees to operate under a franchisor's brand in exchange for fees, and sales or use tax applies to tangible items provided under these agreements. Taxable items include equipment and promotional materials, while certain advertising and royalty fees are exempt, and franchisees must ensure proper tax collection on sales and reimbursements.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property sold at retail in the City. To the extent a sufficient, legally-imposed sales/use tax was not paid to the City or another municipality at the time of purchase, Arvada use tax is due.\n\n## Franchise Agreement\n\nA franchise agreement is a business relationship that grants a right or license to a franchisee to operate, using the name, process, territory, patent, copyright, trademark, or other property, tangible or intangible, of a franchisor. In exchange, the franchisor charges a fee (royalties or service fees) to the franchisee for the right to use the property. The franchisor may also impose various requirements or standards over the operation of the franchisee including distribution, sales, purchases, product presentation, quality, cleanliness, or other controls as the franchise agreement specifies.\n\nSales or use tax applies to the sale or license to use taxable tangible personal property supplied under a franchise agreement.\n\nWhen both intangible rights and tangible personal property are furnished under a franchise agreement, and the charges are not separately stated, the Arvada tax will apply to the entire franchise payment. If the charges are separated or can be determined from the franchise agreement, only the items otherwise taxable under the Arvada Municipal Code are subject to sales or use tax.\n\n## Taxable Products\n\nTaxable items include, but are not limited to the following:\n\n- Computers\n- Equipment\n- Furniture\n- Instructional materials\n- Menus\n- Operational manuals\n- Point of sales system\n- Promotional materials\n- Software\n- Tableware\n\nThe following items are exempt from sales and use tax when sold by the franchiser to the franchisee:\n\n- Advertising which is prepared and placed in the media (TV, radio, social media)\n- Items that are sold in the regular course of the franchisee's business\n- Royalty fees if no taxable service or property is included\n\n## Examples\n\n- A retail location is owned by the franchisor and leased to the franchisee. The franchisee has a monthly lease for the rental of the building, equipment, and customer seating, and pays a fee for promotional signs and logo items. The amount of the lease payment attributable to the tangible personal property (equipment and customer seating) and the promotional items under the agreement are subject to Arvada sales and use tax.\n- A franchisee has the option to own the retail location and operate under the franchisee's name. As part of this agreement, the franchisee must buy all restaurant equipment and all logo supplies from the franchisor. The purchase of all equipment and supplies that are not purchased for resale are subject to Arvada sales and use tax.\n- As part of the franchise agreement, the franchisee must participate in national promotions such as a buy one get one free offer. The franchisor will reimburse the franchisee $0.50 for each unit sold. Since the franchisee is reimbursed, the reimbursement becomes part of the selling price and is subject to city tax. The franchisee must charge sales tax to the customers on the selling price of the item sold and on the $0.50 reimbursement received from the franchisor. If the franchisee does not charge sales tax to the customers, the franchisee is required to pay use tax.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

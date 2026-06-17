@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "maximum",
+      "permissible",
+      "continuous",
+      "sound",
+      "pressure",
+      "levels",
+      "general"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-91"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-91. - Maximum permissible continuous sound pressure levels—General.",
+    "summary": "It shall be unlawful for any person to operate or cause or permit to be operated any\n               stationary source of noise which creates a sound pressure level that exceeds the limits\n               set forth in Table I for more than 90 percent of any measurement period. This measurement\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-91. - Maximum permissible continuous sound pressure levels—General.",
+        "a": "It shall be unlawful for any person to operate or cause or permit to be operated any\n               stationary source of noise which creates a sound pressure level that exceeds the limits\n               set forth in Table I for more than 90 percent of any measurement period. This measurement\n               shall not be less than ten minutes when measured at the property boundary or at any\n               point within the property affected by the noise.\nTABLE I. SOUND PRESSURE LEVEL LIMIT dB(A)\nDay\nNight\nUse District\n7:00 a.m.—9:00 p.m.\n9:00 p.m.—7:00 a.m.\nResidential and mixed-use\n55\n50\nCommercial\n60\n55\nLight\nindustrial\n70\n65\nHeavy\nindustrial\n75\n75\nNoise levels for any PUD shall conform with this table, and shall be determined by\n               the predominant land use as set forth in the PUD plan.\n(Code 1981, § 19-20; Ord. No. 2208, § 1, 9-16-1985; Ord. No. 3017, § 3, 11-15-1993>;\n               Ord. No.\n4728\n, § 11, 5-18-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-91"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

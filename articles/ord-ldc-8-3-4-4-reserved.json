@@ -1,0 +1,59 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "reserved",
+      "adopted",
+      "february",
+      "repealed",
+      "which",
+      "pertained",
+      "amendments",
+      "official",
+      "floodplain"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-4-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-4. ZONING AND REZONING"
+  },
+  "content": {
+    "title": "8-3-4-4. Reserved.",
+    "summary": "Ord. No. 4867, § 6, adopted February 12, 2024, repealed § 8-3-4-4, which pertained to amendments to the official floodplain map.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-4-4. Reserved.",
+        "a": "Ord. No. 4867, § 6, adopted February 12, 2024, repealed § 8-3-4-4, which pertained to amendments to the official floodplain map."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-4-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

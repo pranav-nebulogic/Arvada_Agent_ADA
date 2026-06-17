@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "general",
+      "powers",
+      "council",
+      "behalf",
+      "city",
+      "name",
+      "without"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-6"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-6. - General powers.",
+    "summary": "The council, on behalf of the city and in its name, without any election, shall have\n               power from time-to-time to acquire, improve, equip, operate and maintain, within or\n               without the city, or both within and without the city, any project, including without\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-6. - General powers.",
+        "a": "The council, on behalf of the city and in its name, without any election, shall have\n               power from time-to-time to acquire, improve, equip, operate and maintain, within or\n               without the city, or both within and without the city, any project, including without\n               limitation:\n(1)\nA combined sewer project;\n(2)\nA curb and gutter project;\n(3)\nA drainage and flood control project;\n(4)\nAn off-street parking project;\n(5)\nAn overpass project;\n(6)\nA park project;\n(7)\nA sanitary sewer project;\n(8)\nA sidewalk project;\n(9)\nA storm sewer project;\n(10)\nA street project;\n(11)\nAn underpass project; and\n(12)\nA water project.\n(Code 1981, § 27-7; Ord. No. 551, § 5, 5-14-1964; Ord. No. 1643, § 2, 2-18-1980)\nState Law reference—\nWhat improvements may be made, C.R.S. § 31-25-503."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

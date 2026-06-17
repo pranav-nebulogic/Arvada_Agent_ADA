@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-38-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "homelessness",
+      "according",
+      "department",
+      "housing",
+      "urban",
+      "development",
+      "hud",
+      "individual",
+      "Homelessness in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=38"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-is-homelessness",
+    "faq_category_name": "Homelessness in Arvada"
+  },
+  "content": {
+    "title": "What is homelessness?",
+    "summary": "According to the U.S. Department of Housing and Urban Development (HUD), homelessness is when an \"individual or family lacks a fixed, regular, and adequate nighttime residence.\" This includes people living on the streets as well as families and individuals transitioning among different settings, lik…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What is homelessness?",
+        "a": "According to the U.S. Department of Housing and Urban Development (HUD), homelessness is when an \"individual or family lacks a fixed, regular, and adequate nighttime residence.\" This includes people living on the streets as well as families and individuals transitioning among different settings, like short-stay motels, doubling-up with friends or family members, sleeping in cars or living in transitional housing or shelters."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

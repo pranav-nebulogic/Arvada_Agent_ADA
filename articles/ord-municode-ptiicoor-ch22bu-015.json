@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "manager",
+      "change",
+      "registered",
+      "his",
+      "designee",
+      "shall",
+      "premises"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-61"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-61. - Manager; change of manager.",
+    "summary": "(a)\nA registered manager or his designee shall be on the premises of an adult business\n               at all times that adult entertainment is being provided. It shall be unlawful for\n               any person to work as a manager of an adult business without first registering with\n               th…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-61. - Manager; change of manager.",
+        "a": "(a)\nA registered manager or his designee shall be on the premises of an adult business\n               at all times that adult entertainment is being provided. It shall be unlawful for\n               any person to work as a manager of an adult business without first registering with\n               the city clerk. The registration form shall require the applicant to provide his legal\n               name and any aliases, home address, telephone number, and date of birth.\n(b)\nIn the event a licensee changes the manager of an adult business, the licensee shall\n               immediately report such change and register the new manager on forms provided by the\n               city clerk within ten days of such change.\n(Code 1981, § 4-20; Ord. No. 3217, § 2, 9-18-1995; Ord. No. 3810, § 1, 6-16-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

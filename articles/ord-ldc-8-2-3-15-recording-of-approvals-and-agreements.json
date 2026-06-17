@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "recording",
+      "approvals",
+      "agreements",
+      "generally",
+      "following",
+      "types",
+      "approval",
+      "documents",
+      "recorded",
+      "annexation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-15"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-15. Recording of approvals and agreements.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-15. Recording of approvals and agreements.",
+        "a": "A.\tGenerally. The following types of approval documents and agreements shall be recorded:\n  1.\tAnnexation Agreements and Annexation Maps;\n  2.\tCost-Sharing or Reimbursement Agreements;\n  3.\tDevelopment Agreements;\n  4.\tMajor Subdivision Final Plats;\n  5.\tMinor Subdivision Final Plats;\n  6.\tVacations of Easements; and\n  7.\tVacations of Rights-of-Way.\nB.\tResponsibility for Recording. The City shall record the documents listed in Subsection A., above, in the office of the County Clerk and Recorder for the County in which the subject property is located. Such recording shall be at the Applicant's expense. At the request of the Applicant, the City may allow for a title company to record the documents for the City provided that a recorded copy of the documents are given to the City with ten days of recordation."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-15"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

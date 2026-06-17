@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "waiver",
+      "objections",
+      "any",
+      "complaint",
+      "protest",
+      "objection",
+      "regularity"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-35"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-35. - Waiver of objections.",
+    "summary": "Any complaint, protest or objection to the regularity, validity and correctness of\n               the proceedings and instruments taken, adopted or made prior to the date of a provisional\n               order hearing shall be deemed waived unless presented in writing on specific grounds\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-35. - Waiver of objections.",
+        "a": "Any complaint, protest or objection to the regularity, validity and correctness of\n               the proceedings and instruments taken, adopted or made prior to the date of a provisional\n               order hearing shall be deemed waived unless presented in writing on specific grounds\n               at the time and in the manner herein provided.\n(Code 1981, § 27-36; Ord. No. 551, § 14(E), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

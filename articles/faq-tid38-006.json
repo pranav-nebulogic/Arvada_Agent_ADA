@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-38-007",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "contact",
+      "arvada",
+      "police",
+      "department",
+      "about",
+      "homelessness",
+      "illegal",
+      "people",
+      "Homelessness in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=38"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/when-should-i-contact-the-arvada-police-department-about-hom",
+    "faq_category_name": "Homelessness in Arvada"
+  },
+  "content": {
+    "title": "When should I contact the Arvada Police Department about homelessness?",
+    "summary": "Homelessness is not illegal, and people experiencing homelessness are still Arvada residents deserving of respect and dignity. The Arvada Police Department’s Community Outreach Resource Enforcement team provides for public safety and conducts outreach to connect people experiencing homelessness to e…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "When should I contact the Arvada Police Department about homelessness?",
+        "a": "Homelessness is not illegal, and people experiencing homelessness are still Arvada residents deserving of respect and dignity. The Arvada Police Department’s Community Outreach Resource Enforcement team provides for public safety and conducts outreach to connect people experiencing homelessness to existing services. If somebody is in physical harm, you witness an active fire or a crime in progress, or you are concerned for an individual or family's welfare, please call 911. If you want to report an encampment, use Ask Arvada so that the appropriate resources can be deployed."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

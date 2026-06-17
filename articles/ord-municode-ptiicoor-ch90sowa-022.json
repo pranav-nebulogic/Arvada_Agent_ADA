@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "disposal",
+      "solid",
+      "waste",
+      "all",
+      "persons",
+      "holding",
+      "licenses"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-60"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-60. - Disposal of solid waste.",
+    "summary": "(a)\nAll persons holding licenses pursuant to this chapter and engaged in the business\n               of the collection of solid waste shall dispose of all such solid waste at any disposal\n               site which is approved by the State. No solid waste shall be disposed of at any other\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-60. - Disposal of solid waste.",
+        "a": "(a)\nAll persons holding licenses pursuant to this chapter and engaged in the business\n               of the collection of solid waste shall dispose of all such solid waste at any disposal\n               site which is approved by the State. No solid waste shall be disposed of at any other\n               location either inside or outside of the city.\n(b)\nNo person shall operate any vehicle in such a manner as to deposit or litter on any\n               public way with solid waste.\n(c)\nAll persons holding licenses pursuant to this chapter are required to pick up solid\n               waste properly prepared for disposal by the customer pursuant to any agreement between\n               the hauler and the customer.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-60"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "unions",
+      "hereby",
+      "added",
+      "read",
+      "follows",
+      "approved"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-398"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-398. - I.P.C. Section 405.1.1, Unions.",
+    "summary": "Section 405.1.1. Unions,\nis hereby added to read as follows:\n\"\n405.1.1. Unions.\nUnions or an approved means of disconnect shall be installed in the water supply\n                  piping within 12 inches (305 mm) and on each side of the regulating equipment, water\n                  heating, condition…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-398. - I.P.C. Section 405.1.1, Unions.",
+        "a": "Section 405.1.1. Unions,\nis hereby added to read as follows:\n\"\n405.1.1. Unions.\nUnions or an approved means of disconnect shall be installed in the water supply\n                  piping within 12 inches (305 mm) and on each side of the regulating equipment, water\n                  heating, conditioning tanks, and similar equipment which may require service by removal\n                  or replacement.\"\n(Ord. No.\n4738\n, § 11, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-398"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

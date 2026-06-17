@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "professional",
+      "services",
+      "code",
+      "personal",
+      "property",
+      "tangible",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/366/Professional-Services"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-429",
+    "spreadsheet_id": "MI-429",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Professional Services",
+    "summary": "The Arvada Municipal Code imposes a sales tax on tangible personal property and certain taxable services, requiring professional service businesses to obtain an Arvada Business License, even if they do not sell taxable items. While the purchase of professional services like accounting and legal services is generally not taxable, businesses involved in manufacturing or providing services related to tangible personal property must collect sales tax on those transactions. The city evaluates transactions based on the purchaser's perspective to determine tax liability.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property and certain taxable services in the City by the ultimate user or consumer. This also includes a use tax upon using, storing, distributing, or otherwise consuming in the City any article of tangible personal property purchased, leased, or rented from sources outside the City on which a lawfully imposed sales tax has not been paid.\n\nProfessional service businesses that are engaged in business in the City must obtain an Arvada Business License even if they do not sell any tangible personal property or taxable service. Although service businesses generally do not have a sales tax liability, they may have a use tax liability.\n\nThe purchase of professional services, such as accounting services, legal services, consulting services, and planning and design services, are not subject to tax even though some tangible personal property may be incidentally conveyed to the purchaser in the performance of the service.\n\nAn important distinction must be made, however, between the commission, hire, or purchase of professional services and services or labor used in manufacturing tangible personal property. Manufacturing or fabricated labor or services expended in the creation, assembly, production, or configuration of tangible personal property is part of the taxable purchase price even when the cost or charges of such labor or services may be segregated from the cost or charges for materials. Charges for freight, delivery, and transportation are also subject to Arvada sales and use tax.\n\nIn determining whether a transaction involves the sales of tangible personal property or the performance of a service with a transfer of tangible personal property is incidental to the performance of the service, the City will examine the transaction from the purchaser's perspective. If the essence of the transaction is, from the purchaser's perspective, the acquisition of service, as such, the transaction or the subsequent use is not taxable even though some tangible personal property is incidentally transferred with the performance of the service. However, if a service is performed in the production of tangible personal property, and if the object of the transaction, from the purchaser's perspective, is the acquisition of the tangible personal property, the transaction, or use after the sale, is taxable.\n\nBusinesses that sell tangible personal property along with the service of installing, affixing, or repairing such property, such as automotive repair shops, must collect sales tax on the purchase price of the property sold. The service or labor charges may be excluded from the taxable total if separately stated.\n\n## Example\n\n- Max is a CPA that works for ABC Accounting Experts which is a small accounting and tax firm in Arvada. Max prepares income tax returns for his client and charges a flat fee for the preparation of each return. Max must pay sales and use tax on the supplies that are used in the business and on any forms and materials that he transmits to his clients. Max should not collect sales tax on the preparation fee.\n- Julie takes her vehicle to Arvada Auto Repair, a licensed repair shop, to have her oil changed. The shop charges her for an oil filter, 4 quarters of oil, half an hour of labor, EPA waste fees, and shop supplies (10% of the labor charge). Each charge was separately stated. The shop should collect tax on all of the charges except the labor charge.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

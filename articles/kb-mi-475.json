@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "restocking",
+      "fees",
+      "sales",
+      "code",
+      "purchase",
+      "retailers",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/370/Restocking-Fees"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-475",
+    "spreadsheet_id": "MI-475",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Restocking Fees",
+    "summary": "The Arvada Municipal Code mandates that sales tax is applied to the purchase price of tangible personal property and certain taxable services. Retailers can deduct the price of returned items from gross sales if the full price and tax are refunded, but if a restocking fee is charged, the amount refunded cannot be fully deducted from gross sales, and tax must be collected on the restocking fee. This summary serves as a simplified explanation of the relevant tax laws and should be used alongside the full Arvada tax code for accurate tax liability determination.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property and certain taxable services purchased at retail in the City. Sales tax is imposed upon the purchase. Retailers are responsible to collect this tax on behalf of the City and remit it periodically on City sales and use tax returns. The Code permits retailers to deduct from gross sales the price of tangible personal property or taxable services returned by the purchaser provided that both of the following apply:\n\n- The price of the property returned was included in gross sales on the current return or a return filed within the past 36 months;\n- The price and the tax collected thereon are refunded to the purchase in cash or by credit.\n\nRetailers who refund only a portion of the price may not deduct the full price from gross sales and should not refund the full amount of sales tax charged to the purchaser.\n\nSome automated sales systems refund the full price and the tax thereon while simultaneously charging a \"restocking fee\". Because this fee represents an amount of the price not refunded to the purchaser, this amount may not be deducted from gross sales. In these cases, retailers will accomplish this by charging tax on the restocking fee in lieu of refunding tax on the net refunded price.\n\nThe tax character of restocking fees is not dependent upon whether the fee is netted against the purchase price and shown as a single refund amount, stated separately on the invoice or receipt, or collected in a separate transaction from the refund.\n\n## Example\n\n- In February, a licensed Arvada retailer sells a cell phone to a purchaser for $100 and collects Arvada sales tax on the price. The retailer reports this sale on the February sales and uses tax returns. In March, the purchaser returns the phone and the retailer refunds $90. The retailer may deduct $90 from gross sales reported on the March sales and use tax return.\n- In February, a licensed Arvada retailer sells a cell phone to a purchaser for $100 and collects Arvada sales tax on the price. The retailer reports this sale on the February sales and uses tax return. In March, the purchaser returns the phone and the retailer refunds $100, the Arvada sales tax thereon, and charged a $10 restocking fee. The retailer should collect tax on the $10 restocking fee because the retailer may only deduct $90 ($100 less the $10 restocking fee) on the March sales and use tax return.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

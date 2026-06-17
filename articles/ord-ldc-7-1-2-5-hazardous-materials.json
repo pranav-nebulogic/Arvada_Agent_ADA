@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "hazardous",
+      "materials",
+      "permitted",
+      "association",
+      "wcfs",
+      "except",
+      "those",
+      "necessary",
+      "operations",
+      "only"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-2-5"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-2. OPERATIONAL STANDARDS"
+  },
+  "content": {
+    "title": "7-1-2-5. Hazardous materials.",
+    "summary": "No hazardous materials shall be permitted in association with WCFs, except those necessary for the operations of the WCF and only in accordance with all applicable laws governing such materials.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-2-5. Hazardous materials.",
+        "a": "No hazardous materials shall be permitted in association with WCFs, except those necessary for the operations of the WCF and only in accordance with all applicable laws governing such materials."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-2-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

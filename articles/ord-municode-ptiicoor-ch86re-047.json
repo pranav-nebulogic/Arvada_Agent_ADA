@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "temporary",
+      "disability",
+      "any",
+      "member",
+      "while",
+      "performance",
+      "his"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-155"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-155. - Temporary disability.",
+    "summary": "If any member, while in the performance of his duty, or by reason of service, shall\n               become physically or mentally disabled, and such disability shall be deemed to be\n               of a temporary nature by the board, the member shall be eligible to receive temporary\n               dis…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-155. - Temporary disability.",
+        "a": "If any member, while in the performance of his duty, or by reason of service, shall\n               become physically or mentally disabled, and such disability shall be deemed to be\n               of a temporary nature by the board, the member shall be eligible to receive temporary\n               disability pay in an amount equal to the monthly compensation paid such member as\n               salary at the date of such disability plus any increase in salary granted during the\n               period of disability, not to exceed a period of one year.\n(Code 1960, § 19-11(B); Code 1981, § 26-79)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-155"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

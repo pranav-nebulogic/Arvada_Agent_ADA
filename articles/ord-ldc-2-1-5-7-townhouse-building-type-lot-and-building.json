@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "townhouse",
+      "building",
+      "type",
+      "standards",
+      "generally",
+      "apply",
+      "types",
+      "section",
+      "which",
+      "districts"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-5-7"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-5. OLD TOWN DISTRICT"
+  },
+  "content": {
+    "title": "2-1-5-7. Townhouse building type lot and building standards.",
+    "summary": "A.\tGenerally. The lot and building standards that apply to townhouse building types are set out in this Section. See Section 2-1-5-2, Building Types, as to which sub-districts of the OT zoning district allow townhouse building types.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-5-7. Townhouse building type lot and building standards.",
+        "a": "A.\tGenerally. The lot and building standards that apply to townhouse building types are set out in this Section. See Section 2-1-5-2, Building Types, as to which sub-districts of the OT zoning district allow townhouse building types. See Section 2-1-5-3, Generally Applicable Lot and Building Form Standards, regarding the application of the standards that are set out in this Section.\nB.\tLot Standards. Lot standards are as provided in Table 2-1-5-7B, Townhouse Building Type Lot Standards.\nC.\tBuilding Setbacks. Building setbacks are as provided in Table 2-1-5-7C, Townhouse Building Type Setbacks.\nD.\tBuilding Placement and Building Width. Building placement and building width shall be as provided in Table 2-1-5-7D Townhome Building Type Placement and Building Width.\nE.\tBuilding and Floor Height. Building height, floor height, and building width shall be as provided in Table 2-1-5-7E, Townhouse Building Type Height and Floor Height.\nF.\tBuilding Form. Building form shall be as provided in Table 2-1-5-7F, Townhouse Building Type Form."
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-5-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

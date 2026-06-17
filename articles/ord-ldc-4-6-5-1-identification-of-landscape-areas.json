@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "identification",
+      "landscape",
+      "areas",
+      "generally",
+      "section",
+      "sets",
+      "several",
+      "different",
+      "subject",
+      "property"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-5-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-5. LANDSCAPE AREAS AND BUFFERYARDS"
+  },
+  "content": {
+    "title": "4-6-5-1. Identification of landscape areas.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-5-1. Identification of landscape areas.",
+        "a": "A.\tGenerally. This Section sets out several different areas of a subject property in which specific quantities or techniques of landscaping may be required.\nB.\tIdentification of Landscape Areas in All Development Types.\n  1.\tBufferyards are areas of a subject property that must be used for buffer ing the subject property from adjoining lots, parcels, or public rights-of-way. Bufferyards are generally situated along (or close to) property lines, outside of the public right-of-way.\n  2.\tStreetscape areas are areas of a subject property adjacent to right-of-way, or the adjoining right-of-way itself that are used for the planting of street trees and other plant material.\n  3.\tParking lot landscape areas are those areas within surface parking lots that must be landscaped. Such surface parking areas include access aisles and off-street parking spaces.\n  4.\tBuilding foundation landscape areas are those areas within ten feet outward from the exterior walls of principal buildings barring soil restrictions that are identified in the recommendation in a geotechnical report.\n  5.\tPrivately-owned open spaces are the areas that qualify as \"open space,\" and which are subject to an easement or dedication that restricts future development to open space uses.\n  6.\tResidential lot landscape areas are the yards on lots that are intended for individual ownership, or, in the case of common maintenance communities or condominiums, areas around dwelling units that would be located within private lots if the subdivision were platted for fee-simple ownership."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

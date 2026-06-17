@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "computation",
+      "pension",
+      "retirement",
+      "any",
+      "member",
+      "more",
+      "years"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-151"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-151. - Computation of pension; retirement.",
+    "summary": "Any member who has 20 or more years of credits service, shall be eligible to receive\n               a service retirement pension based on the employee's final base pay, allowing 2½ percent\n               for each year of credited service to a maximum of 65 percent. Final base pay is to\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-151. - Computation of pension; retirement.",
+        "a": "Any member who has 20 or more years of credits service, shall be eligible to receive\n               a service retirement pension based on the employee's final base pay, allowing 2½ percent\n               for each year of credited service to a maximum of 65 percent. Final base pay is to\n               be determined on the basis of the highest total salary received during any three consecutive\n               years or 36 months of service preceding the date of retirement, divided by the number\n               of months for which pay is received. If the member does not have three consecutive\n               years (or 36 months) of service, the member's final base pay shall be determined on\n               the basis of the total salary received divided by the number of months for which pay\n               was received. The pension payments shall be made in equal monthly installments to\n               the member.\n(Code 1960, § 19-11(A); Code 1981, § 26-75; Ord. No. 3287, § 3, 8-19-1996)\nState Law reference—\nRetirement pension under statutory system, C.R.S. § 31-30-610."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-151"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "recycling",
+      "cart",
+      "items",
+      "paper",
+      "place",
+      "bags",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/716/Recycling"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-456",
+    "spreadsheet_id": "MI-456",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Recycling",
+    "summary": "Olde Town Arvada has launched a recycling program that began in January 2025, featuring nine single-stream receptacles for materials such as glass, aluminum, paper, and cardboard. Residents are advised to place recyclables directly into the cart without plastic bags and to avoid including hazardous waste, yard waste, and food items. The city also collaborates with local recycling centers to assist residents in disposing of hard-to-recycle items and hazardous waste.",
+    "body": "[**Olde Town Arvada now has recycling!**](#oldetown)\n\n**Please do not place recyclables in plastic bags** into the recycling cart. Place items loose in cart.\n\n## Recyclable Info Card - see content below for more detailsRecyclable Items\n\nIn the City's Waste and Recycling Program, residents can recycle the following materials, to name a few:\n\n### Paper, Cardboard, and Cartons (empty and dry):\n\n- Newspaper (including inserts)\n- Mixed Paper\n- Phone Books\n- Chipboard (Cereal and Tissue Boxes)\n- Corrugated Cardboard (Flattened)\n- Magazines\n- Bulk or Junk Mail\n- Office Paper\n- Brown Paper Bags\n\n### Metal - Aluminum and Steel Cans (empty and dry)\n\n- Aluminum Foil\n- Empty Aerosol Cans\n- Aluminum Cans (do **not**crush)\n- Metal Jar Lids\n\n### Plastic Bottles, Jars, and Jugs (clean and dry)\n\n- Plastic Milk Jugs\n- Any Plastic Bottles or Tubs that are Number 1 to Number 7\n  - Detergent Bottles\n  - Yogurt Containers\n  - Mayonnaise Jars\n  - Shampoo  Bottles\n  - Plastic Drink Bottles\n\n### Glass Bottles and Jars (clean and dry)\n\n- Soda Pop Bottles\n- Beer Bottles\n- Pickle Jars\n- Condiment Jars\n\n**Place recyclables directly into the recycling cart.**\n\n## Please **do not**place these items in your recycling cart:\n\n- Plastic bags (return them to retailers)\n- No household hazardous waste\n- No yard waste\n- No shredded paper\n- No hoses, cords or wires\n- No food or liquid\n\n## Hard to recycle items\n\nThe City maintains partnerships with [Rooney Road](https://www.rooneyroadrecycling.org/) and [Sustainability](https://www.sustainability-recycling.com/) recycling centers to help Arvada residents properly dispose of hazardous waste and hard to recycle items.\n\n### Dispose of household hazardous waste\n\n[Rooney Road Recycling Center](https://www.rooneyroadrecycling.org/)\n\n### Hard to recycle items & composting services\n\n[SustainAbility Recycling](https://www.sustainability-recycling.com/)\n\n## Olde Town Recycling\n\nThe City of Arvada began an Olde Town recycling program in January 2025. There are nine single-stream receptacles located along Olde Wadsworth Blvd., Grandview Ave. and at McIlvoy Park.\n\nThe bins accept the same materials as the City's curbside program:\n\n- Glass\n- Aluminum\n- Paper\n- Cardboard\n\nHelp support the City's commitment to a more sustainable future by reducing the amount of waste that ends up in landfills!\n\n![Map of Olde Town Arvada Recycling Bin Locations](/ImageRepository/Document?documentID=5299 \"Map of Olde Town Arvada Recycling Bin Locations\")",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

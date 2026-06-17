@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "identification",
+      "location",
+      "monuments",
+      "final",
+      "plat",
+      "generally",
+      "identify",
+      "exact",
+      "required",
+      "technical"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-2-3-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-2. SUBDIVISION STANDARDS",
+    "division": "DIVISION 4-2-3. SUBDIVISION MONUMENTATION"
+  },
+  "content": {
+    "title": "4-2-3-3. Identification and location of monuments on final plat.",
+    "summary": "A.\tGenerally. The final plat shall identify the exact location of monuments required by this LDC.\nB.\tTechnical Requirements.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-2-3-3. Identification and location of monuments on final plat.",
+        "a": "A.\tGenerally. The final plat shall identify the exact location of monuments required by this LDC.\nB.\tTechnical Requirements. The monument location information shall include the following:\n  1.\tDescription of points.\n  2.\tDistance between points.\n  3.\tBearings on all exterior boundary and street centerline control and angles between all lot lines or repairs of these lines. In the instance of a lot line intersecting the arc of a curve at an angle of other than 90 degrees, an angle shall be given from the lot line to the long chord of the arc involved on the repair of the lot line.\n  4.\tAll curve data, including:\n    a.\tDelta;\n    b.\tRadius;\n    c.\tLength of curve; and\n    d.\tLong chord."
+      }
+    ],
+    "ordinance_refs": [
+      "4-2-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

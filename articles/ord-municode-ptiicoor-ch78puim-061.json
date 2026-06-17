@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "city",
+      "case",
+      "work",
+      "done",
+      "use",
+      "municipally"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-62"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-62. - Construction by city.",
+    "summary": "(a)\nIn the case of construction work done by the use of municipally owned or leased equipment\n               and by municipal officers, agents and employees for any project or any portion thereof\n               in any improvement district, supplies and materials may be purchased or may be otherwise\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-62. - Construction by city.",
+        "a": "(a)\nIn the case of construction work done by the use of municipally owned or leased equipment\n               and by municipal officers, agents and employees for any project or any portion thereof\n               in any improvement district, supplies and materials may be purchased or may be otherwise\n               acquired therefor.\n(b)\nAll supplies and materials purchased by the city for any improvement district costing\n               $500.00 or more shall be purchased only after the purchasing officer has given notice\n               by publication therefor, in accordance with the definition of \"publication\" or \"publish\"\n               in\nsection 78-4\n.\n(c)\nThe city shall accept the lowest and best bid, kind, quality and material being equal,\n               but the city shall have the right to reject any and all bids, to waive any irregularity\n               in any bid and to select a single item from any bid.\n(d)\nThe provision as to bidding shall not apply to the purchase of patented and manufactured\n               products offered for sale in a noncompetitive market or solely by a manufacturer's\n               authorized dealer.\n(Code 1981, § 27-63; Ord. No. 551, § 21, 5-14-1964)\nState Law reference—\nConstruction by city, C.R.S. § 31-25-516."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-62"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

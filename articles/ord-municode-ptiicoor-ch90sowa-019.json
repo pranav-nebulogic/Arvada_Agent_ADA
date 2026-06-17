@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "recycling",
+      "requirement",
+      "all",
+      "haulers",
+      "providing",
+      "solid",
+      "waste"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-57"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-57. - Recycling requirement.",
+    "summary": "(a)\nAll haulers providing solid waste collection services to residential customers must\n               also provide curbside recycling collection services to every residential customer\n               served, except to multi-family buildings with eight units or more. A solid waste collection\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-57. - Recycling requirement.",
+        "a": "(a)\nAll haulers providing solid waste collection services to residential customers must\n               also provide curbside recycling collection services to every residential customer\n               served, except to multi-family buildings with eight units or more. A solid waste collection\n               only service, for residential customers, is not permitted.\n(b)\nCollection of recyclable materials may be offered by a hauler to multi-family buildings\n               and commercial customers.\n(c)\nAll licensed haulers of recyclable materials and solid waste operating within the\n               city shall have following duties and rights:\n(1)\nExcept for materials which customers have not properly prepared for recycling, haulers\n               may not dispose of recyclable materials set out by recycling customers by any means\n               that result in the materials not being recycled or improperly disposed of.\n(2)\nThe hauler shall establish such policies and procedures as are necessary to provide\n               for the orderly collection of recyclable materials, including requirements regarding\n               the preparation of materials for collection, the collection of recyclable materials\n               and requirements for separation.\n(3)\nIn the event that a hauler elects to perform collection of solid waste or recyclable\n               materials through subcontractors or agents, such agency relationship shall not relieve\n               the hauler of responsibility for compliance with the provisions of this Code and the\n               rules promulgated hereunder.\n(4)\nAll recyclable materials placed for collections shall be owned by and be the responsibility\n               of the customer until the materials are collected by the hauler. The material then\n               shall become the property and the responsibility of the hauler.\n(d)\nFrequency of collection.\n(1)\nCurbside recycling collection services shall be provided to residential customers\n               on at least a twice-monthly basis and on the same day of collection of solid waste\n               from the customer.\n(2)\nHaulers providing collection services to multi-family or commercial customers shall\n               provide services for the collection of recyclable materials from such customers who\n               desire such services on such frequency as is necessary to prevent overflow of the\n               recycling containers.\n(Ord. No.\n4733\n, § 1, 6-15-2020;\nOrd. No. 4891\n, § 3, 3-4-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-57"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

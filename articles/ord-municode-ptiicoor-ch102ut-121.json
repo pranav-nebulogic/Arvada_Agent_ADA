@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "purpose",
+      "city",
+      "hereby",
+      "adopts",
+      "article",
+      "provide",
+      "fund"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-352"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-352. - Purpose.",
+    "summary": "(a)\nThe city hereby adopts this article to provide for and fund the construction, operation,\n               improvement and maintenance of stormwater facilities for its own use and the use of\n               the public within and without its boundaries, to provide for the control and improvement\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-352. - Purpose.",
+        "a": "(a)\nThe city hereby adopts this article to provide for and fund the construction, operation,\n               improvement and maintenance of stormwater facilities for its own use and the use of\n               the public within and without its boundaries, to provide for the control and improvement\n               of stormwater quality and to provide for the calculation of rates, fees, or charges\n               or any combination thereof, together with the collection thereof, to be paid for the\n               services furnished by, or as a result of usage of, city stormwater facilities.\n(b)\nThis article is deemed necessary to promote the health, safety and welfare of the\n               general public by reducing or mitigating the property losses, general inconvenience,\n               and damage that occur or result from stormwater runoff, by improving the quality of\n               stormwater that enters stormwater facilities, and by reducing the incidents of traffic\n               delays caused by street flooding, including impedance of emergency vehicles, in the\n               city.\n(c)\nThis article shall not serve to create liability on the part of the city or any officer\n               or employee thereof for flood or stormwater damage, or to otherwise state or imply\n               that property subject to the terms, provisions, or charges hereof will be free from\n               stormwater flooding or flood damage.\n(Code 1981, § 33-252; Ord. No. 3701, § 1, 6-18-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-352"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

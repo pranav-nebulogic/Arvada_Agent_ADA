@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedures",
+      "presumptions",
+      "service",
+      "process",
+      "violation",
+      "division",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-171"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-171. - Procedures and presumptions.",
+    "summary": "(a)\nService of process\nfor a violation of this division shall be initiated as set forth in\nsection 58-4\nof this Code.\n(b)\nPresumption in reference to illegal parking.\nFor purposes of this division only, it shall be presumed that the person who parked\n               the vehicle was the registered own…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-171. - Procedures and presumptions.",
+        "a": "(a)\nService of process\nfor a violation of this division shall be initiated as set forth in\nsection 58-4\nof this Code.\n(b)\nPresumption in reference to illegal parking.\nFor purposes of this division only, it shall be presumed that the person who parked\n               the vehicle was the registered owner of the vehicle, or that the vehicle was parked\n               with the registered owner's knowledge and permission.\n(c)\nViolations applied whether vehicle occupied or not.\nA violation of any provision of this division may occur whether a vehicle is occupied\n               or not.\n(d)\nViolations not exclusive.\nThe provisions of this division imposing limitations, restrictions, and prohibitions\n               on parking shall not relieve any person from the duty to observe other more restrictive\n               provisions limiting, restricting, or prohibiting the stopping, standing, or parking\n               of a vehicle in a specified place, at a specified time, or in a specified manner.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-171"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

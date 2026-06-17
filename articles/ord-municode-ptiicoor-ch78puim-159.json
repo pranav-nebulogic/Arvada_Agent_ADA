@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "municipal",
+      "general",
+      "contractor",
+      "license",
+      "required",
+      "shall",
+      "unlawful"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-184"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-184. - Municipal general contractor's license; required.",
+    "summary": "It shall be unlawful to erect, construct, enlarge, alter, repair, move, improve, remove,\n               convert, or demolish any structure, utility, or general public improvement in the\n               city without first obtaining a municipal general contractor's license in accordance\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-184. - Municipal general contractor's license; required.",
+        "a": "It shall be unlawful to erect, construct, enlarge, alter, repair, move, improve, remove,\n               convert, or demolish any structure, utility, or general public improvement in the\n               city without first obtaining a municipal general contractor's license in accordance\n               with the provisions of this Article. The licensed municipal general contractor is\n               responsible for all work completed on the project, including work performed by subcontractors.\n               Fees for a municipal general contractor's license shall be in accordance with the\n               adopted fee schedule for rights-of-way work permits and services.\n(Ord. No.\n4749\n, § 1, 1-25-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-184"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

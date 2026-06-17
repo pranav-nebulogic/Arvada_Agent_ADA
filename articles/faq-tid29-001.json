@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-29-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "group",
+      "homes",
+      "allowed",
+      "arvada",
+      "neighborhoods",
+      "city",
+      "legally",
+      "obligated",
+      "Group Homes"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=29"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/why-are-group-homes-allowed-in-arvada-neighborhoods",
+    "faq_category_name": "Group Homes"
+  },
+  "content": {
+    "title": "Why are group homes allowed in Arvada neighborhoods?",
+    "summary": "The City is legally obligated under state and federal law to provide \"reasonable accommodations\" to any protected class. The FFHA and the ADA prohibit discrimination against individuals with disabilities and prohibit local governments from enacting zoning or land use decisions that discriminate agai…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Why are group homes allowed in Arvada neighborhoods?",
+        "a": "The City is legally obligated under state and federal law to provide \"reasonable accommodations\" to any protected class. The FFHA and the ADA prohibit discrimination against individuals with disabilities and prohibit local governments from enacting zoning or land use decisions that discriminate against protected persons. The Colorado legislature declared that group living (for no more than eight persons) is a residential use and a \"matter of statewide concern.\" State law requires local governments with zoning codes to recognize group homes as residential land use and to include them in normal residential surroundings, including single-family residential units; therefore, a Group Home with eight or fewer residents is an allowed use in all Residential Zone Districts in Arvada."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "goods",
+      "seized",
+      "pursuant",
+      "distraint",
+      "warrant",
+      "shall",
+      "sold"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-98"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-98. - Goods seized.",
+    "summary": "Goods seized pursuant to distraint warrant shall be sold at public auction after ten\n               days' public notice by publication not less than two times in a newspaper of general\n               circulation in the city. Such goods may be redeemed by the taxpayer any time prior\n               to…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-98. - Goods seized.",
+        "a": "Goods seized pursuant to distraint warrant shall be sold at public auction after ten\n               days' public notice by publication not less than two times in a newspaper of general\n               circulation in the city. Such goods may be redeemed by the taxpayer any time prior\n               to sale by paying such tax, penalty and interest as are due, together with such costs\n               as have accrued from the seizure and preparation for sale.\n(Code 1981, § 31-67; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-98"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

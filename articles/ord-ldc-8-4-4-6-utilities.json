@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "utilities",
+      "generally",
+      "utility",
+      "plans",
+      "must",
+      "approved",
+      "prior",
+      "issuance",
+      "first",
+      "building"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-4-6"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-4. PUBLIC IMPROVEMENTS, WARRANTIES, AND UTILITIES"
+  },
+  "content": {
+    "title": "8-4-4-6. Utilities.",
+    "summary": "A.\tGenerally. Utility plans must be approved prior to issuance of the first building permit. Approval of a major subdivision preliminary plat does not constitute final approval of the utilities to be located within the subdivision.\nB.\tReimbursement for Oversized Lines or Facilities.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-4-6. Utilities.",
+        "a": "A.\tGenerally. Utility plans must be approved prior to issuance of the first building permit. Approval of a major subdivision preliminary plat does not constitute final approval of the utilities to be located within the subdivision.\nB.\tReimbursement for Oversized Lines or Facilities. The City will reimburse the subdivider for excess costs resulting when the City requires oversized water or sanitary sewer lines in order to serve developing areas around the subject property, to the extent such oversized lines are greater than eight inches nominal diameter."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-4-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

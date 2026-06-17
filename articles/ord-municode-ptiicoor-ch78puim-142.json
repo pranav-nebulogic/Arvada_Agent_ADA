@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "collection",
+      "assessments",
+      "new",
+      "warrant",
+      "order",
+      "all",
+      "cases"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-143"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-143. - Collection of assessments; new warrant or order.",
+    "summary": "(a)\nIn all cases where the finance director, county treasurer or other municipal and county\n               authorities shall be unable to enforce the collection of any assessment by reason\n               of irregularity or omission in any proceedings subsequent to the confirmation of the\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-143. - Collection of assessments; new warrant or order.",
+        "a": "(a)\nIn all cases where the finance director, county treasurer or other municipal and county\n               authorities shall be unable to enforce the collection of any assessment by reason\n               of irregularity or omission in any proceedings subsequent to the confirmation of the\n               assessment, the council is authorized and empowered to cause a new warrant or order\n               to issue to the finance director or other proper officer for the collection of any\n               assessment which by reason of such irregularity or omission remains unpaid and not\n               collected.\n(b)\nThe finance director or other proper officer shall proceed under such new warrant\n               or order to enforce and collect the assessments therein specified in the same manner,\n               as near as may be, as is prescribed by the provisions of\nsections 78-104\n—\n78-111\n, both inclusive, for the enforcement and the collection of assessments, after the\n               same shall have been confirmed and reassessed, as provided in\nsections 78-135\n—\n78-146\n, both inclusive.\n(c)\nAs often as any failure shall occur by reason of such irregularities or omissions,\n               a new warrant or order may issue, and new proceedings shall be had in like manner\n               until such assessment shall be fully collected as to each and every tract charged\n               therewith.\n(Code 1981, § 27-143; Ord. No. 551, § 84, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-143"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

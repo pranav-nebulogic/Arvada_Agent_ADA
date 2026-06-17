@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "waste",
+      "hauling",
+      "annual",
+      "report",
+      "program",
+      "eligible",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1336/Waste-Hauling-Annual-Report"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-593",
+    "spreadsheet_id": "MI-593",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Waste Hauling Annual Report",
+    "summary": "The City of Arvada's Waste Hauling program, launched on July 5, 2021, aims to provide cost-effective waste and recycling services to eligible residents, with 70% participation in the program. Key achievements include a 99.9% pick-up accuracy rate and successful large item drop-off and leaf recycling events, while efforts to increase the recycling diversion rate are ongoing, currently averaging 16.6%. The program faces challenges in measuring the impact of waste hauling trucks on street conditions and pollution.",
+    "body": "In June 2020, Arvada City Council approved the formation of a City of Arvada Waste Hauling program. The program started on July 5, 2021. This report provides an update on progress toward program objectives and outlines successes, challenges and opportunities.\n\n## Program Objectives\n\n1. Provide a cost-effective waste hauling program to all eligible City residents\n2. Ensure all eligible Arvada residents have access to recycling services\n3. Increase the recycling diversion rate in the City\n4. Improve the quality of customer service to the community, including a high level of pick-up accuracy rate across the City\n5. Provide Arvada residents with access to large item drop-off and leaf recycling events\n6. Reduce the number of waste hauling trucks on City streets (reduce street wear and tear; reduce noise and air pollution)\n\n## 2024-2025 Reporting\n\n### Objective 1: Provide a cost-effective waste hauling program to all eligible residents (complete)\n\n- Residents in households of 7 or fewer units have the ability to enroll in the City Waste Hauling Program.\n- The City program cost is comparable or less than options offered from other companies.\n\n### Objective 2: Ensure all eligible residents have access to recycling services (complete)\n\nThe Waste Hauling Program includes recycling services to all eligible residents at no additional cost.\n\n![](/ImageRepository/Document?documentId=6223)\n\n**70% of eligible households participate** with cart service and curbside recycling  \n(+2.5% from 2023-2024)\n\n**26,689**total eligible non-HOA households\n\n**18,676** in City program with cart service\n\n### Objective 3: Increase the recycling diversion rate (in progress)\n\nThe recycling diversion rate continues to fluctuate seasonally with highest diversion rates in the winter. Further investigation and resources are needed to identify root causes and possible incentives to increase diversion rates.\n\n![](/ImageRepository/Document?documentId=6225)\n\n**16.6%**average diversion (July 2024 - June 2025)\n\n**20.6%** highest diversion rate (February 2025)\n\n### Objective 4: Improve the quality of customer service to the community, including a high pick-up accuracy rate across the City (complete)\n\nSince launch, the pick-up accuracy rate remains above 99% and continues to be monitored.\n\n![](/ImageRepository/Document?documentId=6228)\n\n**99.9%**pick-up accuracy\n\n### Objective 5: Provide Arvada residents with access to large item drop-off and leaf recycling events (complete)\n\nResidents continue to take advantage of both events, with particular growth of the large item drop-off.\n\n#### 3 Bulky Item Drop-off Events\n\n- 5,050 customers served\n- 458.5 tons collected\n- 1,424 mattresses recycled\n\n#### 2.5 weeks of Leaf Recycling Events (Nov. 2024)\n\n- 346 tons of leaves\n- 106 dumpster roll offs\n\n![](/ImageRepository/Document?documentId=6232)\n\nLeaf Recycling and Bulky Item Drop Off Events\n\n### Objective 6: Reduce the number of waste hauling trucks on city streets; reduce street wear and tear, reduce noise and air pollution (incomplete)\n\n- The City can track the number of licensed waste haulers in Arvada.\n- There is no feasible method to measure or track the effects of truck traffic on streets, noise, or air pollution.\n\n![](/ImageRepository/Document?documentId=6231)\n\nArvada has **14 licensed trash haulers**(including compost and junk haulers).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

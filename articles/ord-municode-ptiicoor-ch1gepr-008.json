@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "prior",
+      "offenses",
+      "penalties",
+      "rights",
+      "affected",
+      "adoption",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH1GEPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:08.706973+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 1-8"
+    ],
+    "chapter": "Chapter 1 - GENERAL PROVISIONS"
+  },
+  "content": {
+    "title": "Chapter 1 - GENERAL PROVISIONS — Sec. 1-8. - Prior offenses, penalties and rights not affected by adoption of Code.",
+    "summary": "(a)\nNothing in this Code or the ordinance adopting this Code shall affect any offense\n               or act committed or done or any penalty of forfeiture incurred or any contract or\n               right established or accruing before the effective date of this Code.\n(b)\nNothing contained in this ch…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 1-8. - Prior offenses, penalties and rights not affected by adoption of Code.",
+        "a": "(a)\nNothing in this Code or the ordinance adopting this Code shall affect any offense\n               or act committed or done or any penalty of forfeiture incurred or any contract or\n               right established or accruing before the effective date of this Code.\n(b)\nNothing contained in this chapter shall be construed as abating any action pending\n               under or by virtue of any general ordinance of the city repealed in this chapter,\n               and all general ordinances contained in this Code shall be deemed to be continuing\n               and not a new enactment of the same ordinance. This chapter shall not be deemed as\n               discontinuing, abating, modifying or altering any penalty accrued or to accrue or\n               as affecting the liability of any person or as waiving any right of the city under\n               any ordinance or section of an ordinance in force at the time of the adoption of this\n               Code."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 1-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

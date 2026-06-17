@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "bicycle",
+      "parking",
+      "generally",
+      "provided",
+      "section",
+      "designed",
+      "according",
+      "requirements",
+      "design",
+      "exceptions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-2-8"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-2. PARKING AND LOADING CALCULATIONS"
+  },
+  "content": {
+    "title": "4-5-2-8. Bicycle parking.",
+    "summary": "A.\tGenerally. Bicycle parking shall be provided as set out in this Section, and designed according to the requirements of Section 4-5-3-8, Bicycle Parking Design.\nB.\tExceptions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-2-8. Bicycle parking.",
+        "a": "A.\tGenerally. Bicycle parking shall be provided as set out in this Section, and designed according to the requirements of Section 4-5-3-8, Bicycle Parking Design.\nB.\tExceptions. Bicycle parking is not required for the following uses:\n  1.\tThe land uses that are set out in Section 3-1-2-10 Agriculture Land Use by Zoning District;\n  2.\tThe land uses that are set out in Section 3-1-2-9, Utility and Communications Land Use by Zoning District;\n  3.\tWaste transfer station;\n  4.\tSalvage yard;\n  5.\tHeavy industry;\n  6.\tHeavy logistics center;\n  7.\tWaste Removal Fleet Storage and Administration;\n  8.\tThe land uses that are set out in Section 3-1-2-3 Additional Residential Land Use by Zoning District\n  9.\tSingle-family detached, duplex, townhome, or multiplex dwelling units.\nC.\tMinimum Number of Bicycle Parking Spaces. Except as provided in Subsection B., above, bicycle parking shall be provided as follows:\n  1.\tMultifamily. One space for every four dwelling units. Twenty percent shall be for long-term.\n  2.\tElementary School. One space for every five students. Twenty-five percent shall be long-term.\n  3.\tMiddle School. One space for every five students. Twenty-five percent shall be long-term.\n  4.\tHigh School. One space for every ten students. Twenty-five percent shall be long-term.\n  5.\tCollege or University. One space for every ten students. Twenty-five percent shall be long-term.\n  6.\tPersonal Services. Personal services, if related to personal fitness (e.g., boxing or kickboxing instruction; fitness centers; martial arts instruction; swim instruction; or yoga instruction). One space for every ten required motor vehicle spaces. Ten percent shall be for long-term\n  7.\tAll Other Uses.\n    a.\tGenerally. One space for every 20 required motor vehicle parking spaces. Ten percent shall be long-term.\n    b.\tMX-T Zoning District. One space for every ten required motor vehicle parking spaces.\n    c.\tOlde Town District. One space for every five required motor vehicle parking spaces. For historic buildings that are not required to provide off-street parking, five spaces per building.\n    d.\tMX-S, MX-U and CG Zoning Districts. One space for every 15 required motor vehicle parking spaces.\n(Ord. No. 4905, § 38, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-2-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

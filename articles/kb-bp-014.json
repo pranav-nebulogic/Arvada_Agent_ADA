@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "design",
+      "review",
+      "advisory",
+      "committee",
+      "architecture",
+      "guidelines",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/269/Design-Review-Advisory-Committee"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-014",
+    "spreadsheet_id": "BP-014",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Design Review Advisory Committee",
+    "summary": "The Design Review Advisory Committee (DRC) evaluates land use requests in the Olde Town Zoning District to ensure they adhere to established design guidelines. Comprising seven members with expertise in relevant fields, the committee meets monthly at City Hall, and recruitment for new members will begin in December. Written comments for the committee can be submitted via email or mail before the meetings.",
+    "body": "## Overview\n\nThe Design Review Advisory Committee (DRC) reviews requests for land use activities within the Olde Town Zoning District for compliance with the [Design Guidelines for Olde Town Arvada](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=5af3a0e980343). The Committee provides input for the content of the Design Guidelines as needed. Members with expertise in history, architecture, landscape architecture, architectural history, prehistoric or historic archeology and a special interest in Olde Town Arvada are desired.\n\n## Meeting Information\n\n- 9 am\n- 3rd Thursday of the month\n- City Hall\n- If you wish to submit written comments to the committee, please [send your comments via email](/cdn-cgi/l/email-protection#11727475737e70637562707f75727e7c7c786262787e7f62517063677075703f7e6376). [Comments can also be mailed](/Directory.aspx?DID=13). Comments must be received by 5 pm the day before the meeting.\n\n## Board Details\n\n- 7 members\n  - a representative for residents of Olde Town\n  - a representative for business owners of Olde Town\n  - a member of Arvada Historical Society\n  - a representative of Olde Town Arvada Business Improvement District\n  - 3 members at large\n- 3 year terms\n- Volunteer appointment\n\n## Interested in Joining the Design Review Advisory Committee?\n\nRecruitment to fill vacancies on boards and commissions will begin in December. You can review the application process on the main [Boards, Commissions and Committees page](/248/Boards-Commissions-and-Committees).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

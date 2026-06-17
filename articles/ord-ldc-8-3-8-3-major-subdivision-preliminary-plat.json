@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "major",
+      "subdivision",
+      "preliminary",
+      "plat",
+      "generally",
+      "required",
+      "prior",
+      "approval",
+      "final",
+      "plats"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-8-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-8. SUBDIVISIONS"
+  },
+  "content": {
+    "title": "8-3-8-3. Major subdivision preliminary plat.",
+    "summary": "A.\tGenerally. A Major Subdivision Preliminary Plat is required prior to approval of a Major Subdivision Final Plat. Major Subdivision Preliminary Plats provide preliminary review of ten or more lots.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-8-3. Major subdivision preliminary plat.",
+        "a": "A.\tGenerally. A Major Subdivision Preliminary Plat is required prior to approval of a Major Subdivision Final Plat. Major Subdivision Preliminary Plats provide preliminary review of ten or more lots. The subdivision may include the dedication of public right-of-way, open space tracts, and public and private easements. Blocks and tracts are not counted as lots.\nB.\tApproval Criteria. A Major Subdivision Preliminary Plat may be approved only if the City Council finds that all of the following criteria have been met:\n  1.\tThe proposed subdivision is consistent with the Comprehensive Plan.\n  2.\tThe proposed subdivision is consistent with and implements the intent of the zoning district in which it is located. If the subject property is in a PUD zoning district, the subdivision is consistent with any previously approved PUD Outline Development Plan, PUD Preliminary Development Plan, and/or PUD Final Development Plan.\n  3.\tAdequate and sufficient public safety, transportation, utility facilities and services, recreation facilities, parks, and schools will, prior to development, be available to serve the subject property, while maintaining sufficient levels of service to existing development.\n  4.\tThe proposed subdivision will not result in significant adverse impacts on the natural environment or the use and enjoyment of adjoining property, including changes in air quality, water quality, noise levels, stormwater runoff, wildlife habitat, and/or natural vegetation, in that such impacts will be substantially avoided or mitigated by design.\n  5.\tThe proposed subdivision complies with all applicable regulations, standards, requirements, or plans of the federal or state governments and other general or special-purpose governmental entities with jurisdiction, involving (but not limited to) such matters as wetlands, water quality, erosion control, potable water, fire safety, or wastewater regulations.\n  6.\tThe proposed subdivision complies with all applicable use, development, and design standards set forth in Chapter 2, Zoning Districts Chapter 4, Environmental and Site Design, and other applicable provisions of this Code, except to the extent the same are modified as may be provided in this LDC. Applicants shall avoid creating lots or patterns of lots in the subdivision that will make future compliance with such development and design standards difficult or infeasible.\n  7.\tThe general layout of lots, roads, driveways, utilities, drainage facilities, and other services within the proposed subdivision is designed in a way that minimizes the amount of land disturbance, maximizes the amount of open space in the development, preserves existing trees/vegetation and riparian areas, protects critical wildlife habitat, and otherwise accomplishes the purposes and intent of this LDC.\nC.\tEffect of Approval; Lapse.\n  1.\tAn approved Major Subdivision Preliminary Plat shall lapse and be of no further force and effect if a complete Major Subdivision Final Plat application for the subdivision or a phase of the subdivision has not been submitted within the timeframe identified in Table 8-2-3-13, Time Limitations. In the case of phased Major Subdivision Final Plat submittals, each complete application for final plat shall extend the approval of the Major Subdivision Preliminary Plat for one additional. A Major Subdivision Preliminary Plat shall not lapse while a complete final plat application within its boundaries is pending.\n  2.\tIf the owner/developer fails to submit an application for Major Subdivision Final Plat approval within any applicable time period, all proceedings concerning the subdivision are terminated and a new preliminary plat application shall be required."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-8-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

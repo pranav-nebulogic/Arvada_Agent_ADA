@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "pension",
+      "fund",
+      "derivation",
+      "previously",
+      "created",
+      "established",
+      "under"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-36"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-36. - Pension fund; derivation.",
+    "summary": "The pension fund, as previously created and established under the provisions of the\n               statutes, shall be the fund in which shall be accumulated, at regular intervals, the\n               contributions deducted from the compensation of members, contributions made by the\n               cit…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-36. - Pension fund; derivation.",
+        "a": "The pension fund, as previously created and established under the provisions of the\n               statutes, shall be the fund in which shall be accumulated, at regular intervals, the\n               contributions deducted from the compensation of members, contributions made by the\n               city and any and all funds or resources as made and provided by statute.\n(Code 1960, § 19-18(A); Code 1981, § 26-6)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-36"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

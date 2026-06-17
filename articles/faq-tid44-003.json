@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-44-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "community",
+      "room",
+      "city",
+      "hall",
+      "yes",
+      "anne",
+      "campbell",
+      "accommodate",
+      "Reserve a Community Room"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=44"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/is-there-a-community-room-at-city-hall",
+    "faq_category_name": "Reserve a Community Room"
+  },
+  "content": {
+    "title": "Is there a community room at city hall?",
+    "summary": "Yes. The Anne Campbell room can accommodate up to 32 people. The Anne Campbell room is not managed by the Arvada Police Department. If you are interested in the Anne Campbell room, please call 720-898-7600.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Is there a community room at city hall?",
+        "a": "Yes. The Anne Campbell room can accommodate up to 32 people. The Anne Campbell room is not managed by the Arvada Police Department. If you are interested in the Anne Campbell room, please call 720-898-7600."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

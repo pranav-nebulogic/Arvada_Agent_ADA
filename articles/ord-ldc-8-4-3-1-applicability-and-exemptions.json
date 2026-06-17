@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "applicability",
+      "exemptions",
+      "division",
+      "applies",
+      "following",
+      "types",
+      "applications",
+      "annexation",
+      "initial",
+      "zoning"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-3-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-3. LAND DEDICATION; FEES-IN-LIEU; AND DEVELOPMENT FEES"
+  },
+  "content": {
+    "title": "8-4-3-1. Applicability and exemptions.",
+    "summary": "A.\tApplicability.\n  1.\tThis Division applies to the following types of applications:\n    a.\tAnnexation and initial zoning for residential use;\n    b.\tRezoning that allows for increased residential uses;\n    c.\tSubdivision of land into new residential lots;\n    d.\tDevelopment of existing undeveloped …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-3-1. Applicability and exemptions.",
+        "a": "A.\tApplicability.\n  1.\tThis Division applies to the following types of applications:\n    a.\tAnnexation and initial zoning for residential use;\n    b.\tRezoning that allows for increased residential uses;\n    c.\tSubdivision of land into new residential lots;\n    d.\tDevelopment of existing undeveloped residential lots;\n    e.\tDevelopment of planned community, condominium, or other similar residential projects involving new multifamily residential dwelling units; and\n    f.\tAmendments to approved development plans or similar changes affecting the status of a property to the extent that such changes result in an increase in the number of dwelling units.\nB.\tExemptions. The following general categories of land, or specific uses of land, shall be exempt from the land dedication, payment in-lieu, and park development fee payment requirements of this Division, notwithstanding a zoning classification that may allow for residential use:\n  1.\tExisting dwelling units within the City;\n  2.\tDwelling units for which fees have already been paid pursuant to this Division;\n  3.\tNew dwelling units that replace existing dwelling units that are demolished (on a unit-for-unit basis);\n  4.\tReal property that is listed as exempt from real property taxation by the Clerk and Recorder for the county in which the property is located, except as used for residential purposes; and\n  5.\tNursing homes and similar residential accommodations primarily providing care and supervision to persons who are disabled or generally confined to the care facility for medical, physical, or mental reasons."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

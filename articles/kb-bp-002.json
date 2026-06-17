@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "adopted",
+      "building",
+      "code",
+      "international",
+      "codes",
+      "align",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/165/Adopted-Building-Code"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-002",
+    "spreadsheet_id": "BP-002",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Adopted Building Code",
+    "summary": "The City of Arvada is amending its Building Codes to align with the 2024 International Codes. Currently, the adopted codes include various 2018 International Codes and the 2023 National Electrical Code, with specific design criteria for wind speeds, snow loads, and other factors outlined for construction in the area. For further details on the upcoming changes, residents can refer to the New Building Codes 2026 page.",
+    "body": "**Attention: The City is currently in the process of amending its Building Codes to align with the 2024 International Codes.**[**Read more about the upcoming changes on the New Building Codes 2026 page**](https://www.arvadaco.gov/1388/New-Building-Codes-2026)**.**\n\n## Current Adopted Building Code\n\n- 2018 International Building Code\n- 2018 International Residential Code\n- 2018 International Fuel Gas Code\n- 2018 International Mechanical Code\n- 2018 International Plumbing Code\n- 2009 International Property Maintenance Code\n- 2018 International Energy Code\n- 2018 International Fire Code\n- 2018 International Existing Building Code\n- 2023 National Electrical Code\n- 2018 International Swimming Pool and Spa Code\n\n## Design Criteria\n\n- **Wind Speeds:**The wind speed for the City of Arvada are 136Vult from the Eastern city limit West to Highway 93. The wind speed for areas West of Highway 93 is 150Vult.\n- **Wind Resistance of Asphalt Shingles:**Asphalt shingles shall be installed in accordance with Section R905.2.6. Shingles classified using ASTM D 3161 is acceptable for use in wind zones 110 MPH (49 m/s) or less. Shingles classified using ASTM 3161 Class F, are acceptable for use in all cases where special fastening is required.\n- **Frost Depth:**36\"\n- **Exposure Category:** The building official may accept an exposure classification from a qualified engineer, licensed with the state, if a detailed analysis of site conditions adjacent to the proposed project or structure is provided to support the engineer's recommendation. If an engineer's analysis is not provided, an exposure classification of \"C\" shall be used.\n- **Snow Loads:**Design snow loads for this jurisdiction are: roof snow load = 30 psf (1.44 kN÷m2); ground snow load = 30 psf (1.44 kN÷m2).\n\n## Manual J Design Criteria\n\n- **Elevation:** 5453' E of Highway 93; Varies W of Highway 93\n- **Latitude:** 40° North\n- **Winter Heating 99% Dry Bulb:** 1°\n- **Summer Cooling 1% Dry Bulb:** 91°\n- **Altitude Correction Factor:** .832 E of Highway 93; Varies W of Highway 93\n- **Indoor Design Temperature:** 70**°**\n- **Design Temperature Cooling:** 75°\n- **Heating Temperature Difference:** 69°\n- **Cooling Temperature Difference:**16°\n- **Wind Velocity Heating:**15 mph\n- **Wind Velocity Cooling:**7.5 mph\n- **Coincident Wet Bulb:** 60\n- **Daily Range:** High (H)\n- **Winter Humidity:** 30%\n- **Summer Humidity:**50%\n\n### [Quick Links](/QuickLinks.aspx?CID=24)\n\n1. [Land Development Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO)\n2. [Adopted 2018 Building Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE_ARTIINGE)\n3. [Adopted 2018 Fire Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR_ARTIIINFICO)\n\n[View All](/QuickLinks.aspx?CID=24)\n\n/QuickLinks.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

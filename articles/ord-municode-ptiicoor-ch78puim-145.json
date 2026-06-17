@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "application",
+      "funds",
+      "reassessment",
+      "outstanding",
+      "indebtedness",
+      "whenever",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-146"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-146. - Application of funds from reassessment to outstanding indebtedness.",
+    "summary": "Whenever the city has issued or shall issue interim warrants or bonds to obtain funds\n               to pay for any project which has been actually acquired or improved, or both acquired\n               and improved, and the assessment levied therefor have failed or shall fail to be valid\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-146. - Application of funds from reassessment to outstanding indebtedness.",
+        "a": "Whenever the city has issued or shall issue interim warrants or bonds to obtain funds\n               to pay for any project which has been actually acquired or improved, or both acquired\n               and improved, and the assessment levied therefor have failed or shall fail to be valid\n               or sufficient in whole or in part and a new assessment or reassessment has been levied\n               and confirmed, as provided in\nsections 78-135\n—\n78-146\n, both inclusive, then the city is hereby authorized and directed to apply all moneys\n               derived from such assessments, new assessments and reassessments to the payment of\n               the warrants and bonds according to their tenor; and the warrants and bonds issued\n               for any project actually acquired or improved, or both acquired and improved, shall\n               be valid and binding obligations of the city, payable out of such assessments, new\n               assessments and reassessments, which shall be levied and relevied until payment in\n               full shall have been made, as provided in\nsection 78-75\nhereof.\n(Code 1981, § 27-146; Ord. No. 551, § 87, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-146"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

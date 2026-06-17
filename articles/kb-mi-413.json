@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "police",
+      "jobs",
+      "process",
+      "department",
+      "officer",
+      "skills",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/693/Police-Jobs"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-413",
+    "spreadsheet_id": "MI-413",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Police Jobs",
+    "summary": "The Arvada Police Department is seeking new officers and emphasizes the importance of training and skill development in law enforcement. The application process is thorough and includes several steps such as testing, background checks, and academy training, with competitive salary and benefits offered. Interested candidates can find more information on the department's recruiting page and are encouraged to participate in ride-alongs to gain insight into the role.",
+    "body": "## Join the Arvada Police Department\n\nThere’s a deep-rooted pride in becoming an officer. It’s a distinct accomplishment and crowning achievement. Our department knows that being a police officer requires a specific set of skills – skills that are learned, cultivated, and perfected over time. We take that training very seriously.\n\n### [FAQs](/Faq.aspx?TID=60)\n\n[What is the process for applying?](#)\n:   Our application process typically occurs quarterly and our selection process is thorough and involves several important steps:\n\n    - There is criteria you must meet to be eligible to apply, and there are some things that will result in disqualification. To learn about these, [visit our recruiting page](https://joinarvadapd.com/).\n    - Upon meeting the minimum requirements, candidates will complete and pass:\n      - Initial testing\n      - Personal History Questionnaire (PHQ)\n      - Academy Training\n      - Medical, Psychological, and Polygraph Evaluations\n      - Background Investigation\n      - Colorado Peace Officer Standards and Training (POST) Certification\n    - Any current lateral law enforcement officers in Colorado may also apply. Interested out-of-state lateral candidates must qualify for certification under Colorado POST regulations.\n\n[What about salary and benefits?](#)\n:   At Arvada PD, we offer competitive salary and benefits packages, which include (but is not limited to):\n\n    - Competitive Pay with Shift Differentials\n    - Overtime Pay\n    - On-Call Compensation\n    - Vacation Time\n    - Sick Time\n    - Health/Dental/Vision Insurance\n\n    Take a look at our [City Benefits and Pay](/691/City-Benefits-Pay) for more information.\n\n[Where can I find more information?](#)\n:   By Visiting:\n\n    - [Our Recruiting Page](https://joinarvadapd.com/)\n    - [Colorado Peace Officer Standards and Training](https://www.colorado.gov/pacific/post)\n    - Consider going for a [Ride-Along](/536/Police-Ride-Alongs) - see what policing is really like!\n    - Follow [Arvada Police on Facebook](https://www.facebook.com/arvadapolice)\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

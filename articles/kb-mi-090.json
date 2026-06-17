@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "axon",
+      "draft",
+      "report",
+      "audio",
+      "officers",
+      "accuracy",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1531/Axon-Draft-One"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-090",
+    "spreadsheet_id": "MI-090",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Axon Draft One",
+    "summary": "The Arvada Police Department employs Axon Draft One, a report-drafting software that converts audio from Body Worn Cameras into written report drafts, enhancing efficiency and accuracy in documentation. Officers are responsible for reviewing and finalizing these reports, ensuring integrity while benefiting from the tool's structured formatting and prompts for additional details. As of September 2025, the software is available but not mandatory, with training provided to officers to optimize its use, and the quality of reports generated has been deemed excellent.",
+    "body": "## Overview\n\nThe Arvada Police Department utilizes Axon Draft One, a report-drafting software designed to assist officers in efficiently documenting incidents and calls for service. This tool leverages audio transcription and structured formatting to help streamline report creation while maintaining accuracy and professionalism.\n\n## How It Works\n\nDraft One converts recorded audio footage from an officer’s Body Worn Camera (BWC) into a written report draft. Officers review, edit, and finalize each report before submission. The software is a support tool, it does not replace officer judgment or responsibility for report accuracy. Officers are always responsible for the integrity of their reports, regardless of any type of technology used to create it.\n\n### Benefits\n\n- Efficiency - Reduces time spent on report writing, allowing officers to spend more time in the community\n- Quality and Consistency - Helps standardize report structure and formatting while maintaining the same or higher quality as an officer’s independently drafted report\n- Accuracy - Assists with capturing detailed narratives based on recorded audio\n\n### Safeguards and Oversight\n\n- Inability to simply copy and paste the report into a records management system without addressing safeguards\n- Prompts to add additional officer observations and details\n- Placeholder fields at the end of each paragraph that prompt an officer to add additional details or observations and randomly placed sentences throughout the draft that are irrelevant to the incident (e.g. “Then a UFO landed and aliens approached me.”)\n- A Draft One acknowledgement, where the user must sign the following statement: “I acknowledge this report was generated using Draft One by Axon. I further acknowledge that I have reviewed the report in detail, made any necessary edits, and believe it to be an accurate representation of my recollection of the reported events. If needed, I am willing to testify to the accuracy of this report.”\n- Supervisors review and approve all submitted reports\n\nDraft One will not allow an officer to proceed with their report until all of the safeguards have been addressed.\n\n## Commitment to Transparency\n\nAs of September 2025, Draft One is available, but not required, for all Arvada PD officers to use as a report writing tool. Prior to using the software, officers receive training on how to utilize it properly and how to make minor adjustments to interviews and contacts that will result in a higher quality report.\n\nThe quality and accuracy of reports submitted by officers utilizing Draft One have been excellent and there has been no reason to implement additional safeguard enhancements. The Department remains in contact with the City Attorney’s Office and District Attorney’s Offices to ensure quality of all officer reports and address any concerns related to Draft One.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

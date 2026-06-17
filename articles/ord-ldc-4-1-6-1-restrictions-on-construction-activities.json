@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "restrictions",
+      "construction",
+      "activities",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "sites",
+      "city",
+      "engineer"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-6-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-6. CONSTRUCTION ACTIVITIES"
+  },
+  "content": {
+    "title": "4-1-6-1. Restrictions on construction activities.",
+    "summary": "A.\tGenerally. The standards of this Section shall apply to all construction sites.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-6-1. Restrictions on construction activities.",
+        "a": "A.\tGenerally. The standards of this Section shall apply to all construction sites. The City Engineer may modify the requirements of Subsections B.1., E.3., E.4., F., and G., if the City Engineer finds that such modifications are necessary to provide for efficient, expeditious, and safe construction.\nB.\tTemporary Facilities.\n  1.\tTemporary structures, portable offices, and other comparable buildings and structures shall be maintained in good repair and arranged in a compact and organized manner on the construction site, in a location that minimizes their visual impacts when viewed from the public street or adjacent properties.\n  2.\tThe timing of installation and removal of such facilities is subject to Section 3-1-4-3, Contractor Offices and Temporary Construction Uses.\nC.\tTracking Control.\n  1.\tMud, dirt, or other debris deposited on the public or common roadway at construction access points shall be removed daily to avoid compaction and damage to the roadway and to minimize drainage system impacts.\n  2.\tCleaning of any construction equipment or tools on public streets, rights-of-way, or other vacant land is strictly prohibited.\nD.\tDebris Control.\n  1.\tConstruction debris shall be immediately placed into containers and screened to the extent possible during construction. Trash containers shall be emptied when full and on a regular basis, but not less than weekly.\n  2.\tDumping, burial of construction debris, debris pits, and burning of debris at any location is prohibited.\n  3.\tAfter construction is completed, temporary barriers, surplus materials and all trash, debris and rubbish shall be promptly removed from the site.\n  4.\tAll backfill shall be cleared of building material, stone and rubbish prior to placement.\nE.\tErosion, Siltation, and Dust Control.\n  1.\tPrecautions for controlling water and wind erosion and sedimentation are required during construction and shall be conducted as an integral part of the construction operation.\n  2.\tDust from topsoil and fill material that is stockpiled on site, as well as any areas disturbed by construction operations, shall be strictly controlled. All disturbed areas shall be stabilized.\n  3.\tThe City may require temporary diversion ditches, dikes, silt fences, filter boxes, tackifiers, and comparable facilities, in order to protect the site from erosion prior to completion of construction and establishment of permanent landscaping.\n  4.\tPermanent surface and subsurface drainage systems shall not be used during construction unless entering water has been treated to remove suspended soil particles and other debris. To accomplish this, silting basins shall be installed at all locations necessary to intercept water before it enters catch basins and outfall locations. Silting basins shall be cleaned after each substantial rainstorm.\nF.\tParking. No construction equipment shall be parked on the streets.\nG.\tMaterials Storage. If equipment and materials are stored at the construction site, storage areas shall be unobtrusive when viewed from public streets and adjacent properties.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-6-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

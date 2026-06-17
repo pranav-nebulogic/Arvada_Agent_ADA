@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "landscaping",
+      "fencing",
+      "generally",
+      "wcfs",
+      "excluding",
+      "small",
+      "cell",
+      "facilities",
+      "right",
+      "unless"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-3-5"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-3. GENERALLY APPLICABLE DESIGN STANDARDS"
+  },
+  "content": {
+    "title": "7-1-3-5. Landscaping and fencing.",
+    "summary": "A.\tGenerally. WCFs, excluding Small Cell Facilities in the right-of-way unless otherwise required by the Director, shall be landscaped with a buffer of plant materials that effectively screens the view of the WCF from adjacent properties.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-3-5. Landscaping and fencing.",
+        "a": "A.\tGenerally. WCFs, excluding Small Cell Facilities in the right-of-way unless otherwise required by the Director, shall be landscaped with a buffer of plant materials that effectively screens the view of the WCF from adjacent properties. The standard buffer shall consist of the front, side, and rear landscaped setback on the perimeter of the site.\nB.\tReduction of Landscape Requirement. In locations where the visual impact of the WCF would be minimal, the landscaping requirement may be reduced or waived altogether by the Director.\nC.\tTree and Landform Preservation.\n  1.\tExisting mature tree growth and natural landforms on the site shall be preserved to the maximum extent possible. In some cases, such as WCFs sited on large, wooded lots, natural growth around the site perimeter may be sufficient to buffer.\n  2.\tNo trees larger than four inches diameter at breast height may be removed, unless authorized by the Director. To obtain such authorization the Applicant shall show that tree removal is necessary, the Applicant's plan minimizes the number of trees to be removed, and any trees removed are replaced at a ratio of one caliper inch for one caliper inch.\nD.\tConcealment. Landscaping for concealed WCFs shall be compatible with the type of camouflage or concealment technique."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-3-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

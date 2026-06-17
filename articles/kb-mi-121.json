@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "chiropractors",
+      "charges",
+      "code",
+      "paid",
+      "price",
+      "sales",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/306/Chiropractors"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-121",
+    "spreadsheet_id": "MI-121",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Chiropractors",
+    "summary": "In Arvada, Colorado, chiropractic services are not subject to sales tax, but various retail items sold by chiropractors, such as braces and vitamins, are taxable. Chiropractors can purchase certain items tax-exempt if they are for resale or specifically exempt under categories like prosthetic devices or medical supplies. Additionally, use tax applies to items purchased without local sales tax, ensuring compliance with local tax regulations.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax on the price paid for items sold at retail in the City of Arvada (COA). If sales and use tax was not paid to the COA or another municipality, Arvada uses tax is due. The taxable price is the amount of money received or due, including shipping charges.\n\nCharges for chiropractic treatments and therapy are services and are not taxed. However, many chiropractors make taxable retail sales which are subject to sales tax. Sales tax charges apply when the following items are sold. The sales tax should be listed separately on the sales invoice or receipt.\n\n## Sales\n\n### Taxable Sales\n\nExamples include, but are not limited to:\n\n- Arch supports, insoles, lifts\n- Books, brochures (e.g. nutrition, back care, etc.)\n- Braces (e.g. neck, back, wrist, rib, etc.)\n- Canes\n- Cold therapy devices (e.g. ice packs)\n- Creams, lotions, ointments, liniments (e.g. mineral ice, Biofreeze, etc.)\n- Fitness balls\n- Heat therapy devices (e.g. heating pads, hot packs, hot water bottles)\n- Magnets\n- Pillows and cushions (e.g. cervical, low back, seat, etc.)\n- Video or audio tapes\n- Vitamins, minerals, herbs, enzymes, or other dietary supplements\n\nSales of vitamins and minerals recommended by chiropractors for their patients are taxable. In the United States chiropractors are not licensed to prescribe drugs and medications. Only medical doctors, veterinarians, dentists, and podiatrists can prescribe drugs and medications.\n\n### Non-Taxable Sales\n\n- The **Prosthetic Devices Exemption** applies to devices designed/ manufactured for a particular individual.\n  - Orthotics (custom-made)\n- The **Therapeutic Device Exemption** applies to sales of an appliance or piece of equipment that is therapeutic\n  - TENS Units (Transcutaneous Electrical Nerve Stimulator)\n  - EMS Devices (Electrical Muscle Stimulators)\n- The **Medical Supplies Exemption** applies to materials furnished by the doctor to the patient and is not sold. These are one-time-use items that must leave the doctor's office with the patient either attached or applied to the patient. These are not items used by the doctor and then disposed of by the doctor.\n\nChiropractors may purchase all of the above items exempt from sales tax. The items will either be sold to the patient and sales tax collected at the time of sale, or sold to the patient and are exempt from tax.\n\n## Purchases\n\n### Taxable Purchases\n\nSales tax applies when buying items like office equipment, furniture, and other office supplies. Examples include, but are not limited to:\n\n- Acupuncture needles\n- Anatomical models\n- Appointment books and appointment cards\n- Books, brochures, and pamphlets\n- Business cards\n- Claim forms, code books, and manuals\n- Computers, computer accessories, monitors, and software\n- Credit card machines\n- Diathermy machines, muscle stimulators, and ultrasound machines\n- Equipment repair parts\n- Exam tables, gowns, and headrest paper\n- Magazines and coloring books\n- Signs and posters\n- Stickers\n- Televisions and videos\n- Uniforms\n- X-ray machines, chemicals, film, screens\n\n## Use Tax\n\nUse tax applies to items used that were purchased without payment of a local sales tax of at least Arvada's rate. Use tax is similar to sales tax and the rate is identical. Use tax is based on the cost of the taxable purchase.\n\n## Examples\n\n- Dr. Smith purchases an existing chiropractic practice in Arvada from a retiring chiropractor. This was an asset purchase for $100,000 of which $75,000 was goodwill, $20,000 was for fixed assets (computer equipment, furniture, and equipment) and $5,000 was for inventory (vitamins, pillows, ice packs, etc.). Dr. Smith must pay a use tax on the $20,000 for the fixed assets purchase since no sales tax was paid at the time of purchase.\n- Dr. Smith orders an orthotics insert for one of his patients and has also recommended vitamins and the use of wrist support. The orthotic insert qualifies as a prosthetic device. It will be manufactured specifically for the individual patient. However, sales tax will need to be collected on both the vitamin supplement and the wrist support. Vitamins are not considered drugs and the wrist support was not made specifically for the patient. It was only matched to the patient by size and shape.\n- Dr. Smith purchases a muscle stimulator for his practice. The muscle stimulator / TENs unit is not exempt from sales tax to the doctor. The therapeutic device exemption only applies to sales made to patients.\n- Dr. Smith uses some of the vitamin supplements for his own personal use. Dr. Smith will need to pay a use tax on the cost of the supplements.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

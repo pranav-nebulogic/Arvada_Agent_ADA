@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "business",
+      "listings",
+      "businesses",
+      "although",
+      "basis",
+      "check",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/286/New-Business-Listings"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-340",
+    "spreadsheet_id": "MI-340",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Business Listings",
+    "summary": "The City of Arvada has released its latest monthly listings of newly licensed businesses. Businesses can choose to opt-out of being included in these listings.",
+    "body": "Check out the latest businesses to get licensed with the City of Arvada. The following listings are produced on a monthly basis, although businesses have the option to opt-out:",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

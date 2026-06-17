@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "title",
+      "hereby",
+      "amended",
+      "follows",
+      "code",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-286"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-286. - I.E.B.C. Section 101.1, Title.",
+    "summary": "Section 101.1. Title,\nis hereby amended as follows:\n\"\n101.1. Title.\nThis code shall be known as the International Existing Building Code of the City\n                  of Arvada, and shall be cited as such. It is referred to herein as \"this code.\"\"\n(Ord. No.\n4738\n, § 8, 9-14-2020)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-286. - I.E.B.C. Section 101.1, Title.",
+        "a": "Section 101.1. Title,\nis hereby amended as follows:\n\"\n101.1. Title.\nThis code shall be known as the International Existing Building Code of the City\n                  of Arvada, and shall be cited as such. It is referred to herein as \"this code.\"\"\n(Ord. No.\n4738\n, § 8, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-286"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

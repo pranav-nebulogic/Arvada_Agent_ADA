@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "disorderly",
+      "conduct",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "commit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-50"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-50. - Disorderly conduct.",
+    "summary": "It shall be unlawful for any person to commit disorderly conduct. A person commits\n               disorderly conduct if he intentionally, knowingly, or recklessly:\n(1)\nMakes a coarse and obviously offensive utterance, gesture, or display in a public\n                  place and the utterance, gesture…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-50. - Disorderly conduct.",
+        "a": "It shall be unlawful for any person to commit disorderly conduct. A person commits\n               disorderly conduct if he intentionally, knowingly, or recklessly:\n(1)\nMakes a coarse and obviously offensive utterance, gesture, or display in a public\n                  place and the utterance, gesture, or display tends to incite an immediate breach of\n                  the peace; or\n(2)\nFights with another in a public place, except in an amateur or professional contest\n                  of athletic skill.\n(Code 1960, § 17-6; Code 1981, § 21-20; Ord. No. 3377, § 2, 7-7-1997)\nState Law reference—\nSimilar provisions, C.R.S. § 18-9-106."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-50"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "clerk",
+      "council",
+      "program",
+      "support",
+      "administrative",
+      "agenda",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/184/City-Clerk"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-127",
+    "spreadsheet_id": "MI-127",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "City Clerk",
+    "summary": "The Arvada City Clerk, appointed by the City Manager with City Council approval, serves as the custodian of the City Seal and oversees various functions across four program areas: administrative support for the City Council, information management, election services, and business licensing. Key responsibilities include preparing meeting materials, managing city elections, and issuing various business licenses. The current City Clerk is Kristen Rush.",
+    "body": "Section 6.6 of the Arvada City Charter establishes the position of the City Clerk and states that the City Manager, with the approval of City Council, shall appoint a City Clerk who shall be custodian of the City Seal. The City Clerk's office performs various functions that fall within four program areas:\n\n## City Council Administrative Support Program\n\nProvides the following support services to City Council:\n\n- weekly agenda packets\n- meeting minutes\n- event logistics and arrangements\n- maintenance of policy manual\n- calendars\n- legal postings and publications\n- staff support for meetings\n- boards and commissions\n\n## Content Information Management Program\n\nProvides the following records and information management services to City Council, City Departments and the community:\n\n- codified ordinances\n- document management and scanning\n- recording of documents\n- maintaining city files\n- open records requests\n- records management\n- maintenance of archival facilities\n- information requests.\n\n## Elections Program\n\nProvides the following voter assistance and election services to candidates and the community:\n\n- management of city elections\n- business improvement districts\n- City Council candidate certifications\n- City Council candidate manuals and consultations\n- preparation of election ballots\n- election campaign finance report reviews and filings\n- election results certifications\n- initiative/referendum petition signature verifications\n- mail ballot drop off sites and customer inquiry responses\n- redistricting coordination and maps\n\n## Licensing Program\n\nProvides business licensing to business owners and the community in the following areas:\n\n- kennel licenses\n- liquor establishment licenses\n- special event liquor permits\n- trash hauler licenses\n- renewals of all license areas and consultations with applicants\n\nThe Arvada City Clerk is Kristen Rush.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

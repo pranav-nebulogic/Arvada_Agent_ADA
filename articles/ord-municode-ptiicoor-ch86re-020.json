@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "creation",
+      "hereby",
+      "created",
+      "board",
+      "trustees",
+      "whom",
+      "vested"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-71"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-71. - Creation.",
+    "summary": "There is hereby created a board of trustees in whom is vested the general administration,\n               management and responsibility for the proper operation of the retirement system, and\n               for making effective and construing the provisions of this chapter.\n(Code 1960, § 19-2(A); Code…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-71. - Creation.",
+        "a": "There is hereby created a board of trustees in whom is vested the general administration,\n               management and responsibility for the proper operation of the retirement system, and\n               for making effective and construing the provisions of this chapter.\n(Code 1960, § 19-2(A); Code 1981, § 26-27)\nState Law reference—\nTrustees of policemen's pension fund under statutory system, C.R.S. § 31-30-602."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-71"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

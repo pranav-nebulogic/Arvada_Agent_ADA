@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "parking",
+      "permits",
+      "authorized",
+      "traffic",
+      "engineer",
+      "his",
+      "designee"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-242"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-242. - Parking permits authorized.",
+    "summary": "The traffic engineer, or his designee, is hereby authorized to issue parking permits\n               in accordance with the provisions of this article to allow the on-street parking of\n               motor vehicles by residents of any block designated by the traffic engineer as a restricted\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-242. - Parking permits authorized.",
+        "a": "The traffic engineer, or his designee, is hereby authorized to issue parking permits\n               in accordance with the provisions of this article to allow the on-street parking of\n               motor vehicles by residents of any block designated by the traffic engineer as a restricted\n               parking area adjacent to an affected public school or as a restricted parking area\n               adjacent to an affected public park. Parking permits shall be, at all times, the property\n               of the city. Loss or theft of said permits shall be reported immediately to the traffic\n               engineer.\n(1)\nIt shall be unlawful for any person to sell, for money or other thing of value, a\n                  parking permit issued by the traffic engineer.\n(2)\nThe traffic engineer shall have the authority to deny, suspend, or revoke any parking\n                  permit when he determines that the applicant, or any person holding a permit issued\n                  to the applicant's address, has violated the provisions of this article. When the\n                  engineer determines that a provision of this article has been violated and that a\n                  permit shall be denied, suspended or revoked, the procedure shall be as follows:\na.\nThe applicant or permit holder shall be notified, in writing, by certified mail, addressed\n                  to the applicant's or permit holder's address of record with the traffic division,\n                  at least seven days prior to the denial, suspension or revocation.\nb.\nUpon receipt of the notice, the applicant or permit holder may request a hearing.\n                  Such a request shall be made in writing to the traffic engineer within 14 days of\n                  the receipt of the notice.\nc.\nIf the written hearing request is timely filed, the traffic engineer shall set a time,\n                  date and place of the hearing and so notify the applicant or permit holder.\nd.\nThe traffic engineer shall conduct the hearing. The applicant or permit holder and\n                  other interested parties may be in attendance and give testimony or present evidence\n                  at the hearing. The traffic engineer shall notify the applicant or permit holder of\n                  his findings and ruling in writing by certified mail within 14 days after the completion\n                  of the hearing.\ne.\nThe applicant or permit holder may appeal an adverse decision of the traffic engineer\n                  to the city manager by filing a written request for appeal to the city manager within\n                  14 days of receipt of the ruling of the traffic engineer. Upon receipt of the request\n                  for appeal, the city manager, or his designee, shall review the record and render\n                  a final written decision within a reasonable period of time. The city manager shall\n                  notify the applicant or permit holder of his decision by certified mail.\n(3)\nThe administrative remedies set forth in this article may be pursued notwithstanding\n                  the commencement of any criminal prosecution alleging a violation of this article\n                  or the lack of such criminal prosecution. All such administrative remedies are independent\n                  of and shall be in addition to any penalties and powers of the city as set forth in\n                  this Code.\n(Code 1981, § 17-126; Ord. No. 2804, § 1, 4-15-1991; Ord. No. 2996, § 1, 8-16-1993;\n               Ord. No. 3435, § 1, 2-2-1998;\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-242"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "lighting",
+      "requirements",
+      "all",
+      "off",
+      "street",
+      "parking",
+      "areas"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-83"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-83. - Lighting requirements.",
+    "summary": "(a)\nAll off-street parking areas and premise entries of adult businesses shall be illuminated\n               from dusk to closing hours of operation with a lighting system which provides an average\n               maintained horizontal illumination of one footcandle of light on the parking surface\n  …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-83. - Lighting requirements.",
+        "a": "(a)\nAll off-street parking areas and premise entries of adult businesses shall be illuminated\n               from dusk to closing hours of operation with a lighting system which provides an average\n               maintained horizontal illumination of one footcandle of light on the parking surface\n               and/or walkways. This required lighting level is established in order to provide sufficient\n               illumination of the parking areas and walkways serving the adult business to help\n               ensure the personal safety of patrons and employees and to reduce the incidence of\n               vandalism and other criminal conduct.\n(b)\nThe premises of all adult businesses, except adult motion picture theaters, shall\n               be equipped with overhead lighting fixtures of sufficient intensity to illuminate\n               every place to which patrons are permitted access to provide an illumination of not\n               less than two footcandle of light as measured at the floor level.\n(c)\nAdult motion picture theaters shall be equipped with overhead lighting fixtures of\n               sufficient intensity to illuminate every place to which patrons are permitted access\n               to provide an illumination of not less than one footcandle of light as measured at\n               the floor level.\n(Code 1981, § 4-33; Ord. No. 3217, § 3, 9-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-83"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "permit",
+      "exceptions",
+      "signs",
+      "maintenance",
+      "required",
+      "routine",
+      "sign",
+      "painting",
+      "replacing",
+      "panel"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-2-3"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-2. APPLICABILITY; EXEMPTIONS; PERMIT EXCEPTIONS; SIGN DISTRICTS; AND MEASUREMENTS"
+  },
+  "content": {
+    "title": "6-1-2-3. Permit exceptions.",
+    "summary": "A.\tSigns Maintenance.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-2-3. Permit exceptions.",
+        "a": "A.\tSigns Maintenance. No permit is required for routine sign maintenance, painting, replacing a panel in a cabinet sign (except that the installation of a new manual changeable copy message center or electronic message center does require a permit), or replacing light sources with lighting of comparable character and brightness.\nB.\tExceptions by Sign Type. The following signs may be displayed without a sign permit, but are not exempt from other applicable provisions of this Article.\n  1.\tRequired Signs. Signs that are required by applicable building codes (e.g., address numbers) or health and safety regulations (e.g., the Occupational Safety and Health Act (\"OSHA\")); or to comply with other laws or regulations.\n  2.\tOptional Residential Signs. One wall sign, affixed to a residential building on its front elevation, provided that the sign area does not exceed four square feet.\n  3.\tFlags. All flags that are hung from not more than three rigid, straight, building-mounted or ground-mounted flagpoles per 100 feet of property frontage or fraction thereof, provided that:\n    a.\tNo more than three flags are flown from any one flagpole;\n    b.\tNo flag obstructs pedestrian, bicycle, or vehicular traffic, or a required sight triangle;\n    c.\tNo flag exceeds 32 square feet in area; and\n    d.\tThe maximum height of any flagpole is 20 feet for residential and 40 feet for nonresidential or mixed-use.\n  4.\tSmall Signs.\n    a.\tSigns that are affixed to a building or structure, that do not exceed one square foot in sign area, provided that only one such sign is present on each elevation that is visible from public rights-of-way or neighboring property; and\n    b.\tSigns that are less than one square foot in area that are affixed to machines, equipment, fences, gates, walls, gasoline pumps, public telephones, or utility cabinets.\n  5.\tTemporary Seasonal Decorations. Decorations and signs that are clearly incidental, customary, and commonly associated with a holiday.\n  6.\tSmall Temporary Signs. Temporary signs that are in compliance with the applicable requirements for permit-exempt temporary signs, set out in Division 6-1-6, Temporary Signs."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-2-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "signs",
+      "conform",
+      "requirements",
+      "law",
+      "shall",
+      "erected",
+      "block"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-245"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-245. - Signs.",
+    "summary": "Signs that conform to the requirements of the law shall be erected in a block designated\n               by the traffic engineer as a restricted parking area. The signs shall give notice\n               that the applicable parking restrictions shall apply unless there is properly displayed\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-245. - Signs.",
+        "a": "Signs that conform to the requirements of the law shall be erected in a block designated\n               by the traffic engineer as a restricted parking area. The signs shall give notice\n               that the applicable parking restrictions shall apply unless there is properly displayed\n               in the motor vehicle a permit that is issued pursuant to\nsection 54-246\n.\n(Code 1981, § 17-129; Ord. No. 2804, § 1, 4-15-1991; Ord. No. 2996, § 1, 8-16-1993;\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-245"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

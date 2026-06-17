@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "swimming",
+      "pools",
+      "tubs",
+      "spas",
+      "generally",
+      "outdoor",
+      "comply",
+      "standards",
+      "section",
+      "location"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-4-2"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-4. SUPPLEMENT STANDARDS FOR ALL LAND USES"
+  },
+  "content": {
+    "title": "5-1-4-2. Swimming pools, hot tubs, and spas.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-4-2. Swimming pools, hot tubs, and spas.",
+        "a": "A.\tGenerally. Outdoor swimming pools, hot tubs, and spas shall comply with the standards of this Section.\nB.\tLocation and Setbacks.\n  1.\tNo swimming pools, hot tubs, or spas shall be located in a front yard or street side yard setback area.\n  2.\tSwimming pools, hot tubs, and spas shall be set back ten feet from property lines.\nC.\tEnclosure. All swimming pools, hot tubs, and spas shall be enclosed as required by Section 303 of the International Property Maintenance Code (\"IPMC\"). Such enclosures shall be set back from property lines as may be required by Article 4-7, Fences and Divisional Walls."
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

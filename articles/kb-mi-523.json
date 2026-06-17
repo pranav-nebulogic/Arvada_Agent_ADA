@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "stolen",
+      "vehicles",
+      "colorado",
+      "recover",
+      "across",
+      "additionally",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1016/Stolen-Vehicles"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-523",
+    "spreadsheet_id": "MI-523",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Stolen Vehicles",
+    "summary": "The Arvada Police Department is actively involved in recovering stolen vehicles through various local, regional, and state initiatives, utilizing law enforcement databases and advanced camera systems. Vehicle owners are advised to report any tracking information to the police, and they may incur tow fees upon recovery, which could be reimbursable by insurance. Additionally, resources are available for obtaining police reports, replacing stolen license plates, and addressing issues related to stolen identification or credit cards.",
+    "body": "The Arvada Police Department participates in several local, regional, and state efforts to promptly recover stolen vehicles as soon as possible, and in arresting and prosecuting offenders who victimize our community members in this way.\n\nInformation regarding stolen vehicles is placed in law enforcement databases that are utilized throughout Colorado and the United States to seek out and recover stolen vehicles. Additionally, complex camera systems across Colorado, along with officers and task forces actively searching to recover your vehicle quickly. More than 80% of vehicles stolen in Colorado are recovered.\n\nThere are various procedures and resources to be aware of after your vehicle is stolen.\n\n## Tracking\n\nIf you have any type of tracking program or device in your vehicle, please contact Arvada Police at 303-980-7300, or the non-emergency line for the law enforcement jurisdiction where you believe your vehicle may be tracking. Officers will attempt to locate and recover your vehicle.\n\nThe safety risks posed by stolen vehicle offenders to the public and officers necessitate that police use creative, non-confrontational methods to recover stolen vehicles, avoiding pursuits or force. Therefore, even if your stolen vehicle is being tracked, police may need multiple attempts to safely locate and retrieve it.\n\nAfter your vehicle is located and recovered, you will likely receive a phone call asking you to come to the recovery site to take possession of the vehicle. The Arvada Police Department will attempt to collect physical evidence from your vehicle on scene whenever possible and release the vehicle to you. When this is not possible, your vehicle may be towed for evidence.\n\n## Tow Fees\n\nIt is possible that you will be required to pay tow fees associated with your vehicle’s recovery. If you are contacted by a towing service and your vehicle is releasable to you, it is important for you to pick up your vehicle as soon as possible to avoid accruing storage fees.\n\nThe tow fees associated with the recovery of your vehicle may be reimbursable by comprehensive vehicle insurance. Please contact your insurance company for more information. The Colorado Auto Theft Prevention Authority (CATPA) and Arvada Police Department provide resources that may help cover expenses. Review [CATPA's victim resources](https://lockdownyourcar.org/#) to learn more about getting financial assistance with fees from recovering a stolen vehicle.\n\n## Reports\n\nPolice reports documenting the theft and recovery of your vehicle are available to you. If your car insurance company is involved in your case, they may have already obtained a copy. If you would like copies of police reports, you can [request them online](https://www.arvadaco.gov/554/Order-Police-Records).\n\n## License Plates\n\nOffenders frequently replace or remove license plates on stolen vehicles to avoid detection. Both the front and rear license plates are recorded the same way in Colorado records, so if one license plate is missing, you must not use the other or this plate will also register as stolen and will trigger a law enforcement contact.\n\nIf either of your license plates was not recovered, you must obtain new plates. To streamline this process, please complete [Colorado DMV Form 2283](https://dmv.colorado.gov/sites/dmv/files/documents/DR2283.pdf). Take this completed form and your associated case number to a DMV office in your county of residence, and the DMV will be able to assist you.\n\n## Stolen Identification Card or Driver's License\n\nIf your identification or driver's license was in your stolen vehicle and was not recovered, please complete [Colorado DMV Form 2153](https://dmv.colorado.gov/sites/dmv/files/documents/DR2153.pdf). Take this completed form and your associated case number to a Driver’s License Office in your county, and they will be able to assist you.\n\n## Stolen Credit Cards\n\nIf any of your credit cards were in your stolen vehicle, and whether they were recovered or not, consider replacing them with new cards with a different account number. This avoids confusion if the offender used your cards or documented your card numbers for later use. If you learn that your cards were used, contact the local law enforcement agency where you reside. If this agency is different from the agency where your car was originally stolen, provide the original case number to the officer taking the new report to link the investigations.\n\nConsult the[Federal Trade Commission](https://www.identitytheft.gov/#/) and the [Colorado Attorney General’s Office](https://stopfraudcolorado.gov/fraud-center.html%20for) for additional resources to protect your identity and prevent fraud.\n\n## Abandoned Property\n\nWhen your vehicle is recovered, if you locate significant items that do not belong to you, such as tools, identification, cell phones, and other items, without handling the items, contact the law enforcement agency that took your initial stolen vehicle report. The agency will determine whether collecting those items might benefit the investigation of the case.\n\n## Evidence\n\nTypically, your vehicle has already been processed for evidence, such as swabs taken from the steering wheel, seeking offender DNA evidence, prior to your vehicle being released to you. If your vehicle was processed, a Police Officer or Crime Scene Investigator may request elimination DNA samples from you so the lab will accept the evidence from your vehicle for comparison.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

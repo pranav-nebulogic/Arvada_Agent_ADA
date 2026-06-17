@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "parking",
+      "displaying",
+      "vehicles",
+      "sale",
+      "upon",
+      "private",
+      "property"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-175"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-175. - Parking and displaying vehicles for sale upon private property.",
+    "summary": "(a)\nThe city council finds and declares that the parking of vehicles upon private property\n               of another for the principal purpose of displaying such vehicle for sale is detrimental\n               to the public health, safety, and general welfare of the citizens of the municipality,\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-175. - Parking and displaying vehicles for sale upon private property.",
+        "a": "(a)\nThe city council finds and declares that the parking of vehicles upon private property\n               of another for the principal purpose of displaying such vehicle for sale is detrimental\n               to the public health, safety, and general welfare of the citizens of the municipality,\n               and that regulation of such activity on private property is a permissible regulation\n               of the aesthetics of the community.\n(b)\nNo person shall park a vehicle upon private property belonging to another for the\n               principal purpose of displaying such vehicle for sale.\n(c)\nIt shall be unlawful for the owner of any property located within the city to allow\n               vehicles owned by others to be parked on such property for the principal purpose of\n               being offered for sale.\n(d)\nWhenever a parked vehicle displays a sign or message indicating that it is being offered\n               for sale, such display shall be prima facie evidence that the vehicle is parked for\n               the principal purpose of being displayed for sale.\n(e)\nFor purposes of this section only, the term \"vehicle\" shall include any device capable\n               of being moved from place to place upon wheels or tracks, as well as devices capable\n               of being moved on or through water or air, such as boats and airplanes.\n(f)\nThe provisions of this section shall not apply upon land zoned by the city to permit\n               commercial sales of vehicles.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-175"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

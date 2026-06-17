@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "appellate",
+      "body",
+      "generally",
+      "administrative",
+      "appeals",
+      "heard",
+      "planning",
+      "commission",
+      "city",
+      "council"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-5-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-5. ADMINISTRATIVE APPEALS"
+  },
+  "content": {
+    "title": "8-2-5-2. Appellate body.",
+    "summary": "A.\tGenerally. Administrative appeals shall be heard by the Planning Commission or the City Council, as provided in this Section.\nB.\tPlanning Commission.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-5-2. Appellate body.",
+        "a": "A.\tGenerally. Administrative appeals shall be heard by the Planning Commission or the City Council, as provided in this Section.\nB.\tPlanning Commission. The Planning Commission shall hear administrative appeals from final decisions of the Director, except:\n  1.\tMinor Modification, Base Station including Alternative Tower Structure, and Small Cell Facility;\n  2.\tDirector approvals that are issued based on Planning Commission findings of fact;\n  3.\tDirector interpretations of the provisions of this LDC Subsection; and\n  4.\tThose items identified in Subsection C1 below.\nC.\tCity Council.\n  1.\tThe City Council shall hear appeals from:\n    a.\tFinal decisions issued by the Director for the following types of applications:\n      i.\tCertificate of Compliance with Design Guidelines;\n      ii.\tMaster Development Plan;\n      iii.\tMinor Subdivision Plat; and\n      iv.\tSite Plan.\n    b.\tFinal decisions issued by the Director based on Planning Commission findings of fact; and\n  2.\tThe City Council shall not hear administrative appeals from decisions made in the Planning Commission's role as an appellate body."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-5-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

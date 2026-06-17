@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "conditional",
+      "generally",
+      "purpose",
+      "section",
+      "identify",
+      "process",
+      "applications",
+      "listed",
+      "division",
+      "land"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-5-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-5. SITE DEVELOPMENT AND TEMPORARY USES"
+  },
+  "content": {
+    "title": "8-3-5-1. Conditional use.",
+    "summary": "A.\tGenerally. The purpose of this Section is to identify the process for all applications for use listed as a conditional use in Division 3-1-2, Land Use by Zoning District.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-5-1. Conditional use.",
+        "a": "A.\tGenerally. The purpose of this Section is to identify the process for all applications for use listed as a conditional use in Division 3-1-2, Land Use by Zoning District. All uses that are listed in the tables of Division 3-1-2, Land Use by Zoning District, as conditional uses (\"C\") shall meet the standards of this Section in addition to the standards of Division 3-1-3, Primary Use-Specific Standards, that apply to the proposed use.\nB.\tApproval Criteria. A Conditional Use shall be reviewed for compliance with the following criteria:\n  1.\tThe application complies with the applicable standards of this LDC, other adopted City ordinances, resolutions and regulations including but not limited to any use-specific standards for the proposed Conditional Use in Division 3-1-3, any approved Master Development Plan that includes the property, and any conditions specifically applied to development of the property by the Planning Commission or City Council in a prior decision affecting the property;\n  2.\tThe application is consistent with the Arvada Comprehensive Plan;\n  3.\tThe use is consistent with the purpose and intent of the zoning district in which it is located;\n  4.\tThe size, scale, height, density, multi-modal traffic impacts, hours of operation and other similar characteristics of the proposed use are comparable with existing and planned uses in the surrounding area and the zoning district regulations;\n  5.\tFacilities and services including sewer, water, storm water, gas, electricity, police and fire protection, and roads and transportation will, prior to or as part of the development, be available to serve the subject property while maintaining adequate levels of service for existing development; and\n  6.\tThe application mitigates any adverse impacts on the surrounding area to the degree practicable.\nC.\tConditions of Approval. The City may approve a Conditional Use with conditions to mitigate its impacts, in order to ensure continuing compliance with the review standards set out in Subsection B., above."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-47-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "hand",
+      "signals",
+      "cyclists",
+      "use",
+      "turning",
+      "left",
+      "turn",
+      "extend",
+      "Bicycling in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=47"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-hand-signals-do-cyclists-use-for-turning",
+    "faq_category_name": "Bicycling in Arvada"
+  },
+  "content": {
+    "title": "What hand signals do cyclists use for turning?",
+    "summary": "Left turn: cyclists should extend their left hand straight out from their side to indicate a left turn. Right turn: cyclists should raise their left hand in a 90 degree angle or extend their right hand straight out from their side to indicate a right turn.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What hand signals do cyclists use for turning?",
+        "a": "Left turn: cyclists should extend their left hand straight out from their side to indicate a left turn. Right turn: cyclists should raise their left hand in a 90 degree angle or extend their right hand straight out from their side to indicate a right turn."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

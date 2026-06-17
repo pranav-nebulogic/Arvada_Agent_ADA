@@ -1,0 +1,52 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "planning",
+      "development",
+      "footnotes",
+      "cross",
+      "reference",
+      "administration",
+      "buildings"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nAdministration, ch. 2; buildings and building regulations, ch. 18; environment, ch. 38; streets, sidewalks and certain other public places, ch. 94; utilities, ch. 102; zoning districts, pt. III, art. 4; use regulations, pt. III, art. 5; development\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 74 - PLANNING AND DEVELOPMENT",
+        "a": "Footnotes:\n--- (\n1\n) ---\nCross reference—\nAdministration, ch. 2; buildings and building regulations, ch. 18; environment, ch. 38; streets, sidewalks and certain other public places, ch. 94; utilities, ch. 102; zoning districts, pt. III, art. 4; use regulations, pt. III, art. 5; development\n               standards, pt. III, art. 6; subdivision regulations and improvements, pt. III, art.\n               7.\nState Law reference—\nLocal government land use control, C.R.S. § 29-20-101 et seq.; municipal planning\n               and zoning, C.R.S. § 31-23-101 et seq."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

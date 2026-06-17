@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "kids",
+      "fishing",
+      "contest",
+      "dock",
+      "open",
+      "allowed",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/856/Arvada-Kids-Fishing-Contest"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-063",
+    "spreadsheet_id": "MI-063",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Kids Fishing Contest",
+    "summary": "The Arvada Kids Fishing Contest will take place on June 13, 2026, at the Arvada-Blunn Reservoir, with registration starting at 6:45 a.m. and fishing from 7 a.m. to 11 a.m. Open to children 14 and under, the event requires participants to provide their own fishing gear and prohibits boats and live bait. Prizes will be awarded based on the length and weight of catches in various categories, with a raffle and trophy presentation following the tournament.",
+    "body": "![kid fishing off a dock ](/ImageRepository/Document?documentID=6029 \"kid fishing off a dock \")\n\n## Fishing Contest Information and Rules\n\n**Location**: Arvada-Blunn Reservoir, 18973 W 66th Ave., Arvada, CO  \n**Date**: Saturday, June 13, 2026  \n**When**: Gates and parking lot will be open at 6:45 a.m. Fishing tournament starts at 7 a.m. Fishing ends at 11 a.m.\n\n- This event is free and open to participating kids and their family only.\n- Kids 14 and under are allowed to participate.\n- No boats/watercrafts are allowed. All docks will be closed. Shore fishing only.\n- You must provide your own fishing pole, tackle and bait.\n- No live aquatic bait allowed.\n- All reservoir rules must be followed. The City of Arvada reserves the right to adjust/change ''Tournament Information and Rules\" due to safety or weather related conditions during the day of the event.\n- Raffle prizes and trophies will be given out right after the last fish is weighed.\n\n## Timeline\n\n- **6:45 a.m**. - Gates and parking lot open\n- **7 a.m.**- Fishing starts\n- **11 a.m.** - Fishing ends\n- **11:30 a.m.**- Final weigh-ins\n- **Noon**- Presentation of trophies\n- **12:30 p.m.**- Raffle drawings\n- **1:30 p.m.**- Event ends\n- **2 p.m.**- Reservoir opens for normal operations\n\n## Weight, Measures and Prizes\n\n- Length first, weight second\n- All entries will be registered at the Weight and Measure Station.\n- Kids must be in at the Weight and Measure Station with their catch no later than 11:30 a.m.\n- **Catches will be classified into two categories:**\n  - Trout: first, second and third place awarded for four age categories\n  - Other Species: first, second and third place awarded in an open division (no age categories)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

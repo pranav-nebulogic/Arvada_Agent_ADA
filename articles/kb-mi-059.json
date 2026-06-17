@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "golf",
+      "courses",
+      "wildlife",
+      "sanctuaries",
+      "audubon",
+      "cooperative",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/638/Arvada-Golf-Courses-Are-Wildlife-Sanctua"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-059",
+    "spreadsheet_id": "MI-059",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Golf Courses Are Wildlife Sanctuaries",
+    "summary": "The City of Arvada's golf courses, West Woods and Lake Arbor, are certified members of the Audubon Cooperative Sanctuary Program for Golf, which promotes environmental protection and wildlife habitat preservation. West Woods has held its certification since 2007, while Lake Arbor has been certified since 2014, both implementing practices such as native plant species and habitat management with guidance from local environmental organizations. The program, endorsed by the United States Golf Association, recognizes golf courses that successfully enhance their ecosystems and conserve natural resources.",
+    "body": "## Certified Audubon Cooperative Sanctuary\n\nBoth golf courses owned and operated by the City of Arvada, West Woods, and Lake Arbor, are certified members of the Audubon Cooperative Sanctuary Program for Golf.\n\nThe [Audubon Cooperative Sanctuary Program (ACSP)](https://auduboninternational.org/acsp-for-golf/) for Golf is an environmental education and certification program that helps golf courses protect the environment, preserve the natural heritage of the game of golf, and gain recognition for their efforts. There are approximately 32,000 golf courses worldwide and less than 2% are ACSP courses.\n\nThe ACSP, endorsed by the United States Golf Association, provides golf courses the means to preserve and enhance wildlife habitat and protect natural resources. It requires golf courses to go through a rigorous review by an environmental agency to ensure clean water, species diversity, and ecosystems are protected and flourishing.\n\nWest Woods Golf Club has retained its ACSP designation since 2007 while Lake Arbor has been an ACSP member since 2014. Both courses have implemented native plant species, Monarch milkweed, birdhouses, and additional best practices with guidance from [Majestic View Nature Center](https://majesticviewnaturecenter.arvada.org/) and [Audubon International](https://auduboninternational.org/).\n\n![Audubon Banner with City Logo and Golf Course Logos](/ImageRepository/Document?documentId=6597)\n\n## Environmental Management Practices\n\n### Environmental Planning\n\n![Audubon Cooperative Sanctuary Program for Golf environmental Planning](/ImageRepository/Document?documentID=6617 \"Audubon Cooperative Sanctuary Program for Golf environmental Planning\")\n\n### Water Conservation\n\n![Audubon Cooperative Sanctuary Program for Golf Water Conservation](/ImageRepository/Document?documentID=6618 \"Audubon Cooperative Sanctuary Program for Golf Water Conservation\")\n\n### Chemical Use Reduction and Safety\n\n![Audubon Cooperative Sanctuary Program for Golf Chemical Use Reduction and safety](/ImageRepository/Document?documentID=6615 \"Audubon Cooperative Sanctuary Program for Golf Chemical Use Reduction and safety\")\n\n### Wildlife and Habitat Management\n\n![Audubon Cooperative Sanctuary Program for Golf Wildlife and Habitat Management](/ImageRepository/Document?documentID=6614 \"Audubon Cooperative Sanctuary Program for Golf Wildlife and Habitat Management\")\n\n### Water Quality Management\n\n![Audubon Cooperative Sanctuary Program for Golf Water Quality management](/ImageRepository/Document?documentID=6619 \"Audubon Cooperative Sanctuary Program for Golf Water Quality management\")\n\n### Outreach and Education\n\n![Audubon Cooperative Sanctuary Program for Golf outreach and Education](/ImageRepository/Document?documentID=6616 \"Audubon Cooperative Sanctuary Program for Golf outreach and Education\")\n\n## About Audubon International\n\nAudubon International is a not-for-profit 501(c)(3) organization based in Troy, NY. In addition to golf courses, Audubon International also provides programs for businesses, schools, communities, and new developments with the purpose of delivering high-quality environmental education and facilitating the sustainable management of natural resources. For more information, [visit the Audubon International website](https://auduboninternational.org/).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

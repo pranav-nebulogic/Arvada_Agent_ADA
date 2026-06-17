@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mtc",
+      "part",
+      "penalties",
+      "procedures",
+      "amended",
+      "model",
+      "traffic"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-42"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-42. - MTC Part 17 \"Penalties and procedures\" amended.",
+    "summary": "The Model Traffic Code is hereby amended by adding section 1705 to Part 17 to read\n               as follows:\n1705. Violations and Penalties.\n(1)\nIt shall be unlawful for any person to violate any of the provisions of this article,\n                  and any such violation shall be punishable as set …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-42. - MTC Part 17 \"Penalties and procedures\" amended.",
+        "a": "The Model Traffic Code is hereby amended by adding section 1705 to Part 17 to read\n               as follows:\n1705. Violations and Penalties.\n(1)\nIt shall be unlawful for any person to violate any of the provisions of this article,\n                  and any such violation shall be punishable as set forth herein.\n(2)\nAny violation set forth in\nsection 58-41\n(a)(2) of this Code shall be a misdemeanor traffic offense. Every person convicted\n                  of a misdemeanor traffic offense shall be punishable by a fine not to exceed the limits\n                  established in\nsection 1-5\nof this Code or by imprisonment for not more than 180 days or by both such fine and\n                  imprisonment.\n(3)\nAny violation not declared to be a misdemeanor traffic offense in\nsection 58-41\n(a)(2) of this Code shall be a noncriminal traffic infraction. Every person convicted\n                  of a noncriminal traffic infraction shall be punishable by a fine not to exceed the\n                  limits established in\nsection 1-5\nof this Code.\n(4)\nThe penalty imposed for any speeding violation under section 1101 of this Code shall\n                  be doubled if the violation occurs within a maintenance, repair, or construction zone\n                  designated pursuant to the requirements of section 614 of this Code.\n(5)\nThe penalty imposed for any moving traffic violation committed by a person in a school\n                  zone as set forth in section 615 shall be doubled.\n(6)\nEvery day any violation of this article is committed or permitted to continue shall\n                  constitute a separate offense punishable as set forth herein.\n(\nOrd. No. 4384, § 2, 4-15-2013\n;\nOrd. No. 4452, § 2, 8-4-2014\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-42"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

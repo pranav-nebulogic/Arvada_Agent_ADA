@@ -1,0 +1,130 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "development_permit",
+    "category": "development",
+    "source_urls": [
+      "https://www.arvadaco.gov/651/Development-Permits"
+    ],
+    "scraped_at": "2026-06-10T11:01:30.315310+00:00",
+    "content_hash": "dbced2c528420fc6d53d47cc94c1a30691611c518b7ae7843f60438055c4e163",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Development Permits in the City of Arvada, CO",
+    "summary": "Development permits in Arvada are issued after approval of construction drawings and compliance with city standards. The process involves development approval, permit and document review, and construction phases, with required documents and fees managed through the Arvada Permits portal.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Development Approval",
+        "text": "Development is approved by meeting all of the Standards and Specification and the Land Development Code. Once all final documents have been approved and recorded, your Development Engineer will forward your approved construction drawings to the City Engineer for signature. The Development Construction Permit Team will then set up your public improvements permit application, called the Development (DEV) Permit.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Permit & Document Review",
+        "text": "Once the Development (DEV) permit is set up, you will be notified via email of the additional information you need to provide. Upload the requested documents to the DEV permit via Arvada Permits. Reviews of each document will be completed within 5 business days. Access the DEV permit progress at Arvada Permits. Licensed contractors can log in using their license (AEC) number; others can create an account and link to the permit. Emails will be sent when the permit status updates.",
+        "portal_url": "https://www.arvadaco.gov/651/Development-Permits"
+      },
+      {
+        "n": 3,
+        "title": "Construction",
+        "text": "After plans, contractors, required documents, escrows, and fee payments are finalized and approved, the permit is ready for issuance. You will be contacted to schedule a Pre-Construction meeting with your City Inspector within 2 weeks of your desired start date. Daily inspections must be scheduled online at Arvada Permits. Materials inspections will be conducted onsite by the assigned inspector.",
+        "portal_url": "https://www.arvadaco.gov/651/Development-Permits"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Traffic Control Plans",
+        "description": "Plans detailing traffic control measures for the project.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Signed Permit Application",
+        "description": "Completed and signed application form for the development permit.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Traffic Materials Submittal",
+        "description": "Documentation of traffic-related materials to be used.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Escrow / Letter of Credit",
+        "description": "Financial security covering 100% of the engineering cost estimates for public improvements, payable by letter of credit or cash escrow.",
+        "where_to_get": "City of Arvada approved template for Letter of Credit",
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "permit_application",
+        "label": "Permit Application",
+        "description": "Signed application form for the development permit.",
+        "example_value": null,
+        "why_needed": "To initiate the permit process."
+      },
+      {
+        "field_name": "traffic_control_plans",
+        "label": "Traffic Control Plans",
+        "description": "Plans showing traffic control measures during construction.",
+        "example_value": null,
+        "why_needed": "To ensure safe traffic management during development."
+      },
+      {
+        "field_name": "traffic_materials_submittal",
+        "label": "Traffic Materials Submittal",
+        "description": "Details of traffic-related materials to be used in the project.",
+        "example_value": null,
+        "why_needed": "To verify materials comply with city standards."
+      },
+      {
+        "field_name": "escrow_or_letter_of_credit",
+        "label": "Escrow or Letter of Credit",
+        "description": "Financial guarantee covering engineering cost estimates for public improvements.",
+        "example_value": null,
+        "why_needed": "To secure funding for public improvements."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Development Permit Fees",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.right_of_way",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "5 business days for document reviews",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Engineering Division",
+      "phone": "720-898-7640",
+      "address": "City of Arvada\nAttention: 2nd Floor Engineering Counter - Warranty\n8101 Ralston Road\nArvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [
+      "Approved Right-of-Way Fee Schedule (PDF)"
+    ],
+    "related_permit_types": [
+      "Site Disturbance Permit",
+      "WTR SWR Service (Utility Disconnects) Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3416
+}

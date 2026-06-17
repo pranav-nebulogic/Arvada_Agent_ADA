@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalties",
+      "any",
+      "person",
+      "violating",
+      "applicable",
+      "provision",
+      "chapter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH53MENDIMA"
+    ],
+    "scraped_at": "2026-06-10T12:02:40.728035+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 53-73"
+    ],
+    "chapter": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA"
+  },
+  "content": {
+    "title": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA — Sec. 53-73. - Penalties.",
+    "summary": "(a)\nAny person violating any applicable provision of this chapter may be punished pursuant\n               to\nsection 1-5\nof this Code.\n(b)\nEach of the following is hereby declared to be a public nuisance, which may be abated\n               pursuant to the provisions of article III of\nchapter 38\nof t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 53-73. - Penalties.",
+        "a": "(a)\nAny person violating any applicable provision of this chapter may be punished pursuant\n               to\nsection 1-5\nof this Code.\n(b)\nEach of the following is hereby declared to be a public nuisance, which may be abated\n               pursuant to the provisions of article III of\nchapter 38\nof this Code:\n(1)\nThe conduct of any activity or business prohibited by, or in violation of,\nsection 53-22\nor\nsection 53-42\nof this chapter.\n(2)\nThe distribution, cultivation, dispensing, manufacture, or production of medical marijuana\n               by a patient or primary caregiver in any manner that is not in compliance with the\n               requirements of article IV hereof, the Colorado Medical Marijuana Code, the Colorado\n               Medical Marijuana Program, and any rules or regulations promulgated thereunder; and\n(3)\nThe personal use of non-medical marijuana, including possessing, using, displaying,\n               purchasing, transporting, transferring, or consuming marijuana, or possessing, growing,\n               processing, or transporting marijuana plants, in any manner that is not in compliance\n               with the requirements of article IV hereof, Article XVIII, Section 16 of the Colorado\n               Constitution, any applicable state statutes, and any rules or regulations promulgated\n               thereunder.\n(c)\nIn addition to any other remedies available to the city, the city may exercise any\n               and all remedies available pursuant to the provisions of chapter 10 of part III (Land\n               Development Code) of this Code.\n(\nOrd. No. 4393, § 7(Att. A), 7-1-2013\n;\nOrd. No. 4436, § 6, 3-17-2014\n; Ord. No.\n4728\n, § 18, 5-18-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 53-73"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

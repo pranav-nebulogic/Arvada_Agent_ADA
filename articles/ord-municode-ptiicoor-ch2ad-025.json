@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "hearing",
+      "officer",
+      "shall",
+      "conducted",
+      "designated",
+      "ordinance",
+      "event"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-173"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-173. - Hearing officer.",
+    "summary": "(a)\nThe hearing shall be conducted by a hearing officer who has been designated by ordinance,\n               or in the event that there is no such designation, the city manager or designee shall\n               appoint the hearing officer. In the case of a hearing before a board or commission,\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-173. - Hearing officer.",
+        "a": "(a)\nThe hearing shall be conducted by a hearing officer who has been designated by ordinance,\n               or in the event that there is no such designation, the city manager or designee shall\n               appoint the hearing officer. In the case of a hearing before a board or commission,\n               the presiding member of such board or commission shall act as the hearing officer.\n               The hearing officer shall have the authority to:\n(1)\nSchedule hearings and grant such continuances as may be reasonable upon consultation\n               with the parties.\n(2)\nSign and issue administrative subpoenas, without discrimination between public and\n               private parties, requiring the presence of persons and the production of documents\n               reasonably necessary to the determination of any issue relevant to the hearing. Subpoenas\n               shall be served in the same manner as a subpoena issued by the municipal court. After\n               service, copies of subpoenas shall be distributed to the parties. Upon failure of\n               any witness to comply with such subpoena, the hearing officer may petition the municipal\n               court, setting forth that due notice has been given of the time and place of attendance\n               of the witness and the service of the subpoena; in which event, the municipal court,\n               after hearing evidence in support of or contrary to the petition, may enter an order\n               compelling the witness to attend and testify or produce books, records, or other evidence,\n               under penalty of punishment for contempt.\n(3)\nAdminister oaths.\n(4)\nRule upon offers of proof.\n(5)\nReceive evidence.\n(6)\nCompel testimony.\n(7)\nDetermine all relevant issues of material fact and whether the proposed adverse action\n               comports with the requirements of the applicable law.\n(8)\nDispose of motions relating to the discovery and production of relevant documents\n               and things for inspection, copying, or photographing.\n(9)\nRegulate the course of the hearing, including setting reasonable time limits on testimony\n               or argument and restricting duplicative or irrelevant evidence or testimony.\n(10)\nFix the time for filing briefs and other documents.\n(11)\nDirect the parties to appear and confer to consider simplification of issues, and\n               admissions of facts or documents to avoid unnecessary proof or cumulative evidence,\n               and limitation of the number of witnesses.\n(12)\nIssue appropriate orders that control the subsequent course of the proceeding.\n(13)\nDispose of motions and procedural matters.\n(14)\nControl the decorum and conduct of the proceeding, including the reprimanding and\n               exclusion from the hearing of any person engaging in improper or inappropriate conduct.\n(b)\nIt shall be unlawful for any person to fail to comply with an order of the hearing\n               officer.\n(c)\nIn the absence of objection, the hearing officer may conduct the hearing informally,\n               and failure to request any procedure shall constitute a waiver thereof.\n(Code 1981, § 2-138; Ord. No. 3608, §§ 1, 2, 4-3-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-173"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

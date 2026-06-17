@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "seizure",
+      "animal",
+      "court",
+      "order",
+      "procedure",
+      "affidavit",
+      "submitted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-9"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-9. - Seizure of animal on court's order.",
+    "summary": "(a)\nProcedure.\nIf an affidavit has been submitted to a municipal court judge which satisfies the\n               judge that an animal located within the city is the subject of a violation of this\n               chapter, and that the animal either poses a clear and present danger to the health,\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-9. - Seizure of animal on court's order.",
+        "a": "(a)\nProcedure.\nIf an affidavit has been submitted to a municipal court judge which satisfies the\n               judge that an animal located within the city is the subject of a violation of this\n               chapter, and that the animal either poses a clear and present danger to the health,\n               safety, or welfare of other persons or animals or is suffering extreme neglect or\n               cruelty, the municipal court judge may order the animal seized by an animal management\n               officer pursuant to Rule 241 of the Colorado Municipal Court Rules. Whenever an animal\n               is seized by order of the municipal court, the animal shelter may not adopt, donate,\n               or destroy the animal unless such action is permitted by a subsequent order of the\n               municipal court or is otherwise deemed necessary by the shelter based on the shelter's\n               assessment of the severity of the animal's illness or injury. The animal owner or\n               custodian will be liable for all expenses arising from the impoundment and care and\n               provision for an animal under a seizure order until the animal is released or otherwise\n               disposed of.\n(b)\nExpedited proceedings.\nCourt proceedings involving charges resulting in animal seizures will be given priority\n               on the municipal court docket to minimize the expense to animal owners or custodians\n               related to the impoundment, care of, and provision for the seized animal.\n(\nOrd. No. 4878\n, § 4, 10-7-2024)\nEditor's note—\nOrd. No. 4878\n, § 4, adopted October 7, 2024, repealed the former section 14-9, and enacted a new\n               section 14-9 as set out herein. The former section 14-9 pertained to destruction or\n               seizure on court's order and derived from § 6-9 of the 1981 Code 1981; Ord. No. 3496,\n               § 2, 12-14-1998."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

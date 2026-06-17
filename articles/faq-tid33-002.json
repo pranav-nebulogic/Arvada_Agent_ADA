@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-33-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "building_permit",
+    "category": "building_permits",
+    "tags": [
+      "electrical",
+      "involved",
+      "including",
+      "any",
+      "internal",
+      "external",
+      "lighting",
+      "just",
+      "Building Permits - Signs"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=33"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/is-there-electrical-involved-including-any-internal-or-exter",
+    "faq_category_name": "Building Permits - Signs"
+  },
+  "content": {
+    "title": "Is there electrical involved (including any internal or external lighting)?",
+    "summary": "If it is just a disconnect/reconnect then no electrical permit is required If there is new wiring or a service change then an electrical permit is required and you need to complete the Sub-Contractor Application found in resources Sign permits are issued within seven days after submittal of a comple…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Is there electrical involved (including any internal or external lighting)?",
+        "a": "If it is just a disconnect/reconnect then no electrical permit is required If there is new wiring or a service change then an electrical permit is required and you need to complete the Sub-Contractor Application found in resources Sign permits are issued within seven days after submittal of a complete application. Apply online with the Arvada Permits Site."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

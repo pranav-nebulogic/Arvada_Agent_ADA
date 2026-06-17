@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-40-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "join",
+      "enrollment",
+      "program",
+      "provides",
+      "access",
+      "neighborhood",
+      "grant",
+      "opportunities",
+      "Neighbors Connected"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=40"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/why-should-i-join",
+    "faq_category_name": "Neighbors Connected"
+  },
+  "content": {
+    "title": "Why should I join?",
+    "summary": "Enrollment in the program provides access to: Neighborhood Grant Opportunities Block Party Trailer and Movie Equipment Rentals. Training and Networking Opportunities through the Neighborhood Leader Network. View our upcoming events below for meeting dates and locations.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Why should I join?",
+        "a": "Enrollment in the program provides access to: Neighborhood Grant Opportunities Block Party Trailer and Movie Equipment Rentals. Training and Networking Opportunities through the Neighborhood Leader Network. View our upcoming events below for meeting dates and locations."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

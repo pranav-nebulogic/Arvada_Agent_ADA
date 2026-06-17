@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rules",
+      "construction",
+      "scope",
+      "unless",
+      "otherwise",
+      "expressly",
+      "stated"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-1"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-1. - Rules of construction.",
+    "summary": "(a)\nScope.\nUnless otherwise expressly stated, the following words and terms shall, for the purposes\n               of this Code, have the meanings indicated in this chapter.\n(b)\nInterchangeability.\nWords used in the present tense include the future; words in the masculine gender\n               inclu…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-1. - Rules of construction.",
+        "a": "(a)\nScope.\nUnless otherwise expressly stated, the following words and terms shall, for the purposes\n               of this Code, have the meanings indicated in this chapter.\n(b)\nInterchangeability.\nWords used in the present tense include the future; words in the masculine gender\n               include the feminine and neuter; the singular number includes the plural and the plural,\n               the singular.\n(c)\nTerms defined in other codes.\nWhere terms are not defined in this Code such terms shall have meanings ascribed\n               to them as in other code publications of the International Code Council (I.C.C.).\n(d)\nTerms not defined.\nWhere terms are not defined through the methods authorized by this section, such\n               terms shall have ordinarily accepted meanings such as the context implies.\n(Ord. No.\n4738\n, § 2, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

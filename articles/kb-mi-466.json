@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "report",
+      "problem",
+      "question",
+      "restrictions",
+      "drought",
+      "water",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/898/Report-a-Problem-or-Ask-a-Question"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-466",
+    "spreadsheet_id": "MI-466",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Report a Problem or Ask a Question",
+    "summary": "Residents of Arvada can report non-emergency issues through the Ask Arvada system, which requires creating a user account. For drought-related inquiries, including watering restrictions and reporting violations, residents can visit the relevant webpages or submit questions via Ask Arvada. Urgent matters, such as water line breaks or animal issues, should be reported directly to the appropriate emergency contact numbers.",
+    "body": "## Looking for more information on drought-related watering restrictions?\n\n- Visit the [watering restrictions webpage](/drought)\n- For details on requesting a variance, visit [Variances for Water Restrictions](/1518)\n- Submit questions through [Ask Arvada](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map?signin=true) and use the **Water Restrictions and Drought Inquiries** category\n- Use the **Report Water Waste** category in Ask Arvada if you wish to report violations of the restrictions.\n\n## Ask Arvada Requirements\n\nThe Ask Arvada system requires you to create a user account by providing your **email address and your first and last name**. When you create your user account, you will also choose your **public display name**. Your display name and the description that you entered may be visible to the public, depending on the category of your request. **Your real name and email address will never be displayed publicly**.\n\nTake a look at the rest of this page for information on how and when to use the new sytem.\n\n![](/ImageRepository/Document?documentId=2358)\n\n## Welcome to Ask Arvada!\n\nAsk Arvada allows residents to report a problem within Arvada’s city limits. It should be used for **non-emergency issues only.** **For life-threatening emergencies, call 911.**\n\n### Report Non-emergency Police Matters\n\nTo report a non-emergency police matter, call 303-980-7300 or view more information [online](/555/Report-a-Crime).\n\n### Report Water Line or Sewer Line Breaks\n\nFor urgent concerns or emergencies at any time of day, please call the following numbers. For water line or sewer line breaks, please call 720-898-7070.\n\n### Reporting Animal Issues\n\n- During Normal Business Hours: For animal-related complaints, to report animal bites or pet ownership information: 720-898-6850\n- After Hours or for Urgent Matters: For urgent animal-related matters, contact non-emergency dispatch at 303-980-7300.\n\n**To report urgent animal concerns, please call 303-980-7300.**\n\n### Report Streetlight Outages\n\nMost streetlights within Arvada are owned and operated by [Xcel Energy](https://co.my.xcelenergy.com/s/). To report a streetlight outage or repair, contact Xcel Energy directly by completing [their online form](https://co.my.xcelenergy.com/s/partner-resources/municipalities/outdoor-lighting/outdoor-lighting-reporting) or by calling 800-895-4999. **Exceptions:**Streetlights located in the Olde Town Arvada and Candelas subdivisions are owned and operated by the City of Arvada. [View a map of where City-owned street lights are located](/DocumentCenter/View/2191/StreetlightManagementMap24x36). To report a streetlight outage or repair in the Olde Town Arvada or Candelas subdivisions, please use our online [Ask Arvada portal](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map).\n\n## Report All Other Requests through Ask Arvada\n\n- **The Ask Arvada system requires you to create a user account by providing your email address and your first and last name.**\n- When you create your user account, you will also choose your public display name. Your display name and the description that you entered might be visible to the public, depending on the type of request.\n- **Your real name and email address will never be displayed publicly**.\n- Your issue will be routed to the appropriate staff member for resolution.\n- Submissions that are incomplete or contain inaccurate or false information may not be processed.\n- **Anonymous submissions are not accepted.**\n\n## Download the App!\n\n[![Download on the App Store](/ImageRepository/Document?documentId=7570)](https://itunes.apple.com/us/app/id6758106993)[![Get it on Google Play](/ImageRepository/Document?documentId=7569)](https://play.google.com/store/apps/details?id=gov.arvadaco.seeclickfix)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

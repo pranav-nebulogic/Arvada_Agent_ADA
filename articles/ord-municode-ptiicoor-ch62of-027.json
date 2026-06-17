@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "urination",
+      "defecation",
+      "public",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-57"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-57. - Urination and defecation in public.",
+    "summary": "(a)\nIt shall be unlawful for any person to urinate or defecate in the public view, whether\n               in or on public or private property, except in a room or area designated and equipped\n               for such purposes.\n(b)\nUrination or defecation in public shall be punishable by a fine not to…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-57. - Urination and defecation in public.",
+        "a": "(a)\nIt shall be unlawful for any person to urinate or defecate in the public view, whether\n               in or on public or private property, except in a room or area designated and equipped\n               for such purposes.\n(b)\nUrination or defecation in public shall be punishable by a fine not to exceed the\n               limits established in\nsection 1-5\n.\n(Code 1981, § 21-27; Ord. No. 2082, § 1, 7-16-1984; Ord. No. 2188, § 1, 8-5-1985;\n               Ord. No. 2297, § 17, 5-5-1986; Ord. No. 2364, § 3, 11-3-1986)\nCross reference—\nStreets, sidewalks and certain other public places,\nch. 94\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-57"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

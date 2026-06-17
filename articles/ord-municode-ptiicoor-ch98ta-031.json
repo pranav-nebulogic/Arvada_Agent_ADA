@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "same",
+      "impoundment",
+      "event",
+      "enforcement",
+      "officer",
+      "reasonable",
+      "cause"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-82"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-82. - Same—Impoundment.",
+    "summary": "(a)\nIn the event that the enforcement officer has reasonable cause to believe that a nonresident\n               vendor is engaged in business in the city without first having obtained a license\n               under this article, he may schedule a hearing before the finance director, not less\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-82. - Same—Impoundment.",
+        "a": "(a)\nIn the event that the enforcement officer has reasonable cause to believe that a nonresident\n               vendor is engaged in business in the city without first having obtained a license\n               under this article, he may schedule a hearing before the finance director, not less\n               than ten days' written notice to the nonresident vendor, to determine whether or not\n               such vendor is engaged in business in the city. In the event that the hearing officer\n               determines after a hearing that the vendor is engaged in business within the city,\n               an order shall be issued, directing the vendor to obtain a license or cease doing\n               business in the city, which order shall be appealable to the district court in accordance\n               with law.\n(b)\nIn the event that a nonresident vendor fails to comply with such order and continues\n               to engage in business in the city, the enforcement officer may seize and impound any\n               personal property of the vendor or his agent, located in the city and used in any\n               manner in furtherance of or to facilitate the transaction of the vendor's business\n               in the city. The vendor shall be notified of the impoundment and shall have the right\n               to demand an administrative hearing to be held not later than five working days from\n               the date of seizure, unless the vendor requests a later date. The hearing officer\n               at such hearing shall determine only whether or not the impounded property was used\n               in furtherance of or to facilitate the transaction of business by the vendor in the\n               city. If no hearing is demanded or if a hearing is held and it is determined that\n               the property was so used, it shall be held until the vendor has obtained a license.\n               If it is determined at the hearing that the property was not so used, it shall be\n               released forthwith. The determination of the hearing officer shall be appealable to\n               the district court as provided by law.\n(c)\nIf the vendor fails to apply for a license within 30 days from the date of impoundment,\n               the enforcement officer may estimate the taxes due in accordance with\nsection 98-86\nand collect such taxes pursuant to\nsections 98-96\nthrough\n98-100\nfrom the proceeds of the impounded property.\n(Code 1981, § 31-57; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-82"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

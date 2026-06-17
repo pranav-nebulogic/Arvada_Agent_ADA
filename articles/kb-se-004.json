@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "events",
+    "tags": [
+      "olde",
+      "town",
+      "employee",
+      "residential",
+      "parking",
+      "permits",
+      "Special Event Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/568/Olde-Town-Employee-Residential-Parking-P"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/events/se-004",
+    "spreadsheet_id": "SE-004",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Olde Town Employee & Residential Parking Permits",
+    "summary": "Employee parking permits for the Olde Town Transit Hub must be renewed every three months and allow for free parking without daily registration, with a limit of 300 permits issued. Residents of single-family homes on Yukon St. and Grant Pl. can apply for residential parking permits with proof of residency, while apartment residents in mixed-use properties must rely on their property owners for parking solutions and are not eligible for the permit program.",
+    "body": "For Employee and Residential Parking Permit questions, please [email the Parking Program](/cdn-cgi/l/email-protection#d8a8b9aab3b1b6bf98b9aaaeb9bcb9f6b7aabf).\n\n- [Apply for an Employee or a Residential Parking Permit](https://arvada.cmrpay.com/dashboard/landing).\n\n## Employee Parking Permits\n\n- Permits need to be renewed every three months following the receipt of a reminder email.\n- Employee parking permits are only valid for parking within the Olde Town Transit Hub parking structure.\n- The employee parking permit exempts the vehicle from the posted timed restrictions within the public parking area of the Hub without having to register daily.\n- Employee parking is free at this time.\n- Permits will be issued in the order they are received with a maximum of 300 permits issued.\n\n## Olde Town Residential Parking Permits\n\nResidents who live in the **single-family homes on Yukon St. and Grant Pl.** may apply for a [residential parking permit](https://arvada.cmrpay.com/dashboard/landing) for Olde Town with proof of residency.\n\nFor apartment residents within Olde Town in mixed-use properties, the responsibility to have on-site parking falls on the property owner. If no on-site parking is available, the tenant is responsible for locating a viable, long-term parking option. These residents are not eligible for the residential permit program.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

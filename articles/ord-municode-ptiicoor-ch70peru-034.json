@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "assignment",
+      "pay",
+      "regular",
+      "probationary",
+      "non",
+      "exempt",
+      "employees"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-66"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-66. - Assignment pay.",
+    "summary": "Regular and probationary non-exempt employees assigned to be on call 24-hours per\n               day for a continuous, consecutive and ongoing basis of 27 weeks or more and required\n               to respond to an emergency situation will be paid assignment pay in accordance with\n               appl…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-66. - Assignment pay.",
+        "a": "Regular and probationary non-exempt employees assigned to be on call 24-hours per\n               day for a continuous, consecutive and ongoing basis of 27 weeks or more and required\n               to respond to an emergency situation will be paid assignment pay in accordance with\n               applicable federal and state laws and a policy established by the city manager.\n(\nOrd. No. 4862\n, § 1, 10-16-2023;\nOrd. No. 4890\n, § 8, 2-10-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-66"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

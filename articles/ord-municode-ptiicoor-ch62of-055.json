@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "applicability",
+      "article",
+      "shall",
+      "apply",
+      "every",
+      "item",
+      "property"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-93"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-93. - Applicability.",
+    "summary": "This article shall apply to every item of property in the custody of the custodian\n               on the effective date of this ordinance and to all items of property coming into the\n               custody of the custodian thereafter.\n(\nOrd. No. 4238, § 1, 12-6-2010\n)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-93. - Applicability.",
+        "a": "This article shall apply to every item of property in the custody of the custodian\n               on the effective date of this ordinance and to all items of property coming into the\n               custody of the custodian thereafter.\n(\nOrd. No. 4238, § 1, 12-6-2010\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-93"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

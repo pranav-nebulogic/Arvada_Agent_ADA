@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "administrative",
+      "fees",
+      "generally",
+      "except",
+      "specifically",
+      "provided",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-261"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-261. - Administrative fees.",
+    "summary": "(a)\nGenerally.\nExcept as specifically provided for in this article or as set forth in subsection\n               (b) of this section, fees for services performed by the city shall be promulgated\n               by the department head responsible for such fees, who shall submit the same, together\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-261. - Administrative fees.",
+        "a": "(a)\nGenerally.\nExcept as specifically provided for in this article or as set forth in subsection\n               (b) of this section, fees for services performed by the city shall be promulgated\n               by the department head responsible for such fees, who shall submit the same, together\n               with supporting documents, to the city manager for approval prior to such fees becoming\n               effective. Such fees shall become effective upon notice being given pursuant to\nsection 2-262\n. Whenever the establishment of a fee as herein provided for would involve a department\n               for which there is a board or commission acting in an advisory capacity to that department,\n               the city manager may submit such proposed fees to that board or commission for its\n               recommendations.\n(b)\nCriminal justice records.\nReasonable fees for the search, retrieval, and photocopying of criminal justice records\n               shall be promulgated by the chief of police, approved by the city manager, and adopted\n               by the city council by resolution. Such fees shall not be subject to the publication\n               requirements set forth hereinbelow.\n(c)\nGolf course fees.\nAll fees associated with the use and operation of Lake Arbor Golf Course and West\n               Woods Golf Club, including but not limited to membership, green, rental, and tournament\n               fees, shall be promulgated by the golf course manager, approved by the city manager,\n               and shall be transmitted to the city council as an informational item. Such fees shall\n               not be subject to the publication requirements set forth hereinbelow and may be adjusted\n               from time-to-time.\n(Code 1981, § 2-181; Ord. No. 3219, § 1, 10-23-1995; Ord. No. 3853, § 1, 1-26-2004)\nState Law reference—\nPublic record fees, C.R.S. § 24-72-205."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-261"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

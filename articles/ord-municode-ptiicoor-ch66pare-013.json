@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "hours",
+      "public",
+      "parks",
+      "within",
+      "city",
+      "unless",
+      "otherwise"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-32"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-32. - Hours.",
+    "summary": "Public parks within the city, unless otherwise closed as provided in section 66-8,\n               shall be open daily to the public from daylight until 11:00 p.m., and no person, not\n               an employee of the city or the North Jeffco Metropolitan Recreation and Park District,\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-32. - Hours.",
+        "a": "Public parks within the city, unless otherwise closed as provided in section 66-8,\n               shall be open daily to the public from daylight until 11:00 p.m., and no person, not\n               an employee of the city or the North Jeffco Metropolitan Recreation and Park District,\n               in his official capacity, shall enter or remain in or within the boundaries of such\n               facilities at any other time; provided, however, the board of directors of the North\n               Jeffco Metropolitan Recreation and Park District may issue permits extending or limiting\n               the time specified in this section for special events, provided prior notification\n               is given to the police department.\n(Code 1960, § 17-32; Code 1981, § 22-13)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-32"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

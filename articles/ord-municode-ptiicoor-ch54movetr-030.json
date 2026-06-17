@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "payment",
+      "parking",
+      "fee",
+      "required",
+      "shall",
+      "unlawful",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-157"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-157. - Payment of parking fee required.",
+    "summary": "(a)\nIt shall be unlawful for any person to park a vehicle in any parking space on a lot,\n               garage, or on a public street that requires payment as a condition of using said space,\n               as indicated by official signs without depositing the required fee at the time of\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-157. - Payment of parking fee required.",
+        "a": "(a)\nIt shall be unlawful for any person to park a vehicle in any parking space on a lot,\n               garage, or on a public street that requires payment as a condition of using said space,\n               as indicated by official signs without depositing the required fee at the time of\n               parking, or without undertaking the required alternative payment process for parking\n               locations applicable to such space with alternative payment capability, for the time\n               used, during the applicable hours of operation, and on the applicable days of operation\n               of such parking location.\n(b)\nNo vehicle shall remain in a space regulated by a paid parking system station for\n               longer than the maximum time that can be purchased from the system at one time, except\n               during those times and dates indicated for which payment is not required.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-157"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

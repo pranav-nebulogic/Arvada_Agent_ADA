@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "password recovery",
+      "account access",
+      "contractor login",
+      "public user",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/619/Recovering-Password"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-453",
+    "spreadsheet_id": "MI-453",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Recovering Password | Arvada, CO",
+    "summary": "Users of the Permit Portal can recover and reset their passwords by selecting the appropriate option on the home screen. Contractors should choose \\\"Contractor Password\\\" and enter their City of Arvada license number, while public users must select \\\"Public User Password\\\" and provide their associated email address to receive password reset instructions via email.",
+    "body": "Users of the Permit Portal can recover and reset their passwords through their profiles. Follow these steps to recover and reset your password.\n\n1. **Forgotten password:** If you forget your password, on the home screen there is a link for \"Forgot Password\" in the top right corner of the page header.\n2. **Select your profile type:** If you are a Contractor that has a license with the City of Arvada, select \"Contractor Password.\" Users who are not contractors should select \"Public User Password.\"\n3. **Contractor password:** To recover a password that is associated with a City of Arvada contractor license, enter in the City of Arvada license number and select \"Submit.\" An email will be sent to the email that is on file with the City of Arvada and will contain the necessary information to log into [Permit Portal]([NEW PORTAL URL]). Please see \"Logging in as a Contractor\" for steps on how to log in using your contractor license.\n4. **Public user password:** Users that are not contractors will use a public profile for logging into [Permit Portal]([NEW PORTAL URL]). To recover your user information, enter in the email address that is associated with the account. Select \"Submit\" to proceed. If the email address is associated with an account, an email will be sent with the necessary information to reset your password.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

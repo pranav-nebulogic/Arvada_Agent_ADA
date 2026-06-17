@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "general",
+      "footnotes",
+      "editor",
+      "note",
+      "ord",
+      "adopted",
+      "december"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 26-1"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — ARTICLE I. - IN GENERAL",
+    "summary": "Footnotes:\n--- (\n2\n) ---\nEditor's note—\nOrd. No. 4827\n, § 1, adopted December 5, 2022, amended article I in its entirety to read as herein\n               set out. Former article I, §§ 26-1—26-3, pertained to similar subject matter, and\n               derived from\nOrd. No. 4529, § 1, 12-7-2015\n; Ord.…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE I. - IN GENERAL",
+        "a": "Footnotes:\n--- (\n2\n) ---\nEditor's note—\nOrd. No. 4827\n, § 1, adopted December 5, 2022, amended article I in its entirety to read as herein\n               set out. Former article I, §§ 26-1—26-3, pertained to similar subject matter, and\n               derived from\nOrd. No. 4529, § 1, 12-7-2015\n; Ord. No.\n4616\n, § 1, 12-18-2017; Ord. No.\n4712\n, § 1, 10-21-2019."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 26-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

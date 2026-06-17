@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "encourage",
+      "preservation",
+      "protection",
+      "enhancement",
+      "character",
+      "city",
+      "adding",
+      "aesthetic"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-1-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "4-6-1-1. Purpose of article.",
+    "summary": "A.\tThe purpose of this Article is to:\nB.\tEncourage the preservation, protection and enhancement of the character of the City by:\n  1.\tAdding aesthetic value to the urban landscape through a balance of buildings, paved areas, and landscaping; and\n  2.\tBuffering uses that tend to create disproportiona…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-1-1. Purpose of article.",
+        "a": "A.\tThe purpose of this Article is to:\nB.\tEncourage the preservation, protection and enhancement of the character of the City by:\n  1.\tAdding aesthetic value to the urban landscape through a balance of buildings, paved areas, and landscaping; and\n  2.\tBuffering uses that tend to create disproportionate impacts on adjacent properties in terms of noise, dust, lighting, and other factors that may be mitigated using landscaping, fencing, berms, distance, and/or divisional walls.\nC.\tEncourage consistent, attractive streetscapes that provide a sense of continuity with deciduous trees that provide shade in the summer and solar access in winter months.\nD.\tEncourage the preservation, protection and enhancement of the environmental quality of the City by:\n  1.\tPreserving natural features such as stream corridors, wetlands and riparian areas, wildlife corridors, mature trees, ditches, and natural ponds;\n  2.\tUsing landscape materials to improve air quality, slow stormwater runoff, and prevent soil erosion;\n  3.\tModerating the heat island effect of urban areas;\n  4.\tPromoting landscape designs that conserve energy and water resources;\n  5.\tPreserving or limiting the removal of native grasses, healthy mature trees, and other desirable vegetative cover and ensuring the replacement of trees; and\n  6.\tProviding stormwater water systems including low impact development (LID).\nE.\tEncourage the conservation of water resources by providing for the efficient use of irrigation, appropriate plant materials and regular maintenance of landscaped areas.\nF.\tEncourage the protection and enhancement of property values by:\n  1.\tEnhancing the aesthetic appearance of development through the City; and\n  2.\tLandscaping parking lots and other designated areas."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

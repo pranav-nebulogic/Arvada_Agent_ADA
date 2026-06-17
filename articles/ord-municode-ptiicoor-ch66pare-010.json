@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "hazardous",
+      "activity",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "engage"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-29"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-29. - Hazardous activity.",
+    "summary": "It shall be unlawful for any person to engage in any activity in a public park which\n               may constitute a hazard to the safety of other users of such facility, except that\n               such activity may be conducted in areas specifically designed for such activity. Such\n               a…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-29. - Hazardous activity.",
+        "a": "It shall be unlawful for any person to engage in any activity in a public park which\n               may constitute a hazard to the safety of other users of such facility, except that\n               such activity may be conducted in areas specifically designed for such activity. Such\n               activities include, but are not limited to, archery and hitting golf balls.\n(Code 1960, § 17-26; Code 1981, § 22-10)\nState Law reference—\nGeneral police powers, C.R.S. § 31-15-401."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-29"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

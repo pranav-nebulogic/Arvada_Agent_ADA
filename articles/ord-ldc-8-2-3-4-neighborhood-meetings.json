@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "neighborhood",
+      "meetings",
+      "purposes",
+      "intent",
+      "meeting",
+      "educate",
+      "inform",
+      "city",
+      "residents",
+      "businesses"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-4. Neighborhood meetings.",
+    "summary": "A.\tPurposes and Intent.\n  1.\tPurposes.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-4. Neighborhood meetings.",
+        "a": "A.\tPurposes and Intent.\n  1.\tPurposes. The purposes of the neighborhood meeting are:\n    a.\tTo educate and inform City residents, businesses and organizations of pending development proposals in and near their neighborhood;\n    b.\tTo encourage an Applicant to pursue early and effective communications with the affected parties in conjunction with the proposed development prior to submitting applications, giving the Applicant an opportunity to understand and attempt to mitigate any documentable adverse impact of the proposed development on the community;\n    c.\tTo provide residents and property owners a forum to work together to resolve potential concerns at an early stage of the process; and\n    d.\tTo facilitate ongoing communication between the Applicant, interested residents and property owners, businesses and organizations, the Director, and City officials throughout the development review process.\n  2.\tIntent. Neighborhood meetings are forums in which the Applicant and community members should strive to work together in good faith. However, they are not required to achieve consensus on all aspects of the applications, nor to supplant or add to or subtract from the standards of this LDC. The Applicant is primarily responsible for describing the development and answering questions about the development and potential impacts on the community. City staff is primarily responsible for describing applicable review procedures and opportunities for public input.\nB.\tNotice. Notice of the neighborhood meeting shall be prepared by the Applicant per the requirements of Division 8-2-4, Required Notices. Notification of the neighborhood meeting shall be sent by mail and electronically to those registered neighborhood groups that have boundaries within one-half mile of the project site, and to property owners within 500 feet of the project site at least 15 calendar days before the meeting date.\nC.\tConduct of Meetings.\n  1.\tThe Applicant shall be responsible for scheduling the neighborhood meeting at a time when a Director's staff member can attend, coordinating the meeting, and if necessary retaining an independent facilitator. All neighborhood meetings shall be convened at a place in the vicinity of the proposed development.\n  2.\tAt the meeting, the Applicant or Applicant's representative shall present information about the land uses, site layout, building size and height.\nD.\tNeighborhood Meeting Summary. The Applicant shall include a written neighborhood meeting summary on the results of the neighborhood meeting with the formal application. At a minimum, the neighborhood meeting summary shall include the following information:\n  1.\tProof of mailing notification for the dates and locations of all meetings where participants were invited to discuss the Applicant's proposal;\n  2.\tCopies of the sign-in sheets;\n  3.\tA summary of topics discussed by the Applicant and concerns, issues, and problems expressed by participants; and\n  4.\tA summary of:\n    a.\tHow the Applicant has addressed identified issues; and\n    b.\tIssues that cannot or should not be addressed, and why those issues cannot or should not be addressed.\n(Ord. No. 4793, § 6, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

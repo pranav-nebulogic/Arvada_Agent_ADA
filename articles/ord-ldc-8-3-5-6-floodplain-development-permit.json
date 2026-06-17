@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "floodplain",
+      "development",
+      "permit",
+      "generally",
+      "permits",
+      "required",
+      "prior",
+      "construction",
+      "storage",
+      "materials"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-5-6"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-5. SITE DEVELOPMENT AND TEMPORARY USES"
+  },
+  "content": {
+    "title": "8-3-5-6. Floodplain development permit.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-5-6. Floodplain development permit.",
+        "a": "A.\tGenerally. Floodplain Development Permits are required prior to any construction, development, or storage of materials within any Special Flood Hazard Area as established in the Flood Insurance Study (FIS).\nB.\tForm of Application.\n  1.\tFloodplain Development Permit applications shall be submitted on forms promulgated by the Floodplain Administrator and shall include, but are not limited to:\n    a.\tApplications shall include, at a minimum, plans in duplicate, drawn to scale showing the nature, location, dimensions and elevations of the proposed development.\n    b.\tLocation and description of existing or proposed structures, fill, storage of materials, and drainage facilities.\n    c.\tElevation in relation to mean sea level of the lowest floor, including the basement, of all structures, as certified by a professional land surveyor registered in the State of Colorado.\n    d.\tElevation in relation to mean sea level to which any structure has been flood proofed.\n    e.\tCertification by a registered Colorado professional engineer that the flood proofing methods for any nonresidential structure meet the flood proofing criteria in this Code.\n    f.\tDescription and analysis prepared by a registered Colorado professional engineer of the extent to which any watercourse, floodplain or floodway will be altered or relocated as a result of the proposed development.\n  2.\tThe Applicant shall also be required to furnish such of the following additional information as is deemed necessary by the Floodplain Administrator for the evaluation of the effects of the proposal upon flood flows and floodplain storage and to render a decision on the proposed floodplain use including, but not limited to:\n    a.\tValley cross sections showing the channel of the stream, the floodplain adjoining each side of the channel, the cross-sectional area to be occupied by the proposed development, and high water information.\n    b.\tA plan or surface view, showing elevations or contours, of the ground; size, location and spatial arrangement of all proposed and existing buildings and structures on the site; location and elevations of streets, water supply and sanitary facilities; soil types and other pertinent information.\n    c.\tA profile showing the slope of the bottom of the channel or thalweg of the stream.\n    d.\tWater surface profiles based on backwater analysis.\n    e.\tSpecifications for building construction and materials, flood proofing, filling, dredging, grading, channel improvement, storage of materials, water supply and sanitary facilities.\nC.\tReview of Floodplain Development Permit.\n  1.\tThe Floodplain Administrator shall review each Floodplain Development Permit application to determine the specific flood hazard at the site and evaluate the suitability of the development. The Floodplain Administrator shall also:\n    a.\tReview each application to determine that the permit requirements of this Code have been satisfied.\n    b.\tReview each application to determine that all necessary permits (e.g., 404 permit, storm sewer outfall permit, FEMA permits, etc.) have been obtained by the Applicant from federal, state or local governmental agencies from which approval is required prior to the City's approval of the floodplain development permit.\n    c.\tReview each application to determine if the proposed development is located in the floodway. If located in the floodway, assure that the provisions as set forth in Division 4-1-2, Floodplain regulations have been met.\n    d.\tReview each building permit application to determine whether proposed building sites will be reasonably safe from flooding.\nD.\tFloodplain Development Permit for Property Removed from the Floodplain by Fill. The City will not issue a Floodplain Development Permit for the construction of a new structure or an addition to an existing structure on a property that has been removed from the floodplain by the issuance of a FEMA LOMR-F, unless the elevation of the lowest floor of all buildings in the development is placed one foot above the Base Flood Elevation (BFE) that existed prior to the placement of the approved fill.\nE.\tApproval Criteria. A Floodplain Development Permit application shall be approved by the Floodplain Administrator if it is demonstrated that the application meets all of the following criteria:\n  1.\tThe proposed development is consistent with the objectives and purposes of the floodplain regulations as set out in Division 4-1-2, Floodplain Regulations, and in particular:\n    a.\tThe proposed development preserves the efficiency and capacity of the watercourse to transmit and discharge floodwaters, and the capacity of the floodplain area to absorb floodwaters; and\n    b.\tAll applicable encroachment provisions, if the development is located in a designated floodway.\n  2.\tThe Applicant has obtained all necessary permits from Federal, State, or local governmental agencies from which prior approval is required.\nF.\tApproval Conditions.\n  1.\tThe Floodplain Administrator shall ensure that the proposed development complies with the applicable regulations of Division 4-1-2, Floodplain Regulations. To that end, the Floodplain Administrator is authorized to impose conditions the Floodplain Administrator determines are necessary to ensure compliance with those regulations, including but not limited to:\n    a.\tModification of waste disposal and water supply facilities to minimize or eliminate infiltration of flood waters;\n    b.\tLimitations on periods of use and operations;\n    c.\tImposition of operational controls, sureties, and deed restrictions;\n    d.\tLocation and placement of structures and buildings on a site in order to minimize obstruction to flood waters; and\n    e.\tAdequate flood-proofing measures.\n  2.\tThe Floodplain Administrator may require that the Applicant submit a plan or document certified by a Colorado registered professional engineer or architect affirming that the flood-proofing measures are consistent with the regulatory flood elevation and associated flood factors for the particular area."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-5-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

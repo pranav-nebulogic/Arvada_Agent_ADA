@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "source",
+      "water",
+      "protection",
+      "drinking",
+      "depend",
+      "protecting",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/456/Source-Water-Protection"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-511",
+    "spreadsheet_id": "MI-511",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Source Water Protection",
+    "summary": "Arvada's drinking water is sourced from Ralston Reservoir and Arvada Reservoir, both of which require protection to ensure safe, high-quality supply for residents. The city actively monitors water quality, manages invasive species, and restricts certain recreational activities to safeguard these sources, while residents are encouraged to adopt practices that prevent contamination. In 2021, Arvada developed a Source Water Protection Plan with state collaboration, securing a grant to enhance monitoring and education efforts.",
+    "body": "Arvada residents depend on a reliable supply of safe, high-quality drinking water. Protecting our drinking water is essential to preserve our own health and economy and that of future generations. The City and residents both have important roles to play in protecting the source water on which we all depend.\n\n## Where does my water come from?\n\nArvada's drinking water comes from two surface water sources:\n\n- Ralston Reservoir, filled by Denver Water's North System including Gross Reservoir\n- Arvada Reservoir, filled by Ralston Creek and Clear Creek\n\n\\*Click the image to enlarge.\n\n[![map of Arvada's source water](/ImageRepository/Document?documentId=508)](/DocumentCenter/View/4183/Where-does-My-Water-Come-From)\n\n## What you can do\n\n- Following the [Clean, Drain, Dry procedure](https://stopaquatichitchhikers.org/aboutus/) for all equipment after recreating in the reservoir.\n- Properly using and disposing of [household hazardous waste](https://co-arvada.civicplus.com/738/Household-Hazardous-Waste).\n- Minimizing the use of lawn and garden chemicals.\n- Keeping unwanted materials out of storm drains.\n- Consider volunteering to [Adopt-A-Street](/499/Adopt-a-Street).\n- [Volunteering as a Ranger](/510/Arvada-Reservoir-Ranger-Program) for Arvada Reservoir.\n\n## What the City does\n\n- Monitoring activity in our watersheds.\n- Monitoring the water quality of our canals and the Arvada Reservoir.\n- Managing weeds and harmful algae in and around the reservoir.\n- Protecting our drinking water source from contaminants by allowing only non-motorized and non-contact recreation in the Arvada Reservoir.\n- Performing watercraft inspections to help stop the spread of invasive species like Zebra and Quagga mussels.\n- Participating with and supporting local / regional wildfire protection efforts in Clear Creek County, Jefferson County, and Boulder County.\n- Communicating regularly with Denver Water regarding operational changes to water supply.\n- Communicating with regulators and receiving monitoring and operational information regarding legacy mines.\n- Planning for future projects, educational opportunities, and best management plan implementations.\n\n## Source Water Protection Plan\n\nIn 2021, Arvada published a [Source Water Protection Plan (SWPP)](/DocumentCenter/View/509). This work was done in conjunction with Colorado Department of Public Health and Environment (CDPHE) and Colorado Rural Water Association, and the City earned a $5000 grant for the implementation. Water Quality staff used the grant money towards a new monitoring boat and an educational sign at the Arvada Reservoir.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

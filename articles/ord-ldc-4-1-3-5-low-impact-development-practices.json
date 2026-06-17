@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "impact",
+      "development",
+      "practices",
+      "purpose",
+      "section",
+      "encourage",
+      "incorporation",
+      "into",
+      "site",
+      "designs"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-3-5"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-3. STORMWATER AND DRAINAGE CONTROL"
+  },
+  "content": {
+    "title": "4-1-3-5. Low-impact development practices.",
+    "summary": "A.\tPurpose.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-3-5. Low-impact development practices.",
+        "a": "A.\tPurpose. The purpose of this Section is to encourage the incorporation of Low-Impact Development (LID) practices into site designs in order to mitigate the impacts of increased runoff and stormwater pollution from new development, redevelopment, and infill development as close to the source as practicable. LID practices, if designed and constructed correctly, help preserve permeable surfaces, remove pollutants, regenerate groundwater supply, and encourage the use of native plants.\nB.\tLow-Impact Development Options. The options below are encouraged to implement LID at the time of site development or redevelopment. The options are not intended to be prescriptive or to inhibit creative design. To implement the LID in order to reduce water quality treatment of stormwater runoff, the City's Municipal Separate Storm Sewer System Permit conditions must be met.\nC.\tFurther descriptions and examples of LID options are in the Urban Drainage and Flood Control District, Urban Storm Drainage Criteria Manual, Volume 3 for the following:\n  1.\tBioswales are vegetated swales planted with wet tolerant species of plants or ornamental grasses. They transport, store, and allow infiltration of water, and can be designed as a landscape feature. Bioswales are not grassed, but are planted with a variety of plant species that can withstand occasional water inundation for short periods of time.\n  2.\tGrassed swales are designed conveyance devices used to transport water over the surface of the ground to a point of disposal that may be a catch basin, ditch, or water body that will filter, infiltrate, evaporate, and clean water of total suspended solids, solid waste, and other pollutants. Swales are often appropriate along property lines, public streets, and around buildings.\n  3.\tRain gardens are small, shallow depressions planted with a variety of native or ornamental plants that can treat small amounts of runoff to improve water quality. Rain gardens are generally small collections of water-loving plants planted on a low site area to collect rainfall.\n  4.\tPermeable pavers and porous surfaces allow water seepage through the joints and the gravel base beneath the pavers. This allows for the infiltration of rainwater, thereby reducing the runoff leaving a site. When used in conjunction with street tree planting, this allows for air circulation around tree roots and can easily be removed in order to trim tree roots and to regrade a walkable surface. Use of permeable pavers or porous pavement shall not be permitted in locations required for fire and emergency access unless specifically allowed by the City Engineer.\n  5.\tSand filters are depressions, trenches, barriers, or sand lenses constructed of porous matter that improves ground water recharge to filter, clean, and trap waterborne pollutants.\n  6.\tOther Options.\n    a.\tOther options include extended detention basins that may be used in open space tracts to treat the runoff from multiple lots, roads, and trails.\n    b.\tOther LID options may be allowed as approved by the City Engineer.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-3-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

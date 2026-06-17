@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "applicability",
+      "generally",
+      "provisions",
+      "code",
+      "apply",
+      "land",
+      "development",
+      "within",
+      "incorporated",
+      "areas"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-1-4"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-1. TITLE, PURPOSE, AUTHORITY, AND APPLICABILITY"
+  },
+  "content": {
+    "title": "1-1-1-4. Applicability.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-1-4. Applicability.",
+        "a": "A.\tGenerally. The provisions of this Code shall apply to:\n  1.\tAll land and land development within the incorporated areas of the City of Arvada;\n  2.\tAll buildings, structures, and uses of the land within the incorporated areas of the City of Arvada;\n  3.\tExcept as stated herein or as provided by applicable controlling law, all buildings, structures and land owned by the City or its agencies or departments, by Jefferson County or its agencies or departments, or by utilities, school districts, and special or metropolitan districts located within the incorporated areas of the City of Arvada; however, the provisions of this Code shall not require formal subdivision of land as a result of actions taken by the City to acquire land or interests in land, e.g., easements for public purposes; and\n  4.\tAll buildings, structures, and land owned by state or federal governmental agencies within the incorporated areas of the City of Arvada, to the greatest extent permitted by law.\nB.\tEmergencies. When an emergency threatening life, safety, or property exists or when an immediate need exists in the aftermath of such an emergency, and appropriately addressing the emergency or its aftermath in a timely manner would be inconsistent with the otherwise applicable procedures and requirements of this Code, the land use activities of the City or any City agency, department, district, or utility responsible for the facility involved in the emergency, may be exempt from the procedural requirements of this Code. When such exemption is applied, the City or agency shall complete any improvements or revegetation that would have been required if normal procedures had been followed as soon as reasonably practicable after the necessary emergency or remedial actions are taken. The City Council shall ratify such exemption after-the-fact at its next regularly scheduled public meeting, and shall base its ratification on specified findings of fact related to the emergency involved."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-1-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

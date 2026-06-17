@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "establishment",
+      "districts",
+      "application",
+      "owner",
+      "any",
+      "property",
+      "prior"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-225"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-225. - Establishment of districts.",
+    "summary": "(a)\nApplication.\nThe owner of any property who:\n(1)\nPrior to August 3, 1981, installed one or more public improvements may file with the\n               city manager an application for a reimbursement district on a form provided by the\n               city. The application shall include the nature, lo…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-225. - Establishment of districts.",
+        "a": "(a)\nApplication.\nThe owner of any property who:\n(1)\nPrior to August 3, 1981, installed one or more public improvements may file with the\n               city manager an application for a reimbursement district on a form provided by the\n               city. The application shall include the nature, location, and cost of the improvements,\n               a description of the proposed district and individual properties within it, the names\n               and addresses of the property owners within the district, the proposed manner of assessment\n               and the amount proposed to be assessed against each property for each improvement.\n(2)\nProposes to install one or more public improvements may file with the city manager\n               an application for a reimbursement district on a form provided by the city. The application\n               shall include the nature, location and anticipated cost of the improvements, a description\n               of the proposed district and individual properties within it, the names and addresses\n               of the property owners within the district, the proposed manner of assessment and\n               the amount proposed to be assessed against each property for each improvement. With\n               respect to public improvements, construction of which commences after August 3, 1981,\n               the application shall be accompanied by three construction bids.\n(b)\nNotice.\nA notice shall be mailed to the owners of each property within the proposed district\n               together with a copy of the application. The notice shall state that any owner may\n               file a written request for an administrative hearing to contest the proposal. The\n               request for hearing shall state in general terms the grounds of objection.\n(c)\nHearing.\nThe city manager shall schedule a hearing and notify the applicant and all objecting\n               parties. The city manager or his designee shall conduct the hearing in accordance\n               with the city Code provisions pertaining to the conduct of quasi-judicial hearings.\n(d)\nAdvisory decision.\nAfter the hearing, the presiding officer shall render an advisory decision summarizing\n               the objections and making recommendations to the city council.\n(e)\nAdoption of ordinance.\nAfter the hearing or if no hearing is requested, the city council shall then consider\n               the adoption of an ordinance establishing a reimbursement district and imposing appropriate\n               assessments which shall be liens upon the property assessed. A notice of the lien\n               shall be filed in the office of the county clerk and recorded.\n(f)\nJudicial review.\nAny reimbursement assessment ordinance adopted hereunder shall be subject to judicial\n               review pursuant to Colorado Rule of Civil Procedure No. 106.\n(Code 1981, § 27-185; Ord. No. 1721, § 5, 2-2-1981; Ord. No. 1764, § 4, 8-3-1981;\n               Ord. No. 1805, § 3, 1-4-1982)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-225"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

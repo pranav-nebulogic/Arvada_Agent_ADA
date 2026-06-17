@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-38-008",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "stay",
+      "informed",
+      "date",
+      "progress",
+      "city",
+      "response",
+      "homelessness",
+      "including",
+      "Homelessness in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=38"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-can-i-stay-informed",
+    "faq_category_name": "Homelessness in Arvada"
+  },
+  "content": {
+    "title": "How can I stay informed?",
+    "summary": "Stay up to date with progress on the City’s response to homelessness, including opportunities to attend community meetings, provide feedback, and volunteer, by signing up for the Homelessness Response email list.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How can I stay informed?",
+        "a": "Stay up to date with progress on the City’s response to homelessness, including opportunities to attend community meetings, provide feedback, and volunteer, by signing up for the Homelessness Response email list."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "timetable",
+      "development",
+      "streets",
+      "other",
+      "street",
+      "related"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-64"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-64. - Construction timetable.",
+    "summary": "For the development of streets or other street-related improvements which this article\n               requires, the following schedule shall apply:\n(1)\nHard-surface access roads shall be installed before construction is begun above foundation\n                  level, or before combustible materials …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-64. - Construction timetable.",
+        "a": "For the development of streets or other street-related improvements which this article\n               requires, the following schedule shall apply:\n(1)\nHard-surface access roads shall be installed before construction is begun above foundation\n                  level, or before combustible materials are stockpiled. Hard-surface access roads shall\n                  include all streets, portions of parking lots or other vehicular areas shown on the\n                  approved plans or plats necessary for emergency vehicular access, including curbs,\n                  gutters, cross pans, street signs and all base and surfacing unless an exception is\n                  granted by the city engineer.\n(2)\nSidewalks, widening of existing streets, ramps for the handicapped, noise fencing\n                  or other improvements required by this article, but not directly related to emergency\n                  vehicle access, shall be constructed prior to issuance of certificates of occupancy\n                  for any building which would be served or affected by such improvements.\n(3)\nAs provided in this article, the city engineer may waive the schedule of improvements\n                  if he finds that it cannot be reasonably met due to extenuating circumstances, and\n                  if the city is provided with acceptable security to guarantee completion of the improvements.\n(Code 1981, § 30-49; Ord. No. 1432, § 2, 3-6-1978)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-64"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "windows",
+      "siding",
+      "installation",
+      "interior",
+      "replacement",
+      "residential",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/525/Windows-Siding-Installation"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-607",
+    "spreadsheet_id": "MI-607",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Windows & Siding Installation",
+    "summary": "Permits are required for installing replacement windows and siding on residential homes, with specific guidelines for submission based on the number of windows and type of siding. Applications can be submitted in person or online, and fees include $50 for each trade type plus use tax, with additional fees for structural changes. Inspections are necessary for compliance, and permits are finalized once all inspections are approved.",
+    "body": "Permits are required to install replacement windows and siding on residential homes. If there are structural changes or egress windows being installed, you will need to apply for an [Interior Remodel permit](/423/Residential-Interior).\n\n## Guidelines for Submittal\n\nTo submit a complete application you will need:\n\n## Windows\n\n1. Number of replacement windows\n2. If doors are being replaced, need to have the door location\n3. U Factor rating on the windows\n\n### Siding\n\nIf you are replacing less than one square of siding, a permit is not required.\n\n1. Type of Siding\n2. Number of squares replaced\n\n### Submit Application\n\nApplications can be submitted in person or electronically using the online customer portal at [Arvada Permits](http://www.arvadapermits.org). If submitted electronically, please select **misc** permit type and then select the subtype that best fits your type of work.\n\nOnce a complete application is submitted, it will receive a plan review. When the plan review is complete, the applicant will be notified via email when the permit is approved and ready for payment. Licensed contractors will be asked to login using your contractor license number in the \"Arvada Contractor\" field and your password. If you don't remember your password you can use the \"Forgot your password\" link and the information will be sent to the email on file. [Apply for a Permit](https://aca-prod.accela.com/ARVADA \"SMART License & Permits Application\").\n\n### Fees\n\n- $50 for each trade type\n- Use Tax\n\nIf there are structural changes, the permit fee will be based on Table 18-1 of the adopted permit fee table. A plan review fee will also be applied.\n\n### Inspections\n\n- House Wrap - Siding only\n- Final Building\n\nNo one needs to be home to complete the inspection, please make sure that access is available and no dogs are in that access area.\n\n## Closing the Permit\n\nOnce all inspections have been completed with an approved final status, the permit status will be set to **finaled**. All inspection records can be reviewed and downloaded at the [Arvada Permits Site](http://www.arvadapermits.org).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

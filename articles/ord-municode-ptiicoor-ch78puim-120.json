@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "railroad",
+      "assessments",
+      "council",
+      "shall",
+      "power",
+      "assess",
+      "against"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-121"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-121. - Railroad assessments.",
+    "summary": "The council shall have power to assess against the property of any railroad or street\n               railroad occupying or abutting any street ordered to be improved the whole cost of\n               the street project between or under the rails and tracks of said roadbed and within\n               th…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-121. - Railroad assessments.",
+        "a": "The council shall have power to assess against the property of any railroad or street\n               railroad occupying or abutting any street ordered to be improved the whole cost of\n               the street project between or under the rails and tracks of said roadbed and within\n               the balance of the right-of-way of said railroad or street railroad, and the council\n               shall have power by ordinance to levy an assessment upon the property of said railroad\n               or street railroad, including its roadbed, ties, rails, fixtures, chattels, rights\n               and franchises, which shall constitute an assessment lien which may be enforced either\n               by foreclosure of the lien and sale of said property in the manner provided herein\n               pursuant to\nchapter 59\n, entitled \"municipal liens\" or by suit against the owner. (Nothing herein contained\n               shall be construed as preventing the city from assessing any property of any railroad\n               or street railroad which property is not peculiarly located as herein provided but\n               which is specially benefited by a project.)\n(Code 1981, § 27-121; Ord. No. 551, § 62, 5-14-1964;\nOrd. No. 4042, § 4, 12-11-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-121"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

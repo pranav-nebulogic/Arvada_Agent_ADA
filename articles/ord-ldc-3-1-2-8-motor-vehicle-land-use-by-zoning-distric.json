@@ -1,0 +1,55 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "motor",
+      "vehicle",
+      "land",
+      "zoning",
+      "district"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-2-8"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-2. LAND USE BY ZONING DISTRICT"
+  },
+  "content": {
+    "title": "3-1-2-8. Motor vehicle land use by zoning district.",
+    "summary": "(Ord. No. 4905, § 19, 8-19-2025)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-2-8. Motor vehicle land use by zoning district.",
+        "a": "(Ord. No. 4905, § 19, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-2-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

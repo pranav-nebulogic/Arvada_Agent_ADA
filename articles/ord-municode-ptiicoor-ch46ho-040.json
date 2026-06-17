@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "sale",
+      "subject",
+      "government",
+      "agreement",
+      "notwithstanding",
+      "anything",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-69"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-69. - Sale subject to government agreement.",
+    "summary": "Notwithstanding anything in this article to the contrary, any purchaser at a sale\n               of real or personal property of the authority pursuant to any foreclosure of a mortgage\n               of the authority shall obtain title subject to any contract between the authority\n               and…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-69. - Sale subject to government agreement.",
+        "a": "Notwithstanding anything in this article to the contrary, any purchaser at a sale\n               of real or personal property of the authority pursuant to any foreclosure of a mortgage\n               of the authority shall obtain title subject to any contract between the authority\n               and the government relating to the supervision by the government of the operation\n               and maintenance of such property and the construction of improvements thereon.\n(Code 1981, § 14-38; Ord. No. 1248, § 20, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-222."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-69"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

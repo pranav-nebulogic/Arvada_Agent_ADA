@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "additional",
+      "standards",
+      "attached",
+      "permanent",
+      "signs",
+      "generally",
+      "section",
+      "apply",
+      "buildings",
+      "wall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-5-1"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-5. PERMANENT SIGNS"
+  },
+  "content": {
+    "title": "6-1-5-1. Additional standards for attached permanent signs.",
+    "summary": "A.\tGenerally. The standards of this Section apply to signs that are attached to buildings (wall signs, window signs, projecting signs, and roof signs), based on the form of the sign. These standards are applied in conjunction with all other applicable standards of this Article.\nB.\tWall Signs.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-5-1. Additional standards for attached permanent signs.",
+        "a": "A.\tGenerally. The standards of this Section apply to signs that are attached to buildings (wall signs, window signs, projecting signs, and roof signs), based on the form of the sign. These standards are applied in conjunction with all other applicable standards of this Article.\nB.\tWall Signs. Wall signs are allowed according to the standards in Table 6-1-5-1A, Wall Signs. The location of wall signs on a building is restricted by Subsection F. of Section 6-1-3-1F, Prohibited Signs and Sign Elements.\nC.\tWindow Signs. Window signs are allowed according to the standards in Table 6-1-5-1B, Window Signs.\nD.\tProjecting Signs. Projecting signs include awning signs, marquee signs, hanging signs, and fin signs. Projecting signs are allowed according to the standards in Table 6-1-5-1C, Projecting Signs. Projecting signs shall not extend into the public right-of-way, except that the City may grant a revocable license to allow projecting signs to encroach into the right-of-way.\nE.\tRoof Signs. Roof signs are allowed according to the standards in Table 6-1-5-1D, Roof Signs.\nF.\tCanopy Signs. Canopy signs are allowed according to the standards in Table 6-1-5-1E, Canopy Signs.\n(Ord. No. 4810, § 3, 9-19-2022; Ord. No. 4851, § 4, 7-10-2023; Ord. No. 4905, § 68, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

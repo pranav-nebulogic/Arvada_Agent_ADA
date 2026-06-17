@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "parking",
+      "citation",
+      "dispute",
+      "process",
+      "notwithstanding",
+      "any",
+      "other"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-162"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-162. - Parking citation dispute process.",
+    "summary": "(a)\nDispute of a parking citation.\nNotwithstanding any other provision of this Code, a driver or registered owner of\n               a vehicle charged with a violation of this division that requires payment for parking\n               or involves signage that limits, regulates, restricts, or prohibits…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-162. - Parking citation dispute process.",
+        "a": "(a)\nDispute of a parking citation.\nNotwithstanding any other provision of this Code, a driver or registered owner of\n               a vehicle charged with a violation of this division that requires payment for parking\n               or involves signage that limits, regulates, restricts, or prohibits the parking, standing,\n               or stopping of any vehicle may file a notice of dispute within 15 calendar days from\n               the date of service of the citation. Compliance with this time limit shall be a jurisdictional\n               prerequisite to any dispute brought under this division. Failure to comply shall bar\n               any such dispute.\n(b)\nNotice of dispute.\nThe notice of dispute shall be made to the parking enforcement operator who issued\n               the citation through the parking enforcement operator's website.\n(c)\nAppeal of denial of dispute.\na driver or registered owner who is aggrieved by a denial of a dispute by the parking\n               enforcement operator may file an appeal within ten calendar days of the date of the\n               parking enforcement operator's decision. Compliance with this time limit shall be\n               a jurisdictional prerequisite to any appeal brought under this division. Failure to\n               comply shall bar any such appeal.\n(d)\nNotice of appeal.\nThe notice of the appeal of the parking enforcement operator's decision shall be\n               made on a form prescribed by the city and available online on the City of Arvada Website.\n               The appeal shall be in writing and shall be filed by electronic means with the public\n               works department pursuant to the administrative rules set forth in Article V of Chapter\n               2, Division 3 Administrative Hearings, of the Arvada City Code. In such cases where\n               good cause is shown, a hard copy of the dispute form may be accepted.\n(e)\nReview of appeal.\nThe appeal shall be before a hearing officer appointed by the public works division\n               manager or designee thereof. Notwithstanding any other provision of this Code, the\n               appeal of a parking citation shall consist of a review of all relevant documentation\n               on file with the city in the case, including, but not limited to, the parking citation,\n               accompanying documentation, if any, and the appeal form. All documents may be reviewed\n               electronically. The city bears the burden of proof in a dispute to establish a parking\n               violation by a preponderance of the evidence.\n(f)\nDecision and enforcement order.\nThe hearing officer shall issue a written decision and enforcement order within 28\n               calendar days of the date of the parking citation. An exception to the date of issuance\n               shall be made in any case where, despite due diligence by the city, the city is unable\n               to obtain in a timely manner a certified copy of the vehicle registration from the\n               division of motor vehicles. In these cases, the decision of the hearing officer shall\n               be issued as soon as is reasonably practical after the registration is obtained. Any\n               decision shall clearly state whether the driver or registered owner is found responsible\n               for the civil parking violation. If the driver or registered owner is found responsible\n               for the violation, he or she shall be ordered to pay the civil penalty and any associated\n               fees and costs within ten calendar days, unless an appeal to the district court is\n               timely filed. The decision shall be dated and shall be served upon the parties pursuant\n               to the administrative rules referenced above. Such service may be done electronically.\n               A copy of the written decision and enforcement order shall be kept on file in the\n               clerk's office in accordance with the city's records retention schedule.\n(g)\nFinal agency decision; appeal.\nThe decision of the hearing officer shall be a final agency decision. Any final agency\n               decision rendered pursuant to this provision may be appealed as set forth in Colorado\n               Rules of Civil Procedure Rule 106(a)(4).\n(h)\nCosts and fees.\nThe city may assess administrative costs and fees for services required to process\n               disputes and appeals of parking citations. Any such costs and fees shall be set pursuant\n               to\nsection 2-261\n(a) of this Code.\n(Ord. No.\n4561\n, § 2, 8-29-2016; Ord. No.\n4794\n, § 2, 4-4-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-162"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

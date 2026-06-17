@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "police",
+      "immigration",
+      "enforcement",
+      "colorado",
+      "civil",
+      "accreditation",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1210/Arvada-Police-Immigration-Enforcement-FA"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-071",
+    "spreadsheet_id": "MI-071",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Police Immigration Enforcement FAQ's",
+    "summary": "The Arvada Police Department (APD) adheres to Colorado law, which prohibits law enforcement from arresting or detaining individuals for civil immigration violations. APD does not notify ICE when foreign nationals are contacted or arrested, nor does it participate in ICE's 287(g) Program. The department's policies emphasize that immigration enforcement is a federal responsibility, and officers are instructed to inform foreign nationals of their rights to contact their consulate if detained.",
+    "body": "**As a law enforcement agency accredited by the Commission on Accreditation for Law Enforcement Agencies (CALEA), the Arvada Police Department (APD) has long-standing policies regarding contact with foreign nationals. The APD complies with Colorado law, which limits Colorado law enforcement’s involvement in civil immigration enforcement.**\n\n## Will APD officers locate, arrest, or detain individuals for civil violations of federal immigration laws?\n\nNo. C.R.S. 24-76.6-102(2) prohibits Colorado law enforcement officers from arresting or detaining a person based on a civil immigration detainer request. This is true even if ICE asks a police officer to arrest the person for a civil violation. See [House Bill 19-1124](https://leg.colorado.gov/bills/hb19-1124) for more information.\n\n## Does the APD automatically notify ICE when a foreign national is contacted or arrested?\n\nNo. County jails, not municipal police departments, are responsible for notifying ICE of an arrestee who may violate federal immigration laws. The APD does not make these notifications. If the APD arrests or detains a person reasonably believed to be a foreign national, the officer will notify the person that they have a right to contact the appropriate embassy or consulate.\n\n## Does the APD participate in the federal government’s Immigration and Customs Enforcement’s (ICE’s) 287(g) Program to assist in federal immigration enforcement?\n\nNo. APD does not participate in [ICE’s 287(g) Program](https://www.ice.gov/identify-and-arrest/287g). This is because the APD does not operate a jail or authorize officers to serve as Warrant Service Officers under the Program.\n\n## Can you summarize APD immigration policies?\n\nYes. There are two APD policies related to this topic: [PM 422 Diplomatic and Consular Contacts](https://public.powerdms.com/APD10/documents/819525) (effective 2016, revised 2023), and [PM 428 Immigration Violations](https://public.powerdms.com/APD10/documents/819528) (effective 2016). Here are summaries of each:\n\n**APD PM 422 Diplomatic and Consular Contacts:** Whenever an officer physically arrests or detains a person for a criminal investigation, and the officer reasonably believes the person to be a foreign national, the officer shall inquire to determine the person's citizenship. If the person indicates that they are not a U.S. citizen, the officer shall advise the person that they have the right to notify the consulate of their arrest or detention. There is also a list of countries where there is a mandatory notification of the consulate or embassy if an individual from the country is arrested or detained. Officers are prohibited from arresting a foreign national solely for an alleged undocumented entry into the U.S.\n\n**APD PM 428 Immigration Violations:** The APD does not proactively search for, or arrest, persons from foreign countries because of their immigration status. Unauthorized entry into the U.S. and overstaying a visa are civil immigration violations. Officers are prohibited from arresting or detaining anyone for a civil violation of federal immigration laws. Immigration enforcement is a federal responsibility.\n\nA person who enters the U.S. illegally has committed a federal misdemeanor (8 USC 1325(a)). When an APD officer arrests a person for a State or municipal criminal violation and the person is transported to a county jail, the jail is responsible for notifying ICE as necessary. The APD does not make these notifications.\n\nRequests by ICE, or any other federal agency, for assistance from the APD are directed to a supervisor. The APD may provide available support services, such as traffic control or peacekeeping efforts, to ICE or other federal agencies.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

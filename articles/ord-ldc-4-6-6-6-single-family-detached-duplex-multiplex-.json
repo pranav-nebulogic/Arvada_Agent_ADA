@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "single",
+      "family",
+      "detached",
+      "duplex",
+      "multiplex",
+      "townhome",
+      "front",
+      "yards",
+      "prior",
+      "issuance"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-6-6"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-6 REQUIREMENTS BY LANDSCAPE AREA"
+  },
+  "content": {
+    "title": "4-6-6-6. Single-family detached, duplex, multiplex, and townhome front yards.",
+    "summary": "Prior to the issuance of a certificate of occupancy, single family, duplex, multiplex, and townhome dwelling units shall be landscaped as follows:\n  1.\tFront yards shall be landscaped with trees, turf, low ground covers, shrubs, or flowers.\n  2.\tAt least one tree (shade, ornamental, or evergreen) sh…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-6-6. Single-family detached, duplex, multiplex, and townhome front yards.",
+        "a": "Prior to the issuance of a certificate of occupancy, single family, duplex, multiplex, and townhome dwelling units shall be landscaped as follows:\n  1.\tFront yards shall be landscaped with trees, turf, low ground covers, shrubs, or flowers.\n  2.\tAt least one tree (shade, ornamental, or evergreen) shall be provided for each front yard area."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-6-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "eyeonwater",
+      "program",
+      "monitor",
+      "water",
+      "meters",
+      "habits",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/835/EyeOnWater-Program"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-218",
+    "spreadsheet_id": "MI-218",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "EyeOnWater Program: Monitor your Water use",
+    "summary": "The EyeOnWater program allows residents of Arvada to monitor their water usage in real-time, track habits over time, and set alerts for potential leaks. The city is in the process of upgrading all water meters to enhance efficiency, with nearly all installations expected to be completed by the end of 2027 or early 2028. Residents can register for the service once their new meter is installed by following specific steps outlined by the city.",
+    "body": "## Program overview\n\nThe EyeOnWater program provides information about, and more control over, your water habits. Your EyeOnWater account can help you:\n\n- see real-time information about your water use\n- track water use habits over time\n- set up alerts for potential leaks\n\nAll water meters within the City’s water system are being upgraded to provide this service. The current meters were installed decades ago and are reaching the end of their useful life. The new, upgraded meters use enhanced technology that will improve the efficiency and effectiveness of City water operations and provide water customers with this additional resource for understanding your water use habits.\n\n**If your new water meter has been installed, follow the [registration instructions below to sign up.](#register)**\n\n## What's happening now\n\nThe City is replacing water meters throughout Arvada. Installation is supply chain dependent. **The team anticipates having nearly all meters installed by the end of 2027 or early 2028.**\n\nGenerally, installation will move in order of the segments numbered on the map and listed below. Some water meters are also replaced as they fail or require replacement sooner. \n\n![Map of Arvada broken up by the segments for new meter installation](/ImageRepository/Document?documentId=6588)\n\n1. **Complete - Segment 1**(Cycle 8) - Northeast Arvada (approx. east of Wadsworth, north of W 72nd)\n2. **Complete - Segment 2** (Cycle 7) - North-central Arvada (approx. Kipling to Wadsworth, north of W 72nd)\n3. **Complete - Segment 3** (Cycle 1) - Southeast Arvada (approx. south of Ralston Rd., east of Kipling)\n4. **Segment 4**(Cycle 2) - East-central Arvada (approx. east of Wadsworth, north of Ralston Rd., south of W 72nd)\n5. **Segment 5**(Cycle 3) - Central Arvada (approx. Wadsworth to Kipling, Ralston Rd. to W 72nd)\n6. **Segment 6** (Cycle 4) - Southwest and South-central Arvada (approx. Kipling to Indiana, south of W 64th; west of Indiana south of W 72nd)\n7. **Segment 7** (Cycle 5) - West-central Arvada (approx. Indiana to Kipling, W 64th to 72nd, west of Alkire from 72nd to 80th)\n8. **Segment 8** (Cycle 6) - Northwest Arvada (approx. west of Kipling, north of W 72nd)\n\n## Register your account\n\nOnce your new water meter is installed follow these steps to register your account and begin tracking your water use.\n\n1. ![Arvada utility bill customer # next to account # followed by combined EyeOnWater account #](/ImageRepository/Document?documentId=6594)Find your **customer AND account numbers**in the top right corner of your City of Arvada utility bill\n2. Combine these numbers as customer + account number to create your unique EyeOnWater account number\n3. Visit [**eyeonwater.com/signup**](//eyeonwater.com/signup)to create your account\n4. Download the **EyeOnWater app** or bookmark [**eyeonwater.com**](//eyeonwater.com) on your browser\n   - If you experience any issues with the app, try uninstalling and reinstalling the app.\n5. Start monitoring your water usage!\n\n[Sign Up for EyeOnWater](https://eyeonwater.com/signup)\n\nIf your meter has a black rubber lid instead of a metal lid it has likely been replaced and you can sign up to begin using this service.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

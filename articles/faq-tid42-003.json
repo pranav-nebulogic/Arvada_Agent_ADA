@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-42-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "contact",
+      "get",
+      "locked",
+      "out",
+      "athletic",
+      "field",
+      "please",
+      "water",
+      "Parks Maintenance"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=42"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/who-do-i-contact-if-i-get-locked-in-or-out-of-an-athletic-fi",
+    "faq_category_name": "Parks Maintenance"
+  },
+  "content": {
+    "title": "Who do I contact if I get locked in or out of an athletic field?",
+    "summary": "Please contact the Water Department at the after-hours phone number 720-898-7820.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Who do I contact if I get locked in or out of an athletic field?",
+        "a": "Please contact the Water Department at the after-hours phone number 720-898-7820."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

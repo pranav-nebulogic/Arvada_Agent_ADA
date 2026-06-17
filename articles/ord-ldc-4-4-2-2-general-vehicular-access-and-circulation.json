@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "general",
+      "vehicular",
+      "access",
+      "circulation",
+      "generally",
+      "site",
+      "accordance",
+      "standards",
+      "section",
+      "public"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-4-2-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-4. ACCESS, CIRCULATION, MOBILITY, AND UTILITIES",
+    "division": "DIVISION 4-4-2. ACCESS AND SITE CIRCULATION"
+  },
+  "content": {
+    "title": "4-4-2-2. General vehicular access and circulation.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-4-2-2. General vehicular access and circulation.",
+        "a": "A.\tGenerally. Vehicular access and site circulation shall be in accordance with the standards of this Section.\nB.\tVehicular Access.\n  1.\tVehicular access to and from public streets is subject to the applicable standards of the City's Transportation Standards in the Engineering Code of Standards and Specifications.\n  2.\tDriveways shall be consolidated to the greatest degree possible to reduce the number of sidewalk/driveway crossing points.\nC.\tSite Circulation. The circulation system (i.e., streets, alleys, service drives, access points, sidewalks, trails, and parking and loading areas) within the subject property and at points of connection to other properties or rights-of-way shall provide for the safe, efficient, convenient, and functional movement of vehicles, bicyclists, and pedestrians. These objectives shall be implemented such that the circulation system:\n  1.\tProvides users the necessary sight distances, stacking space, and traffic control devices to ensure the safest and most predictable system of parking and circulation;\n  2.\tIncludes clearly defined points of ingress and egress that promote the orderly, safe, and logical movement of traffic within the subject property and on adjoining streets;\n  3.\tProvides for emergency vehicle access (unobstructed by parking or loading areas), and sufficient areas to allow the staging of emergency rescue or fire-fighting efforts;\n  4.\tLogically connects adjoining properties where appropriate;\n  5.\tMinimizes the number of vehicular turning movements and points of vehicular conflict (particularly at access points); and\n  6.\tMinimizes points of potential conflict between pedestrian and vehicular traffic."
+      }
+    ],
+    "ordinance_refs": [
+      "4-4-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

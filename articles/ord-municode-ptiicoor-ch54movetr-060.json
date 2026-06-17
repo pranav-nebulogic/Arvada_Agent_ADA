@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "restricted",
+      "parking",
+      "area",
+      "defined",
+      "order",
+      "qualify",
+      "adjacent"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-244"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-244. - Restricted parking area defined.",
+    "summary": "(a)\nIn order to qualify as a \"restricted parking area adjacent to an affected public school,\"\n               the block shall meet the following criteria:\n(1)\nThe block or some part thereof shall fall within one-half mile of the closest property\n               line of a senior high school; and\n(2)\nA …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-244. - Restricted parking area defined.",
+        "a": "(a)\nIn order to qualify as a \"restricted parking area adjacent to an affected public school,\"\n               the block shall meet the following criteria:\n(1)\nThe block or some part thereof shall fall within one-half mile of the closest property\n               line of a senior high school; and\n(2)\nA written petition signed by no less than two-thirds of the property owners of the\n               block shall be submitted to the traffic engineer requesting that the block be designated\n               as a restricted parking area; and\n(3)\nThe street immediately adjacent to both the public school and block cannot be part\n               of the state highway system as that term is defined in C.R.S. § 43-2-101, as amended.\nIf all of the above criteria are met, the traffic engineer may designate the block\n               as a restricted parking area adjacent to an affected public school.\n(b)\nIn order to qualify as a \"restricted parking area adjacent to an affected public park,\"\n               the block shall meet the following criteria:\n(1)\nThe block shall be immediately adjacent to a public park in, on or immediately adjacent\n               to which there are pavilions, buildings or other publicly owned facilities the use\n               of which generates traffic in excess of that normally associated with a public park\n               that does not contain or is not located immediately adjacent to such parking facilities;\n               and\n(2)\nA written petition signed by no less than two-thirds of the property owners of the\n               block shall be submitted to the traffic engineer requesting that the block be designated\n               as a restricted parking area; and\n(3)\nResidences shall be located in the block; and\n(4)\nIf the block is located on a cul-de-sac or dead-end street, the traffic engineer must\n               certify that other area parking, not located on a cul-de-sac or dead-end street, is\n               sufficient to meet parking needs created by the use of the public park; and\n(5)\nThe street immediately adjacent to both the public park and block cannot be part of\n               the state highway system as that term is defined in C.R.S. § 43-2-101, as amended.\nIf all of the above criteria are met, the traffic engineer may designate the block\n               as a restricted parking area adjacent to an affected public park.\n(c)\nIn order to qualify as a \"restricted parking area adjacent as designated by the traffic\n               engineer,\" the block shall be in an area which is deemed necessary to be restricted\n               for parking by the traffic engineer.\n(Code 1981, § 17-128; Ord. No. 2804, § 1, 4-15-1991; Ord. No. 2996, § 1, 8-16-1993;\n               Ord. No. 3435, § 2, 2-2-1998;\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-244"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

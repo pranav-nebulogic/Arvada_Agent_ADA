@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "source",
+      "funds",
+      "revenues",
+      "capital",
+      "improvements",
+      "fund",
+      "include"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-293"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-293. - Source of funds.",
+    "summary": "Revenues for the capital improvements fund may include any of the following: Appropriations\n               to the capital improvements fund from the general fund; council authorized transfers\n               of general fund surpluses; council authorized transfers of general obligation bond\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-293. - Source of funds.",
+        "a": "Revenues for the capital improvements fund may include any of the following: Appropriations\n               to the capital improvements fund from the general fund; council authorized transfers\n               of general fund surpluses; council authorized transfers of general obligation bond\n               sale receipts; funds provided by federal, state, or county reimbursement grants, including\n               county open space funds; interest on the fund investments; council authorized transfers\n               from any appropriated fund of the city, including but not limited to enterprise funds,\n               and any other source which the city council authorizes.\n(Code 1981, § 2-68; Ord. No. 2547, § 1, 8-15-1988)\nCharter reference—\nCapital improvements fund, §\n10.7\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-293"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

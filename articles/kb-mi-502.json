@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "shared",
+      "scooters",
+      "bikes",
+      "lime",
+      "document",
+      "documentid",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/648/Shared-Scooters-E-Bikes"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-502",
+    "spreadsheet_id": "MI-502",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Shared Scooters & E-Bikes",
+    "summary": "Arvada's Shared Micromobility Program, operated by Lime, offers dockless electric scooters and e-bikes to enhance transportation options and reduce traffic congestion. Riders must adhere to specific rules, including riding in bike lanes and parking in designated areas, while the program has facilitated over 191,000 trips since its pilot launch in January 2022. For those eligible, reduced-fee rides are available, and devices can be rented through Lime’s mobile app or via text for those without smartphones.",
+    "body": "Arvada's Shared Micromobility (e-scooters and e-bikes) Program provides residents and visitors with an additional transportation option that can help minimize traffic congestion and improve connectivity to transit, retail, appointments, work, and beyond.\n\n**Lime is the current operator providing dockless, electric scooters, bikes, and seated scooters (or gliders).**\n\n![Lime scooter](/ImageRepository/Document?documentId=7044)![Lime e-bike](/ImageRepository/Document?documentId=7046)![Lime Glider or seated scooter](/ImageRepository/Document?documentId=7045)\n\n## Enforcement Requests\n\nUse the **‘Scooter’ category in [Ask Arvada](/898)**to report a device that is in violation of parking rules.\n\nFor questions regarding the mobile app, transactional issues, and/or operational concerns, please contact Lime at 1-888-546-3345 or visit the [Lime Help Center](https://help.li.me/hc/en-us). \n\n## Signing Up\n\nDevices can be rented via [Lime’s mobile app](https://www.li.me/app).\n\n1. **Lime Access:** If you receive SNAP, Medicare, WIC, or subsidized housing, you are likely eligible for reduced-fee rides! Visit [Lime Access](https://services.sheerid.com/verify/6390e2e26b60617208902b2f/?layout=landing&utm_source=lime_website) to apply. Once qualified, you can also pay without using a credit card.\n2. **No smartphone?**Text +1 (888) 495-5014 and follow the prompts to unlock a device.\n\n## How to Ride\n\nRemember these three easy rules:\n\n### Ride in a bike lane, street, or on trails.\n\n- Shared scooters and e-bikes are **not**allowed to be ridden on sidewalks.\n\n### Ride with respect!\n\n- Don’t ride over**15 MPH**on trails.\n- Yield to pedestrians and announce your presence with your voice or a bell.\n\n### Be safe.\n\n- One rider per scooter.\n- Ride with the flow of traffic and follow traffic rules, signs, and signals.\n- Riders must be 16+.\n\n## How to ride an e-scooter etiquetteWhere to Park\n\n### Park devices:\n\n- Within designated parking zones and available bike racks\n- Between the edge of the sidewalk and the road\n- In an area that allows at least 4 feet of pedestrian walking space around the device\n- Upright, with kickstand down\n\n### Devices are not allowed to be parked in the following areas:\n\n- At the corners of sidewalks with curb ramps\n- On curb ramps or blocking access to pedestrian push buttons at intersections\n- Against trees or within landscaped planting beds\n- On blocks without sidewalks, but with a paved shoulder\n- Where they may block access to:\n  - Parklets or streateries, loading zones, handicap parking zones, street furniture that requires pedestrian access (i.e. benches, parking pay stations, bus shelters, transit information signs, etc.), curb ramps, entryways, driveways, landscape planting beds or other landscape materials, fire hydrants and fire lanes, railroad tracks or crossing.\n\n## Background\n\nThe program began operating as a pilot in January of 2022. The permanent program was approved by the City Council in November of 2025 (see [2025 Micromobility Report Summary](https://www.arvadaco.gov/1473/2025-Micromobility-Program-Report-Summar) for more information). The program allows up to two operators to offer shared micromobility devices on Arvada’s streets and trails.\n\nThe City works with the vendor and the Denver Regional Council of Governments to collect data that helps to manage the program. **S****ince 2022, there have been over 191,000 trips on shared micromobility devices within the Arvada Service Area.**To learn more about the data we collect for the shared micromobility program, visit the [Active Transportation Data dashboard](https://storymaps.arcgis.com/stories/3bfb400d84464998a16ca3980e44f600).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

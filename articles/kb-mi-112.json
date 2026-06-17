@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "commercial",
+      "general",
+      "district",
+      "allowed",
+      "uses",
+      "wide",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/175/CG-Commercial-General-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-112",
+    "spreadsheet_id": "MI-112",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "CG (Commercial, General) District",
+    "summary": "The CG (Commercial, General) District is designed to support a diverse range of retail, service, and professional office uses, primarily located along major roads with high traffic access. Various use classifications are permitted, including by-right, limited, and conditional uses, with specific regulations outlined in the Land Development Code for each category, such as residential, hospitality, commercial, and institutional uses. If a use is not specified in the regulations, it is not permitted within this zoning district.",
+    "body": "Intended to accommodate a wide variety of general retail and service uses, as well as professional and business offices serving both neighborhood and area-wide needs. These zones are typically located along arterial streets, or where other appropriate high-volume vehicular access is available.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#tab41d665e8-2866-4f00-8a0e-6652c91582a6_0)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Live-Work Unit | L | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#tab41d665e8-2866-4f00-8a0e-6652c91582a6_1)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Amusement, Outdoor | L | 3-1-3-4 |\n| Bar / Tavern / Nightclub | L | 3-1-3-4 |\n| Brew Pub / Distillery Pub / Limited Winery | L | 3-1-3-4 |\n| Hotel / Motel | A | N/A |\n| Recreation and Amusement, Indoor | A | N/A |\n| Recreation, Outdoor (playing fields) | A | N/A |\n| Recreation, Outdoor (other) | A | N/A |\n| Restaurant | A | 3-1-3-4 |\n| Restaurant, Fast Food | L | 3-1-3-4 |\n| Theater | A | N/A |\n\n1. [Commercial Uses](#tab41d665e8-2866-4f00-8a0e-6652c91582a6_2)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Animal Day Care / Training | L | 3-1-3-5 |\n| Art Studio / Makerspace | A | 3-1-3-5 |\n| Continuing Care Facility | C | N/A |\n| Office, General or Professional | A | N/A |\n| Retail Sales and Services Type 1 | L | 3-1-3-5 |\n| Retail Sales and Services Type 2 | L | 3-1-3-5 |\n| Veterinary Offices or Clinics | L | 3-1-3-5 |\n| Workshop | A | 3-1-3-5 |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#tab41d665e8-2866-4f00-8a0e-6652c91582a6_3)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Ambulance Services | L | 3-1-3-6 |\n| Day Care Center, Adult or Child | A | 3-1-3-6 |\n| Funeral Home / Mortuary | L | 3-1-3-6 |\n| Hospital | A | N/A |\n| Medical Office | A | N/A |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | A | 3-1-3-6 |\n| Private School, Kindergarten, Elementary, Middle, or High | A | N/A |\n| Private School, Vocational, Trade, College, or University | A | N/A |\n\n1. [Industrial, Processing, Recycling, Storage & Disposal Uses](#tab41d665e8-2866-4f00-8a0e-6652c91582a6_4)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Brewery / Winery / Distillery | A | N/A |\n| Light Industry | C | 3-1-3-7 |\n| Resource Extraction (Minerals) | C | 3-1-3-7 |\n| Self-Storage | C | 3-1-3-7 |\n\n1. [Motor Vehicle Uses](#tab41d665e8-2866-4f00-8a0e-6652c91582a6_5)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Fueling / Service Station | L | 3-1-3-8 |\n| Motor Vehicle Repairs and Service, Heavy | C | 3-1-3-8 |\n| Motor Vehicle Repairs and Service, Light | L | 3-1-3-8 |\n| Motor Vehicle Wash | L | 3-1-3-8 |\n| Parking Lot, Surface as principal use | C | 3-1-3-8 |\n| Vehicle Equipment Sales or Rentals | L | 3-1-3-8 |\n\n1. [Utility & Communications Uses](#tab41d665e8-2866-4f00-8a0e-6652c91582a6_6)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Major | C | 3-1-3-9 |\n| Utilities, Minor | L | 3-1-3-9 |\n| Data Center | C | 3-1-3-9 |\n| Overhead Power Lines (110 kV+) | C | 3-1-3-9 |\n| Radio or Television Transmission Tower | C | 3-1-3-9 |\n| Freestanding Towers | C | Chapter 7 |\n| Other Wireless Communications Facilities | L | Chapter 7 |\n| Solar Garden | L | 3-1-3-9 |\n\n1. [Agriculture Uses](#tab41d665e8-2866-4f00-8a0e-6652c91582a6_7)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Agriculture, community | L | 3-1-3-10 |\n| Greenhouses / nurseries with retail sales | L | 3-1-3-10 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

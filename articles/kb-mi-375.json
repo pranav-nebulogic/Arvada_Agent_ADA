@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "olde",
+      "town",
+      "water",
+      "fountain",
+      "restrictions",
+      "running",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/673/Olde-Town-Water-Fountain"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-375",
+    "spreadsheet_id": "MI-375",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Olde Town Water Fountain",
+    "summary": "The Olde Town Fountain will operate on a limited basis during Stage 1 drought restrictions, primarily for special events such as the Farmer’s Market and Second Saturdays, to help achieve a 20% reduction in water use. Located at 5700 Olde Wadsworth Boulevard, the fountain will be open from May 30 to September 7, 2026, with specific hours, and users must adhere to various rules for safety and maintenance.",
+    "body": "![Olde Town Arvada Fountain ](/ImageRepository/Document?documentID=1217 \"Olde Town Arvada Fountain \")\n\n## Water Fountain Information\n\n### Stage 1 Drought Restrictions\n\n**During Stage 1 restrictions, the Olde Town Fountain will run on a limited basis for special events like the Farmer’s Market and Second Saturdays.**The Olde Town Fountain is tied into the regular water and sewer system and the water cannot be recycled. This means when it is running we continue to use more water. Running it full time would hinder our ability to reduce water use by 20% this year. Learn more about [Stage 1 water restrictions](/1499).\n\n- **Location**: 5700 Olde Wadsworth Boulevard in the Olde Town Square\n- **Season Dates (special events only in 2026)**: Memorial Day weekend, Saturday, May 30, 2026 through Labor Day weekend, Monday, Sept. 7, 2026\n  - Fountain will be open Sundays in September for the Farmer's Market\n- **Hours of Operation**:\n  - 9 to 11 a.m.\n  - Noon to 2 p.m.\n  - 4 to 9 p.m.\n- Water Fountain maintenance operations:\n  - The fountain may be shut off at any time due to weather, maintenance of equipment, or other operational concerns. In the event the water is not running but not related to maintenance operations, please call Parks Maintenance at 720-898-7410.\n\n## Fountain Rules\n\nWhen the fountain is operating, the following rules apply:\n\n- All persons using the fountain do so at their own risk.\n- Children should be accompanied by an adult.\n- Keep children out of shrub beds.\n- Young children and infants must wear swim diapers.\n- Running, roughness, horseplay, and other disturbances are strictly prohibited.\n- No pets allowed in the fountain.\n- No bikes, scooters, skateboards, or roller blades allowed.\n- No food or glass containers in fountain area.\n- Profanity, improper behavior, and intoxication are not allowed.\n- Smoking is prohibited.\n- No loitering.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

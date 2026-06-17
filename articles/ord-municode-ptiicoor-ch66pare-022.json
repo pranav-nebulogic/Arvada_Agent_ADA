@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fishing",
+      "permit",
+      "fees",
+      "annual",
+      "permits",
+      "available",
+      "arvada"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-58"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-58. - Fishing permit fees.",
+    "summary": "(a)\nAnnual fishing permits are available at the Arvada City Hall, Finance Department,\n               8101 Ralston Road, Arvada, Colorado between 8:30 a.m. and 4:30 p.m., Monday through\n               Friday. Permits are nontransferable.\n(b)\nFor residents of the city the annual fishing permit fees ar…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-58. - Fishing permit fees.",
+        "a": "(a)\nAnnual fishing permits are available at the Arvada City Hall, Finance Department,\n               8101 Ralston Road, Arvada, Colorado between 8:30 a.m. and 4:30 p.m., Monday through\n               Friday. Permits are nontransferable.\n(b)\nFor residents of the city the annual fishing permit fees are as follows: $25.00 per\n               vehicle; $25.00 per boat; $15.00 per vehicle for a senior citizen or handicapped person;\n               $15.00 per boat for a senior citizen or handicapped person; no cost per one vehicle\n               for a Disabled American Veteran; no cost per one boat for a Disabled American Veteran.\n(c)\nThe annual fishing permit fees for nonresidents are as follows: $35.00 per vehicle;\n               $35.00 per boat; $25.00 per vehicle for a senior citizen or handicapped person; $25.00\n               per boat for a senior citizen or handicapped person.\n(d)\nDaily fishing permits are available at the Arvada/Blunn Reservoir main entrance on\n               a self-service basis during the times that the reservoir is open. Permits are nontransferable.\n(e)\nDaily fishing permit fees for people who wish to fish are as follows: $5.00 per motorized\n               vehicle, $5.00 per boat, $3.00 per bicyclist, $3.00 per individual fisherman, and\n               $3.00 per walk-in.\n(f)\nAnnual fishing permits for second or more vehicles or boats owned by the same person\n               may be purchased at 50 percent of the cost set forth in subsections (b) and (c) of\n               this section but must be purchased at the same time that the original permit is purchased\n               pursuant to subsections (b) and (c) of this section.\n(Code 1981, § 22-27; Ord. No. 3609, §§ 1, 2, 4-3-2000;\nOrd. No. 4256, § 3, 3-21-2011\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-58"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

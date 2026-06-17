@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "prohibited",
+      "fixtures",
+      "connections",
+      "hereby",
+      "amended",
+      "adding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-397"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-397. - I.P.C. Section 401.2, Prohibited fixtures and connections.",
+    "summary": "Section 401.2. Prohibited fixtures and connections,\nis hereby amended by adding a second paragraph to read as follows:\n\"Fixed wooden, concrete, cement, or tile wash trays or sinks for domestic use shall\n                  not be installed in any building designed or used for human habitation. No shee…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-397. - I.P.C. Section 401.2, Prohibited fixtures and connections.",
+        "a": "Section 401.2. Prohibited fixtures and connections,\nis hereby amended by adding a second paragraph to read as follows:\n\"Fixed wooden, concrete, cement, or tile wash trays or sinks for domestic use shall\n                  not be installed in any building designed or used for human habitation. No sheet metal\n                  lined wooden bathtub shall be installed or reconnected. No dry or chemical water closet\n                  (toilet) shall be installed in any building used for human habitation unless first\n                  approved by the building official and utilities manager.\"\n(Ord. No.\n4738\n, § 11, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-397"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

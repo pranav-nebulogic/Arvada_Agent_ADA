@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "board",
+      "adjustment",
+      "month",
+      "public",
+      "tuesday",
+      "comment",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/266/Board-of-Adjustment"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-104",
+    "spreadsheet_id": "MI-104",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Board of Adjustment",
+    "summary": "The Board of Adjustment addresses appeals related to the zoning ordinance and requests for variances to the Land Development Code, meeting at 6:15 pm on the 1st and 3rd Tuesday of each month at City Hall. The board consists of seven members who serve three-year terms and receive $75 per meeting, with recruitment for vacancies starting in December. Public comments are welcomed during meetings, with submissions required by 5 pm the day before.",
+    "body": "## Overview\n\nThe Board of Adjustment hears all appeals of the zoning ordinance and requests for variance to the Land Development Code.\n\n## Meeting Information\n\n- 6:15 pm\n- 1st and 3rd Tuesday of every month  \n  If the 1st of the month falls on a Tuesday, the Board will meet on the 2nd and 4th Tuesday of that month.\n- City Hall\n- Public comment is allowed during scheduled times on the agenda or during a public hearing. To submit public comment, [**please fill out this form**](https://arvada-forms.app.transform.civicplus.com/forms/64348). Comments can also be [sent via mail](/Directory.aspx?DID=45) to the Board of Adjustment. Members that wish to speak during the meeting may do so during the regularly scheduled public comment. All comments must be received by 5 pm the day before the meeting.\n\n## Board Details\n\n- 7 members\n- 3 year terms\n- Compensation: $75 per meeting\n- Board members must be residents of Arvada\n\n## Interested in Joining the Board of Adjustment?\n\nRecruitment to fill vacancies on boards and commissions will begin in December. You can review the application process on the main [Boards, Commissions and Committees page](/248/Boards-Commissions-and-Committees).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

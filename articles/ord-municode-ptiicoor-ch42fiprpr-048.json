@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "table",
+      "shall",
+      "amended",
+      "read",
+      "follows",
+      "required",
+      "fire"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-93"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-93. - I.F.C. Table B105.1(1).",
+    "summary": "Table B105.1(1)\nshall be amended to read as follows:\n\"Table B105.1(1)\nREQUIRED FIRE-FLOW FOR ONE-AND TWO-FAMILY DWELLINGS, Group R-3 and R-4 BUILDINGS AND\n               TOWNHOUSES\nFIRE-FLOW CALCULATION AREA (square feet)\nAUTOMATIC\nSPRINKLER\nSYSTEM\n(Design\nStandard)\nMINIMUM\nFIRE-FLOW\n(gallons per\nmi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-93. - I.F.C. Table B105.1(1).",
+        "a": "Table B105.1(1)\nshall be amended to read as follows:\n\"Table B105.1(1)\nREQUIRED FIRE-FLOW FOR ONE-AND TWO-FAMILY DWELLINGS, Group R-3 and R-4 BUILDINGS AND\n               TOWNHOUSES\nFIRE-FLOW CALCULATION AREA (square feet)\nAUTOMATIC\nSPRINKLER\nSYSTEM\n(Design\nStandard)\nMINIMUM\nFIRE-FLOW\n(gallons per\nminute)\nFLOW\nDURATION\n(hours)\n0—3,600\nNo automatic\nsprinkler\nsystem\n1,000\n1\n3,601 and greater\nNo automatic\nsprinkler\nsystem\nValue in\nTable\nB105.1(2)\nDuration in\nTable\nB105.1(2)\nat the\nreduced\nflow rate\n0—3,600\nSection\n903.3.1.3\nof the\nInternational\nFire Code\nor Section\nP2904 of the\nInternational\nResidential\nCode\n1,000\n½\n3,601 and greater\nSection\n903.3.1.3\nof the\nInternational\nFire Code\nor Section\nP2904 of the\nInternational\nResidential\nCode\n½ Value in\nTable\nB105.1(2)\na\n1\nFor SI: 1 gallon per minute = 3.785 L/min.\nThe reduced fire-flow shall not be less than 1,000 gallons per minute.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-93"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

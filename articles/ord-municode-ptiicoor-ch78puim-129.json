@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "private",
+      "sewer",
+      "connections",
+      "sewers",
+      "connected",
+      "district",
+      "acquired"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-130"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-130. - Private sewer connections.",
+    "summary": "Private sewers connected with district sewers may be acquired under such restrictions\n               and subject to such regulations as may be prescribed by the council, but no expense\n               shall be incurred by the city in acquiring them, and the city shall have power by\n               ord…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-130. - Private sewer connections.",
+        "a": "Private sewers connected with district sewers may be acquired under such restrictions\n               and subject to such regulations as may be prescribed by the council, but no expense\n               shall be incurred by the city in acquiring them, and the city shall have power by\n               ordinance to compel the owner of any premises in any sewer district or any subdistrict\n               to connect the same with the district or with the subdistrict sewer at his own expense.\n(Code 1981, § 27-130; Ord. No. 551, § 71, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-130"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "teen",
+      "police",
+      "academy",
+      "enforcement",
+      "high",
+      "june",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1472/Teen-Police-Academy"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-543",
+    "spreadsheet_id": "MI-543",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Teen Police Academy",
+    "summary": "The 2026 Arvada & Westminster Teen Police Academy is a week-long program from June 1 to June 5, 2025, designed for high school students aged 15 to 18 interested in law enforcement. Participants will engage in various activities, including crime scene investigations, SWAT tactics, and emergency vehicle operations. Applications are open until May 2, 2026, and interested students should consult their School Resource Officer for more information.",
+    "body": "## 2026 Teen Academy\n\nAre you a high school student interested in law enforcement? The 2026 Arvada & Westminster Teen Police Academy offers an exciting, hands-on experience that gives teens a behind-the-scenes look at police work.\n\nDates: June 1 to June 5, 2025\n\nOpen to: Students aged 15 to 18 currently enrolled in a high school in Arvada or Westminster\n\n### What to Expect\n\nThroughout this fast-paced, immersive week, participants will engage in real-world law enforcement activities, including:\n\n- Crime Scene Investigations – Learn how officers gather evidence and solve cases\n- SWAT & Building Search Tactics – Get insight into high-risk operations\n- Emergency Vehicle Operations – Experience how officers respond to calls\n- Arrest & Control Tactics – Train in self-defense and suspect apprehension\n- Weapons Training – Understand firearm safety and handling techniques\n- Investigations & Patrol Procedures – See what it takes to serve and protect\n\n### How to Apply\n\nThe online [2026 Police Teen Academy application](https://forms.office.com/pages/responsepage.aspx?id=cbtO-VY1JEaVR7cl7pcclMw5ALkxi19ArUSrhmuQpL1UM1RLWk5CQk5XN1Q4M0ZUVzFYTVRSQkRBVyQlQCN0PWcu&origin=lprLink&route=shorturl) is open! Space is limited and registration closes on May 2, 2026.\n\nSpeak with your School Resource Officer for more details and watch our recap video from a prior academy!\n\n[![2024 Teen Academy Video](/ImageRepository/Document?documentId=5172 \"2024 Teen Academy Video\")](https://www.youtube.com/watch?v=_ZHauKPhC9w)\n\nRequirements:\n\n- Must be 15 to 18 years old\n- Must be enrolled in a high school in Arvada or Westminster\n- A valid driver’s license or permit is preferred, but not required\n- School attendance and GPA will be reviewed",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "ridge",
+      "station",
+      "easy",
+      "access",
+      "agri",
+      "area",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/468/Arvada-Ridge-Station"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-076",
+    "spreadsheet_id": "MI-076",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Ridge Station",
+    "summary": "Arvada Ridge Station is conveniently located near Red Rocks Community College and features pedestrian and cyclist access via a new underpass at Kipling Parkway. The area will soon include a new park with inclined trails, and public art titled \\\"Chromatic Harvest,\\\" created by artists Shane Allbritton and Norman Lee, reflects Arvada's agricultural heritage through contemporary design on ceramic steel panels.",
+    "body": "The Arvada Ridge Station is an easy walk to Red Rocks Community College. The Station is easy to access for pedestrians and cyclists thanks to a new underpass at Kipling Parkway. The nearby area features single and multi-family housing. A new park, coming soon, will feature inclined trails and more.\n\n## Public Art at the Station\n\nThe art selected for Arvada Ridge is titled \"Chromatic Harvest\" and takes its inspiration by connecting the past with the present and the future using the themes of agriculture and movement. Geometric crop rows are reinterpreted in a contemporary way on ceramic steel panels, connecting Arvada's agricultural past with its dynamic present.\n\n![Arvada Ridge Station Art](/ImageRepository/Document?documentID=530 \"Arvada Ridge Station Art\")\n\n## Artist Details\n\nThe artists behind “Chromatic Harvest” are Shane Allbritton and Norman Lee. The two founded [RE:site](http://www.resite-studio.com/). To learn more about the artists, please visit their profile on [RTD-FasTracks.com](http://www.rtd-fastracks.com/main_475).\n\n## Photo Gallery\n\nIf you're a member of the media needing high-resolution images, please contact Sherry Nalbach at 720-898-7521.\n\n1. ![Arvada Ridge View of Platform](/ImageRepository/Document?documentID=527 \"Arvada Ridge View of Platform\")\n2. ![Arvada Ridge View of Tracks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 \"Arvada Ridge View of Tracks\")\n3. ![Arvada Ridge View of Parking Lot](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 \"Arvada Ridge View of Parking Lot\")\n\n1. [1\n   Arvada Ridge View of Platform](#targetImage)\n2. [2\n   Arvada Ridge View of Tracks](#targetImage)\n3. [3\n   Arvada Ridge View of Parking Lot](#targetImage)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "search",
+      "warrants",
+      "warrant",
+      "issued",
+      "city",
+      "municipal",
+      "court"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-100"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-100. - Search warrants.",
+    "summary": "A warrant may be issued by the city municipal court to search any person or premises\n               within the city upon a showing of probable cause that a distraint warrant has been\n               issued by the finance director, that property subject to the distraint warrant is\n               locat…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-100. - Search warrants.",
+        "a": "A warrant may be issued by the city municipal court to search any person or premises\n               within the city upon a showing of probable cause that a distraint warrant has been\n               issued by the finance director, that property subject to the distraint warrant is\n               located on the premises and that the distraint warrant cannot reasonably be satisfied\n               exclusively by the seizure of property located in a place not subject to a reasonable\n               expectation of privacy. The procedure for issuance, execution and motions for return\n               of property, shall be as provided in Municipal Court Rule of Procedure 241(c), (d)\n               and (e). Nothing in this rule shall be construed to require a search warrant in any\n               case where warrants are not presently required by law.\n(Code 1981, § 31-69; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-100"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

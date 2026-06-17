@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "review",
+      "procedures",
+      "eligible",
+      "party",
+      "appeal",
+      "administrative",
+      "decision",
+      "filing",
+      "request",
+      "within"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-5-6"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-5. ADMINISTRATIVE APPEALS"
+  },
+  "content": {
+    "title": "8-2-5-6. Review procedures.",
+    "summary": "An eligible party may appeal an administrative decision by filing a request for appeal within seven calendar days following the Decision.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-5-6. Review procedures.",
+        "a": "An eligible party may appeal an administrative decision by filing a request for appeal within seven calendar days following the Decision. The appeal request shall include the name and address of the appellant, how the appellant meets the eligibility for appeal, and reason(s) the appeal is being requested. The Director shall determine if the appeal has standing under Section 8-2-5-4, Eligible Parties to Appeals, within five calendar days. If the appellant is determined to have standing, the appeal will be heard within 45 calendar days by the appellate body identified in Section 8-2-5-2, Appellate Body above."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-5-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

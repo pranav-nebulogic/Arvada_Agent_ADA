@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "soliciting",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-61"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-61. - Soliciting.",
+    "summary": "(a)\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nDwelling\nmeans any building or part thereof, occupied in whole or in part, as…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-61. - Soliciting.",
+        "a": "(a)\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nDwelling\nmeans any building or part thereof, occupied in whole or in part, as the home residence\n               or sleeping place of one or more persons, either continuously, permanently, temporarily\n               or transiently.\nSoliciting at a dwelling\nmeans to enter upon a dwelling premises for the purpose of soliciting the purchase\n               or sale of goods or services from the occupant of a dwelling.\nSolicitor\nmeans any person who solicits the purchase or sale of goods or services of any kind\n               whatsoever at any dwelling within the city.\n(b)\nIt shall be unlawful for any person to solicit at a dwelling whereon a sign has been\n               conspicuously displayed with the words \"NO SOLICITORS\" or \"NO SOLICITING.\"\n(c)\nIt shall be unlawful for any solicitor to remain on a dwelling premises after the\n               occupant requests the solicitor to leave, whether or not any \"NO SOLICITORS\" or \"NO\n               SOLICITING\" signs have been displayed.\n(Code 1981, §§ 28.5-1, 28.5-2; Ord. No. 2119, § 2, 11-5-1984)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

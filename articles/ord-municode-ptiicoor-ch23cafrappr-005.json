@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "affidavit",
+      "applicant",
+      "each",
+      "application",
+      "shall",
+      "accompanied",
+      "substantially"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH23CAFRAPPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:29.502011+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 23-36"
+    ],
+    "chapter": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS"
+  },
+  "content": {
+    "title": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS — Sec. 23-36. - Affidavit of applicant.",
+    "summary": "Each application shall be accompanied by an affidavit substantially in the form set\n               forth below:\nThis application is submitted by the undersigned who has been duly authorized to make\n                  the representations within on behalf of the applicant and certifies the representati…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 23-36. - Affidavit of applicant.",
+        "a": "Each application shall be accompanied by an affidavit substantially in the form set\n               forth below:\nThis application is submitted by the undersigned who has been duly authorized to make\n                  the representations within on behalf of the applicant and certifies the representations\n                  are true and correct.\nThe applicant recognizes that all representations are binding on it, that all application\n                  commitments are enforceable, and that material misrepresentations or omissions, or\n                  failure to adhere to any such representation may result in a denial of an application\n                  by Arvada.\nThe applicant shall comply with all applicable local laws.\nConsent is hereby given to the City of Arvada, and its representatives to make inquiry\n                  into the legal, character, technical, financial and other qualifications of the applicant\n                  by contacting any persons or organizations named herein as references, or by any other\n                  appropriate means.\nName of Applicant's Authorized Representative:_______\nAffiant's Signature:_______\nOfficial Position:_______\nDate:_______\nSTATE OF\nCOLORADO\n)\n)ss.\nCOUNTY OF\n)\nSubscribed and sworn to before me this day of _______, 200___.\nWITNESS MY HAND AND OFFICIAL SEAL.\nMy Commission expires:_______\nNOTARY PUBLIC\n(\nOrd. No. 4078, § 1, 7-16-07\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 23-36"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

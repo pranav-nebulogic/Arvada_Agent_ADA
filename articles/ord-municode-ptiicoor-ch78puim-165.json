@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "type",
+      "improvements",
+      "subject",
+      "reimbursement",
+      "owner",
+      "any",
+      "property"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-221"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-221. - Type of improvements subject to reimbursement.",
+    "summary": "(a)\nThe owner of any property in the city who installs and dedicates street, sidewalk,\n               water main, sewer main, bicycle trail, bridge, storm drainage facility not covered\n               by unit drainage fee, or other public improvements, may apply for the establishment\n               o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-221. - Type of improvements subject to reimbursement.",
+        "a": "(a)\nThe owner of any property in the city who installs and dedicates street, sidewalk,\n               water main, sewer main, bicycle trail, bridge, storm drainage facility not covered\n               by unit drainage fee, or other public improvements, may apply for the establishment\n               of a reimbursement assessment district to obtain reimbursement of a portion of the\n               cost from the owners of property specially benefited by the improvements.\n(b)\nIf the city constructs any such improvement which benefits the owners of private property,\n               it may establish a reimbursement assessment district for its own benefit, subject,\n               however, to all the terms and conditions of this article.\n(Code 1981, § 27-181; Ord. No. 1721, § 1, 2-2-1981; Ord. No. 1764, § 1, 8-3-1981;\n               Ord. No. 1805, § 1, 1-4-1982; Ord. No. 2553, § 2, 9-6-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-221"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

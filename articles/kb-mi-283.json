@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "invite",
+      "officer",
+      "birthday",
+      "officers",
+      "event",
+      "forms",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1410/Invite-an-Officer"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-283",
+    "spreadsheet_id": "MI-283",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Invite an Officer",
+    "summary": "Community members can invite Arvada Police Department officers to events such as birthday parties or lemonade stands by completing the Request an Officer form. The department aims to provide high-quality service, though staffing limitations may occasionally affect their ability to fulfill all requests.",
+    "body": "![Arvada Police officers visiting a boy's birthday on a sunny summer day](/ImageRepository/Document?documentID=6520 \"Arvada Police officers visiting a boy's birthday on a sunny summer day\")\n\nHosting a community event, birthday party, lemonade stand, or something else and want to invite Arvada PD officers to join? We'd love to! Complete the Request an Officer form below to let us know.\n\n[Request an Officer to Visit My Event](https://arvada-forms.app.transform.civicplus.com/forms/58124)\n\nThe Arvada Police Department is dedicated to providing the highest level of service to our community. While we make every effort to fulfill all requests, staffing limitations may occasionally prevent us from doing so. We appreciate your cooperation and support.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

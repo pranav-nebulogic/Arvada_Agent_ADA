@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "director",
+      "public",
+      "works",
+      "generally",
+      "city",
+      "arvada",
+      "department",
+      "duties",
+      "responsibilities",
+      "addition"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-1-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-1. CITY STAFF AND REFERRAL AGENCIES"
+  },
+  "content": {
+    "title": "8-1-1-3. Director of public works.",
+    "summary": "A.\tGenerally. The Director of Public Works is the Director of the City of Arvada Public Works Department.\nB.\tDuties and Responsibilities.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-1-3. Director of public works.",
+        "a": "A.\tGenerally. The Director of Public Works is the Director of the City of Arvada Public Works Department.\nB.\tDuties and Responsibilities. In addition to such other responsibilities as are specified in the Arvada Municipal Code or assigned by the City Manager:\n  1.\tThe Director of Public Works may allocate staff from the Department of Public Works to review applications for development approval that are required by this LDC."
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-1-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

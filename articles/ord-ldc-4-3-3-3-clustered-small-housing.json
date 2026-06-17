@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "clustered",
+      "small",
+      "housing",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "developments",
+      "types",
+      "described"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-3-3-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-3. SITE DESIGN",
+    "division": "DIVISION 4-3-3. STANDARDS FOR SPECIFIC DEVELOPMENT TYPES"
+  },
+  "content": {
+    "title": "4-3-3-3. Clustered small housing.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-3-3-3. Clustered small housing.",
+        "a": "A.\tGenerally. The standards of this Section apply to developments of the clustered small housing types that are described in Section 2-1-8-9, Clustered Housing Types.\nB.\tCommon Green.\n  1.\tClustered housing types shall be organized around one or two amenitized landscape areas (\"green(s)\"), with no dimension that is less than the larger of:\n    a.\t1.5 times the height of the tallest building that fronts on the common green; or\n    b.\t20 feet, for micro homes or 30 feet for cottages.\n  2.\tThe common green(s) shall be developed and maintained to provide for passive and/or active recreation activities for the residents of the housing cluster.\n  3.\tThe common green(s) shall be centrally located and easily accessible to all dwelling units within the cluster.\n  4.\tThe common green(s) shall be surrounded by clustered housing types on at least two sides, which do not have to be opposite sides.\n  5.\tStormwater management facilities are allowed within a common green, if they do not adversely impact access to or use of the common green for all-season pedestrian access to the dwelling units, and for anticipated active and passive recreation activities.\nC.\tFront Porches.\n  1.\tCottages. Each cottage dwelling unit shall have a front porch that is not less than seven feet in any dimension.\n  2.\tMicro Homes. Each micro home shall have a front porch that is not less than five feet in any dimension.\nD.\tPrivate Entry Yards.\n  1.\tEach dwelling unit may have a private entry yard, in front of the building elevation that contains the primary entrance to the dwelling unit, that is:\n    a.\tNot more than ten feet deep; and\n    b.\tEnclosed with a fence that is not more than 36 inches in height in front of the front building plane, and not more than 60 inches in height behind the front building plane.\n  2.\tPrivate entry yards may border the common greens, but are not included in the dimensions of the common green.\nE.\tConfiguration. Housing clusters shall relate to both the street and to a common green, in that:\n  1.\tEach building that is constructed along the principal street side of the subject property shall include architectural features that provide visual continuity with adjoining properties and visual interest from the street, such as a primary or secondary entrance or porch that is oriented to the street.\n  2.\tNot less than 50 percent of the dwelling units shall front on a common green.\nF.\tPedestrian Network.\n  1.\tPedestrian connections shall link all buildings to the street, common green(s), and parking areas.\n  2.\tPedestrian connections from parking areas to common buildings and the front doors of dwelling units shall traverse a common green.\n  3.\tIf housing clusters share a common building, see Subsection G., below, the pedestrian network shall connect the housing clusters.\nG.\tCommon Building. A common building with amenities is allowed within clustered housing developments. Amenities may include a kitchen, meeting area, common dining area, indoor recreation facilities, storage (provided that other amenities are also provided in the building), and up to two guest bedrooms. Up to two housing clusters that are connected with pedestrian pathways may share a common building, unless the size of the common building and provided amenities are designed to accommodate additional clusters, the common building is centrally located and within 600 feet of all dwelling units, and the common building is connected to the clusters by pedestrian pathways.\nH.\tIndividual Storage Buildings. One individual storage building is allowed for each dwelling unit, provided that:\n  1.\tThe storage building is not more than ten feet in height, measured from grade to the peak of the roof;\n  2.\tThe storage building is not more than 80 square feet in floor area;\n  3.\tThe storage building is located behind the dwelling unit, and set back:\n    a.\t20 feet from any street; and\n    b.\tFive feet from any boundary of the housing cluster and\n  4.\tThe storage building is screened from the street and a common green.\nI.\tParking Design.\n  1.\tGenerally.\n    a.\tRequired parking shall be provided in shared surface parking lots, covered parking spaces in shared parking lots, shared detached garage buildings, or directly accessed from an alley.\n    b.\tNo parking space or drive aisle shall be located between a front building elevation and a common green.\n    c.\tFor alley accessed parking, parking spaces shall be located between the alley and rear building planes, and shall not extend into side or front yards of individual buildings.\n  2.\tSurface Parking and Covered Parking Spaces.\n    a.\tSurface parking and covered parking spaces shall be set back from streets as provided in Section 2-1-8-9, Clustered Housing Types.\n    b.\tSurface parking and covered parking spaces shall be screened from the street and the common green(s) and from individual units with a parking lot bufferyard as provided in Section 4-6-6-3, Parking Area Landscape.\n    c.\tSurface parking spaces shall be distributed on the site to minimize visual impacts and optimize access to individual units.\n  3.\tShared Detached Garage Buildings.\n    a.\tShared detached garage buildings may not exceed four overhead doors per building, and a total floor area of 1,200 square feet.\n    b.\tShared detached garage buildings shall be reserved for the parking of vehicles owned by the residents of the development.\n(Ord. No. 4793, § 3, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-3-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

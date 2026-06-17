@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedure",
+      "exclusive",
+      "rights",
+      "remedies",
+      "hereinbefore",
+      "given",
+      "taxpayer"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-145"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-145. - Procedure exclusive.",
+    "summary": "The rights and remedies hereinbefore given the taxpayer and the property owner for\n               objecting to, contesting or appealing from the amount, correctness, regularity or\n               validity of such new assessment or reassessment are hereby declared to be exclusive\n               of all…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-145. - Procedure exclusive.",
+        "a": "The rights and remedies hereinbefore given the taxpayer and the property owner for\n               objecting to, contesting or appealing from the amount, correctness, regularity or\n               validity of such new assessment or reassessment are hereby declared to be exclusive\n               of all other rights, remedies, suits or actions either at law or in equity which might\n               otherwise be available and to afford him a sufficient day in court for the redressing\n               of all rights and grievances that he may have in connection with such new assessment\n               or reassessment.\n(Code 1981, § 27-145; Ord. No. 551, § 86, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-145"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

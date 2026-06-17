@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "municipal",
+      "code",
+      "municode",
+      "changes",
+      "ordinances",
+      "altered",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/164/Municipal-Code"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-327",
+    "spreadsheet_id": "MI-327",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Municipal Code",
+    "summary": "The City of Arvada utilizes Municode to publish its Code of Ordinances, allowing residents to easily access and track changes to local laws. The City Council votes on ordinances that cover various topics, including land use and public safety, and historical information about these ordinances is available through Municode. It is recommended to check Municode for the most current versions of the City's code.",
+    "body": "The City of Arvada uses Municode to publish the City's Code of Ordinances, supplement data, state law references, and much more! You can easily browse the City's code, track changes to it, and even sign up to be altered about changes. If you find copies of the City's code elsewhere, like in a PDF on the web, please be sure to check Municode for the most recent versions of any code.\n\nVisit the [Municode website](https://www.municode.com/library/co/arvada/codes/code_of_ordinances).\n\n## Municipal Code Ordinances\n\nThe City Council-elected officials representing the citizens of Arvada-votes on ordinances.They may also vote on changes to existing ordinances. Using Municode, you can see the history of any given ordinance. Historical information includes when an ordinance was adopted, when it became effective, and (in some cases) when it was changed or removed. Ordinances are laws passed by local governments. The City's Code of Ordinances addresses a wide range of topics. From land use and budgets to assaults and loitering, the City's code governs how the City operates, outlines how specific offenses are addressed, and much more. In many cases, the City's code builds on laws established by the State of Colorado.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

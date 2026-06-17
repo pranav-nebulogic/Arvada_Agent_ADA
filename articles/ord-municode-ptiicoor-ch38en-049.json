@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "inspections",
+      "city",
+      "hereby",
+      "find",
+      "determine",
+      "declare",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-284"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-284. - Inspections.",
+    "summary": "The city does hereby find, determine, and declare that any violation of this article\n               violates the public peace, health, safety, and welfare of the city. The city, by and\n               through its inspectors, is authorized to make inspections of solid fuel burning devices\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-284. - Inspections.",
+        "a": "The city does hereby find, determine, and declare that any violation of this article\n               violates the public peace, health, safety, and welfare of the city. The city, by and\n               through its inspectors, is authorized to make inspections of solid fuel burning devices\n               that are burning on high pollution days. If any person refuses or restricts the entry\n               and free access by a city inspector to any part of a building or premises, or refuses\n               inspection or sampling of any device, the facility, or process where inspection is\n               sought by the city, city inspectors are hereby authorized to seek issuance of a search\n               warrant from the municipal court in the manner provided for search and seizure in\n               the Colorado Municipal Court Rules of Procedure.\n(Code 1981, § 21-79; Ord. No. 2451, § 1, 10-19-1987)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-284"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

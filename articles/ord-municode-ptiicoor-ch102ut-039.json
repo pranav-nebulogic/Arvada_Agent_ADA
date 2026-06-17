@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "demolition",
+      "disconnection",
+      "existing",
+      "utilities",
+      "prior",
+      "building",
+      "premises"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-78"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-78. - Demolition and disconnection of existing utilities.",
+    "summary": "Prior to demolition of a building on premises, including moving of a building to another\n               location, an owner must request the utility billing division to turn off water and\n               read the water meter. A permit to disconnect the utilities will be obtained from the\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-78. - Demolition and disconnection of existing utilities.",
+        "a": "Prior to demolition of a building on premises, including moving of a building to another\n               location, an owner must request the utility billing division to turn off water and\n               read the water meter. A permit to disconnect the utilities will be obtained from the\n               engineering division and a permit for demolition will be obtained from the building\n               inspection division. The utility disconnects will be in accordance with city engineering\n               specifications. The utility service lines shall be disconnected at the main, unless\n               otherwise specified in writing by the utilities manager.\n(Code 1981, § 33-49; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 3403, § 14, 10-20-1997)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-78"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

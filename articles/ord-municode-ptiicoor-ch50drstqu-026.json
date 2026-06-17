@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "unlawful",
+      "discharge",
+      "discharges",
+      "shall",
+      "any",
+      "person",
+      "cause"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-72"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-72. - Unlawful discharge.",
+    "summary": "(a)\nUnlawful discharges.\nIt shall be unlawful for any person to discharge or cause to be discharged or spilled\n               any substance other than naturally occurring stormwater runoff, including naturally\n               occurring stormwater runoff containing incidental pollutants, into the city…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-72. - Unlawful discharge.",
+        "a": "(a)\nUnlawful discharges.\nIt shall be unlawful for any person to discharge or cause to be discharged or spilled\n               any substance other than naturally occurring stormwater runoff, including naturally\n               occurring stormwater runoff containing incidental pollutants, into the city's MS4.\nExceptions:\nThe following discharges or spills shall not be considered an illegal discharge if\n               the discharge or spill originates from:\n(1)\nUncontaminated pumped groundwater that has not come into contact with construction\n                  activity;\n(2)\nLandscape irrigation, lawn watering, or irrigation return flows;\n(3)\nDiverted stream flows, natural springs, or flows from naturally existing riparian\n                  habitats and wetlands;\n(4)\nRising groundwater;\n(5)\nUncontaminated groundwater infiltration;\n(6)\nUncontaminated water from crawl space pumps, foundation drains, or footing drains;\n(7)\nAir conditioning condensation;\n(8)\nIndividual or residential car washing;\n(9)\nWater incidental to street sweeping (including associated sidewalks and medians) not\n                  associated with construction;\n(10)\nEmergency firefighting activity;\n(11)\nDye testing approved by the director prior to the discharge in which the person engaging\n                  in the discharge must provide sufficient analysis of the environmental impacts of\n                  the product(s) used for the dye;\n(12)\nAgricultural stormwater runoff;\n(13)\nDischarges authorized by a Colorado Discharge Permit System or National Permit Discharge\n                  Elimination System permit; or\n(14)\nDischarges that are made in accordance with the Division's Low Risk Discharge Guidance\n                  documents relating to various types of discharges and water line flushing, including\n                  but not limited to discharges of potable water and pools, as well as other Division\n                  policies and guidance documents where the Division has stated that it will not pursue\n                  permit coverage or enforcement for a specified point source discharge.\n(b)\nNothing contained herein shall be construed to relieve any person discharging, causing\n               to be discharged, allowing to be discharged, spilling, or causing to be spilled, water\n               or any authorized discharge into the MS4 from any liability for damage caused by the\n               volume or poor quality of the water or authorized discharge.\n(c)\nAny person notified of an actual or threatened unlawful discharge shall immediately\n               take actions to stop the unlawful discharge or spill or take any action necessary\n               to prevent the threatened unlawful discharge or spill from occurring.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-72"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

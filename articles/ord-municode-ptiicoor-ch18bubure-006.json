@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "authority",
+      "deny",
+      "restrict",
+      "suspend",
+      "revoke",
+      "license",
+      "building"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-37"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-37. - Authority to deny, restrict, suspend, or revoke a license.",
+    "summary": "(a)\nAuthority.\nThe building official or building code advisory board shall have the authority to\n               deny, place restrictions on, suspend, suspend and reinstate a license with restrictions,\n               not renew a license, or revoke a license following the procedures set forth in this\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-37. - Authority to deny, restrict, suspend, or revoke a license.",
+        "a": "(a)\nAuthority.\nThe building official or building code advisory board shall have the authority to\n               deny, place restrictions on, suspend, suspend and reinstate a license with restrictions,\n               not renew a license, or revoke a license following the procedures set forth in this\n               chapter when the applicant or licensee commits one or more of the following acts or\n               omissions:\n(1)\nProvides false or misleading information on the license application;\n(2)\nFails to provide reasonable information or documentation of knowledge and experience\n               required by the license classification applied for;\n(3)\nProvides false or misleading information on a permit application;\n(4)\nFails to comply with any of the licensee's responsibilities as outlined in this chapter,\nchapter 42\n, or\nchapter 78\nof the Arvada City Code;\n(5)\nKnowingly combines or conspires with any other person, firm or corporation to permit\n               or allow the licensee's license to be used by such person, firm or corporation;\n(6)\nBy acting as agent, partner, associate or in any other capacity with persons, firms\n               or corporations to evade any provisions of this chapter,\nchapter 42\n, or\nchapter 78\nof the Arvada City Code;\n(7)\nViolates any of the provisions of this chapter,\nchapter 42\n, or\nchapter 78\nof the Arvada City Code. Issuance of a correction shall not constitute a violation\n               of this chapter except as set forth in\nsection 18-33\n;\n(8)\nAfter having been notified of a policy or procedure promulgated by the building official\n               pursuant to\nsection 18-33\n, violates that policy. A contractor who violates such a policy or procedure may be\n               sanctioned as set forth in this section, but the contractor shall not be criminally\n               liable solely for a violation of a policy or procedure promulgated by the building\n               official;\n(9)\nAny conduct constituting fraud in or connected with any activity relating to construction\n               which is governed by this chapter,\nchapter 42\n, or\nchapter 78\nof the Arvada City Code;\n(10)\nFails or refuses to correct or remove work, material, equipment or an appliance that\n               is in violation of this chapter,\nchapter 42\n, or\nchapter 78\nof the Arvada City Code;\n(11)\nProvides to a customer or client, or a prospective customer or client, false or misleading\n               permit fee charges assessed by the city; or\n(12)\nFails to take all reasonable actions to assist the building inspection division and\n               other city departments in ensuring that all inspections, including a final inspection,\n               are completed before the expiration of the permit.\nExceptions:\na.\nA contractor who complies with the exception to\nsection 18-33\n(b) in a particular case shall be presumed to have complied with his obligation to\n               take all reasonable actions to ensure that a required inspection or inspections are\n               completed.\nb.\nShould the expiration date of a permit be held in abeyance pursuant to\nsection 18-39\n(f), the contractor's obligations to assist the division shall be held in abeyance\n               from the day on which an inspection is postponed, until such day that the postponed\n               inspection is completed, at which time the contractor's obligations to assist in the\n               inspection process as set forth herein shall again be applicable.\n(Ord. No.\n4738\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-37"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

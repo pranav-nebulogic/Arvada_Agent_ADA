@@ -1,0 +1,204 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "license",
+    "permit_type": "contractor_license_building",
+    "category": "licensing",
+    "source_urls": [
+      "https://www.arvadaco.gov/265/Building-Contractor"
+    ],
+    "scraped_at": "2026-06-10T11:00:55.280737+00:00",
+    "content_hash": "6b96476da5baf0e5f76e71d044ca9dc75f872e8c8e68ee2900a7f76c6478e4ad",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Building Contractor License",
+    "summary": "The City of Arvada requires all contractors involved in building construction, alteration, remodeling, repair, and equipping to obtain a contractor license. Homeowners working on their own occupied private residence are exempt, but those working on residences they own but do not occupy must be licensed or hire a licensed contractor. Licenses are valid for one year and must be renewed annually.",
+    "eligibility": "Contractors involved in construction, alteration, remodeling, repairing, and equipping of buildings and structures in the City of Arvada. Homeowners working on their own occupied private residence are not required to be licensed. Homeowners working on residences they own but do not occupy must be licensed or hire a licensed contractor.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Create an Account and Apply Online",
+        "text": "All new applications and renewals of existing applications are completed online at the Arvada Permits site.",
+        "portal_url": "https://arvadapermits.com"
+      },
+      {
+        "n": 2,
+        "title": "Application Review",
+        "text": "Applications will be reviewed within 5 business days from submission. Once the application is approved, you will receive an email notification for payment.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 3,
+        "title": "Make Payment",
+        "text": "Payments can be completed online or checks are accepted via mail to 8101 Ralston Road, Arvada, CO 80002. Please include the AEC number or the name of the license on the check.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 4,
+        "title": "Receive License",
+        "text": "Once all requested paperwork and qualifications are submitted and the application is approved, the license will be emailed to you.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Proof of Qualifications",
+        "description": "Documentation proving you meet the qualifications for the specific license type you are applying for.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Signed Affidavit of Lawful Presence",
+        "description": "A signed affidavit confirming lawful presence in the United States.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "license_type",
+        "label": "License Type",
+        "description": "Select the type of building contractor license you are applying for.",
+        "example_value": null,
+        "why_needed": "To determine the scope of work you are authorized to perform."
+      },
+      {
+        "field_name": "proof_of_qualifications",
+        "label": "Proof of Qualifications",
+        "description": "Upload documentation showing you meet the qualifications for the license type.",
+        "example_value": null,
+        "why_needed": "To verify you are qualified to perform the work authorized by the license."
+      },
+      {
+        "field_name": "signed_affidavit",
+        "label": "Signed Affidavit of Lawful Presence",
+        "description": "Upload a signed affidavit confirming your lawful presence.",
+        "example_value": null,
+        "why_needed": "Required by law to confirm eligibility to work."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Builder's Unlimited I-B License Fee",
+        "amount": "$200",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Builder's Limited II-B License Fee",
+        "amount": "$150",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Builder's Miscellaneous III-B License Fee",
+        "amount": "$75",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Builder's Sub Contractor IV-B License Fee",
+        "amount": "$75",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Homeowner's \"Limited\" V-B License Fee",
+        "amount": "$50",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Plumbing VI-P License Fee",
+        "amount": "$0",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Mechanical VII-M License Fee",
+        "amount": "$75",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Moving VII-D License Fee",
+        "amount": "$75",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Roofing IX-R License Fee",
+        "amount": "$75",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Electrical IX-E License Fee",
+        "amount": "$0",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Radio Amplification RA Registration Fee",
+        "amount": "$0",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "5 business days",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Do homeowners need a contractor license to work on their own residence?",
+        "a": "Homeowners doing work on their personal private residence that they own and occupy are not considered contractors and do not need a license. However, homeowners working on residences they own but do not occupy must be licensed or hire a licensed contractor."
+      },
+      {
+        "q": "How long is a contractor license valid?",
+        "a": "Contractor licenses are valid for one year after issuance and must be renewed annually."
+      },
+      {
+        "q": "Where do I apply for a building contractor license?",
+        "a": "All applications and renewals are completed online at the Arvada Permits site."
+      },
+      {
+        "q": "What qualifications are required for a Builder's Unlimited I-B license?",
+        "a": "Passing the ICC F11 minimum test or being licensed in a Colorado jurisdiction where you have tested."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "plumbing_license",
+      "electrical_license",
+      "mechanical_license",
+      "roofing_license"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3514
+}

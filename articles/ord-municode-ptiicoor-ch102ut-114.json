@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "certified",
+      "cross",
+      "connection",
+      "control",
+      "technician",
+      "report",
+      "requirements"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-280"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-280. - Certified cross-connection control technician: Report requirements.",
+    "summary": "(a)\nTechnician.\nEvery test of a backflow prevention assembly, and every inspection of a non-testable\n               assembly or a backflow prevention method, shall be conducted by a certified cross-control\n               technician.\n(b)\nCalibration of equipment.\nEach testing gauge used to test a bac…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-280. - Certified cross-connection control technician: Report requirements.",
+        "a": "(a)\nTechnician.\nEvery test of a backflow prevention assembly, and every inspection of a non-testable\n               assembly or a backflow prevention method, shall be conducted by a certified cross-control\n               technician.\n(b)\nCalibration of equipment.\nEach testing gauge used to test a backflow prevention assembly shall be tested and\n               calibrated for accuracy at least once annually.\n(c)\nSubmission of reports.\nReports of tests, inspections, repairs, retests, and re-inspections shall be in writing\n               and shall be submitted by the testing company or technician to the city by mail, via\n               an online city portal, or by email no later than seven days following the test, repair,\n               retest, or re-inspection.\n(d)\nContents of reports.\nA report submitted to the city under this section shall include, but is not limited\n               to, the following information:\n(1)\nAssembly or method type;\n(2)\nAssembly or method location;\n(3)\nAssembly make, model, and serial number;\n(4)\nAssembly size;\n(5)\nTest date;\n(6)\nTest results including all results that would justify a pass or fail outcome;\n(7)\nCertified cross-connection control technician certification agency;\n(8)\nTechnician's certification number;\n(9)\nTechnician's certification expiration date. If a certification has expired, the certification\n               is invalid;\n(10)\nTest kit manufacturer, model, and serial number;\n(11)\nTest kit calibration date; and\n(12)\nWhether, and to what extent, the inspected backflow prevention assembly or method\n               requires any repair.\n(\nOrd. No. 4829\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-280"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,106 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_reroofing",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/417/Re-Roofing"
+    ],
+    "scraped_at": "2026-06-10T10:55:29.316732+00:00",
+    "content_hash": "13b3b52633d6fe21e9f5d85bcfe35596f6f742a499a957fdf1c2fb70efa040e7",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Re-Roofing Permit",
+    "summary": "Permits and inspections are required for residential and commercial roof replacements in the City of Arvada to ensure compliance with building codes. Replacement of roofing material up to 100 square feet per year is considered maintenance and does not require a permit.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Submit Your Application",
+        "text": "Applications can be submitted in person or electronically. Online applications will be reviewed and you will be notified via email when the permit is approved and ready for payment. Licensed contractors must login using their contractor license number and password.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Schedule Inspections",
+        "text": "Schedule your inspection and check the Arvada Permits Site for inspection completion. Mid-roof inspections are required only for flat roofs (1:12 slope) or special roofing materials such as heavy tiled roofs. Final roofing inspections are required for all re-roofing permits. No one needs to be home for the inspection, but access to lower roofs must be available and no dogs should be in the area. A duty rated ladder must be provided for all inspections.",
+        "portal_url": "https://permits.arvada.org/"
+      },
+      {
+        "n": 3,
+        "title": "Prepare for Inspection",
+        "text": "Ensure ladders are set and secured to the roof with a minimum extension of three feet, placed on a level firm surface, and can handle at least 200 pounds. Ladders must be set up a minimum of three feet from any roof corner. Permission must be granted prior to entering fenced yards. The roof must be free of rain, frost, or snow on the inspection day. Inspections may be delayed due to weather or volume of inspections.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Close the Permit",
+        "text": "Once the roofing inspection is completed with an approved or final result, the permit will be finaled and considered closed. Review the permit status and inspection results on the Arvada Permits Site.",
+        "portal_url": "https://permits.arvada.org/"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [
+      {
+        "field_name": "Arvada Contractor",
+        "label": "Arvada Contractor",
+        "description": "Contractor license number for licensed contractors to log in.",
+        "example_value": null,
+        "why_needed": "To verify contractor credentials."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Building Permit Fee and Use Tax",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "(720) 898-7640",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Is a permit required for replacing a small portion of the roof?",
+        "a": "Replacement of roofing material up to 100 square feet per year is considered maintenance and does not require a re-roofing permit. Partial replacement on one face/side is allowed if it follows manufacturer's instructions and code requirements."
+      },
+      {
+        "q": "Are inspections required for re-roofing projects?",
+        "a": "Yes, mid-roof inspections are required for flat roofs or special roofing materials, and final roofing inspections are required for all re-roofing permits."
+      },
+      {
+        "q": "What are the ladder requirements for inspections?",
+        "a": "A duty rated ladder must be provided, secured with a minimum extension of three feet above the roof edge, placed on a level firm surface, able to support at least 200 pounds, and set up at least three feet from any roof corner."
+      }
+    ],
+    "ordinance_refs": [
+      "Chapter 15 of the 2018 International Building Code",
+      "Section R908.3.1 of the 2018 IRC",
+      "Section R905.2.6",
+      "Section R905.2.8"
+    ],
+    "related_permit_types": [
+      "building_permit_new_construction",
+      "building_permit_roof_repair"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3440
+}

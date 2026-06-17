@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "olde",
+      "town",
+      "ralston",
+      "road",
+      "district",
+      "mixed",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/223/OT-RR-Olde-Town-Ralston-Road-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-363",
+    "spreadsheet_id": "MI-363",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "OT-RR (Olde Town Ralston Road) District",
+    "summary": "The Olde Town Ralston Road District in Arvada is a mixed-use zoning area designed to preserve the historic character of Olde Town while allowing various residential, commercial, and civic uses. The zoning permits townhomes, multifamily units, hotels, restaurants, and other specified uses, with some requiring conditional or limited use permits as outlined in the Land Development Code.",
+    "body": "The intent of the Olde Town form-based zoning districts is to protect the established historic character of Olde Town Arvada based on the City's adopted plans and design guidelines for the area. The Olde Town Ralston Road zoning district is a mixed-use zone district allowing mixed-use, mixed-use parking structure, apartment, townhouse, accessory building, and civic building form types.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#tab19cbff35-89f1-4d8c-8909-4a567d027a9b_0)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Townhome | A | N/A |\n| Multiplex | A | N/A |\n| Multifamily | A | N/A |\n| Boarding, Lodging, or Rooming House | A | N/A |\n| Group Home, FFHA | L | 3-1-3-3 |\n| Group Home, Not Specified Above | C | 3-1-3-3 |\n| Live-Work Unit | L | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#tab19cbff35-89f1-4d8c-8909-4a567d027a9b_1)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Bar / Tavern / Nightclub | L | 3-1-3-4 |\n| Bed and Breakfast | L | 3-1-3-4 |\n| Brew Pub / Distillery Pub / Limited Winery | L | 3-1-3-4 |\n| Hotel / Motel | A | N/A |\n| Recreation and Amusement, Indoor | A | N/A |\n| Recreation, Outdoor (other) | L | 3-1-3-4 |\n| Restaurant | A | N/A |\n| Restaurant, Fast Food | L | 3-1-3-4 |\n| Theater | A | N/A |\n\n1. [Commercial Uses](#tab19cbff35-89f1-4d8c-8909-4a567d027a9b_2)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Art Studio / Makerspace | L | 3-1-3-5 |\n| Continuing Care Facility | A | N/A |\n| Office, General or Professional | A | N/A |\n| Retail Sales and Services Type 1 | L | 3-1-3-5 |\n| Veterinary Offices or Clinics | L | 3-1-3-5 |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#tab19cbff35-89f1-4d8c-8909-4a567d027a9b_3)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Day Care Center, Adult or Child | L | 3-1-3-6 |\n| Funeral Home / Mortuary | L | 3-1-3-6 |\n| Medical Office | A | N/A |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | L | 3-1-3-6 |\n\n1. [Utility & Communications Uses](#tab19cbff35-89f1-4d8c-8909-4a567d027a9b_4)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Minor | L | 3-1-3-9 |\n| Other Wireless Communications Facilities | L | Chapter 7 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

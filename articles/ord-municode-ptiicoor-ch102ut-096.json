@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "determination",
+      "amount",
+      "use",
+      "sewage",
+      "wastewater",
+      "discharged",
+      "connected"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-207"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-207. - Determination of amount of use.",
+    "summary": "(a)\nThe amount of sewage/wastewater discharged from the connected user to the city sewer\n               system will be determined by the average of the bimonthly amount of water metered\n               to the user during any four-month period between November 1 and April 30 in each 12-month\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-207. - Determination of amount of use.",
+        "a": "(a)\nThe amount of sewage/wastewater discharged from the connected user to the city sewer\n               system will be determined by the average of the bimonthly amount of water metered\n               to the user during any four-month period between November 1 and April 30 in each 12-month\n               period. With the exception that commercial swimming pools and supporting facilities,\n               where the second water meter was installed in accordance with\nsection 102-61\n(k)(2) and (3), the amount of sewage/wastewater discharged from the swimming pool\n               and supporting facilities to the city sewer system will be determined by the average\n               of the bimonthly amount of water metered through the second meter to the user in a\n               12-month period from July to July of each year.\n(b)\nWhen brought to the attention of the finance director, the finance director will make\n               an investigation of the facts and conditions applicable to the connected user when\n               any one of the following situations occurs:\n(1)\nThe amount of metered water during the above-stated period does not reasonably determine\n               the amount of sewage/wastewater discharged to the sewer system;\n(2)\nThe circumstances of the connected user change after the above-stated period so that\n               the amount of metered water during the above-stated period no longer reasonably determines\n               the amount of sewage/wastewater discharged to the sewer system by the user; or\n(3)\nThe user does not have a water meter.\nThe finance director will then make a determination as to the amount of sewage/wastewater\n               discharged by the user to the sewer system based on the conditions found to exist\n               so that the sewer service charge will be just, fair and equitable.\n(c)\nThe amount of sewage/wastewater so determined to be discharged by the user to the\n               sewer system will then be the basis for computing the bimonthly sewer service charge\n               to the user.\n(d)\nIf a connected user's property has a swimming pool used all year and the pool is connected\n               to the city sewer system, then the amount of sewage/wastewater discharged from the\n               connected user to the city sewer system will be determined by the average of the bimonthly\n               amount of water metered to the user during the full year. In this instance, the connected\n               user may meter irrigation water use through a separate meter installed as approved\n               by the director of utilities.\n(e)\nIf the connected user's property has a swimming pool connected to the city sewer system,\n               and that connected user is billed for only part of a year, then the amount of sewage/wastewater\n               discharged from the connected user to the city sewer system will be determined by\n               the average amount of water metered to the user during as many months as the user\n               is billed.\n(Code 1981, § 33-111; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, § 37, 10-16-1989;\n               Ord. No. 2763, § 21, 11-5-1990; Ord. No. 2823, § 13, 7-1-1991)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-207"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

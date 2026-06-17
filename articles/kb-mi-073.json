@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "report",
+      "edition",
+      "view",
+      "archived",
+      "documentcenter",
+      "april",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/604/Arvada-Report"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-073",
+    "spreadsheet_id": "MI-073",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Report",
+    "summary": "The Arvada Report is a bi-monthly magazine distributed to all residents and businesses in Arvada, focusing on community values and important topics such as quality of life, safety, and economic issues. Residents are encouraged to submit their photos for potential inclusion in the magazine, fostering community engagement and representation. Archived editions can be accessed through the Munidoc library.",
+    "body": "The Arvada Report is the City of Arvada's bi-monthly magazine distributed to all Arvada residents and businesses via USPS. Each edition reflects our desire to represent the values of our community and to communicate about topics that impact them–quality of life, safety, and economic issues–and more!\n\n## Current Edition\n\n[June 2026 - July 2026 (PDF)](/DocumentCenter/View/7660)\n\n## Previous Edition\n\n[April 2026 - May 2026 (PDF)](/DocumentCenter/View/7343)\n\n## Archived Editions\n\nTo view archived editions of the Arvada Report, please visit [Munidoc](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=352ed94f50d91).\n\n---\n\n## Want to submit a photo for consideration for the Arvada Report?\n\nBecause we strive to include our community in what they care about, we invite our residents to share their Arvada photos with us for possible inclusion in the Arvada Report and our other communication platforms. Residents have told us they delight in seeing photos taken by their neighbors. If you are interested in sharing your Arvada photos with us, and potentially the community, please [follow the instructions in this photo submission and release form](https://arvada-forms.app.transform.civicplus.com/forms/41730). Thank you! We look forward to seeing your photos!",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

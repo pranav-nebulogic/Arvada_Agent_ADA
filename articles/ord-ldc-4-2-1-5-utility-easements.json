@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "utility",
+      "easements",
+      "conform",
+      "requirements",
+      "appropriate",
+      "company",
+      "unless",
+      "inconsistent",
+      "city",
+      "normally"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-2-1-5"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-2. SUBDIVISION STANDARDS",
+    "division": "DIVISION 4-2-1. SUBDIVISION STANDARDS"
+  },
+  "content": {
+    "title": "4-2-1-5. Utility easements.",
+    "summary": "A.\tAll utility easements shall conform to the requirements of the appropriate utility company, unless inconsistent with the requirements of the City.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-2-1-5. Utility easements.",
+        "a": "A.\tAll utility easements shall conform to the requirements of the appropriate utility company, unless inconsistent with the requirements of the City. Normally, these easements are as follows, unless it is unsuitable due to drainage, irrigation ditches, timber areas, or other obstructions.\n  1.\tNon-exclusive utility easements shall be a minimum of eight feet wide within the front property lines running parallel and adjacent to all platted streets in and around the subdivision. Other additional easements, such as side lot line easements, may be required when the developer builds and points of service have become known.\n  2.\tDrainage and Utility easements (eg., sewer, water, electricity, telephone, cable and wireless communications facilities) should measure eight feet wide along all rear property lines, five feet wide along the side of lots and eight feet wide along both sides of all streets. Easements adjacent to subdivided property should measure eight feet in width. Easements should normally be 16 feet in width, measuring eight feet on each side of abutting rear lot lines. Sanitary sewer and water line easements should be designed so that sewer and water lines flow under streets and not between lots.\n  3.\tEasements required for street lighting should be five feet on all sides of the street light.\n  4.\tIn all cases, the owner/developer should consult with the utility company regarding requirements for a particular subdivision.\nB.\tDrainage Easements.\n  1.\tWhere a subdivision is traversed by a watercourse, drainage way, channel, stream or irrigation ditch, dedication of drainage easements or drainage right-of-way shall be required. Such easements shall conform substantially to the lines of such watercourse, and shall be of such width and construction, or both, as will be adequate for the purpose.\n  2.\tThe owner/developer shall dedicate, either in fee simple via plat or by drainage or conservation easement, land on both sides of existing watercourses, to a distance to be determined by the Director.\n  3.\tTo the maximum extent practicable, the drainage shall be maintained as an open channel with landscaped banks and shall be of adequate width for maximum potential volume of flow and for maintenance.\n  4.\tWhere topography or other conditions make the inclusion of drainage facilities within street rights-of-way impractical, perpetual and unobstructed easements at least 20 feet in width for such drainage facilities shall be provided across property outside the street lines and with satisfactory access. Easements shall be indicated on the plat. Drainage easements shall be carried from the street to a natural watercourse or other drainage facilities.\n  5.\tWhen a proposed drainage system will carry water across private land outside the subdivision, appropriate drainage rights must be secured."
+      }
+    ],
+    "ordinance_refs": [
+      "4-2-1-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

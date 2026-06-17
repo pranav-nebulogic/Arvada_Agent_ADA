@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "appealing",
+      "adverse",
+      "order",
+      "any",
+      "person",
+      "filing",
+      "council"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-37"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-37. - Appealing adverse order.",
+    "summary": "Any person filing with the council a complaint, protest or objection on any one or\n               more specific grounds in writing, as provided in this article, shall have the right\n               within 15 days after the council has finally passed on such complaint, protest or\n               object…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-37. - Appealing adverse order.",
+        "a": "Any person filing with the council a complaint, protest or objection on any one or\n               more specific grounds in writing, as provided in this article, shall have the right\n               within 15 days after the council has finally passed on such complaint, protest or\n               objection by resolution, as provided in\nsection 78-33\n, or by ordinance, as provided in\nsection 78-42\nhereof, to commence an action or suit in any court of competent jurisdiction to correct\n               or to set aside only such a determination of the council on any such specific and\n               written complaint, protest or objection; and thereafter all actions or suits attacking\n               the validity of the preliminary plans, any preliminary estimate of cost, assessment\n               plat, other proceedings and any maximum amount of benefits shall be perpetually barred.\n(Code 1981, § 27-38; Ord. No. 551, § 15, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-37"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

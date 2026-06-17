@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-37-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "know",
+      "time",
+      "register",
+      "automatic",
+      "email",
+      "generated",
+      "sent",
+      "prior",
+      "Residential Parking Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=37"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-will-i-know-when-it-is-time-for-me-to-re-register",
+    "faq_category_name": "Residential Parking Permits"
+  },
+  "content": {
+    "title": "How will I know when it is time for me to re-register?",
+    "summary": "An automatic email will be generated and sent to you prior to the permit's expiration. The email will come from [email protected] so ensure the address is added to your contact list or it may go to your junk mailbox.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How will I know when it is time for me to re-register?",
+        "a": "An automatic email will be generated and sent to you prior to the permit's expiration. The email will come from [email protected] so ensure the address is added to your contact list or it may go to your junk mailbox."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

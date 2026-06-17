@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "removal",
+      "contents",
+      "grease",
+      "grit",
+      "interceptors",
+      "portable",
+      "toilets"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-132"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-132. - Removal of contents of grease and grit interceptors, portable toilets, etc.",
+    "summary": "It is unlawful for any person to remove or to transport through any street or public\n               place within the city, the contents of any grit or grease separator, portable toilet,\n               sink, septic tank, or cesspool except inoffensive substances except through or by\n               me…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-132. - Removal of contents of grease and grit interceptors, portable toilets, etc.",
+        "a": "It is unlawful for any person to remove or to transport through any street or public\n               place within the city, the contents of any grit or grease separator, portable toilet,\n               sink, septic tank, or cesspool except inoffensive substances except through or by\n               means of airtight vessels or apparatus approved by a health officer, which shall preserve\n               such contents from sight or exposure during such process of removal or transportation.\n               It is unlawful for any person to dispose of said contents except at authorized facilities.\n(Code 1981, § 33-65; Ord. No. 2574, § 1, 11-21-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-132"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

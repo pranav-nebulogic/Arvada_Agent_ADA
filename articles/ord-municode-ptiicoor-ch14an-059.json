@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "revocations",
+      "municipal",
+      "court",
+      "judge",
+      "acting",
+      "hearing",
+      "officer"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-225"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-225. - Revocations.",
+    "summary": "(a)\nThe municipal court judge, acting as a hearing officer, may suspend a license for\n               a period of not more than six months or revoke any license granted pursuant to this\n               article upon a finding of any of the following factors:\n(1)\nThe kennel is maintained in violation of…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-225. - Revocations.",
+        "a": "(a)\nThe municipal court judge, acting as a hearing officer, may suspend a license for\n               a period of not more than six months or revoke any license granted pursuant to this\n               article upon a finding of any of the following factors:\n(1)\nThe kennel is maintained in violation of any applicable law of the state or the city;\n(2)\nThe kennel is maintained so as to be a public nuisance; or\n(3)\nThe kennel is maintained so as to be detrimental to the health, comfort, or safety\n               of the animals therein.\n(b)\nA licensee shall be entitled to an administrative hearing before the municipal court\n               judge if the city seeks to suspend or revoke his license based on a violation of this\n               article.\n(1)\nComplaints about the operation of a kennel may be filed with the appropriate enforcement\n               officer. When there is probable cause to believe that a licensee has violated or permitted\n               a violation of this article to occur on the licensed establishment, a written complaint\n               may be filed by the enforcement officer with the municipal court, setting forth the\n               circumstances of the violation.\n(2)\nThe municipal court shall provide a copy of the complaint to the licensee, together\n               with notice to appear for the purpose of a hearing on a specified date to show cause\n               why the licensee's license should not be suspended or revoked. The hearing shall be\n               held within 30 days of the date of violation alleged in the complaint, or in a case\n               where criminal prosecution of the licensee is pending, within 30 days of the date\n               of entry of a plea of guilty, a no contest plea, or conviction.\n(3)\nThe hearing referred to above shall be conducted in accordance with the procedure\n               set forth in chapter 2, article V. If the municipal court judge determines that a\n               violation did occur, he shall issue an order suspending or revoking the license within\n               30 days after the hearing is concluded, based on the findings of fact. A copy of the\n               order shall be mailed by certified mail to the licensee at the address on the license.\n(4)\nThe order made pursuant to subsection (3) of this section shall be a final decision\n               and may be appealed to the District Court pursuant to Colorado Rules of Civil Procedure\n               106(a)(4). Failure of the licensee to timely appeal said order constitutes a waiver\n               of any right he may otherwise have to contest the suspension or revocation of his\n               license.\n(c)\nIn the event of suspension, revocation, or cessation of business, no portion of the\n               license fee shall be refunded.\n(d)\nWhen a license has been revoked, the revocation shall continue for one year, and the\n               licensee shall not be issued a kennel license for one year from the date on which\n               revocation became effective.\n(e)\nNothing in this chapter shall prohibit the city from taking any other enforcement\n               action provided for by the Code, the laws of the state, or the United States.\n(Code 1981, § 6-104; Ord. No. 3496, § 2, 12-14-1998; Ord. No. 3606, § 3, 4-3-2000)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-225"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

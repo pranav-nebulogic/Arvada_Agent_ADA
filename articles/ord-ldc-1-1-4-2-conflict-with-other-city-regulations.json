@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "conflict",
+      "other",
+      "city",
+      "regulations",
+      "unless",
+      "otherwise",
+      "provided",
+      "herein",
+      "provisions",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-4-2"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-4. RELATIONSHIP TO OTHER CODES, ORDINANCES, AND REGULATIONS"
+  },
+  "content": {
+    "title": "1-1-4-2. Conflict with other city regulations.",
+    "summary": "Unless otherwise provided herein, if the provisions of this Code are inconsistent with one another, or if they conflict with provisions found in other adopted codes, ordinances, or regulations of the City of Arvada, the more restrictive provision will control.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-4-2. Conflict with other city regulations.",
+        "a": "Unless otherwise provided herein, if the provisions of this Code are inconsistent with one another, or if they conflict with provisions found in other adopted codes, ordinances, or regulations of the City of Arvada, the more restrictive provision will control. Notwithstanding the foregoing, where provisions of this Code conflict with the Design Guidelines for Olde Town Arvada, or the Design Guidelines for the Reno Park Addition Historic District such Design Guidelines will control."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

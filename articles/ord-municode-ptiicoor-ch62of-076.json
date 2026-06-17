@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "prohibited",
+      "shall",
+      "violation",
+      "article",
+      "any",
+      "person",
+      "tag"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-182"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-182. - Prohibited.",
+    "summary": "(a)\nIt shall be a violation of this article for any person to tag or place graffiti upon\n               any public or private property.\n(b)\nIt shall be a violation of this article for any person to aid, abet, or advise another\n               in the commission of tagging or placing graffiti upon any …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-182. - Prohibited.",
+        "a": "(a)\nIt shall be a violation of this article for any person to tag or place graffiti upon\n               any public or private property.\n(b)\nIt shall be a violation of this article for any person to aid, abet, or advise another\n               in the commission of tagging or placing graffiti upon any public or private property.\n(c)\nViolations of this article shall be punishable by a fine not to exceed the limits\n               established in\nsection 1-5\n.\n(Code 1981, § 21-86; Ord. No. 3142, § 1, 12-12-1995; Ord. No. 3454, § 2, 7-6-1998)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-182"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

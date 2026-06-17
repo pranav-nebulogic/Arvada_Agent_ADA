@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "avenue",
+      "water",
+      "valve",
+      "replacements",
+      "closure",
+      "kipling",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1448/80th-Avenue-Water-Valve-Replacements"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-015",
+    "spreadsheet_id": "MI-015",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "80th Avenue Water Valve Replacements",
+    "summary": "Water valve replacements along W. 80th Avenue are underway to ensure reliable drinking water services, with construction expected to last 4 to 5 months starting December 2025. Northbound Kipling will be closed near 80th Ave. until at least March 19, 2026, with detours in place, while additional work on Newman and Simms is scheduled for fall 2026. Expect lane closures, reduced speeds, and construction noise during this period.",
+    "body": "## Current Updates\n\nUpdated 3/11/26\n\n- **Kipling & 80th closure**\n  - Northbound Kipling will be closed just north of 80th Ave.\n  - Closure in place 24/7 through mid-March (at least 3/19)\n  - Detour via Hoyt to W. 81st Ave.\n  - Alternate northbound routes advised\n- Additional work on Newman and Simms will be completed in fall 2026\n\n## Overview\n\nThe valves to several sections of water distribution pipe along W. 80th Avenue are being replaced. The valves have reached the end of their useful life and need to be replaced to maintain high-quality, reliable drinking water services.\n\n![map highlighting intersections along 80th Avenue that will see valve replacement work](/ImageRepository/Document?documentId=6727)\n\n## Timeline\n\nBeginning**December 2025**, construction is expected to take **4 to 5 months across all the working locations.** Generally, work will happen in the following order. Some work may happen simultaneously.\n\n1. **80th & Newman:** fall 2026 (TBD)\n2. **80th & Simms:**fall 2026 (TBD), 8 to 10 weeks\n   - No parking on southbound Simms by the tennis courts\n3. **80th & Hoyt:**early February, 3 to 4 weeks\n4. **80th & Kipling:** Late February or early March, 6 to 8 weeks\n\nTimelines are weather dependent and subject to change.\n\n## What to Expect\n\n- Work hours 7 am to 5 pm\n- **Lane closures and lane shifts**with reduced speeds\n  - One-way alternating traffic with flaggers\n  - Two-way traffic will be maintained where possible\n- Water discharge during valve replacement work\n- Full road repaving is not within the project scope\n  - Extra steps are taken to preserve road quality\n- Additional construction noise and traffic\n\n## Contact\n\nPlease submit a ticket through [Ask Arvada](/898) and a team member will be in touch.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

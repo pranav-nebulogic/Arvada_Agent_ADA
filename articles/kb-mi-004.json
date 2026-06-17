@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "election",
+      "results",
+      "votes",
+      "adams",
+      "clarityelections",
+      "county",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1440/2025-Election-Results"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-004",
+    "spreadsheet_id": "MI-004",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "2025 Election Results",
+    "summary": "In the 2025 city council elections, Michael P. Griffith won the at-large seat with 61.3% of the votes, while Randy Moorman and Rebecka Lovisone secured victories in Districts 1 and 3, respectively. Additionally, a ballot measure to amend the Arvada City Charter regarding the residency requirement for Municipal Court judges was rejected, with 63.3% voting against it.",
+    "body": "[Adams County election results](https://results.enr.clarityelections.com/CO/Adams/124412/web.345435/#/summary?v=363228%2F)\n\n[Jefferson County election results](https://results.enr.clarityelections.com/CO/Jefferson/124410/web.345435/#/summary)\n\nFinal results\n\n## City Council Elections\n\n| At Large | Total Votes | Percentage of Votes |\n| --- | --- | --- |\n| Michael P. Griffith | 24,170 | 61.3% |\n| Denise Vargas | 15,234 | 38.7% |\n\n| District 1 | Total Votes | Percentage of Votes |\n| --- | --- | --- |\n| Eric Bodenstab | 3079 | 30.6% |\n| Randy Moorman | 6967 | 69.4% |\n\n| District 3 | Total Votes | Percentage of Votes |\n| --- | --- | --- |\n| Aaron Skoff | 2541 | 29.7% |\n| Rebecka Lovisone | 6016 | 70.3% |\n\n## Ballot Measure\n\n### QUESTION No. 3 G - AMENDMENT TO THE CHARTER FOR THE CITY OF ARVADA\n\nShall Chapter VIII, Section 8.2, “Judiciary,” of the Arvada City Charter be amended to remove the requirement that each judge of the Municipal Court be a resident of the City of Arvada?\n\n| Question No. 3G | Total Votes | Percentage of Votes |\n| --- | --- | --- |\n| Yes | 16,057 | 36.7% |\n| No | 27,713 | 63.3% |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

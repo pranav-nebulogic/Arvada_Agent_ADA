@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-21-014",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "str_permit",
+    "category": "short_term_rentals",
+    "tags": [
+      "penalties",
+      "subject",
+      "str",
+      "found",
+      "violation",
+      "city",
+      "code",
+      "permit",
+      "Short Term Rentals"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=21"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-penalties-could-i-be-subject-to-if-my-str-is-found-to-b",
+    "faq_category_name": "Short Term Rentals"
+  },
+  "content": {
+    "title": "What penalties could I be subject to if my STR is found to be in violation of the City's code?",
+    "summary": "Your permit may be revoked, a summons may be issued, or fines may be assessed if any unlawful acts outlined in LDC 3-1-5-3 are found.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What penalties could I be subject to if my STR is found to be in violation of the City's code?",
+        "a": "Your permit may be revoked, a summons may be issued, or fines may be assessed if any unlawful acts outlined in LDC 3-1-5-3 are found."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

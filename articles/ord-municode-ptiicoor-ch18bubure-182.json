@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "alternative",
+      "materials",
+      "methods",
+      "equipment",
+      "hereby",
+      "amended"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-469"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-469. - I.P.M.C. Section 105.2, Alternative materials, methods and equipment.",
+    "summary": "Section 105.2. Alternative materials, methods and equipment,\nis hereby amended to read as follows:\n\"\n105.2. Alternative materials, methods and equipment.\nThe provisions of this code are not intended to prevent the installation of any material\n                  or to prohibit any method of constructi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-469. - I.P.M.C. Section 105.2, Alternative materials, methods and equipment.",
+        "a": "Section 105.2. Alternative materials, methods and equipment,\nis hereby amended to read as follows:\n\"\n105.2. Alternative materials, methods and equipment.\nThe provisions of this code are not intended to prevent the installation of any material\n                  or to prohibit any method of construction not specifically prescribed by this code,\n                  provided that any such alternative has been approved. An alternative material or method\n                  of construction shall be approved where the code official or building code advisory\n                  board finds that the proposed design is satisfactory and complies with the intent\n                  of the provisions of this code, and that the material, method or work offered is,\n                  for the purpose intended, at least the equivalent of that prescribed in this code\n                  in quality, strength, effectiveness, fire resistance, durability and safety.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-469"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,147 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_windows_siding",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/525/windows-siding-installation"
+    ],
+    "scraped_at": "2026-06-10T11:01:43.208472+00:00",
+    "content_hash": "c84004f6ee7c274b8cf8cc3fabc9d978ed2633e25b1d4b608d93880d4134bd64",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Windows & Siding Installation Permit",
+    "summary": "Permits are required to install replacement windows and siding on residential homes in the City of Arvada, CO. Structural changes or installation of egress windows require an Interior Remodel permit. Applications can be submitted in person or online through the Arvada Permits portal.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Prepare Application",
+        "text": "To submit a complete application you will need: For windows - number of replacement windows, door location if doors are replaced, and U Factor rating on the windows. For siding - type of siding and number of squares replaced. Note: If replacing less than one square of siding, a permit is not required.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Submit Application",
+        "text": "Applications can be submitted in person or electronically using the online customer portal at Arvada Permits. If submitted electronically, select misc permit type and then select the subtype that best fits your type of work.",
+        "portal_url": "https://www.arvadaco.gov/525/windows-siding-installation"
+      },
+      {
+        "n": 3,
+        "title": "Plan Review",
+        "text": "Once a complete application is submitted, it will receive a plan review. When the plan review is complete, the applicant will be notified via email when the permit is approved and ready for payment.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 4,
+        "title": "Contractor Login",
+        "text": "Licensed contractors will be asked to login using their contractor license number in the \"Arvada Contractor\" field and their password. If the password is forgotten, use the \"Forgot your password\" link to receive information via email.",
+        "portal_url": null
+      },
+      {
+        "n": 5,
+        "title": "Inspections",
+        "text": "Inspections include House Wrap for siding only and Final Building inspection. No one needs to be home for inspections, but access must be available and no dogs should be in the access area.",
+        "portal_url": null
+      },
+      {
+        "n": 6,
+        "title": "Closing the Permit",
+        "text": "Once all inspections have been completed with an approved final status, the permit status will be set to finaled. All inspection records can be reviewed and downloaded at the Arvada Permits Site.",
+        "portal_url": "https://www.arvadaco.gov/525/windows-siding-installation"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Window Replacement Details",
+        "description": "Number of replacement windows, door location if doors are replaced, and U Factor rating on the windows.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Siding Replacement Details",
+        "description": "Type of siding and number of squares replaced if replacing one square or more.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "number_of_replacement_windows",
+        "label": "Number of Replacement Windows",
+        "description": "Enter the total number of windows being replaced.",
+        "example_value": null,
+        "why_needed": "To assess the scope of window replacement work."
+      },
+      {
+        "field_name": "door_location",
+        "label": "Door Location",
+        "description": "Provide the location of doors if they are being replaced.",
+        "example_value": null,
+        "why_needed": "To verify door replacement details."
+      },
+      {
+        "field_name": "u_factor_rating",
+        "label": "U Factor Rating",
+        "description": "Provide the U Factor rating of the windows being installed.",
+        "example_value": null,
+        "why_needed": "To ensure compliance with energy efficiency standards."
+      },
+      {
+        "field_name": "type_of_siding",
+        "label": "Type of Siding",
+        "description": "Specify the type of siding being installed or replaced.",
+        "example_value": null,
+        "why_needed": "To determine permit requirements and compliance."
+      },
+      {
+        "field_name": "number_of_squares_replaced",
+        "label": "Number of Squares Replaced",
+        "description": "Enter the number of siding squares being replaced if one square or more.",
+        "example_value": null,
+        "why_needed": "To assess the extent of siding replacement."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Permit Fee",
+        "amount": "$50 for each trade type",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Use Tax and Plan Review Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": "If there are structural changes, the permit fee will be based on Table 18-1 of the adopted permit fee table. A plan review fee will also be applied."
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": null,
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Interior Remodel"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2329
+}

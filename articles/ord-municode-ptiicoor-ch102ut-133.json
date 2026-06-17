@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "connector",
+      "means",
+      "short",
+      "section",
+      "piping",
+      "typically"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-404"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-404. - Definitions.",
+    "summary": "Connector\nmeans a short section of piping, typically not exceeding two feet, which can be bent\n               and used for connections between rigid service piping. Also referred to as a gooseneck\n               or pigtail. Connectors are not considered to be part of the service line but may require…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-404. - Definitions.",
+        "a": "Connector\nmeans a short section of piping, typically not exceeding two feet, which can be bent\n               and used for connections between rigid service piping. Also referred to as a gooseneck\n               or pigtail. Connectors are not considered to be part of the service line but may require\n               replacement.\nConsecutive system\nmeans a public water system that receives some or all of its finished water from\n               one or more wholesale systems. Delivery may be through a direct connection or through\n               the distribution system of one or more consecutive systems.\nCustomer-owned service line\nmeans the portion of the drinking water service line from the meter (typically located\n               in a meter pit) to the point of entry or the foundation of the home or building. The\n               property owner is responsible for maintenance. Also referred to as the \"private\" or\n               \"user\" side.\nDirector\nmeans the director of utilities or designee thereof.\nEngineering standards\nmeans the city's Engineering Code of Standards and Specifications, as may be amended\n               from time to time.\nLead service line (\"LSL\")\nmeans a portion of pipe that is made of lead, which connects the drinking water main\n               to the building inlet, not including connectors. A galvanized service line is considered\n               a lead service line if it ever was or is currently downstream of any lead service\n               line or service line of unknown material. For the purposes of this article, any galvanized\n               water service line installed before 1960 will be treated as an LSL, requiring replacement.\nPoint of entry\nmeans the location where the water service line enters the structure (home or building)\n               at the foundation; the junction where it ties into the premise plumbing.\nPremise plumbing\nmeans the drinking water supply plumbing materials located within a property (in-house\n               or in-building), past the point of entry and leading to each internal tap or appurtenance.\nService line\nmeans a drinking water supply pipe from the water main to the meter, or the meter\n               to the point of entry of the structure. This definition does not apply to irrigation\n               lines or fire protection lines.\nSystem-owned service line\nmeans the portion of the drinking water service line from the water main to the meter\n               pit, maintained by the city, also referred to as the \"public\" side.\n(\nOrd. No. 4869\n, § 1, 3-4-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-404"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

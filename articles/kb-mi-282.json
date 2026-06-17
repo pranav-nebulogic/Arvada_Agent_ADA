@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "internet",
+      "cable",
+      "service",
+      "companies",
+      "directly",
+      "franchise",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/429/Internet-and-Cable"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-282",
+    "spreadsheet_id": "MI-282",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Internet and Cable",
+    "summary": "The City of Arvada does not oversee cable television services, which are managed by providers like Comcast and TDS under franchise agreements that regulate their operations. Residents must contact their respective cable companies directly for service setup, billing inquiries, or service issues, as the City does not handle these matters. Additionally, while Arvada has opted out of SB-152 to enhance local broadband services, it currently has no plans to become an internet service provider.",
+    "body": "The City is not directly responsible for cable television services. All cable providers are required to have a franchise agreement with the City in order to operate. The franchise agreements regulate the use of City Right-of-Ways and the cable companies' customer service standards.\n\n## Getting Cable Service in Arvada\n\nIf you would like to set up cable service, have questions about your cable bill, or need to report a service issue, contact the cable company directly.\n\nCable companies in Arvada are:\n\n- Comcast: visit the [Comcast/Xfinity website](http://Xfinity.com) or call 303-930-2000\n  - For information about service expansion into West Arvada, please visit the [Comcast project page](http://colorado.comcast.com/westarvada).\n- TDS: visit the [TDS website](http://HelloTDS.com/contact) or call 866-696-8368\n\n### [Cable FAQs](/Faq.aspx?TID=30)\n\n[What cable companies serve Arvada?](#)\n:   Cable companies in Arvada are:\n\n    - [Xfinity (Comcast)](https://www.xfinity.com/): 303-930-2000\n    - [TDS](http://hellotds.com/contact): 866-696-8368\n\n[Can I pay my cable bill at City Hall?](#)\n:   Cable bills cannot be paid at City of Arvada offices.\n\n[Who do I contact?](#)\n:   Contact the cable company directly:\n\n    - Set up cable service\n    - Ask questions about your cable bill\n    - Report a technical issue\n\n    [Submit a service request](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map) **only** if you are having problems with your cable provider, and have been **unable to resolve them** with the company including:\n\n    - Installations\n    - Poor TV reception\n    - Service calls or appointments\n    - Poor customer service / courtesy via the phone or in person responding to issues, equipment, damaged pedestal or unburied cable in your yard, or if you would like to learn more about the franchise agreements or need more information\n\n[Who determines my bill?](#)\n:   Your cable company determines your monthly rate. For questions regarding your bill, contact your cable company directly.\n\n/FAQ.aspx\n\n### [Internet FAQs](/Faq.aspx?TID=28)\n\n[In 2016, Arvada voters opted out of SB-152 to enable local governments to be more involved in broadband services. What has resulted since Arvada has opted out?](#)\n:   Opting out of [SB-152 (PDF)](http://www.leg.state.co.us/clics2005a/csl.nsf/billcontainers/FA216226F45192FE87256F41007B483C/%24FILE/152_enr.pdf) enabled City Council broad decision-making authority for broadband services within the city limits. The City of Arvada is now working with other local jurisdictions such as the fire and school districts in order to benefit the broader community.  The ultimate goal is to create a \"Smart City.\"  Examples include: improving traffic flow through monitoring and controlling traffic signals; provision of high-speed internet to students and school administrators; increased efficiency in managing the City's water distribution system; and the ability to lease broadband capacity to public and private providers to provide the community with more high-speed connectivity options.\n\n[Will the City of Arvada become an internet service provider and provide fiber for the home (FFTH)?](#)\n:   As of today, the Arvada City Council does not have plans to start providing FFTH.\n\n[What are other Colorado cities doing in regards to providing FFTH?](#)\n:   Since 2008, 129 Colorado local communities have voted to opt out of SB-152. Out of these Longmont is the only city that is directly providing FFTH. Fort Collins, Grand Junction and Estes Park are exploring the idea, and  Rio Blanco County is considering an open access public private model.\n\n[Can the City put pressure on existing providers to provide better broadband services through negotiations of the cable franchise?](#)\n:   Unfortunately, no. The cable franchises that the City has with TDS and Comcast govern broadcast TV services, not broadband. Broadband services are not regulated and therefore, the City does not have the authority to govern existing broadband providers. However, since the opting out of SB-152,  the primary ISP providers in Arvada (Comcast and Century Link) have significantly upgraded their infrastructure.\n\n[Why does the City not coordinate street maintenance / construction with the installation of fiber conduit?](#)\n:   The City has a strategy (Dig Once Policy) to install fiber conduit in coordination with street repairs/construction projects whenever those projects align with the City Master Fiber Optic Plan; however, projects do not always align with the Master Plan. Installing conduit during projects that are not part of the Master Plan would result in \"stranded\" lines that do not connect to anything.\n\n[Who can I contact for more information?](#)\n:   Rick Assmus  \n    Community Connectivity Manager  \n    Phone: 720-898-7523  \n    [Email Rick Assmus](/cdn-cgi/l/email-protection#493b202a2209283b3f282d2867263b2e)\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

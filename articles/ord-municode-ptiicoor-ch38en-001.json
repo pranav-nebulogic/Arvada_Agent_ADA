@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "existence",
+      "problem",
+      "excessive",
+      "unnecessary",
+      "unusually",
+      "loud",
+      "noises"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-31"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-31. - Existence of problem.",
+    "summary": "Excessive, unnecessary, or unusually loud noises within the limits of the city is\n               a condition which has existed for some time, and the extent and magnitude of such\n               noises are increasing; and the making, creation or maintenance of such excessive,\n               unnecessa…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-31. - Existence of problem.",
+        "a": "Excessive, unnecessary, or unusually loud noises within the limits of the city is\n               a condition which has existed for some time, and the extent and magnitude of such\n               noises are increasing; and the making, creation or maintenance of such excessive,\n               unnecessary or unusually loud noises which are prolonged, unusual or unreasonable\n               in their time, place and use affects and is a detriment to public health, comfort,\n               convenience, safety and welfare of the residents of the city, or may cause damage\n               to property or business.\n(Code 1981, § 19-1; Ord. No. 2208, § 1, 9-16-1985)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-31"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-45-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "restrictions",
+      "place",
+      "wood",
+      "burning",
+      "restricted",
+      "action",
+      "days",
+      "high",
+      "Wood Burning - Indoor Burning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=45"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/when-are-restrictions-in-place",
+    "faq_category_name": "Wood Burning - Indoor Burning"
+  },
+  "content": {
+    "title": "When are restrictions in place?",
+    "summary": "Wood burning is restricted on Action Days (high pollution days) as determined by the State of Colorado. Only residents with an EPA or State certified wood burning stove can burn on an Action Day. Between November 1 and March 31, call the State Air Quality Hotlines at 303-758-4848 or 303-782-0211 aft…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "When are restrictions in place?",
+        "a": "Wood burning is restricted on Action Days (high pollution days) as determined by the State of Colorado. Only residents with an EPA or State certified wood burning stove can burn on an Action Day. Between November 1 and March 31, call the State Air Quality Hotlines at 303-758-4848 or 303-782-0211 after 4 pm or visit Colorado's Department of Public Health & Environment Indoor Burning Restriction page."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

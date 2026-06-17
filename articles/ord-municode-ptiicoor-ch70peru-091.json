@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "retirement",
+      "health",
+      "benefits",
+      "city",
+      "offer",
+      "insurance",
+      "coverage"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-185"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-185. - Retirement health benefits.",
+    "summary": "(a)\nThe city may offer health insurance coverage to employees who retire from employment.\n               The city does not guarantee that a health benefit plan will continue to be available.\n               The city reserves the right to modify any health benefit plan, and to end a health\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-185. - Retirement health benefits.",
+        "a": "(a)\nThe city may offer health insurance coverage to employees who retire from employment.\n               The city does not guarantee that a health benefit plan will continue to be available.\n               The city reserves the right to modify any health benefit plan, and to end a health\n               benefit plan for any employee, retiree, or dependent.\n(b)\nIn the event a retiree elects not to participate in a health benefit plan, such retiree\n               shall not be permitted to re-join the health benefit plan at a later date. The retiree\n               shall not be permitted to change coverage from single to dependent plus one or family\n               coverage. The retiree may remove dependents from coverage. In the event a decision\n               is made to procure a health benefit plan for retirees which is separate from the health\n               benefit plan procured for employees, the maximum premium cost for retirees for single\n               or family coverage shall be no more than 150 percent of the full cost for single or\n               family coverage of the employees' plan.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-185"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "throwing",
+      "missiles",
+      "person",
+      "shall",
+      "throw",
+      "shoot",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-56"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-56. - Throwing missiles.",
+    "summary": "(a)\nNo person shall throw or shoot any stone, snowball or other missile at or upon any\n               person, animal, building, structure or vehicle in such a manner as may cause injury\n               or damage.\n(b)\nThrowing missiles shall be punishable by a fine not to exceed the limits established…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-56. - Throwing missiles.",
+        "a": "(a)\nNo person shall throw or shoot any stone, snowball or other missile at or upon any\n               person, animal, building, structure or vehicle in such a manner as may cause injury\n               or damage.\n(b)\nThrowing missiles shall be punishable by a fine not to exceed the limits established\n               in\nsection 1-5\n.\n(Code 1960, § 17-16; Code 1981, § 21-26; Ord. No. 1861, § 2, 10-4-1982; Ord. No. 2297,\n               § 16, 5-5-1986; Ord. No. 2377, § 1, 12-15-1986)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-56"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

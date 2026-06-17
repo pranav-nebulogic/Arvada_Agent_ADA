@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "parking",
+      "loading",
+      "facilities",
+      "generally",
+      "required",
+      "street",
+      "spaces",
+      "available",
+      "operable",
+      "passenger"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-4-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-4. USE AND MAINTENANCE OF PARKING AREAS"
+  },
+  "content": {
+    "title": "4-5-4-1. Use of parking and loading facilities.",
+    "summary": "A.\tGenerally. Required off-street parking spaces shall be available for operable passenger vehicles of the residents, customers, patrons, and/or employees of the use to which they relate.\nB.\tStorage.\n  1.\tParking Spaces and Parking Aisles.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-4-1. Use of parking and loading facilities.",
+        "a": "A.\tGenerally. Required off-street parking spaces shall be available for operable passenger vehicles of the residents, customers, patrons, and/or employees of the use to which they relate.\nB.\tStorage.\n  1.\tParking Spaces and Parking Aisles. Storing materials, boats, campers, recreational vehicles, or inoperable vehicles, or overnight parking of trucks or trailers is prohibited in parking areas of multifamily, nonresidential, and mixed-use developments, unless:\n    a.\tThe outdoor storage use is permitted in the applicable zone and approved for the subject property;\n    b.\tThe areas that are set aside for such parking are not counted towards the parking requirements for the use; and\n    c.\tThe areas that are set aside for such parking comply with the requirements for outdoor storage (e.g., buffering or screening of outdoor storage areas).\n  2.\tLoading Spaces. The long-term storage of trailers or shipping containers in loading spaces is prohibited. Such spaces shall be available for routine use by delivery vehicles.\nC.\tProhibited Use of Parking Areas. No designated off-street parking facilities shall be used for the repair, display, service, or sales of any good or service unless expressly and specifically approved by the City. However, this Subsection does not apply to single-family detached and single-family attached driveways when they are used for garage sales or for minor repairs to vehicles owned by the resident of the property.\nD.\tBlocking of Access Prohibited.\n  1.\tBlocking of loading spaces or parking spaces is prohibited, except as may be allowed by Section 3-1-4-13, Other Temporary Uses.\n  2.\tLoading spaces or parking spaces shall not be designed or located in a manner that blocks access to other loading spaces, parking spaces (except permitted tandem spaces), parking aisles, fire lanes, ingress or egress points, or building entrances.\n  3.\tParking, loading, and access areas shall be kept free of any type of permanent or movable structures that block access (e.g., trash receptacles or compactors). Parking within or otherwise obstructing a driveway approach or a public sidewalk is prohibited."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

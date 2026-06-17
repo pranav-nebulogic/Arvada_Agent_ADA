@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "specific",
+      "review",
+      "provisions",
+      "certain",
+      "types",
+      "applications",
+      "application",
+      "approval"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-1-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "8-3-1-1. Purpose of this article.",
+    "summary": "The purpose of this Article is to set out specific review provisions for certain types of applications that have application-specific approval criteria. Not all application types that are set out in Section 8-2-2-2, Decision-Making Tracks by Application Type, are listed in this Article.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-1-1. Purpose of this article.",
+        "a": "The purpose of this Article is to set out specific review provisions for certain types of applications that have application-specific approval criteria. Not all application types that are set out in Section 8-2-2-2, Decision-Making Tracks by Application Type, are listed in this Article. For application types that are not listed, the review procedures and cross-referenced standards in Section 8-2-2-2, Decision-Making Tracks by Application Type, apply without modification."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "denial",
+      "suspension",
+      "revocation",
+      "permits",
+      "director",
+      "deny",
+      "application"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-307"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-307. - Denial, suspension, or revocation of permits.",
+    "summary": "(a)\nThe director may deny an application for a permit under this chapter if the applicant\n               fails to demonstrate that it meets all of the requirements for a permit as provided\n               in the rules and regulations adopted pursuant to\nsection 54-303\n.\n(b)\nThe director may suspend o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-307. - Denial, suspension, or revocation of permits.",
+        "a": "(a)\nThe director may deny an application for a permit under this chapter if the applicant\n               fails to demonstrate that it meets all of the requirements for a permit as provided\n               in the rules and regulations adopted pursuant to\nsection 54-303\n.\n(b)\nThe director may suspend or revoke a permit issued under this chapter if the operator\n               fails to comply with the requirements of this chapter. A request for appeal must be\n               provided in writing to the director no less than seven days after receiving the termination\n               letter via certified mail. Any permit holder not satisfied with the director's decision\n               may request a final appeal hearing with a hearing officer pursuant to chapter 2, article\n               V, division 3 of this Code. Such hearing shall be set before the end of the 30 day\n               decommissioning period set by Arvada in the original notice provided via certified\n               mail. The decision made by the hearing officer is final.\n(c)\nAny operator whose permit is suspended or revoked must reclaim and remove their entire\n               fleet of devices within 30 days of notice of suspension or revocation.\n(Ord. No.\n4772\n, § 8, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-307"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

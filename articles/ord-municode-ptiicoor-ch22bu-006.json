@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "license",
+      "required",
+      "fee",
+      "person",
+      "shall",
+      "conduct",
+      "adult"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-52"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-52. - License required fee.",
+    "summary": "(a)\nNo person shall conduct an adult business without first having obtained a Type A or\n               a Type B adult business license.\n(b)\nA Type A adult business license shall be required for all adult businesses where no\n               fermented malt beverages or any malt, vinous, or spirituous l…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-52. - License required fee.",
+        "a": "(a)\nNo person shall conduct an adult business without first having obtained a Type A or\n               a Type B adult business license.\n(b)\nA Type A adult business license shall be required for all adult businesses where no\n               fermented malt beverages or any malt, vinous, or spirituous liquors are dispensed,\n               consumed or sold. Applicants for a Type A adult business license shall pay a license\n               fee of $500.00.\n(c)\nA Type B adult business license shall be required for all establishments conducting\n               an adult business where fermented malt beverages or any malt, vinous, or spirituous\n               liquors are dispensed, consumed or sold. Any such establishment shall also comply\n               with all applicable requirements of C.R.S. title 12, art. 46 or 47, and chapter 6\n               of the city Code. Applicants for a Type B adult business license shall pay a license\n               fee of $500.00.\n(d)\nIn the event an application for an adult business license is withdrawn or denied,\n               the license fee shall be refunded in full to the applicant.\n(Code 1981, § 4-11; Ord. No. 3217, § 2, 9-18-1995; Ord. No. 3810, § 1, 6-16-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-52"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

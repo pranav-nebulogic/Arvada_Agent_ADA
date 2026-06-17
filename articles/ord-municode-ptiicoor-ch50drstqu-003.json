@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "ditch",
+      "canal",
+      "means",
+      "man",
+      "made",
+      "channel"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-3"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-3. - Definitions.",
+    "summary": "Ditch\nor\ncanal\nmeans a man-made channel or trench or any part thereof within the city designed to\n               manage surface water runoff or convey water for a specific purpose, such as for irrigation.\nOwner\nmeans any corporation, company, or partnership, regardless of whether created by\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-3. - Definitions.",
+        "a": "Ditch\nor\ncanal\nmeans a man-made channel or trench or any part thereof within the city designed to\n               manage surface water runoff or convey water for a specific purpose, such as for irrigation.\nOwner\nmeans any corporation, company, or partnership, regardless of whether created by\n               special act or organized under the general incorporation laws of Colorado, or any\n               persons who own or control any canal or ditch.\nUser\nmeans a person, including a natural person, corporation, company, or other organization,\n               that has the legal right to access and use water from any canal or ditch. A user may\n               include an owner.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

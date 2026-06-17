@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "development",
+      "review",
+      "process",
+      "land",
+      "projects",
+      "according",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1393/Development-Review-Process"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-188",
+    "spreadsheet_id": "MI-188",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Development Review Process",
+    "summary": "The Development Review Team in the Community and Economic Development Work System (CED) conducts a series of reviews and approvals for construction projects before they can commence. Projects requiring a public hearing are reviewed by the Planning Commission and City Council, while others are approved by the CED director. Developers must notify nearby residents of meetings and project submissions, and the community can access a development map to track applications under review.",
+    "body": "Before land owners or developers can start construction, the Development Review Team for the Community and Economic Development Work System (CED) completes a series of reviews and obtains approvals before they can break ground. Get a quick overview of the process by watching the short video below.\n\n## How are development projects reviewed?\n\nFor projects that require a public hearing according to the Land Development Code, approval will be considered by the Planning Commission and City Council. For projects that do not require a public hearing, approval will be considered by the CED director.\n\nThe process for development review includes several reviews to ensure that projects meet the criteria of the [Land Development Code](https://www.arvadaco.gov/179/Land-Development-Code), the Engineering Standards and Specifications and the International Building Codes.\n\nRead more about the process in the [8-2 General Review Procedures](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH8DEREPR_ART8-2GEREPR_DIV8-2-3STDEKIPR_8-2-3-13HEPR), or learn more about the development review process in general in this [brief video about the development review process](https://www.youtube.com/watch?v=-BGBvp2jY_0).\n\n## How do I know when a development has been submitted for review?\n\nBefore a developer or land owner submits their application to the City, a neighborhood meeting may be required. The developer will send a mailed notice to all neighbors within a 500-foot radius of the property line of the project 15 days before a meeting. The meeting's purpose is to encourage collaboration and input from the neighborhood and answer questions about potential impacts to the community. The developer is not required to receive consensus and may not add or subtract from the standards of the [Land Development Code](https://www.arvadaco.gov/179/Land-Development-Code).\n\nOnce the developer has submitted a completed application, an additional notice will be mailed to all neighbors within 1,000 feet, or 1,500 feet if the project is greater than five acres. This is an opportunity for our community to request information and ask questions regarding a pending development application and provide comments to the CED Director prior to a decision being made.\n\n## What if I don't get a notice?\n\nIf you are not within the notification radius of a project you will not receive direct notice of a new development project. The [development map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=cb142677e3a046ac95cbdb32c9168534) will be a great resource to see all applications that are under review or under construction. It can be bookmarked and checked regularly.\n\nIf you wish to submit a public comment, please send an email to [[email protected]](/cdn-cgi/l/email-protection#d5b6b0b1b7bab4a7b1a6b4bbb1b6bab8b8bca6a6bcbabb95b4a7a3b4b1b4fbbaa7b2). You must include the DA project number and the address on which you would like to make comments.\n\nRead more about noticing requirements in the [Land Development Code 8-2-4-2](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH8DEREPR_ART8-2GEREPR_DIV8-2-4RENO_8-2-4-2RENOAPTY).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

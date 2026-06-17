@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "lighting",
+      "wcfs",
+      "artificially",
+      "lighted",
+      "unless",
+      "required",
+      "other",
+      "applicable",
+      "governmental",
+      "authority"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-3-6"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-3. GENERALLY APPLICABLE DESIGN STANDARDS"
+  },
+  "content": {
+    "title": "7-1-3-6. Lighting.",
+    "summary": "WCFs shall not be artificially lighted, unless required by the FAA or other applicable governmental authority, or the WCF is mounted on a light pole or other similar structure primarily used for lighting purposes.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-3-6. Lighting.",
+        "a": "WCFs shall not be artificially lighted, unless required by the FAA or other applicable governmental authority, or the WCF is mounted on a light pole or other similar structure primarily used for lighting purposes. If lighting is required, the City may review the available lighting alternatives and approve the design that would cause the least disturbance to the surrounding views. Required lighting shall be shielded or directed to the greatest extent possible so as to minimize the amount of glare and light falling onto nearby properties, particularly residences. Any lights needed for emergency repairs must be brought to the site and shall be limited to only that needed for safety during the repair. Said lights must be removed immediately upon completion of repair work."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-3-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

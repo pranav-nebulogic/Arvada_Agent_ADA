@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-41-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "irrigation",
+      "ditches",
+      "arvada",
+      "over",
+      "run",
+      "through",
+      "nearly",
+      "every",
+      "Parks & Open Space - Ditches"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=41"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/where-are-the-irrigation-ditches-in-arvada",
+    "faq_category_name": "Parks & Open Space - Ditches"
+  },
+  "content": {
+    "title": "Where are the irrigation ditches in Arvada?",
+    "summary": "There are over 60 irrigation ditches that run through Arvada in nearly every part of the city. Three of the largest ditches include: Farmers’ Highline Canal Croke Canal Church Ditch The Arvada Ditch Map shows all of the ditches in Arvada. Google Maps also has some ditches mapped and labeled.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Where are the irrigation ditches in Arvada?",
+        "a": "There are over 60 irrigation ditches that run through Arvada in nearly every part of the city. Three of the largest ditches include: Farmers’ Highline Canal Croke Canal Church Ditch The Arvada Ditch Map shows all of the ditches in Arvada. Google Maps also has some ditches mapped and labeled."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

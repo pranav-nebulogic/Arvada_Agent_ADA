@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "license",
+      "application",
+      "any",
+      "person",
+      "desiring",
+      "obtain",
+      "engage"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-52"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-52. - License application.",
+    "summary": "(a)\nAny person desiring to obtain a license to engage in the business of solid waste or\n               recycling materials collection shall make written application to the city clerk on\n               forms provided by the city. The application must be completed in its entirety.\n(1)\nEach hauler lice…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-52. - License application.",
+        "a": "(a)\nAny person desiring to obtain a license to engage in the business of solid waste or\n               recycling materials collection shall make written application to the city clerk on\n               forms provided by the city. The application must be completed in its entirety.\n(1)\nEach hauler licensed pursuant to this chapter shall submit to the city clerk as a\n               part of the license application, a written plan describing how the recycling collection\n               services will be provided, including the manner of separation and collection and the\n               frequency of the collection. Any changes to the plan shall be submitted to the city\n               clerk prior to implementation of the change. This information may be disseminated\n               by the city for public information purposes.\n(b)\nThe application shall be reviewed by the city manager or his or her designee who shall\n               conduct such additional investigation as he or she deems necessary and shall approve,\n               approve with conditions, or deny the license.\n(c)\nIn determining whether to grant or deny a license, the city manager shall take into\n               consideration:\n(1)\nThe character of the applicant or its officers or directors, especially any previous\n               license violations or criminal convictions;\n(2)\nWhether licenses granted for the city are adequate to meet the reasonable needs of\n               the community; and\n(3)\nIf the applicant has previously done business in the city, the number of complaints\n               received from the citizens concerning the applicant's operations.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-52"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

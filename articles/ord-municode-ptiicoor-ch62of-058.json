@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rights",
+      "finder",
+      "notwithstanding",
+      "any",
+      "other",
+      "provision",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-96"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-96. - Rights of finder.",
+    "summary": "(a)\nNotwithstanding any other provision of this article to the contrary, whenever any\n               property is lost or abandoned and has been found and delivered to the custodian for\n               care, custody, and control, such property shall be returned to the original finder\n               wh…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-96. - Rights of finder.",
+        "a": "(a)\nNotwithstanding any other provision of this article to the contrary, whenever any\n               property is lost or abandoned and has been found and delivered to the custodian for\n               care, custody, and control, such property shall be returned to the original finder\n               whenever a claim has been made by the finder and the following conditions have been\n               met:\n(1)\nThe claimant is the person who originally found the lost or abandoned property;\n(2)\nThe claimant, after surrendering the property to the custodian, has filed a written\n               claim on that item within 30 days of the surrender of the property;\n(3)\nThe lost or abandoned property has remained unclaimed by the owner or person having\n               a right to such property for 30 days after the surrender of the property to the custodian;\n               and\n(4)\nThe lost or abandoned property is not known by the custodian to be stolen, is not\n               being held as evidence, and is not subject to the exceptions set forth below.\n(\nOrd. No. 4238, § 1, 12-6-2010\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-96"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

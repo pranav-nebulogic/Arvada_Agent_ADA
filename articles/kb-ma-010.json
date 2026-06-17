@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "zoning",
+      "land use",
+      "zone district",
+      "land development code",
+      "Main"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/168/Zoning"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/ma-010",
+    "spreadsheet_id": "MA-010",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Planning and Zoning",
+    "summary": "Zoning regulations in Arvada are outlined in the Land Development Code (LDC), which establishes 26 zone districts for residential, commercial, and mixed-use purposes, along with various development standards. For specific zoning information, residents can use the Property and Address Search or the Zoning District Interactive Map, and can request an Official Zoning Verification by contacting the Planning and Zoning department. The complete Land Development Code is accessible online through Municode.",
+    "body": "Zoning regulations define how land in the City can be used and developed, and are included in the City of Arvada Land Development Code (LDC). The LDC establishes 26 zone districts, which specify whether zones can be used for residential, commercial, or mixed-use purposes. The LDC also regulates various development standards such as lot size, building placement, and much more. Other rules and regulations for open space, landscaping, building design, signs, and accessory structures are also available within the LDC.\n\n## Property Zoned\n\nIf you are looking for zoning information about a specific property, use our Property and Address Search. If you are looking for a zoning map of the whole City, launch our Zoning District Interactive Map.\n\n## Official Zoning Verification\n\nTo obtain an official Zoning Verification for a property in Arvada, send an [email request to Planning and Zoning](mailto:POD@arvada.org) or call the Planning Counter at 720-898-7435 to receive assistance. An Official Zoning Verification letter will provide information regarding the zoning of a property, whether it is conforming to the LDC and if any zoning violations exist.\n\nPlease note: Should additional documents such as certificates of occupancy, building permits, or other items be requested that require extensive research, an official Public Records Request will be needed.\n\n## Land Development Code\n\nThe Land Development Code is available through [Municode](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

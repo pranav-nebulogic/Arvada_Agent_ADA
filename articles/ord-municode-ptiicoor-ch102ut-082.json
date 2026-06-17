@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "credit",
+      "water",
+      "surcharges",
+      "director",
+      "department",
+      "finance",
+      "designee"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-181"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-181. - Credit of water surcharges.",
+    "summary": "(a)\nThe director of the department of finance or the director's designee has the discretion,\n               within established guidelines, to credit all or a portion of any water surcharge imposed\n               under any repealed ordinance imposing water surcharges to a residence qualifying under\n …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-181. - Credit of water surcharges.",
+        "a": "(a)\nThe director of the department of finance or the director's designee has the discretion,\n               within established guidelines, to credit all or a portion of any water surcharge imposed\n               under any repealed ordinance imposing water surcharges to a residence qualifying under\n               one or more of the conditions set out below. The residential customer requesting such\n               a credit shall have the burden of proving one or more of the qualifying conditions\n               to the director or his designee by clear and convincing evidence. The director's determination\n               shall be completely discretionary, purely ministerial, no notice or hearing shall\n               be required, and the director's determination shall not be subject to appeal or judicial\n               review. Water needed for outdoor irrigation shall not be considered in making such\n               determination.\n(b)\nThe director of the department of finance or the director's designee may credit surcharges\n               at a residential property where the average water consumption for the two billing\n               periods from November 1, 2001 through April 30, 2002 exceeds 18,000 gallons per residential\n               unit, and either:\n(1)\nAt the time the surcharge was imposed there were one or more persons living at the\n               residence who, because of a medical condition, used an unusual amount of water; or\n(2)\nAt the time the surcharge was imposed there was a family of five or more persons living\n               at the residence. For purposes of this section, the term \"family\" means:\na.\nOne or more persons related by blood, marriage, or adoption, living together as a\n               single household unit.\nb.\nA group of not more than five persons not related by blood, marriage, or adoption,\n               living together as a single household unit.\nc.\nA family foster home, licensed by the state, or certified by the Jefferson County\n               Department of Human Services or Adams County Department of Social Services, or a state-licensed\n               child placement agency, and having no more that four foster children.\nd.\nA \"family\" shall not include more than one person required to register as a sex offender\n               pursuant to C.R.S. § 18-3-412.5, as amended, unless related by blood, marriage, or\n               adoption.\n(c)\nWhere any credit of surcharges is calculated based on 2001 consumption, but there\n               was no 2001 consumption at that service address, the average 2001 consumption for\n               all customers in the same service class shall instead be used to calculate the credit,\n               if any.\n(d)\nWater surcharges imposed under CB 04-028, Ordinance No. 3878 (adopted May 3, 2004)\n               shall not apply to water meter readings or consumption on or after August 30, 2004.\n(Code 1981, § 33-96; Ord. No. 3803, § 1, 5-5-2003; Ord. No. 3809, § 2, 6-16-2003;\n               Ord. No. 3819, §§ 1, 2, 7-14-2003; Ord. No. 3878, § 1, 5-3-2003; Ord. No. 3907, §\n               1, 9-13-2004)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-181"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "definitions",
+      "division",
+      "intended",
+      "provide",
+      "means",
+      "regulations",
+      "promote",
+      "health",
+      "safety"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-2-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-2. FLOODPLAIN REGULATIONS"
+  },
+  "content": {
+    "title": "4-1-2-3. Purpose and definitions.",
+    "summary": "A.\tThis Division is intended to provide the means and the regulations to promote the health, safety, and general welfare of the public, and to minimize public and private losses due to flood conditions in specific areas subject to flood hazards, and to promote wise use of the floodplain.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-2-3. Purpose and definitions.",
+        "a": "A.\tThis Division is intended to provide the means and the regulations to promote the health, safety, and general welfare of the public, and to minimize public and private losses due to flood conditions in specific areas subject to flood hazards, and to promote wise use of the floodplain. This Division has been established with the following purposes intended:\n  1.\tTo reduce the hazards of flood to human life, health, and property;\n  2.\tTo alert floodplain occupants, or potential occupants, to flood damages which may result from their own, or others' land use;\n  3.\tTo minimize damage to critical facilities, infrastructure, and other public facilities and utilities such as water, sewer, and gas mains; electrical and communications facilities; and streets and bridges located in the regulatory floodplain;\n  4.\tTo minimize prolonged business interruptions caused by flooding;\n  5.\tTo minimize the expenditure of public money for costly flood control projects;\n  6.\tTo minimize the need for rescue and relief efforts associated with flooding, which are generally undertaken at the expense of the public;\n  7.\tTo help maintain stable tax base by providing for the sound use and development of the regulatory floodplain, so as to minimize future flood blight areas;\n  8.\tTo ensure potential buyers are notified if properties are in a regulatory floodplain; and\n  9.\tTo encourage and facilitate urban water resources management techniques for the reduction of pollution and the enhancement of the urban environment.\nB.\tTerms used in this Division shall have the meanings set forth in section 11-3-3-1 of this Code if specifically defined.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-2-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

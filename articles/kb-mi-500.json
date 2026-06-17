@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "sewer",
+      "line",
+      "lines",
+      "service",
+      "wastewater",
+      "care",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/439/Sewer"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-500",
+    "spreadsheet_id": "MI-500",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Sewer",
+    "summary": "Homeowners in Arvada are responsible for the maintenance of their residential sewer service lines up to the connection with the city's main sewer system, which spans over 450 miles and transports wastewater to Metro Water Recovery for treatment. To prevent clogs, residents are advised to avoid flushing non-biodegradable items like wipes and grease, and to discharge sump pump water appropriately, as illegal discharges can increase treatment costs and reduce system capacity. For issues with city-owned sewer lines, residents can contact the Wastewater Division for assistance.",
+    "body": "The City of Arvada does not cut, clean or televise the residential potion of sewer service lines.\n\nMaintenance and care of the sanitary sewer service lines from the home up to and including the connection to the City's main sewer line are the responsibility of the homeowner.\n\nThe City maintains over 450 miles of sewer pipe line. These lines transport wastewater to our partner, Metro Water Recovery for treatment.\n\n## Experiencing slow draining or a plugged line\n\nThe Wastewater Division will check City owned sewer lines. Call the Wastewater Division at 720-898-7770 (after 3:30 pm or on weekends, call 720-898-7070). If the problem is not in the City's main sewer line, you may need to call a plumber or drain cleaner to clean your service line.\n\nIf you have your service line televised, the Wastewater Division will review the taped video inspection. We will provide an unbiased, second opinion concerning problems found in your service line. Please call us at 720-898-7770 to schedule an appointment.\n\n## Help prevent costly sewer clogs\n\nEveryday household items like cooking **grease, oils, fats, wipes, and chemicals can clog your pipes**and cause sewer backups in your home and neighborhood. Keep things flowing with these simple steps:\n\n### Cool it, can it, trash itgraphic of a hot pan cooling\n\nLet grease cool, then scrape it into a container and toss it in the trash.\n\n### Only flush toilet papergraphic of toilet paper\n\nOnly human waste and toilet paper belong in the toilet - never wipes, even if they say \"flushable\".\n\n![graphic of a hand holding a wipe](/ImageRepository/Document?documentId=5505)\n\n### Wipe before you wash\n\nUse a paper towel to wipe greasy pans before rinsing.\n\n### Use a strainergraphic of a strainer to place over a drain\n\nCatch food scraps in the sink and compost or trash them instead.\n\n### Wipes clog pipesdo not flush disinfecting wipes, paper towels, baby wipes, towelettes, or mop refills\n\nWipes, paper towels and rags do not break down as toilet paper does and cannot be flushed down the toilet. The use of these materials can result in blockages in your service line and will increase the likelihood of sewer overflows causing unpleasant damage to property, the City system and our environment.\n\nFlushing these types of rags and wipes is a direct violation of the Arvada City Code, Sec. 102-131. If anything other than toilet paper must be used, place it in a bag and throw it in the trash. Do not flush them down the toilet. Please do your part in helping us protect property and the environment.\n\n## Discharge of sump pumps into sewer system illegal\n\nPer Arvada City code, it is illegal to discharge any groundwater or sump pump into the sanitary sewer system. Such illegal discharges decrease the capacity in our system and add a considerable cost to what the City pays to properly treat and disinfect all sewage.\n\nIf you own a sump pump that is discharging to the sanitary sewer, please correct this immediately by discharging to a landscaped surface or other appropriate means of discharge.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

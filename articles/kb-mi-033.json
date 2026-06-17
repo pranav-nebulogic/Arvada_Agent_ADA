@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "adopt",
+      "street",
+      "bags",
+      "litter",
+      "streets",
+      "adopted",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/499/Adopt-a-Street"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-033",
+    "spreadsheet_id": "MI-033",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Adopt-a-Street",
+    "summary": "The Adopt-A-Street Program in Arvada invites individuals and groups to volunteer for litter collection on local streets, parks, and waterways, committing to clean their adopted area at least four times a year. The city provides necessary supplies and recognizes volunteers with signage on the adopted streets. Interested participants can apply online and suggest new routes for adoption.",
+    "body": "Help keep Arvada Beautiful by volunteering for the Adopt-A-Street Program, and collecting litter from our community streets, parks, green belts, and waterways.\n\n## How Does Adopt a Street Work\n\n- Individuals or groups volunteer to pick up litter on streets in Arvada.\n- Volunteers enter into a written agreement with the City and agree to clean the adopted street or site a minimum of four times per year.\n- The City provides trash bags and safety vests and will collect the filled bags when the volunteers have completed the litter pickup.\n- Signs are posted on the adopted streets to recognize the efforts of volunteers, civic groups, churches, or businesses.\n\n## Available Streets\n\nRoutes are selected from a priority list. If you know of a street that needs to be cleaned but is not on our list, please suggest it so we can make it a route. To see current routes, and whether a route is available for adoption, explore our interactive map.\n\n[Launch Route Map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=a94a4acb58814af18c5ffc68d9f7d1c3)\n\n## How to Adopt a Street\n\nSubmit a request online, including the route you would like to suggest and your contact information, to start the process of adopting a street. The program is designed to help keep Arvada clean and attractive for its citizens. Thank you for considering the adoption of a street!\n\n[Apply to Adopt a Street](https://arvada-forms.app.transform.civicplus.com/forms/32094).\n\n## Questions & Route Suggestions\n\nIf you have questions about this program or would like to suggest a new route, please [email Michele Broski](/cdn-cgi/l/email-protection#2f424d5d405c44466f4e5d594e4b4e01405d48), Adopt-a-Street Coordinator, or call 720-898-7692.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

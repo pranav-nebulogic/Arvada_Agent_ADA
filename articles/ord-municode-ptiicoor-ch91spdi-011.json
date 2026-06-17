@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "public",
+      "hearing",
+      "published",
+      "mailed",
+      "department",
+      "upon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-30"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-30. - Notice of public hearing.",
+    "summary": "(a)\nPublished and mailed notice.\nThe department, upon preparing the report on the proposed service plan described\n               in\nsection 91-23\n, shall schedule a public hearing at a regular or special city council meeting. Notice\n               of the hearing shall be published by the petitioner …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-30. - Notice of public hearing.",
+        "a": "(a)\nPublished and mailed notice.\nThe department, upon preparing the report on the proposed service plan described\n               in\nsection 91-23\n, shall schedule a public hearing at a regular or special city council meeting. Notice\n               of the hearing shall be published by the petitioner in an issue of a newspaper of\n               general circulation in the city at least 21 days prior to the hearing date. Notice\n               of the hearing shall also be mailed, by first class mail, on the date such notice\n               is published to:\n(1)\nThe owners of record of all property within the title 32 district as such owners of\n               record are listed in the proposed service plan;\n(2)\nThe State of Colorado Division of Local Government; and\n(3)\nThe governing body of any municipality or title 32 district which has levied an ad\n               valorem tax within the next preceding tax year, and which has boundaries within a\n               radius of three miles of the proposed district's boundaries.\n(b)\nContents of notice.\nThe notice of hearing shall set forth the following:\n(1)\nThe date, time, location, and purpose of the hearing;\n(2)\nA general description of the land contained within the boundaries of the proposed\n               title 32 district;\n(3)\nInformation outlining methods and procedures for the filing of a petition for exclusion\n               pursuant to\nsection 91-32\n(e);\n(4)\nA reference to the type of title 32 district to be organized;\n(5)\nThe maximum mill levy for debt service to be imposed by the title 32 district and,\n               if organized for the primary purpose of facilitating the development of residential\n               property, the maximum period of time over which such levy shall be collected;\n(6)\nThe place at which the proposed service plan may be examined;\n(7)\nA statement that all protests and objections must be submitted in writing to the city\n               council at or prior to the hearing or any continuance or postponement thereof in order\n               to be considered; and\n(8)\nA statement that all protests and objections to the proposed title 32 district shall\n               be deemed to be waived unless presented at the time and in the manner specified in\n               this article.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-30"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

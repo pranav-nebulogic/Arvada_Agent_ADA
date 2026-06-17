@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "council",
+      "councilmember",
+      "district",
+      "document",
+      "documentid",
+      "imagerepository",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/157/City-Council"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-131",
+    "spreadsheet_id": "MI-131",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "City Council",
+    "summary": "The City Council consists of several members, including Mayor Lauren Simpson, Mayor Pro Tem Randy Moorman, and councilmembers representing various districts: Shawna Ambrose (District 2), Rebecka Lovisone (District 3), Bob Fifer (District 4), and at-large members Sharon Davis and Michael Griffith. Each councilmember has a designated role and district representation within the city government.",
+    "body": "## Councilmembers\n\n1. ![](/ImageRepository/Document?documentID=6769)\n\n   #### Lauren Simpson\n\n   Mayor\n\n   [Read more about Lauren Simpson](/823/Lauren-Simpson-District-2-Councilmember)\n\n1. ![](/ImageRepository/Document?documentID=6768)\n\n   #### Randy Moorman\n\n   Mayor Pro Tem - Councilmember for District 1\n\n   [Read more about Randy Moorman](/819/District-1-Councilmember-Randy-Moorman)\n\n1. ![](/ImageRepository/Document?documentID=6763)\n\n   #### Shawna Ambrose\n\n   Councilmember for District 2\n\n   [Read more about Shawna Ambrose](/961/Shawna-Ambrose-District-2-Councilmember)\n\n1. ![](/ImageRepository/Document?documentID=6767)\n\n   #### Rebecka Lovisone\n\n   Councilmember for District 3\n\n   [Read more about Rebecka Lovisone](https://www.arvadaco.gov/1445/Rebecka-Lovisone-District-3-Councilmembe)\n\n1. ![](/ImageRepository/Document?documentID=6765)\n\n   #### Bob Fifer\n\n   Councilmember for District 4\n\n   [Read more about Bob Fifer](/816/Bob-Fifer-Councilmember-at-Large)\n\n1. ![](/ImageRepository/Document?documentID=6764)\n\n   #### Sharon Davis\n\n   Councilmember at-large\n\n   [Read more about Sharon Davis](/960/Sharon-Davis-Councilmember-At-Large)\n\n1. ![](/ImageRepository/Document?documentID=6766)\n\n   #### Michael Griffith\n\n   Councilmember At-Large\n\n   [Read more about Michael Griffith.](https://www.arvadaco.gov/1444/Michael-Griffith-Councilmember-At-Large)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

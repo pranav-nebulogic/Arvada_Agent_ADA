@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "enforcement",
+      "orders",
+      "members",
+      "police",
+      "department",
+      "code",
+      "such"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-39"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-39. - Enforcement of orders.",
+    "summary": "(a)\nThe members of the police department, code enforcement, and such other law enforcement\n               and peace officers as may be authorized by the city manager are further authorized\n               and directed to enforce the orders, rules and regulations made or issued pursuant\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-39. - Enforcement of orders.",
+        "a": "(a)\nThe members of the police department, code enforcement, and such other law enforcement\n               and peace officers as may be authorized by the city manager are further authorized\n               and directed to enforce the orders, rules and regulations made or issued pursuant\n               to this chapter. All members of the public shall be deemed to have been given notice\n               of the restrictions contained within a declaration upon its dissemination to the news\n               media or publication on the city website or other means of publicity.\n(b)\nDuring the period of a declared civil emergency, emergency, or disaster, a person\n               shall not:\n(1)\nEnter or remain upon the premises of any establishment not open for business to the\n               general public, unless such person is the owner or authorized agent of the establishment;\n(2)\nViolate any of the orders duly issued by the city manager or designee pursuant to\n               such declaration;\n(3)\nWillfully obstruct, hinder, or delay any duly authorized city officer, employee or\n               volunteer in the enforcement or exercise of the provisions of the chapter, or of the\n               undertaking of any activity pursuant to this chapter.\n(c)\nThe municipal court shall have the jurisdiction to preside over alleged violations\n               of this section. A person convicted of a violation of this section shall be subject\n               to the penalties set forth in\nsection 1-5\nof the Arvada Municipal Code.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-39"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "affirmative",
+      "defenses",
+      "nothing",
+      "article",
+      "shall",
+      "construed",
+      "prohibit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-216"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-216. - Affirmative defenses.",
+    "summary": "(a)\nNothing in this article shall be construed to prohibit the assertion of an affirmative\n               defense to any charge under this article to the extent provided in Section 14 of Article\n               XVIII of the Colorado Constitution. Any person seeking to assert an affirmative defense\n  …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-216. - Affirmative defenses.",
+        "a": "(a)\nNothing in this article shall be construed to prohibit the assertion of an affirmative\n               defense to any charge under this article to the extent provided in Section 14 of Article\n               XVIII of the Colorado Constitution. Any person seeking to assert an affirmative defense\n               to a charge under this article may present a medical marijuana registry identification\n               card that is issued by the Colorado Department of Public Health and Environment and\n               that is valid at the time of the alleged offense, or may present a primary caregiver\n               license or other verification that is issued by the Colorado Department of Public\n               Health and Environment and is valid at the time of the alleged offense, as may be\n               appropriate. Such documentation may be presented at an arraignment or at a pre-trial\n               conference on the offense and shall result in the dismissal of the charge as appropriate.\n(b)\nThe affirmative defenses contained in Section 14 of Article XVIII of the Colorado\n               Constitution shall not apply to any charge involving a sale, open and public consumption,\n               an open marijuana container, or to any case involving prohibitions on city-owned property.\n(\nOrd. No. 4392, § 2, 7-1-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-216"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

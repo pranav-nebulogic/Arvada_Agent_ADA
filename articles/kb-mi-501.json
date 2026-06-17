@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "offender",
+      "registry",
+      "convicted",
+      "persons",
+      "accurately",
+      "adults",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/583/Sex-Offender-Registry"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-501",
+    "spreadsheet_id": "MI-501",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Sex Offender Registry",
+    "summary": "The Colorado sex offender registry includes individuals legally required to register, but it may not fully represent the risk of sexual offenders in the community, as some offenders, including juveniles and those with misdemeanor convictions, may not be listed. The Arvada Police Department offers a portal for residents to search for registered sex offenders and provides a daily updated list upon request. Additionally, the department notifies the public about sexually violent predators to enhance community safety while emphasizing that any harassment of offenders or their families is criminal behavior.",
+    "body": "The Colorado sex offender registry includes only persons legally required to register and comply with the sex offender registration laws. Persons should not rely solely on the sex offender registry as a safeguard against perpetrators of sexual assault in their communities. The crime for which a person is convicted may not accurately reflect the level of risk. Some adults, including those convicted of only one misdemeanor offense, are omitted from the website under state law. Juvenile offenders and one-time misdemeanor offenders are available at the police department. Offenders who have failed to register are not listed; please visit the Colorado Bureau of Investigations website for a list of \"failed-to-register\" persons.\n\nSexual crime can be a severely traumatizing event, leading to life-altering consequences for the victim. Colorado Law (Article 16, Title 22 CRS) requires persons convicted of certain sex crimes to [register](/539/Registering-as-a-Sex-Offender) with the law enforcement agency having jurisdiction where they reside.\n\n## OffenderWatch\n\nOffenderWatch is a comprehensive tool designed to assist local, state, and federal agencies in monitoring and managing sex offender records. With over 20 years of experience supporting more than 3,500 law enforcement agencies in 33 states, OffenderWatch streamlines the registration, address verification, and record updating processes for registered offenders. This enables agencies to focus more on active investigations and community safety.   \n  \nThe platform facilitates real-time collaboration between agencies, including partnerships with the U.S. Marshals to track absconded offenders. OffenderWatch also pioneered the first email alert system to notify residents when a registered sex offender moves into their neighborhood. Additionally, the system ensures state compliance with FBI requirements and provides a public-facing database for community members to search for registered offenders in their area.  \n  \nResidents can use the [Arvada Police Department's portal](https://www.communitynotification.com/cap_main.php?office=57020) to search for sex offenders residing in their neighborhood and subscribe to receive email alerts of new offenders in their area.\n\n## Sex Offender List\n\nIn addition to the OffenderWatch portal, The Arvada Police Department will provide a free copy of the City's sex offender list to anyone who asks. A brief form must be completed before obtaining the list at the Department's Records Unit, located at 8101 Ralston Road. This list is updated daily. For more information, call 720-898-6920.\n\n## Sexually Violent Predator Notifications\n\nThe City of Arvada Police Department is releasing the following information pursuant to Colorado Revised Statues 16-13-901 through 16-13-905, which authorizes law enforcement agencies to inform the public of a sex offender release when the offender has been determined to be a sexually violent predator and is subject to community notification.\n\nThe purpose of this notification is to enhance public safety and protection. Vigilantism or use of this information to harass, threaten or intimidate any of the following people is criminal behavior and will not be tolerated: the offender, the offender's significant others and the community notification team.\n\n[Learn more about Community Awareness: Sex Offender Registration and Sexually Violent Predators.](https://www.youtube.com/watch?v=49ibxGQrgJ8)\n\n### Registered Sexually Violent Predators\n\n**Frank Delfino Rivera**![Frank Delfino Rivera](/ImageRepository/Document?documentId=732)\n\n- Date of birth: June 16, 1956\n- Hispanic male\n- Height: 5 feet 7 inches, Weight: 170lbs\n- Brown hair, brown eyes\n- Address: 6412 W 78th Ave, Arvada, 80003\n- Convictions: 1st Degree Sexual Assault with Physical Force/Violence\n\n**Samuel Hiestand Bowman**![A white male with short brown hair, a brown beard, wearing a gray t shirt](/ImageRepository/Document?documentId=4432)\n\n- Date of birth: April 19, 1982\n- White male\n- Height: 5 feet 8 inches, Weight: 195lbs\n- Brown hair, blue eyes\n- Address: 6755 Allison St, Arvada, 80004\n- Convictions: Sexual Assault on a Child (Attempt)\n\n**Jerome Alan Lidgren**![Jerome Lidgren ](/ImageRepository/Document?documentId=7476)\n\n- Date of birth: August 27, 1968\n- Hispanic male\n- Height: 5 Feet 4 inches, Weight: 176lbs\n- Brown hair (bald), brown eyes\n- Address: 8000 W 62nd Ave #5, Arvada, 80004\n- Convictions: Sexual Assault on a Child by One in a Position of Trust and Child Abuse Causing Serious Bodily Injury",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

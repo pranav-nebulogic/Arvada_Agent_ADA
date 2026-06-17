@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "enforcement",
+      "penalty",
+      "only",
+      "police",
+      "officers",
+      "code",
+      "authorized"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-195"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-195. - Enforcement and penalty.",
+    "summary": "(a)\nOnly police officers or code enforcement officers are authorized to cause the removal\n               of graffiti vandalism pursuant to this article. Once the notice of institution of\n               nuisance abatement proceedings has been given to the property owner, and the property\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-195. - Enforcement and penalty.",
+        "a": "(a)\nOnly police officers or code enforcement officers are authorized to cause the removal\n               of graffiti vandalism pursuant to this article. Once the notice of institution of\n               nuisance abatement proceedings has been given to the property owner, and the property\n               owner has failed or refused to remove or eradicate the graffiti or request a hearing\n               as set forth in\nsection 38-193\n(5), abatement procedures may be commenced.\n(b)\nThe city manager or his designee is authorized to have the graffiti vandalism removed\n               or eradicated by appropriate means. Police officers or code enforcement officers and\n               those persons designated by the city to execute abatement are expressly authorized\n               to enter upon private property for the purpose of causing the removal or eradication\n               of graffiti vandalism. The property owner shall be responsible for all costs of abatement,\n               including all costs as set forth.\n(c)\nAll assessments and charges imposed under this article shall be a lien against each\n               lot or tract of land upon which the graffiti vandalism occurred until paid, and shall\n               have priority over all other liens except general taxes and prior special assessments.\n               Such lien may be foreclosed upon by the city at any time in the same manner as provided\n               pursuant to the provisions of\nchapter 59\nentitled \"municipal liens.\"\n(d)\nThe abatement and lien procedures set forth in this article for property defaced by\n               graffiti shall be exclusive and shall restrict the city from pursuing any criminal\n               remedy provided by law.\n(Code 1981, § 20-54; Ord. No. 3455, § 3, 7-6-1998;\nOrd. No. 4042, § 3, 12-11-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-195"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

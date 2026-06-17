@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "january",
+      "business",
+      "colorado",
+      "acutherapy",
+      "address",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1497/New-Businesses-January-2026"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-345",
+    "spreadsheet_id": "MI-345",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses January 2026",
+    "summary": "In January 2026, several new businesses opened in Arvada, Colorado, including American Axes Inc, Animus Acutherapy LLC, and Colorado Coring Company LLC, among others. The list features a variety of services ranging from mobile detailing to functional medicine and counseling services, with each business providing contact information for inquiries.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew business listings for the month of January 2026\n\n| American Axes Inc | 7270 W 88TH AVE B ARVADA CO 80021 | 470-776-9996 |\n| Animus Acutherapy LLC | 8600 RALSTON RD 208 ARVADA CO 80002 | 720-257-2142 |\n| Colorado Coring Company LLC | 6632 FIG ST ARVADA CO 80004 | 303-834-5122 |\n| Connections Museum Colorado | 4700 W 60TH AVE ARVADA CO 80003 | 303-296-1221 |\n| Cronic Mobile Detailing | 5415 W 59TH AVE E ARVADA CO 80003 | 515-868-8616 |\n| Cultivate Functional Medicine | ARVADA CO 80002 | 303-416-5882 |\n| Fast Trax Wax Co LLC | ARVADA CO 80403 | 971-325-9027 |\n| Form Electric LLC | ARVADA CO 80005 | 303-747-7321 |\n| Kids United | 7705 WADSWORTH BLVD P ARVADA CO 80003 | 303-725-0353 |\n| Martinez Fire Protection LLP | 6632 FIG ST ARVADA CO 80004 | 303-681-4860 |\n| MITIGATION X | 20300 STATE HWY 72 ARVADA CO 80007 | 720-845-2164 |\n| Patience Cleaners LLC | 15400 W 64TH AVE E-1B ARVADA CO 80007 | 954-703-0290 |\n| Sandovals Pallet Liquidations LLC | 6340 W 56TH AVE ARVADA CO 80002 | 720-317-4248 |\n| Stevens Counseling Services | 5606 WADSWORTH BLVD 210 ARVADA CO 80002 | 303-945-6157 |\n| Stonebridge Senior LLC | 11825 W 64TH AVE ARVADA CO 80004 | 303-378-2377 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

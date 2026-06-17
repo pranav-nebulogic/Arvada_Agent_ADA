@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "intent",
+      "purpose",
+      "city",
+      "multiple",
+      "irrigation",
+      "drainage"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-1"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-1. - Legislative intent and purpose.",
+    "summary": "The city has multiple irrigation and drainage ditches located within its limits. The\n               city council has determined that it is pertinent that all such irrigation and drainage\n               ditches are kept, repaired, maintained, and operated in a safe manner in order to\n               e…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-1. - Legislative intent and purpose.",
+        "a": "The city has multiple irrigation and drainage ditches located within its limits. The\n               city council has determined that it is pertinent that all such irrigation and drainage\n               ditches are kept, repaired, maintained, and operated in a safe manner in order to\n               enhance the quality of water discharged into the city's municipal separate storm system\n               and reduce the risk of flooding.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

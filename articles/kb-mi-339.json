@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "neighborhood",
+      "walks",
+      "neighbors",
+      "connect",
+      "walk",
+      "access",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1042/Neighborhood-Walks"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-339",
+    "spreadsheet_id": "MI-339",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Neighborhood Walks",
+    "summary": "Neighborhood Walks, organized by South Central Neighborhood Leader Jordan Green, aims to foster community connections in Arvada through guided walking events. Upcoming walks include a route at Long Lake Regional Park on May 9 and another at Danny Kendrick Park East on June 13, both designed to encourage residents to explore different neighborhoods and strengthen local ties. Participants can register online for each event to access specific details about the walking routes.",
+    "body": "## Neighborhood Walks: Created by neighbors, for neighbors\n\nInspired by a motivation to connect with others, South Central Neighborhood Leader Jordan Green organizes and leads each walk. Neighborhood Walks provides an opportunity to get outside, learn about Arvada and connect with people in the community. This will result in creating a stronger and better place to live.\n\nWalk routes are planned for all four corners of Arvada, allowing more neighbors and different neighborhoods access to each route. This will allow neighbors to learn more about Arvada and visit new neighborhoods for the first time. All are encouraged to join in building stronger connections to your community.\n\n## Upcoming Neighborhood Walks\n\n### Long Lake: Saturday, May 9\n\nNeighbors will meet at Long Lake Regional Park and walk North on the Ralston Creek Trail. Walkers will pass by the Ralston Water Treatment Plant at the Arvada-Blunn Reservoir before looping back to Long Lake Regional Park.\n\n[Register to attend the Long Lake walk](https://docs.google.com/forms/d/e/1FAIpQLSdHc1Vt6KSAIWoMU8-IQ2UDEcNhucXLFkceIWm5K-fMqN72Gg/viewform?usp=dialog), where you will also find exact details including the planned walking route.\n\n### Danny Kendrick Park East: Saturday, June 13\n\nNeighbors will meet at Danny Kendrick Park East and walk East on the Ralston Creek Trail. Walkers will walk to Oak St before looping back to Danny Kendrick Park East.\n\n[Register to attend the Danny Kendrick Park walk](https://docs.google.com/forms/d/e/1FAIpQLSesHwx0Gq7nMT1dhMZV2KUS9zR6nr4Xh0M_JWSH8sdaNZtXlg/viewform?usp=sharing&ouid=115399578466763147101), where you will also find exact details including the planned walking route.\n\n![](/ImageRepository/Document?documentId=5523)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

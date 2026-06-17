@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "applicability",
+      "exemptions",
+      "generally",
+      "requirements",
+      "forth",
+      "article",
+      "apply",
+      "applications",
+      "base",
+      "stations"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-1-2"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-1. PURPOSE; PUBLIC INTEREST; FINDINGS; AND RELATIONSHIP TO OTHER REGULATIONS"
+  },
+  "content": {
+    "title": "7-1-1-2. Applicability; exemptions.",
+    "summary": "A.\tGenerally. The requirements set forth in this Article shall apply to all WCF applications for Base Stations (including Alternative Tower Structures), Small Cell Facilities located within Rights-of-Way, and Towers as defined in Article 11-3 and further addressed herein.\nB.\tExemptions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-1-2. Applicability; exemptions.",
+        "a": "A.\tGenerally. The requirements set forth in this Article shall apply to all WCF applications for Base Stations (including Alternative Tower Structures), Small Cell Facilities located within Rights-of-Way, and Towers as defined in Article 11-3 and further addressed herein.\nB.\tExemptions. The requirements set forth in this Article shall not apply to:\n  1.\tAmateur Radio Antennas. Amateur radio antennas that are owned and operated by a federally licensed amateur radio station operator or are used exclusively for receive-only antennas are subject to Section 5-1-5-4, Satellite Dishes and Antennas; Amateur Radio Antennas, and not this Article, except all Amateur radio antennas and OTARD devices shall comply with the Operational Standards in Division 7-1-2 below.\n  2.\tPre-existing WCFs. Any WCF for which a permit has been issued prior to the effective date of these regulations (a \"pre-existing WCF\"), shall not be required to meet the requirements of this Article, other than the requirements of the Operational Standards in Division 7-1-2 below. Changes and additions to pre-existing WCFs (including trading out of antennas for an equal number of antennas) shall meet applicable requirements of this Article. Notwithstanding the foregoing, any modification qualifying as an eligible facilities request shall be evaluated under this Article.\n  3.\tMiscellaneous Antennas. Antennas used for reception of television, multi-channel video programming and radio (e.g., OTARD antennas, television broadcast band antennas, and broadcast radio antennas) are subject to Section 5-1-5-4, Satellite Dishes and Antennas; Amateur Radio Antennas, and not this Article, except all OTARD devices shall comply with the Operational Standards in Division 7-1-2 below.\n  4.\tEmergency WCFs. A WCF installed upon the declaration of a state of emergency by the federal, state, or local government, or a written determination of public necessity by the City.\n  5.\tTemporary WCFs. A temporary WCF installed for providing coverage of a special event such as a news coverage or sporting event, must be included in the special event permit application.\nC.\tPermits Required.\n  1.\tNo person, firm, or corporation shall construct, establish, build or cause to be constructed, established or built a WCF without first having obtained land use approvals as required in this Code, a lease (as applicable), pole attachment agreement or license (as applicable), and a building permit or right-of-way permit for this purpose.\n  2.\tAll WCF permits shall expire and be of no further force and effect 180 days following the date of City approval unless, pursuant to the discretion of the Director, prior to the date of expiration:\n    a.\tConstruction has been diligently pursued towards completion of the project; or\n    b.\tApproval has been extended in accordance with subsection 3 below.\n  3.\tPrior to the expiration of a WCF permit, one 180-day extension of the permit may be authorized by the Director upon a written request by the Applicant. An extension may be granted if a review of the permit shows that no major changes in the City's applicable development or land use regulations or in the development pattern of the surrounding properties has occurred, as determined by the Director. If a WCF permit expires, no further development of the facility may occur until a new permit application is submitted, reviewed and approved in accordance with this Code, subject to all application and processing fees."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

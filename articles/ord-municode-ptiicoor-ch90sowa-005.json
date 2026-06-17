@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "violations",
+      "penalty",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "violate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-5"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-5. - Violations and penalty.",
+    "summary": "It shall be unlawful for any person to violate a provision of this chapter. Violators\n               shall be subject to the penalties as contained in\nsection 1-5\nof the Arvada City Code and may also be subject to civil remedies. A separate offense\n               shall be deemed committed upon each …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-5. - Violations and penalty.",
+        "a": "It shall be unlawful for any person to violate a provision of this chapter. Violators\n               shall be subject to the penalties as contained in\nsection 1-5\nof the Arvada City Code and may also be subject to civil remedies. A separate offense\n               shall be deemed committed upon each day such person is in violation of this chapter\n               unless otherwise provided in this chapter.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

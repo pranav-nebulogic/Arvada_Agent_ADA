@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "storm",
+      "drainage",
+      "facilities",
+      "design",
+      "including",
+      "limited",
+      "best",
+      "management",
+      "practices",
+      "permanent"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-3-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-3. STORMWATER AND DRAINAGE CONTROL"
+  },
+  "content": {
+    "title": "4-1-3-3. Storm drainage facilities design.",
+    "summary": "A.\tStorm Drainage Facilities.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-3-3. Storm drainage facilities design.",
+        "a": "A.\tStorm Drainage Facilities. Design of storm drainage facilities, including but not limited to best management practices for permanent stormwater quality, shall be based upon the Urban Storm Drainage Criteria Manual of the Urban Drainage and Flood Control District, the City of Arvada Engineering Code of Standards and Specifications, and the City's Municipal Separate Storm Sewer System Permit requirements, as may be amended from time to time.\nB.\tOn-Site Drainage Control. The best management practices for on-site drainage should be selected and designed to avoid or minimize, to the extent practicable, adverse water quality impacts of stormwater discharged from the development. Unless a regional drainage solution is required, the following shall apply:\n  1.\tOn-Site Drainage Facilities. Drainage facilities shall be provided on-site to control drainage, storm and surface waters within the development, and all drainage originating off-site traversing or flowing adjacent to the development.\n  2.\tDetention. Designs shall provide detention facilities on-site to contain all stormwaters generated which are in excess of historic flows. These detention facilities shall be designed so that the peak flow from the property is as nearly equal, as practicable, to that which is deemed historic. Detention shall not be constructed within the 100-year floodplain.\n  3.\tUnderground Water Quality and Detention Facilities. Although surface stormwater quality and detention is encouraged, in some cases underground appurtenances are desired and allowed. Water quality must meet the City's Municipal Separate Storm Sewer System requirements to be approved for installation. Written verification of successful installation shall be submitted to the City Engineer from the manufacturer of the underground appurtenance prior to the first Certificate of Occupancy for the development.\n  4.\tManagement Practices. Permanent stormwater quality control shall be maintained by the property owner consistent with an Operations and Maintenance Manual (O&M Manual) submitted with the final site plan review. If not maintained, the City can access, maintain, and shall receive reimbursement from the property owner for maintenance conducted, or a lien will be placed on the property.\n  5.\tRegional Drainage Solutions. Regional drainage solutions may be required for the development as determined by the City Engineer.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

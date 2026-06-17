@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "use",
+      "service",
+      "charge",
+      "all",
+      "fees",
+      "charges",
+      "paid"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-356"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-356. - Use of service charge.",
+    "summary": "(a)\nAll fees and charges paid and collected pursuant to this article shall be credited\n               and deposited into a special enterprise fund, designated as the \"stormwater management\n               utility fund,\" and shall not be transferred to any other account of the city, except\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-356. - Use of service charge.",
+        "a": "(a)\nAll fees and charges paid and collected pursuant to this article shall be credited\n               and deposited into a special enterprise fund, designated as the \"stormwater management\n               utility fund,\" and shall not be transferred to any other account of the city, except\n               to pay for project costs, including payments for obligation permitted under this section.\n(b)\nThe city may pledge all or any portion of the service charge, or any other fees and\n               charges collected pursuant to this article, including those anticipated to be collected,\n               to the payment of principal, interest, premium, if any, and reserves for general obligation\n               bonds, revenue bonds or any other obligation lawfully issued or otherwise contracted\n               for by the city for the payment of other financing of project costs, or for the purpose\n               of refunding any obligations issued or otherwise contracted for such purpose.\n(c)\nBudgeting and accounting for the stormwater management utility fund shall conform\n               with requirements and practices of the city with respect to such matters as may be\n               applicable under this Code, or the laws of the state.\n(d)\nAny obligations issued or contracted for by the city pursuant to this article, or\n               any other applicable provision of law, may be issued without the necessity of an election,\n               unless such obligation shall be a general obligation of the city; in which event such\n               obligation shall be issued only upon compliance with the terms and provisions of this\n               Code, as may be applicable. All obligations shall be issuable in such form, shall\n               mature at such time and in such amounts, shall be payable at such place, either within\n               or without the state, shall be subject to such terms or redemption and shall be secured\n               in such manner as the city council of the city shall determine. Such obligations may\n               be sold at public or private sale under such terms and conditions as the city council\n               of the city shall determine. All other terms, provisions and other matters relating\n               to such obligations shall be such as are approved by the city council of the city.\n(Code 1981, § 33-256; Ord. No. 3701, § 1, 6-18-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-356"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

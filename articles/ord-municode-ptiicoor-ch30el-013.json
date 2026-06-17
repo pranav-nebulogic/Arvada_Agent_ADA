@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "voluntary",
+      "code",
+      "fair",
+      "campaign",
+      "practices",
+      "persons",
+      "candidates"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-13"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-13. - Voluntary code of fair campaign practices.",
+    "summary": "(a)\nPersons who are candidates for public office in the city or persons representing organizations\n               who campaign in support or opposition of a ballot issue may voluntarily commit to\n               conduct themselves in accordance with a code of fair campaign practices. The Arvada\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-13. - Voluntary code of fair campaign practices.",
+        "a": "(a)\nPersons who are candidates for public office in the city or persons representing organizations\n               who campaign in support or opposition of a ballot issue may voluntarily commit to\n               conduct themselves in accordance with a code of fair campaign practices. The Arvada\n               Voluntary Code of Fair Campaign Practices shall include the following statements:\n\"As I seek public office in Arvada, (as I seek to support/oppose _______ ballot issue)\n               I honor and will abide by the following principles as a guide to my conduct.\n(1)\nI will address valid issues in my campaign, will tell the truth as to my intentions\n               if I am elected.\n(2)\nI will not engage in conduct that seeks to deflect the public's attention by falsifying\n               issues that obscure real concerns of the electorate.\n(3)\nI will limit my comments or statements to legitimate challenges to that person's record,\n               qualifications, and positions.\n(4)\nI will neither use nor permit the use of untruths, deception, or vulgar or coarse\n               and abusive innuendos about an opponent's personal and/or business life, nor will\n               I make or condone unfounded accusations discrediting that person's integrity.\n(5)\nI will take personal responsibility for approving or disavowing the substance of attacks\n               on my opponent that may come from third parties supporting my candidacy.\n(6)\nI will not use or permit the use of campaign material that falsifies, distorts, or\n               misrepresents facts, or will deceive the public as to the real issues before the electorate.\n(7)\nI will neither use nor permit the use of appeals to bigotry in any form, and specifically\n               to prejudice based on race, sex, sexual orientation, religion, or national origin.\n(8)\nI will neither use nor permit the use of last-minute charges made without giving any\n               opponent reasonable time in which to respond before election day.\n(9)\nI will demand that persons or organizations supporting me maintain these standards\n               of fairness.\"\n(b)\nThe city clerk shall have available forms which may be signed and filed with the city\n               clerk which contain the statements included in subsection (a) of this section.\n(c)\nThere shall be no codified penalty to enforce the provisions of this section. The\n               citizens of the city shall judge violations of this voluntary code of fair campaign\n               practices in the court of public opinion.\n(Code 1981, § 11-13; Ord. No. 3511, § 2, 2-1-1999)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-13"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

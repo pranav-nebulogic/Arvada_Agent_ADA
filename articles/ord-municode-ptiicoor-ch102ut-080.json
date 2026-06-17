@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "lost",
+      "water",
+      "rate",
+      "unmetered",
+      "used",
+      "due",
+      "activities"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-179"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-179. - Lost water rate.",
+    "summary": "Unmetered water lost or used due to activities such as, but not limited to, excavation,\n               demolition, landscaping, or intentional acts of vandalism or theft will be billed\n               to the responsible party at the rate of $9.31 per 1,000 gallons. The estimated volume\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-179. - Lost water rate.",
+        "a": "Unmetered water lost or used due to activities such as, but not limited to, excavation,\n               demolition, landscaping, or intentional acts of vandalism or theft will be billed\n               to the responsible party at the rate of $9.31 per 1,000 gallons. The estimated volume\n               of unmetered lost water will be based on main size, break size, water pressure, flow\n               time, or other available data.\n(Code 1981, § 33-94; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, § 30, 10-16-1989;\n               Ord. No. 2931, § 19, 10-19-1992; Ord. No. 3023, § 8, 11-15-1993; Ord. No. 3127, §\n               19, 10-24-1994; Ord. No. 3223, § 20, 10-23-1995; Ord. No. 3297, § 13, 10-21-1996;\n               Ord. No. 3403, § 26, 10-20-1997; Ord. No. 3490, § 2, 10-26-1998; Ord. No. 3560, §\n               15, 10-11-1999; Ord. No. 3650, § 13, 10-23-2000; Ord. No. 3722, § 13, 10-8-2001; Ord.\n               No. 3773, § 13, 10-21-2002; Ord. No. 3839, § 13, 10-13-2003; Ord. No. 3920, § 13,\n               11-8-2004; Ord. No. 3969, § 13, 10-10-2005;\nOrd. No. 4027, § 13, 10-16-2006\n;\nOrd. No. 4099, § 13, 11-19-2007, eff. 1-1-2008\n;\nOrd. No. 4139, § 15, 11-17-2008, eff. 1-1-09\n;\nOrd. No. 4184, § 16, 10-19-2009, eff. 1-1-2010\n;\nOrd. No. 4233, § 8, 10-25-2010, eff. 1-1-2011\n;\nOrd. No. 4305, § 9, 11-14-2011, eff. 1-1-2012\n;\nOrd. No. 4359, § 9, 10-22-2012, eff. 1-1-2013\n;\nOrd. No. 4409, § 9, 10-21-2013, eff. 1-1-2014\n;\nOrd. No. 4464, § 9, 10-20-2014, eff. 1-1-2015\n;\nOrd. No. 4523, § 9, 10-19-2015, eff. 1-1-2016\n; Ord. No. 4569, § 9, eff. 1-1-2017; Ord. No.\n4609\n, § 9, eff. 1-1-2018;\nOrd. No. 4657\n, § 9, eff. 1-1-2019; Ord. No.\n4709\n, § 9, 10-21-2019; Ord. No.\n4746\n, § 9, 11-2-2020; Ord. No.\n4784\n, § 10, 11-15-2021;\nOrd. No. 4817\n, § 10, 10-17-2022, eff. 1-1-2023;\nOrd. No. 4858\n, § 10, 10-16-2023;\nOrd. No. 4879\n, § 10, 10-21-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-179"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

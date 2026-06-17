@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-41-010",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "irrigation",
+      "ditches",
+      "different",
+      "than",
+      "stormwater",
+      "receive",
+      "storm",
+      "runoff",
+      "Parks & Open Space - Ditches"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=41"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-are-irrigation-ditches-different-than-stormwater-ditches",
+    "faq_category_name": "Parks & Open Space - Ditches"
+  },
+  "content": {
+    "title": "How are irrigation ditches different than stormwater ditches?",
+    "summary": "Stormwater ditches receive storm runoff from your neighborhood and direct the water to the nearest natural stream, such as Little Dry Creek or Ralston Creek. Irrigation ditches run seasonally to provide water for irrigation.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How are irrigation ditches different than stormwater ditches?",
+        "a": "Stormwater ditches receive storm runoff from your neighborhood and direct the water to the nearest natural stream, such as Little Dry Creek or Ralston Creek. Irrigation ditches run seasonally to provide water for irrigation."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

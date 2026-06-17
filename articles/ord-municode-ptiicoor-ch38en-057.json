@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "distribution",
+      "persons",
+      "under",
+      "age",
+      "identification",
+      "check",
+      "signage"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-305"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-305.5. - No distribution to persons under age 21; identification check and signage required; no sale by minors.",
+    "summary": "(a)\nIt shall be unlawful to give, sell, distribute, dispense, or offer for sale to any\n               person who is under 21 years of age a tobacco product or nicotine product, or coupon\n               therefor.\n(b)\nIt shall be unlawful to give, sell, distribute, dispense, or offer for sale a tobacc…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-305.5. - No distribution to persons under age 21; identification check and signage required; no sale by minors.",
+        "a": "(a)\nIt shall be unlawful to give, sell, distribute, dispense, or offer for sale to any\n               person who is under 21 years of age a tobacco product or nicotine product, or coupon\n               therefor.\n(b)\nIt shall be unlawful to give, sell, distribute, dispense, or offer for sale a tobacco\n               product or nicotine product, or coupon therefor, to a person who appears to be under\n               the age of 50 years without first examining the government-issued photographic identification\n               of the person to confirm that they are at least 21 years of age.\n(c)\nThe owner, operator, manager, or other person who controls any business that sells\n               tobacco products or nicotine products shall post and keep at all times visible to\n               the public in a conspicuous place on the premises, a sign to be provided by the city\n               clerk's office which shall read as follows:\n\"WARNING: It is illegal to sell cigarettes, tobacco products, or nicotine products\n               to any person under 21 years of age. State law requires that, to purchase tobacco\n               products or nicotine products at this retail location, a person must present a valid\n               government-issued photographic identification at the time of purchase if the person\n               appears to be under 50 years of age.\"\n(d)\nThe owner, operator, manager, or other person who controls any business that sells\n               tobacco products or nicotine products shall not permit a person under 18 years of\n               age to sell or participate in the sale of cigarettes, tobacco products, or nicotine\n               products. This section does not prohibit an employee of a business who is 18 years\n               of age or older but under 21 years of age from handling or otherwise having contact\n               with cigarettes, tobacco products, or nicotine products that are offered for sale\n               at such business.\n(Ord. No.\n4127\n, § 4, 10-6-2008; Ord. No.\n4501\n, § 5, 5-4-2015; Ord. No.\n4773\n, § 4, 8-16-2021)\nEditor's note—\nOrd. No.\n4773\n, § 4, adopted Aug. 16, 2021, changed the title of § 38-305.5 from \"No distribution\n               to minors\" to read as set out herein."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-305"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

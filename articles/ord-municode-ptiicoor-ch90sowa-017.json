@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "term",
+      "license",
+      "renewal",
+      "all",
+      "licenses",
+      "issued",
+      "hereunder"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-55"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-55. - Term of license and renewal.",
+    "summary": "(a)\nAll licenses issued hereunder shall expire on December 31 after the date of issuance,\n               unless cancelled or revoked, and may be renewed upon submission of a completed application\n               for renewal and payment of the required fee. The application shall include a current\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-55. - Term of license and renewal.",
+        "a": "(a)\nAll licenses issued hereunder shall expire on December 31 after the date of issuance,\n               unless cancelled or revoked, and may be renewed upon submission of a completed application\n               for renewal and payment of the required fee. The application shall include a current\n               description of the business recycling program and any efforts the applicant has made\n               to increase customer recycling. Licenses are non-transferable.\n(b)\nThe renewal application shall be reviewed by the city manager or his or her designee\n               who shall have the power to grant or deny such license renewal and to impose reasonable\n               limitations and restrictions on any license renewed.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-55"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

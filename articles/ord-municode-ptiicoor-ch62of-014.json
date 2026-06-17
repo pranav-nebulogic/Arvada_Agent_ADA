@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "interference",
+      "city",
+      "official",
+      "person",
+      "shall",
+      "willfully",
+      "hinder"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-44",
+      "§ 17-22"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-44. - Interference with city official.",
+    "summary": "No person shall willfully hinder, obstruct or otherwise interfere with any city official\n               or employee of the city in the discharge of his official duties.\n(Code 1960, § 17-22; Code 1981, § 21-13)\nState Law reference—\nObstructing government operations, C.R.S. § 18-8-102.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-44. - Interference with city official.",
+        "a": "No person shall willfully hinder, obstruct or otherwise interfere with any city official\n               or employee of the city in the discharge of his official duties.\n(Code 1960, § 17-22; Code 1981, § 21-13)\nState Law reference—\nObstructing government operations, C.R.S. § 18-8-102."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-44",
+      "§ 17-22"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

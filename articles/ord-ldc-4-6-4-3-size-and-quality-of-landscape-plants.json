@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "size",
+      "quality",
+      "landscape",
+      "plants",
+      "generally",
+      "general",
+      "plant",
+      "materials",
+      "installed",
+      "according"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-4-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-4. CALCULATION OF LANDSCAPE REQUIREMENTS"
+  },
+  "content": {
+    "title": "4-6-4-3. Size and quality of landscape plants.",
+    "summary": "A.\tGenerally. In general, plant materials that are installed according to the requirements of this Article shall meet the standards that are set out in this Section.\nB.\tMinimum Size of Landscape Materials.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-4-3. Size and quality of landscape plants.",
+        "a": "A.\tGenerally. In general, plant materials that are installed according to the requirements of this Article shall meet the standards that are set out in this Section.\nB.\tMinimum Size of Landscape Materials. The minimum sizes of landscape materials used to satisfy the requirements of this Article are set out in Table 4-6-4-3, Minimum Size of Landscape Materials. Larger sizes may be required to ensure survival or to implement a condition of approval of a planned unit development or conditional use.\nC.\tSpecification of Landscape Materials.\n  1.\tAll new plant material shall meet specifications of the American Standard for Nursery Stock (ANSI Z60.1) and 8 CCR § 1203-5, Rules Pertaining to the Administration and Enforcement of the Colorado Nursery Act.\n  2.\tPlant materials shall be true to name and type, and first class representatives of their species or varieties.\n  3.\tContainer and bare root tree plantings are not permitted without the written permission of the Director upon good cause shown."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-4-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

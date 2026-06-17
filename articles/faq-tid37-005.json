@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-37-006",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "get",
+      "new",
+      "vehicle",
+      "license",
+      "plate",
+      "temporary",
+      "simply",
+      "log",
+      "Residential Parking Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=37"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-if-i-get-a-new-vehicle-license-plate-or-have-a-temporar",
+    "faq_category_name": "Residential Parking Permits"
+  },
+  "content": {
+    "title": "What if I get a new vehicle, license plate or have a temporary plate?",
+    "summary": "Simply log in to the site, click on \"Manage Permit\", then click \"Edit\" next to the vehicle that is registered, and edit the information on the following screen. If the temporary plate is replaced with a permanent plate, follow the same instructions to input the new plate.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What if I get a new vehicle, license plate or have a temporary plate?",
+        "a": "Simply log in to the site, click on \"Manage Permit\", then click \"Edit\" next to the vehicle that is registered, and edit the information on the following screen. If the temporary plate is replaced with a permanent plate, follow the same instructions to input the new plate."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "water",
+      "sewer",
+      "stormwater",
+      "systems",
+      "bill",
+      "call",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/433/Water-Sewer-Stormwater-Systems"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-018",
+    "spreadsheet_id": "RW-018",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Water, Sewer, Stormwater Systems",
+    "summary": "The City of Arvada manages extensive water, sewer, and stormwater systems, delivering over 6.2 billion gallons of water annually through 531 miles of water lines and maintaining 410 miles of sanitary sewer mains that transport 3.4 billion gallons of wastewater for treatment. Residents can report emergencies, address changes, or missed waste pickups by calling customer service at 720-898-7070, and additional utility bill inquiries can be addressed through the city's website.",
+    "body": "**In case of emergency,** such as a water or sewer main break, call **720-898-7070**.\n\nFor**address changes or service transfers** please call customer service at 720-898-7070 (Monday through Friday 8 am to 5 pm). For **missed waste and recycling pick up** please call 720-898-7575. For additional utility bill questions, please reference the [Pay My Bill page](/453/Pay-My-Bill) or [email us](/cdn-cgi/l/email-protection#5c292835303d383135321c3d2e2a3d383d72332e3b72).\n\n## Water\n\nThe City of Arvada treats and delivers over 6.2 billion gallons of water annually to residents of Arvada via 531 miles of water lines, two water treatment plants, nine water tanks and six pump stations.\n\n## Sewer\n\nThe City maintains 9,300 manholes and 410 miles of sanitary sewer mains that carry 3.4 billion gallons of wastewater annually to the [Metro Water Recovery](https://www.metrowaterrecovery.com/) plant for treatment.\n\n## Stormwater\n\nThe City also maintains, rehabilitates, and replaces existing stormwater structures, funds construction of new drainage facilities, and conducts stormwater quality monitoring and permitting.\n\n### [FAQs](/Faq.aspx?TID=32)\n\n1. [How can I pay my water bill?](/Faq.aspx?QID=145)\n2. [How can I report a water issue?](/Faq.aspx?QID=149)\n3. [How can I establish water and sewer service?](/Faq.aspx?QID=148)\n4. [How can I get help paying my water bill?](/Faq.aspx?QID=421)\n5. [What steps can I take to reduce my water bill amount?](/Faq.aspx?QID=422)\n\n[View All](/Faq.aspx?TID=32)\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

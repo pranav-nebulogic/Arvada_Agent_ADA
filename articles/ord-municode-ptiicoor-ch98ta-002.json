@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-32"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-32. - Definitions.",
+    "summary": "The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nBasic local exchange service\nmeans and includes the business and occupation of pr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-32. - Definitions.",
+        "a": "The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nBasic local exchange service\nmeans and includes the business and occupation of providing to residents as later\n               defined herein the ability to originate and terminate visual and/or voice grade communications\n               through the local network with substantially all other residents having telephone\n               or radio telephone stations regardless whether the provider owns, leases, or uses\n               for a fee such local network. This is intended to be an inclusive definition without\n               regard to whether a particular provider is regulated by the Colorado Public Utilities\n               Commission.\nBasic local exchange service provider\nor\nnew provider\nmeans any company or entity other than the incumbent provider who enters the business\n               of providing basic local exchange service.\nLine\nmeans a separate telephone number or telephone circuit identification number provided\n               to a resident at retail, except that, to the extent a provider provides basic local\n               exchange service through trunks, a line means a network access register, or its functional\n               equivalent, provided to a resident at retail. The provisions of wireless, cable, mobile\n               radio, or other technologies for the purpose of providing basic local exchange service\n               to any business or entity shall be deemed the provision of lines under this article\n               and will be applicable to this tax.\nLocal network\nmeans the physical plant having the capacity to transmit and receive visual and/or\n               verbal communication which are directed from one resident to another resident's specific\n               apparatus, either at a fixed location or mobile by an identification code, (i.e.,\n               telephone number) of the transmitter's choosing at the time the communication is initiated.\nProvider\nmeans the companies or entities providing basic local exchange service in the city.\nProvider's current line count\nmeans the number of lines for which a provider provides basic local exchange service\n               during the current month within the city under\nsection 98-33\n.\nResident\nmeans any individual, corporation, partnership, joint venture, company, firm, association,\n               proprietorship or other entity residing or having a place of business within the city.\n(Code 1981, § 31-17; Ord. No. 3783, § 2, 12-16-2002)\nCross reference—\nDefinitions,\n§ 1-2\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-32"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

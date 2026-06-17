@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "contractor",
+      "offices",
+      "temporary",
+      "construction",
+      "uses",
+      "generally",
+      "trailers",
+      "connection",
+      "site",
+      "area"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-4-3"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-4. TEMPORARY USES"
+  },
+  "content": {
+    "title": "3-1-4-3. Contractor offices and temporary construction uses.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-4-3. Contractor offices and temporary construction uses.",
+        "a": "A.\tGenerally. The use of construction trailers in connection with site construction, or an area used for the temporary storage of building materials and equipment necessary for construction of a permanent use, is allowed as provided in Section 3-1-4-2, Temporary Uses by Zoning District, and the provisions of this Section. This temporary use is authorized by letter from the Director in furtherance of an approved development plan and must meet all building requirements.\nB.\tTerm of Approval.\n  1.\tCommencement of Temporary Use. A temporary construction trailer, or a temporary construction yard, shall be moved, erected, or established on a construction site no earlier than two weeks prior to the date on which construction actually commences.\n  2.\tExpiration of Temporary Use Approval.\n    a.\tThe term of a temporary use approval for construction uses shall automatically expire 30 days after completion of construction, or upon cessation of construction for more than 60 days, or one year after issuance, whichever occurs first.\n    b.\tIf construction is interrupted and ceases for more than 60 days, excluding weather delays, a construction trailer shall be removed until actual construction commences again.\n  3.\tExtensions. The Director may grant extensions if the Applicant maintains active and continuous construction on the site or within the subdivision.\nC.\tSiting Requirements.\n  1.\tSetbacks.\n    a.\tA temporary construction trailer, or a temporary construction yard, shall be located on the subject property on which construction is progressing, and shall not be located within 25 feet of any adjoining residential lot that is not part of the subject property.\n  2.\tClearance. All temporary construction trailers shall have at least ten feet on all sides for clearance.\nD.\tOperational Standards.\n  1.\tMaintenance. A temporary construction trailer, or a temporary construction yard shall be maintained in good and orderly condition during the time of its use. Construction yards and sites shall be regularly mowed, and weed growth shall be controlled. Trash and rubbish barrels/receptacles shall be provided on-site and trash pick-up and removal shall occur on at least a weekly basis.\n  2.\tEnclosure and Security. Fencing up to six feet in height may be installed within the setbacks for the duration of the temporary use permit.\n  3.\tDwelling Prohibited. A temporary construction trailer shall be used only as temporary field offices and for storage of incidental equipment and supplies, and shall not be used as any type of dwelling.\n  4.\tFire Hazards. No flammable materials shall be stored in a temporary construction trailer or construction shed.\nE.\tCompletion of Temporary Use. Upon completion of the temporary use, the site shall be cleaned, all evidence of the use(s) removed, and left in a condition that minimizes adverse impacts to the site itself and to surrounding properties.\nF.\tCity Public Works Projects. With the consent of the property owner, City Public Works projects may use private property in the vicinity of a public works project for the siting of construction trailers."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-4-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

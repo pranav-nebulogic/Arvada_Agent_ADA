@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contracting",
+      "authority",
+      "authorized",
+      "individuals",
+      "following",
+      "employees",
+      "procure"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-61"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-61. - Contracting authority.",
+    "summary": "(a)\nAuthorized individuals.\nThe following employees are authorized to procure goods and services and perform\n               other duties described in this chapter for the work system, department, division,\n               or program for which they are responsible:\n(1)\nThe city manager;\n(2)\nThe deputy…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-61. - Contracting authority.",
+        "a": "(a)\nAuthorized individuals.\nThe following employees are authorized to procure goods and services and perform\n               other duties described in this chapter for the work system, department, division,\n               or program for which they are responsible:\n(1)\nThe city manager;\n(2)\nThe deputy city manager;\n(3)\nA work system director;\n(4)\nThe city engineer;\n(5)\nThe city's water treatment plant operator; and\n(6)\nThe purchasing manager. The purchasing manager is authorized to procure goods and\n               services and perform other duties for the purchasing program or for work systems or\n               departments as described in this chapter and the administrative policy.\nThe city manager may designate any other city employee to perform duties as described\n               in this chapter and the policy.\n(b)\nTemporary delegation of authority.\nEach authorized individual may temporarily delegate his or her purchasing duties\n               to another employee in his or her chain of command. Any such delegation or notification\n               must be in writing. Any person designated by the city to serve in an acting capacity\n               for any of these positions is authorized to perform the purchasing duties set forth\n               for that position while he or she serves in an acting capacity.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

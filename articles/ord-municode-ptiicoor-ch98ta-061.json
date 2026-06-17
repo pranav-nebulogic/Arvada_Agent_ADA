@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "intent",
+      "purpose",
+      "city",
+      "recognizes",
+      "low",
+      "income"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-121"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-121. - Legislative intent and purpose.",
+    "summary": "The city recognizes that low-income residents may face challenges associated with\n               the rising cost of living and taxes. In furtherance of this recognition, the city\n               wishes to provide financial assistance to qualifying, low-income residents in the\n               form of a…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-121. - Legislative intent and purpose.",
+        "a": "The city recognizes that low-income residents may face challenges associated with\n               the rising cost of living and taxes. In furtherance of this recognition, the city\n               wishes to provide financial assistance to qualifying, low-income residents in the\n               form of a rebate program. The city council intends for this rebate program to promote\n               resident welfare by easing the hardship caused by the increasing cost of living and\n               city sales tax. The city council finds that this rebate program, as set forth in this\n               article, is necessary and directly related to the public's health, safety, and welfare.\n(\nOrd. No. 4887\n, § 1, 1-27-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-121"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "pioneer",
+      "park",
+      "playground",
+      "renovation",
+      "bars",
+      "gravel",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1405/Pioneer-Park-Playground-Renovation"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-408",
+    "spreadsheet_id": "MI-408",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Pioneer Park Playground Renovation",
+    "summary": "The Pioneer Park playground in north Arvada will undergo renovation in 2026 as part of the City's Taking Lasting Care (TLC) program. Community feedback was gathered through a survey open until October 31, 2025, and the project timeline includes reviewing survey results, finalizing the design in early 2026, and completing construction by summer 2026.",
+    "body": "![small playground with slides, monkey bars and pea gravel ](/ImageRepository/Document?documentID=6489 \"small playground with slides, monkey bars and pea gravel \")\n\nAs part of the City's [Taking Lasting Care (TLC) program](/860), the playground at Pioneer Park is getting renovated in 2026! Pioneer Park is located at [12100 W. 82nd Ave.](https://maps.app.goo.gl/2WiqJzyKwP2SwvmP9) in north Arvada.\n\nThe first step in the project was gathering feedback from community members about what they would like to see included in the new playground.\n\nThe Pioneer Park playground survey was open through Oct. 31, 2025. Thank you to everyone who participated in the survey! [Sign up for the project email list](https://signup.e2ma.net/signup/2019664/1717219/) to receive updates.\n\n### [Project Email List](https://signup.e2ma.net/signup/2019664/1717219/ \"Pioneer Park Email Signup\")\n\n## Playground replacement timeline\n\n- Fall 2025: Survey open for community members to provide feedback\n- Winter 2025-26: The City's Parks and Urban Design team will review the results of the survey and incorporate that feedback in to a Request for Proposal (RFP). After the solicitation closes, the City will review the proposals and select the best consultant based on their proposed design\n- Spring 2026: The City will share the final playground design with the community\n- Spring/Summer 2026: Construction will begin by demolishing the old playground and building the new one\n- Summer 2026: Construction completed and new playground is open to the public\n\nAll dates are approximate and subject to change..",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

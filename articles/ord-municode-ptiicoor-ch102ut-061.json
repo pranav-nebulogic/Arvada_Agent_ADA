@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "waiver",
+      "city",
+      "council",
+      "water",
+      "system",
+      "development",
+      "charges"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-162"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-162. - Waiver by city council—Water system development charges.",
+    "summary": "Water system development charges for residential, commercial, institutional, governmental\n               and industrial uses applicable within the city limits, and outside the city limits,\n               may be waived or reduced only by express city council approval upon a finding and\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-162. - Waiver by city council—Water system development charges.",
+        "a": "Water system development charges for residential, commercial, institutional, governmental\n               and industrial uses applicable within the city limits, and outside the city limits,\n               may be waived or reduced only by express city council approval upon a finding and\n               determination by the city council that such waiver or reduction is in the best interest\n               of the city.\n(Code 1981, § 33-78; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 4819, § 19, 10-17-2022,\n               eff. 7-1-2023; Ord. No.\n4854\n, § 4, 9-11-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-162"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

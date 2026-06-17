@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "site",
+      "assessment",
+      "prior",
+      "preliminary",
+      "plat",
+      "development",
+      "plan"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-167"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-167. - Site assessment prior to preliminary plat or development plan.",
+    "summary": "The city may require a Phase I site assessment be performed on property located within\n               the city at the owner's expense, at the time a preliminary plat or development plan\n               is submitted by the owner to the city for review when based on physical examination\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-167. - Site assessment prior to preliminary plat or development plan.",
+        "a": "The city may require a Phase I site assessment be performed on property located within\n               the city at the owner's expense, at the time a preliminary plat or development plan\n               is submitted by the owner to the city for review when based on physical examination\n               of the property or because of information or records brought to its attention, the\n               city has a reasonable belief that a condition of environmental contamination by hazardous\n               substances exists which may affect the health, safety, or welfare of persons living\n               in or working at or residing in or traveling through the proposed development area.\n(1)\nIf a condition of environmental contamination is revealed by the Phase I assessment,\n                  the owner shall, at owner's expense, perform a Phase II assessment if owner continues\n                  to seek approval by the city of owner's development plan. If the Phase II assessment\n                  indicates that a Phase III assessment is necessary, owner shall perform, at owner's\n                  expense, a Phase III assessment if owner continues to seek approval of a development\n                  plan.\n(2)\nThe city shall not approve any final plat or development plan which has not provided\n                  for remediation of known hazardous substance discovered or revealed by an assessment.\n                  Remediation of hazardous substances shall be to a satisfactory level and in compliance\n                  with standards established by the Environmental Protection Agency, the Colorado Department\n                  of Public Health and Environment and the city.\n(Code 1981, § 25-86; Ord. No. 3009, § 1, 10-4-1993)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-167"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "vibrant",
+      "community",
+      "neighborhoods",
+      "learn",
+      "design",
+      "division",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/196/Vibrant-Community-and-Neighborhoods"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-581",
+    "spreadsheet_id": "MI-581",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Vibrant Community and Neighborhoods",
+    "summary": "The Vibrant Community and Neighborhoods Department aims to enhance the quality of life in Arvada by providing various services, including parks, urban design, and environmental education. The department encourages community engagement through recreational activities, events, and sustainability initiatives. For inquiries, residents can report issues or ask questions through the provided contact link.",
+    "body": "## Mission\n\nThe mission of the Vibrant Community and Neighborhoods Department is to provide parks, urban design, golf, banquet, event, trails and environmental education services to the Arvada community and visitors so they can play, celebrate, and engage in the vitality of our welcoming community.\n\n- Learn more about the [Park and Urban Design Division](/519)\n- Learn more about the [Park Maintenance Division](/523/Parks-Maintenance)\n- Learn more about the [Open Space and Trails](/557)\n- Learn more about environmental education opportunities at [Majestic View Nature Center](https://majesticviewnaturecenter.arvada.org/)\n- Learn more about the [City Golf Courses](/634)\n- Learn more about [Festivals](/487)\n- Learn more about [Sustainability](/498)\n\n## Contact\n\nHave questions? Please [report a problem or ask a question](/898).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

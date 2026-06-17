@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "same",
+      "maintenance",
+      "responsibilities",
+      "after",
+      "permit",
+      "closed",
+      "following"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-59"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-59. - Same—Maintenance responsibilities after permit is closed.",
+    "summary": "(a)\nFollowing the closure of a site disturbance permit pursuant to\nsection 50-56\n, the owner is responsible for maintaining all stormwater drainage facilities shown\n               on the approved site plan, construction plans, and final drainage report.\n(b)\nNotwithstanding any other provision in thi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-59. - Same—Maintenance responsibilities after permit is closed.",
+        "a": "(a)\nFollowing the closure of a site disturbance permit pursuant to\nsection 50-56\n, the owner is responsible for maintaining all stormwater drainage facilities shown\n               on the approved site plan, construction plans, and final drainage report.\n(b)\nNotwithstanding any other provision in this article to the contrary, an owner must\n               allow a regular inspection of stormwater drainage facilities by the city or a representative\n               thereof on any lot or property that is or was subject to a site plan, construction\n               plans, and final drainage report.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-59"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

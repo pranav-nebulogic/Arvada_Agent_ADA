@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "storage",
+      "building",
+      "materials",
+      "hereby",
+      "added",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-497"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-497. - I.P.M.C. Section 302.10, Storage of building materials.",
+    "summary": "Section 302.10. Storage of building materials,\nis hereby added to read as follows:\n\"\n302.10. Storage of building materials.\nIn any area zoned for residential purposes, it shall be unlawful to store outside\n                  and uncovered any building materials unless there is in force a valid buildi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-497. - I.P.M.C. Section 302.10, Storage of building materials.",
+        "a": "Section 302.10. Storage of building materials,\nis hereby added to read as follows:\n\"\n302.10. Storage of building materials.\nIn any area zoned for residential purposes, it shall be unlawful to store outside\n                  and uncovered any building materials unless there is in force a valid building permit\n                  issued by the city for construction of a new, or modification of an existing, structure\n                  upon the property and said materials are intended for use in connection with such\n                  construction or modification. Building materials may be stored inside an enclosed\n                  building or may be stacked and covered in the rear of any residentially zoned property,\n                  out of view from any adjoining street, whether or not a building permit is in force.\n                  Building materials shall include, but shall not be limited to, lumber, bricks, concrete\n                  or cinderblocks, plumbing materials, electrical wiring or equipment, heating ducts\n                  or equipment, shingles, mortar, concrete or cement, sand, gravel, dirt, rocks, nails,\n                  screws or any other materials used in construction or modifying any structure or property.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-497"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

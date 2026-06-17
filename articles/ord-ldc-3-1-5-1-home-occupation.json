@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "home",
+      "occupation",
+      "generally",
+      "dwelling",
+      "units",
+      "purposes",
+      "conform",
+      "standards",
+      "section",
+      "allowed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-5-1"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-5. BUSINESS USE OF THE HOME"
+  },
+  "content": {
+    "title": "3-1-5-1. Home occupation.",
+    "summary": "A.\tGenerally. Use of dwelling units for home occupation purposes shall conform to the standards of this Section. A home occupation shall be allowed only when it is an accessory use to a residential dwelling unit.\nB.\tProhibited Business Uses of the Home.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-5-1. Home occupation.",
+        "a": "A.\tGenerally. Use of dwelling units for home occupation purposes shall conform to the standards of this Section. A home occupation shall be allowed only when it is an accessory use to a residential dwelling unit.\nB.\tProhibited Business Uses of the Home. The following uses, regardless of whether they meet the standards of this Section, are not permitted as business uses of the home:\n  1.\tVeterinary offices or clinics, animal hospitals, or kennels;\n  2.\tEquipment rental;\n  3.\tFuneral homes or mortuaries;\n  4.\tMedical or dental clinics;\n  5.\tRepair or painting of automobiles, motorcycles, trailers, boats, or other vehicles;\n  6.\tRepair of large appliances (e.g., stoves, refrigerators, washers, and dryers);\n  7.\tRepair of power equipment or small engines (e.g., lawn mowers, snow blowers, chain saws, string trimmers, generators, etc.);\n  8.\tRestaurants;\n  9.\tVehicle sales;\n  10.\tWelding or metal fabrication shops;\n  11.\tDispatching of vehicles to and from the residential premises (e.g., taxi services or towing services); and\n  12.\tOn-site retail sales, except incidental retail sales associated with services."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

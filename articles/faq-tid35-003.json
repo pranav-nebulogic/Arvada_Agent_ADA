@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-35-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "pfas",
+      "regulated",
+      "water",
+      "epa",
+      "cdphe",
+      "created",
+      "new",
+      "maximum",
+      "Water - PFAS Information"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=35"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-are-pfas-regulated-in-water",
+    "faq_category_name": "Water - PFAS Information"
+  },
+  "content": {
+    "title": "How are PFAS regulated in water?",
+    "summary": "The EPA and CDPHE have created new Maximum Contaminant Levels (MCLs) for 6 PFAS compounds (PFOA, PFOS, PFNA, PFBS, PFHxS, and Gen-X), which will go into effect in the next few years. Some of the requirements in the new federal rule are quite complicated. The current administration is reviewing the r…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How are PFAS regulated in water?",
+        "a": "The EPA and CDPHE have created new Maximum Contaminant Levels (MCLs) for 6 PFAS compounds (PFOA, PFOS, PFNA, PFBS, PFHxS, and Gen-X), which will go into effect in the next few years. Some of the requirements in the new federal rule are quite complicated. The current administration is reviewing the rule for possible modification. The City will follow all requirements, and continues to monitor the 6 regulated PFAS compounds as well as several others. The City anticipates being in full compliance with the rule at the outset, and is planning for future treatment capabilities if needed. Visit the Environmental Protection Agency (EPA) webpage on PFAS to learn more about the federal regulation."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

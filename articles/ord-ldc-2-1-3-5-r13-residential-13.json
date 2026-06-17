@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "residential",
+      "purpose",
+      "zoning",
+      "district",
+      "allow",
+      "development",
+      "variety",
+      "housing",
+      "products",
+      "gross"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-3-5"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-3. PARKS AND OPEN SPACE AND RESIDENTIAL DISTRICTS"
+  },
+  "content": {
+    "title": "2-1-3-5. R13: Residential 13.",
+    "summary": "A.\tPurpose. The purpose of the Residential 13 (R13) zoning district is to allow for new residential development of a variety of housing products up to a gross density of 13 units per acre.\nB.\tRelationship to the Comprehensive Plan.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-3-5. R13: Residential 13.",
+        "a": "A.\tPurpose. The purpose of the Residential 13 (R13) zoning district is to allow for new residential development of a variety of housing products up to a gross density of 13 units per acre.\nB.\tRelationship to the Comprehensive Plan. The R13 zoning district generally implements the \"Medium Density Residential\" land use category stated in the Comprehensive Plan.\nC.\tLot and Building Standards. The standards for lots and buildings in the R13 zoning district are set out in Table 2-1-3-5A, Residential 13 Lot and Building Standards and Division 2-1-8, Housing Palette.\nD.\tHousing Palette. The following housing types identified in Division 2-1-8, Housing Palette, are allowed in the R13 zoning district:\n  1.\tSingle-Family Detached: Small Urban; Urban; Small General; General; Small Suburban\n  2.\tZero Lot Line: Small General; General\n  3.\tDuplexes: Side-By-Side; Over-Under\n  4.\tTownhomes: Suburban; Urban\n  5.\tMultiplexes\n  6.\tMultifamily: General\n  7.\tClustered Housing: Micro; Cottages Types.\nE.\tCross-References. The cross-references in Table 2-1-3-5B, Cross-References for Residential 13, are provided for the reader's convenience and are not necessarily exhaustive of applicable regulations.\n(Ord. No. 4793, § 1, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-3-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "basis",
+      "assessment",
+      "properties",
+      "within",
+      "reimbursement",
+      "district",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-223"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-223. - Basis for assessment.",
+    "summary": "(a)\nProperties within a reimbursement district shall be assessed in such a manner as equitably\n               to apportion the cost among all properties specially benefited by the improvement,\n               but no property shall be assessed an amount greater than the special benefit received\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-223. - Basis for assessment.",
+        "a": "(a)\nProperties within a reimbursement district shall be assessed in such a manner as equitably\n               to apportion the cost among all properties specially benefited by the improvement,\n               but no property shall be assessed an amount greater than the special benefit received\n               by it. In the absence of unusual circumstances requiring a different method, improvements,\n               other than bridges, shall be subject to reimbursement on the basis of front footage.\n(b)\nThe cost to be apportioned within a reimbursement district shall be the reasonable\n               cost of installing the improvement, but not including the cost of any part or portion\n               which solely benefits the developer such as curb cuts or main connections to serve\n               his property. Engineering costs, not to exceed five percent of construction costs,\n               may be included for determining the cost. With respect to improvements constructed\n               after August 3, 1981, reimbursable construction costs shall be based on the lowest\n               responsible bid of three bids obtained by the developer.\n(c)\nExcept as hereinafter limited, the term \"special benefit\" means any benefit conferred\n               upon a property which is greater or different in kind from that conferred upon properties\n               in the city as a whole by an improvement. Among the factors to be considered in determining\n               the existence of a special benefit are:\n(1)\nIncreased market value.\n(2)\nImprovement in safety or convenience of access.\n(3)\nImproved drainage.\n(4)\nAlleviation of health or sanitation hazards.\n(5)\nAdaptability of the property to a superior or more profitable use.\n(6)\nImproved availability of public water or sewer service to the property.\n(7)\nIn the case of undeveloped property, the installation of an improvement which would\n               otherwise be required upon development of the property.\nWhen a person must extend an improvement, such as a water or sewer main, in order\n               to make lateral connection to his property, the preexisting portion of the improvement\n               shall not be deemed to specially benefit that portion of his property served by the\n               extension.\n(Code 1981, § 27-183; Ord. No. 1721, § 3, 2-2-1981; Ord. No. 1805, § 2, 1-4-1982)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-223"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

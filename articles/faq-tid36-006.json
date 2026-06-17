@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-36-007",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "pays",
+      "damages",
+      "occur",
+      "unit",
+      "participant",
+      "responsible",
+      "important",
+      "actively",
+      "Housing Choice Voucher Program Landlord Guide"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=36"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/who-pays-if-damages-occur-to-my-unit",
+    "faq_category_name": "Housing Choice Voucher Program Landlord Guide"
+  },
+  "content": {
+    "title": "Who pays if damages occur to my unit?",
+    "summary": "The participant is responsible for damages. It is important to actively manage all of your rental properties including those occupied by our program participants. No one can promise that a Housing Choice Voucher participant, or any renter for that matter, will not damage a unit. However, if you enfo…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Who pays if damages occur to my unit?",
+        "a": "The participant is responsible for damages. It is important to actively manage all of your rental properties including those occupied by our program participants. No one can promise that a Housing Choice Voucher participant, or any renter for that matter, will not damage a unit. However, if you enforce your lease by sending notices and warnings when necessary and if you meet your landlord obligations as required by the HAP Contract, we will assist you when problems occur by reminding participants of their program obligations. Sometimes, you may have to evict a participating family and even sue for damages just as you would with any participant. You can reduce your risk of problems from any participant by having a comprehensive screening policy and adhering to it."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

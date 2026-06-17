@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-33-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "building_permit",
+    "category": "building_permits",
+    "tags": [
+      "restrictions",
+      "signs",
+      "sign",
+      "regulations",
+      "content",
+      "neutral",
+      "restrict",
+      "message",
+      "Building Permits - Signs"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=33"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-restrictions-are-there-for-signs",
+    "faq_category_name": "Building Permits - Signs"
+  },
+  "content": {
+    "title": "What restrictions are there for signs?",
+    "summary": "Sign regulations are \"content-neutral;\" and do not restrict the message. There are four Sign Districts that correspond to Zoning Districts and specific locational characteristics of the site. Olde Town (OT) Mixed-Use/Commercial/Industrial (MX/CI) Multi-family Residential (RM) And Single-Family Resid…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What restrictions are there for signs?",
+        "a": "Sign regulations are \"content-neutral;\" and do not restrict the message. There are four Sign Districts that correspond to Zoning Districts and specific locational characteristics of the site. Olde Town (OT) Mixed-Use/Commercial/Industrial (MX/CI) Multi-family Residential (RM) And Single-Family Residential (RS) The regulations for signs are based on structure, materials, components and durability, lighting, number, height, area and dimensions, duration, location, and maintenance. Signs are defined as permanent signs - attached or detached and temporary signs -attached or detached with various types within each. Some signs are exempt from permits, but must comply with the sign regulations."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

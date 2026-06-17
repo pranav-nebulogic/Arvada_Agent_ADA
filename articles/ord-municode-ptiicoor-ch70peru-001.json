@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "these",
+      "personnel",
+      "rules",
+      "established",
+      "pursuant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-2"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-2. - Legislative declaration.",
+    "summary": "These personnel rules are established pursuant to the provisions of section\n7.5\nof the Charter. These regulations do not establish or create a contract of employment,\n               either express or implied, between the city and any employee. These rules do not grant\n               any right of con…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-2. - Legislative declaration.",
+        "a": "These personnel rules are established pursuant to the provisions of section\n7.5\nof the Charter. These regulations do not establish or create a contract of employment,\n               either express or implied, between the city and any employee. These rules do not grant\n               any right of continued employment to any employee. These rules are subject to change\n               by the city, including changes to employee benefits and personnel practices. Any such\n               change may apply to both present and future employees of the city. The city manager\n               may make exceptions to these rules when necessary to preserve the health, safety,\n               or welfare of the city.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

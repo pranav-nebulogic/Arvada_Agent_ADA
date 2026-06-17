@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "appeal",
+      "adverse",
+      "determination",
+      "within",
+      "days",
+      "immediately",
+      "succeeding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-103"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-103. - Appeal of adverse determination.",
+    "summary": "(a)\nWithin the 15 days immediately succeeding the final publication of the assessment\n               ordinance, any person who has filed a complaint, protest or objection on specific\n               grounds in writing, as hereinbefore provided, shall have the right to commence an\n               actio…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-103. - Appeal of adverse determination.",
+        "a": "(a)\nWithin the 15 days immediately succeeding the final publication of the assessment\n               ordinance, any person who has filed a complaint, protest or objection on specific\n               grounds in writing, as hereinbefore provided, shall have the right to commence an\n               action or a suit in any court of competent jurisdiction to correct or to set aside\n               such determination.\n(b)\nThereafter all actions or suits attacking the regularity, validity and correctness\n               of the proceedings, of the assessment plat, of said assessment roll, of each assessment\n               contained therein and of the amount thereof levied on each tract, including, without\n               limiting the generality of the foregoing, the defense of confiscation, shall be perpetually\n               barred.\n(Code 1981, § 27-104; Ord. No. 551, § 44, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-103"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

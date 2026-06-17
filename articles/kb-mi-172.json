@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "court",
+      "summons",
+      "ticket",
+      "information",
+      "tickets",
+      "back",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/392/Court-Summons-Ticket-Information"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-172",
+    "spreadsheet_id": "MI-172",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Court Summons & Ticket Information",
+    "summary": "If you receive a ticket from the Arvada Police Department, it may be for Arvada Municipal Court or Adams and Jefferson County Courts, and you should check the ticket for specific details regarding your required court appearance. Tickets may have various prefixes indicating their type, and some allow for a Penalty Assessment, enabling a simplified resolution without court appearance, while others require a Mandatory Court Summons, especially for juveniles who must be accompanied by a parent or guardian.",
+    "body": "If you have received a ticket (Summons and Complaint) from the Arvada Police Department, read the front and back of your ticket carefully to determine which jurisdiction you are required to appear in. Arvada police officers can write tickets into the Arvada Municipal Court as well as Adams and Jefferson County Courts.\n\nArvada Municipal Court tickets will begin with one of the following prefixes:\n\n- **AM**tickets are handwritten, yellow, full page with additional information on the back of your copy.\n- **CE**tickets are Code Enforcement violations, handwritten, yellow, full page with additional information on the back of your copy.\n- **ET**tickets are issued electronically on a long narrow printout\n- **PK**tickets are parking tickets in the form of an envelope\n\nTickets contain:\n\n- The offense you are alleged to have committed.\n- The date, time and location of the alleged offense.\n- The date and time you are required to appear in court.\n\n## Plea Bargains\n\nPlease read your ticket carefully to determine if it is a Penalty Assessment or a Mandatory Court Summons.\n\n## Penalty Assessment\n\nA Penalty Assessment ticket will allow an officer on the street citing a motorist for a traffic infraction to extend a compromise to the motorist. The compromise follows City Attorney guidelines allowing the motorist to plead guilty to a reduced offense with a known fine and resolve the entire matter by mail or online. The cited driver will not lose any rights but will gain a simplified process for easily resolving certain traffic infractions. Points will be reduced per the City Attorney's point schedule and the driver will not have to appear in court. The process must be addressed by the summons date on the ticket.\n\n## Mandatory Court Summons\n\nSome citations require a Mandatory Court appearance. This information will be listed on the summons along with the date and time you are required to appear in court.\n\n## Juveniles\n\nAll juvenile citations require a mandatory court appearance. If you are under the age of 18 years old, you must be accompanied by a parent or legal guardian.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

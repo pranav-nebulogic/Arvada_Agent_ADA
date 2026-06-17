@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "construction",
+      "water",
+      "fill",
+      "stations",
+      "indiana",
+      "provide",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1203/Construction-water-fill-stations"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-164",
+    "spreadsheet_id": "MI-164",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Construction water fill stations",
+    "summary": "Construction water fill stations are available for bulk purchasers, requiring customers to set up a prepaid account at City Hall. Each customer must provide their own hose to use the facilities, which are located at 6701 Indiana Street, 5555 W 56th Avenue, and 6161 Olde Wadsworth Boulevard. For further details, customers can contact the Utilities Department at 720-898-7760.",
+    "body": "Fill stations are available to provide water to the bulk purchaser conveniently, while maintaining backflow protections for the City's water supply.\n\nCustomers are required to set up a **prepaid account**with the City. Accounts can be opened at City Hall, 8101 Ralston Road.\n\nEach water customer must provide a hose for use with the facility in order to avoid freezing and reduce the potential for vandalism.\n\n## Locations\n\n- 6701 Indiana Street (Indiana Shops)\n- 5555 w 56th Avenue (Culberston Building)\n- 6161 Olde Wadsworth Boulevard (Wadsworth Shops)\n\n## Operations\n\nStations are equipped with a 2 1/2\" hose bib and 3/4\" hose bib.\n\nFor more information, please contact the Utilities Department at 720-898-7760.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

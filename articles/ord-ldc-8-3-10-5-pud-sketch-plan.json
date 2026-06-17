@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sketch",
+      "plan",
+      "generally",
+      "optional",
+      "step",
+      "process",
+      "disclaimer",
+      "part",
+      "formal",
+      "application"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-10-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-10. PLANNED UNIT DEVELOPMENT"
+  },
+  "content": {
+    "title": "8-3-10-5. PUD sketch plan.",
+    "summary": "A.\tGenerally. The PUD Sketch Plan is an optional step in the PUD process.\nB.\tDisclaimer.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-10-5. PUD sketch plan.",
+        "a": "A.\tGenerally. The PUD Sketch Plan is an optional step in the PUD process.\nB.\tDisclaimer. The PUD Sketch Plan is not part of a formal application for approval of a PUD and no comments made by the City with regard to a PUD Sketch Plan shall be binding on the City's consideration of any subsequent application, or result in the vesting of any rights under this LDC or state statute. The voluntary submission of a PUD Sketch Plan shall constitute a complete waiver of any and all legal claims that are based on, or arise from, Planning Commission or City Council review of, or comment upon, such PUD Sketch Plan.\nC.\tContents of PUD Sketch Plan. At a minimum, the PUD Sketch Plan shall include the following information:\n  1.\tProposed land uses;\n  2.\tProposed density or intensity;\n  3.\tGeneral location of public and private open space;\n  4.\tGeneral location of existing and proposed buildings;\n  5.\tGeneral layout of existing and proposed street and pedestrian networks; and\n  6.\tGeneral layout of existing and proposed major utilities and public services for the development.\nD.\tReview Considerations. The review of a PUD Sketch Plan may address the following topics:\n  1.\tWhether the PUD Sketch Plan appears to be consistent with the Comprehensive Plan, or reflects conditions that have changed since the adoption of the Comprehensive Plan;\n  2.\tWhether the PUD Sketch Plan appears to outline a development that will address a unique situation, confer a substantial benefit to the City, or incorporate creative site design such that it achieves the purposes set out in Section 8-3-10-1, Purpose of Planned Development Zone, and represents an improvement in quality over what could have been accomplished through strict application of otherwise applicable zoning district or development standards;\n  3.\tWhether the PUD Sketch Plan appears to represent a high-quality, functional design for the scale and type of land use that is proposed, provides for appropriate integration into the City's street, sidewalk and trail networks, and provides for appropriate transitions to adjoining property; and\n  4.\tWhether the PUD Sketch Plan appears, to the extent reasonably feasible, to provide for mitigation of any foreseeable, material adverse impacts on adjoining properties or on the general community."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-10-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

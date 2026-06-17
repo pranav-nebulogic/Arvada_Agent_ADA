@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "protection",
+      "against",
+      "physical",
+      "damage",
+      "hereby",
+      "amended"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-202"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-202. - I.R.C. Section M1308.2, Protection against physical damage.",
+    "summary": "Section M1308.2. Protection against physical damage,\nis hereby amended in its entirety to read as follows:\n\"\nM1308.2. Protection against physical damage.\nIn concealed locations, where piping, other than cast-iron or galvanized steel, is\n                  installed through holes or notches in studs, …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-202. - I.R.C. Section M1308.2, Protection against physical damage.",
+        "a": "Section M1308.2. Protection against physical damage,\nis hereby amended in its entirety to read as follows:\n\"\nM1308.2. Protection against physical damage.\nIn concealed locations, where piping, other than cast-iron or galvanized steel, is\n                  installed through holes or notches in studs, joints, rafters or similar members less\n                  than 1¼ inches (31.8 mm) from the nearest edge of the member, the pipe shall be protected\n                  by steel shield plates. Such shield plates shall have a thickness of not less than\n                  0.0575 inch (1.463 mm) (No. 16 Gage). Such plates shall cover the area of the pipe\n                  where the member is notched or bored, and shall extend not less than 2 inches (51mm)\n                  above sole plates and below top plates.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-202"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

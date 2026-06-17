@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "purpose",
+      "conduct",
+      "city",
+      "employees",
+      "must",
+      "hold",
+      "respect"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-21"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-21. - Purpose.",
+    "summary": "The conduct of city employees must hold the respect and confidence of the public.\n               Unethical behaviors undermine the public's trust in government and the integrity of\n               public procurement processes. Ethics provisions are intended to protect the integrity\n               of …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-21. - Purpose.",
+        "a": "The conduct of city employees must hold the respect and confidence of the public.\n               Unethical behaviors undermine the public's trust in government and the integrity of\n               public procurement processes. Ethics provisions are intended to protect the integrity\n               of the city's procurement processes, and encourage ethical conduct by employees and\n               others involved in these processes.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-21"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

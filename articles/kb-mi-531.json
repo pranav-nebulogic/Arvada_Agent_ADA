@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "street",
+      "parking",
+      "olde",
+      "town",
+      "time",
+      "vehicle",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/573/Street-Parking-in-Olde-Town"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-531",
+    "spreadsheet_id": "MI-531",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Street Parking in Olde Town",
+    "summary": "Street parking in Olde Town is subject to strict 2-hour and 4-hour time restrictions from 8 am to 7 pm, with vehicles needing to move at least 500 feet after the time limit to avoid citations. Overnight parking is permitted but must be cleared by 10 am, and vehicles should not park near driveways, fire hydrants, intersections, or traffic signals for safety. For longer-term parking, visitors are encouraged to use the Olde Town Transit Hub parking structure.",
+    "body": "## Rules for Street & Lot Parking in Olde Town\n\n- Posted 2-hour and 4-hour time restrictions are in effect from **8 am to 7 pm**\n  - Time restrictions are **strictly enforced**\n- Once the time expires your vehicle must move a minimum of **500 feet from your original spot** in all directions or the vehicle will be subject to citation\n- Park only in marked, individually designated parking spaces\n- Overnight parking is allowed on the street but vehicles must be moved by **10 am**or the vehicle will be subject to citation\n- For safety reasons, do not park within:\n  - 5 feet of a driveway\n  - 15 feet of a fire hydrant\n  - 20 feet of an intersection\n  - 30 feet of a traffic signal / stop sign\n- If you are looking for longer-term parking, or you are coming to Olde Town to use the RTD G-Line, please utilize the [Olde Town Transit Hub](/571/Olde-Town-Transit-Hub) parking structure.\n\n### Parking Lot Map\n\n![Olde Town Arvada Parking Map](/ImageRepository/Document?documentID=717 \"Olde Town Arvada Parking Map\")",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

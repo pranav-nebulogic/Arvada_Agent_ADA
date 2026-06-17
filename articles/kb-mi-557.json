@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "traffic",
+      "warnings",
+      "citations",
+      "data",
+      "hispanic",
+      "race",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/547/Traffic-Warnings-Citations-Data"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-557",
+    "spreadsheet_id": "MI-557",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Traffic Warnings & Citations Data",
+    "summary": "The Arvada Police Department has been tracking traffic warnings and citations by race and sex from 2021 to 2025, following the Colorado \\\"Transparency in Law Enforcement\\\" law. The data shows a total of 6,620 warnings and citations in 2021, decreasing to 5,877 in 2022, and then increasing to 8,535 in 2025, with the majority of citations issued to White Non-Hispanic males throughout the years. The department's records reflect ongoing efforts to enhance transparency in law enforcement practices.",
+    "body": "Since the implementation of the new Colorado \"Transparency in Law Enforcement\" law, the Arvada Police Department has implemented numerous records system changes to track more data. Traffic warning and citation categorized by race and sex from 2021 to 2025 is outlined below.\n\n## January 1 to December 31, 2021\n\n| Race/Sex | Warnings | Citations | Total |\n| --- | --- | --- | --- |\n| White Non-Hispanic Male | 343 | 2702 | 3045 |\n| Black Non-Hispanic Male | 36 | 190 | 226 |\n| Hispanic Latino Any Race Male | 62 | 623 | 685 |\n| Other Male | 16 | 90 | 106 |\n| White Non-Hispanic Female | 286 | 1775 | 2061 |\n| Black Non-Hispanic Female | 12 | 45 | 57 |\n| Hispanic Latino Any Race Female | 40 | 342 | 382 |\n| Other Female | 5 | 53 | 58 |\n| Total | 800 | 5820 | 6620 |\n\n## January 1 to December 31, 2022\n\n| Race/Sex | Warnings | Citations | Total |\n| --- | --- | --- | --- |\n| White Non-Hispanic Male | 306 | 2370 | 2676 |\n| Black Non-Hispanic Male | 14 | 117 | 131 |\n| Hispanic Latino Any Race Male | 61 | 588 | 649 |\n| Other Male | 15 | 73 | 88 |\n| White Non-Hispanic Female | 204 | 1659 | 1863 |\n| Black Non-Hispanic Female | 8 | 45 | 53 |\n| Hispanic Latino Any Race Female | 44 | 325 | 369 |\n| Other Female | 2 | 45 | 47 |\n| Total | 654 | 5223 | 5877 |\n\n## January 1 to December 31, 2023\n\n| Race/Sex | Warnings | Citations | Total |\n| --- | --- | --- | --- |\n| White Non-Hispanic Male | 252 | 2623 | 2875 |\n| Black Non-Hispanic Male | 24 | 159 | 183 |\n| Hispanic Latino Any Race Male | 43 | 834 | 877 |\n| Other Male | 8 | 110 | 118 |\n| White Non-Hispanic Female | 186 | 1986 | 2172 |\n| Black Non-Hispanic Female | 7 | 66 | 73 |\n| Hispanic Latino Any Race Female | 40 | 456 | 496 |\n| Other Female | 1 | 60 | 61 |\n| Total | 561 | 6294 | 6855 |\n\n## January 1 to December 31, 2024\n\n| Race/Sex | Warnings | Citations | Total |\n| --- | --- | --- | --- |\n| White Non-Hispanic Male | 174 | 2794 | 2968 |\n| Black Non-Hispanic Male | 13 | 171 | 184 |\n| Hispanic Latino Any Race Male | 43 | 1224 | 1267 |\n| Other Male | 8 | 114 | 122 |\n| White Non-Hispanic Female | 139 | 2213 | 2352 |\n| Black Non-Hispanic Female | 4 | 81 | 85 |\n| Hispanic Latino Any Race Female | 29 | 571 | 600 |\n| Other Female | 4 | 103 | 107 |\n| White Non-Hispanic Non-Binary | 0 | 3 | 3 |\n| Total | 414 | 7274 | 7688 |\n\n## January 1 to December 31, 2025\n\n| Race/Sex | Warnings | Citations | Total |\n| --- | --- | --- | --- |\n| White Non-Hispanic Male | 179 | 3273 | 3452 |\n| Black Non-Hispanic Male | 23 | 216 | 239 |\n| Hispanic Latino Any Race Male | 57 | 1480 | 1537 |\n| Other Male | 8 | 138 | 146 |\n| White Non-Hispanic Female | 128 | 2205 | 2333 |\n| Black Non-Hispanic Female | 1 | 106 | 107 |\n| Hispanic Latino Any Race Female | 29 | 593 | 622 |\n| Other Female | 2 | 91 | 93 |\n| Hispanic Latino Any Race Non-Binary | 0 | 1 | 1 |\n| White Non-Hispanic Non-Binary | 0 | 5 | 5 |\n| Total | 427 | 8108 | 8535 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

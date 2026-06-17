@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "street",
+      "centerline",
+      "control",
+      "points",
+      "range",
+      "generally",
+      "purpose",
+      "point",
+      "placement",
+      "clearly"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-2-3-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-2. SUBDIVISION STANDARDS",
+    "division": "DIVISION 4-2-3. SUBDIVISION MONUMENTATION"
+  },
+  "content": {
+    "title": "4-2-3-2. Street centerline control points (Range Points).",
+    "summary": "A.\tGenerally. The purpose of range point placement is to clearly, simply, and, as permanently as practical, mark the public right-of-way for the citizens of Arvada, the adjoining landowners, and the public at-large.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-2-3-2. Street centerline control points (Range Points).",
+        "a": "A.\tGenerally. The purpose of range point placement is to clearly, simply, and, as permanently as practical, mark the public right-of-way for the citizens of Arvada, the adjoining landowners, and the public at-large. Toward that end, the range points shall be placed so that two other range points are visible, via a line of sight contained entirely within the right-of-way, from any range point. The exception to this general rule shall be points set at the end of a cul-de-sac or a dead end street. These points require the defined visibility with only one other range point.\nB.\tSpecific Placement Requirements.\n  1.\tA range point shall be set at every intersection of the centerline of any street with the centerline of another street.\n  2.\tOne range point shall be set at the end of every cul-de-sac in accordance with Figure 4-2-3-2, Range Point Positions in Cul-de-sacs.\n  3.\tIf the visibility requirement cannot be met by setting the intersection and cul-de-sac end points, sufficient Points of Curvature along the centerline shall be set to meet the visibility requirement. If all Points of Curvature are set and the visibility requirement is still not met, then sufficient intermediate points shall be set along centerline to meet the visibility requirement.\n  4.\tAll points to be monumented shall be described on the plat of the subdivision.\nC.\tMonument Types.\n  1.\tGravel or Asphalt Streets. The monument shall be a metallic rod having a ⅝ inch minimum diameter, a minimum length of 18 inches and a 1½ inch minimum diameter metallic cap bearing the registration number of the professional land surveyor responsible for the establishment of the monument. The top of the monument shall be placed six inches below the finish grade of the road surface and inside a City-approved range box, the top of which shall be set flush with said road surface.\n  2.\tConcrete Streets. The monument shall consist of a durable metallic disk, with a minimum three-inch stem, set above a metallic rod having a 5/8 inch minimum diameter and a minimum length of 18 inches. The top of the metallic disk shall be flush with the road surface, shall be firmly and permanently attached to that surface and shall bear the registration number of the professional land surveyor responsible for the establishment of the monument.\nD.\tTiming of Installation. All Range Points shall be set, and inspected and approved by the City, prior to the issuance of any Certificate of Occupancy within the subdivision."
+      }
+    ],
+    "ordinance_refs": [
+      "4-2-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

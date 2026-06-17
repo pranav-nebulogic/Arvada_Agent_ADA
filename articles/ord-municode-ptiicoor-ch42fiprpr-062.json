@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "stage",
+      "fire",
+      "ban",
+      "unlawful",
+      "acts",
+      "generally",
+      "notwithstanding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-115"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-115. - Stage 2 fire ban—Unlawful acts.",
+    "summary": "(a)\nFire ban generally.\nNotwithstanding any other provision of this Code, it shall be unlawful for a person\n               to build, maintain, attend to, or use a recreational fire or an open fire within the\n               city's boundaries after a Stage 2 fire ban is in effect.\nExceptions: The foll…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-115. - Stage 2 fire ban—Unlawful acts.",
+        "a": "(a)\nFire ban generally.\nNotwithstanding any other provision of this Code, it shall be unlawful for a person\n               to build, maintain, attend to, or use a recreational fire or an open fire within the\n               city's boundaries after a Stage 2 fire ban is in effect.\nExceptions: The following acts or activities are allowed during a declared Stage 2\n               fire ban period:\n(1)\nSmoking, if it is done in an enclosed vehicle or building, or outdoors in an area\n               that is more than thirty feet from an undeveloped area, and then, only if smoking\n               is otherwise allowed under existing state and local smoking laws.\n(2)\nThe use of a liquid- or gas-fueled appliance.\n(3)\nThe use of Underwriters Laboratories (UL) listed wood pellet grill.\n(4)\nThe operation of a chain saw equipped with a properly installed spark arresting device\n               that is in good working order. The operator must also have readily available for quick\n               use at all times while the saw is being operated an extinguishing source such as a\n               pressurized water extinguisher, a proper chemical pressurized extinguisher that is\n               large enough to handle nearby hazards, or sufficient water to extinguish any fire\n               created through use of the saw. In addition, the operator must have in his or her\n               possession at all times while the saw is being operated at least one pointed shovel\n               with an overall length of at least 36 inches.\n(5)\nHot work operations if the work is performed in an area that is barren or cleared\n               of all combustible material more than 30 feet in all directions from the operating\n               equipment, and with a permit from the fire code official having jurisdiction over\n               the operating location.\n(Ord. No.\n4739\n, § 4, 9-14-2020;\nOrd. No. 4901\n, § 5, 7-15-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-115"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

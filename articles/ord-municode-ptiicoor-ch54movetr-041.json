@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "parking",
+      "large",
+      "vehicles",
+      "residential",
+      "districts",
+      "city",
+      "council"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-173"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-173. - Parking of large vehicles in residential districts.",
+    "summary": "(a)\nThe city council hereby finds and declares that the parking of large vehicles within\n               a residential district is detrimental to the general welfare of the citizens and to\n               the economic welfare of the citizens and to the economic welfare of the municipality\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-173. - Parking of large vehicles in residential districts.",
+        "a": "(a)\nThe city council hereby finds and declares that the parking of large vehicles within\n               a residential district is detrimental to the general welfare of the citizens and to\n               the economic welfare of the citizens and to the economic welfare of the municipality\n               and that regulation of such parking within residential areas is a permissible regulation\n               of the aesthetics of the community.\n(b)\nIt shall be unlawful for any person to park or store any large vehicle within any\n               residential district, except for purposes of loading or unloading, making a delivery,\n               or actively servicing a property located within 200 feet of where the vehicle is located.\n(c)\nIt shall be unlawful for the owner of any large vehicle to permit or allow such vehicle\n               to be parked or stored within any residence district, except for the purpose of loading\n               or unloading, making a delivery, or actively servicing a property located within 200\n               feet of where the vehicle is located.\n(d)\nNotwithstanding subsections (b) and (c) of this section, the director of the community\n               development department may issue a permit authorizing the parking of a large vehicle\n               within a residential district for a fixed period of time where it is shown to be reasonably\n               necessary in the course of a construction project. The fee for this permit shall be\n               as set forth in the administrative fee schedule for the community development department.\n(e)\nThis section shall not apply on any street or highway designated as a state highway\n               within this municipality.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-173"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

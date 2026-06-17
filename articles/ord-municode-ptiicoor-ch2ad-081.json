@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "public",
+      "information",
+      "each",
+      "disclosure",
+      "statement",
+      "amended",
+      "notification"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-414"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-414. - Public information.",
+    "summary": "Each disclosure statement, amended statement or a notification that no amendment is\n               required shall be public information available in the city clerk's office to any person\n               upon request during normal working hours.\n(Code 1960, § 2-3.4(d); Code 1981, § 2-6)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-414. - Public information.",
+        "a": "Each disclosure statement, amended statement or a notification that no amendment is\n               required shall be public information available in the city clerk's office to any person\n               upon request during normal working hours.\n(Code 1960, § 2-3.4(d); Code 1981, § 2-6)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-414"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

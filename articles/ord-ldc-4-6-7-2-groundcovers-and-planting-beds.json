@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "groundcovers",
+      "planting",
+      "beds",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "ground",
+      "covers",
+      "inorganic"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-7-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-7. ADDITIONAL TECHNICAL REQUIREMENTS"
+  },
+  "content": {
+    "title": "4-6-7-2. Groundcovers and planting beds.",
+    "summary": "A.\tGenerally. The standards of this Section apply to ground covers and planting beds.\nB.\tInorganic Ground Cover.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-7-2. Groundcovers and planting beds.",
+        "a": "A.\tGenerally. The standards of this Section apply to ground covers and planting beds.\nB.\tInorganic Ground Cover. Inorganic material such as river rock, cobble rock, gravel, artificial turf, artificial plant material, concrete, or asphalt paving may not be used as a permanent, primary ground cover within the landscaped area, except where:\n  1.\tRock is utilized as an integral part of the landscape design, and does not exceed 25 percent of the front yard and is part of an approved plan;\n  2.\tDrainage or soil conditions require a non-irrigated and/or surface pan at finished grading adjoining the building's foundation;\n  3.\tArtificial turf is used as part of an approved plan for recreational fields or common amenities such as a clubhouse;\n  4.\tArtificial turf is used for backyard and side yard applications that are not in public view. Public view includes any area viewable from areas with public access such as streets, sidewalks, parks, and trails. Artificial turf for a putting green not larger than 400 square feet may be placed in side or rear yard even if in public view; or\n  5.\tConcrete, rock or asphalt materials are used for walkways, driveways or patios.\nC.\tInorganic or Organic Mulch. Where inorganic or organic mulches are used, they shall be applied at a minimum depth of two inches and covered with plant materials such that the mulched area will be at least 75 percent covered at maturity.\nD.\tPlant Beds. Plant beds shall include landscaping, mulch over a weed barrier, and edging along turf areas."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-7-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

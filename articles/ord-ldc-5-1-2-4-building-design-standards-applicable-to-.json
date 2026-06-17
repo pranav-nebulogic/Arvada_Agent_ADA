@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "building",
+      "design",
+      "standards",
+      "applicable",
+      "single",
+      "family",
+      "detached",
+      "duplex",
+      "multiplex",
+      "generally"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-2-4"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-2. BUILDING AND STRUCTURE DESIGN STANDARDS"
+  },
+  "content": {
+    "title": "5-1-2-4. Building design standards applicable to single-family detached, duplex, and multiplex.",
+    "summary": "A.\tGenerally. In addition to Section 5-1-2-3, General Building Design Standards, the following standards shall apply to new development or redevelopment of single-family detached, duplex, and multiplex units in all zoning districts.\nB.\tFront Façade Design.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-2-4. Building design standards applicable to single-family detached, duplex, and multiplex.",
+        "a": "A.\tGenerally. In addition to Section 5-1-2-3, General Building Design Standards, the following standards shall apply to new development or redevelopment of single-family detached, duplex, and multiplex units in all zoning districts.\nB.\tFront Façade Design. In new development of single-family detached and duplex buildings, the front façade shall have significant variation as defined below:\n  1.\tNo identical home elevation shall be repeated directly across the street or adjacent to the other home.\n  2.\tNo identical model elevation shall be repeated more than once every three lots.\n  3.\tDistinct elevations shall be provided by incorporating at least three of the following:\n    a.\tThe use of different materials and color on the front facade;\n    b.\tVariations in the front wall plane;\n    c.\tVary the size and location of the front porch;\n    d.\tA variation of building types;\n    e.\tThe overall width of the front façade elevation differs by more than four feet;\n    f.\tThe overall height of the front façade elevation differs by more than four feet; and\n    g.\tWindows size and shapes are substantially different.\nC.\tGarages. All garages for single-family detached and duplex buildings shall comply with Section 5-1-2-2, Evaluation of Aesthetic Consistency, and are subject to the following:\n  1.\tFor each new development containing ten or more single-family or duplex dwelling units in all zoning districts, 50 percent of the total number of lots in the subdivision that have a street-accessed garage shall use at least one of the following garage variations:\n    a.\tRecessed garage doors facing the street shall be recessed a minimum of four feet behind the front wall plane of the house.\n    b.\tSide-loaded garages shall be located at a right angle to the street. The design of the garage wall facing the street shall have the same predominate materials used on the front façade.\n    c.\tRear garages shall be located to the rear of the property either as a detached structure or part of the house. If constructed as part of the house, the part of the house, the front wall of the garage shall be setback at least 15 feet behind the front façade of the house.\n  2.\tFront loading, front-facing garage doors shall not constitute more than 50 percent of the total width of the building.\n  3.\tNo more than three garage bays shall face the street, except when the bays are located behind the principal buildings.\n  4.\tWhen more than two garage bays exist, all garages doors that face a street shall include at least one two-foot-wide column or a two-foot façade setback separating each garage door.\n(Ord. No. 4793, § 4, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-2-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

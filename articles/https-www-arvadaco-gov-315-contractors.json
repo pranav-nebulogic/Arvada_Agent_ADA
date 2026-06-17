@@ -1,0 +1,119 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "tax",
+    "permit_type": null,
+    "category": "tax",
+    "source_urls": [
+      "https://www.arvadaco.gov/315/Contractors"
+    ],
+    "scraped_at": "2026-06-10T11:01:38.232800+00:00",
+    "content_hash": "afc27887809d92f1a3a8032cd06335c74fc3d9a1aeaf5e68d3410d3030c6b821",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Contractors Sales Tax Information",
+    "summary": "This article explains the sales tax obligations for construction contractors in the City of Arvada, CO. It covers definitions of construction contractors, taxable construction materials, exemptions, and the process for paying use tax on building permits.",
+    "eligibility": "Construction contractors operating within the City of Arvada, including general contractors and subcontractors.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Determine Contractor Type",
+        "text": "Identify if you are a general contractor, subcontractor, or time and materials contractor as definitions affect tax obligations.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Understand Taxable Materials",
+        "text": "Recognize that construction materials used in projects are subject to City sales or use tax unless exempted. Materials that become an integral part of the structure are taxable.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Obtain Necessary Certificates",
+        "text": "If applicable, obtain a valid Colorado sales tax license or a Certificate of Exemption for exempt projects from the State of Colorado before purchasing materials.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Pay Use Tax on Building Permits",
+        "text": "When a City building permit is issued, pay the estimated use tax based on the project valuation and construction cost percentages. This is a prepayment of tax on the project.",
+        "portal_url": null
+      },
+      {
+        "n": 5,
+        "title": "Provide Permits to Subcontractors",
+        "text": "General contractors should provide copies of the building permit to subcontractors so they can purchase construction materials without paying City tax again.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Certificate of Exemption",
+        "description": "A certificate issued by the State of Colorado for exempt projects involving tax-exempt organizations, religious, charitable, or governmental entities.",
+        "where_to_get": "State of Colorado",
+        "example": null
+      },
+      {
+        "name": "City Building Permit",
+        "description": "A permit issued by the City of Arvada for construction projects requiring payment of use tax on materials.",
+        "where_to_get": "City of Arvada Building Department",
+        "example": null
+      }
+    ],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "Building Use Tax",
+        "amount": "3.46%",
+        "rate": "3.46%",
+        "config_key": "fees.sales.use_tax",
+        "notes": "verify current amount with city"
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "What is considered a construction contractor?",
+        "a": "A construction contractor includes general contractors and subcontractors engaged in construction, reconstruction, or significant repair of buildings, bridges, or structures under contract."
+      },
+      {
+        "q": "Are contractors responsible for sales tax on construction materials?",
+        "a": "Yes, contractors are deemed consumers of construction materials and must pay City sales or use tax unless an exemption applies."
+      },
+      {
+        "q": "What materials are exempt from City sales tax?",
+        "a": "Materials purchased for exempt projects with a valid Certificate of Exemption or by time and materials contractors holding a valid Colorado sales tax license are exempt."
+      },
+      {
+        "q": "How is the use tax on building permits calculated?",
+        "a": "The use tax is estimated by multiplying the project valuation by a construction cost percentage (currently 58% materials, 42% labor) and then by the 3.46% City use tax rate."
+      },
+      {
+        "q": "Can subcontractors avoid paying City tax on materials?",
+        "a": "Yes, if the general contractor provides a copy of the building permit, subcontractors can purchase materials without paying City tax again."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Building Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3228
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "secs",
+      "reserved",
+      "editor",
+      "note",
+      "ord",
+      "adopted",
+      "july",
+      "repealed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 62-67"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Secs. 62-67, 62-68. - Reserved.",
+    "summary": "Editor's note—\nOrd. No. 4392, § 1, adopted July 1, 2013\n, repealed §§ 62-67 62-68, which pertained to offenses relating to marijuana; possession\n               of drug paraphernalia. See Code Comparative Table for complete derivation. See sections\n               62-211 et seq. for similar provisions…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Secs. 62-67, 62-68. - Reserved.",
+        "a": "Editor's note—\nOrd. No. 4392, § 1, adopted July 1, 2013\n, repealed §§ 62-67 62-68, which pertained to offenses relating to marijuana; possession\n               of drug paraphernalia. See Code Comparative Table for complete derivation. See sections\n               62-211 et seq. for similar provisions."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 62-67"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

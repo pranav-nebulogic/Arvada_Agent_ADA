@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "unlawful",
+      "purposes",
+      "shall",
+      "any",
+      "person",
+      "sell",
+      "give"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-125"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-125. - Unlawful purposes.",
+    "summary": "It shall be unlawful for any person to sell, give, furnish, deliver or otherwise transfer,\n               or offer to sell, give, furnish, deliver or otherwise transfer to any person, any\n               substance releasing toxic vapors, when such seller, giver, furnisher, deliverer, transferrer\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-125. - Unlawful purposes.",
+        "a": "It shall be unlawful for any person to sell, give, furnish, deliver or otherwise transfer,\n               or offer to sell, give, furnish, deliver or otherwise transfer to any person, any\n               substance releasing toxic vapors, when such seller, giver, furnisher, deliverer, transferrer\n               or offerer knows or has reason to believe that such substance will be used for purposes\n               unlawful under\nsections 62-122\n—\n62-125\n.\n(Code 1981, § 21-60; Ord. No. 738, § 3, 10-21-1968)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-125"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

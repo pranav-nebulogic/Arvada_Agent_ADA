@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "leasing",
+      "city",
+      "owned",
+      "property",
+      "applicability",
+      "section",
+      "applies"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-211"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-211. - Leasing of city-owned property.",
+    "summary": "(a)\nApplicability.\nThis section applies to all city-owned real property unless such real property is\n               used for wireless communication facilities as stated in\nchapter 7\nof the Arvada Land Development Code or such real property is located in public rights-of-way.\n(b)\nDefinitions.\nFor the…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-211. - Leasing of city-owned property.",
+        "a": "(a)\nApplicability.\nThis section applies to all city-owned real property unless such real property is\n               used for wireless communication facilities as stated in\nchapter 7\nof the Arvada Land Development Code or such real property is located in public rights-of-way.\n(b)\nDefinitions.\nFor the purposes of this section, the following definitions shall apply:\n(1)\nThe term\n\"real property\"\nshall include an interest in land and any improvement and facility attached thereto,\n               except public rights-of-way.\n(2)\nThe term\n\"lease\"\nshall include an agreement, permit, contract, license, easement or other instrument\n               whereby the city grants the exclusive use of all or a portion of real property now\n               or hereafter owned by the city for an indefinite period of time or for a specific\n               period in excess of 30 calendar days.\n(c)\nCity council shall approve by resolution any lease of real property owned by the city\n               to a specific lessee for an initial term length satisfactory to the city council (\"original\n               lease\"). Upon completion of the original lease, the city manager or their designee\n               is authorized to approve any subsequent renewals, extensions, or amendments to the\n               original lease so long as the lessee remains the same as in the original lease. Any\n               change in lessees shall be approved by city council by resolution. Notwithstanding\n               the foregoing, the city manager is authorized to terminate a lease without city council\n               approval when it is in the best interests of the city to do so.\n(d)\nCity council shall approve by resolution any program delegating the authority to lease\n               and manage city-owned real property to the city manager or the appropriate city staff\n               for a specific purpose.\n(e)\nAll leases of real property, regardless of duration, must be in a form approved by\n               the city attorney.\n(Code 1981, § 2-13; Ord. No. 1939, §§ 1, 2, 6-20-1983; Ord. No. 1945, §§ 1, 2, 7-5-1983;\n               Ord. No.\n4850\n, § 1, 7-10-2023)\nEditor's note—\nThe leases mentioned in this section were attached as exhibits to the ordinances from\n               which this section derives, but are not set out in the Code. The text of the leases\n               can be found on file in the city clerk's office."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-211"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

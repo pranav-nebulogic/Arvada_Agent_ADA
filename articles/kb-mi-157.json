@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "community",
+      "police",
+      "demographics",
+      "employment",
+      "equal",
+      "department",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/543/Community-Police-Demographics"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-157",
+    "spreadsheet_id": "MI-157",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Community & Police Demographics",
+    "summary": "The Arvada Police Department is dedicated to equal employment opportunities and maintaining a workforce that reflects the community it serves, emphasizing diversity and inclusion through fair hiring practices and ongoing employee development. The department's recruitment efforts focus on attracting qualified candidates from underrepresented groups while ensuring a transparent and merit-based selection process. Current workforce demographics show that the department's sworn personnel generally align with the available workforce, with women representing approximately 19.9% of the force, exceeding national averages.",
+    "body": "## Equal Employment Opportunity and Workforce Demographics\n\nThe Arvada Police Department is committed to providing equal employment opportunities and maintaining a professional workforce that reflects the community we serve. Through fair hiring practices, proactive recruitment, and ongoing employee development, the Department strives to ensure that all qualified individuals have equal access to employment opportunities.\n\nThe Department’s Equal Employment Opportunity (EEO) Plan supports compliance with federal and state law, promotes equitable hiring and promotional practices, and reinforces the Department’s commitment to diversity, inclusion, and professionalism.\n\n## Commitment to Equal Employment Opportunity\n\nThe Arvada Police Department’s commitment to Equal Employment Opportunity is outlined in [Department policy PM 1001](https://public.powerdms.com/APD10/documents/827837) and reinforced through training, supervision, and organizational practices.\n\nAll employees review and acknowledge EEO policies, and supervisors receive training related to equitable hiring, interviewing, and workplace practices. The Department also maintains procedures designed to ensure hiring and promotional processes remain fair, transparent, and job-related.\n\nThe City of Arvada is an Equal Opportunity Employer and supports affirmative action principles in recruitment and hiring.\n\n## Recruitment and Hiring Philosophy\n\nThe Department’s recruitment and hiring philosophy focuses on identifying the best-qualified candidates while ensuring equal opportunity for all applicants.\n\nThe Arvada Police Department:\n\n- Guarantees equal access to employment opportunities for qualified applicants\n- Encourages applications from underrepresented groups\n- Uses merit-based hiring practices without quotas\n- Maintains professional standards while promoting inclusion and diversity\n- Conducts ongoing recruitment to build long-term relationships with community organizations, colleges, military personnel, and professional networks\n\nRecruitment efforts include outreach to minority, women, and special interest organizations, as well as participation in job fairs and community events.\n\n## Selection Process\n\nThe Department’s hiring process is designed to be legally compliant, transparent, and based on job-related qualifications.\n\nApplicants are informed about the hiring process early and receive communication throughout the selection process. Hiring standards are designed to ensure candidates possess the knowledge, skills, and abilities necessary for modern law enforcement service while protecting against bias or discrimination.\n\nThe Department also offers lateral entry opportunities for experienced officers and maintains reapplication pathways for eligible candidates.\n\n## Workforce Demographics\n\nThe Arvada Police Department compares workforce demographics against the City’s available workforce population in accordance with Commission on Accreditation for Law Enforcement Agencies (CALEA) guidance.\n\nFor comparison purposes, the “available workforce” includes Arvada residents over the age of 21 with at least a bachelor’s degree.\n\n### Sworn Officer Demographics Compared to Available Workforce (2025)\n\nThe Department’s workforce generally aligns with the demographics of the available workforce and exceeds benchmark representation in several categories.\n\n| **Demographic Group** | **Available Workforce** | **Arvada PD Sworn Personnel** |\n| --- | --- | --- |\n| White | 84.2% | 80.7% |\n| Hispanic | 8.3% | 12.9% |\n| Black | 0.7% | 1.2% |\n| American Indian / Alaska Native | 0.1% | 1.8% |\n| Asian | 3.9% | 1.8% |\n| Two or more races | 2.7% | 1.2% |\n| Native Hawaiian / Pacific Islander | <0.1% | 0.6% |\n\n## Female Representation\n\nWomen currently comprise approximately 19.9% of the Department’s sworn personnel, a figure that exceeds national averages for law enforcement agencies.\n\nThe Department continues to support mentorship, leadership development, and recruitment efforts aimed at increasing opportunities for women in policing.\n\n## Ongoing Commitment\n\nThe Arvada Police Department remains committed to continuous improvement in recruitment, hiring, retention, and employee development.\n\nBy maintaining transparent hiring practices, expanding outreach efforts, and fostering an inclusive workplace culture, the Department seeks to build and sustain a diverse, highly qualified workforce capable of serving the Arvada community with professionalism, fairness, and excellence.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

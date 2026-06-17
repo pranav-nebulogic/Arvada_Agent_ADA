@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "maximum",
+      "capacity",
+      "plumbing",
+      "fixtures",
+      "fittings",
+      "potable",
+      "water"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-102"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-102. - Maximum capacity of plumbing fixtures and fittings.",
+    "summary": "(a)\nThe potable water system in all residential structures shall be equipped with an approved\n               pressure regulator valve when the water pressure at the city water main is greater\n               than 80 pounds per square inch gauge (psi). The maximum water pressure on the discharge\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-102. - Maximum capacity of plumbing fixtures and fittings.",
+        "a": "(a)\nThe potable water system in all residential structures shall be equipped with an approved\n               pressure regulator valve when the water pressure at the city water main is greater\n               than 80 pounds per square inch gauge (psi). The maximum water pressure on the discharge\n               side of the pressure regulator valve shall not exceed 75 psi.\n(b)\nTank-type water closets shall be designed to flush with a maximum of 1.6 gallons of\n               water.\n(c)\nShowerheads used for the purpose of bathing, lavatory faucets and sink faucets shall\n               have a maximum flow capacity of 2.5 gallons per minute.\n(Code 1981, § 33-52; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2763, § 1, 11-5-1990;\n               Ord. No. 3127, § 8, 10-24-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-102"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

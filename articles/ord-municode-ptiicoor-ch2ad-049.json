@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "dishonored",
+      "check",
+      "fee",
+      "any",
+      "person",
+      "tenders",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-264"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-264. - Dishonored check fee.",
+    "summary": "(a)\nAny person who tenders to the city a dishonored check in payment of an amount of money\n               that is due and owing to the city shall pay to the city a charge at a rate set forth\n               in the administrative fee schedule, as approved by the city manager. This charge shall\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-264. - Dishonored check fee.",
+        "a": "(a)\nAny person who tenders to the city a dishonored check in payment of an amount of money\n               that is due and owing to the city shall pay to the city a charge at a rate set forth\n               in the administrative fee schedule, as approved by the city manager. This charge shall\n               be to cover the additional accounting and procession costs incurred by the city in\n               handling any check that is so dishonored.\n(b)\nAs used in this section, the term \"dishonor\" means the process described in and governed\n               by article 3 of the Uniform Commercial Code, as adopted by the state.\n(Code 1981, § 2-192; Ord. No. 1813, § 1, 2-1-1982; Ord. No. 2019, § 1, 12-19-1983;\n               Ord. No. 2750, § 1, 9-4-1990; Ord. No. 3237, § 3, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-264"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

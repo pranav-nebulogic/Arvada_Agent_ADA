@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "development",
+    "tags": [
+      "planning",
+      "development",
+      "email",
+      "invoice",
+      "send",
+      "actors",
+      "Planning & Zoning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1369/Planning-and-Development"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/development/pz-010",
+    "spreadsheet_id": "PZ-010",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Planning and Development",
+    "summary": "The City of Arvada's Planning and Building Staff will only send invoices for fees upon request, and residents are warned about potential phishing emails that may misuse public hearing information to solicit payments. If a suspicious invoice is received, individuals should verify its authenticity by contacting the city directly.",
+    "body": "**Alert: City of Arvada Planning and Building Staff will not send you an invoice for your fees unless it is requested. Bad actors may send phishing emails using public hearing information to request payment. If you receive a suspicious invoice, please verify first by contacting us at [[email protected]](/cdn-cgi/l/email-protection#2644534f4a424f48415643544b4f52556647545047424708495441) or 720-898-7620.**",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "withdrawal",
+      "applications",
+      "application",
+      "withdrawn",
+      "applicant",
+      "time",
+      "reinitiate",
+      "review",
+      "resubmit",
+      "which"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-10"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-10. Withdrawal of applications.",
+    "summary": "An application may be withdrawn by the Applicant at any time. To reinitiate review, the Applicant shall resubmit the application, which in all respects shall be treated as a new application for purposes of review and scheduling.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-10. Withdrawal of applications.",
+        "a": "An application may be withdrawn by the Applicant at any time. To reinitiate review, the Applicant shall resubmit the application, which in all respects shall be treated as a new application for purposes of review and scheduling."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-10"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

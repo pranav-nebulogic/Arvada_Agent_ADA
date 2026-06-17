@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "surfacing",
+      "maintenance",
+      "street",
+      "parking",
+      "areas",
+      "vehicle",
+      "drive",
+      "aisles",
+      "stacking",
+      "loading"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-4-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-4. USE AND MAINTENANCE OF PARKING AREAS"
+  },
+  "content": {
+    "title": "4-5-4-2. Surfacing and maintenance of off-street parking areas.",
+    "summary": "A.\tSurfacing.\n  1.\tVehicle drive aisles, parking areas, stacking areas, and loading areas shall be graded and surfaced with concrete, bituminous asphalt, or other material approved by the Director.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-4-2. Surfacing and maintenance of off-street parking areas.",
+        "a": "A.\tSurfacing.\n  1.\tVehicle drive aisles, parking areas, stacking areas, and loading areas shall be graded and surfaced with concrete, bituminous asphalt, or other material approved by the Director. The surfacing material shall protect against potholes, erosion, and dust.\n  2.\tParking spaces shall be defined on the pavement surface with striping and color delineation.\n  3.\tThe Director may approve an alternative surface for low-turnover uses or overflow parking if:\n    a.\tUse of the alternative surface will not cause undue airborne dust;\n    b.\tThe perimeter of the parking area is defined by curb and gutter, bricks, stones, or other similar devices; and\n    c.\tSurfaces with loose materials are set back at least 25 feet from the edge of pavement of the connecting public street.\nB.\tMaintenance. Off-street parking surfaces shall be kept in good condition, free of weeds, dust, trash or debris, and parking space lines or markings shall be kept clearly visible and distinct."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "right",
+      "entry",
+      "generally",
+      "city",
+      "shall",
+      "survey",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-282"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-282. - Right of entry.",
+    "summary": "(a)\nGenerally.\nThe city shall have the right of entry to survey any structure or premises within\n               the city for the presence of a cross-connection, to inspect a cross-connection, to\n               assess possible contamination risk, to test the backflow assembly or method, to audit\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-282. - Right of entry.",
+        "a": "(a)\nGenerally.\nThe city shall have the right of entry to survey any structure or premises within\n               the city for the presence of a cross-connection, to inspect a cross-connection, to\n               assess possible contamination risk, to test the backflow assembly or method, to audit\n               any backflow assembly or method, to determine compliance with this article, whenever\n               there is reasonable cause to believe there exists in a structure or upon a premises\n               a condition in violation of this article, or otherwise to enforce this Code. This\n               right of entry shall be a condition of water service in order to protect the health,\n               safety and welfare of customers throughout the city's distribution system.\n(b)\nProcess.\nThe director is authorized to exercise the city's right of entry at reasonable times\n               to perform the duties imposed by this Code. If the structure or premises is occupied,\n               the director shall present credentials to the occupant and request entry. If the structure\n               or premises is unoccupied, the director shall first make a reasonable effort to contact\n               the owner or other person having charge or control of the structure or premises and\n               request entry. If entry is refused, the director may apply to the municipal court\n               for a warrant if the warrant relates to a violation of this article, involves a serious\n               threat to public safety or order, and the violation is not also a violation prohibited\n               by state statute for which a search warrant could be issued by a district or county\n               court. The purpose of the warrant may be to enter the premises and any structure thereon\n               to survey the premises and any structure thereon for the presence of a cross-connection,\n               to search for and inspect the uncontrolled connection or source of the suspected contamination\n               risk, to collect water samples, to assess possible contamination risk, to audit or\n               test the backflow assembly or method, and to determine compliance with and otherwise\n               enforce this article. The director shall also have recourse to any other remedy provided\n               by law to secure entry.\n(\nOrd. No. 4829\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-282"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

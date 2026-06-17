@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "required",
+      "notice",
+      "application",
+      "type",
+      "public",
+      "administrative",
+      "applications",
+      "neighborhood",
+      "meetings",
+      "scheduled"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-4-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-4. REQUIRED NOTICES"
+  },
+  "content": {
+    "title": "8-2-4-2. Required notice by application type.",
+    "summary": "Public notice of administrative applications, neighborhood meetings, or scheduled public meetings or public hearings shall be provided as set out in Table 8-2-4-2, Notice Requirements by Application Type.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-4-2. Required notice by application type.",
+        "a": "Public notice of administrative applications, neighborhood meetings, or scheduled public meetings or public hearings shall be provided as set out in Table 8-2-4-2, Notice Requirements by Application Type. If an application type is not listed, then no notice is required, unless it is determined to be necessary by the Director.\nA.\tGenerally. Contents of the public notice will be determined by the Director.\nB.\tPublic Notice Contents. All notices required by this Section shall:\n  1.\tIndicate the time and place of the public hearing or meeting, if necessary, except for a Notice of Administrative Application;\n  2.\tSufficiently describe the property involved; for example, by legal description, general vicinity, street address, size, and/or nearest cross street;\n  3.\tDescribe the nature, scope, and purpose of the application or proposal being advertised;\n  4.\tIndicate that interested parties may appear and the manner, extent and timing of public participation permitted (e.g., filing written comments with the Director, speaking at the scheduled hearing or meeting, etc.), except for Notice of Administrative Application; and\n  5.\tIndicate where additional information can be obtained.\nC.\tAppeal Notices. Notices of a pending appeal must include a copy of the petition for appeal and a date, time, and location for the appeal hearing, and either a copy of the rules of procedure for the Appellate Body or instructions regarding how to obtain a copy. Such notices shall be mailed to the Applicant (if different from the appellant), the appellant, and any person or entity that has applied for party status.\nD.\tVested Rights Notices. Notice of a decision to grant vested rights shall be published in accordance with the requirements of C.R.S. § 24-68-101, as it may be amended from time to time.\n(Ord. No. 4793, § 6, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "inspection",
+      "scheduling",
+      "instructions",
+      "automated",
+      "phone",
+      "codes",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1243/Inspection-Scheduling-and-Automated-Phon"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-278",
+    "spreadsheet_id": "MI-278",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Inspection Scheduling Instructions and Automated Phone Codes",
+    "summary": "Inspections can be scheduled, canceled, or checked via text by sending specific commands to 866-783-1447, using the format \\\"S\\\" for scheduling, \\\"C\\\" for cancellation, and \\\"R\\\" for results, followed by the permit number and inspection code. A comprehensive list of inspection codes is provided for various categories, including building, engineering, traffic, and stormwater. For further assistance, contact the Building Inspections at (720) 898-7620 or Engineering Inspections at (720) 898-7640.",
+    "body": "## Schedule Inspections in Text Messages\n\n- **Text phone number:**[866-783-1447](tel:8667831447)\n- **Use S to Schedule, C to cancel, and R to check results**\n  - **To Schedule, text:****S** [space] **Permit Number** [space] **Inspection Code**.   \n    Example: S ROOF24-00164 100\n  - **To Cancel, text:****C** [space] **Permit Number** [space] **Inspection Code**.   \n    Example: C ROOF24-00164 100\n  - **To Check Results, text:****R** [space] **Permit Number** [space] **Inspection Code**.   \n    Example: R ROOF24-00164 100\n- Or send a text to [**866-783-1447**](tel:8667831447) with just one word and then follow the prompts to enter your permit number and inspection code:\n  - **Schedule**to schedule an inspection\n  - **Reschedule**to reschedule an inspection\n  - **Cancel**to cancel an inspection\n  - **Results** to obtain inspection results\n\n## Inspection Codes\n\n### Building\n\n- 100 Footing\n- 101 Foundation wall\n- 102 Structural sheathing\n- 103 Rough framing\n- 104 Insulation\n- 105 Drywall\n- 106 Roofing\\*\\*\n- 109 Structural Floor\n- 111 Mid-Roof\n- 112 Fire Rated Wall\n- 113 Foundation Insulation\n- 118 Investigation\n- 119 House Wrap\n- 120 Radon\n- 189 Final Demo\\*\\*\n- 199 Final Structural\\*\\*\n- 200 Underground HVAC\n- 201 Rough HVAC\n- 202 Above Ceiling HVAC\n- 203 Commercial Hood/Duct\n- 205 Hydronic Pipe Test\n- 206 Refrigeration\n- 209 Gas Piping\n- 210 Gas Meter Release\n- 299 Final HVAC\\*\\*\n- 300 Damp Proofing\n- 301 Underground Plumb\n- 302 Rough Plumbing\n- 304 Water Piping Test\n- 306 Shower Pan\n- 307 Grease Trap Inceptor\n- 308 Roof Drain\n- 311 Foundation Drain\n- 399 Final Plumbing\\*\\*\n- 400 Construction Meter\n- 401 Underground Elec\n- 403 Rough Electric\n- 404 Elec Service/Cl\n- 406 CEG/UFER\n- 407 Electrical Above Ceiling\n- 412 Pool/Hot Tub Bonding\n- 499 Final Electrical\\*\\*\n- 579 Final Sign\\*\\*\n- 700 CO/TCO\n\n### Engineering\n\n- 501 CIP Asphalt\n- 502 CIP Concrete\n- 503 CIP Traffic\n- 504 CIP Wet Utility\n- 510 Dev Asphalt\n- 511 Dev Concrete\n- 512 Dev Traffic\n- 513 Dev Wet Utility\n- 520 Dry Utility\\*\\*\n- 530 ROW Access\\*\\*\n- 531 ROW Asphalt\\*\\*\n- 532 ROW Concrete\\*\\*\n- 533 ROW Traffic\\*\\*\n- 534 ROW Wet Utility\\*\\*\n- 578 Co-Public Improvement\n\n### Traffic\n\n- 606 Structure\n\n### Stormwater\n\n- 579 Compliance\n- 801 Initial Site Dev\n- 802 Routine\n- 803 Final Site Develop\\*\\*\n- 804 Follow Up\n\n### Need further assistance?\n\nBuilding Inspections   \n(720) 898-7620\n\n Engineering Inspections  \n(720) 898-7640\n\n[Download the printable version of this information! (PDF)](/DocumentCenter/View/288/Inspection-Scheduling-Instructions-PDF)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

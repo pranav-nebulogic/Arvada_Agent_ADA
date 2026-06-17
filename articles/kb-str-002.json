@@ -1,0 +1,46 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "short_term_rentals",
+    "tags": [
+      "short-term rental",
+      "STR registration",
+      "business license",
+      "rental permit"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/259/Short-Term-Rentals"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/short-term-rentals/str-002",
+    "spreadsheet_id": "STR-002",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Registering A Short-Term Rental",
+    "summary": "To operate a short-term rental (STR) in Arvada, applicants must obtain both a short-term rental permit and a business license. Required materials for the application include proof of property ownership, a property diagram, a maintenance plan, a property inspection form signed by a certified inspector, proof of liability insurance, and a neighborhood notification letter. The application can be submitted online, and the review process typically takes about 10 business days.",
+    "body": "Are you thinking about operating a short-term rental (STR) permit in Arvada? The City of Arvada requires both a short-term rental permit and a business license to operate an STR within the City. Below is information about applying for a permit, associated fees, and other requirements. For full details, refer to the [City of Arvada Land Development Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH3USRE_ART3-1PRLAUSRE_DIV3-1-5BUUSHO_3-1-5-3SHTERE) or the [FAQ page](https://www.arvadaco.gov/m/faq?cat=21).\n\n## Materials needed for application\n\nThe following items are required to be submitted when applying for your short term rental permit:\n\n1. **Proof of ownership of the property**. This may be by a copy of a recorded deed, by a notarized letter signed by the permittee attesting that they hold an ownership interest in the permitted property as the term \"ownership interest\" is defined in the [Arvada Land Development Code](https://www.arvadaco.gov/179/Land-Development-Code), section 11-3-3-1, or proof that the applicant is a named beneficiary of a trust that owns the property.\n2. **A diagram or floor plan depicting the property for which the STR permit is being sought**. It must show all floors of the dwelling to be permitted, both finished and unfinished; use of rooms or areas; door locations; egress window locations and the size of each egress window; the location of fire extinguishers; and the location of smoke and carbon monoxide detectors.\n3. **A written property maintenance plan**, including the permittee’s plan for mowing the lawn and removing weeds, for snow and ice removal, and for rubbish and garbage removal, including the name and contact information for the permittee’s trash hauling service.\n4. **A completed STR Property Inspection Form.** Your home must be inspected and this form signed by a third-party Certified Home Inspector (ASHI, InterNACHI or a Certified Master Inspector) **no more than 30 days prior to applying for your permit**.\n    1. [Download Property Inspection Form](https://www.arvadaco.gov/DocumentCenter/View/7402) and submit.\n5. **A valid City of Arvada business license**. This is obtained through the City’s [online licensing and tax system, MUNIRevs](https://arvada.munirevs.com/).\n6. **Proof of insurance**. The STR permitree must maintain at least $1 million in liability insurance that covers the use of the property as a short-term rental (or proof that a short-term rental through a hosting platform provides this coverage as part of their services agreement).\n7. **Neighborhood notification letter.** The STR permittee must notify the owner or tenant of each lot that shares a property line with the lot on which the permitted STR is located. The notice must be transmitted by first class U.S. mail within 14 days of issuance of the permit. \n    1. [Download Neighborhood Notification letter template](https://www.arvadaco.gov/DocumentCenter/View/7410/STR-Mailing-Notice) and deliver to neighbors.\n    2. [Submit proof of notice](https://www.arvadaco.gov/DocumentCenter/View/7401/Affidavit-Certifying-STR-Notice-Requirementsdocx). This form must be notarized prior to submission.\n\n## How to apply\n\nApply online [via the Permit Portal]([NEW PORTAL URL]). If you don't already have a public account, you will need to create one.\n\nTo obtain a business license, apply online [via MUNIRevs](https://arvada.munirevs.com/).\n\nPlease note there is a fee associated with the short-term rental permit. For information, [view the fee schedule](https://www.arvadaco.gov/DocumentCenter/View/6740).\n\n## Typical review timelines\n\nOnce a completed application has been submitted, the City of Arvada team will review the application for compliance. Reviews typically take 10 business days to be completed.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

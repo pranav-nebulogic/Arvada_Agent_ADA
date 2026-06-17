@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "connections",
+      "assessment",
+      "illegal",
+      "any",
+      "sewer",
+      "district",
+      "upon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-133"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-133. - Connections when assessment illegal.",
+    "summary": "If in any sewer district any assessment upon the lots therein for the acquisition\n               of the sewer has in any court of competent jurisdiction been held illegal, the owner\n               of any lot in such district shall only be permitted to connect with such sewer upon\n               paym…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-133. - Connections when assessment illegal.",
+        "a": "If in any sewer district any assessment upon the lots therein for the acquisition\n               of the sewer has in any court of competent jurisdiction been held illegal, the owner\n               of any lot in such district shall only be permitted to connect with such sewer upon\n               payment into the treasury for the use of the holder of warrants or bonds issued for\n               the acquisition of such sewer or if such warrants and bonds have been taken up then\n               into the general fund of the city, such amount as may be fixed by ordinance. Nothing\n               contained in this article concerning sewer districts shall be construed as applicable\n               to storm sewers and to drains acquired as a part of a street project.\n(Code 1981, § 27-133; Ord. No. 551, § 74, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-133"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

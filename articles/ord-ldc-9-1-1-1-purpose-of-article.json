@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "generally",
+      "application",
+      "regulations",
+      "existing",
+      "legally",
+      "established",
+      "development",
+      "create"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-1-1"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "9-1-1-1. Purpose of article.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-1-1. Purpose of article.",
+        "a": "A.\tGenerally. The application of new regulations to an existing legally established development may create circumstances in which existing lot dimensions, density, intensity, land uses, buildings, structures, landscaping and buffering, lighting, parking areas, or signs do not strictly conform to the requirements before the Effective Date of this LDC. For existing lots or development (including uses, buildings, structures, and signs) that are legally nonconforming to the standards in the LDC, this Article sets out equitable rules for whether, when, and how the regulations of this LDC apply.\nB.\tIllegal Uses, Buildings and Structures. Land uses established, and buildings and structures constructed, before the Effective Date of the new regulations that do not meet the requirements, but that were established or constructed without required permits or approvals from the City, are illegal; they are not addressed by this Division and are violations of the Article."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

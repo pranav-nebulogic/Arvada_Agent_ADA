@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "landscaping",
+      "footnotes",
+      "editor",
+      "note",
+      "ord",
+      "adopted",
+      "april"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 38-241"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — ARTICLE VI. - LANDSCAPING",
+    "summary": "Footnotes:\n--- (\n5\n) ---\nEditor's note—\nOrd. No.\n4760\n, § 1, adopted April 19, 2021, repealed the former Art. VI., §§ 38-241—38-242, and\n               enacted a new Art. VI as set out herein. The former Art. VI pertained to Trees and\n               Shrubs and derived from 1960 Code, § 23-5, 23-6; 1…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE VI. - LANDSCAPING",
+        "a": "Footnotes:\n--- (\n5\n) ---\nEditor's note—\nOrd. No.\n4760\n, § 1, adopted April 19, 2021, repealed the former Art. VI., §§ 38-241—38-242, and\n               enacted a new Art. VI as set out herein. The former Art. VI pertained to Trees and\n               Shrubs and derived from 1960 Code, § 23-5, 23-6; 1981 Code, § 32-1, 32-6; Ord. No.\n               2061, § 5, adopted May 21, 1984; Ord. No. 3912, § 1, adopted Oct. 4, 2004; and Ord.\n               No. 4042, § 3, adopted Dec. 11, 2006."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 38-241"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

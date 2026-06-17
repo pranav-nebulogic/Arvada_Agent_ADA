@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "traffic",
+      "impact",
+      "analysis",
+      "generally",
+      "study",
+      "required",
+      "applications",
+      "development",
+      "review",
+      "approval"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-6-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-6. STUDIES AND REPORTS"
+  },
+  "content": {
+    "title": "8-2-6-1. Traffic impact analysis.",
+    "summary": "A.\tGenerally. A traffic study may be required with applications for development review and approval. Depending on trip generation estimates, a Trip Generation Letter or a Traffic Impact Analysis (TIA) shall be prepared for the development when required by the Director.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-6-1. Traffic impact analysis.",
+        "a": "A.\tGenerally. A traffic study may be required with applications for development review and approval. Depending on trip generation estimates, a Trip Generation Letter or a Traffic Impact Analysis (TIA) shall be prepared for the development when required by the Director. Estimates of trip generation shall be based on data found in the Institute of Transportation Engineers (ITE) Trip Generation Manual (latest edition). All studies shall be prepared in accordance with the City of Arvada's Engineering Code of Standards and Specifications.\nB.\tAdditional, Supplementary, or Amended Studies. When access points are not defined or a site plan is not available at the time the TIA is prepared, additional studies, supplementary studies, or amendments to the previously submitted TIA may be required when a site plan becomes available or the access points are defined. Additionally, if a TIA for a development is outdated, a revised study may be required."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-6-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "generally",
+      "these",
+      "regulations",
+      "establishes",
+      "minimum",
+      "standards",
+      "land",
+      "subdivision"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-2-1-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-2. SUBDIVISION STANDARDS",
+    "division": "DIVISION 4-2-1. SUBDIVISION STANDARDS"
+  },
+  "content": {
+    "title": "4-2-1-1. Purpose of article.",
+    "summary": "Generally. These regulations establishes the minimum standards for the land subdivision in order to facilitate the orderly growth and development of the City.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-2-1-1. Purpose of article.",
+        "a": "Generally. These regulations establishes the minimum standards for the land subdivision in order to facilitate the orderly growth and development of the City. The standards of this Article shall apply to all subdivision or re-subdivisions of land or air-space within the City, and any additional lands over which the City has control authority under C.R.S. § 31-23-212. No plat of a subdivision of land, or similar document pertaining to the division of air-space, shall be used for purposes of sale or building development until approved and recorded under the provisions of this Article."
+      }
+    ],
+    "ordinance_refs": [
+      "4-2-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

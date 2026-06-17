@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "academy",
+      "recruits",
+      "police",
+      "time",
+      "training",
+      "august",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1144/The-Academy"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-550",
+    "spreadsheet_id": "MI-550",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "The Academy",
+    "summary": "The Academy is a docuseries that provides an in-depth look at the training of police recruits at the Arvada Police Department, starting with ten new recruits in August 2024 at the Red Rocks Community College Law Enforcement Academy. The series follows their journey through various training episodes that cover essential skills, including physical training, firearms introduction, and scenario-based exercises, culminating in their graduation as certified peace officers in Colorado.",
+    "body": "Welcome to The Academy, a captivating docuseries that takes you behind the scenes of police officer training at the Arvada Police Department. Here, recruits embark on a transformative process as they learn the essential skills and knowledge needed to become certified peace officers in Colorado.\n\nFor the first time, you’ll witness the challenges and triumphs of recruits in real time. In August 2024, ten new Arvada PD recruits began their training at the Red Rocks Community College Law Enforcement Academy. Join us as we follow the journey of the Fall 2024 academy class through weekly episodes that showcase the rigorous training required to become a police officer.\n\n## Episodes\n\n1. [Orientation and Recruit Family Night![](/ImageRepository/Document?documentId=4578)](https://www.youtube.com/watch?v=sGJY7utYH3Y)\n2. [Physical Training![](/ImageRepository/Document?documentId=4582)](https://youtu.be/rFkCAYMe6AU?feature=shared)\n3. [Verbal Communication![](/ImageRepository/Document?documentId=4615)](https://youtu.be/7CjjTjgIpDI?feature=shared)\n4. [Officer Survival![](/ImageRepository/Document?documentId=4631)](https://www.youtube.com/watch?v=mQ7gbgneIYU)\n5. [Introduction to Firearms![](/ImageRepository/Document?documentId=4693)](https://www.youtube.com/watch?v=TGIvFK2AzyY)\n6. [Impact Weapon Training![](/ImageRepository/Document?documentId=4739)](https://www.youtube.com/watch?v=KoulTWzVGQA)\n7. [Uniform Inspection![](/ImageRepository/Document?documentId=4760)](https://www.youtube.com/watch?v=zZVC7UYE9TQ)\n8. [Traffic Stop Scenarios![](/ImageRepository/Document?documentId=4786)](https://youtu.be/3-Re90dnB48?feature=shared)\n9. [Domestic Violence![](/ImageRepository/Document?documentId=4866)](https://www.youtube.com/watch?v=Lf_h4ldxOnU)\n10. [Nighttime Firearms Training![](/ImageRepository/Document?documentId=4878)](https://www.youtube.com/watch?v=SA4rO_P1l4s)\n11. [Tactics Training![](/ImageRepository/Document?documentId=4891)](https://www.youtube.com/watch?v=3K5JtLO4KFg)\n12. [Wet Lab Training![](/ImageRepository/Document?documentId=4903)](https://www.youtube.com/watch?v=eiHvWGTBoug)\n13. [Red Rocks Challenge![](/ImageRepository/Document?documentId=4942)](https://www.youtube.com/watch?v=Nf6MIIYTdSM)\n14. [Graduation Day![](/ImageRepository/Document?documentId=4943)](https://www.youtube.com/watch?v=YaAOJSGeqS4&t=1s)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

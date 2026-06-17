@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "amendments",
+      "code",
+      "any",
+      "all",
+      "additions",
+      "passed",
+      "such"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH1GEPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:08.706973+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 1-11"
+    ],
+    "chapter": "Chapter 1 - GENERAL PROVISIONS"
+  },
+  "content": {
+    "title": "Chapter 1 - GENERAL PROVISIONS — Sec. 1-11. - Amendments to Code.",
+    "summary": "(a)\nAny and all additions and amendments to this Code, when passed in such form as to\n               indicate the intention of the city council to make the addition or amendment a part\n               of this Code, shall be deemed to be incorporated in this Code so that reference to\n               th…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 1-11. - Amendments to Code.",
+        "a": "(a)\nAny and all additions and amendments to this Code, when passed in such form as to\n               indicate the intention of the city council to make the addition or amendment a part\n               of this Code, shall be deemed to be incorporated in this Code so that reference to\n               the Code shall be understood and intended to include such additions and amendments.\n(b)\nAll ordinances passed subsequent to this Code which amend, repeal or in any way affect\n               this Code may be numbered in accordance with the numbering system of this Code and\n               printed for inclusion in this Code. When subsequent ordinances repeal any chapter,\n               section or subsection or any portion of a chapter, section or subsection, such repealed\n               portions may be excluded from the Code by omission from reprinted pages. The subsequent\n               ordinances as numbered and printed or omitted in a repeal shall be prima facie evidence\n               of such subsequent ordinances until such time that this Code and subsequent ordinances\n               numbered or omitted are readopted as a new code by the city council.\n(c)\nAmendments to any section of this Code shall be made by amending such section by specific\n               reference to the section number of this Code in the following language: \"That section\n               _____ of the Code of the City of Arvada, Colorado, is hereby amended to read as follows:….\"\n               The new section shall then be set out in full and shall be underscored, and any provisions\n               which are to be deleted shall be enclosed in brackets.\n(d)\nIf a new section not existing in the Code is to be added, the following language shall\n               be used: \"That the Code of the City of Arvada, Colorado, is hereby amended by adding\n               a section, to be numbered _____, which section reads as follows:….\" The new section\n               shall then be set out in full and shall be underscored."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 1-11"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

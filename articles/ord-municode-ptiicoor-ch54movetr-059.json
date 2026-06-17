@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "description",
+      "restriction",
+      "block",
+      "designated",
+      "restricted",
+      "parking",
+      "area"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-243"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-243. - Description of restriction.",
+    "summary": "(a)\nIn a block which has been designated as a restricted parking area adjacent to an affected\n               public school and in which there have been erected signs that conform to the requirements\n               of law, on-street parking of motor vehicles may be prohibited between the hours of\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-243. - Description of restriction.",
+        "a": "(a)\nIn a block which has been designated as a restricted parking area adjacent to an affected\n               public school and in which there have been erected signs that conform to the requirements\n               of law, on-street parking of motor vehicles may be prohibited between the hours of\n               9:00 a.m. and 8:30 p.m., holidays excepted, or as denoted on signs posted in the area,\n               unless there is properly displayed in the vehicle the permit provided for in\nsection 54-246\n. For purposes of this article, such a permit is properly displayed only when it is\n               located on the dashboard of the vehicle in front of the driver's seat and the date\n               of expiration of the permit is clearly visible through the windshield of the vehicle.\n(b)\nIn a block which has been designated as a restricted parking area adjacent to an affected\n               public park and in which there have been erected signs that conform to the requirements\n               of law, on-street parking of motor vehicles shall be prohibited on the side of the\n               street immediately adjacent to residences unless there is properly displayed in the\n               vehicle the parking permit provided for in\nsection 54-246\n. For purposes of this article, such a permit is properly displayed only when it is\n               located on the dashboard of the vehicle in front of the driver's seat and the date\n               of expiration of the permit is clearly visible through the windshield of the vehicle.\n(c)\nThe owner, driver, or both, of any vehicle that is parked in violation of this article\n               shall be subject to the penalty provided for in\nsection 54-249\n.\n(Code 1981, § 17-127; Ord. No. 2804, § 1, 4-15-1991; Ord. No. 2996, § 1, 8-16-1993;\n               Ord. No. 3380, § 1, 6-30-1997;\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-243"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

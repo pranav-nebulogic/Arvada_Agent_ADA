@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "minor",
+      "subdivision",
+      "plat",
+      "generally",
+      "creates",
+      "more",
+      "than",
+      "nine",
+      "lots",
+      "within"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-8-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-8. SUBDIVISIONS"
+  },
+  "content": {
+    "title": "8-3-8-4. Minor subdivision plat.",
+    "summary": "A.\tGenerally. The Minor Subdivision Plat creates no more than nine lots within a subdivision. Minor subdivisions may also be used for boundary line/lot line adjustments to an approved plat, correction of errors on an approved final plat and for vacations of utility easements.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-8-4. Minor subdivision plat.",
+        "a": "A.\tGenerally. The Minor Subdivision Plat creates no more than nine lots within a subdivision. Minor subdivisions may also be used for boundary line/lot line adjustments to an approved plat, correction of errors on an approved final plat and for vacations of utility easements. All necessary construction plans for public improvements shall be ready for approval prior to the Director's decision on the Minor Subdivision Plat. Blocks and tracts shall not be counted as lots.\nB.\tApproval Criteria.\n  1.\tThe Director shall approve an application for Minor Subdivision Plat approval if it meets the following criteria:\n    a.\tThe proposed subdivision is consistent with the Comprehensive Plan.\n    b.\tThe proposed subdivision is consistent with and implements the intent of the zoning district in which it is located. If the subject property is in a PUD zoning district, the subdivision is consistent with any previously approved PUD Development Plan.\n    c.\tThe proposed subdivision will not result in significant adverse impacts on the natural environment or the use and enjoyment of adjoining property, including changes in air quality, water quality, noise levels, stormwater runoff, wildlife habitat, and/or natural vegetation, in that such impacts will be substantially avoided or mitigated by design.\n    d.\tThe proposed subdivision complies with all applicable regulations, standards, requirements, or plans of the federal or state governments and other general or special-purpose governmental entities with jurisdiction, involving (but not limited to) such matters as wetlands, water quality, erosion control, potable water, fire safety, or wastewater regulations.\n    e.\tPlans and specifications for improvements connected with development of the subdivision comply with the development and design standards set forth in Chapter 2, Zoning Districts, Chapter 4, Environmental and Site Design and other applicable provisions of this Code. Applicants shall avoid creating lots or patterns of lots in the subdivision that will make future compliance with such development and design standards difficult or infeasible.\n    f.\tAdequate and sufficient public safety, transportation, utility facilities and services, recreation facilities, parks, and schools will, prior to development, be available to serve the subject property, while maintaining sufficient levels of service to existing development.\n  2.\tThe Applicant has paid or satisfied the following fees and charges (seeArticle 8-4, Required Improvements, Dedications, and Fees and Section 74-31, Arvada Municipal Code), unless the City Council has approved alternative arrangements:\n    a.\tLand Dedication In-Lieu Fee;\n    b.\tPark Development Fee;\n    c.\tSchool Fees;\n    d.\tEngineering Review Fee; and\n    e.\tAny other fees or reimbursements due.\n  3.\tThe Director may approve a utility easement vacation application if no utility provider objects to the proposal and the Director determines that the easement is not currently or foreseeably necessary for the public health, safety, or welfare."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-8-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

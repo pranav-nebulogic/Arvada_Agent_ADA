@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "deferral",
+      "fees",
+      "generally",
+      "city",
+      "council",
+      "allow",
+      "imposed",
+      "pursuant",
+      "division",
+      "applicable"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-3-10"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-3. LAND DEDICATION; FEES-IN-LIEU; AND DEVELOPMENT FEES"
+  },
+  "content": {
+    "title": "8-4-3-10. Deferral of fees.",
+    "summary": "A.\tGenerally. City Council may allow for the deferral of fees imposed pursuant to this Division on Applicable Residential Development in the manner set out in this Section.\nB.\tDeferral Agreements.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-3-10. Deferral of fees.",
+        "a": "A.\tGenerally. City Council may allow for the deferral of fees imposed pursuant to this Division on Applicable Residential Development in the manner set out in this Section.\nB.\tDeferral Agreements. City Council may authorize deferral of fee payments by approving by resolution a written deferral agreement entered into with the person or entity from which the fees are payable, which agreement shall contain such terms and conditions as the City Council determines are in the best interests of the City, and provided that the City Council also determines and finds in the resolution that allowing the deferral of fees imposed on new development will serve a public purpose. For the purposes of this Subsection B., a public purpose may include, without limitation, providing the public with significant social, economic or cultural benefits. Deferral agreements may be stand-alone agreements or components of other agreements between the Applicant and the City with respect to the development of the subject property.\nC.\tEnforcement Provisions.\n  1.\tAll deferral agreements shall include the following enforcement provisions:\n    a.\tIn the event that any amounts owed under the deferral agreement are not paid when due, and except as otherwise provided in the deferral agreement, such unpaid amounts shall be a perpetual lien upon the real property for which the deferred fees are owed from the date the fees are due under the agreement until paid. Such lien shall have priority over all other liens except those for real property taxes.\n    b.\tIf any deferred fee is not paid when due, the City may pursue all remedies available to it under the law to collect such fee, including, without limitation, by judicially foreclosing the lien. The City Clerk may also certify any delinquent fees and other amounts owed under the deferral agreement to the treasurer of the County in which the subject property is located, and such fees and amounts shall then be collected in the same manner as though they were real property taxes.\n  2.\tA deferral agreement may also provide that the City has the right to withhold or revoke any building permits, certificates of occupancy, and other City approvals relating to the development of the real property for which deferred fees are delinquent in payment."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-3-10"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

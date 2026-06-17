@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "right",
+      "entry",
+      "inspection",
+      "purposes",
+      "interest",
+      "public",
+      "safety"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH53MENDIMA"
+    ],
+    "scraped_at": "2026-06-10T12:02:40.728035+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 53-63"
+    ],
+    "chapter": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA"
+  },
+  "content": {
+    "title": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA — Sec. 53-63. - Right of entry for inspection purposes.",
+    "summary": "(a)\nIn the interest of public safety, and subject to the requirements and limitations\n               herein, an authorized public inspector of the city shall have the right during reasonable\n               hours to enter upon and into any residential structure within the city where marijuana\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 53-63. - Right of entry for inspection purposes.",
+        "a": "(a)\nIn the interest of public safety, and subject to the requirements and limitations\n               herein, an authorized public inspector of the city shall have the right during reasonable\n               hours to enter upon and into any residential structure within the city where marijuana\n               plants, whether medical or non-medical, are being grown or processed for the purpose\n               of conducting an inspection of the premises to determine if the premises comply with\n               the requirements of this article IV.\n(b)\nSuch entry shall be with the permission of the owner or occupant of the residential\n               structure; provided, however, if such permission is refused, or the premises are locked\n               and the public inspector has been unable to obtain such permission, the public inspector\n               may request, and the municipal court judge may issue, an inspection warrant pursuant\n               to Rule 241 of the Colorado Municipal Court Rules of Procedure.\n(c)\nIn case of an emergency involving imminent danger to public health, safety, or welfare,\n               the public inspector may enter any residential structure within the city to conduct\n               an emergency inspection related to the growing or processing of marijuana plants without\n               a warrant and without complying with the requirements of this\nsection 53-63\n.\n(d)\nThe city council finds and declares that the ordinance by which this article IV is\n               adopted is an ordinance the violation of which involves a serious threat to public\n               safety or order within the meaning of Rule 241(a)(1) of the Colorado Municipal Court\n               Rules of Procedure.\n(e)\nThe refusal of any owner or occupant to allow the public inspector access to the residential\n               structure to conduct an inspection after such inspector has presented an inspection\n               warrant issued pursuant to this\nsection 53-63\nis a violation punishable in accordance with\nsection 53-73\n(a) of this chapter.\n(f)\nNothing herein shall be construed to limit the availability of other types of warrants\n               under Rule 241 of the Colorado Municipal Court Rules of Procedure, or the applicability\n               of Rule 241 to other articles or provisions of this chapter.\n(\nOrd. No. 4393, § 7(Att. A), 7-1-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 53-63"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

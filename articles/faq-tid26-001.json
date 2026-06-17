@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-26-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "parents",
+      "come",
+      "yes",
+      "fact",
+      "under",
+      "years",
+      "old",
+      "must",
+      "Municipal Court - Ticket Information - Teens"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=26"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-my-parents-come-with-me",
+    "faq_category_name": "Municipal Court - Ticket Information - Teens"
+  },
+  "content": {
+    "title": "Can my parents come with me?",
+    "summary": "Yes, in fact, if you are under 18 years old, you must be accompanied by a parent or legal guardian.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can my parents come with me?",
+        "a": "Yes, in fact, if you are under 18 years old, you must be accompanied by a parent or legal guardian."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

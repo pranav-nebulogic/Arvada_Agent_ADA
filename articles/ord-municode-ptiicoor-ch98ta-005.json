@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalty",
+      "any",
+      "officer",
+      "agent",
+      "manager",
+      "provider",
+      "subject"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-35"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-35. - Penalty.",
+    "summary": "If any officer, agent or manager of the provider which is subject to the provisions\n               of this article shall fail, neglect or refuse to make or file the monthly statement\n               of accounts provided in\nsection 98-33\n, the said officer, agent, manager, or person shall, upon convic…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-35. - Penalty.",
+        "a": "If any officer, agent or manager of the provider which is subject to the provisions\n               of this article shall fail, neglect or refuse to make or file the monthly statement\n               of accounts provided in\nsection 98-33\n, the said officer, agent, manager, or person shall, upon conviction thereof, be punished\n               by a fine not less than $25.00, nor more than $500.00, provided that each day after\n               said statement shall become delinquent during which the said officer, agent, manager\n               or person shall so fail, neglect or refuse to make and file such statement shall be\n               considered a separate and distinct offense.\n(Code 1981, § 31-20; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

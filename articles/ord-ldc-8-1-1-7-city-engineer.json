@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "city",
+      "engineer",
+      "generally",
+      "member",
+      "staff",
+      "principally",
+      "responsible",
+      "overseeing",
+      "directing",
+      "controlling"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-1-7"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-1. CITY STAFF AND REFERRAL AGENCIES"
+  },
+  "content": {
+    "title": "8-1-1-7. City Engineer.",
+    "summary": "A.\tGenerally. The City Engineer is a member of City Staff who is principally responsible for overseeing, directing, and controlling all engineering operations of the City.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-1-7. City Engineer.",
+        "a": "A.\tGenerally. The City Engineer is a member of City Staff who is principally responsible for overseeing, directing, and controlling all engineering operations of the City. In addition to any duties and responsibilities established in this Code or the Arvada City Code, or assigned by the City Manager, the City Engineer shall have the duties and responsibilities set out in this Section.\nB.\tDuties and Responsibilities. The City Engineer or their designee shall create, modify, and enforce the Engineering Code of Standards and Specifications and other similar guidelines and standards adopted by the City. The City Engineer or their designee also has the authority to grant variances or exceptions to such guidelines and standards where the City Engineer or their designee determines it is appropriate to do so.\n(Ord. No. 4867, § 5, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-1-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

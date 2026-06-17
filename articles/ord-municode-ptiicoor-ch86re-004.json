@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "false",
+      "statements",
+      "any",
+      "person",
+      "knowingly",
+      "makes",
+      "statement"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-32"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-32. - False statements.",
+    "summary": "Any person who knowingly makes any false statement or who falsifies or permits to\n               be falsified any record of the retirement system in any attempt to defraud the retirement\n               system shall be punishable upon conviction thereof by a fine not to exceed $300.00.\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-32. - False statements.",
+        "a": "Any person who knowingly makes any false statement or who falsifies or permits to\n               be falsified any record of the retirement system in any attempt to defraud the retirement\n               system shall be punishable upon conviction thereof by a fine not to exceed $300.00.\n               Any person convicted under the provisions of this section shall make full restitution.\n(Code 1960, § 19-20; Code 1981, § 26-2)\nState Law reference—\nOffenses involving fraud, C.R.S. § 18-5-101 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-32"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

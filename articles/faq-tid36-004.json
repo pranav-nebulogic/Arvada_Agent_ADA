@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-36-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "request",
+      "rent",
+      "increase",
+      "after",
+      "initial",
+      "term",
+      "lease",
+      "landlord",
+      "Housing Choice Voucher Program Landlord Guide"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=36"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-do-i-request-a-rent-increase",
+    "faq_category_name": "Housing Choice Voucher Program Landlord Guide"
+  },
+  "content": {
+    "title": "How do I request a rent increase?",
+    "summary": "After the initial term of the lease, the landlord may request a rent increase by providing at least 60 days written notice of an upcoming increase to the AHA and the participant. The proposed increase must be reasonable and may not exceed the rent for unassisted rental units of the same size and typ…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How do I request a rent increase?",
+        "a": "After the initial term of the lease, the landlord may request a rent increase by providing at least 60 days written notice of an upcoming increase to the AHA and the participant. The proposed increase must be reasonable and may not exceed the rent for unassisted rental units of the same size and type that you own. The AHA reserves the right to deny any rent increase found to be unreasonable based on market conditions at the time or to delay the start of an increase when proper notice has not been given."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

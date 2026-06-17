@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "violations",
+      "penalty",
+      "shall",
+      "unlawful",
+      "any",
+      "driver",
+      "registered"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-165"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-165. - Violations and penalty.",
+    "summary": "(a)\nIt shall be unlawful for any driver or registered owner to violate any of the provisions\n               of this division, and any such violation shall be punishable as set forth herein.\n(b)\nThe city council shall specify by suitable schedule the civil penalty for any violation\n               of …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-165. - Violations and penalty.",
+        "a": "(a)\nIt shall be unlawful for any driver or registered owner to violate any of the provisions\n               of this division, and any such violation shall be punishable as set forth herein.\n(b)\nThe city council shall specify by suitable schedule the civil penalty for any violation\n               of this division that involves signage that limits, regulates, restricts, or prohibits\n               the parking, standing, or stopping of any vehicle. The city council shall also specify\n               by suitable schedule a late fee for unpaid citations as may be appropriate.\n(c)\nEvery driver or registered owner deemed responsible for a violation of this division\n               that involves signage that limits, regulates, restricts, or prohibits the parking,\n               standing, or stopping of any vehicle shall be punishable by a civil penalty not to\n               exceed the limits established for a fine in\nsection 1-5\nof this Code.\n(d)\nEvery day any violation of this division that involves signage that limits, regulates,\n               restricts, or prohibits the parking, standing, or stopping of any vehicle is committed\n               or permitted to continue shall constitute a separate offense punishable as set forth\n               herein.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-165"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

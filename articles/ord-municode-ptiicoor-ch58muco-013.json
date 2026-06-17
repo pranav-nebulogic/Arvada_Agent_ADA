@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "assessment",
+      "court",
+      "costs",
+      "any",
+      "matter",
+      "municipal",
+      "jurisdiction"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-13"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-13. - Assessment of court costs.",
+    "summary": "(a)\nIn any matter as to which the municipal court has jurisdiction, the court may assess\n               court costs as follows against any:\n(1)\nDefendant who is convicted of an offense.\n(2)\nDefendant who fails to appear for a scheduled arraignment, hearing or trial.\n(3)\nDefendant who is held in cont…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-13. - Assessment of court costs.",
+        "a": "(a)\nIn any matter as to which the municipal court has jurisdiction, the court may assess\n               court costs as follows against any:\n(1)\nDefendant who is convicted of an offense.\n(2)\nDefendant who fails to appear for a scheduled arraignment, hearing or trial.\n(3)\nDefendant who is held in contempt of court.\n(4)\nProperly subpoenaed witness whose failure to appear at trial necessitates a continuance\n               of the trial or a dismissal of the charges.\n(5)\nAttorney who fails to appear for a scheduled hearing or trial.\n(6)\nDefendant who accepts a deferred judgment or deferred prosecution.\n(7)\nDefendant who is charged with a violation of subsection (1), (2), or (3) of section\n               1409 of the Model Traffic Code as adopted by the city, which charge is later dismissed\n               or an acquittal obtained as a result of the defendant's production of documents proving\n               that a complying policy or certificate of self-insurance was in full force and effect\n               at the time of the alleged violation. The assessment of costs pursuant to this subsection\n               (7) is to reimburse the city a portion of the costs incurred as a result of the defendant's\n               failure to have and/or produce motor vehicle insurance when required to do so by the\n               issuing officer pursuant to law. These costs include, but are not limited to, the\n               administrative and judicial expenses incurred in processing and handling the summons\n               and determining that the defendant did, in fact, have the insurance as required by\n               law at the time of the alleged violation even though such defendant did not provide\n               proof thereof at the time of the issuance of the summons and complaint. These costs\n               may be imposed only when the court finds or the defendant admits that the required\n               proof of insurance was not provided to the issuing officer on the date alleged in\n               the summons and complaint.\n(8)\nDefendant who is charged with a violation of subsection (2), (3), (5), or (6) of section\n               1208 of the Model Traffic Code as adopted by the city, which charge is later dismissed\n               due to prosecutorial discretion due to having a current valid handicapped placard\n               shall be subject to an assessment of court costs. These costs that may be assessed\n               include, but are not limited to, the administrative and judicial expenses incurred\n               in processing and handling the summons and determining that the defendant did, in\n               fact, have a valid handicap placard at the time of the alleged violation even though\n               such defendant did not properly display any placard at the time of the issuance of\n               the summons and complaint. Costs pursuant to this section may be assessed only when\n               the court finds or the defendant admits that the required placard was not displayed\n               properly on the date alleged in the summons and complaint.\n(b)\nAny court costs so assessed may not exceed $250.00. The presiding judge of the municipal\n               court shall prepare and maintain a schedule of court costs. If court costs are assessed,\n               they shall be assessed by each judge according to the schedule.\n(Code 1981, § 18-17; Ord. No. 1902, § 1, 1-3-1983; Ord. No. 3031, § 1, 1-3-1994; Ord.\n               No. 3420, § 1, 11-17-1997; Ord. No. 3630, § 1, 7-17-2000;\nOrd. No. 4451, § 1, 8-4-2014\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-13"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

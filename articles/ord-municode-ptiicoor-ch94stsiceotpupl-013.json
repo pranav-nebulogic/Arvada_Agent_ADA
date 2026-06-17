@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "construction",
+      "repair",
+      "sidewalks",
+      "etc",
+      "footnotes",
+      "editor",
+      "note"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 94-31"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — ARTICLE II. - CONSTRUCTION AND REPAIR OF SIDEWALKS, ETC.",
+    "summary": "Footnotes:\n--- (\n3\n) ---\nEditor's note—\nOrd. No. 4365, § 1, adopted November 19, 2012\n, amended article II in its entirety to read as herein set out. Former article II,\n               §§ 94-31—94-42, pertained to construction and repair of sidewalks, etc., and derived\n               from §§ 21-9—21-…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE II. - CONSTRUCTION AND REPAIR OF SIDEWALKS, ETC.",
+        "a": "Footnotes:\n--- (\n3\n) ---\nEditor's note—\nOrd. No. 4365, § 1, adopted November 19, 2012\n, amended article II in its entirety to read as herein set out. Former article II,\n               §§ 94-31—94-42, pertained to construction and repair of sidewalks, etc., and derived\n               from §§ 21-9—21-11.2 of the 1960 Code; §§ 30-21—30-32 of the 1981 Code; Ord. No. 2961,\n               § 1, 3-15-1993; Ord. No. 3048, § 1, 2-21-1994; Ord. No. 3860, §§ 1—9, 3-15-2004;\nOrd. No. 4042, § 6, 12-11-2006\n.\nCharter reference—\nConstruction of sidewalks, etc., not subject to protest, § 11.9.\nState Law reference—\nPower of city council to provide for the construction and maintenance of sidewalks,\n               curbs and gutters, C.R.S. § 31-15-702."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 94-31"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

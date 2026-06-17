@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "open",
+      "space",
+      "acres",
+      "natural",
+      "parks",
+      "photo",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/514/Open-Space"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-378",
+    "spreadsheet_id": "MI-378",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Open Space",
+    "summary": "The Arvada Parks and Open Space division oversees over 3,200 acres of non-irrigated land, maintaining approximately 1,350 acres each growing season. To preserve the health and aesthetics of these natural areas, the city has implemented a sustainable native landscaping policy and encourages residents to refrain from planting in open spaces, dumping yard waste, or mowing these areas to support native grass growth.",
+    "body": "![Photo of a trail and open space in Arvada](/ImageRepository/Document?documentID=1215 \"Photo of a trail and open space in Arvada\")\n\nThe Arvada Parks and Open Space division maintains more than 3,200 acres of non-irrigated land throughout the City. Each growing season, our parks staff mows approximately 1,350 acres of open space areas bordered by hundreds of private properties.\n\n## Open Space and Natural Area Maintenance\n\nIn an effort to maintain the health and aesthetics of the City's natural areas and trail corridors, the City of Arvada has adopted a sustainable native landscaping policy for Open Space and natural areas within the city\n\n[Learn more about the reasoning and benefits of sustainable native landscaping](/517).\n\n## How you can help maintain Arvada's Open Space\n\nSometimes our crews come across trees, gardens and other landscape structures planted by homeowners on the City's open space, which makes mowing with tractors and large mowers very difficult.\n\nPlease follow these guidelines to help our staff maintain the City's Open Space areas:\n\n- Landscaping of any kind, such as planting trees or gardens, in Open Space areas is not allowed\n- Do not dump grass clippings or yard waste in Open Space areas\n- Do not mow Open Space areas; please do not mow more than a few feet from your fence line if it is next to an Open Space area\n  - Cutting native grasses too frequently is harmful to their growth and can cause noxious weeks to replace beneficial grass growth\n- Do not place obstacles or trash in Open Space areas, including fence supports\n- Access to personal property through Open Space is not allowed, even for homeowner projects or for contractors\n\nThank you in advance!\n\n![What Not To Do](/ImageRepository/Document?documentId=628)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

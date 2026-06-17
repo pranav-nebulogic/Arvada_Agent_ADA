@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "solar permit",
+      "photovoltaic",
+      "solar panels",
+      "renewable energy",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/522/Solar"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-037",
+    "spreadsheet_id": "BP-037",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Solar Permit",
+    "summary": "Permits for Solar Photovoltaic installations can now be submitted online through the Permit Portal, with all applications requiring specific documentation in PDF format. The application process includes a plan review completed within seven days, and inspections must be scheduled by 6 a.m. on the desired date. Fees are based on job values, and permits are closed after the final building inspection is completed.",
+    "body": "Permits for Solar Photovoltaic installations can now be applied for online at the [Permit Portal]([NEW PORTAL URL])\nPermits and inspections are required for all solar photovoltaic systems installed on residential and commercial structures. Below are the guidelines for submitting solar permit applications, scheduling inspections and closing the permit.\n\n## What Needs to be Submitted\n\nItems must be submitted with your completed permit application. All attachments need to be PDF format. If you have questions about the items that need to be attached please [email Building Permits Division](mailto:buildingpermits@arvada.org).\n\n1. Plan Set\n\t- Plot Plan with equipment located within the structure. Including a three-line diagram of wiring requirements.\n2. Subcontractors approval form: If an electrical contractor is not associated with General Contractor. The form can be downloaded from the list \"Contractor Resources.\"\n\n### Plan Submittal Checklist\n\n- General Requirements\n- Engineer Requirements\n- Wiring Requirements\n- Equipment Requirements\n\n## Submit Application\n\nApplications can be submitted in person or electronically using the online customer portal at the [Permit Portal]([NEW PORTAL URL]). If using the online application submittal, all documents must be attached in a PDF format.\n\nOnce a complete application is submitted, it will receive a plan review. When the plan review is complete, the applicant will be notified via email when the permit is approved and ready for payment. Licensed contractors will be asked to login using their contractor license number in the \"Company\" field and password. If you don't remember your password you can use the \"Forgot your password\" link and the information will be sent to the email on file.\n\nPlans and applications can be dropped off at 8101 Ralston Road Arvada, CO 80001 Monday through Friday from 8 a.m. to 4:30 p.m.\n\n\n## Plan Review\n\nA technical plan review is completed within seven days from when a completed application has been submitted. Applicants can monitor the process through the Permit Portal. An email will be sent to the applicant when the permit is approved and ready for payment.\n\n## Fees\n\nFees are based on job values, the valuation that is entered must be the full valuation prior to any rebates. Once the permit is approved fees can be paid online using Visa, MasterCard or Discover.\n\n- $50 Residential/Table 18-1 Commercial not to exceed $1000\n- $36 Plan Review Fee\n- Use Tax\n\n## Inspections\n\nInspections can be scheduled until 6 a.m. of the desired inspection date. Inspections are completed Monday through Friday, 8:30 a.m. to 4 p.m. All inspections can be scheduled using the [Permit Portal]([NEW PORTAL URL]) or by calling 720-898-7630 and using the automated line. A 3-digit inspection code is required.\n\nRequired Inspections:\n\n1. Rough Electrical (new construction only)\n2. Rough Framing (new construction only)\n3. Final Building\n4. Final Electrical\n\nIf you have questions about whether or not an inspection is needed, please schedule the inspection and leave a note for the inspector to contact you.\n\n## Closing the Permit\n\nOnce the final building inspection is completed, the permit will be closed. Please review the permit status and inspection results on the Permit Portal. An email will be sent to the applicant when the permit has been completed.\n\n# Solar Submittal Requirements\n\n## General Requirements\n\n1. State the name of the product being used and the product literature.\n2. Specify if the system is stand alone or interactive.\n3. Roof mounted systems must be on permanent standoffs and provide the following:\n\t- Type of roof structure (roof trusses or rafters)\n\t\t- Method of locating roof framing members\n\t\t- Provide mounting details. All permanent standoffs shall be mounted to structural members and properly flashed to accommodate re-roofing.\n\n## Engineer Requirements\n\n- An Engineer's report regarding the dead-load capability of the existing roof structure and its ability to support the added weight of the solar photovoltaic system. The report must include the required wind speed and roof snow load for the site. If the panels project above the ridge line of the roof, this must also be part of the report.\n- Wind speed: 136 MPH (Vult) east of HWY 93. 150 MPH (Vult) west of HWY 93. Exposure C.\n- Roof snow load: 30 PSF\n\n## Wiring Requirements\n\n- Provide an **engineer's stamped diagram** that includes the following information please follow the [adopted National Electrical Code](https://www.arvadaco.gov/165/Adopted-Building-Code):\n\t- Conductor size, material (copper, aluminum) and insulation types.\n\t\t- Main over-current device ratings.\n\t\t- Existing and new panel busbar amperage ratings.\n\t\t- Series and parallel configuration of the module connections.\n\t\t- Provide all calculations from modules to inverter and inverter to point of connection.\n\t\t- Provide all applicable warning and marking labels for AC and DC disconnects as required.\n\t\t- The location of all modules, inverters, disconnects, and service equipment.\n\t\t- The location of all batteries.\n\t\t- The location and connection of all grounding electrode conductors.\n\t\t- The clearances around all equipment noted above.\n\t\t- Conduit or cable type and size, i.e. nonmetallic, EMT, direct burial cable etc.\n\n## Equipment Requirements\n\n- Module short circuit current ratings\n- Module open circuit voltage ratings\n- Module series fuse ratings\n- Inverter maximum output current rating\n- Inverter maximum over-current protection- output/input per manufacturer\n- Rapid Shutdown compliant per 2020 NEC, Section 690.12\n- All U.L. File number, listings and remaining specifications\n- Provide all associated documentation/cut sheets, and installation instructions on equipment, i.e., inverters, disconnects, modules, charge controllers, over current devices, hardware specifications, etc.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

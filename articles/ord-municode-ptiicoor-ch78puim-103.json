@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "thirty",
+      "day",
+      "payment",
+      "period",
+      "deferred",
+      "payments",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-104"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-104. - Thirty-day payment period; deferred payments.",
+    "summary": "(a)\nAll assessments made in pursuance of the assessment ordinance shall be due and payable\n               without demand within 30 days after its publication upon its final passage.\n(b)\nEach such assessment or any part thereof may at the election of the owner be paid\n               in installments w…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-104. - Thirty-day payment period; deferred payments.",
+        "a": "(a)\nAll assessments made in pursuance of the assessment ordinance shall be due and payable\n               without demand within 30 days after its publication upon its final passage.\n(b)\nEach such assessment or any part thereof may at the election of the owner be paid\n               in installments with interest as hereinafter provided whenever the council so authorizes\n               the payment of assessments.\n(c)\nFailure to pay the whole assessment within said period of 30 days shall be conclusively\n               considered and held an election on the part of all persons interested, whether under\n               disability or otherwise, to pay in installments the amount of the assessment then\n               unpaid.\n(d)\nAll persons so electing to pay in installments shall be conclusively considered and\n               held as consenting to the project for which each such assessment was levied, and such\n               election shall be conclusively considered and held as a waiver of any and all rights\n               to question the power of jurisdiction of the city to acquire or improve, or acquire\n               and improve, the project, the quality of the work, the regularity or sufficiency of\n               the proceedings or the validity or the correctness of the assessment.\n(e)\nThe owner of any tract assessed may at any time pay the whole unpaid principal and\n               the interest accrued to the next interest payment date, together with any prepayment\n               premium and any penalties appertaining thereto.\n(f)\nSubject to the foregoing provisions, all installments, both of principal and interest,\n               shall be payable at such times as may be determined in and by the assessment ordinance.\n(Code 1981, § 27-105; Ord. No. 551, § 45, 5-14-1964)\nState Law reference—\nWhen assessments payable, C.R.S. § 31-25-527; effect of payment in installments, C.R.S.\n               § 31-25-529."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-104"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "history",
+      "police",
+      "department",
+      "chief",
+      "high",
+      "service",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/575/History-of-the-Arvada-Police-Department"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-258",
+    "spreadsheet_id": "MI-258",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "History of the Arvada Police Department",
+    "summary": "Founded in 1945, the Arvada Police Department has a history of excellence and high standards, being the first agency in Colorado to achieve accreditation from the Commission on Accreditation for Law Enforcement Agencies (CALEA). The department is recognized for its relatively low crime rate and commitment to innovative, community-oriented policing, maintaining a reputation as one of the finest law enforcement organizations in the nation.",
+    "body": "The Arvada Police Department's history reflects a tradition in excellence. Delivering quality service is the top priority of members of the department.\n\n## In the Beginning\n\nFounded in 1945, the department began its operation with a chief and deputy chief. In addition to responding to calls for service, the duo also read utility meters and performed a myriad of other duties associated with this young department.\n\n## High Standards Established\n\nArvada's officers have always been held to high standards, first through a meticulous operations manual created by Chief William Beary in the 1960s, and later through national standards established by the Commission on Accreditation or Law Enforcement Agencies (CALEA). The Arvada Police Department was the first agency in Colorado to be accredited.\n\n## A Reputation to be Proud Of\n\nArvada is proud of it relatively low crime rate compared to other Denver metro area cities. Members of the department continue to strive to reduce crime and the fear of crime through an innovative and progressive style of problem-solving policing.\n\nWhether it be maintaining high standards, taking an innovative approach to community-oriented policing or implementing the latest in technology, the Arvada Police Department is considered one of the finest law enforcement organizations in the nation.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

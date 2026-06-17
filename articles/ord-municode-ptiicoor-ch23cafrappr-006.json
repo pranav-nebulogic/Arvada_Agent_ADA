@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "open",
+      "records",
+      "confidentiality",
+      "unless",
+      "otherwise",
+      "provided",
+      "law"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH23CAFRAPPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:29.502011+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 23-37"
+    ],
+    "chapter": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS"
+  },
+  "content": {
+    "title": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS — Sec. 23-37. - Open records/confidentiality.",
+    "summary": "Unless otherwise provided by law, information submitted as part of an application\n               is open to public inspection and subject to the Colorado Open Records Act. It is the\n               applicant's responsibility to be familiar with the Colorado Open Records Act. An applicant\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 23-37. - Open records/confidentiality.",
+        "a": "Unless otherwise provided by law, information submitted as part of an application\n               is open to public inspection and subject to the Colorado Open Records Act. It is the\n               applicant's responsibility to be familiar with the Colorado Open Records Act. An applicant\n               may specifically identify any information it considers proprietary. In the event that\n               Arvada receives a request from another party to disclose any information which the\n               applicant has deemed proprietary, Arvada will tender to the applicant the defense\n               of any request to compel disclosure. By submitting information which the applicant\n               deems proprietary or otherwise exempt from disclosure, the applicant agrees to defend\n               and hold harmless Arvada from any claim for disclosure including but not limited to\n               any expenses including out-of-pocket costs and attorneys' fees, as well as any judgment\n               entered against Arvada for the attorney fees of the party requesting disclosure.\n(\nOrd. No. 4078, § 1, 7-16-07\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 23-37"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

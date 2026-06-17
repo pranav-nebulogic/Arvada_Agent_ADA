@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "air",
+      "gap",
+      "physical",
+      "separation",
+      "between",
+      "free"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-274"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-274. - Definitions.",
+    "summary": "Air gap\nis a physical separation between the free flowing discharge end of a potable water\n               supply pipeline and an open or non-pressure receiving vessel installed in accordance\n               with standard ASME A112.1.2.\nAnnual inspection due date\nmeans July 31 of each year.\nApproved\nm…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-274. - Definitions.",
+        "a": "Air gap\nis a physical separation between the free flowing discharge end of a potable water\n               supply pipeline and an open or non-pressure receiving vessel installed in accordance\n               with standard ASME A112.1.2.\nAnnual inspection due date\nmeans July 31 of each year.\nApproved\nmeans accepted or acceptable under an applicable specification or standard stated\n               or cited by the city as suitable for the proposed use.\nBackflow\nmeans the reverse flow of water, fluid, or gas caused by back pressure or back siphonage.\nBackflow contamination event\nmeans backflow into a public water system from an uncontrolled cross-connection such\n               that the water quality no longer meets the Colorado Primary Drinking Water Regulations\n               or presents an immediate health or safety risk to the public.\nBackflow prevention assembly\nor\nassembly\nmeans any mechanical device installed at a water service line or at a plumbing fixture\n               to prevent a backflow contamination event.\nBackflow prevention method\nor\nmethod\nmeans any procedure, process, or technique, or a non-testable device, installed at\n               a water service line or at a plumbing fixture to prevent a backflow contamination\n               event.\nCertified cross-connection control technician\nor\ntechnician\nmeans a person who possesses a valid backflow prevention assembly tester certification\n               from one of the following approved organizations: American Society of Sanitary Engineering\n               (ASSE) or the American Backflow Prevention Association (ABPA).\nCity\nmeans the City of Arvada.\nCity water system\nor\npublic water system\nmeans the system of pipes and other constructed conveyances owned and operated by\n               the city that provide to the public water for human consumption, and includes the\n               source and distribution facilities owned by the city to the point of the water system\n               connection. The source includes all components of the facilities utilized in the production,\n               treatment, storage, and delivery of water to the distribution system. The distribution\n               system includes the network of conduits used for the delivery of water from the source\n               to a private property owner's system.\nContainment\nmeans the installation of a backflow prevention assembly or a backflow prevention\n               method at any connection to the public water system that supplies an auxiliary water\n               system, location, facility, or area such that backflow from a cross-connection into\n               the public water system is prevented.\nContainment by isolation\nmeans the installation of backflow prevention assemblies or backflow prevention methods\n               at all cross-connections identified within a customer's water system such that backflow\n               from a cross-connection into the public water system is prevented.\nControlled\nmeans having a properly installed, maintained, and tested or inspected backflow prevention\n               assembly or backflow prevention method that prevents backflow through a cross-connection.\nCross-connection\nmeans any connection that could allow any water, fluid, or gas such that the water\n               quality could present an unacceptable health and/or safety risk to the public, to\n               flow from any pipe, plumbing fixture, or a customer's water system into the city's\n               water distribution system or any other part of the public water system through backflow.\nDay\nmeans a calendar day.\nDirector\nmeans the director of the utilities department or a designee thereof.\nMulti-family\nmeans a single residential connection to the public water system's distribution system\n               from which three or more separate dwelling units are supplied water.\nPerson\nor\ncustomer\nmeans the owner of private property upon which a pipe, plumbing fixture, or water\n               system is located beginning at the point where the water leaves the meter service\n               connection, and includes an occupant, tenant, or manager of the property. It also\n               includes a person who receives any service from the city water system, and any person\n               upon whose property there exists a non-metered connection with the city water system.\n               A person or customer may be an individual or an association, partnership, company,\n               or corporation, or an officer of any such entity.\nService connection\nor\nwater service connection\nmeans the terminal end of the city's service connection from the city water system\n               (i.e., at the customer's stop box shut-off valve or meter). Service connection or\n               water service connection also includes the water service connection from a fire hydrant\n               and all other temporary or emergency water service connections from the city's water\n               system.\nSingle-family\nmeans a single dwelling unit that is supplied by its own separate service line, a\n               dwelling comprised of multiple dwelling units where each dwelling unit is supplied\n               by a separate service line, or two separate single dwelling units supplied by a common\n               service line.\nSuspend, suspension, terminate,\nor\ntermination\nmeans to stop or prevent the connection of a customer's plumbing or water system\n               to the city's water system, and includes the termination of water service under the\n               provisions of this article.\nUncontrolled\nmeans not having a properly installed and maintained and tested or inspected backflow\n               prevention assembly or backflow prevention method, or the backflow prevention assembly\n               or backflow prevention method does not prevent backflow through a cross-connection.\nWater distribution system\nmeans any combination of pipes, tanks, pumps, or other facilities that delivers water\n               from a source or treatment facility to a customer.\nWater supply system\nmeans a water distribution system, piping, connection fittings, valves and appurtenances\n               within a building, structure, or premises. Water supply systems may also be referred\n               to as premises plumbing systems.\nWriting\nor\nwritten\nmeans a communication in written format including emails or other electronic communication\n               capable of being produced in a written format, but does not include instant messaging,\n               text messaging, or telephone messages.\n(\nOrd. No. 4829\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-274"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

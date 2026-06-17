@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "accumulation",
+      "animals",
+      "person",
+      "household",
+      "shall",
+      "own",
+      "custody"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-126"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-126. - Accumulation of animals.",
+    "summary": "(a)\nNo person or household shall own or have custody of more than:\n(1)\nThree dogs of more than four months of age; or\n(2)\nFour cats of more than four months of age; or\n(3)\nTwo pot-bellied pigs of more than four months of age; or\n(4)\nA total of four dogs and cats of more than four months of age in an…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-126. - Accumulation of animals.",
+        "a": "(a)\nNo person or household shall own or have custody of more than:\n(1)\nThree dogs of more than four months of age; or\n(2)\nFour cats of more than four months of age; or\n(3)\nTwo pot-bellied pigs of more than four months of age; or\n(4)\nA total of four dogs and cats of more than four months of age in any combination;\n               or\n(5)\nA total of three dogs and pot-bellied pigs of more than four months of age in any\n               combination.\n(b)\nIn addition to the limits on the number of dogs, cats, and pot-bellied pigs that may\n               be kept or owned, no person or household shall keep, own, or have custody of more\n               than a total of 15 other animals, such as chickens, domestic fowl, miniature goats,\n               turkeys, or pet or domesticated animals of any age or combination.\n(Code 1981, § 6-65; Ord. No. 3496, § 2, 12-14-1998;\nOrd. No. 4118, § 4, 7-7-2008\n;\nOrd. No. 4502, § 4, 5-18-2015\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-126"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

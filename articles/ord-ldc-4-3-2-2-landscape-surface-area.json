@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "landscape",
+      "surface",
+      "area",
+      "generally",
+      "development",
+      "designed",
+      "landscaped",
+      "areas",
+      "support",
+      "resource"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-3-2-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-3. SITE DESIGN",
+    "division": "DIVISION 4-3-2. GENERAL STANDARDS FOR SITE DESIGN"
+  },
+  "content": {
+    "title": "4-3-2-2. Landscape surface area.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-3-2-2. Landscape surface area.",
+        "a": "A.\tGenerally. Development shall be designed with landscaped areas that support the resource values of the natural open space in terms of its ecological function (e.g., habitat, water quality enhancement, energy efficiency, etc.), aesthetic contribution, recreational value, and buffering value in accordance with Article 4-6, Landscaping and Buffering.\nB.\tSite Design. Site design shall be organized to include, protect or enhance the natural open spaces areas and landmark features of the site.\nC.\tEnhancement of Open Space/Open Space Corridors. Landscaped areas should be organized so as to create integrated systems that connect with dedicated school lands, parklands, other open spaces, or public lands or trails within the subject property or on adjoining property.\nD.\tNatural Resource and Hazard Areas. Natural resources such as water features including lakes, natural ponds, rivers, streams, wetlands, riparian areas, drainage ways, ditches, and flood hazard areas and vistas of natural features including distant peaks and ridges, steep slopes, existing tree canopy, wildlife habitat areas should be undisturbed.\n(Ord. No. 4793, § 3, 3-21-2022)\nEditor's note(s)—Ord. No. 4793, § 3, adopted March 21, 2022, changed the title of § 4-3-2-2 from \"Common open spaces.\" to read as herein set out."
+      }
+    ],
+    "ordinance_refs": [
+      "4-3-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

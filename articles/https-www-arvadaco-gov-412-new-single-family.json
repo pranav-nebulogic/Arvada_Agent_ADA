@@ -1,0 +1,188 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_new_single_family",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/412/New-Single-Family"
+    ],
+    "scraped_at": "2026-06-10T10:55:34.313069+00:00",
+    "content_hash": "d2bd54b51bfc88cb4cee466b4c5d0ea4059f4ae556d44fe2c4a0593a4c70955c",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "New Single Family, Townhomes and Duplexes Building Permit",
+    "summary": "A building permit is required for constructing new single-family homes, townhomes, and duplexes in the City of Arvada. Additional permits may be required for lots over 10,000 square feet or if the home is sprinklered. Applications must be submitted online with all required documents and plans.",
+    "eligibility": "Licensed contractors or homeowners constructing a new single-family home (homeowners must contact the building division directly and may require a homeowner's license).",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Prepare Required Documents",
+        "text": "Gather all required documents including plot plan, erosion/grading plan, architectural plans, structural plans, foundation plans, soils report, Manual J, D and S calculations, energy report, truss specification package, gas line sizing calculation, and radon control method detail. Ensure all plans are site specific and stamped/signed by a licensed design professional as applicable.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Submit Application",
+        "text": "Submit the permit application online through the Arvada Permits portal using your AEC number if you are a licensed contractor. Homeowners must contact the building division directly to apply.",
+        "portal_url": "https://arvadapermits.org"
+      },
+      {
+        "n": 3,
+        "title": "Permit Review",
+        "text": "The application will be reviewed by Planning, Engineering, Stormwater, Building Division, and possibly the Fire Department. Review cycles are 15 business days for repeat permits, 20 business days for master and custom permits, and 10 business days for subsequent reviews. You will receive email notification of approval or disapproval with next steps.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 4,
+        "title": "Submit Revisions if Required",
+        "text": "If revisions are requested, submit updated plans and documents through the customer permitting portal for additional review.",
+        "portal_url": "https://arvadapermits.org"
+      },
+      {
+        "n": 5,
+        "title": "Schedule Inspections",
+        "text": "Schedule inspections via arvadapermits.org or by calling 720-898-7630 using the automated line. Inspections are available Monday through Friday, 8:30 a.m. to 4 p.m. A 3-digit inspection code is required. Texting inspection option is also available.",
+        "portal_url": "https://arvadapermits.org"
+      },
+      {
+        "n": 6,
+        "title": "Obtain Certificate of Occupancy",
+        "text": "Complete all final inspections and ensure the project is in good standing with Engineering, Planning, Building, Utilities, Fire, and Stormwater. Upload all required documents individually in PDF format to the permit through Arvada Permits. All fees must be paid prior to issuance of the Certificate of Occupancy.",
+        "portal_url": "https://arvadapermits.org"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Plot Plan",
+        "description": "Includes fire separation distances and requirements.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Erosion/Grading Plan",
+        "description": "Plan showing erosion and grading details.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Architectural Plans",
+        "description": "Building elevations, cross sections, floor plans, details, thermal envelope details, etc. Must comply with Colorado Revised Statutes 12-25-303 for stamped plans.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Structural Plans",
+        "description": "Stamped and signed by a licensed design professional in Colorado (engineer or architect).",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Foundation Plans",
+        "description": "Stamped and signed by a licensed design professional in Colorado (engineer or architect).",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Soils Report",
+        "description": "Stamped and signed by a licensed design professional in Colorado (engineer or architect).",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Manual J, D and S Calculations",
+        "description": "Calculations for heating, cooling, and duct design.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Energy Report",
+        "description": "Calculation of building envelope compliance, required when using performance or energy rated index (ERI) methods such as REScheck or HER's report.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Truss Specification Package",
+        "description": "Stamped and signed by a licensed design professional in Colorado (engineer or architect).",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Gas Line Sizing Calculation and Schematic Drawing",
+        "description": "Details of gas line sizing and schematic.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Radon Control Method Detail",
+        "description": "Details of radon control methods used in the building.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "address_or_lot_block",
+        "label": "Site Specific Address or Lot/Block",
+        "description": "The specific address or lot/block number for the building site, required on all plans for custom and repeat plans.",
+        "example_value": null,
+        "why_needed": "To identify the exact location of the construction site."
+      },
+      {
+        "field_name": "proposed_square_footage",
+        "label": "Proposed Square Footage",
+        "description": "The total square footage of the building project.",
+        "example_value": null,
+        "why_needed": "To assess the scope and size of the project for review and permit issuance."
+      },
+      {
+        "field_name": "sprinkler_system_type",
+        "label": "Type of Sprinkler System",
+        "description": "If the home is sprinklered, specify the type of sprinkler system on the architectural plans.",
+        "example_value": null,
+        "why_needed": "To determine additional fire department requirements and plan submittals."
+      }
+    ],
+    "fees": [],
+    "timelines": {
+      "review": "15 business days for repeat permits; 20 business days for master and custom permits; 10 business days for subsequent reviews",
+      "inspection": "Monday through Friday, 8:30 a.m. to 4 p.m.",
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Division",
+      "phone": "720-898-7630",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Can homeowners apply for a new single-family building permit?",
+        "a": "Yes, homeowners can apply but must contact the building division directly and may be required to have a homeowner's license."
+      },
+      {
+        "q": "Are architectural plans always required to be stamped?",
+        "a": "Architectural plans must comply with Colorado Revised Statutes 12-25-303 regarding when stamped plans are required."
+      },
+      {
+        "q": "How do I schedule inspections?",
+        "a": "Inspections can be scheduled online at arvadapermits.org or by calling 720-898-7630 using the automated line. A 3-digit inspection code is required."
+      }
+    ],
+    "ordinance_refs": [
+      "Colorado Revised Statutes 12-25-303"
+    ],
+    "related_permit_types": [
+      "site_development_permit",
+      "fire_department_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3910
+}

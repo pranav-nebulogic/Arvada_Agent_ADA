@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "requisite",
+      "information",
+      "identification",
+      "ownership",
+      "application",
+      "shall",
+      "include"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH23CAFRAPPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:29.502011+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 23-32"
+    ],
+    "chapter": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS"
+  },
+  "content": {
+    "title": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS — Sec. 23-32. - Requisite information.",
+    "summary": "(a)\nIdentification and ownership information.\nThe application shall include:\n(1)\nThe name, address, telephone number and web site (if applicable) of the applicant\n               and the proposed franchisee (if different from applicant); and\n(2)\nThe name, address, primary telephone number and primary…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 23-32. - Requisite information.",
+        "a": "(a)\nIdentification and ownership information.\nThe application shall include:\n(1)\nThe name, address, telephone number and web site (if applicable) of the applicant\n               and the proposed franchisee (if different from applicant); and\n(2)\nThe name, address, primary telephone number and primary e-mail address of all individual(s)\n               authorized to represent the applicant before the Arvada City Council during its consideration\n               of the franchise(s) requested, including the applicant's primary contact and any additional\n               authorized contacts.\n(b)\nBusiness structure.\n(1)\nIf a corporation, the applicant shall provide:\na.\nA list all officers and members of the board of directors, their principal affiliations\n               and their addresses;\nb.\nA certificate of good standing indicating that the applicant is licensed to do business\n               in the State of Colorado; and\nc.\nA statement indicating whether the applicant is directly or indirectly controlled\n               by another corporation or legal entity. If so, applicant shall attach an explanatory\n               statement and respond to subsections 1.a. and b. above concerning the controlling\n               corporation.\n(2)\nIf a partnership, the applicant shall:\na.\nDescribe the structure of the partnership and the interests of general and limited\n               partners; and\nb.\nState whether the applicant is controlled directly or indirectly by any corporation\n               or other legal entity. If so, applicant shall attach an explanatory statement and\n               respond to subsections (1) a. and b., or (2)a. above, as applicable, concerning the\n               controlling entity.\n(c)\nExperience.\n(1)\nCurrent franchises.\nAn applicant shall list all cable systems in which it or any affiliate owns more\n               than five percent of the system. For each system applicant shall include name of system,\n               address, communities served, number of subscribers, number of homes passed, date of\n               system award, duration (start and end date) of franchise, status of construction,\n               and percent of penetration of homes passed as of most recently available date (indicate\n               date).\n(2)\nPotential franchises.\nAn applicant shall list communities where it or any affiliate currently has a formal\n               or informal request pending for an initial franchise, the renewal of a franchise,\n               or the approval of a transfer of ownership. The applicant shall include the name of\n               communities, date of application, and date of expected action.\n(d)\nManagement structure.\nEvery application for a competitive franchise shall include a management/organizational\n               chart, showing the management structure of the applicant. A similar chart shall also\n               be provided showing the relationship of the applicant to all general partners, parent\n               corporations, subsidiaries, affiliates and all other subsidiaries of parent corporations,\n               including a brief description of each entity's relationship to the applicant.\n(\nOrd. No. 4078, § 1, 7-16-07\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 23-32"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

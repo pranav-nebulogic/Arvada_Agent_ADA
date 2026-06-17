@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "temporary",
+      "outdoor",
+      "sales",
+      "where",
+      "permitted",
+      "provided",
+      "section",
+      "uses",
+      "zoning",
+      "district"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-4-9"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-4. TEMPORARY USES"
+  },
+  "content": {
+    "title": "3-1-4-9. Temporary outdoor sales.",
+    "summary": "A.\tWhere Permitted. Temporary outdoor sales are permitted as provided in Section 3-1-4-2, Temporary Uses by Zoning District.\nB.\tPermit Required.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-4-9. Temporary outdoor sales.",
+        "a": "A.\tWhere Permitted. Temporary outdoor sales are permitted as provided in Section 3-1-4-2, Temporary Uses by Zoning District.\nB.\tPermit Required. A temporary use permit for temporary outdoor sales is required and shall not exceed a term of 120 days within a calendar year per principal permitted use.\nC.\tStandards. All temporary outdoor sales activity, excluding motor vehicle sales, shall comply with the following standards:\n  1.\tThe Applicant shall provide a plan for storage of any vending cart or motorized vehicle in a permanent structure during hours when the temporary outdoor sales are not operating.\n  2.\tThe Applicant shall hold a current City sales tax license.\n  3.\tThe location and operation of the temporary sales activity shall not affect access to or circulation within an off-street parking area, or the flow of traffic on public streets.\n  4.\tThe area occupied by the temporary sales activity, plus any adjacent clear area required by the Fire Code, shall occupy no more than 20 percent of any required off-street parking spaces or area. In no event shall any such area occupied by the temporary use be greater than 7,500 cumulative square feet. In all cases, the Applicant shall demonstrate there will be adequate parking for the existing uses as well as the temporary outdoor sales.\n  5.\tAll trucks or tents and associated parking shall be located on asphalt, concrete, or equivalent surface unless the Applicant demonstrates no adverse effect on drainage, access, landscaping, buffering, or the intent of this Code, as determined by the Director.\n  6.\tTemporary sales shall only be allowed if operated by the owner or lessee of a principal permitted use on the subject property.\nD.\tOther Required Approvals. The use of a tent for temporary outdoor sales is subject to approval by the Building Department and Fire District."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-4-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

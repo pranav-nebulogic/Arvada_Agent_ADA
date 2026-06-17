@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "duties",
+      "imposed",
+      "special",
+      "assessments",
+      "any",
+      "project",
+      "levied"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-113"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-113. - Duties imposed when special assessments for any project are levied.",
+    "summary": "Whenever the council shall have provided for any project hereunder or for any similar\n               project heretofore authorized by any other law, shall have levied assessments therefor,\n               and shall have issued bonds pursuant hereto or thereto for the financing of the same,\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-113. - Duties imposed when special assessments for any project are levied.",
+        "a": "Whenever the council shall have provided for any project hereunder or for any similar\n               project heretofore authorized by any other law, shall have levied assessments therefor,\n               and shall have issued bonds pursuant hereto or thereto for the financing of the same,\n               then and in such event there are hereby imposed upon the city the following additional\n               duties:\n(1)\nThe city shall act as the agency for collection of such assessments and in so doing\n                  shall act as trustee for the benefit of such holders of interim warrants or bonds.\n(2)\nIn case the council shall have created more than one district, the funds of each district\n                  shall be kept in a separate fund to be used for the payment of interest and principal.\n(3)\nThe city shall prepare annually and shall make available for inspection in the finance\n                  director's office to each holder of interim warrants or bonds a statement of the financial\n                  condition of the district relating to such interim warrants or bonds, which shall\n                  include a statement of all delinquencies existing at such time.\n(4)\nWhere there is a delinquency continuing for a period of one year in the payment of\n                  any installment of such assessment made for the project, the city shall thereafter\n                  forthwith proceed with the institution of proceedings to foreclose the assessment\n                  lien against the property wherein the delinquency exists, as herein provided.\n(5)\nThe holder of any bond issued hereunder or any trustee therefor shall have the right\n                  to institute such foreclosure proceedings in the name of the city issuing such bond,\n                  if such a delinquency has continued for a period of 1½ years and if the city has not\n                  theretofore instituted such foreclosure proceedings. The failure of any bondholder\n                  or any trustee therefor so to proceed shall not be deemed a waiver of any other right\n                  or privilege and shall not relieve the city or any of its officers, agents or employees\n                  for any liability for failure to perform any duty.\n(Code 1981, § 27-114; Ord. No. 551, § 54, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-113"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

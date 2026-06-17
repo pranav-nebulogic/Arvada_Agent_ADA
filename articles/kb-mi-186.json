@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "developer",
+      "guide",
+      "development",
+      "process",
+      "review",
+      "watch",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1382/Developers-Guide"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-186",
+    "spreadsheet_id": "MI-186",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Developer's Guide",
+    "summary": "The City of Arvada provides a four-step development review process to ensure projects align with community values and enhance safety and quality of life. The process includes pre-application feedback, formal application submission, a comprehensive review, and construction initiation. Developers can utilize the SMART License & Permits online tool for submitting applications and accessing property information, while additional resources and contact information for the Community and Economic Development Department are available for further assistance.",
+    "body": "The City reviews development projects to ensure they are consistent with the community's values and that they are implemented in ways that support and enhance our safety and quality of life. [Watch a quick video about the Development Review Process to learn more](https://www.youtube.com/watch?v=Y1nsPH_3O_Y).\n\n## In this guide\n\nThis online handbook will guide you through the four step development review process that is used in the City of Arvada. You will find detailed information, helpful hints, resources, and answers to common questions for each phase of development. If you would prefer to print these resources, please download the [Bluebeam Document Management (PDF) guide](https://www.arvadaco.gov/DocumentCenter/View/353).\n\n- [**Step 1: Your Pre-Application**](https://www.arvadaco.gov/374/Step-1-Your-Pre-Application) Pre-application is a preliminary review based on a conceptual development proposal; it is an opportunity for you to learn and get feedback.\n- [**Step 2: Your Formal Application**](https://www.arvadaco.gov/378/Step-2-Your-Formal-Application) A pre-submittal meeting will help you determine if your application is ready for submittal.\n- [**Step 3: Development Review**](https://www.arvadaco.gov/381/Step-3-Development-Review) The formal review process will determine if your project is ready for a decision.\n- [**Step 4: Construction**](https://www.arvadaco.gov/382/Step-4-Construction) Now it's time to begin construction of your public improvements.\n\n## Other tools\n\n### SMART License & Permits\n\nThe City of Arvada utilizes [SMART License & Permits](http://www.arvadapermits.org/), an online software tool, to facilitate the development review process. Follow the instructions to create your online account. This system provides access for you to:\n\n- Submit your pre-application and application electronically\n- Upload supporting documents\n- Review and address comments\n- Interact with your designated planner\n\n[Fill out an SMART License & Permits application](https://aca-prod.accela.com/ARVADA)\n\n### Property Information Maps\n\nThe City keeps a database of properties, zoning, maps and more.\n\n[Search Properties](https://www.arvadaco.gov/702/Maps-Property-Search)\n\n### City of Arvada Engineering Code of Standards and Specifications\n\nThe City has an up-to-date list of requirements and standards for the design and construction of public improvements.\n\n[View the Engineering Code](https://www.arvadaco.gov/167/Engineering-Code-of-Standards-Specificat)\n\n## Questions?\n\nReach out to the Community and Economic Development Department via the [City's Directory](https://www.arvadaco.gov/149/Departments).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "generally",
+      "divisions",
+      "within",
+      "applied",
+      "follows",
+      "division",
+      "floodplain",
+      "regulations"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-1-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "4-1-1-2. Application of article.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-1-2. Application of article.",
+        "a": "A.\tGenerally. The Divisions within this Article are applied as follows:\n  1.\tDivision 4-1-2, Floodplain Regulations, establishes standards for development within the Regulatory Floodplain, in order to reduce and mitigate flood hazards.\n  2.\tDivision 4-1-3, Stormwater and Drainage Control, establishes design principles for grading and drainage system design.\n  3.\tDivision 4-1-4, Natural Hazards and Environmentally-Sensitive Areas, establishes standards for avoiding or mitigating natural hazard areas and for protecting environmentally-sensitive areas from the impacts of development.\n  4.\tDivision 4-1-5, Irrigation Canals and Ditches, establishes standards for development near irrigation canals and irrigation ditches.\nB.\tRelationship to Other Standards of this Code. The standards of this Article, particularly Division 4-1-2, Floodplain Regulations, and Division 4-1-5, Irrigation Canals and Ditches, may restrict development on certain locations of a subject property. When the application of these standards would result in exceptional hardship to the Applicant upon a determination that the variance is the minimum necessary, a variance may be permissible to allow development on other parts of the subject property pursuant to Section 8-3-11-2, Variances.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

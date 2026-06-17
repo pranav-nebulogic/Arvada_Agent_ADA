@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "statement",
+      "costs",
+      "assessment",
+      "finance",
+      "director",
+      "designee",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH59MULI"
+    ],
+    "scraped_at": "2026-06-10T12:02:54.566113+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 59-3"
+    ],
+    "chapter": "Chapter 59 - MUNICIPAL LIENS"
+  },
+  "content": {
+    "title": "Chapter 59 - MUNICIPAL LIENS — Sec. 59-3. - Statement of costs or assessment.",
+    "summary": "The finance director or designee shall send a statement of costs or assessment which\n               reflects the monetary value of the municipal services performed or the amount of money\n               due and owing to the city to the owner of record or business owner by first class\n               m…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 59-3. - Statement of costs or assessment.",
+        "a": "The finance director or designee shall send a statement of costs or assessment which\n               reflects the monetary value of the municipal services performed or the amount of money\n               due and owing to the city to the owner of record or business owner by first class\n               mail. The statement of costs or assessment is due and payable to the city within 30\n               days from the date of the statement. A failure by the owner of record or business\n               owner to pay the statement of costs or assessment constitutes a debt due and owing\n               to the city. Interest on any unpaid balance due to the city shall accrue at the legal\n               rate specified in C.R.S. § 5-12-101, as amended. An administrative processing fee\n               shall be charged in the amount of $50.00 or five percent of the unpaid amount, including\n               interest, whichever is greater, which shall cover the costs of the notice and filing\n               the lien or certification to the county treasurer. The city reserves the right to\n               recover the monetary amount in the statement of costs or assessment in the manner\n               provided by law including this chapter or in any court of competent jurisdiction.\n(\nOrd. No. 4042, § 1, 12-11-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 59-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

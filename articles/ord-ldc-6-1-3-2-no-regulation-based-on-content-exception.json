@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "regulation",
+      "based",
+      "content",
+      "exceptions",
+      "generally",
+      "except",
+      "provided",
+      "section",
+      "sign",
+      "approved"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-3-2"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-3. PROHIBITIONS"
+  },
+  "content": {
+    "title": "6-1-3-2. No regulation based on content; exceptions.",
+    "summary": "A.\tGenerally. Except as provided in this Section, no sign shall be approved or disapproved based on the content or message it displays.\nB.\tProhibition on Certain Types of Unprotected Speech.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-3-2. No regulation based on content; exceptions.",
+        "a": "A.\tGenerally. Except as provided in this Section, no sign shall be approved or disapproved based on the content or message it displays.\nB.\tProhibition on Certain Types of Unprotected Speech. The following content, without reference to the viewpoint of the individual speaker, shall not be displayed on signs:\n  1.\tText or graphics that is harmful to minors as defined by state or federal law;\n  2.\tText or graphics that advertise an activity or transaction that is unlawful under state or federal law;\n  3.\tText or graphics that are obscene, fighting words, defamation, incitement to imminent lawless action, or true threats, as such words and phrases are defined by controlling law; or\n  4.\tText or graphics that present a clear and present danger due to their potential confusion with traffic control signs; or signs that provide false information related to public safety (e.g., signs that use the words \"Stop,\" \"Yield,\" \"Caution,\" or \"Danger,\" or comparable words, phrases, symbols, or characters that are presented in a manner as to confuse motorists or imply a safety hazard that does not exist).\nC.\tSeverability. The narrow classifications of content that are prohibited from display on signs by this Section are either not protected by the United States and Colorado Constitutions, or are offered limited protection that is outweighed by the substantial and compelling governmental interests in protecting the public safety and welfare. It is the intent of the City Council that each Subsection or paragraph of this Section (e.g., Subsections B.1., B.2., B.3., or B.4.) be individually severable in the event that a court holds one or more of them to be inconsistent with the United States Constitution or Colorado Constitution."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "tree",
+      "removal",
+      "replacement",
+      "generally",
+      "existing",
+      "healthy",
+      "trees",
+      "incorporated",
+      "into",
+      "developments"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-2-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-2. TREE PRESERVATION AND REPLACEMENT"
+  },
+  "content": {
+    "title": "4-6-2-2. Tree removal and replacement.",
+    "summary": "A.\tGenerally. Existing healthy trees shall be incorporated into new developments to the maximum extent feasible.\nB.\tPenalty.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-2-2. Tree removal and replacement.",
+        "a": "A.\tGenerally. Existing healthy trees shall be incorporated into new developments to the maximum extent feasible.\nB.\tPenalty. If an Applicant fails to comply with the minimum provisions to preserve trees, the Applicant shall be required to replace each tree that is damaged beyond remedy or destroyed at the rate required in Table 4-6-2-2, Tree Preservation, Transplantation, and Removal. If an owner does not choose to replace irreparably damaged or destroyed trees intended for preservation, the Applicant will be penalized an amount equal to the caliper inch replacement cost plus 100 percent for those trees. The Applicant is required to spend the amount of the penalty for trees at the project. If the Applicant does not choose to plant trees on the project site, the City may choose to plant the trees on a nearby public property or park.\nC.\tTree Preservation, Transplantation, and Removal.\n  1.\tTrees shall be preserved, transplanted, or removed, based on their diameter at breast height, as provided in Table 4-6-2-2, Tree Preservation, Transplantation, and Removal. Trees that are preserved, transplanted, or replaced according to this Section may be credited towards development landscaping as provided in Section 4-6-4-2, Tree Preservation Credits.\n  2.\tThe Director shall determine through consultation with the City Forester when it is not feasible to preserve and retain protected tree(s) or to transplant them to another on-site location. If it is determined that it is not feasible to preserve or transplant protected tree(s), the Applicant shall replace such tree(s) according to this Section. Replacement trees shall be used to satisfy the tree planting standards of this Section.\n  3.\tAt the discretion of the Director, a fee-in-lieu may be determined that considers the size and value of any tree(s) that may need to be removed.\n  4.\tTrees that meet one or more of the following removal criteria shall be exempt from the requirements of this Subsection as follows:\n    a.\tDead, dying or naturally fallen trees, or trees determined by the City to be a threat to public health, safety, or welfare;\n    b.\tTrees that are determined by the City to substantially obstruct clear visibility at driveways and intersections;\n    c.\tTrees included on the Colorado Department of Agriculture noxious weed list, unless the tree is deemed a significant specimen tree by the Director.\n(Ord. No. 4905, § 48, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

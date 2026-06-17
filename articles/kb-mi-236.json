@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "freight",
+      "delivery",
+      "transportation",
+      "purchase",
+      "code",
+      "paid",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/339/Freight-Delivery-Transportation"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-236",
+    "spreadsheet_id": "MI-236",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Freight, Delivery & Transportation",
+    "summary": "Arvada imposes a sales tax on the purchase price of tangible personal property sold at retail, which includes charges for freight, delivery, and transportation, even if these charges are separately stated on invoices. Transportation charges are taxable when they are part of a taxable transaction, while charges for third-party transportation arranged and paid directly by the purchaser, as well as certain postage costs, are exempt from sales and use tax. This summary provides an overview of the relevant tax laws but is not a substitute for the full Arvada tax code.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property sold at retail in the City. To the extent a sufficient, legally-imposed sales/use tax was not paid to the City or another municipality at the time of purchase, Arvada use tax is due. The taxable purchase price is defined, in part, as the amount of money received or due in cash and credit inclusive of charges for freight, delivery, and transportation. These charges are subject to tax even when separately stated on the purchase invoice.\n\n## Taxable Transportation Charges\n\nTransportation charges paid to a retailer to acquire taxable tangible personal property are subject to Arvada sales and use tax when the sale of the tangible personal property is a taxable transaction. Freight, delivery, and transportation charges are a component of the total purchase price paid to the retailer.\n\nTransportation charges that are taxable include but are not limited to:\n\n- Courier\n- Delivery\n- Freight\n- Freight in\n- Freight out\n- Fuel charges\n- Pick up\n- Shipping\n- Shipping and handling\n\n## Non-Taxable Transportation Charges\n\nTransportation charges paid to a vendor to acquire taxable tangible personal property are not subject to Arvada sales and use tax when the sale of the tangible personal property is not a taxable transaction (for example - resales / exempt).\n\nTransportation charges that are not subject to sales/use tax included, but not limited to:\n\n- Transportation via a third party, when arranged and paid for directly by the purchaser who thereby assumes the risk of loss, and is not billed as part of the transaction by the retailer, is not subject to Arvada sales and use tax\n- Stand-alone transportation is a service upon which the Arvada Municipal Code does not impose sales or use tax\n- Charges representing the actual cost of postage purchased from the U.S. Postal Service are exempt from tax if separately stated.\n\n## Examples\n\n- ABC Sales Company takes telephone and mail orders for exercise videotapes. ABC adds $3 per order for shipping and handling to the $35 list price. Even though the $3 is shown as a separate charge for shipping and handling on the invoice, that amount is part of the purchase price and is taxable.\n- XYZ Corporation is a national manufacturing company, which purchases replacement parts from various vendors. After the purchase, XYZ then contacts a freight carrier and arranges for the parts to be picked up from the vendors. At the end of the month, the freight carrier bills XYZ for the charges. These charges from the freight company are not taxable because they are not part of the purchase price of the parts.\n\nNote: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

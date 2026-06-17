@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalties",
+      "any",
+      "violation",
+      "these",
+      "arvada",
+      "blunn",
+      "reservoir"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-60"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-60. - Penalties.",
+    "summary": "(a)\nAny violation of these Arvada/Blunn Reservoir Rules is punishable by a fine not to\n               exceed the limits established in\nsection 1-5\n.\n(b)\nIn addition to the penalties provided by this section, any person violating any provision\n               of this article shall have his permission,…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-60. - Penalties.",
+        "a": "(a)\nAny violation of these Arvada/Blunn Reservoir Rules is punishable by a fine not to\n               exceed the limits established in\nsection 1-5\n.\n(b)\nIn addition to the penalties provided by this section, any person violating any provision\n               of this article shall have his permission, license, or authority to remain at the\n               reservoir terminated or revoked and shall be in violation of\nsection 62-39\n(b). Any police officer or park ranger is hereby delegated the authority to terminate\n               or revoke the permission, license, or authority of any person to remain at the reservoir\n               when such person has violated any provision of the Arvada/Blunn Reservoir Rules.\n(Code 1981, § 22-29; Ord. No. 2577, § 2, 12-19-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-60"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

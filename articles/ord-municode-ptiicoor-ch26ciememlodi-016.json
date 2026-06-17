@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "location",
+      "governing",
+      "body",
+      "meetings",
+      "departments",
+      "whenever",
+      "civil"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-41"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-41. - Location of governing body meetings and departments.",
+    "summary": "(a)\nWhenever a civil emergency, emergency, or disaster makes it imprudent or impossible\n               to conduct the affairs of the city at its regular locations, the governing body may\n               meet at any place, inside or outside the city limits, or may meet via the telephone\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-41. - Location of governing body meetings and departments.",
+        "a": "(a)\nWhenever a civil emergency, emergency, or disaster makes it imprudent or impossible\n               to conduct the affairs of the city at its regular locations, the governing body may\n               meet at any place, inside or outside the city limits, or may meet via the telephone\n               or other communication system. Any temporary civil emergency, emergency, or disaster\n               meeting location for the governing body shall continue until a new location is established\n               or until the civil emergency, emergency, or disaster is terminated and the governing\n               body is able to return to its normal location.\n(b)\nWhenever a civil emergency, emergency, or disaster makes it imprudent or impossible\n               to conduct the affairs of any department of the city at its regular location, such\n               department may conduct its business at any place, inside or outside the city limits,\n               and may remain at the temporary location until the civil emergency, emergency or disaster\n               is declared ended or until the department is able to return to its normal location.\n(c)\nWhenever a civil emergency, emergency, or disaster makes it imprudent or impossible\n               for city council, or any city committee, board or authority to meet at a previously\n               scheduled date and time, such meeting shall be deemed to be postponed until a quorum\n               of the city council, city committee, board or authority is able to meet.\n(d)\nAny official act or meeting required to be performed at any regular location of the\n               governing body or of its departments is valid when performed at any temporary location\n               under this section.\n(e)\nThe provisions of this section shall apply to all executive, legislative and judicial\n               branches, powers and functions conferred upon the city and its officers, employees,\n               and authorized agents by the Colorado Constitution, Colorado Statutes, the Arvada\n               Municipal Code, including the Arvada Charter.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-41"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

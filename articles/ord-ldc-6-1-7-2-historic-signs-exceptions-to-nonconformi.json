@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "historic",
+      "signs",
+      "exceptions",
+      "nonconformity",
+      "abandonment",
+      "designation",
+      "sign",
+      "director",
+      "designate",
+      "demonstrated"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-7-2"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-7. MAINTENANCE; HISTORIC SIGNS"
+  },
+  "content": {
+    "title": "6-1-7-2. Historic signs; exceptions to nonconformity and abandonment.",
+    "summary": "A.\tDesignation of Historic Sign.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-7-2. Historic signs; exceptions to nonconformity and abandonment.",
+        "a": "A.\tDesignation of Historic Sign. The Director may designate a sign as an historic sign if it is demonstrated that:\n  1.\tThe Applicant provides credible documentation that the sign has been at its present location for a minimum of 50 years.\n  2.\tThe sign is structurally safe or capable of being made structurally safe without substantially altering its historic character. The property owner is responsible for making all structural repairs and restoration of the sign to its original condition.\n  3.\tThe sign is representative of signs from the era in which it was constructed and provides evidence of the historic use of the building or premises.\n  4.\tThe property owner consents to the designation.\nB.\tEffect of Designation.\n  1.\tHistoric signs are not subject to Division 9-1-4, Nonconforming Signs, except for Section 9-1-4-3, Relocation of Nonconforming Signs.\n  2.\tDesignated historic signs will not be considered abandoned as long as they continue to meet the conditions of Subsection A, above.\n  3.\tIn the Olde Town (OT) sign district, historic signs may be retained on a site in addition to new signs permitted by this Article, provided that the new signs meet the criteria established in the Design Guidelines for Olde Town."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-7-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

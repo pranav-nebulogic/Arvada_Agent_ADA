@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "correction",
+      "obvious",
+      "errors",
+      "nothing",
+      "code",
+      "construed",
+      "limitation",
+      "upon",
+      "power",
+      "director"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-3-2"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-3. RULES OF CONSTRUCTION AND INTERPRETATION"
+  },
+  "content": {
+    "title": "1-1-3-2. Correction of obvious errors.",
+    "summary": "Nothing in this Code shall be construed as a limitation upon the power of the Director of Community and Economic Development to correct obvious typographical or compositional errors, provided:\n  1.\tSuch corrections shall not change the legal effect of this Code or any part thereof.\n  2.\tSuch correct…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-3-2. Correction of obvious errors.",
+        "a": "Nothing in this Code shall be construed as a limitation upon the power of the Director of Community and Economic Development to correct obvious typographical or compositional errors, provided:\n  1.\tSuch corrections shall not change the legal effect of this Code or any part thereof.\n  2.\tSuch correction will be reported to the Planning Commission and the City Council."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

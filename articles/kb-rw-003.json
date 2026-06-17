@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "block",
+      "party",
+      "temporary",
+      "traffic",
+      "control",
+      "plan",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1538/Block-PartyTemporary-Traffic-Control-Pla"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-003",
+    "spreadsheet_id": "RW-003",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Block Party Temporary Traffic Control Plan Information",
+    "summary": "A Temporary Traffic Control Plan (TTCP) is necessary for block parties held on Arvada streets, detailing how road users will navigate the area. Organizers must ensure that 80% of neighborhood residents approve the closure, and consent from affected properties is required. Type III barricades are provided if the Block Party Trailer is reserved; otherwise, organizers must rent them from a traffic control company.",
+    "body": "A Temporary Traffic Control Plan (TTCP) is required whenever any part of a block party will take place within any Arvada street. The TTCP shows how road users (including cars, trucks, buses, bikes, and pedestrians) will be informed about and guided through or around the block party zone. Usually this involves a combination of advance warning signs (barricades, Road Closed). See Block Party Street Closure template (Hand-drawn plans are not accepted).\n\nIf you would prefer to contact a traffic control company and request they create a TTCP, you are welcome to do so. The City cannot recommend any specific company, but you can find companies in the Yellow Pages or Google.\n\n**Note:**If you reserved the Block Party Trailer, the required Type III barricades are provided inside. If you are not reserving the Block Party Trailer, you will need to rent Type III barricades, and can use one of the traffic control companies.\n\nAny affected properties/residents must provide consent to the roadway closure and an event must demonstrate 80% approval of the neighborhood residents for the City to allow the roadway closure. Please circulate a petition requesting the name, signature, and an indication that the resident agrees to the closure. Please note that only Local Streets can be closed for block parties",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "irregularities",
+      "contracts",
+      "assessments",
+      "whenever",
+      "council",
+      "made",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-115"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-115. - Irregularities in contracts and assessments.",
+    "summary": "(a)\nWhenever the council has made any contract appertaining to any project provided herein\n               or shall hereafter make any assessment against any tract within any district for any\n               project authorized herein and has in making such contract or assessment acted in good\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-115. - Irregularities in contracts and assessments.",
+        "a": "(a)\nWhenever the council has made any contract appertaining to any project provided herein\n               or shall hereafter make any assessment against any tract within any district for any\n               project authorized herein and has in making such contract or assessment acted in good\n               faith and without fraud or shall hereafter act in good faith and without fraud, the\n               said contract and assessment shall be valid and enforceable as such, and said assessment\n               shall be a lien upon the tract upon which the same purports to be a lien.\n(b)\nIt shall be no objection to the validity of such contract, assessment or lien that:\n(1)\nThe contract appertaining to such project was not awarded in the manner or at the\n               time required hereby or otherwise;\n(2)\nThe same was made by an unauthorized officer or person if the same shall have been\n               confirmed by the authorities of the city; and\n(3)\nAny assessment is based upon an improper basis of benefits to the tract appertaining\n               thereto within the district, unless it shall be made to appear that the city authorities\n               acted fraudulently or oppressively in making such assessment.\n(c)\nAll assessments heretofore or hereafter made which are made by the city authorities\n               in good faith are hereby declared to be valid and in full force and effect and to\n               be collectible in the manner which is now or may hereafter be provided by law for\n               the collection of assessments for the purposes specified in this section.\n(Code 1981, § 27-115; Ord. No. 551, § 56, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-115"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

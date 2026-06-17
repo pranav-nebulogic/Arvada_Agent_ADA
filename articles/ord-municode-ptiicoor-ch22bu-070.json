@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "vehicles",
+      "generally",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "equip"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-235"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-235. - Vehicles generally.",
+    "summary": "It shall be unlawful for any person to equip a vehicle used in the operation of a\n               contract security agency, or while performing the duties of a business or security\n               guard, in any manner resembling an authorized emergency vehicle as defined in C.R.S.\n               § 42-…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-235. - Vehicles generally.",
+        "a": "It shall be unlawful for any person to equip a vehicle used in the operation of a\n               contract security agency, or while performing the duties of a business or security\n               guard, in any manner resembling an authorized emergency vehicle as defined in C.R.S.\n               § 42-4-213, as may from time-to-time be amended.\n(Code 1981, § 21-95; Ord. No. 3739, § 2, 3-4-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-235"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

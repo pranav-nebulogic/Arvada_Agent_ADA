@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "application",
+      "division",
+      "generally",
+      "ensure",
+      "principal",
+      "buildings",
+      "city",
+      "reflect",
+      "following"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-2-1"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-2. BUILDING AND STRUCTURE DESIGN STANDARDS"
+  },
+  "content": {
+    "title": "5-1-2-1. Purpose and application of division.",
+    "summary": "A.\tPurpose.\n  1.\tGenerally. The purpose of this Division is to ensure that all principal buildings in the City reflect the following design goals.\n    a.\tVisual Interest.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-2-1. Purpose and application of division.",
+        "a": "A.\tPurpose.\n  1.\tGenerally. The purpose of this Division is to ensure that all principal buildings in the City reflect the following design goals.\n    a.\tVisual Interest. New buildings should create visual interest in ways that reinforce or complement the architectural character of the surrounding area, through the use of similar elements such as rooflines, materials, colors, window design, building articulation, and other architectural details.\n    b.\tBuilding Orientation. Primary structures should be arranged so that the primary façade, or each façade with a main pedestrian entry orients onto a public or private street, a public park, open space or common green, a plaza, courtyard, a private street-like drive, or a pedestrian passage.\n    c.\tHuman-Scale Detailing. Massing and articulation of buildings should contribute to a sense of human-scale by incorporating elements such as street facing entries, 360-degree architecture; pedestrian oriented ground floor design elements; horizontal and vertical articulation; reveals, belt courses, or cornices; expression of structural or architectural bays, recessed windows, strongly expressed mullions, recessed doors, or door entry features; various materials or material module changes, and colors to avoid massive or long, monolithic building shapes and surfaces.\n    d.\tTexture and Relief. All buildings should incorporate texture and relief in façades, should avoid large, flat, unbroken, wall planes, and should take advantage of the sun to bring out changes in planes, materials, and details through light and shadow.\n    e.\tCladding Materials. All buildings should use materials to enhance architectural character and promote overall building longevity; materials should be durable, economical to maintain, and of a quality that will retain their appearance over time.\n    f.\tRoof Design and Form. All buildings should incorporate roof forms that convey a mass and scale consistent with the building's architectural style, that add visual interest, and are appropriate to a building's use.\n    g.\tBuilding Color. Large areas of wall should be subdued in color and not reflective. Bright and neon colors should be used sparingly and limited to building accents, and should not be used to create \"sign buildings.\" Monotonous color palettes are strongly discouraged.\n    h.\tEntryways. Primary public entries of buildings should be emphasized through the use of differing colors or materials, arches, arcades, covered porches, or other architectural treatments. Building entrances used by residents or the public shall be visible from an adjacent street, where possible.\n    i.\tOverhead and Garage Doors. Overhead and garage doors should complement the architectural style of the building, and should not be the visually dominant feature of street-facing façades.\n    j.\tMechanical Equipment. Rooftop, wall-mounted, and ground-mounted mechanical equipment and appurtenances should be screened so that they are not visible when viewed from public streets or the ground level of adjacent properties.\n  2.\tPurposes Are Not Standards. The purposes that are set out in this Subsection A. shall not be considered standards in their own right, but shall be considered in:\n    a.\tThe application of the specific standards of this Division; and\n    b.\tThe evaluation of requests to deviate from the standards of this Division pursuant to Section 8-3-11-3, Administrative Minor Modifications.\nB.\tApplication.\n  1.\tGenerally. The standards of this Division are applied based on the type and location of the proposed new development, building façade redesign, and all expansions of the gross square footage of any principal building. Standards shall only apply to those portions of the building or site being modified as part of the expansion.\n  2.\tModifications of Building and Structure Design Requirements. Except for the OT Zoning District and the Reno Park Addition Historic District Project Area, the standards of this Division may be modified through the design review process as provided in Section 8-3-11-3, Administrative Minor Modifications. In the Olde Town Zoning District and Reno Park Addition Historic District Project Area, the standards of this Division may be modified through the design review process, based on the standards in Division 2-1-5, Generally Applicable Lot and Building Form Standards, Appendix A, the Design Guidelines for Olde Town Arvada, and Appendix B, the Design Guidelines for the Reno Park Addition Historic District."
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

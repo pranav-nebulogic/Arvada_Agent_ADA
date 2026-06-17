@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedures",
+      "all",
+      "licenses",
+      "granted",
+      "pursuant",
+      "article",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-222"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-222. - Procedures.",
+    "summary": "All licenses granted pursuant to this article shall be for a term of one year. Said\n               term shall commence on January 1 of each year and terminate upon December 31 of the\n               same year. Applications for a license filed at any other time during the year shall\n               be …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-222. - Procedures.",
+        "a": "All licenses granted pursuant to this article shall be for a term of one year. Said\n               term shall commence on January 1 of each year and terminate upon December 31 of the\n               same year. Applications for a license filed at any other time during the year shall\n               be treated the same as if they were filed January 1 of that year and shall terminate\n               on December 31 of that year, and no proration shall be permitted.\n(Code 1981, § 6-101; Ord. No. 3496, § 2, 12-14-1998; Ord. No. 3606, § 1, 4-3-2000)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-222"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "unlawful",
+      "acts",
+      "addition",
+      "enumerated",
+      "under",
+      "colorado",
+      "liquor"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-171"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-171. - Unlawful acts.",
+    "summary": "(a)\nUnlawful acts.\nIn addition to the unlawful acts enumerated under the Colorado Liquor Code and chapter\n               6 of the Arvada City Code, it shall be unlawful for:\n(1)\nAny person, liquor licensed establishment, or promotional association to operate a\n               common consumption area …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-171. - Unlawful acts.",
+        "a": "(a)\nUnlawful acts.\nIn addition to the unlawful acts enumerated under the Colorado Liquor Code and chapter\n               6 of the Arvada City Code, it shall be unlawful for:\n(1)\nAny person, liquor licensed establishment, or promotional association to operate a\n               common consumption area between the hours of 2:00 a.m. and 8:00 a.m.;\n(2)\nAny promotional association to change or modify the common consumption area premises\n               or usage without approval from the city clerk or authority;\n(3)\nAny certified promotional association to operate a common consumption area after the\n               expiration date recorded upon the face of the common consumption area license;\n(4)\nAny licensed liquor establishment to allow its patrons to consume alcohol beverages\n               in a common consumption area without authorization from the city clerk or the authority\n               to attach to the common consumption area;\n(5)\nA promotional association or any liquor licensed establishment to sell or store alcohol\n               within the common consumption area;\n(6)\nAny promotional association or any liquor licensed establishment to permit its patrons\n               to remove an open alcoholic beverage from the common consumption area; or\n(7)\nAny non-liquor licensed business, non-participating liquor licensed establishment,\n               or person located with the boundaries of the common consumption area to sell or serve\n               alcohol.\n(b)\nPenalties.\nA violation of this section shall be punishable by the penalties described in\nsection 6-5\nof the Arvada City Code.\n(\nOrd. No. 4804\n, § 1, 6-6-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-171"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

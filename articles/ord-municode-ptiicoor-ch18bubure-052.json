@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "application",
+      "hereby",
+      "amended",
+      "adding",
+      "second",
+      "paragraph"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-180"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-180. - I.R.C. Section R301.1, Application.",
+    "summary": "Section R301.1. Application,\nis hereby amended by adding a second paragraph as follows:\n\"\nR301.1. Application.\nDesign snow loads for this jurisdiction are: roof snow load = 30 psf (1.44 kN/m2);\n                  ground snow load = 25 psf (1.2 kN/m2).\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)\n_____",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-180. - I.R.C. Section R301.1, Application.",
+        "a": "Section R301.1. Application,\nis hereby amended by adding a second paragraph as follows:\n\"\nR301.1. Application.\nDesign snow loads for this jurisdiction are: roof snow load = 30 psf (1.44 kN/m2);\n                  ground snow load = 25 psf (1.2 kN/m2).\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)\n_____"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-180"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

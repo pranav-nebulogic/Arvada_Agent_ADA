@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-36-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "forms",
+      "complete",
+      "participate",
+      "program",
+      "download",
+      "please",
+      "view",
+      "feature",
+      "Housing Choice Voucher Program Landlord Guide"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=36"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-forms-will-i-have-to-complete-to-participate-in-the-pro",
+    "faq_category_name": "Housing Choice Voucher Program Landlord Guide"
+  },
+  "content": {
+    "title": "What forms will I have to complete to participate in the program?",
+    "summary": "To download forms please view the feature column. Request for Tenancy Approval (RFTA) - Landlords complete a HUD form called a Request for Tenancy Approval (RFTA) to provide basic information about the unit and need to provide an unsigned copy of their lease for us to review. We evaluate the RFTA an…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What forms will I have to complete to participate in the program?",
+        "a": "To download forms please view the feature column. Request for Tenancy Approval (RFTA) - Landlords complete a HUD form called a Request for Tenancy Approval (RFTA) to provide basic information about the unit and need to provide an unsigned copy of their lease for us to review. We evaluate the RFTA and lease information to determine if the unit is affordable for the prospective participant. Once the unit is determined to be affordable, the AHA inspector will conduct an inspection. IRS Form W-9 - New landlords must complete the W-9 form attached to the RFTA. The tax identification or social security number you provide must belong to the owner or persons responsible for the payment of taxes. Housing Assistance Payment Contract (HAP) to Owner - Once the unit is determined to be affordable and has passed inspection, the landlord is required to sign a Housing Assistance Payment (HAP) Contract and execute the lease with the participant. If you need assistance or have questions about the paperwork, each participant who receives funding through this program has a trained Housing Specialist who is available to help. Rental assistance payments are sent directly to the landlord on behalf of a participating family. The family then pays their portion of the rent directly to the landlord. Landlord Obligations - The Landlord Obligations form highlights a few of the obligations found in the Housing Assistance Payments Contract (HAP). By signing this form the landlord is agreeing to comply with the listed obligations. Lead-Based Paint Disclosure - Housing built before 1978 may contain lead-based paint that may be a health hazard if not managed properly. The landlord is required to disclose his/her knowledge of lead-based paint in the unit. The presence of lead-based paint does not disqualify the unit, however, it is important for the participant to be informed of the presence of lead-based paint."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

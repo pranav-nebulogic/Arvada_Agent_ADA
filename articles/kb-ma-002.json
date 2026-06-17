@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "permit status",
+      "contractor portal",
+      "active permit",
+      "permit tracking",
+      "Main"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/729/Check-the-Status-of-a-Permit-Schedule-a-"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/ma-002",
+    "spreadsheet_id": "MA-002",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Check the Status",
+    "summary": "Contractors can manage their permits and access account information through the contractor portal. If they forget their password, they can reset it by entering their associated email address. Active permits are displayed in the portal, while expired permits require reactivation through the permitting office, and subcontractors may need to submit additional documentation to access permit information.",
+    "body": "## Contractor Portal Access and Permit Management\n\n## Forgot Your Password?\n\nIf you have forgotten your password, select **Forgot Password** on the sign-in page.\n\nYou will be prompted to enter the email address associated with your contractor account. Password reset instructions will be sent to that email address.\n\n## Trouble Signing In\n\nIf you are unable to access your account:\n\n- Verify that you are using the correct email address and password.\n    \n- Ensure that your contractor license is active and has not expired.\n    \n- If your license has expired, complete the license renewal process before attempting to access permit information.\n    \n- If you continue to experience issues, contact the permitting office for assistance.\n    \n\n## Viewing Permit Information\n\nWhen logged into the contractor portal, you can view permits associated with your contractor account.\n\nOnly active permits are displayed. Once a permit has received final approval and is closed, it may no longer appear on your active permit dashboard.\n\nIf you need information about a previously closed permit, search using the permit number or project address.\n\n## Expired Permits\n\nPermits that have passed their expiration date may not appear in the list of active permits.\n\nTo reactivate an expired permit, contact the permitting office before scheduling inspections or performing additional work.\n\n## Subcontractor Access\n\nIf your company is not listed on a permit, you may be required to submit a subcontractor authorization form or other supporting documentation before accessing permit information or scheduling inspections.\n\nIf documentation has already been submitted and the permit information has not been updated, contact the permitting office for assistance.\n\n## Online Permit Applications\n\nThe permitting portal provides access to permit information, application services, and permit management tools. Available features may vary depending on permit type and jurisdiction.\n\n## Need Assistance?\n\nIf you need help with account access, permit information, licensing requirements, or application submissions, contact the permitting office or support team for assistance.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

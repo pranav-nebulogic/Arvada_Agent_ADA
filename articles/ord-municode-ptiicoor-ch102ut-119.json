@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalty",
+      "continuing",
+      "violation",
+      "article",
+      "shall",
+      "punished",
+      "fine"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-285"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-285. - Penalty; continuing violation.",
+    "summary": "(a)\nPenalty.\nA violation of this article shall be punished by a fine or imprisonment not to exceed\n               the limits established in\nsection 1-5\nof this Code.\n(b)\nContinuing violation.\nIn accordance with\nsection 1-5\nof this Code, every day any violation of this article continues or is permitt…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-285. - Penalty; continuing violation.",
+        "a": "(a)\nPenalty.\nA violation of this article shall be punished by a fine or imprisonment not to exceed\n               the limits established in\nsection 1-5\nof this Code.\n(b)\nContinuing violation.\nIn accordance with\nsection 1-5\nof this Code, every day any violation of this article continues or is permitted or\n               allowed to continue shall constitute a separate offense.\n(c)\nConcurrent remedies.\nThe initiation of a prosecution for a violation of this article shall not preclude\n               the director from instituting other appropriate action to restrain, correct, or abate\n               a violation or to prevent illegal occupancy of a structure or premises, or to stop\n               an illegal act, conduct, or the utilization of an uncontrolled cross-connection on\n               or about any property. The initiation of a prosecution for a violation of this article\n               shall also not preclude the director from taking any actions under\nsection 102-277\nor\n102-278\n.\n(\nOrd. No. 4829\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-285"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fire",
+      "hydrant",
+      "metered",
+      "water",
+      "use",
+      "special",
+      "permit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-69"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-69. - Fire hydrant metered water use.",
+    "summary": "A special permit for the use of a fire hydrant meter may be issued by the city. Except\n               as provided herein, water obtained under these permits shall be used only within city\n               boundaries. Upon demonstration of good cause, and upon a finding that to do so is\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-69. - Fire hydrant metered water use.",
+        "a": "A special permit for the use of a fire hydrant meter may be issued by the city. Except\n               as provided herein, water obtained under these permits shall be used only within city\n               boundaries. Upon demonstration of good cause, and upon a finding that to do so is\n               in the best interest of the city, the city manager or his designee may authorize a\n               fire hydrant meter for use outside of the city. The city manager or his designee shall\n               establish such terms, limitations, conditions, or time limits as he deems reasonably\n               necessary and appropriate as a precondition of granting such permits outside of city\n               boundaries. The city may restrict the use of any such permits, may refuse to issue\n               permits, and may revoke issued permits at any time. In the event a fire hydrant meter\n               is damaged or lost, the permit holder shall, at the sole discretion of the utilities\n               manager, replace the meter or pay for repair or replacement of the meter. The city\n               shall have full access to the fire hydrant meter at all times, and may bill monthly\n               or when the meter is returned to the city. The permit holder shall return the fire\n               hydrant meter for calibration at the city's request. The water usage rates for fire\n               hydrant metered water use shall be as provided in\nsection 102-176\n.\n(Code 1981, § 33-42; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 3403, § 11, 10-20-1997;\n               Ord. No. 3537, § 1, 6-7-1999)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-69"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

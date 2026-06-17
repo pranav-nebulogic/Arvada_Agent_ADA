@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "waste",
+      "collection",
+      "services",
+      "accounting",
+      "budgeting",
+      "finance",
+      "director"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-37"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-37. - Waste collection services accounting and budgeting.",
+    "summary": "The finance director shall segregate waste collection services, expenses and revenues\n               separate from the general fund expenditures and revenues and provide a general accounting\n               for the expenditures and revenues. For each budget cycle, a projection of residential\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-37. - Waste collection services accounting and budgeting.",
+        "a": "The finance director shall segregate waste collection services, expenses and revenues\n               separate from the general fund expenditures and revenues and provide a general accounting\n               for the expenditures and revenues. For each budget cycle, a projection of residential\n               waste collection services expenditures and revenues shall be made as part of the city\n               budget process.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-37"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

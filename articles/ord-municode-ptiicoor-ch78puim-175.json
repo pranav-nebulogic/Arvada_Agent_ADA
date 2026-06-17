@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "availability",
+      "copies",
+      "engineering",
+      "code",
+      "standards",
+      "specifications",
+      "file"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-263"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-263. - Availability of copies.",
+    "summary": "Copies of the Engineering Code of Standards and Specifications are on file with the\n               city clerk and open to public inspection during regular business hours of the city,\n               and online at\nhttps://arvada.org/city-hall/city-code/engineering-code-of-standards-and-specifications\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-263. - Availability of copies.",
+        "a": "Copies of the Engineering Code of Standards and Specifications are on file with the\n               city clerk and open to public inspection during regular business hours of the city,\n               and online at\nhttps://arvada.org/city-hall/city-code/engineering-code-of-standards-and-specifications\n.\n(Code 1981, § 27-192; Ord. No. 2391, § 1, 1-19-1987; Ord. No. 2429, § 1, 7-20-1987;\nOrd. No. 4809\n, § 1, 7-18-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-263"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

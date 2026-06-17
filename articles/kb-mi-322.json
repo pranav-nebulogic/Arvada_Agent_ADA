@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "mobile",
+      "machinery",
+      "construction",
+      "equipment",
+      "sales",
+      "paid",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/353/Mobile-Machinery-Construction-Equipment"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-322",
+    "spreadsheet_id": "MI-322",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Mobile Machinery & Construction Equipment",
+    "summary": "All construction equipment in the city is subject to sales and use tax, which varies based on the duration of the equipment's presence in the city and prior tax payments. Special Mobile Machinery (SMM) requires a specific state-issued license plate and is subject to a specific ownership tax upon registration, with certain exemptions for rental businesses. Additionally, businesses using mobile machinery exclusively outside the city may qualify for prorated use tax based on the time the equipment is stored within the city.",
+    "body": "All construction equipment is subject to sales and uses tax. The amount of use tax due depends on how long the equipment is located in the City and how much municipal sales and use tax was previously paid on the equipment. Do not confuse sales and use tax with Special Mobile Machinery (SMM) taxes paid upon registration of equipment.\n\n## Mobile Machinery & Self-Propelled Construction Equipment\n\nShall mean those vehicles, self-propelled or otherwise, which are not designed primarily for the transportation of persons or cargo over the public highways, and those motor vehicles which may have originally been designed for the transportation of persons or cargo over the public highways, and those motor vehicles which may have originally been designed for the transportation of persons or cargo but which have been redesigned or modified by the mounting thereon of special equipment or machinery, and which may be only incidentally operated or moved over the public highways. This definition includes but is not limited to, wheeled vehicles commonly used in the construction, maintenance, and repair of roadways, the drilling of wells, and the digging of ditches.\n\n## Special Mobile Machinery (SMM)\n\nSpecial mobile machinery (SMM) requires a special State of Colorado-issued license plate on which the letters \"SMM\" appears. If special mobile machinery is attached to a vehicle, such as to the \"bed\" of a truck, the special mobile machinery is required to be licensed with the SMM plate and the truck itself is licensed in the normal fashion with a vehicle license plate. For licensed special mobile machinery, a \"specific ownership tax\" is collected upon annual registration of the equipment, in lieu of personal property tax. The special mobile machinery is required to be registered in the county at the business address where the special mobile machinery is primarily operated, maintained, and stored. For registration purposes, business addresses do not include construction job sites. Examples of equipment that qualify for the SMM plate include:\n\n- Acoustic Mixers\n- Air Compressors\n- Asphalt Plant Units\n- Backhoes\n- Bottom Dump and Rear Dump Trailers\n- Bulldozers\n- Butchers and Pavers\n- Concrete Mixers\n- Conveyors\n- Crawler Backhoe\n- Crawler Cranes\n- Crawler Shovels\n- Flood Lighting Units\n- Forklifts, Motor Scrapers\n\n- Generators, Welders\n- Hydraulic Cranes\n- Mobile Hydraulic Hammers/Crawlers\n- Motor Graders, Loaders\n- Power Brooms\n- Roller/Compactors\n- Straddle Carriers\n- Sweepers\n- Tar Pots\n- Towed Tankers\n- Tractors\n- Trailers (Storage, Tool, and Office)\n- Truck Cranes\n\nBusinesses engaged in renting special mobile machinery are allowed to register the special mobile machinery without paying the specific ownership tax. (The specific ownership tax is sometimes referred to as \"SMM Tax\" or \"SME Tax.\") However, when special mobile machinery is rented, the rental vendor is required to collect SMM Tax or SME Tax at the rate of 2% of the rental charge. The 2% charged is not included in the taxable rental price for sales and use tax purposes.\n\nThe [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) provides for any mobile machinery which is acquired exclusively for business or commercial use and where such machinery is stored in the city, but solely and exclusively used outside the city, the use tax may be prorated. When a taxpayer is able to establish to the satisfaction of the enforcement officer that a taxable item meets the above requirements, the tax may be prorated by determining the number of days within a calendar year that the machinery is stored within the city, and apply that fraction of a year into the normal applicable use tax. Repair parts do not qualify for the mobile machinery exemption.\n\n## Construction Equipment Declaration\n\nA completed construction equipment declaration should be submitted to the Revenue department declaring any construction equipment that is being used within Arvada on a construction project. If another City's sales or use tax was paid on the equipment declared, please enclose documentation showing such payment of such tax. Upon receipt of the declaration, the City will calculate the amount of any tax due and will send an assessment, if applicable.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

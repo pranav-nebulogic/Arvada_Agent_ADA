@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "approved",
+      "adopted",
+      "essential",
+      "home",
+      "repair",
+      "program",
+      "low"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-101"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-101. - Approved and adopted.",
+    "summary": "The essential home repair program for low and moderate income property owners, and\n               amendments thereto, three copies of which are on file with the city clerk and are\n               open to public inspection, is hereby approved and adopted herein by reference.\n(Code 1981, § 14-47; Ord. …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-101. - Approved and adopted.",
+        "a": "The essential home repair program for low and moderate income property owners, and\n               amendments thereto, three copies of which are on file with the city clerk and are\n               open to public inspection, is hereby approved and adopted herein by reference.\n(Code 1981, § 14-47; Ord. No. 1576, § 1, 7-2-1979; Ord. No. 1777, § 1, 10-5-1981;\n               Ord. No. 2230, § 1, 11-4-1985; Ord. No. 2389, § 19, 1-5-1987)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-101"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

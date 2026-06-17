@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "impersonating",
+      "public",
+      "servant",
+      "person",
+      "commits",
+      "falsely",
+      "pretends"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-49"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-49. - Impersonating a public servant.",
+    "summary": "(a)\nA person commits impersonating a public servant if he falsely pretends to be a public\n               servant other than a peace officer and performs any act in that pretended capacity.\n(b)\nIt is no defense to a prosecution under this section that the office the person pretended\n               to…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-49. - Impersonating a public servant.",
+        "a": "(a)\nA person commits impersonating a public servant if he falsely pretends to be a public\n               servant other than a peace officer and performs any act in that pretended capacity.\n(b)\nIt is no defense to a prosecution under this section that the office the person pretended\n               to hold in fact did not exist.\n(Code 1960, §§ 17-20, 17-23; Code 1981, §§ 21-18, 21-19)\nState Law reference—\nImpersonating a public servant, C.R.S. §§ 18-8-112, 18-8-113."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-49"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

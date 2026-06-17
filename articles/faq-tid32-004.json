@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-32-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "steps",
+      "take",
+      "reduce",
+      "water",
+      "bill",
+      "amount",
+      "city",
+      "partners",
+      "Water & Sewer Billing"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=32"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-steps-can-i-take-to-reduce-my-water-bill-amount",
+    "faq_category_name": "Water & Sewer Billing"
+  },
+  "content": {
+    "title": "What steps can I take to reduce my water bill amount?",
+    "summary": "The City partners with Resource Central to offer several outdoor water saving programs: Low-water garden plants (Garden in a Box) Lawn replacement Smart Controller sprinkler system upgrade Waterwise yard seminars Additionally, read these outdoor watering tips or watch this video.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What steps can I take to reduce my water bill amount?",
+        "a": "The City partners with Resource Central to offer several outdoor water saving programs: Low-water garden plants (Garden in a Box) Lawn replacement Smart Controller sprinkler system upgrade Waterwise yard seminars Additionally, read these outdoor watering tips or watch this video."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

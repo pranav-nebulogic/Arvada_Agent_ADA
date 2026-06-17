@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "human",
+      "services",
+      "advisory",
+      "committee",
+      "funding",
+      "grant",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/273/Human-Services-Advisory-Committee"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-269",
+    "spreadsheet_id": "MI-269",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Human Services Advisory Committee",
+    "summary": "The Human Services Advisory Committee advises the City Council on funding allocations from the Human Services funding pool and the Community Development Block Grant. The committee meets annually in late Fall to review grant applications and consists of nine volunteer members who serve three-year terms and must be residents. Recruitment for new members will begin in December.",
+    "body": "## Overview\n\nThe Human Services Advisory Committee advises the City Council on the allocation of funding from the Human Services funding pool, as well as the funding for public services from the Community Development Block Grant.\n\n## Meeting Information\n\nThe committee generally meets once per year in late Fall to review grant applications. Members are also encouraged to conduct site visits throughout the year at organizations that have received funding in the past.\n\n[Join Sep 25, 2023 meeting](https://www.google.com/url?q=https://us06web.zoom.us/j/89552725849?pwd%3Dano1T0pyRlM1T0xYdUJzVEczdy9ydz09&sa=D&source=calendar&ust=1694873443554327&usg=AOvVaw0UX0qiuyZNpr9laiMYxSlY) virtually\n\n## Board Details\n\n- 9 members\n- 3 year terms\n- Volunteer appointment\n- Must be a resident to serve\n\n## Interested in Joining the Human Services Advisory Committee?\n\nRecruitment to fill vacancies on boards and commissions will begin in December. You can review the application process on the main [Boards, Commissions and Committees page](/248/Boards-Commissions-and-Committees).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

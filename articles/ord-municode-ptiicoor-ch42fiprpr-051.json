@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "figure",
+      "dead",
+      "end",
+      "fire",
+      "apparatus",
+      "access",
+      "road"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-96"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-96. - I.F.C. Figure D103.1, Dead end fire apparatus access road turnaround.",
+    "summary": "Figure D103.1 Dead end fire apparatus access road turnaround,\nis hereby amended as follows:\n\"\nD103.1 Dead end fire apparatus access road turnaround.\nThe portion of the figure entitled ninety-six (96) foot (29260.8 mm) diameter cul-de-sac\n                  shall be titled ninety (90) foot (27432 mm) …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-96. - I.F.C. Figure D103.1, Dead end fire apparatus access road turnaround.",
+        "a": "Figure D103.1 Dead end fire apparatus access road turnaround,\nis hereby amended as follows:\n\"\nD103.1 Dead end fire apparatus access road turnaround.\nThe portion of the figure entitled ninety-six (96) foot (29260.8 mm) diameter cul-de-sac\n                  shall be titled ninety (90) foot (27432 mm) diameter cul-de-sac and indicate that\n                  the diameter of the cul-de-sac is 90 feet (27,432 mm).\"\nThe remaining provisions of Figure D103.1 shall remain unchanged.\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-96"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

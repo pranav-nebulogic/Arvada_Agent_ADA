@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "bathrooms",
+      "hereby",
+      "amended",
+      "read",
+      "follows",
+      "water"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-183"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-183. - I.R.C. Section R303.3, Bathrooms.",
+    "summary": "Section R303.3. Bathrooms,\nis hereby amended to read as follows:\n\"\nR303.3. Bathrooms.\nBathrooms, water closet compartments and other similar rooms shall have mechanical\n                  ventilation even if those areas have an openable window that satisfies the minimum\n                  size require…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-183. - I.R.C. Section R303.3, Bathrooms.",
+        "a": "Section R303.3. Bathrooms,\nis hereby amended to read as follows:\n\"\nR303.3. Bathrooms.\nBathrooms, water closet compartments and other similar rooms shall have mechanical\n                  ventilation even if those areas have an openable window that satisfies the minimum\n                  size requirements herein. The minimum ventilation rates shall be in accordance with\n                  section M1507. Ventilation air from the space shall be exhausted directly to the outside.\"\nThe exception is hereby deleted.\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-183"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

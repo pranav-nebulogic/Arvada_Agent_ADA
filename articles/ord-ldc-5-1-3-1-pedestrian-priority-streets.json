@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "pedestrian",
+      "priority",
+      "streets",
+      "generally",
+      "certain",
+      "zoning",
+      "districts",
+      "designation",
+      "street",
+      "principal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-3-1"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-3. PEDESTRIAN PRIORITY STREETS"
+  },
+  "content": {
+    "title": "5-1-3-1. Pedestrian priority streets.",
+    "summary": "A.\tGenerally. Certain streets in the MX zoning districts shall have the designation of \"Pedestrian Priority Street\" and principal buildings fronting these pedestrian-oriented streets shall have building standards to encourage ground floor activation and commercial uses.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-3-1. Pedestrian priority streets.",
+        "a": "A.\tGenerally. Certain streets in the MX zoning districts shall have the designation of \"Pedestrian Priority Street\" and principal buildings fronting these pedestrian-oriented streets shall have building standards to encourage ground floor activation and commercial uses. See Figure 5-1-3-1B.\nB.\tStandards. All buildings located adjacent to a Pedestrian Priority Street shall meet the following requirements:\n  1.\tA minimum of 50 percent of the ground floor frontage of the building shall be designed to accommodate commercial uses and shall meet comply with the current International Building Code requirements for commercial occupancy.\n  2.\tBuildings within the frontage zone required per Table 2-1-4-4A shall be a minimum of 25 feet in height and have at least two usable floors for allowable uses.\n  3.\tThe minimum first floor height measured from grade to the second story finished floor level floor shall be 13.5 feet.\n  4.\tThe minimum retail depth on the first floor shall be 40 feet. See Figure 5-1-3-1A, Ground Floor Retail Space.\n  5.\tAmenities associated with the building may occupy up to 50 percent of the space designated for commercial occupancy.\n  6.\tAt least 50 percent of the wall area on street facing façade between two and 10.5 feet above grade shall be occupied by windows and/or entry doors. These windows and doors shall meet the following requirements:\n    a.\tUtilize clear transparent glass in order to provide clear views of building interiors from the street and to allow natural surveillance of the street and adjacent outdoor spaces.\n    b.\tTint, internal screening, patterns or mirrored coatings are prohibited.\n    c.\tCoatings shall be limited to those necessary to meet the minimum U-factor requirement in the latest addition of the International Energy Conservation Code.\n    d.\tBe of commercial grade and design.\n    e.\tThe surface shall not be covered or obstructed by products, signs in excess of those permitted by Section 6-1-5-1, Additional Standards for Attached Permanent Signs, or other opaque materials place behind the window, except for typical interior furnishings.\n  7.\tAll ground floor users shall provide a primary entrance facing the street, placed at an angle not more than 45 degrees from the adjacent street or within 50 feet of the street with a direct pedestrian connection from the priority street.\n  8.\tAll principal building entrances located along priority streets shall be at grade.\n  9.\tRecessed entrances shall not be wider than one third of the entire frontage along the streets.\n  10.\tParking garage facilities located adjacent to a Pedestrian Priority Street must be designed according to the requirement of Section 5-1-6-8, Parking Garage Structured.\nC.\tLocation. Pedestrian Priority Streets are located in the MX-T zoning districts where pedestrian-oriented and \"main streets\" are desirable as shown in Figure 5-1-3-1B, Pedestrian Priority Streets in MX-T Zoning District.\n(Ord. No. 4905, § 59, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

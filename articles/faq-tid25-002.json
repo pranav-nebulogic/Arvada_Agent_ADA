@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-25-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "development_permit",
+    "category": "development",
+    "tags": [
+      "contact",
+      "during",
+      "development",
+      "review",
+      "designated",
+      "planner",
+      "access",
+      "representatives",
+      "Development Review Resources"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=25"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/who-is-my-contact-during-my-development-review",
+    "faq_category_name": "Development Review Resources"
+  },
+  "content": {
+    "title": "Who is my contact during my development review?",
+    "summary": "Your designated planner. You will have access to representatives from multiple City departments, but will have a planner assigned to your review to help you navigate the process. Should the need arise, the Director of Community and Economic Development will also be available to you.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Who is my contact during my development review?",
+        "a": "Your designated planner. You will have access to representatives from multiple City departments, but will have a planner assigned to your review to help you navigate the process. Should the need arise, the Director of Community and Economic Development will also be available to you."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

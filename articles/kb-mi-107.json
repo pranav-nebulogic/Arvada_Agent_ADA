@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "body",
+      "worn",
+      "cameras",
+      "bwcs",
+      "evidence",
+      "public",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/542/Body-Worn-Cameras"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-107",
+    "spreadsheet_id": "MI-107",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Body Worn Cameras",
+    "summary": "The Arvada Police Department has implemented a Body-Worn Camera (BWC) program since July 2022, aimed at enhancing transparency, accountability, and public trust by documenting officer interactions. This initiative, required by Colorado Senate Bill 20-217, includes a dedicated team of Digital Media Technicians responsible for managing digital evidence in compliance with state laws. The program supports criminal investigations, officer training, and ensures secure storage and proper handling of video footage.",
+    "body": "The Arvada Police Department has maintained a comprehensive Body-Worn Camera (BWC) program since July 2022. BWCs promote transparency, accountability, evidence collection, and public trust by documenting officer interactions and critical incidents.\n\nToday, body-worn cameras are standard equipment for all sworn officers and other personnel who regularly interact with the public. Video and audio recordings captured by BWCs are used to support criminal investigations, document evidence, assist in officer training, and provide transparency into police operations.\n\nThe Department’s BWC program is supported by a dedicated team of Digital Media Technicians (DMTs) who manage the secure storage, retention, processing, and release of digital evidence in accordance with Colorado law and Department policy.\n\n## The History of BWCs in Arvada\n\n### 2014 Body-Worn Camera Staff Study\n\nIn 2014, the Arvada Police Department conducted an extensive staff study to evaluate whether body-worn cameras should be implemented. The study examined:\n\n- Equipment and software costs\n- Long-term digital storage expenses\n- Staffing and training impacts\n- Records management requirements\n- Potential operational and community benefits\n\nAt the time, the Department found that BWCs were particularly beneficial for agencies experiencing significant challenges with community trust, bias-related complaints, or contentious police-community interactions.\n\nThe study concluded that while BWCs were valuable tools for many agencies, the Arvada Police Department did not have a history of widespread complaints, bias-based policing concerns, or significant distrust from the community that would justify the substantial costs and operational impacts associated with implementation at that time.\n\nAs a result, the Department chose not to deploy BWCs in 2014, while committing to periodically reassess the technology and evolving best practices.\n\n## Colorado Senate Bill 20-217\n\nIn 2020, the Colorado State Legislature passed Senate Bill 20-217, which required all Colorado law enforcement agencies to implement body-worn camera programs by July 2023.\n\nThe Arvada Police Department began implementation in July 2022 and achieved full compliance with the law before the statewide deadline.\n\nThe Department invested in:\n\n- Body-worn camera hardware\n- Secure digital evidence storage systems\n- Expanded staffing\n- Redaction and records management software\n- Training and policy development\n\nThis implementation significantly expanded the Department’s digital evidence management responsibilities and led to the creation of specialized Digital Media Technician positions.\n\n## Digital Media Technician (DMT) Team\n\nThe Arvada Police Department’s BWC program is supported by four full-time Digital Media Technicians.\n\n### Property and Evidence Unit DMTs\n\nTwo DMTs are assigned to the Property and Evidence Unit and are responsible for:\n\n- Uploading and securely storing BWC footage\n- Managing digital evidence retention schedules\n- Maintaining chain of custody for digital evidence\n- Categorizing and organizing digital media\n- Ensuring compliance with evidence handling requirements\n- Managing long-term storage of evidentiary video files\n\nThese technicians play a critical role in preserving the integrity and security of digital evidence used in criminal investigations and court proceedings.\n\n### Records Unit DMTs\n\nTwo additional DMTs are assigned to the Records Unit and focus on the administrative and legal management of digital records.\n\nTheir responsibilities include:\n\n- Processing public records requests\n- Reviewing and redacting video footage\n- Releasing records in compliance with Colorado law\n- Managing requests from prosecutors, attorneys, media outlets, and the public\n- Ensuring compliance with:\n  - Colorado Criminal Justice Records Act (CCJRA)\n  - Colorado Open Records Act (CORA)\n  - Criminal Justice Information Services (CJIS) requirements\n  - Department policies and procedures\n\nBecause BWC footage often contains sensitive or protected information, significant time and effort is required to properly review and redact recordings prior to release.\n\n## 2025 Body-Worn Camera Statistics\n\nIn 2025, the Arvada Police Department’s Digital Media Technicians managed:\n\n- 116,872 body-worn camera videos\n  - Up from 95,843 videos in 2024\n- 2,455 fleet camera videos\n  - Compared to 2,826 videos in 2024\n\nThese numbers reflect the significant and growing volume of digital evidence generated by modern policing operations.\n\n## Retention, Security, and Privacy\n\nThe Arvada Police Department maintains strict controls over the storage, access, and dissemination of BWC footage.\n\nDigital evidence is:\n\n- Securely stored in CJIS-compliant systems\n- Access-controlled and audited\n- Retained according to state law and evidence retention schedules\n- Released only as permitted by law and Department policy\n\nThe Department is committed to balancing transparency with the privacy rights of victims, witnesses, juveniles, and community members captured on video recordings.\n\n## Commitment to Transparency\n\nThe Arvada Police Department remains committed to transparency, accountability, and responsible digital evidence management. BWCs are an important tool that help document police interactions, strengthen investigations, improve training, and provide additional public confidence in law enforcement operations.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

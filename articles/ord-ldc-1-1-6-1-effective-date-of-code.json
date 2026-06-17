@@ -1,0 +1,55 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "effective",
+      "date",
+      "code",
+      "land",
+      "development"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-6-1"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-6. EFFECTIVE DATE, TRANSITIONAL PROVISIONS, AND SEVERABILITY"
+  },
+  "content": {
+    "title": "1-1-6-1. Effective date of code.",
+    "summary": "The effective date of this Land Development Code is May 26, 2020.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-6-1. Effective date of code.",
+        "a": "The effective date of this Land Development Code is May 26, 2020."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-6-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

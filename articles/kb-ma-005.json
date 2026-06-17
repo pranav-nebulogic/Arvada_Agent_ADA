@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "permit fees",
+      "payment methods",
+      "use tax",
+      "fee calculator",
+      "Main"
+    ],
+    "source_urls": [
+      "https://www.google.com/search?q=Paying+permit+fees+Arvada&sca_esv=09fac29a4686d309&biw=1528&bih=828&sxsrf=ANbL-n4uBW1Pq8ZAbhVxrHo7dF04C1WF3w%3A1781166092155&ei=DHAqarqJCZLX5NoPgdq78Ac&ved=0ahUKEwi6v9Xh4P6UAxWSK1kFHQHtDn4Q4dUDCBA&uact=5&oq=Paying+permit+fees+Arvada&gs_lp=Egxnd3Mtd2l6LXNlcnAiGVBheWluZyBwZXJtaXQgZmVlcyBBcnZhZGEyCBAhGKABGMMEMggQIRigARjDBEinCVAAWJoIcAB4AZABAJgB8wKgAcAPqgEFMi0xLjW4AQPIAQD4AQGYAgKgAsMFmAMAkgcDMy0yoAePC7IHAzMtMrgHwwXCBwMwLjLIBwSACAE&sclient=gws-wiz-serp"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/ma-005",
+    "spreadsheet_id": "MA-005",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Paying permit fees",
+    "summary": "In Arvada, CO, permit fees can be paid online, in-person at City Hall, or by mail. Payment methods include credit cards online, cash or check in-person, and checks or money orders sent by mail. A use tax is required on building permit applications, and fees are calculated based on the project's total valuation as outlined in the city's Building Fee Schedule.",
+    "body": "In Arvada, CO, permit fees can be paid online, in-person, or by mail. Once your permit or project is approved, you will receive an email notification. Fees can be estimated beforehand using the [Fee Estimator]([NEW PORTAL URL]). \n\nPayment Methods \n\n- **Online:** You can pay using Visa, Mastercard, Discover, or American Express via the [Permit Portal]([NEW PORTAL URL]). Simply log in to your account, click the permit fees highlighted in blue, and proceed to checkout.\n- **In-Person:** You can visit Arvada City Hall (8101 Ralston Road) during regular business hours and pay with cash, check, or credit card.\n- **By Mail:** You can send a check or money order to **Arvada City Hall, Attention: Engineering, 8101 Ralston Road, Arvada, CO 80002**. Important Details \n\n- **Use Tax:** The City of Arvada requires a use tax to be collected on every building permit application. You can present your issued permit to your materials vendor at the time of purchase to have local tax removed. - **Fee Calculation:** Permit costs are based on the total valuation of your project and standard plan review fees. You can review the structure in the [City of Arvada Building Fee Schedule](https://www.arvadaco.gov/1263/Building-Fee-Schedule).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

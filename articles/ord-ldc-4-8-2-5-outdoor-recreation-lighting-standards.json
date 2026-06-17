@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "outdoor",
+      "recreation",
+      "lighting",
+      "standards",
+      "generally",
+      "ball",
+      "diamonds",
+      "playing",
+      "fields",
+      "driving"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-8-2-5"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-8. EXTERIOR LIGHTING",
+    "division": "DIVISION 4-8-2. GENERAL LIGHTING STANDARDS"
+  },
+  "content": {
+    "title": "4-8-2-5. Outdoor recreation lighting standards.",
+    "summary": "A.\tGenerally. Ball diamonds, playing fields, driving ranges, tennis courts, and similar amusement or recreation uses have unique requirements for nighttime visibility and, generally, have limited hours of operation.\nB.\tMaximum Freestanding Fixture Height.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-8-2-5. Outdoor recreation lighting standards.",
+        "a": "A.\tGenerally. Ball diamonds, playing fields, driving ranges, tennis courts, and similar amusement or recreation uses have unique requirements for nighttime visibility and, generally, have limited hours of operation.\nB.\tMaximum Freestanding Fixture Height. No freestanding light fixture shall be greater than 40 feet in height, except that greater heights may be approved by the Director if it is demonstrated that the greater height improves site lighting compared to fixtures that are 40 feet in height or less.\nC.\tMaximum Illumination.\n  1.\tField and court lighting shall be designed so that any overspill of lighting onto adjacent single-family, duplex, multiplex, or townhome property shall not exceed one-half foot-candle, one foot-candle adjacent onto multifamily properties, and two foot-candles onto adjacent non-residential properties measured horizontally, at the property line.\n  2.\tBuffering may be used to reduce impacts of outdoor recreation lighting in order to achieve compliance with the requirements of this Subsection C."
+      }
+    ],
+    "ordinance_refs": [
+      "4-8-2-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

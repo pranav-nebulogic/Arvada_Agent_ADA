@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "electric",
+      "vehicle",
+      "charging",
+      "stations",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "developments",
+      "containing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-6-9"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-6. SUPPLEMENT STANDARDS FOR NONRESIDENTIAL AND MULTIFAMILY LAND USE"
+  },
+  "content": {
+    "title": "5-1-6-9. Electric vehicle (EV) charging stations.",
+    "summary": "A.\tGenerally. The standards of this section shall apply to new developments containing parking stalls or other spaces on-site dedicated to the use of such spaces for the charging of electric vehicles.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-6-9. Electric vehicle (EV) charging stations.",
+        "a": "A.\tGenerally. The standards of this section shall apply to new developments containing parking stalls or other spaces on-site dedicated to the use of such spaces for the charging of electric vehicles. These standards shall also apply to existing sites that make modifications to build or plan for EV charging stations.\nB.\tLocation.\n  1.\tFor single-family, duplex, or multiplex use, EV charging stations shall be located inside a garage or carport.\n  2.\tFor townhome, multifamily, or cottage-home use, EV charging stations and equipment shall be located either in a garage or in a location internal to the site.\n  3.\tFor any mixed-use and non-residential uses containing ten or fewer EV charging stations, all charging stations and equipment may be allowed anywhere on site provided:\n    a.\tAll equipment adheres to the required minimum parking front setback from all public and private streets.\n  4.\tFor mixed-use and non-residential uses containing more than ten EV charging stations, all charging stations and equipment shall comply with the requirements of Subsection 4-3-3-4(F), Fueling/Service Station Site Design.\n  5.\tIn the OT zone district, EV charging stations and equipment shall be located either in a garage or internal to the site, behind a building or buildings, and not visible from a public street.\n  6.\tEV charging stations and equipment may not be located in any portion of a required small urban park or buffer yard.\nC.\tSitting, Site Design, and Screening.\n  1.\tIf located along a public or private street, an Option B bufferyard per Division 4-6-5-3, Bufferyard Options, between all equipment and the front property line shall be provided.\n  2.\tThe installation of an EV charging station shall not reduce the size of the parking stall in which it is being installed below the minimum size required in Subsection 4-5-3-2, Parking Space and Aisle Standards.\n  3.\tConcrete wheel stops shall be used between the parking space and the equipment if the parking is not parallel.\n  4.\tIf a canopy will be used, the canopy shall comply with the requirements of Subsection 5-1-2-3-C9, Canopies and Port-Cochères.\n    a.\tIn any MX zone district if a canopy is used, the canopy shall comply with the requirements of Subsection 4-3-3-4-F, Fueling/Service Station Site Design.\n  5.\tParking spaces used for EV charging shall be signed for EV vehicles only.\n(Ord. No. 4793, § 4, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-6-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

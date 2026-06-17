@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "prohibited",
+      "activities",
+      "following",
+      "reservoir",
+      "swimming",
+      "wading",
+      "tubing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-54"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-54. - Prohibited activities.",
+    "summary": "The following are prohibited at the reservoir:\n(1)\nSwimming, wading, tubing, belly boating, floating on a flotation device, windsurfing,\n                  and scuba diving;\n(2)\nPossession, use, or being under the influence of alcohol or controlled substances;\n(3)\nPossession of glass beverage contain…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-54. - Prohibited activities.",
+        "a": "The following are prohibited at the reservoir:\n(1)\nSwimming, wading, tubing, belly boating, floating on a flotation device, windsurfing,\n                  and scuba diving;\n(2)\nPossession, use, or being under the influence of alcohol or controlled substances;\n(3)\nPossession of glass beverage containers;\n(4)\nHorses, dogs, other pets, motorcycles, or motorbikes, except that dogs shall be permitted\n                  in the following areas:\na.\nArvada Dog Park, located north of 64th Avenue Community Trail and southeast of the\n                  southernmost spillway structure at Arvada/Blunn Reservoir;\nb.\nArvada Disc Golf Course Park, located north of 64th Avenue Community Trail and east\n                  of the southernmost spillway structure at Arvada/Blunn Reservoir;\n(5)\nBoats with gasoline motors;\n(6)\nShore fishing from the dam, spillway, or wildlife areas;\n(7)\nBoat fishing in the wildlife area or at other areas marked with buoys;\n(8)\nIce fishing or ice skating;\n(9)\nPossession or use of firearms, bows and arrows, or airguns;\n(10)\nHunting or trapping;\n(11)\nDumping of trash;\n(12)\nCamping;\n(13)\nOpen fires;\n(14)\nFishing or coming within 50 feet of the small ponds located south of the reservoir;\n(15)\nPossession or use of fireworks;\n(16)\nDigging, trenching, or excavating; and\n(17)\nDriving vehicles on any area, except the entrance road or parking lot.\n(Code 1981, § 22-23; Ord. No. 2577, § 2, 12-19-1988; Ord. No. 2956, § 5, 2-15-1993;\n               Ord. No. 3844, § 2, 12-15-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-54"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

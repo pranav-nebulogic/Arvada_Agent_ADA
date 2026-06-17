@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "renewable",
+      "energy",
+      "systems",
+      "generally",
+      "comply",
+      "applicable",
+      "standards",
+      "section",
+      "photovoltaic",
+      "arrays"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-4-4"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-4. SUPPLEMENT STANDARDS FOR ALL LAND USES"
+  },
+  "content": {
+    "title": "5-1-4-4. Renewable energy systems.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-4-4. Renewable energy systems.",
+        "a": "A.\tGenerally. Renewable Energy Systems shall comply with the applicable standards of this Section.\n  1.\tPhotovoltaic Arrays and Solar Water Heaters.\n    a.\tPhotovoltaic arrays and solar water heaters may be roof-mounted on buildings and roofed structures in all zoning districts, or installed on building façades.\n    b.\tGround-mounted photovoltaic arrays and solar water heaters shall conform to the following standards:\n      i.\tThe installation shall be in a location and configuration that prevents glare that interferes with the use and enjoyment of adjacent property.\n      ii.\tIf the highest point on the panels is more than six feet above grade, the panels shall be set back as if they were detached accessory buildings. For commercial properties, panels shall comply with the setbacks for primary buildings in the underlying zoning district.\nB.\tSmall Wind Energy Conversion Systems. Small wind energy conversion systems (\"SWECs\") shall comply with the requirements set out in Table 5-1-4-4, Small Wind Energy Conversion System (\"SWEC\") Standards.\n(Ord. No. 4905, § 61, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-4-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

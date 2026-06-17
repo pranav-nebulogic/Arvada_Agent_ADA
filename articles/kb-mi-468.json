@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "request",
+      "vacation",
+      "watch",
+      "know",
+      "keep",
+      "going",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/569/Request-a-Vacation-Watch"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-468",
+    "spreadsheet_id": "MI-468",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Request a Vacation Watch",
+    "summary": "Residents going on vacation can request a Vacation Watch from the Arvada Police Department, which will include patrols around their property. It is advised to notify friends or neighbors of the absence and to exercise caution when sharing vacation plans online. The Vacation Watch Form should be completed 7 to 10 days before departure to ensure proper monitoring.",
+    "body": "If you're going on vacation, let the Arvada Police Department know! Officers will incorporate driving by your address into their daily patrol. You can let us know what people and vehicles can be expected at your property. We'll keep an eye out and try to help keep your home safe.\n\n## Important Things to Know\n\n- This is not a substitute for a security system!\n- It is usually a good idea to let your friends or neighbors know if you're going to be out of town so they can keep an eye out, too.\n- Please use caution when announcing vacations online. A public post can make your home vulnerable while you're away.\n\n## When to Complete\n\nPlease complete the [Vacation Watch Form](https://arvada-forms.app.transform.civicplus.com/forms/33306) approximately seven to ten days prior to your departure. This will allow us time to enter the vacation watch into our system and call you in the event more information or details are needed.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

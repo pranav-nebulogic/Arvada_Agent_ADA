@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "current",
+      "crime",
+      "trends",
+      "prevention",
+      "class",
+      "tips",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/890/Current-Crime-Trends-and-Crime-Preventio"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-179",
+    "spreadsheet_id": "MI-179",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Current Crime Trends and Crime Prevention Class",
+    "summary": "A Crime Prevention Class will take place on July 23, 2026, from 6 p.m. to 8 p.m. at Arvada Police Headquarters, focusing on crime trends, prevention tips, and community involvement. Participants can learn about reporting crime, protecting their neighborhoods, and ask questions during a Q&A session. For registration or more information, contact Jeff Hatcliff at 720-898-6883 or via email.",
+    "body": "The next Crime Prevention Class will be held Thursday, July 23, 2026, at Arvada Police Headquarters, from 6 p.m. to 8 p.m.\n\nThis two-hour class is geared towards citizens interested in learning basic crime prevention tips and tools to help reduce crime. The topics that are covered in this class include:\n\n- New crime trends\n- Crime prevention tips for you and your home\n- Reporting crime\n- Vacation tips\n- How the police respond to calls\n- Protecting your neighborhood\n- How to be a good witness\n- Good habits\n- Overall questions and your specific concerns\n\nThe class will also cover crime and statistics and how to become more involved with the Neighbors Connected program. A question-and-answer period will be offered.\n\nFor more information or to register please call 720-898-6883 or email Jeff Hatcliff at [[email protected]](/cdn-cgi/l/email-protection#abc1c3cadfc8c7c2cdcdebcad9ddcacfca85c4d9cc).\n\nAdditional classes may be scheduled upon request and conducted based on enrollment levels.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rules",
+      "construction",
+      "except",
+      "context",
+      "otherwise",
+      "requires",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-5"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-5. - Rules of construction.",
+    "summary": "Except where the context otherwise requires, this article shall be construed as follows:\n(1)\nFor the purpose of computing any period of time designated herein, including but not\n                  limited to publications, the day of the first publication, other act, or designated\n                  ti…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-5. - Rules of construction.",
+        "a": "Except where the context otherwise requires, this article shall be construed as follows:\n(1)\nFor the purpose of computing any period of time designated herein, including but not\n                  limited to publications, the day of the first publication, other act, or designated\n                  time shall be excluded, and the day of the last publication, other act, or designated\n                  time shall be included.\n(2)\nWords used herein importing singular or plural number may be construed so that one\n                  number includes both.\n(3)\nPronouns include both singular and plural and cover all genders.\n(4)\nSections, subsections, paragraphs and subparagraphs mentioned by number, letter or\n                  otherwise, designate the respective sections, subsections, paragraphs and subparagraphs\n                  of this article so numbered or otherwise designated.\n(5)\nFigures may be used instead of words, and words may be used instead of figures in\n                  all notices, proceedings and documents appertaining hereto.\n(6)\nEach tract in a district need not be separately described except in the assessment\n                  rolls.\n(7)\nAny cost or estimated cost may be stated as a designated amount per front foot, or\n                  per square foot, or per other unit appertaining to the method of prorating costs and\n                  of computing assessments, or per lot of a given size and proportionate amounts for\n                  other lots, except in the case of assessments.\n(Code 1981, § 27-6; Ord. No. 551, § 4(B), 5-14-1964; Ord. No. 1643, § 1, 2-18-1980)\nState Law reference—\nFigures instead of words, C.R.S. § 31-25-540."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

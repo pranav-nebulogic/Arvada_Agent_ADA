@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "assessment",
+      "any",
+      "person",
+      "violates",
+      "section",
+      "relating"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-12"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-12. - Notice and assessment.",
+    "summary": "(a)\nAny person who violates section 302.3.3 or 302.3.3.1 relating to snow, ice, or slush\n               removal, of the International Property Maintenance Code (I.P.M.C.) shall be served\n               a written notice of violation. Service of the notice may be by a conspicuous posting\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-12. - Notice and assessment.",
+        "a": "(a)\nAny person who violates section 302.3.3 or 302.3.3.1 relating to snow, ice, or slush\n               removal, of the International Property Maintenance Code (I.P.M.C.) shall be served\n               a written notice of violation. Service of the notice may be by a conspicuous posting\n               of the written notice of violation upon the dwelling or building located on the lot\n               or tract of land upon which a violation of said section occurs, or by personal service\n               upon a natural person over the age of 18 years who occupies a dwelling or building\n               or a lot or tract of land upon which a violation of said section occurs.\n(b)\nIf a notice of violation cannot be served in any manner specified above, the notice\n               of violation shall be sent by first class mail to the owner of record of such lot\n               or tract of land as shown in the records of the county.\n(c)\nThe notice will state that the snow, ice or slush must be removed within 24 hours\n               from the time of the notice and, if not so removed by the owner or occupant, the city\n               will remove the snow, ice, or slush and assess the whole cost thereof, including five\n               percent for inspection and incidental costs, upon the lots or tracts of land from\n               which the snow, ice, or slush are controlled or removed.\n(d)\nThe city will serve such a notice on the same violator only once during any calendar\n               year. Thereafter, in the event of a subsequent violation by the same person within\n               the same calendar year, the city will remove the snow, ice, or slush and assess the\n               whole cost thereof, including five percent for inspection and incidental costs, upon\n               the lots or tracts of land from which the snow, ice, or slush are removed, without\n               serving an additional notice on the violator.\n(\nOrd. No. 4098, § 2, 11-19-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-12"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

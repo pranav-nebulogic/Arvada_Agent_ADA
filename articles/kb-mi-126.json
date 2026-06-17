@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "charter",
+      "colorado",
+      "convention",
+      "adoption",
+      "april",
+      "article",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/163/City-Charter"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-126",
+    "spreadsheet_id": "MI-126",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "City Charter",
+    "summary": "The City Charter of Arvada, Colorado, established following the adoption of Home Rule in 1963, outlines the structure and governance of the city, maintaining a Council-Manager system with a seven-member City Council responsible for policy-making and legislative power. The Charter includes provisions for direct democracy through initiatives, referendums, and recalls, allowing citizens to influence government policies and hold elected officials accountable. Amendments to the Charter can be made through popular election to adapt to future needs.",
+    "body": "Pursuant to the adoption of Home Rule by the citizens of Arvada, Colorado on January 7, 1963, the Charter Convention Members were elected at a special election on April 9, 1963 under the authority and method provided in Article XX of the Constitution of the State of Colorado.\n\nThe delegates of the Convention have viewed their task as one of great responsibility. Their goals for the City Government of Arvada were not confined to the present, but were set out to last for many generations. They do not, however, present a document which will stand forever, thus, there is provided a method to amend this Charter by popular election to meet these needs as they arise.\n\nThe Charter Convention drafted this document after extensive research into other City Governments, and upon the advice of the Home Rule Study Committees, members of the City Government of Arvada, and authorities in various fields.\n\nThe Charter provides for the continuation of our present Council-Manager form of City Government. The Council is composed of seven members. Provision is made for over-lapping terms, with the majority of the Council to be elected every two years.\n\nThe City Council will have all policy making and legislative power in the City. They will appoint the City Manager, City Attorney, Municipal Judge, and members of advisory boards and commissions.\n\nThe direct democratic techniques of initiative and referendum and recall have been included in the Charter. Such provisions provide the means by which the people can, if necessary, directly control the policies of their City Government at all times, enact or reject legislation as they see fit, and remove any elected official who fails to perform his duties properly.\n\n### [Quick Links](/QuickLinks.aspx?CID=23)\n\n1. [Arvada City Charter](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTICH)\n\n/QuickLinks.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

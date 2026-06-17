@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "custodial",
+      "unit",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "self",
+      "storage",
+      "kennel",
+      "facilities"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-6-7"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-6. SUPPLEMENT STANDARDS FOR NONRESIDENTIAL AND MULTIFAMILY LAND USE"
+  },
+  "content": {
+    "title": "5-1-6-7. Custodial unit.",
+    "summary": "A.\tGenerally. The standards of this section apply to self-storage and kennel facilities with a dwelling unit for an on-site resident manager.\nB.\tDesign Standards.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-6-7. Custodial unit.",
+        "a": "A.\tGenerally. The standards of this section apply to self-storage and kennel facilities with a dwelling unit for an on-site resident manager.\nB.\tDesign Standards. Self-storage and kennel facilities with one on-site resident manager/caretaker dwelling shall be meet the following standards:\n  1.\tThe resident manager/caretaker dwelling unit shall be incorporated into and occupy space on the premises of the self-storage or kennel facility;\n  2.\tOne off-street, covered parking space shall be required for the exclusive use of the resident manager/caretaker.\n  3.\tA landscaped private recreation area, with a minimum area of 750 square feet, shall be provided within the self-storage or kennel facility for the exclusive use of the resident manager/caretaker. The landscaped recreation area shall include:\n    a.\tA minimum of one 2.5 inch caliper shade tree, turf shrubs, and recreation equipment.\n    b.\tRecreation equipment shall consist of picnic table and barbeque facilities, or other comparable equipment for use by the resident manager/caretaker.\n(Ord. No. 4793, § 4, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-6-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

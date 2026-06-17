@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "miscellaneous",
+      "city",
+      "reserves",
+      "right",
+      "hold",
+      "special",
+      "functions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-59"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-59. - Miscellaneous.",
+    "summary": "(a)\nThe city reserves the right to hold special functions at the reservoir at any time\n               and may close the reservoir to permit holders during such special functions.\n(b)\nNo vehicle will exceed the speed of ten miles per hour while at the reservoir.\n(c)\nAny person who hikes or rides a bi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-59. - Miscellaneous.",
+        "a": "(a)\nThe city reserves the right to hold special functions at the reservoir at any time\n               and may close the reservoir to permit holders during such special functions.\n(b)\nNo vehicle will exceed the speed of ten miles per hour while at the reservoir.\n(c)\nAny person who hikes or rides a bicycle at the reservoir will remain on designated\n               and signed trails.\n(d)\nThe Arvada/Blunn Reservoir property will be open from sunrise to sunset from April\n               1 through October 31 to all permit holders, except when there is ice on the reservoir\n               or because of administrative closures by the city.\n(Code 1981, § 22-28; Ord. No. 2577, § 2, 12-19-1988; Ord. No. 2709, § 2, 3-5-1990;\n               Ord. No. 2956, § 8, 2-15-1993; Ord. No. 3051, § 1, 3-4-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-59"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

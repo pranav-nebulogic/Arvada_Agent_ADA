@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-33-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "building_permit",
+    "category": "building_permits",
+    "tags": [
+      "apply",
+      "each",
+      "sign",
+      "needs",
+      "separate",
+      "permit",
+      "wall",
+      "signs",
+      "Building Permits - Signs"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=33"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-to-apply",
+    "faq_category_name": "Building Permits - Signs"
+  },
+  "content": {
+    "title": "How to apply?",
+    "summary": "Each sign needs a separate sign permit (wall signs separated by a distance of more than three feet shall be considered separate signs). Provide the following with the application: For signs in Olde Town or Reno Park, you will first need to include a Certificate of Compliance with Design Guidelines (…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How to apply?",
+        "a": "Each sign needs a separate sign permit (wall signs separated by a distance of more than three feet shall be considered separate signs). Provide the following with the application: For signs in Olde Town or Reno Park, you will first need to include a Certificate of Compliance with Design Guidelines (Apply through the Planning Department) Sign Elevation and Detail plan with measurements indicated Plot Plan showing where on the property and/or the building where the sign/s will be located; Signed letter of permission from property owner"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

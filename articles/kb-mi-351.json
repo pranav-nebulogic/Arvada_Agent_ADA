@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "october",
+      "business",
+      "address",
+      "alpenglow",
+      "balsam",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1494/New-Businesses-October-2025"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-351",
+    "spreadsheet_id": "MI-351",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses October 2025",
+    "summary": "In October 2025, several new businesses opened in Arvada, Colorado, including Alpenglow Woodcrafting, Balsam Botanical Therapeutic Massage LLC, and Crash Custom Cars, among others. The listings feature a variety of services, from wellness and massage therapy to custom car modifications and design solutions. Each business is accompanied by its address and contact information for potential customers.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew business listings for the month October of 2025\n\n| Alpenglow Woodcrafting | ARVADA CO 80007 | 757-513-7514 |\n| Balsam Botanical Therapeutic Massage LLC | 5400 WARD RD 3-100 B ARVADA CO 80002 | 720-329-3756 |\n| Blush and Tease | ARVADA CO 80004 | 303-902-7035 |\n| Cascade Building Solutions LLC | ARVADA CO 80004 | 971-201-0785 |\n| Colorado Kreative Designs LLC | 6945 INDIANA CT 600 ARVADA CO 80007 | 303-900-7520 |\n| Crash Custom Cars | 6531 W 56TH AVE 11 ARVADA CO 80002 | 720-883-9266 |\n| Flora & Jo LLC | ARVADA CO 80007 | 720-323-3954 |\n| Front Range Canine Grinds | ARVADA CO 80003 | 714-421-2639 |\n| Frontier Design & Remodeling | ARVADA CO 80004 | 817-727-1679 |\n| Goze Services LLC | ARVADA CO 80004 | 303-424-9223 |\n| Horizon Equity Group LLC | ARVADA CO 80004 | 512-618-8853 |\n| In Res Media | ARVADA CO 80007 | 303-443-3400 |\n| Inshine Massage | 9810 W 59TH PL ARVADA CO 80004 | 626-425-8125 |\n| Kellie Fassnacht | ARVADA CO 80007 | 818-523-9747 |\n| KJKFA | 5617 BALSAM ST ARVADA CO 80002 | 303-676-7606 |\n| Law Office Of Kevin V Moore | 8295 RALSTON RD 109 ARVADA CO 80002 | 303-425-0747 |\n| Molly McGill State Farm Insurance | 8100 RALSTON RD 131 ARVADA CO 80002 | 303-421-2191 |\n| Polytronix Optimum Systems | 11005 RALSTON RD 100D ARVADA CO 80004 | 972-238-7045 |\n| Ralston Road Shops | 8295 RALSTON RD ARVADA CO 80002 | 720-425-3853 |\n| Rocky Resell | 12191 W 64TH AVE 304 ARVADA CO 80004 | 720-545-4089 |\n| SilverLake Group LLC | 12191 W 64TH AVE 102 ARVADA CO 80004 | 720-499-5932 |\n| Solstice Psychology PLLC | 7375 W 52ND AVE 320 ARVADA CO 80002 | 317-441-6822 |\n| Spectrum Mechanical Services LLC | ARVADA CO 80004 | 720-825-3406 |\n| Stave and Horn LLC | ARVADA CO 80007 | 813-802-4008 |\n| Table for One LLC | 5460 WARD RD100 ARVADA CO 80002 | 720-377-8071 |\n| Take Heart Properties | 8249 ZEPHYR ST ARVADA CO 80005 | 720-917-5362 |\n| Tribe Mind Body Wellness | 12500 W 58TH AVE 213 ARVADA CO 80002 | 303-351-2364 |\n| Tybeecation LLC | ARVADA CO 80003 | 720-472-8393 |\n| TZ Pressure Washing LLC | ARVADA CO 80004 | 720-217-6127 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

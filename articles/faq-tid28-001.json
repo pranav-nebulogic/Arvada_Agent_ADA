@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-28-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "city",
+      "arvada",
+      "become",
+      "internet",
+      "service",
+      "provider",
+      "provide",
+      "fiber",
+      "Broadband & Internet Services"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=28"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/will-the-city-of-arvada-become-an-internet-service-provider-",
+    "faq_category_name": "Broadband & Internet Services"
+  },
+  "content": {
+    "title": "Will the City of Arvada become an internet service provider and provide fiber for the home (FFTH)?",
+    "summary": "As of today, the Arvada City Council does not have plans to start providing FFTH.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Will the City of Arvada become an internet service provider and provide fiber for the home (FFTH)?",
+        "a": "As of today, the Arvada City Council does not have plans to start providing FFTH."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "variances",
+      "generally",
+      "potentially",
+      "available",
+      "provide",
+      "modifications",
+      "standards",
+      "specific",
+      "cases",
+      "where"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-11-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-11. EXCEPTIONS, VARIANCES, MODIFICATIONS, AND INTERPRETATIONS"
+  },
+  "content": {
+    "title": "8-3-11-2. Variances.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-11-2. Variances.",
+        "a": "A.\tGenerally. Variances are potentially available to provide for modifications of the standards of this LDC in specific cases where it is demonstrated that the strict application of the requirements of this LDC create practical difficulties that amount to a manifestly unfair circumstance for the Applicant, based on the criteria set out in Subsection C., below.\nB.\tLimitations.\n  1.\tVariances may not be used to authorize a use that is not permissible in the zoning district in which the subject property is located; however, variances may be used to modify use-specific standards.\n  2.\tVariances may not be used to directly or indirectly authorize increases in residential density.\n  3.\tVariances under this section may not be used to authorize modification of the floodplain regulations set forth in Division 4-1-2, Floodplain Regulations. Modifications of floodplain regulations may be authorized by floodplain variance. See Section 8-3-11-6, Floodplain Variances.\nC.\tCriteria. A Variance application may be approved only if it is demonstrated that all of the following criteria have been met:\n  1.\tBy reason of exceptional narrowness, shallowness or shape of a specific piece of property, topographic conditions or other extraordinary and exceptional situation or condition of the piece of property, the strict application of the regulation would result in peculiar and undue practical difficulties for, or particular and unnecessary hardship on, the Applicant;\n  2.\tThe extraordinary and exceptional situation or condition on the property that is stated as the reason for the proposed variance is not self-imposed;\n  3.\tThe proposed variance complies with the purpose and intent of the standard to be varied and generally observes the spirit of this Code;\n  4.\tThe proposed variance will not substantially impair the appropriate use or development of adjacent property;\n  5.\tThe proposed variance is the minimum variance that will afford relief with the least modification possible of this Code; and\n  6.\tThe proposed variance can not be mitigated through some method other than a variance.\nD.\tConditions of Approval. Variance approvals may include such conditions as the decision-maker considers appropriate to substantially secure the objectives of the standard that is varied or modified."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-11-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

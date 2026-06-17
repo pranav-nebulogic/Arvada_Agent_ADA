@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "assessment",
+      "district",
+      "sewers",
+      "cost",
+      "shall",
+      "assessed",
+      "upon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-128"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-128. - Assessment of district sewers.",
+    "summary": "(a)\nThe cost of district sewers shall be assessed upon all the assessable tracts in the\n               district, in proportion as the area of each of the several tracts in the district\n               is to the area of all the tracts in the district, exclusive of public highways and\n               pa…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-128. - Assessment of district sewers.",
+        "a": "(a)\nThe cost of district sewers shall be assessed upon all the assessable tracts in the\n               district, in proportion as the area of each of the several tracts in the district\n               is to the area of all the tracts in the district, exclusive of public highways and\n               parks; and the cost of subdistrict laterals shall be assessed in like manner upon\n               all the assessable tracts in the subdistrict.\n(b)\nThe acquisition, however, of any submain may be omitted until such time as it may\n               be required, in which case subdistricts so left without submains shall not be assessed\n               for any part of the cost of submains acquired along, with and as a part of the sewer\n               district.\n(c)\nWhenever submains so omitted are required and are constructed, they may be ordered\n               as provided for other sewers, and their cost shall be assessed to the subdistricts\n               which are supplied with submains.\n(Code 1981, § 27-128; Ord. No. 551, § 69, 5-14-1964)\nState Law reference—\nSubdistricts in sewer districts, C.R.S. § 31-25-509."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-128"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

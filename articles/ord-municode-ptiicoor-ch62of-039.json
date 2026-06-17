@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "violation",
+      "protection",
+      "orders",
+      "following",
+      "words",
+      "terms",
+      "phrases"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-70"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-70. - Violation of protection orders.",
+    "summary": "(a)\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nProtected person\nmeans the person identified in the protection order as the p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-70. - Violation of protection orders.",
+        "a": "(a)\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nProtected person\nmeans the person identified in the protection order as the person for whose benefit\n               the protection order was issued.\nProtection order\nmeans any order that prohibits the restrained person from contacting, harassing,\n               injuring, intimidating, molesting, threatening, or touching any person, or from entering\n               or remaining on premises, or from coming within a specified distance of a protected\n               person or premises, that is issued by a court of this state or a municipal court,\n               and that is issued pursuant to C.R.S. § 13-14-102(1)(a) or (b), C.R.S. §§ 14-4-101\n               to 14-4-104, Rule 365 of the Colorado Rules of County Court Civil Procedure, or an\n               order issued as part of the proceedings concerning a criminal municipal ordinance\n               violation. For purposes of this section only, \"protection order\" includes any order\n               that amends, modifies, supplements, or supercedes the initial protection order, and\n               includes any restraining order entered prior to July 1, 2003.\nRestrained person\nmeans the person identified in the order as the person prohibited from doing the\n               specified act or acts.\n(b)\nA person commits the crime of violation of a protection order if such person contacts,\n               harasses, injures, intimidates, molests, threatens, or touches any protected person\n               or enters or remains on premises or comes within a specified distance of a protected\n               person or premises, and such conduct is prohibited by a protection order, after such\n               person has been personally served with any such order or otherwise has acquired from\n               the court actual knowledge of the contents of any such order.\n(c)\nAny sentence imposed for a violation of this section shall run consecutively and not\n               concurrently with any sentence imposed for any crime which gave rise to the issuing\n               of the protection order.\n(d)\nNothing in this section shall be construed to alter or diminish the inherent authority\n               of the court to enforce its orders through civil or criminal contempt proceedings.\n(e)\nNo person charged with the violation of an order pursuant to this section shall be\n               permitted, in the criminal action resulting from such charges, to collaterally attack\n               the validity of the order which such person is accused of violating.\n(Code 1981, § 21-37; Ord. No. 2939, § 6, 12-7-1992; Ord. No. 3619, § 1, 5-15-2000;\n               Ord. No. 3692, § 1, 5-7-2001)\nState Law reference—\nCrime of violation of a protection order, C.R.S. § 18-6-803.5."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-70"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "using",
+      "housing",
+      "palette",
+      "generally",
+      "types",
+      "allowed",
+      "zoning",
+      "districts",
+      "description",
+      "district"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-8-3"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-8. HOUSING PALETTE"
+  },
+  "content": {
+    "title": "2-1-8-3. Using the housing palette.",
+    "summary": "A.\tGenerally. The housing types that are allowed in R6, R13, R24 and MX zoning districts are set out in the description of the zoning district in Division 2-1-3, Parks and Open Space and Residential Districts, and Division 2-1-4, Mixed-Use Districts.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-8-3. Using the housing palette.",
+        "a": "A.\tGenerally. The housing types that are allowed in R6, R13, R24 and MX zoning districts are set out in the description of the zoning district in Division 2-1-3, Parks and Open Space and Residential Districts, and Division 2-1-4, Mixed-Use Districts. The housing palette set out in this Division provides lot and building standards for those housing types. It is applied in the third step of a three-step design process:\n  1.\tCalculate the maximum number of dwelling units that are allowed on the subject property within the R6, R13, or R24 zoning districts by multiplying the maximum density standard set out in the applicable section of Division 2-1-3, Open Space and Residential Districts by the number of acres of area of the subject property.\n  2.\tIdentify required dedications and landscape surface area.\n  3.\tWithin the buildable areas of the property, and subject to the applicable design requirements of Chapter 4, Environmental and Site Design, include any of the housing types that are allowable for the subject property, up to the maximum number of dwelling units that are allowable on the subject property."
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-8-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

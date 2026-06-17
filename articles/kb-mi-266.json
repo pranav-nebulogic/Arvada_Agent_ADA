@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "parks",
+      "conserve",
+      "water",
+      "conservation",
+      "irrigation",
+      "maintenance",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1011/Parks-Water-Conservation"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-266",
+    "spreadsheet_id": "MI-266",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "How Arvada Parks Conserve Water",
+    "summary": "Arvada's Parks Maintenance team emphasizes water conservation through a centralized computerized irrigation system that manages 75% of the city's irrigation needs. This system utilizes weather data to optimize water usage, automatically adjusting irrigation based on precipitation and environmental factors. Additionally, the city's golf courses enhance water efficiency by using drought-resistant plants and converting turf areas to native landscapes, promoting healthier grass that requires less water.",
+    "body": "Water conservation is a critical part of the City’s Parks Maintenance Philosophy:\n\n\"Maintain the City’s parks and open spaces to the highest possible standards while **making the best use of City resources in a sustainable** and equitable manner.\"\n\nThe City’s Parks Maintenance team operates with that philosophy by relying on technology to maximize water efficiency and conservation.\n\nThe City’s centrally computerized irrigation system drives this approach, operating ¾ of Parks’ yearly irrigation consumption.\n\nA centralized computerized irrigation system has many benefits:\n\n- **Incorporates data from weather stations located throughout the city**, and will automatically shut irrigation off when precipitation levels reach a predetermined threshold.\n- **Real-time flow calculations**: trigger alarms any time water flow varies from the norm, automatically detecting leaks, stuck valves, broken heads, mainline breaks and unopened valves – which can all potentially waste large amounts of water if gone undetected or require manual oversight.\n- **Tracks environmental factors** such as temperature, humidity, wind speed and soil conditions to determine the [EvapoTranspiration (ET) rate](https://www.weather.gov/ict/Evapotranspiration), or how fast water is transpired back to the atmosphere, ensuring maximum irrigation efficiency.\n\n![a computerized irrigation controller located next to some greenspace](/ImageRepository/Document?documentId=3464)\n\n## How Arvada’s golf courses conserve water\n\nThe City’s two golf courses, West Woods and Lake Arbor, also use weather data and computerized irrigation to increase water conservation and efficiency.\n\nIn addition to the irrigation control devices that monitor and reduce water use, the courses implement water conservation measures such as:\n\n- Use of **drought-resistant or native plants** in non-play areas, which require little to no irrigation.\n- Parts of the course that were once maintained turf have since been **converted to native areas**.\n- **Keeping a health turf plant**– when grass is healthy, meaning it has full coverage and deeper roots, it requires less water and is more resistant to disease\n\n![a golf hole where the tightly manicured fairway is surrounded by tall native grass ](/ImageRepository/Document?documentId=3465)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

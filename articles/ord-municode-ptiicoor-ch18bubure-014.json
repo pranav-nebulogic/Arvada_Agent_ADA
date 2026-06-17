@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "validity",
+      "change",
+      "ownership",
+      "name",
+      "licensed",
+      "entity",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-73"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-73. - Validity.",
+    "summary": "(a)\nChange in ownership.\nA change in name or ownership of a licensed entity shall have the legal effect of\n               terminating the license. Therefore, all such changes shall be reported by the licensee\n               to the building inspection division, a new license obtained, and a new licen…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-73. - Validity.",
+        "a": "(a)\nChange in ownership.\nA change in name or ownership of a licensed entity shall have the legal effect of\n               terminating the license. Therefore, all such changes shall be reported by the licensee\n               to the building inspection division, a new license obtained, and a new license fee\n               paid prior to any new construction work or before continuing any construction work.\n(b)\nIncorporation.\nIncorporation or dissolution of a corporation and creation of a new legal entity\n               that requires a license, even though one or more stockholders or directors have a\n               license, shall terminate the license. All such changes shall be reported to the building\n               inspection division, a new license obtained, and a new license fee paid prior to any\n               new construction work or before continuing any construction work.\n(c)\nChange in partnership.\nThe creation of a partnership or a change in any general or managing partner requires\n               that a new license be obtained, and a new license fee paid, even though one or more\n               of the partners are licensed.\n(d)\nDissolution of entity.\nThe dissolution of a corporation or partnership that has been licensed terminates\n               the license and no individual or firm may operate under such license.\n(e)\nChange of name.\nIn the case where it is desired to change the name of a presently licensed firm,\n               partnership or corporation where there is no change in ownership, a new license shall\n               be issued under the new name, without charge, upon surrender of the previously issued\n               license.\n(f)\nLicenses not transferable.\nLicenses are not transferable, and the use of one contractor's license by any other\n               contractor shall be a violation of this chapter.\n(g)\nUpgrade of license classification.\nWhen a contractor requests an upgrade to a higher license classification, and upon\n               verification of his ability to perform satisfactorily in that classification, a new\n               license shall be issued and a new fee shall be charged, if the current license will\n               expire less than six months of the date of the request. If the license will expire\n               six or more months after the date of the request, the difference in license fees shall\n               be charged.\n(Ord. No.\n4738\n, § 4, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-73"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

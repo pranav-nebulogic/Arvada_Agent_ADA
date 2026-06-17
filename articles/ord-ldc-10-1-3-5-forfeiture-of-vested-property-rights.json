@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "forfeiture",
+      "vested",
+      "property",
+      "rights",
+      "generally",
+      "failure",
+      "abide",
+      "terms",
+      "conditions",
+      "site"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "10-1-3-5"
+    ],
+    "chapter": "Chapter 10 ENFORCEMENT",
+    "article": "ARTICLE 10-1. ENFORCEMENT",
+    "division": "DIVISION 10-1-3. ENFORCEMENT PROCEDURES"
+  },
+  "content": {
+    "title": "10-1-3-5. Forfeiture of vested property rights.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "10-1-3-5. Forfeiture of vested property rights.",
+        "a": "A.\tGenerally. Failure to abide by the terms and conditions of a site specific development plan may result in a forfeiture of the vested property rights in accordance with the procedures set forth herein.\nB.\tProcedure.\n  1.\tThe process to consider forfeiture of vested property rights shall be initiated by passage of a resolution by the City Council stating the grounds therefor.\n  2.\tNo vested property right shall be deemed forfeited until after notice and a public hearing before City Council.\n    a.\tNotice shall be provided at least 30 days prior to the date of the public hearing, by publishing notice in a newspaper of general circulation in the City and by mailing notice to the property owner(s), sent to the address of record according the County Assessor's records via first class United States mail.\n    b.\tA copy of the resolution initiating the process to consider forfeiture of the vested property right shall be included with the mailed notice to the property owner(s).\n  3.\tAt the hearing, the City Council shall consider all evidence and testimony presented concerning any failure to abide by the terms and conditions of a site specific development plan. The City Council may continue the public hearing to allow additional evidence to be presented.\n  4.\tIf City Council finds a failure to abide by the terms and conditions of an approved site specific development plan, the City Council may take action by ordinance to declare the vested property rights forfeited.\n    a.\tThe forfeiture of a vested property right shall have no effect upon public streets, alleys, rights-of-way, or other lands or easements previously dedicated or conveyed to the City or other public entities pursuant to the terms of a site specific development plan.\n    b.\tUpon forfeiture of vested property rights, the site specific development plan shall be subject to all zoning, land use, and general regulations in effect at the time of forfeiture (as such may be amended from time to time) as well as all applicable regulations thereafter, adopted."
+      }
+    ],
+    "ordinance_refs": [
+      "10-1-3-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

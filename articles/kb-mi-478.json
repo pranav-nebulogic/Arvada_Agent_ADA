@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "permit attachments",
+      "documents",
+      "plans",
+      "permit records",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/631/Reviewing-Attachments"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-478",
+    "spreadsheet_id": "MI-478",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Reviewing Attachments | Arvada, CO",
+    "summary": "Permits requiring additional documentation, such as Engineer's letters or Soils Reports, will have these documents attached and made publicly viewable in the permit record. To access these attachments, users can log in through the Permit Portal, either as a contractor or a public user, and navigate to the relevant permit or project number to review the information and attachments. If the needed information is not found, individuals can submit an open records request to the City Clerk's Office.",
+    "body": "Permits that require additional documentation such as Engineer's letters, Soils Reports or Plans (non structural) will be added to the permit record as an attachment that is made viewable to the public. If you do not find the information needed, please submit an open records request to the City Clerk's Office.\n\nTo view the attachments for permits at [Permit Portal]([NEW PORTAL URL]) follow these steps:\n\n1. **Contractor Log in:** Select \"Arvada Contractor\" and login with your AEC number and password. This login was provided at the time of licensing\n2. **Public Log in:** If you have never logged in to this site, click \"Setup an Account.\" Once you have an account, select \"Public\" and login.\n3. **Select Permit / Project:** From the user dashboard select the permit or the project number that you would like to review the attachments for. You can also search for the permit or project if it is no longer an active. Click the permit or project number view the permit information.\n4. **Review Permit Information:** You are now reviewing the permit or project information. Each tab houses information about address, contacts, fees, reviews and inspections. To review attachments, make sure you are on the tab labeled \"Permit Info.\" Look at the bottom of the window for \"Attachments.\" All available attachments will be displayed with a link. Select the link to view the attachment.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

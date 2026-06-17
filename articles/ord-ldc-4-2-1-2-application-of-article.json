@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "applicability",
+      "exemptions",
+      "unless",
+      "otherwise",
+      "expressly",
+      "stated",
+      "valid",
+      "approved"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-2-1-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-2. SUBDIVISION STANDARDS",
+    "division": "DIVISION 4-2-1. SUBDIVISION STANDARDS"
+  },
+  "content": {
+    "title": "4-2-1-2. Application of article.",
+    "summary": "A.\tApplicability and Exemptions.\n  1.\tUnless otherwise expressly stated in a valid approved development agreement or annexation agreement, the provisions of this Article shall apply to the review and approval of a subdivision plat whenever any lot, tract, land parcel or air-space is created or divid…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-2-1-2. Application of article.",
+        "a": "A.\tApplicability and Exemptions.\n  1.\tUnless otherwise expressly stated in a valid approved development agreement or annexation agreement, the provisions of this Article shall apply to the review and approval of a subdivision plat whenever any lot, tract, land parcel or air-space is created or divided into two or more lots, tracts, parcels, other land divisions, or air-space units for the purpose of sale or development.\n  2.\tThe standards of Articles 4-3, Site Design, 4-4, Access, Circulation, Mobility and Utilities, 4-1-4, Natural Hazard Areas and Environmentally-Sensitive Areas may be applicable in the layout and design of the subdivision. In addition, Article 8-4, Required Improvements, Dedications, and Fees may also apply. These Divisions and Article may also apply to a Master Plan that does not involve the subdivision of land if the Director determines that the proposed Master Plan development will create impacts similar to a subdivision of land.\nB.\tExemptions. Review and approval of a subdivision plat shall not be require for the following:\n  1.\tAny division of land to heirs through an estate proceeding.\n  2.\tAny division of land created by lien, mortgage, deed of trust or other similar court action.\n  3.\tAny division of land for sale as part of an approved cemetery, where the cemetery maintains property records as to the size, location, and ownership of the lots.\n  4.\tAny transfer of land required by law.\n  5.\tAny division of land by sale and purchase, dedication, eminent domain action, or any other method of conveyance, for the purpose of providing the City with land for street rights-of-way, parks, or other public use."
+      }
+    ],
+    "ordinance_refs": [
+      "4-2-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

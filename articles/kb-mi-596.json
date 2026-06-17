@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "water",
+      "line",
+      "improvements",
+      "projects",
+      "high",
+      "quality",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1037/Water-Line-Improvements"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-596",
+    "spreadsheet_id": "MI-596",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Water Line Improvements",
+    "summary": "Water line improvement projects are set to replace aging infrastructure in Arvada, specifically along Pomona Drive and W. 84th Avenue, and Holland Court and W. 67th Avenue. Construction on Pomona Drive is expected to last 3 to 4 months starting in late May, while the Holland Court project will take 1 to 2 months beginning in mid to late August. Residents may experience road closures, construction noise, and potential water shut-offs, with notifications provided 48 hours in advance.",
+    "body": "## Overview\n\nWater line projects replace lines that have reached the end of their useful life to maintain high-quality, reliable service. Projects include:\n\n1. Pomona Dr. (Wadsworth to 84th Ave. to Clubcrest)\n2. Holland Ct. and 67th Ave.\n\nThe water rates you pay directly fund these projects and the repair and replacement of aging utility infrastructure in Arvada to ensure we can continue to provide high-quality, reliable drinking water. Learn more about the City’s approach to long range planning and funding for utility improvements on the [Utilities Transparency webpage](/661). \n\n## Pomona Drive\n\nThis project will take place along Pomona Drive and W. 84th Avenue from Wadsworth Blvd. to Clubcrest Drive.![Construction map on Pomona Drive and W. 84th Avenue from Wadsworth to Clubcrest Drive](/ImageRepository/Document?documentId=7549)\n\n### Timeline\n\nConstruction is expected to take**3 to 4 months, beginning in late May or early June, as soon as May 28.**Timelines are construction and weather permitting and subject to change.\n\n### What to Expect\n\n- Working hours 7 am - 7 pm\n- Road closures with alternating one-way traffic or local access only possible\n  - Follow signage on site\n- Additional construction noise and traffic\n- Water shut-offs may be necessary\n  - Residents will be notified 48 hours in advance\n- Residents may be occasionally asked to limit water and sewer use during working hours\n- Full repaving is not within the scope of this project area\n- Efforts are being made to complete as much work as possible when school is not in session for the summer\n\n## Holland Court & W. 67th Ave.\n\nThis project will take place along Holland Court and W. 67th Avenue.![Construction map on 67th Avenue and Holland Court](/ImageRepository/Document?documentId=7550)\n\n### Timeline\n\nConstruction is expected to take**1 to 2 months, beginning in mid to late August.**Timelines are construction and weather permitting and subject to change.\n\n### What to Expect\n\n- Working hours 7 am - 7 pm\n- Road closures with alternating one-way traffic or local access only possible\n  - Follow signage on site\n- Additional construction noise and traffic\n- Water shut-offs may be necessary\n  - Residents will be notified 48 hours in advance\n- Residents may be occasionally asked to limit water and sewer use during working hours\n- Full repaving is not within the scope of this project area\n\n## Contact\n\nPlease submit a ticket through [Ask Arvada](/898) and a team member will be in touch.\n\nFor accessibility needs, please contact the project team through[Ask Arvada](/898) to coordinate accommodations in the work zone.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

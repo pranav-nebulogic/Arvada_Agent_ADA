@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "subject",
+      "matter",
+      "code",
+      "engineering",
+      "standards",
+      "specifications",
+      "comprised"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-262"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-262. - Subject matter of the code.",
+    "summary": "The subject matter of the Engineering Code of Standards and Specifications is comprised\n               of 11 parts as follows:\n(1)\nSection 100 - Title, Scope, Control, and General Conditions.\n(2)\nSection 200 - Acceptance procedures.\n(3)\nSection 300 - Soils and Earthwork.\n(4)\nSection 400 - Water Supp…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-262. - Subject matter of the code.",
+        "a": "The subject matter of the Engineering Code of Standards and Specifications is comprised\n               of 11 parts as follows:\n(1)\nSection 100 - Title, Scope, Control, and General Conditions.\n(2)\nSection 200 - Acceptance procedures.\n(3)\nSection 300 - Soils and Earthwork.\n(4)\nSection 400 - Water Supply Facilities.\n(5)\nSection 500 - Sanitary Sewer Facilities.\n(6)\nSection 600 - Storm Drainage Facilities.\n(7)\nSection 700 - Roadway and Parking Lot Design, Traffic Control Devices and Street Lighting.\n(8)\nSection 800 - Concrete Mix Design and Construction.\n(9)\nSection 900 - Asphalt Mix Design and Construction.\n(10)\nSection 1000 - Vegetation, Parks, and Recreation Facilities Construction.\n(11)\nSection 1100 - Control, measurement and basis of payment.\n(Code 1981, § 27-191; Ord. No. 2391, § 1, 1-19-1987; Ord. No. 2429, § 1, 7-20-1987;\nOrd. No. 4809\n, § 1, 7-18-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-262"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

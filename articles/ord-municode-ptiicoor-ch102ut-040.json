@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "water",
+      "usage",
+      "sizing",
+      "connected",
+      "service",
+      "taps",
+      "meter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-79"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-79. - Water usage and sizing connected service.",
+    "summary": "(a)\nWater taps, meter sizes, and service line sizes are authorized by the city on the\n               basis of a user's classification, flow demand characteristics, and maximum annual\n               water usage. The maximum annual water usage for any new or modified connected water\n               ser…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-79. - Water usage and sizing connected service.",
+        "a": "(a)\nWater taps, meter sizes, and service line sizes are authorized by the city on the\n               basis of a user's classification, flow demand characteristics, and maximum annual\n               water usage. The maximum annual water usage for any new or modified connected water\n               service shall be as follows:\nTap Size\nMeter\nSize\nMeter Capacity\nFactor\nMaximum Annual\nWater Usage in\n1000 gallon\n¾″\n⅝″ × ¾″\n1.0\n235\n¾″\n¾″\n1.5\n352\n1″\n1″\n2.5\n586\n1½″\n1½″\n5.0\n1,173\n2″\n2″\n8.0\n1,877\n3″\n3″\n17.5\n4,105\n4″\n4″\n30.0\n7,038\n6″\n6″\n80.0\n18,768\n(b)\nAny user applying for a water permit shall submit usage calculations to the director\n               of utilities for his review and approval of connected water service tap size, meter\n               size and service line size before a water permit will be granted to any user.\n(c)\nIn establishing user demands and design criteria for sizing water taps, service lines,\n               and meters, the following publications are hereby adopted by reference: \"Sizing Water\n               Service Lines and Meters\" (AWWA Manual M 22) copyright 1975 by the American Water\n               Works Association and \"Water Meters—Selection, Installation, Testing, and Maintenance\"\n               (AWWA M 6), third edition, copyright 1986 by the American Water Works Association.\n(Code 1981, § 33-50; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 3127, § 7, 10-24-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-79"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

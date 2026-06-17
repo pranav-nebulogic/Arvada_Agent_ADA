@@ -1,0 +1,201 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "process",
+    "permit_type": "special_event_permit",
+    "category": "events",
+    "source_urls": [
+      "https://www.arvadaco.gov/681/Special-Event-Permit-for-Public-Parks"
+    ],
+    "scraped_at": "2026-06-10T11:05:27.298035+00:00",
+    "content_hash": "226920339391f3e7911e07ec2a7086151d8426547e188106ae4dbf12e6f8ee9d",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Special Event Permit for Public Parks",
+    "summary": "This permit is required for hosting events such as community festivals, graduation parties, or large weddings in public parks within the City of Arvada. Applicants must comply with specific rules including event timing, insurance requirements, and waste management plans.",
+    "eligibility": "Anyone planning to hold a special event in a public park in the City of Arvada.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Special Event Permit Guidelines",
+        "text": "Read the guidelines for applying for Special Event Permits to understand the requirements and restrictions for events in public parks.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Prepare Required Documents",
+        "text": "Gather all necessary documents including a General Liability Insurance Certificate, a detailed site plan, a waste clean-up plan, and if applicable, a tax exempt number, pavilion receipt, residential street closure permit, vendor list, vendor liability certificates, and alcohol permits.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Create a Site Plan",
+        "text": "Prepare a detailed site map showing event route, start/finish points, registration points, stage and sound equipment placement, food and beverage tents, merchandise tents, signage, first aid sites, parking, generators (not on turf), street closures, special attractions, and electricity requirements.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Submit Application",
+        "text": "Submit the completed application along with all required documents to the City of Arvada for review.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "General Liability Insurance Certificate",
+        "description": "Certificate showing the applicant as insured with a minimum of $1,000,000 each occurrence. The certificate holder and additional insured must be The City of Arvada Risk Management, 8101 Ralston Road, Arvada, CO 80002. Policy coverage must include the event date(s).",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Site Plan",
+        "description": "A detailed map of the event layout including all relevant features such as stages, tents, parking, and street closures.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Waste Clean-Up Plan",
+        "description": "Plan outlining the types of waste generated, reduction steps such as recycling containers, and disposal methods including temporary dumpsters if needed.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Tax Exempt Number (if Non-Profit)",
+        "description": "Required if the organization is a 501(c)(3) non-profit. This is not the EIN but the tax exempt number.",
+        "where_to_get": "Colorado Department of Revenue",
+        "example": null
+      },
+      {
+        "name": "Pavilion Receipt (April through September)",
+        "description": "Receipt for pavilion rental if applicable during April through September.",
+        "where_to_get": "Park Pavilion Rentals in Arvada",
+        "example": null
+      },
+      {
+        "name": "Residential Street Closure Permit",
+        "description": "Required if closing a residential street. Must include approval signatures from 80% of affected residents.",
+        "where_to_get": "Request for Revocable Temporary Street Closure Packet (PDF)",
+        "example": null
+      },
+      {
+        "name": "Vendor List",
+        "description": "List of all vendors selling merchandise including business name, address, contact name, phone, and email.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Vendor Certificate of Liability Coverage",
+        "description": "Proof of vendor liability insurance with minimum coverage amounts depending on vendor type, naming The City of Arvada Risk Management as certificate holder.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Alcohol Permit",
+        "description": "Required for public events serving alcohol. Must be applied for at least 45 days prior to the event through the City Clerk's Office.",
+        "where_to_get": "City Clerk's Office",
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "event_name",
+        "label": "Event Name",
+        "description": "The official name of your special event.",
+        "example_value": null,
+        "why_needed": "To identify the event in the application."
+      },
+      {
+        "field_name": "event_date",
+        "label": "Event Date(s)",
+        "description": "The date or dates when the event will take place.",
+        "example_value": null,
+        "why_needed": "To ensure insurance and permits cover the correct dates."
+      },
+      {
+        "field_name": "applicant_name",
+        "label": "Applicant Name",
+        "description": "Name of the person or organization applying for the permit.",
+        "example_value": null,
+        "why_needed": "To identify the responsible party for the event."
+      },
+      {
+        "field_name": "insurance_certificate",
+        "label": "Insurance Certificate",
+        "description": "Upload or provide details of the General Liability Insurance Certificate.",
+        "example_value": null,
+        "why_needed": "To verify insurance coverage for the event."
+      },
+      {
+        "field_name": "site_plan",
+        "label": "Site Plan",
+        "description": "Upload or provide a detailed map of the event layout.",
+        "example_value": null,
+        "why_needed": "To review event setup and ensure compliance with city requirements."
+      },
+      {
+        "field_name": "waste_plan",
+        "label": "Waste Clean-Up Plan",
+        "description": "Description or document outlining waste management strategies for the event.",
+        "example_value": null,
+        "why_needed": "To ensure environmental responsibility and compliance."
+      },
+      {
+        "field_name": "vendor_list",
+        "label": "Vendor List",
+        "description": "List of vendors participating in the event with contact information.",
+        "example_value": null,
+        "why_needed": "To manage vendor compliance and tax collection."
+      },
+      {
+        "field_name": "alcohol_permit",
+        "label": "Alcohol Permit",
+        "description": "Indicate if an alcohol permit is required and provide related documentation.",
+        "example_value": null,
+        "why_needed": "To regulate alcohol service at the event."
+      }
+    ],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Risk Management",
+      "phone": "720-898-7590",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Are bouncy castles allowed at events in public parks?",
+        "a": "No, bouncy castles and other inflatable gyms and obstacle courses are prohibited."
+      },
+      {
+        "q": "Can events run past sundown?",
+        "a": "No, all events must be over before sundown with no exceptions."
+      },
+      {
+        "q": "Is alcohol allowed at events in public parks?",
+        "a": "Alcohol is only allowed with a proper beer permit during pavilion rental season or a Special Events Permit for public events involving alcohol. Contact the City Clerk's Office for more information."
+      },
+      {
+        "q": "Do vendors need a business license to participate in special events?",
+        "a": "No, vendors participating in a special event are not required to have a business license as they are covered under the special event permit."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Residential Street Closure Permit",
+      "Park Pavilion Rental"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3872
+}

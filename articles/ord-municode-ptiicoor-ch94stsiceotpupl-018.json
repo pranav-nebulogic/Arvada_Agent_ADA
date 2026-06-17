@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "hearing",
+      "owner",
+      "shall",
+      "ten",
+      "days",
+      "date",
+      "service"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-35"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-35. - Hearing.",
+    "summary": "The owner shall have ten days from the date of service to make a written request for\n               a hearing contesting the notice to repair or reconstruct any sidewalk, curb and gutter.\n               Said hearing shall be conducted by the city manager, or his designee, and the procedures\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-35. - Hearing.",
+        "a": "The owner shall have ten days from the date of service to make a written request for\n               a hearing contesting the notice to repair or reconstruct any sidewalk, curb and gutter.\n               Said hearing shall be conducted by the city manager, or his designee, and the procedures\n               followed shall not be inconsistent with those set forth in chapter 2.\n(\nOrd. No. 4365, § 1, 11-19-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

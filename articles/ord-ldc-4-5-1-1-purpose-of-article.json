@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "specify",
+      "minimum",
+      "requirements",
+      "provision",
+      "design",
+      "street",
+      "parking",
+      "loading"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-1-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "4-5-1-1. Purpose of article.",
+    "summary": "The purpose of this Article is to specify minimum requirements for the provision and design of off-street parking and loading areas, in proportion to the parking, loading, and transportation demands of different land uses throughout the City.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-1-1. Purpose of article.",
+        "a": "The purpose of this Article is to specify minimum requirements for the provision and design of off-street parking and loading areas, in proportion to the parking, loading, and transportation demands of different land uses throughout the City. The standards in this Article are intended to provide for adequate off-street parking and loading while supporting walkable urbanism in appropriate locations, and allowing the flexibility needed to accommodate alternative parking solutions. Off-street parking requirements in this Article shall apply to automobile, motorized vehicle, and bicycle parking."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

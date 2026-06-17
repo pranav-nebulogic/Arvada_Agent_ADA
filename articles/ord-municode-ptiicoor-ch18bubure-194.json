@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "application",
+      "appeal",
+      "hereby",
+      "amended",
+      "entirety",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-481"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-481. - I.P.M.C. Section 111.1, Application for appeal.",
+    "summary": "Section 111.1. Application for appeal,\nis hereby amended in its entirety to read as follows:\n\"\n111.1. Application for appeal.\nAppeals of municipal court matters shall be as set forth in applicable state and\n                  local rules. Appeals of nuisance abatement proceedings shall be as follows:…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-481. - I.P.M.C. Section 111.1, Application for appeal.",
+        "a": "Section 111.1. Application for appeal,\nis hereby amended in its entirety to read as follows:\n\"\n111.1. Application for appeal.\nAppeals of municipal court matters shall be as set forth in applicable state and\n                  local rules. Appeals of nuisance abatement proceedings shall be as follows:\n1.\nAppeal of any notice, order, or decision of the code official or a hearing officer\n                  related to any proceeding to determine or abate a nuisance or a nuisance property\n                  shall be as set forth in article III of\nchapter 38\n, Environment.\n2.\nAppeal of any notice, order, or decision of the code official or a hearing officer\n                  related to any proceeding to abate a snow, ice, or slush nuisance shall be as set\n                  forth in article I of\nchapter 94\n, Streets, Sidewalks, and Certain Other Public Areas.\n3.\nAppeal of any notice, order, or decision of the code official or hearing officer related\n                  to a proceeding to determine or abate weeds or noxious weeds shall be as set forth\n                  in article V of\nchapter 38\n, Environment.\n4.\nAppeal of any notice, order, or decision of the code official or hearing officer related\n                  to a proceeding to determine or abate graffiti shall be as set forth in article IV\n                  of\nchapter 38\n, Environment.\n5.\nAppeal of any notice, order, or decision of the code official related to a procedure\n                  to determine or abate rubbish or garbage shall be as set forth in article III of\nchapter 90\n, Solid waste.\n6.\nAppeal of any notice, order, or decision of the code official or city manager related\n                  to the abatement of an unsafe structure or condition, or of unsafe building equipment,\n                  shall be as set forth in section 108.6 herein.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-481"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

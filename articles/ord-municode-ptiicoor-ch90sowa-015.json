@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "license",
+      "administration",
+      "every",
+      "issued",
+      "city",
+      "shall",
+      "indicate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-53"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-53. - License administration.",
+    "summary": "(a)\nEvery license issued by the city shall indicate the business name and address, the\n               mailing address, and the license fee paid by the licensee.\n(b)\nEvery licensee who changes his business address shall notify the city clerk promptly\n               in writing.\n(Ord. No.\n4733\n, § 1, 6…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-53. - License administration.",
+        "a": "(a)\nEvery license issued by the city shall indicate the business name and address, the\n               mailing address, and the license fee paid by the licensee.\n(b)\nEvery licensee who changes his business address shall notify the city clerk promptly\n               in writing.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-53"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

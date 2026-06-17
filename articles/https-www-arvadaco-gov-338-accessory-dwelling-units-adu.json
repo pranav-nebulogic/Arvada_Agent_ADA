@@ -1,0 +1,225 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_adu",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/338/Accessory-Dwelling-Units-ADU"
+    ],
+    "scraped_at": "2026-06-10T10:49:49.976022+00:00",
+    "content_hash": "84a4ae49c3e635979c352ef214787b6fcf4c39c777d0d54cba51ec01969049ba",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Accessory Dwelling Units (ADU) Building Permit",
+    "summary": "An Accessory Dwelling Unit (ADU) is an additional housing unit within or on the same lot as a single-family home, with separate entries and amenities. The City of Arvada categorizes ADUs into Type A (detached) and Type B (attached or inside the home) and requires permits issued only to licensed contractors.",
+    "eligibility": "Permits are only issued to Licensed Contractors with a type 1B, 2B or 3B license.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Requirements",
+        "text": "Review the list of required documents and steps before beginning the application process. Understand the types of ADUs and zoning requirements applicable to your property.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Prepare Documentation",
+        "text": "Prepare all required plans and documents including architectural plans, structural plans stamped by a licensed professional, plot plans, grading plans, utility plans, and other required calculations and reports depending on ADU type.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Apply Online",
+        "text": "Login to the Arvada Permits system and submit your application using the SMART License & Permits Online Application. Upload all required PDF plans and related documents.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 4,
+        "title": "Wait for Review",
+        "text": "The City of Arvada will review your application. Type A ADUs typically take 3 weeks, and Type B ADUs take 1 to 2 weeks for review.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 5,
+        "title": "Obtain Approval and Begin Construction",
+        "text": "Once approved, ensure all subcontractors are listed on the permit to avoid holds. Begin construction following all permit conditions and inspections.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Architectural Plans",
+        "description": "Floor plans, elevations, cross sections, and electrical plans showing the design of the ADU.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Plot Plan",
+        "description": "Details size, setbacks, lot coverage, landscaping, and parking for the property.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Grading Plan",
+        "description": "Plan showing grading details for the site.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Utility Plan",
+        "description": "Plan showing utility connections for water, sewer, gas, and electrical.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Structural Plans",
+        "description": "Foundation and structural plans stamped and signed by a licensed engineer or architect in Colorado.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Truss Specification Package",
+        "description": "Stamped and signed by a licensed engineer.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Soils Report",
+        "description": "Stamped and signed by a licensed engineer.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Manual J, D, and S Calculations",
+        "description": "Heating, ventilation, and air conditioning load calculations.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "RESCheck or HERS Rating Calculations",
+        "description": "Energy performance calculations if the performance energy path is utilized.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Declaration of Covenants",
+        "description": "Obtain from Planning Department.",
+        "where_to_get": "Planning Department",
+        "example": null
+      },
+      {
+        "name": "Approved 1 Hour Fire Separation Detail with STC Rating",
+        "description": "Required for Type B ADUs, showing fire separation and sound transmission class rating of 45 or greater.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Gas Line Calculations",
+        "description": "May be requested depending on the project.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "adu_type",
+        "label": "Type of ADU",
+        "description": "Select whether the ADU is Type A (detached) or Type B (attached or inside the home).",
+        "example_value": "Type A",
+        "why_needed": "Determines applicable requirements and review timelines."
+      },
+      {
+        "field_name": "contractor_license_type",
+        "label": "Contractor License Type",
+        "description": "Specify the contractor's license type (1B, 2B, or 3B) to ensure eligibility for permit issuance.",
+        "example_value": "1B",
+        "why_needed": "Permits are only issued to licensed contractors with these license types."
+      },
+      {
+        "field_name": "property_address",
+        "label": "Property Address",
+        "description": "The address where the ADU will be constructed.",
+        "example_value": "123 Main St, Arvada, CO",
+        "why_needed": "To verify zoning and property eligibility."
+      },
+      {
+        "field_name": "plans_upload",
+        "label": "Upload Plans and Documents",
+        "description": "Upload all required PDF plans and supporting documents for review.",
+        "example_value": null,
+        "why_needed": "Required for plan review and permit approval."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Building Permit Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      },
+      {
+        "name": "Use Tax Plan Review Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.use_tax",
+        "notes": null
+      },
+      {
+        "name": "Recording Fees",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.recording",
+        "notes": null
+      },
+      {
+        "name": "Plumbing Permit Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.plumbing",
+        "notes": null
+      },
+      {
+        "name": "Mechanical Permit Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.mechanical",
+        "notes": null
+      },
+      {
+        "name": "Electrical Permit Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.electrical",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "Type A: 3 weeks; Type B: 1 to 2 weeks",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [
+      "Chapter 5 of the Land Development Code"
+    ],
+    "related_permit_types": [
+      "building_permit_single_family",
+      "building_permit_addition"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3830
+}

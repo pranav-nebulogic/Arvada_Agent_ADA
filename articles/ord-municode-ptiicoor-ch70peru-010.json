@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "voluntary",
+      "reassignment",
+      "employee",
+      "applies",
+      "position",
+      "lower",
+      "grade"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-38"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-38. - Voluntary reassignment.",
+    "summary": "(a)\nWhen an employee applies for a position which is at a lower grade than the employee's\n               current grade, the employee's application will be considered a request for a voluntary\n               reassignment.\n(b)\nThe employee will serve a probationary period in the new position. The date…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-38. - Voluntary reassignment.",
+        "a": "(a)\nWhen an employee applies for a position which is at a lower grade than the employee's\n               current grade, the employee's application will be considered a request for a voluntary\n               reassignment.\n(b)\nThe employee will serve a probationary period in the new position. The date of reassignment\n               will become the new evaluation date for purposes of a probationary performance evaluation.\n(c)\nEmployees who move to a lower grade through a voluntary reassignment will have a one-time\n               option to cash in their vacation leave (and compensatory time for nonexempt employees)\n               at the higher rate of pay in accordance with city policy.\n(d)\nAt termination, any accruals eligible for payout will be calculated at the employee's\n               then current rate of pay.\n(e)\nUpon a voluntary reassignment to a non-exempt position, exempt employees will not\n               be paid for accrued compensatory time, nor will such time transfer to the new position.\n               Benefits will transition to the plan of the new position effective on the first day\n               of the transfer. Leave will begin accruing at the new rate on the first day of the\n               transfer as provided in article IV, attendance and leave, of this chapter. The employee\n               will not lose service years counted towards vacation accrual or retirement vesting\n               or years of service.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-38"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

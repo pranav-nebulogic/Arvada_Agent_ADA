@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "criminal",
+      "charges",
+      "convictions",
+      "during",
+      "employment",
+      "any",
+      "employee"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-155"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-155. - Criminal charges and convictions during employment.",
+    "summary": "(a)\nAny employee, regardless of status, must report any of the following to the employee's\n               appointing authority:\n(1)\nAny misdemeanor, drug misdemeanor, or felony charges pending against the employee\n               regardless of the jurisdiction of the charge as soon as practicable but…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-155. - Criminal charges and convictions during employment.",
+        "a": "(a)\nAny employee, regardless of status, must report any of the following to the employee's\n               appointing authority:\n(1)\nAny misdemeanor, drug misdemeanor, or felony charges pending against the employee\n               regardless of the jurisdiction of the charge as soon as practicable but no later than\n               seven days from incurring the charges; and\n(2)\nAny conviction or plea, including guilty and no contest pleas, to a misdemeanor or\n               felony regardless of the jurisdiction of the charge as soon as practicable but no\n               later than seven days from the date of conviction.\n(b)\nNotwithstanding the reporting duties stated in subsection (a), an employee has no\n               duty or obligation to report a sealed conviction, pardoned conviction, or otherwise\n               vacated conviction. An employee also has no duty or obligation to report an arrest\n               that does not result in charges.\n(c)\nFailure to satisfy the reporting duties stated in subsection (a) may warrant disciplinary\n               action in accordance with\nsection 70-143\n.\n(d)\nIf an employee is charged with a class 1 misdemeanor as defined by C.R.S. § 18-1.3-501\n               or the equivalent of such if in a jurisdiction outside of Colorado, or a felony, the\n               employee's appointing authority may place the employee on a suspension without pay\n               for the duration of the court proceedings regardless of the length of the proceedings.\n               The proceedings are deemed to have ended upon the date the conviction is entered regardless\n               of whether sentencing occurs that same date or at a later date. Should the employee\n               be cleared of such charges against them, the employee will be reimbursed for any lost\n               wages resulting from a suspension without pay.\n(e)\nThe city may consider any employee misconduct that is violative of any national, state,\n               or local law a violation of these personnel rules if such misconduct interferes with\n               the employee's performance of their job or undermines public trust in the integrity\n               of the city. As such, the employee is also subject to discipline for the misconduct\n               itself in accordance with\nsection 70-143\n.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-155"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

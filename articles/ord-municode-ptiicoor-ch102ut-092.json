@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "sewer",
+      "system",
+      "development",
+      "charges",
+      "nonresidential",
+      "facilities",
+      "outside"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-203"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-203.2. - Sewer system development charges—Nonresidential facilities outside city.",
+    "summary": "Sewer fees serving nonresidential facilities outside the corporate limits of the city,\n               subject to\nsection 102-51\n, are as follows:\n(1)\nAn inspection fee of $37.50.\n(2)\nSewer system development charges determined from the following schedule:\nNon-residential Sewer Service Tap Size\nNumbe…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-203.2. - Sewer system development charges—Nonresidential facilities outside city.",
+        "a": "Sewer fees serving nonresidential facilities outside the corporate limits of the city,\n               subject to\nsection 102-51\n, are as follows:\n(1)\nAn inspection fee of $37.50.\n(2)\nSewer system development charges determined from the following schedule:\nNon-residential Sewer Service Tap Size\nNumber of Single-Family Residential Equivalents\nSewer System Development Charges\n⅝\" x ¾\"\n2.00\n$24,960.00\n¾\"\n2.00\n$24,960.00\n1\"\n4.80\n$59,910.00\n1 ½\"\n11.00\n$137,280.00\n2\"\n20.00\n$249,600.00\n3\"\n43.00\n$536,640.00\n4\"\n86.00\n$1,073,280.00\n6\"\nA Metro Water Recovery formula will determine the City sewer system development charge\n                                 for a 6\" meter.\nA Metro Water Recovery formula will determine the City sewer system development charge\n                                 for a 6\" meter.\n(3)\nPlus, the Metro Water Recovery (formerly known as Metro Wastewater Reclamation District)\n                  connector charge. The city acts as agent for Metro Water Recovery in collection of\n                  a connector charge in accordance with the fee schedule established by Metro Water\n                  Recovery.\n(4)\nThe sewer tap size required will be determined in accordance with the Uniform Plumbing\n                  Code (UPC), as amended and adopted by the city.\n(Ord. No.\n4854\n, § 17, 9-11-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-203"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

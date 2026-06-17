@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "regulation",
+      "use",
+      "water",
+      "failure",
+      "comply",
+      "city",
+      "council"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-66"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-66. - Regulation of use of water; failure to comply.",
+    "summary": "(a)\nThe city council may by ordinance limit, restrict, or authorize regulation of the\n               time, duration or day of water usage for domestic and irrigation purposes, the amount\n               of water used, the method or usage, the purpose of the usage and such other regulations\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-66. - Regulation of use of water; failure to comply.",
+        "a": "(a)\nThe city council may by ordinance limit, restrict, or authorize regulation of the\n               time, duration or day of water usage for domestic and irrigation purposes, the amount\n               of water used, the method or usage, the purpose of the usage and such other regulations\n               and restrictions as it shall, from time-to-time, deem necessary to conserve and protect\n               the water supplies of the city and the distribution thereof. Any person failing to\n               abide by such regulation and restriction is guilty of a violation of this Code and\n               subject to the penalties and charges authorized in\nsection 102-106\n. In addition to any other penalty, the city, after notice and hearing, may discontinue\n               water service to any violator.\n(b)\nPrior to implementation of any restrictions, limitations or regulation of the use\n               of water for domestic or irrigation purposes pursuant to this section, the city council\n               shall, by resolution, declare the existence of necessity for such restrictions, limitations,\n               or regulation, as well as the authorization of implementation of any regulations adopted\n               in furtherance thereof, or of any modifications thereto.\n(Code 1981, § 33-39; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 3755, § 2, 7-1-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-66"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

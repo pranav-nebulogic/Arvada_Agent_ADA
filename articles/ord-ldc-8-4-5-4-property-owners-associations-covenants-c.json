@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "property",
+      "owners",
+      "associations",
+      "covenants",
+      "conditions",
+      "restrictions",
+      "generally",
+      "open",
+      "space",
+      "other"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-5-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-5. DEVELOPMENT-RELATED AGREEMENTS AND COVENANTS"
+  },
+  "content": {
+    "title": "8-4-5-4. Property owners' associations; covenants, conditions, and restrictions.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-5-4. Property owners' associations; covenants, conditions, and restrictions.",
+        "a": "A.\tGenerally. If open space or other common areas within a subdivision or other development are to be owned and maintained by a property owners' association, the owner/developer shall file a declaration of covenants, conditions, and restrictions that will govern the association, to be submitted with the application for final development plan or site plan approval.\nB.\tDeclaration Contents. The declaration provisions shall include, but not be limited to, the following:\n  1.\tThe property owners' association shall be established before the homes or lots are sold;\n  2.\tMembership shall be mandatory for each lot or home buyer and any successive buyer;\n  3.\tAny open space restrictions shall be permanent, not just for a period of years;\n  4.\tThe property owners' association shall be responsible for liability insurance, local taxes, and the maintenance of recreational and other facilities;\n  5.\tProperty owners shall pay their pro-rata share of the cost, and the assessment levied by the property owners' association can become a lien on the property; and\n  6.\tThe property owners' association shall be empowered to adjust the assessment to meet changed needs and demands."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-5-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

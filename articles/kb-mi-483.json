@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "safe",
+      "transaction",
+      "zones",
+      "police",
+      "transactions",
+      "online",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/572/Safe-Transaction-Zones"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-483",
+    "spreadsheet_id": "MI-483",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Safe Transaction Zones",
+    "summary": "Arvada Police provide Safe Transaction Areas at all four police stations for residents to safely conduct sales transactions, including online purchases and private-party deals. The lobbies are open Monday through Friday from 8 am to 5 pm, with police staff available at the front desk and video monitoring in place, although officers cannot be present during individual transactions.",
+    "body": "![Police Arvada Colorado Safe Transaction Area](/ImageRepository/Document?documentId=728)Arvada Police are pleased to offer Safe Transaction Areas at [all four of our police stations](/550/Sector-Policing \"Find your police station\") for residents to conduct sales transactions. Stations lobbies are open and available **Monday through Friday, 8 am to 5 pm,** for residents to use for their online purchase transactions.\n\n## Examples of Transactions\n\n- Buying and selling from any online source etc.\n- Automobile purchases (in the parking lot)\n- Private-party transactions\n\n## Police Presence for Transactions\n\nWhile officers cannot be present for transactions, there are police staff at the front desk during work hours and the lobby is under video monitoring. Officers will be going in and out of the buildings as part of their daily work.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

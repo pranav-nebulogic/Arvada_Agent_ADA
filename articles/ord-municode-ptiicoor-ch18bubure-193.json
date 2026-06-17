@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "abatement",
+      "unsafe",
+      "building",
+      "equipment",
+      "added",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-480"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-480. - I.P.M.C. Section 108.9, Abatement of unsafe building equipment.",
+    "summary": "Section 108.9. Abatement of unsafe building equipment,\nis added to read as follows:\n\"\n108.9. Abatement of unsafe building equipment.\nWhenever building equipment regulated in the technical codes has become hazardous\n                  to life, health, or property, or has become unsanitary, the buildin…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-480. - I.P.M.C. Section 108.9, Abatement of unsafe building equipment.",
+        "a": "Section 108.9. Abatement of unsafe building equipment,\nis added to read as follows:\n\"\n108.9. Abatement of unsafe building equipment.\nWhenever building equipment regulated in the technical codes has become hazardous\n                  to life, health, or property, or has become unsanitary, the building official shall\n                  order in writing that such equipment either be removed or restored to a safe or sanitary\n                  condition, as appropriate. The written notice itself shall fix a time limit for compliance\n                  with such order. Defective building equipment shall not be maintained after receiving\n                  such notice. When such equipment or installation is to be disconnected, a written\n                  notice of such disconnection and causes therefore shall be given within 24 hours or\n                  as soon thereafter as is practicable to the serving utility, and owner and occupant\n                  of such building, structure, or premises. When any building equipment is maintained\n                  in violation of notice issued pursuant to the provisions of this section, the building\n                  official shall institute appropriate action to prevent, restrain, correct or abate\n                  the violation.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-480"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

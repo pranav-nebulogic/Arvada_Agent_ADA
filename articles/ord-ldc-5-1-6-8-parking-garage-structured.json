@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "parking",
+      "garage",
+      "structured",
+      "freestanding",
+      "structure",
+      "incorporated",
+      "into",
+      "residential",
+      "nonresidential",
+      "building"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-6-8"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-6. SUPPLEMENT STANDARDS FOR NONRESIDENTIAL AND MULTIFAMILY LAND USE"
+  },
+  "content": {
+    "title": "5-1-6-8. Parking garage, structured.",
+    "summary": "A.\tA freestanding garage parking structure or structure that is incorporated into a residential or nonresidential building shall include:\n  1.\tFaçade openings that face a public street or open space shall be vertically and horizontally aligned and all floors fronting on those façades shall be level,…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-6-8. Parking garage, structured.",
+        "a": "A.\tA freestanding garage parking structure or structure that is incorporated into a residential or nonresidential building shall include:\n  1.\tFaçade openings that face a public street or open space shall be vertically and horizontally aligned and all floors fronting on those façades shall be level, not inclined.\n  2.\tThe first floor façade of a parking garage located adjacent to a public street shall be designed to encourage and complement pedestrian-scale interest and activity through the inclusion of at least three architectural elements such as arcades, windows, awnings, overhangs, screens, grills, louvers or other similar non-opaque features.\n  3.\tParking garage shall be designed so that motorized vehicles parked on all levels of the structure are screened to a minimum height of 42 inches.\nB.\tWithin the MX-U zoning district, the ground floor façade of a structured parking facility that abuts a public sidewalk, street, or open space and that is not occupied by entrances, exits, or waiting areas shall be designed and constructed with a minimum unfinished floor to ceiling height of 13.5 feet in order to allow occupancy by uses other than parking that are allowed in the underlying zone district. Within the MX-T zoning district, parking garage facilities located adjacent to a pedestrian priority street shall contain retail or office uses on the first floor fronting the street, or be wrapped with development of equal or greater height than the parking structure. At least 50 percent of a street-level facing a public sidewalk, street, or open space area shall contain retail or office uses to a minimum depth of 60 feet. SeeDivision 5-1-3, Pedestrian Priority Streets."
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-6-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

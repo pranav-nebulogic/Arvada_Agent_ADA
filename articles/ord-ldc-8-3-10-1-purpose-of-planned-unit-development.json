@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "planned",
+      "unit",
+      "development",
+      "generally",
+      "zoning",
+      "district",
+      "allow",
+      "project",
+      "specific"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-10-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-10. PLANNED UNIT DEVELOPMENT"
+  },
+  "content": {
+    "title": "8-3-10-1. Purpose of planned unit development.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-10-1. Purpose of planned unit development.",
+        "a": "A.\tGenerally. The purpose of the Planned Unit Development (PUD) zoning district is to allow for the development of project-specific standards in instances where it is demonstrated that a project of comparable quality and community benefit cannot be approved in any other zoning district or combination of zoning districts that are created by this LDC.\nB.\tPurposes. The PUD is to accommodate innovative site planning for a development that includes significant public benefits. In order that the public health, safety, integrity, and general welfare may be furthered in an era where innovation and responsiveness in real estate development is often needed to meet shifting market demands, the PUD zone is established to provide project variety and diversity through the establishment of project-specific standards in the alternative to those otherwise set out in this LDC, so that maximum long-range neighborhood and community benefits can be gained."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-10-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

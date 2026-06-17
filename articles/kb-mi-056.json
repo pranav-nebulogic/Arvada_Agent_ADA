@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "downtown",
+      "historic",
+      "district",
+      "olde",
+      "town",
+      "additionally",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/427/Arvada-Downtown-Historic-District-Olde-T"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-056",
+    "spreadsheet_id": "MI-056",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Downtown Historic District (Olde Town)",
+    "summary": "Olde Town, also known as the Arvada Downtown Historic District, is a vital area that reflects the city's heritage and culture, featuring a mix of residential, retail, and office buildings. The district emphasizes the preservation of historic resources and landmarks, while new developments must adhere to the Olde Town Design Guidelines to maintain its pedestrian-friendly character. It is also recognized for its locally-owned businesses and convenient access to downtown Denver and the airport via the RTD G-Line.",
+    "body": "Otherwise known as \"Olde Town,\" this historic district serves as the link to the city's heritage, culture, past, and future. Olde Town contains a wide range of building types and uses ranging from single-family residences to retail, office, and mixed-use buildings. Historic resources and individual landmarks are intended to be preserved and restored. Additionally, new development should be designed to be sensitive to the historic district and built to be integrated into the urban fabric with a pedestrian-oriented design. In addition to its historic character, Olde Town is known for its abundance of locally-owned shops, restaurants, and bars and its convenient access to downtown Denver and Denver International Airport via the RTD G-Line. Any modification, addition, restoration, or redevelopment in the historic district or zoned Olde Town (OT) must first obtain a [Certificate of Compliance](/180/Olde-Town-Reno-Park-Design-Guidelines) with the Olde Town Design Guidelines prior to construction.\n\n![Map with general boundaries Ralston Rd to Grandview; Yukon St to Teller St excluding Arvada Downtown](/ImageRepository/Document?documentId=425)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

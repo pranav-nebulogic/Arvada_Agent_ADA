@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contents",
+      "ordinance",
+      "creating",
+      "district",
+      "shall",
+      "prescribe",
+      "extent"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-43"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-43. - Contents of ordinance.",
+    "summary": "An ordinance creating a district shall prescribe the:\n(1)\nExtent of the improvement district by boundaries or by other brief description and\n                  similarly of each assessment unit therein, if there are more than one;\n(2)\nKind and location of each project proposed (without mentioning min…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-43. - Contents of ordinance.",
+        "a": "An ordinance creating a district shall prescribe the:\n(1)\nExtent of the improvement district by boundaries or by other brief description and\n                  similarly of each assessment unit therein, if there are more than one;\n(2)\nKind and location of each project proposed (without mentioning minor details);\n(3)\nAmount or the proportion of the total cost to be defrayed by assessments, the method\n                  of levying assessments, the number of installments and the times in which the costs\n                  assessed will be payable; and\n(4)\nCharacter and the extent of any construction units.\n(Code 1981, § 27-44; Ord. No. 551, § 17(B), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-43"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

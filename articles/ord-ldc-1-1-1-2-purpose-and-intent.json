@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "intent",
+      "code",
+      "implement",
+      "city",
+      "arvada",
+      "comprehensive",
+      "plan",
+      "amended",
+      "replaced"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-1-2"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-1. TITLE, PURPOSE, AUTHORITY, AND APPLICABILITY"
+  },
+  "content": {
+    "title": "1-1-1-2. Purpose and intent.",
+    "summary": "The purpose and intent of this Code is to:\n  1.\tImplement the City of Arvada Comprehensive Plan, as that plan may be amended or replaced from time to time;\n  2.\tEnsure that all development in the City is consistent with the spirit and intent of other plans and policies adopted by City Council;\n  3.\t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-1-2. Purpose and intent.",
+        "a": "The purpose and intent of this Code is to:\n  1.\tImplement the City of Arvada Comprehensive Plan, as that plan may be amended or replaced from time to time;\n  2.\tEnsure that all development in the City is consistent with the spirit and intent of other plans and policies adopted by City Council;\n  3.\tPromote the public health, safety, convenience, comfort, prosperity, and general welfare;\n  4.\tPromote the creation of safe, unique, interesting, inclusive, and economically vibrant places throughout the City;\n  5.\tProtect the quality and character of stable residential neighborhoods;\n  6.\tPromote the economic development and fiscal sustainability of the City;\n  7.\tEncourage efficient and connected multimodal transportation and circulation systems serving drivers, bicyclists, pedestrians, and transit riders;\n  8.\tEncourage the conservation and efficient use of water and other natural resources;\n  9.\tEnsure the provision of adequate public facilities and services for new development and redevelopment;\n  10.\tProvide for the consistent, predictable, and equitable administration of City land use and development regulations;\n  11.\tImplement a connected system of parks, trails, and open spaces that promote improved outdoor activity and public health; and\n  12.\tProvide protection from nuisances and hazards."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

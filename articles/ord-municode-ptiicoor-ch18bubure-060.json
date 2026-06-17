@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "general",
+      "hereby",
+      "amended",
+      "entirety",
+      "read",
+      "follows"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-188"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-188. - I.R.C. Section R403.1, General.",
+    "summary": "Section R403.1. General,\nis hereby amended in its entirety to read as follows:\n\"\nR403.1. General.\nFootings and foundations shall be designed by a state licensed engineer or architect,\n                  and the plans shall be submitted with the permit application.\nException: Detached Group U Occupanc…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-188. - I.R.C. Section R403.1, General.",
+        "a": "Section R403.1. General,\nis hereby amended in its entirety to read as follows:\n\"\nR403.1. General.\nFootings and foundations shall be designed by a state licensed engineer or architect,\n                  and the plans shall be submitted with the permit application.\nException: Detached Group U Occupancies and minor additions to Group R-3, Occupancies.\n                  If the existing foundation for a building is performing adequately, foundations for\n                  additions may match the existing foundation type. An open hole soil's investigation\n                  by a state licensed engineer may be required.\nAll exterior walls shall be supported on continuous solid or fully grouted masonry\n                  or concrete footings, wood foundations, or other approved structural systems which\n                  shall be of sufficient design to accommodate all loads according to section R301 and\n                  to transmit the resulting loads to the soil within the limitations as determined from\n                  the character of the soil. Footings shall be supported on undisturbed natural soils\n                  or engineered fill. The base footing elevation, bottom of grade beam, bottom of pad\n                  or other portions of foundations except drilled piers to bedrock, shall be no less\n                  than three feet three (3) inches (991 mm) above ground water unless justified by the\n                  soil's engineer to the satisfaction of the building official.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-188"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "residential",
+      "water",
+      "fees",
+      "within",
+      "city",
+      "serving",
+      "facilities"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-161"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-161. - Residential water fees within city.",
+    "summary": "Water fees for serving residential facilities within the corporate limits of the city\n               are as follows:\n(1)\nTapping fee .....$60.00\n(2)\nInspection fee: .....\na.\n⅝″, ¾″ and 1″ meters .....$45.00\nb.\n1½″ and larger meters .....$80.00\n(3)\nWater system development charges determined from the…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-161. - Residential water fees within city.",
+        "a": "Water fees for serving residential facilities within the corporate limits of the city\n               are as follows:\n(1)\nTapping fee .....$60.00\n(2)\nInspection fee: .....\na.\n⅝″, ¾″ and 1″ meters .....$45.00\nb.\n1½″ and larger meters .....$80.00\n(3)\nWater system development charges determined from the following schedule:\nType of Residence\nPer Unit\na. Single-family\n$33,490.00\nb. Duplex\n$25,120.00\nc. Multifamily\n$16,750.00\n(4)\nMeter and tap size determined from the following schedule:*\nType of Residence\nMeter and Tap Size\na. Single-family\n⅝″ ×¾″ meter and ¾″ tap\nb. Duplex with individually connected units\n⅝″ × ¾″ meter and ¾″ tap\nDuplex with single service connection\n¾″ × ¾″ meter and ¾″tap\nc. Multifamily:\n1. 3—6 units\n1″ meter and 1″ tap\n2. 7—18 units\n1½″ meter and 1½″ tap\n3. 19 or more units\n2″ or larger meter and tap\n*A larger or smaller meter and equal tap size may be purchased and installed when\n               approved by the Utilities Director if the total peak demand flow of the property being\n               served, as calculated by the latest edition of the AWWA Manual M22, \"Sizing Water\n               Service Lines and Meters,\" which is hereby adopted by reference, justifies the change.\n               Calculations so made will be submitted to the Utilities Director for review and approval.\n(Code 1981, § 33-77; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, § 14, 10-16-1989;\n               Ord. No. 2763, § 3, 11-5-1990; Ord. No. 2823, § 11, 7-1-1991; Ord. No. 2931, § 10,\n               10-19-1992; Ord. No. 2938, § 1, 12-14-1992; Ord. No. 3127, § 10, 10-24-1994; Ord.\n               No. 3202, § 5, 8-7-1995; Ord. No. 3223, § 7, 10-23-1995; Ord. No. 3262, § 9, 4-15-1996;\n               Ord. No. 3297, § 1, 10-21-1996; Ord. No. 3403, § 15, 10-20-1997; Ord. No. 3489, §\n               1, 10-26-1998; Ord. No. 3560, § 3, 10-11-1999; Ord. No. 3650, § 1, 10-23-2000; Ord.\n               No. 3722, § 1, 10-8-2001; Ord. No. 3773, § 1, 10-21-2002; Ord. No. 3839, § 1, 10-13-2003;\n               Ord. No. 3920, § 1, 11-8-2004; Ord. No. 3969, § 1, 10-10-2005;\nOrd. No. 4027, § 1, 10-16-2006\n;\nOrd. No. 4099, § 1, 11-19-2007, eff. 1-1-2008\n;\nOrd. No. 4139, § 1, 11-17-2008, eff. 1-1-2009\n;\nOrd. No. 4184, § 2, 10-19-2009, eff. 1-1-2010\n;\nOrd. No. 4193, § 1, 1-11-2010, eff. 7-1-2010, 1-1-2011\n;\nOrd. No. 4361, § 1, 10-22-2012, eff. 1-1-2013\n;\nOrd. No. 4411, § 1, 10-21-2013, eff. 1-1-2014\n;\nOrd. No. 4465, § 1, 10-20-2014, eff. 1-1-2015\n;\nOrd. No. 4524, § 1, 10-19-2015, eff. 1-1-2016\n;\nOrd. No. 4571, § 1, eff. 1-1-2017\n; Ord. No. 4819, § 16, 10-17-2022, eff. 7-1-2023; Ord. No.\n4854\n, § 1, 9-11-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-161"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

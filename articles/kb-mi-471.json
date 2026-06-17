@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "research",
+      "development",
+      "equipment",
+      "experimental",
+      "code",
+      "exclusively",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/369/Research-Development"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-471",
+    "spreadsheet_id": "MI-471",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Research & Development",
+    "summary": "Research and Development in Arvada is defined as the exploration of new technologies and the creation of experimental materials or processes. Equipment used exclusively for these purposes is exempt from sales and use tax if its purchase price exceeds $100 per item and $1,000 annually, though this exemption does not apply to prototypes, which incur use tax on materials used in their production. Once prototypes are manufactured for resale, they become taxable goods.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) defines Research and Development as the research of new or experimental technologies, or the development of new or experimental materials, product components, or manufacturing processes. Research and development equipment is:\n\n- Equipment used permanently and exclusively in the research of new or experimental technologies\n- Equipment used exclusively and directly in the development of new or experimental materials, products, product components, or manufacturing processes\n- Research and development equipment does not include research and development product prototypes.\n\nResearch and development equipment that is sold or leased when the purchase price of each piece of equipment is $100 or more and the aggregate purchase price for all such pieces of equipment is over $1,000 annually is exempt from sales and use tax. For purposes of determining the purchase price, each piece of equipment shall be considered separately.\n\nThe research and development equipment exemption does not extend to a prototype that is manufactured. The researcher or taxpayer that is building a prototype owes use tax on the materials, parts, and supplies used in the production of the prototype. If prototypes are later put into inventory and later sold, it is also subject to sales tax when sold.\n\n## Example\n\nABC Manufacturing hired an R and D Specialist to produce a prototype of their new product, the \"Super Vac.\" ABC removes parts from its inventory and orders special parts to give to R and D specialists for the production of the new Super Vac. If the prototype remains only a prototype, then sales and/or use tax is due on the parts used to build the prototype. However, once the Super Vac prototype has been perfected and ABC starts manufacturing the Super Vac then they are no longer prototypes, but manufactured goods for resale.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

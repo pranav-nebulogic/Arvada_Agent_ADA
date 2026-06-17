@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "qualifications",
+      "hereby",
+      "amended",
+      "entirety",
+      "read",
+      "follows"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-39"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-39. - I.F.C. Section 109.3, Qualifications.",
+    "summary": "Section 109.3. Qualifications\n, is hereby amended in its entirety to read as follows:\n\"\n108.3. Qualifications.\nQualifications of the members of the BCAB shall be as set forth in\nSection 18-36\nof the administrative code, as amended, in Article II\nChapter 18\nof the Arvada City Code.\"\n(Ord. No.\n4739\n, …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-39. - I.F.C. Section 109.3, Qualifications.",
+        "a": "Section 109.3. Qualifications\n, is hereby amended in its entirety to read as follows:\n\"\n108.3. Qualifications.\nQualifications of the members of the BCAB shall be as set forth in\nSection 18-36\nof the administrative code, as amended, in Article II\nChapter 18\nof the Arvada City Code.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-39"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

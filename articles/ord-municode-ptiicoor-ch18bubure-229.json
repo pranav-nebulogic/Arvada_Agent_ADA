@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "removal",
+      "rubbish",
+      "garbage",
+      "hereby",
+      "added",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-516"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-516. - I.P.M.C. Section 308.4, Removal of rubbish or garbage.",
+    "summary": "Section 308.4. Removal of rubbish or garbage,\nis hereby added to read as follows:\n\"\n308.4. Removal of rubbish or garbage.\nThe owner, lessee, tenant or any other person having the right to possession of all\n                  or a portion of any premises shall provide for the removal of all rubbish or…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-516. - I.P.M.C. Section 308.4, Removal of rubbish or garbage.",
+        "a": "Section 308.4. Removal of rubbish or garbage,\nis hereby added to read as follows:\n\"\n308.4. Removal of rubbish or garbage.\nThe owner, lessee, tenant or any other person having the right to possession of all\n                  or a portion of any premises shall provide for the removal of all rubbish or garbage\n                  from the premises at regular intervals. Removal of rubbish or garbage shall occur\n                  no less than once every thirty days, or more often if necessary to prevent a nuisance.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-516"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

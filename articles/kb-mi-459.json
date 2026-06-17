@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "registering",
+      "offender",
+      "department",
+      "police",
+      "contact",
+      "town",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/539/Registering-as-a-Sex-Offender"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-459",
+    "spreadsheet_id": "MI-459",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Registering as a Sex Offender",
+    "summary": "Registered sex offenders must register with the local police department or county sheriff's department depending on their residence. Registration requires an appointment, proof of residence, a photo ID, and payment of fees, which vary based on the type of registration. Offenders are required to register until they obtain a court order for discontinuation, with registration durations varying based on the conviction.",
+    "body": "Be aware that the police department will not contact you over the phone, as a registered sex offender, and request money. The police department will not ask you to fax or mail your registration forms to the department. If you are contacted and have any questions, contact the Sex Offender Unit at 720-898-6578.\n\nA sex offender must register at the local police department if residing within a city or town, or at the county sheriff's department if they are living outside the limits of a city or town. If multiple residences are maintained, registration is required with the law enforcement agency of each jurisdiction of residence.\n\n## Schedule an Appointment to Register\n\nYou must schedule a registration appointment by calling 720-898-6578.\n\n### What to Bring\n\n- Proof of residence (such as utility bill, water bill or lease agreement)\n- Photo ID (driver's license, passport or state issued identification card)\n- Payment for registration (cash, personal check, or money order)\n\n### Registration Fees\n\n- Initial registration is $60 unless you are classified as a Sexually Violent Predator (SVP) which is $75.\n- Quarterly registration is $25.\n- Annual registration is $25, due during the month of your birth date.\n\n### When Registration is No Longer Required\n\nAll sex offenders must register until they get a court order to discontinue registration. Typically, a juvenile may petition the court to discontinue registration upon completion of supervision. Adult convictions require registration for 5, 10, 20 years, or for life. For more information, visit the [State of Colorado Courts page](http://www.courts.state.co.us/).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

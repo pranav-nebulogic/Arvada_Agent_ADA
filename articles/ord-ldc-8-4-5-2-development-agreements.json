@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "development",
+      "agreements",
+      "generally",
+      "agreement",
+      "used",
+      "establish",
+      "terms",
+      "conditions",
+      "installation",
+      "public"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-5-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-5. DEVELOPMENT-RELATED AGREEMENTS AND COVENANTS"
+  },
+  "content": {
+    "title": "8-4-5-2. Development agreements.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-5-2. Development agreements.",
+        "a": "A.\tGenerally. A development agreement may be used to establish the terms and conditions for the installation of public improvements and landscaping, to provide security and warranties for same, to provide for phasing of development, to provide for vesting of development rights, to provide for the dedication of property and/or the payment of fees-in-lieu, to provide for the payment of other development-related fees, to provide for the terms of a public-private partnership or economic development incentive, or to provide for such other matters as may be lawful and appropriate for inclusion in an agreement between a landowner and the City with respect to development. Development agreements may have a variety of titles, including but not limited to \"development agreements,\" \"subdivider's agreements,\" \"vested rights agreements,\" \"early vested rights agreements,\" or \"incentive agreements.\"\nB.\tMajor Subdivision Final Plats and Minor Subdivision Plats. Prior to approval of a major subdivision final plat or minor subdivision plat, the Applicant shall submit an executed development agreement to the City, if required.\n  1.\tThe development agreement shall contain any conditions that are required by the Director for the health, safety, and welfare of the community.\n  2.\tThe development agreement shall provide, at a minimum, that:\n    a.\tThe owner/developer will, at its own expense, furnish and install the streets, water lines, sidewalks, street lights, sanitary sewer mains, storm drains, storm drainage structures, bridge and irrigation ditch structures, and other improvements as may be necessary, in accordance with the procedures, plans, and specifications approved by the City;\n    b.\tThe owner/developer will file with the City a copy of the as-built construction plans of said public improvements upon completion;\n    c.\tAny contractor or subcontractor employed by the owner/developer will be licensed by the City before the contractor or subcontractor commences work on any of the improvements contemplated within the agreement;\n    d.\tEvery reasonable effort will be made by the owner/developer to maintain all streets located within the subdivision in which the improvements are to be installed in a reasonably safe and passable condition during the course of contemplated work. If for any reason, the construction of the streets provided for in the development agreement is delayed until the structures or dwelling units are occupied, then the owner/developer agrees to maintain sufficient streets in such subdivision used by the occupants of any such structures or dwelling units in a reasonable, suitable, and proper condition to provide for travel, ingress, and egress, and to continue said maintenance until such time as the hard surface shall be completed and accepted for maintenance by the City;\n    e.\tAll improvements constructed by the owner/developer in public rights-of-way, easements, streets, or alleys shall become the property of the City immediately upon acceptance of said improvements by the City, and the owner/developer shall warrant said improvements for two years from the date of acceptance by the City.\nC.\tOther Uses. A development agreement may be associated with other approvals granted pursuant to this LDC, to the extent that such approvals involve topics described in Subsection A., above.\nD.\tAgreement to Run with the Land. All provisions and conditions contained in a development agreement shall constitute a covenant running with the land and shall be binding upon the heirs, successors and assigns of the parties to the agreement. However, the development agreement may exempt the purchasers of developed lots (or vacant finished lots that are intended for development with single-family or duplex dwelling units) from all or a portion of its terms."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-5-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

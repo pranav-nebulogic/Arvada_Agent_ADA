@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "interest",
+      "deficiency",
+      "computation",
+      "finance",
+      "director",
+      "shall",
+      "soon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-71"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-71. - Interest on deficiency; computation.",
+    "summary": "The finance director shall, as soon as practical after receipt of a taxpayer's report\n               under this article, re-compute the tax by the use of known and visible factors; and\n               if the resulting recomputed tax is less than that shown and paid by the taxpayer,\n               the…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-71. - Interest on deficiency; computation.",
+        "a": "The finance director shall, as soon as practical after receipt of a taxpayer's report\n               under this article, re-compute the tax by the use of known and visible factors; and\n               if the resulting recomputed tax is less than that shown and paid by the taxpayer,\n               the difference shall be refunded. A claim for refund must be submitted by the taxpayer\n               to request credit. The refunded amount will be net of any vendor fee retained and\n               will not accrue interest. If the recomputed tax is more than that shown and paid by\n               the taxpayer, the difference shall be recorded as a deficiency together with interest\n               at the rate of one percent per month, or fractional part thereof. The taxpayer shall\n               be notified of the deficiency, the amount thereof and interest thereon. The payment\n               due date for the total tax liability pursuant to a notice of assessment shall be 30\n               calendar days after the date of the notice of assessment. Interest properly assessed\n               on any tax deficiency shall not be abated.\n(Code 1981, § 31-46; Ord. No. 3783, § 2, 12-16-2002;\nOrd. No. 4317, § 9, 3-5-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-71"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

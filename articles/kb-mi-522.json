@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "stocke",
+      "walter",
+      "addition",
+      "historic",
+      "district",
+      "neighborhood",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/430/Stocke-Walter-Addition-Historic-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-522",
+    "spreadsheet_id": "MI-522",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Stocke-Walter Addition Historic District",
+    "summary": "The Stocke-Walter Addition Historic District, located east of the Arvada Downtown Historic District, features a single-family neighborhood with significant historic resources, including homes from the early 20th century. Platted in 1904 and 1920, the area showcases a mix of lot sizes and architectural styles, such as cottages, bungalows, and Queen Anne detailing. In 2009, a Final Development Plan was approved to establish specific design criteria for the district's development.",
+    "body": "Located immediately to the east of the Arvada Downtown Historic District, the Stocke-Walter Addition Historic District is another single-family neighborhood containing important historic resources. The Stocke Addition was formally platted in 1904, and the Walter subdivision in 1920. Development of the neighborhood was aided by its proximity to the interurban electric railway which ran just to the west. The neighborhood is distinguished by the varied size of its lots, with several substantial tracts reflecting Arvada's agricultural heritage. Most residences are wood framed. Cottages and Bungalows are common, with several of the large late 19th-century homes along Grandview Avenue reflecting Queen Anne detailing. In 2009, a [Final Development Plan (PDF)](/DocumentCenter/View/434) was approved for the district requiring specific dimensional and design criteria for existing and new development.\n\n![Map showing general boundaries from Ralston Rd to Granview Ave and Wadsworth Bypass to Newland Way](/ImageRepository/Document?documentId=435)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,33 @@
+# requirements-agent.txt
+# Runtime-only dependencies for the agent API (excludes scraper/ingest tools:
+# playwright, pdfplumber, beautifulsoup4, lxml). Python 3.11+.
+
+# ── Agent framework ────────────────────────────────────────────────────────
+langgraph>=0.3.0
+langchain-core>=0.3.0
+
+# ── API ────────────────────────────────────────────────────────────────────
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+
+# ── Database ─────────────────────────────────────────────────────────────────
+asyncpg>=0.30.0
+pgvector>=0.3.0
+
+# ── Cache ────────────────────────────────────────────────────────────────────
+redis>=5.0.0
+redisvl>=0.3.0
+
+# ── LLM / HTTP ───────────────────────────────────────────────────────────────
+openai>=1.50.0
+httpx>=0.27.0
+
+# ── Resilience / observability ───────────────────────────────────────────────
+tenacity>=8.0.0
+langfuse>=2.0.0
+structlog>=24.0.0
+
+# ── Config ───────────────────────────────────────────────────────────────────
+pydantic>=2.7.0
+pydantic-settings>=2.3.0
+python-dotenv>=1.0.0

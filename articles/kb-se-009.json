@@ -1,0 +1,46 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "events",
+    "tags": [
+      "Tent permit",
+      "Temporary membrane structures",
+      "Special Event with tents",
+      "Special Event Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/670/Special-Event-Permit-for-All-Other-Event"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/events/se-009",
+    "spreadsheet_id": "SE-009",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Tent Permit",
+    "summary": "The City of Arvada mandates a tent permit for events featuring tents or temporary structures over 400 square feet, or smaller tents clustered together unless separated by a 12-foot gap. Open-sided tents are exempt unless they exceed 700 square feet. To apply for a permit, individuals must complete a specific form, and the Arvada Fire Protection District will review applications for fire code compliance.",
+    "body": "The City of Arvada requires a tent permit if your event includes use of tents or temporary membrane structures that exceed 400 square-feet in area or any combination of smaller tents clustered together meeting the requirements above, will also need a permit: unless there is a 12 foot break between a cluster of smaller tents so that they do not exceed the 400 or 700 square foot requirement.\n\nException: Tents that are open on all sides do not require a permit unless they exceed 700 square-feet in area.\n\nIn order to apply for a Tent Permit, you will need to complete a Commercial Tenant Finish / Miscellaneous form.\n\nThe Arvada Fire Protection District (AFPD) will review the permit application for compliance with the City of Arvada adopted Fire Code. Please visit Arvada Fire Protection District to view the fire safety requirements. For more information call 303-424-3012.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

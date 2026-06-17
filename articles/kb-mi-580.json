@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "veterinarians",
+      "code",
+      "personal",
+      "property",
+      "tangible",
+      "upon",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/390/Veterinarians"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-580",
+    "spreadsheet_id": "MI-580",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Veterinarians",
+    "summary": "All veterinarians operating in Arvada must be licensed for sales/use tax, which applies to the sale of tangible personal property such as pet food and supplies, while health care services for animals are exempt from tax. Items purchased for resale by veterinarians are taxable upon sale, and certain medical supplies and prescription drugs are also exempt from sales tax. Tax must be paid on office supplies and equipment, and items given away for goodwill are taxable unless received as free samples.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property and certain taxable services in the City by the ultimate user or consumer. This also includes a use tax upon using, storing, distributing, or otherwise consuming in the City any article of tangible personal property purchased, leased, or rented from sources outside the City on which a lawfully imposed sales tax has not been paid.\n\nAll veterinarians providing services in the City must be licensed with the City for sales/use tax. This includes mobile veterinarians coming into the City even though their office location is outside the City.\n\nThe service of providing health care for non-humans is not subject to tax.\n\n## Taxable Sales\n\nExamples include, but are not limited to:\n\n- All pet food (even those for prescribed diets)\n- Collars\n- Leashes\n- Pet caddies\n- Plastic Elizabethan collars\n- Shampoos\n- Supplements and vitamins\n- Other pet supplies\n- The veterinarian may purchase these items for resale and sales tax is due when these items are sold to the customer\n\n## Non-Taxable Services\n\nExamples include, but are not limited to:\n\n- Inpatient service\n- Grooming\n- Boarding and kennel services\n- Breeding\n- Laboratory charges\n- Radiology\n- Hospitalization\n- Surgery\n\n## Exempt Purchases\n\nAll sales of prosthetic devices, therapeutic devices, or medical supplies that are sold in accordance with a written recommendation of a licensed practitioner or furnished as part of the professional services provided to the patient are exempt from Arvada sales tax or use tax. See the Arvada Tax Guide Topic - Medical Exemptions for further clarification.\n\n- A veterinarian may purchase the following items under the medical supply exemption when used by them in the connection with performing their services if such items are injected or placed on the animal\n- Bandages\n- Casting materials\n- Dressings\n- Drugs (In order to qualify, the drug must be required to bear the symbol \"Rx Only\" prior to dispensing under the Federal Food Drug and Cosmetic Act)\n- Splints or Sutures\n\nPrescription drugs can either be dispensed (sold at retail) directly to a pet guardian by a veterinarian or from pharmacy and are exempt from sales and use tax. Prescription drugs can also be administered (injected, provided orally or applied to an animal) when providing veterinarian service and would also be exempt from sales and use tax.\n\n## Taxable Purchases\n\nYou must pay sales tax when you buy items such as office equipment, furniture, stationery and other office supplies, and certain services. Examples include, but are not limited to:\n\n- Appointment books\n- Appointment cards\n- Books\n- Brochures\n- Business cards\n- Calculators\n- Computers and computer accessories\n- Credit card machines\n- Disinfectant\n- Equipment repair parts\n- Exam tables\n- Greeting cards and postcards\n- Magazine subscriptions\n- Manuals\n- Office furniture\n- Office Supplies\n- Pamphlets\n- Posters\n- Signs\n- Software\n- Stickers\n- Surgical supplies and equipment\n- Televisions\n- Testing supplies and equipment\n- Tissues\n- Uniforms\n- VCR's\n- Videos\n- X-ray machines, chemicals, film, and screens\n\n## Items Given Away\n\nTaxable items given to customers as part of a service for goodwill purposes or donated to a charitable or civic organization are taxable to the veterinarian. This includes items such as animal treats, information pamphlets, rabies tags, carrying boxes, and leashes. Also, pet food purchased for resale that is used in the services for providing kennel or boarding services or overnight hospital stays would also be taxable to the veterinarian. No use tax is due if the items given away have been received from a vendor as a free sample or promotion item and no consideration was given by the veterinarian.\n\n## Example\n\nA dog is brought into a veterinarian's office for a shin infection and the guardian also requests the dog be vaccinated. The veterinarian cleans the wound and applies an antibiotic and bandages to the dog. The dog is also vaccinated. The bill to the guardian lists vaccination for $25, office visits for $60, and a plastic E-collar for $10. Tax must be charged on the bill for the E-collar since this is a retail sale, but the vaccination, antibiotic, and bandages used in the office are medical supplies and fall under the medical exemption. Any items used by the veterinarian such as gloves, swabs, and cotton balls are consumed and are subject to use tax. The office visit is a non-taxable service.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

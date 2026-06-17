@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "protection",
+      "irrigation",
+      "canals",
+      "ditches",
+      "where",
+      "canal",
+      "ditch",
+      "adjacent",
+      "traverses",
+      "subject"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-5-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-5. IRRIGATION CANALS AND DITCHES"
+  },
+  "content": {
+    "title": "4-1-5-1. Protection of irrigation canals and ditches.",
+    "summary": "Where an irrigation canal or irrigation ditch is adjacent to or traverses a subject property, the City may require the Applicant to install walls, fences, or other methods for protective covering separating the lot or lots therefrom.\n(Ord. No. 4867, § 2, 2-12-2024)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-5-1. Protection of irrigation canals and ditches.",
+        "a": "Where an irrigation canal or irrigation ditch is adjacent to or traverses a subject property, the City may require the Applicant to install walls, fences, or other methods for protective covering separating the lot or lots therefrom.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

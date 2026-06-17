@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "illegally",
+      "parked",
+      "vehicles",
+      "whenever",
+      "any",
+      "vehicle"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-152"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-152. - Notice of illegally parked vehicles.",
+    "summary": "Whenever any vehicle is found to be stopped, standing, or parked in violation of any\n               restriction imposed by this Code, any police officer, any employee of the city, parking\n               enforcement operator hired by the city, or other person designated by the chief of\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-152. - Notice of illegally parked vehicles.",
+        "a": "Whenever any vehicle is found to be stopped, standing, or parked in violation of any\n               restriction imposed by this Code, any police officer, any employee of the city, parking\n               enforcement operator hired by the city, or other person designated by the chief of\n               police to issue parking citations finding such vehicle may take its registration or\n               identification number or any other information displayed on the vehicle that may identify\n               its owner, and shall affix to the windshield or other conspicuous place on the vehicle\n               a civil parking citation. The leaving of such parking citation constitutes sufficient\n               notice to the registered owner or driver of the violation.\nAny parking citation issued for a parking violation pursuant to this division shall\n               contain the following statement: \"Any vehicle parked in violation of local parking\n               laws may be towed without further notice.\"\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-152"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

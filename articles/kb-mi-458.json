@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "regional",
+      "trails",
+      "trail",
+      "creek",
+      "eastward",
+      "open",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/866/Regional-Trails"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-458",
+    "spreadsheet_id": "MI-458",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Regional Trails",
+    "summary": "Regional trails in Arvada connect to neighboring cities and counties, including the Big Dry Creek Trail and the Rocky Mountain Greenway Trail. The Big Dry Creek Trail spans 3.2 miles within city limits, linking neighborhoods and parks while allowing equestrian use, and is planned to extend toward Standley Lake. The Rocky Mountain Greenway Trail, a collaborative project aimed at connecting Urban National Wildlife Refuges, runs approximately 27 miles with 4.5 miles located in Arvada, linking various natural areas.",
+    "body": "Regional trails link to other cities and counties outside Arvada's boundaries.\n\n## Big Dry Creek Trail\n\nThis regional trail starts at one end in northwest Arvada and follows its namesake waterway through neighborhoods and past multiple parks and open spaces as it flows eastward. Existing and planned underpasses allow users to avoid street crossings and enjoy the continuity of open space scenery.\n\nBig Dry Creek Trail is planned to connect eastward toward Standley Lake, eventually tying into the regional route that extends east through multiple cities. Equestrian use permitted.\n\nWithin city limits, Big Dry Creek trail includes 2.7 miles west of Indiana Street and 0.5 miles east of Indiana Street.\n\n## Rocky Mountain Greenway Trail\n\nThis ambitious regional trail project is the result of a partnership between participating cities and the federal government to connect three Urban National Wildlife Refuges in the metro area with a single scenic trail route. Starting at Rocky Mountain Arsenal National Wildlife Refuge, the trail winds west into Arvada through Two Ponds National Wildlife Refuge before bearing north and west through preserved park and open space and terminating at the eastern edge of Rocky Flats National Wildlife Refuge.\n\nThe entire Rocky Mountain Greenway Trail is approximately 27 miles in total length, from Rocky Mountain Arsenal National Wildlife Refuge in Adams County to the east, to Rocky Flats National Wildlife Refuge in Jefferson County to the west. The Rocky Mountain Greenway Trail has 4.5 miles in the City of Arvada.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

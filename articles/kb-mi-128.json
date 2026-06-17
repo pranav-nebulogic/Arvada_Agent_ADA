@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "council",
+      "meeting",
+      "videos",
+      "youtube",
+      "https",
+      "lbngkmmgs",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/706/City-Council-Meeting-Videos"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-128",
+    "spreadsheet_id": "MI-128",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "City Council Meeting Videos",
+    "summary": "The Arvada City Council provides videos of their meetings, which can be accessed on their YouTube channel, including both recent and historical content. Live streams of the meetings are available for viewing, and any issues with the streaming can be reported to KATV Channel 8 through the Ask Arvada platform.",
+    "body": "## More videos available:\n\n- [Arvada City Council Meetings on YouTube](https://www.youtube.com/playlist?list=PLJq_TITOXij3LbNGKMmgS8uqolIBz5bye)\n- Please [browse our YouTube channel](https://www.youtube.com/user/cityofarvada) to see new, popular, and historical videos.\n\nThis is the most recent City Council Meeting video. To see more, visit [Arvada City Council Meetings, on YouTube](https://www.youtube.com/playlist?list=PLJq_TITOXij3LbNGKMmgS8uqolIBz5bye).\n\n## Watch Live\n\nThe live stream is viewable during City Council Meetings.\n\n[Watch the Livestream](https://katv.arvada.org/cablecastapi/live?channel_id=1&use_cdn=false)\n\nIf you experience problems with the streaming content below, please [contact KATV Channel 8 using Ask Arvada](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

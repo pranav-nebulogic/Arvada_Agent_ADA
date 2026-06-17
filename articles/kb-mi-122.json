@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "christmas",
+      "tree",
+      "recycling",
+      "drop",
+      "free",
+      "mulch",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/717/Christmas-Tree-Recycling"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-122",
+    "spreadsheet_id": "MI-122",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Christmas Tree Recycling",
+    "summary": "Arvada residents can recycle their Christmas trees for free at Stenger Sports Complex from December 26, 2025, to January 19, 2026, daily from 6:30 a.m. to 5:30 p.m. Trees must be free of decorations, nails, and wire, and the city does not accept garlands, wreaths, or yard waste. Free mulch will be available at the drop-off site, but residents must load and transport it themselves.",
+    "body": "![](/ImageRepository/Document?documentId=2662)Each year the City offers free Christmas tree recycling for Arvada residents at Stenger Sports Complex.\n\nThe drop-off site is located at the at the southwest corner of the W 58th Ave. and Oak St. intersection (view map below).\n\n   \n\nMulch is made available free of charge at the drop-off site location during the collection period. Residents are responsible for loading and hauling their own mulch.\n\n## Christmas tree recycling dates\n\n- Dec. 26, 2025 through Jan. 19, 2026\n- Times: 6:30 a.m. to 5:30 p.m., seven days a week\n\n## Guidelines for Christmas tree recycling\n\n- Please make sure the tree is free of nails, wire and all decorations to ensure safety of City staff handling the trees.\n- We do not accept garlands, wreaths, or yard waste.\n- Business or commercial use not permitted.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

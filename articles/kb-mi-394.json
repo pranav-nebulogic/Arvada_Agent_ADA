@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "parking",
+      "tickets",
+      "issued",
+      "civil",
+      "ambassadors",
+      "citations",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/401/Parking-Tickets"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-394",
+    "spreadsheet_id": "MI-394",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Parking Tickets",
+    "summary": "Parking tickets in Arvada can be classified as either Civil Citations, issued by City Parking Ambassadors, or Traffic Violations, issued by the Arvada Police Department. Civil Citations can be resolved online without a court appearance, while Traffic Violations require court processing and may lead to warrants if not addressed. Payments for both types of tickets can be made online or via mail, with specific procedures outlined for appealing Civil Citations.",
+    "body": "Parking tickets in Arvada may be issued for a **Civil Citation** (issued by City Parking Ambassadors) or a **Traffic Violation** (issued by the Arvada Police Department). To determine which type of ticket you have been issued, look closely at your ticket.\n\n## Civil Citations\n\nCivil Citations are issued by **City Parking Ambassadors,**typically in our Olde Town District, and result in a fine. The remedy does not require a court appearance and can be handled entirely online. Examples of civil citations include:\n\n- Violating a timed parking limitation\n- Not paying for parking when required\n- Stopping or standing in a restricted area\n- Parking on private property without permission\n- Not occupying a single parking space\n\n### Pay a Civil Citation\n\n- [Online Payments](https://arvada.rmcpay.com/)\n- Mail-in Payments\n  - City of Arvada attn: Parking Program  \n    8101 Ralston Rd.   \n    Arvada, CO 80002\n- In-person payments are not accepted\n- Appeal\n  - Appealing a citation may involve a three-step process:\n    1. [Submit the appeal online](https://arvada.rmcpay.com/) within 15 days of receipt (no appeals accepted after this grace period)\n    2. If the appeal is denied, complete the [Parking Citation Dispute Form](https://arvada-forms.app.transform.civicplus.com/forms/33054) within 10 calendar days of receiving the denial.\n    3. If the second appeal is denied, [email a formal letter to our hearing officer](/cdn-cgi/l/email-protection#afccc6dbcedbc6c0c1cedfdfcacec3efceddd9cecbce81c0ddc8) within 10 days of receiving the second denial.\n\n## Parking Tickets (Traffic Violations)\n\nA municipal traffic citation is a violation of the Model Traffic Code and includes handicapped parking violations, fire zone parking violations, parking more than twelve inches from the curb, or parking too close to a fire hydrant. Citations are issued by the Arvada Police Department and are processed through the court system. Failure to respond to a traffic violation may result in a warrant being issued.\n\nTo pay a Parking Ticket (Traffic Violation) issued by the Arvada Police Department, follow these steps:\n\n- [Online Payments](https://www.citepayusa.com/payments/lookup.do)\n- Mail-in or Pay in Person\n  - Arvada Municipal Court  \n    Arvada City Hall  \n    8101 Ralston Road  \n    Arvada, CO 80002",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

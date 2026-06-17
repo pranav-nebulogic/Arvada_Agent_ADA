@@ -1,0 +1,79 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "license",
+    "permit_type": "business_license",
+    "category": "business",
+    "source_urls": [
+      "https://www.arvadaco.gov/253/Business-Licenses"
+    ],
+    "scraped_at": "2026-06-10T11:01:03.274048+00:00",
+    "content_hash": "f0ed491e6aa350aee408e9cea120a8409c112cfc29e7d070300870337296b78e",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Business Licenses in the City of Arvada, CO",
+    "summary": "The City of Arvada requires a business license for any business located within the city or conducting sales, leasing, renting, delivery, or installation of tangible personal property in the city. Business licenses are free, do not expire except for food trucks and short-term rentals, and include a sales and use tax account for tax filing purposes.",
+    "eligibility": "Any business located in the City of Arvada or conducting business activities such as selling, leasing, renting, delivering, or installing tangible personal property within the city.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Confirm Zoning Approval",
+        "text": "If your business will be physically located in the City of Arvada, it must be approved by the Planning department before a business license can be issued. Confirm the zoning of your intended location by calling Planning at 720-898-7435 or emailing planning@arvada.org.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Apply for a Business License",
+        "text": "Apply for a business license using the MUNIRevs web portal. Business licenses are free and do not expire except for food trucks and short-term rentals, which expire annually.",
+        "portal_url": "https://www.arvadaco.gov/253/Business-Licenses"
+      },
+      {
+        "n": 3,
+        "title": "File Sales and Use Tax Returns",
+        "text": "Once a business license has been issued, you will be assigned a sales and use tax return that you are required to file in order to keep your license active.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Close a Business License",
+        "text": "If you need to close your account and it is current, use the Business License Closure form. You cannot close a delinquent account until all returns have been filed and paid. You are required to file your final return and close your account within 10 days after closure.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "Business License Fee",
+        "amount": "Free",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Planning Department and Revenue Department",
+      "phone": "720-898-7435 (Planning), 720-898-7100 (Revenue)",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Sales and Use Tax Account"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1821
+}

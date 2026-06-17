@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "additional",
+      "security",
+      "city",
+      "shall",
+      "additionally",
+      "secure",
+      "payment"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-90"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-90. - Additional security.",
+    "summary": "(a)\nThe city shall additionally secure the payment of the bonds appertaining to any district\n               as herein provided.\n(b)\nWhenever there is a deficiency in any improvement district to meet payment of outstanding\n               bonds and interest due thereon, it shall be paid out of the cit…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-90. - Additional security.",
+        "a": "(a)\nThe city shall additionally secure the payment of the bonds appertaining to any district\n               as herein provided.\n(b)\nWhenever there is a deficiency in any improvement district to meet payment of outstanding\n               bonds and interest due thereon, it shall be paid out of the city's special surplus\n               and deficiency fund.\n(c)\nWhenever:\n(1)\nA public improvement district has paid and cancelled four-fifths of its outstanding\n               bonds; and\n(2)\nFor any reason the remaining assessments are not paid in time to take up the final\n               bonds of the district and the interest due thereon; and\n(3)\nThere is not sufficient money in said special surplus and deficiency fund;\nthen the city shall pay said bonds when due and the interest due thereon and reimburse\n               itself by collecting the unpaid assessments due said district.\n(d)\nWhen all outstanding bonds have been paid in a public improvement district and any\n               money remains to the credit of said district, it shall be transferred to the special\n               surplus and deficiency fund, as provided in section\n11.10\nof the Charter.\n(Code 1981, § 27-91; Ord. No. 551, § 31, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-90"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

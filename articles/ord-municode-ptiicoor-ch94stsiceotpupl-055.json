@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "measurement",
+      "sight",
+      "distance",
+      "shall",
+      "measured",
+      "center",
+      "approach"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-164"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-164. - Measurement.",
+    "summary": "Sight distance shall be measured from the center of the approach lane at a point 15\n               feet behind the curbline to the center of the nearest approaching traffic lane for\n               each direction. (See example below)\n(Code 1981, § 30-149; Ord. No. 1544, § 5(B), 3-19-1979)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-164. - Measurement.",
+        "a": "Sight distance shall be measured from the center of the approach lane at a point 15\n               feet behind the curbline to the center of the nearest approaching traffic lane for\n               each direction. (See example below)\n(Code 1981, § 30-149; Ord. No. 1544, § 5(B), 3-19-1979)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-164"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

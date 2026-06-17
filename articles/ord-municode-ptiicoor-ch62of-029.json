@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "cruelty",
+      "police",
+      "dogs",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-59"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-59. - Cruelty to police dogs.",
+    "summary": "(a)\nIt shall be unlawful for any person to antagonize, agitate, beat, kick, strike, torture,\n               torment, mutilate, injure, disable or kill any dog used by the police department of\n               this city when such dog is being used in the performance of the functions or duties\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-59. - Cruelty to police dogs.",
+        "a": "(a)\nIt shall be unlawful for any person to antagonize, agitate, beat, kick, strike, torture,\n               torment, mutilate, injure, disable or kill any dog used by the police department of\n               this city when such dog is being used in the performance of the functions or duties\n               of such department.\n(b)\nCruelty to police dogs shall be punishable by a fine not to exceed the limits established\n               in\nsection 1-5\n.\n(Code 1981, § 21-29; Ord. No. 2280, § 1, 4-7-1986; Ord. No. 2297, § 19, 5-5-1986)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-59"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

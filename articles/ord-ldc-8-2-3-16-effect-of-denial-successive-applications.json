@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "effect",
+      "denial",
+      "successive",
+      "applications",
+      "generally",
+      "policy",
+      "city",
+      "allow",
+      "same",
+      "development"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-16"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-16. Effect of denial; successive applications.",
+    "summary": "A.\tGenerally. It is the policy of the City not to allow successive applications for the same development approval after an application is denied.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-16. Effect of denial; successive applications.",
+        "a": "A.\tGenerally. It is the policy of the City not to allow successive applications for the same development approval after an application is denied. The provisions of this Section as intended to limit the consideration of successive applications.\nB.\tMinimum Interval between Submittal of Substantially Similar Applications. If an application is denied, the City shall not accept any application that is substantially similar to the denied application as determined by the Director for a period of 12 months, unless:\n  1.\tAfter the application is denied, the City amends the applicable provisions in this LDC in a manner that could reasonably allow for approval of the application; or\n  2.\tThe City Council waives the minimum interval requirement of this Section for good cause shown; or\n  3.\tThe denied application is for a sign permit, Wireless Communication Facility, or Small Cell facility."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-16"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

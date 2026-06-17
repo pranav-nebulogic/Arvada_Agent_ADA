@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "auto",
+      "theft",
+      "reduction",
+      "recovery",
+      "program",
+      "colorado",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1147/Auto-Theft-Reduction-Recovery-Program"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-085",
+    "spreadsheet_id": "MI-085",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Auto Theft Reduction & Recovery Program",
+    "summary": "The Arvada Police Department, with support from the Colorado Auto Theft Prevention Authority, is offering a free vehicle tracker program aimed at reducing auto theft. Community members who live or work in Arvada, are recent theft victims, or own a vehicle from the top 10 most stolen list can participate by completing an online registration form and scheduling an installation appointment. Each household is limited to one tracker, which will be discreetly installed, and participants are responsible for battery replacements and must report any theft to law enforcement.",
+    "body": "**There are currently no upcoming Program events scheduled. Check back here for future opportunities to participate.**\n\nThe Arvada Police Department has received funding and support from the Colorado Auto Theft Prevention Authority (CATPA) and the Colorado Metropolitan Auto Theft Taskforce (CMATT) to create programs that prevent auto theft and support enforcement efforts.\n\nAs part of this initiative, the Arvada PD Auto Theft Reduction & Recovery Program is offering a limited number of free vehicle trackers to community members who:\n\n1. Live or work in Arvada, or\n2. Are recent auto theft victims, or\n3. Own a vehicle on CATPA's [top 10 most stolen vehicles list](https://lockdownyourcar.org/facts/)\n\nTo participate in the program, the registered owner of the vehicle must complete an online registration form. On the form you will need to provide your personal and vehicle details, agree to the program agreement and consent form, and schedule a 15 minute appointment at one of the installation events.\n\n## Program Details\n\n- Participation is limited to one vehicle per household\n- Participants can choose their preferred type of tracking device, either an Apple AirTag or a Tile\n- The tracker will be installed by Arvada PD employees in a discreet location in the participant's vehicle\n- Participants will be responsible for replacing the tracker's battery as necessary\n- Arvada PD will not have access to the tracker's location information once a participant registers it\n- The trackers are provided solely for auto theft prevention and recovery and may not be used for any other purpose\n- If a tracker equipped vehicle is stolen, the participant must contact law enforcement and provide the tracker's location\n- Participants will receive a warning decal for their vehicle to deter theft\n- Participants must complete all registrations steps on the online form and schedule an appointment\n\n## Participant Registration Form\n\nThe online registration form contains four parts that must be completed:\n\n1. Program description and participant eligibility\n2. Program agreement and consent form\n3. Participant and vehicle information\n4. Appointment reservation\n\n## Prepare for Your Appointment\n\nParticipants must arrive on-time for their installation appointment at 7800 W 62nd Ave. The registered owner of the vehicle must be at the appointment with their vehicle, and is required to bring a valid driver license, vehicle registration card, and proof of insurance.\n\nParticipants must bring their smart phone or personal device to their appointment in order to pair the tracker. If you request an Apple AirTag, please ensure that your iPhone's software is updated. If you request a Tile Tracker, please install the Tile app from the [App Store](https://apps.apple.com/us/app/tile-find-lost-keys-phone/id664939913) or [Google Play](https://play.google.com/store/apps/details?id=com.thetileapp.tile&hl=en_US) and create an account prior to your appointment.\n\nA reminder email will be sent to participants the week before their appointment with additional instructions.\n\nVisit our [stolen vehicle page](https://www.arvadaco.gov/1016/Stolen-Vehicles) or [CATPA's vehicle theft page](https://lockdownyourcar.org/#) for victim resources and more information about auto theft.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

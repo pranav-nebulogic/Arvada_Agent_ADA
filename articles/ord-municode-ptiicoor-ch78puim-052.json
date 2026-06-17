@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rejection",
+      "bids",
+      "waiver",
+      "irregularities",
+      "city",
+      "shall",
+      "right"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-53",
+      "§ 27-54"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-53. - Rejection of bids; waiver of irregularities.",
+    "summary": "The city shall have the right to reject any and all bids and to waive any irregularity\n               in any bid.\n(Code 1981, § 27-54; Ord. No. 551, § 19(E), 5-14-1964)\nState Law reference—\nSimilar provisions, C.R.S. § 31-25-516.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-53. - Rejection of bids; waiver of irregularities.",
+        "a": "The city shall have the right to reject any and all bids and to waive any irregularity\n               in any bid.\n(Code 1981, § 27-54; Ord. No. 551, § 19(E), 5-14-1964)\nState Law reference—\nSimilar provisions, C.R.S. § 31-25-516."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-53",
+      "§ 27-54"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exemption",
+      "special",
+      "assessments",
+      "following",
+      "shall",
+      "exempt",
+      "payment"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-73"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-73. - Exemption from special assessments.",
+    "summary": "The following shall be exempt from the payment of any special assessments to the state,\n               any county, city and county, municipality, or other political subdivision of the state:\n(1)\nA housing authority;\n(2)\nThe property of a housing authority;\n(3)\nAll property leased to a housing author…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-73. - Exemption from special assessments.",
+        "a": "The following shall be exempt from the payment of any special assessments to the state,\n               any county, city and county, municipality, or other political subdivision of the state:\n(1)\nA housing authority;\n(2)\nThe property of a housing authority;\n(3)\nAll property leased to a housing authority; and\n(4)\nThe portion of a project that is not used as a store, office, or other commercial\n                  facility that is occupied by persons of low income and that is owned by or leased\n                  to an entity:\na.\nThat is wholly owned by an authority;\nb.\nIn which an authority has an ownership interest; or\nc.\nIn which an entity wholly owned by an authority has an ownership interest.\n(Code 1981, § 14-42; Ord. No. 1248, § 24, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-226."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-73"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

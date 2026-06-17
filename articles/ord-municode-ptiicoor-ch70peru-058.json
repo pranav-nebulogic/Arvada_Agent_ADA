@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "bereavement",
+      "leave",
+      "employee",
+      "granted",
+      "hours",
+      "per",
+      "incident"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-112"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-112. - Bereavement leave.",
+    "summary": "(a)\nAn employee will be granted up to 40 hours of bereavement leave per incident (pro\n               rata for part-time employees) for the death of an immediate family member, including\n               fertility loss, with the approval of the employee's direct supervisor. For purposes\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-112. - Bereavement leave.",
+        "a": "(a)\nAn employee will be granted up to 40 hours of bereavement leave per incident (pro\n               rata for part-time employees) for the death of an immediate family member, including\n               fertility loss, with the approval of the employee's direct supervisor. For purposes\n               of bereavement leave, an \"immediate family member\" is a person who is related to an\n               employee by blood, marriage, civil union, or adoption; a child to whom the employee\n               stands in loco parentis or a person who stood in loco parentis to the employee when\n               the employee was a minor; or a person for whom the employee is responsible for providing\n               or arranging health- or safety-related care. This also includes any other relative\n               or person who the employee identifies as the employee's significant other or domestic\n               partner whose primary residence or place of primary abode is the same as the employee.\n(b)\nThe appointing authority may grant additional time if deemed appropriate at the written\n               request of the employee for an occurrence, such as an out-of-state funeral.\n(c)\nAn employee may also be granted bereavement leave to attend the funeral of a recently\n               deceased city employee. Bereavement leave granted for this purpose will not exceed\n               the actual time necessary for attending the funeral and reasonable travel time, as\n               determined and approved by the employee's immediate supervisor.\n(\nOrd. No. 4862\n, § 1, 10-16-2023;\nOrd. No. 4890\n, § 11, 2-10-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-112"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

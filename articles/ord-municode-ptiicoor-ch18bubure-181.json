@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "modifications",
+      "hereby",
+      "amended",
+      "read",
+      "follows",
+      "whenever"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-468"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-468. - I.P.M.C. Section 105.1, Modifications.",
+    "summary": "Section 105.1. Modifications,\nis hereby amended to read as follows:\n\"\n105.1. Modifications.\nWhenever there are practical difficulties involved in carrying out the provisions\n                  of this code, the code official or the building code advisory board shall have the\n                  authori…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-468. - I.P.M.C. Section 105.1, Modifications.",
+        "a": "Section 105.1. Modifications,\nis hereby amended to read as follows:\n\"\n105.1. Modifications.\nWhenever there are practical difficulties involved in carrying out the provisions\n                  of this code, the code official or the building code advisory board shall have the\n                  authority to grant modifications for individual cases upon application of the owner\n                  or owner's representative, provided the code official or the building code advisory\n                  board shall first find that special individual reason makes the strict letter of this\n                  code impractical and the modification is in compliance with the intent and purpose\n                  of this code and that such modification does not lessen health, life and fire safety\n                  requirements. The details of action granting modifications shall be recorded and entered\n                  in the department files.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-468"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

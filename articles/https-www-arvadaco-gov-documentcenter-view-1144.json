@@ -1,0 +1,150 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "process",
+    "permit_type": "building_permit",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/DocumentCenter/View/1144"
+    ],
+    "scraped_at": "2026-06-10T11:22:12.652932+00:00",
+    "content_hash": "f3ef0e51ac12559f7fb66602cf1762d069235abff7dfbb3af92a382ab0290389",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Certificate of Compliance with Design Guidelines for Olde Town Arvada",
+    "summary": "Within the Arvada Downtown Historic District and Olde Town zoning district, a Certificate of Compliance with Design Guidelines (CCDG) is required for land-use activities unless exempted. Applications must be submitted online and include a narrative, graphic illustrations, and a compliance analysis to demonstrate adherence to design guidelines.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Start Application Online",
+        "text": "Go to www.arvadapermits.org and under Projects, select Apply. Sign up for a username and password or log in with an existing account.",
+        "portal_url": "https://www.arvadapermits.org"
+      },
+      {
+        "n": 2,
+        "title": "Select Project Type",
+        "text": "For Project Type, select DEVELOPMENT APPLICATION. Then select the appropriate PROJECT SUBTYPE.",
+        "portal_url": "https://www.arvadapermits.org"
+      },
+      {
+        "n": 3,
+        "title": "Enter Project Details",
+        "text": "Fill out the PROJECT NAME with the business or building name, or residential address. For APPLICATION SUBTYPE 1, select CERTIFICATE OF COMPLIANCE. Fill out the remainder of the application.",
+        "portal_url": "https://www.arvadapermits.org"
+      },
+      {
+        "n": 4,
+        "title": "Gather Zoning and Property Information",
+        "text": "Visit https://arvada.org/maps/address to generate a report with your zoning and comprehensive plan information and a link to the Jefferson County Assessor's website to find your property acreage.",
+        "portal_url": "https://arvada.org/maps/address"
+      },
+      {
+        "n": 5,
+        "title": "Upload Required Attachments",
+        "text": "Upload all required attachments including a written narrative, graphic illustrations, and a compliance analysis. Visit https://arvada.org/develop for the Bluebeam Document Management Guide with instructions on how to assemble your document.",
+        "portal_url": "https://arvada.org/develop"
+      },
+      {
+        "n": 6,
+        "title": "Application Review",
+        "text": "After submission, staff will perform an initial completeness review and either accept the application or inform you if it is incomplete. If accepted, the appropriate fee will be assessed and staff will begin the Design Guideline compliance review.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Written Narrative",
+        "description": "A detailed explanation of the proposed activity including materials, colors, locations, and any changes to appearance.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Graphic Illustrations",
+        "description": "Photographs, illustrations, graphic representations, and material or color samples showing the location and before and after appearance of proposed changes.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Compliance Analysis",
+        "description": "An explanation of how the proposal complies with the Design Guidelines for Olde Town Arvada, listing all applicable guidelines and addressing each specifically. Justifications must be included for any requested waivers.",
+        "where_to_get": "Available at City Hall and online at http://static.arvada.org/docs/DG_Book_May_2015_reduced_size-1-201507101158.pdf",
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "project_name",
+        "label": "Project Name",
+        "description": "The business or building name, or residential address for the project.",
+        "example_value": null,
+        "why_needed": "To identify the project location or entity."
+      },
+      {
+        "field_name": "application_subtype_1",
+        "label": "Application Subtype",
+        "description": "Select 'Certificate of Compliance' as the application subtype.",
+        "example_value": "Certificate of Compliance",
+        "why_needed": "To specify the type of development application."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Administrative Review (Less than 1 acre)",
+        "amount": "$75",
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      },
+      {
+        "name": "Administrative Review (1 acre and greater)",
+        "amount": "$150",
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      },
+      {
+        "name": "DRC Referral (Less than 1 acre)",
+        "amount": "$250",
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      },
+      {
+        "name": "DRC Referral (1 acre and greater)",
+        "amount": "$350",
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Planning Division",
+      "phone": "720-898-7435",
+      "address": "Community and Economic Development Department\n8101 Ralston Road\nArvada, Colorado 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [
+      "§8-3-5-4-D"
+    ],
+    "related_permit_types": [
+      "building_permit",
+      "site_plan",
+      "plat"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3160
+}

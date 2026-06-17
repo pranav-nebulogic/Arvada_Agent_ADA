@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "city",
+      "council",
+      "hereby",
+      "declares",
+      "interest"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-231"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-231. - Legislative declaration.",
+    "summary": "The city council hereby declares it to be in the interest of the health, safety, and\n               welfare of citizens of the city and a proper exercise of the police power to regulate\n               those providing security services.\n(Code 1981, § 21-91; Ord. No. 3739, § 2, 3-4-2002)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-231. - Legislative declaration.",
+        "a": "The city council hereby declares it to be in the interest of the health, safety, and\n               welfare of citizens of the city and a proper exercise of the police power to regulate\n               those providing security services.\n(Code 1981, § 21-91; Ord. No. 3739, § 2, 3-4-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-231"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

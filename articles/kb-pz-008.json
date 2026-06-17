@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "development",
+    "tags": [
+      "permits",
+      "planning",
+      "licensing",
+      "project",
+      "permitting",
+      "review",
+      "Planning & Zoning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1441/Permits-Planning-and-Licensing-Project"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/development/pz-008",
+    "spreadsheet_id": "PZ-008",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Permits, Planning and Licensing Project",
+    "summary": "The City of Arvada is seeking a new software system to replace its current SMART License & Permits platform for permits, planning, and licensing, aiming to enhance the experience for residents and employees. The project is currently in the proposal review phase, with implementation scheduled from Q3 2026 to Q2 2027, followed by training and a go-live phase. Key objectives include improving data accessibility, reducing review timelines, and increasing efficiency through automated workflows.",
+    "body": "The City of Arvada is in the process of searching for a new permitting, planning and licensing software. The Permits, Planning and Licensing Project will **replace our existing SMART License & Permits on-premise planning, land use, permitting, and review system with a modern, reliable, and secure Community Development, Regulation and Licensing system to offer residents and employees a faster, more effective experience.**\n\n## Spring 2026 project update\n\nThe City team is beginning to review proposals from third-party vendors for an updated system, along planning internal project kickoff meetings. Look for an update on progress for external users soon.\n\n## Project objectives\n\n- Make project and permit data more obtainable both in house and in the field.\n- Improve review timelines. Provide expected timelines to the customer.\n- Add efficiency to plan review, permits and inspection processes with automated workflows and ability to identify low level criteria.\n- Create a system that works efficiently and effectively for both web and mobile users.\n\n## Project timeline\n\n- **Q3 2025-Q3 2026**: Requirements and RFP\n- **Q3 2026-Q2 2027**: Implementation\n- **Q2 2027**: Training and Go-Live\n\n## Questions?\n\nThe City team is here to answer any questions you have about **this project.** [**Fill out this form to contact the project team**](https://arvada-ced.form.transform.civicplus.com/58847) and check this page regularly for updates, including a project plan and updated timeline once a software provider is selected.\n\nIf you have **general permitting questions**, please visit our [Building Permits page](/332).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

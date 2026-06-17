@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-45-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "epa",
+      "certified",
+      "wood",
+      "stove",
+      "insert",
+      "all",
+      "new",
+      "stoves",
+      "Wood Burning - Indoor Burning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=45"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/do-i-have-an-epa-certified-wood-stove-or-insert",
+    "faq_category_name": "Wood Burning - Indoor Burning"
+  },
+  "content": {
+    "title": "Do I Have an EPA Certified Wood Stove or Insert?",
+    "summary": "All new wood stoves and inserts sold today in Colorado are EPA or State certified units.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Do I Have an EPA Certified Wood Stove or Insert?",
+        "a": "All new wood stoves and inserts sold today in Colorado are EPA or State certified units."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

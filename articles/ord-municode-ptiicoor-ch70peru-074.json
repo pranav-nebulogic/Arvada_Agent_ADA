@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "drugs",
+      "alcohol",
+      "working",
+      "during",
+      "immediately",
+      "after",
+      "use"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-150"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-150. - Drugs and alcohol.",
+    "summary": "(a)\nWorking during or immediately after the use of alcohol, marijuana, a controlled substance,\n               or abuse of any controlled substance is prohibited. Working while under the influence\n               of or impaired by alcohol, marijuana, or a controlled substance is also prohibited.\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-150. - Drugs and alcohol.",
+        "a": "(a)\nWorking during or immediately after the use of alcohol, marijuana, a controlled substance,\n               or abuse of any controlled substance is prohibited. Working while under the influence\n               of or impaired by alcohol, marijuana, or a controlled substance is also prohibited.\n               Furthermore, the possession, purchase, manufacture, dispensing, consumption (use),\n               or sale of a controlled substance, marijuana, or alcohol on city premises while conducting\n               city business is prohibited. Authorized police employees, when such conduct is in\n               the course of their assigned duties, may be excluded from this prohibition. Another\n               exception is a city meeting or event in which the serving of alcohol is sanctioned\n               by the city manager or appointing authority or where alcohol is served as part of\n               the city operation. Under no circumstances should an employee drive under the influence\n               or while impaired after leaving such an event. Employees required to take a legal\n               prescription by a medical provider may do so. If such medication could impact an employees'\n               safety or effectiveness, the employee must notify their supervisor.\n(b)\nUpon forming a reasonable suspicion, the city manager, an appointing authority, or\n               a supervisor is authorized to order an employee to submit to a test for controlled\n               substances, marijuana, and/or alcohol at the city's expense in a manner selected by\n               the city. A reasonable suspicion means a belief based on observed facts or behavior\n               sufficient to lead a reasonably prudent person to suspect that an employee is under\n               the influence or is impaired because of use of controlled substances, marijuana, or\n               alcohol. Any employee refusing to submit to such a test or to consent to the release\n               of the results of such test to the city is subject to disciplinary action.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-150"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

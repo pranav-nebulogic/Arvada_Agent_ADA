@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "liquor",
+      "licenses",
+      "responsible",
+      "services",
+      "administrative",
+      "almost",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/285/Liquor-Licenses"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-300",
+    "spreadsheet_id": "MI-300",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Liquor Licenses",
+    "summary": "The Arvada City Clerk's office oversees liquor licensing in Arvada, handling new applications for various establishments, license transfers, annual renewals, and special event permits, as well as addressing violations of liquor laws. For specific application requirements and necessary documents, individuals can contact Deputy City Clerk Sarah Walters via email or phone.",
+    "body": "The Arvada City Clerk's office is responsible for almost all liquor licensing within the City of Arvada. This includes:\n\n- New liquor license applications for restaurants, taverns, retail stores;\n- Transfers of existing licenses to new owners;\n- Fermented malt beverage application\n- Annual renewals of all liquor licenses;\n- Liquor at special events;\n- Violations of local laws or Colorado Revised Statutes pertaining to responsible liquor services;\n- Administrative services such as manager registrations, modifications, stockholder changes, etc.\n\nBecause every situation is different regarding which application forms, fees and other necessary documents are required, please [email Sarah Walters](/cdn-cgi/l/email-protection#d7a4a0b6bba3b2a5a497b6a5a1b6b3b6f9b8a5b0), Deputy City Clerk, or call 720-898-7544.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

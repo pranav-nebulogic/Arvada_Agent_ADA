@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "solicitation",
+      "employees",
+      "solicit",
+      "any",
+      "other",
+      "employee",
+      "during"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-153"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-153. - Solicitation.",
+    "summary": "Employees may not solicit any other employee during working time. The only exception\n               is city sponsored activities or products. With the approval of the employee's appointing\n               authority, an employee may place fund-raising information in a city break room or\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-153. - Solicitation.",
+        "a": "Employees may not solicit any other employee during working time. The only exception\n               is city sponsored activities or products. With the approval of the employee's appointing\n               authority, an employee may place fund-raising information in a city break room or\n               may post information on a designated electronic or physical bulletin board. The appointing\n               authority reserves the right to refuse to post any item. Under no circumstances may\n               an employee disturb the work of others to solicit, e-mail, or distribute literature\n               to them during their working time, including fund-raising activities.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-153"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

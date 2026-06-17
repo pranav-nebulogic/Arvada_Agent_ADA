@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "outdoor",
+      "storage",
+      "zoning",
+      "districts",
+      "rear",
+      "interior",
+      "side",
+      "setbacks",
+      "back",
+      "required"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-3-3-5"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-3. SITE DESIGN",
+    "division": "DIVISION 4-3-3. STANDARDS FOR SPECIFIC DEVELOPMENT TYPES"
+  },
+  "content": {
+    "title": "4-3-3-5. Outdoor storage.",
+    "summary": "A.\tOutdoor Storage, IL and IG Zoning Districts.\n  1.\tRear and Interior Side Setbacks.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-3-3-5. Outdoor storage.",
+        "a": "A.\tOutdoor Storage, IL and IG Zoning Districts.\n  1.\tRear and Interior Side Setbacks. Outdoor storage shall be set back as required for the principal building, except:\n    a.\tIn the IL zoning district, where it may extend into the required rear setback area, up to the inside boundaries of any required bufferyards; and\n    b.\tIn the IG zoning district, where it may extend into any required interior side or rear setback area, up to the inside boundaries of required bufferyards.\n  2.\tFront and Street-Side Setbacks. Outdoor storage uses in the IL and IG zoning districts shall be set back not less than 25 feet from front and street side property lines.\nB.\tOutdoor Storage, CG Zoning District.\n  1.\tFront, Interior Side, and Street Side Setbacks. Outdoor storage areas shall be located behind the principal building. Outdoor storage shall be set back as required for the principal building.\n  2.\tRear Setbacks. Outdoor storage may extend into a rear setback up to the inside boundary of any required bufferyard.\nC.\tConfiguration and Screening of Outdoor Storage Areas.\n  1.\tOutdoor storage areas shall be screened from view from streets and adjacent property by a Type C or D bufferyard, per Section 4-6-5-3, Bufferyard Options, and/or the principal building. In the IG and IL zoning districts within the area south of West 60th Avenue and east of Lamar Street, the bufferyard is not required along interior property lines.\n  2.\tThe fence or wall that is used in the required buffer yard may exceed the maximum height allowed where the difference in grade between the right-of-way and the outdoor storage area makes a taller fence necessary to effectively screen the area.\n  3.\tIf outdoor storage areas include covered accessory structures, then the covering shall include at least one of the predominant exposed roofing colors of the principal building.\n  4.\tOutdoor storage areas shall be accessible using an access drive that is not less than 22 feet in width.\nD.\tRestrictions on Use of Outdoor Storage Areas.\n  1.\tPermitted hours of operation shall be 7:00 a.m. to 7:00 p.m.\n  2.\tOutdoor storage areas shall only be used for the storage of operable equipment or materials used for the conduct of an approved use located on the same lot.\n  3.\tOutdoor storage areas shall not be used for the storage of junk, inoperable vehicles or equipment, hazardous materials, refuse, or waste, except:\n    a.\tAs may be specifically allowed as a component of the approved use of the subject property (e.g., a salvage yard), provided that no storage or accumulation of waste products, including paint, stain, oils, grease, or other flammable, toxic, or hazardous materials, shall be permitted as part of any storage yard use if they exceed the currently adopted fire code requirements; or\n    b.\tFor a period of ten days, junk, inoperable vehicles or equipment, refuse, or waste may be stored, provided that:\n      i.\tThey were created as a result of the approved use of the subject property;\n      ii.\tThey are kept in appropriate containers to prevent windblown or waterborne debris; and\n      iii.\tThey are permanently disposed of or recycled after the 10-day period elapses (e.g., a contractor may store scrap materials from a job site for up to ten days, after which they must be transferred to a proper recycling or disposal facility).\n  4.\tFlammable liquids or gases in excess of 1,000 gallons may be stored if they are integral to the principal use, and stored underground according to all applicable legal requirements.\n  5.\tOutdoor storage areas shall be graded and maintained, and stored items shall be covered or arranged to prevent standing water from accumulating.\n(Ord. No. 4905, §§ 33, 34, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-3-3-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

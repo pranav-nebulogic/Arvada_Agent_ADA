@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "state",
+      "law",
+      "applicable",
+      "title",
+      "arts",
+      "amended",
+      "rules"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-2"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-2. - State law applicable.",
+    "summary": "C.R.S. title 44, arts. 3, 4 and 5, as amended, and the rules and regulations of the\n               executive director of the department of revenue of the state, or the deputy director\n               thereof if the executive director so designates, as the state licensing authority,\n               sha…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-2. - State law applicable.",
+        "a": "C.R.S. title 44, arts. 3, 4 and 5, as amended, and the rules and regulations of the\n               executive director of the department of revenue of the state, or the deputy director\n               thereof if the executive director so designates, as the state licensing authority,\n               shall apply to the licensing of fermented malt beverages and malt, vinous and spirituous\n               liquors within the city, where applicable.\n(\nOrd. No. 4670\n, § 1, 12-17-2018)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

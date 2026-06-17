@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "weapons",
+      "permits",
+      "concealed",
+      "county",
+      "handgun",
+      "permit",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/588/Weapons-Permits"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-603",
+    "spreadsheet_id": "MI-603",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Weapons & Permits",
+    "summary": "The Arvada Police Department does not issue concealed weapons permits; these are managed by the County Sheriff's Office based on residency. Colorado's weapons laws are detailed in Title 18 of the Colorado Revised Statutes, with local regulations found in the Arvada Municipal Code, specifically Chapters 62 and 66 for general and recreational area laws, respectively. Additional information on gun laws can be accessed through the Colorado State Patrol website.",
+    "body": "## Permit\n\nThe Arvada Police Department **does not issue**concealed weapons permits. Weapons permits are handled through the County Sheriff's Office in the county in which you live.\n\nPermit Types:\n\n- [Jefferson County Sheriff Concealed Handgun Permit](https://www.jeffco.us/677/Concealed-Handgun-Permits)\n- [Adams County Concealed Handgun Permit](http://www.adamssheriff.org/new-concealed-handgun-permits)\n\n## Weapons Laws\n\nColorado weapons laws are complex. As a general rule, Colorado weapons laws are contained in Title 18 of the Colorado Revised Statutes (C.R.S.). However, Titles 12 and 33 also contain weapons laws. C.R.S. may be accessed through the [Colorado General Assembly Office of Legislative Legal Services](https://leg.colorado.gov/agencies/office-legislative-legal-services/colorado-revised-statutes). Generally speaking, local (municipal) laws about weapons are found in [Chapter 62](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF) of the Arvada Municipal Code. Laws regulating weapons in city parks and other recreational areas are found in [Chapter 66](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE) of the Code.\n\n### Gun Laws\n\nIn addition to exploring the C.R.S., you can find a summary of Colorado's gun laws on the [Colorado State Patrol](https://www.colorado.gov/pacific/csp/colorado-gun-laws) website. In the CSP guide, you can read about concealed weapon permits, out-of-state reciprocity, and much more.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

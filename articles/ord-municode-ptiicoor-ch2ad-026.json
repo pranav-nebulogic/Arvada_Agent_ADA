@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "hearings",
+      "under",
+      "article",
+      "shall",
+      "served",
+      "upon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-174"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-174. - Notice of hearings.",
+    "summary": "Notice of hearings under this article shall be served upon parties in accordance with\n               the following:\n(1)\nIn all cases in which the parties have submitted their address to the agency in the\n                  course of licensing proceedings or otherwise, notice shall be mailed by first-…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-174. - Notice of hearings.",
+        "a": "Notice of hearings under this article shall be served upon parties in accordance with\n               the following:\n(1)\nIn all cases in which the parties have submitted their address to the agency in the\n                  course of licensing proceedings or otherwise, notice shall be mailed by first-class\n                  mail to the last such address submitted.\n(2)\nIn all other cases notice shall be delivered by personal service, unless other service\n                  is approved by the hearing officer.\n(3)\nExcept where a license or permit has been temporarily suspended pending the hearing,\n                  notice shall be delivered not less than ten days prior to the hearing.\n(4)\nIn the case of board of adjustment, liquor licensing authority and such other hearings\n                  as may by ordinance require posting, publication or other notice to the public, such\n                  notice shall be provided in addition to the notice herein provided to parties.\n(Code 1981, § 2-139; Ord. No. 3608, §§ 1, 2, 4-3-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-174"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

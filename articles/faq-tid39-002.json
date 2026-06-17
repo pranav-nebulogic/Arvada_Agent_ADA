@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-39-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "lower",
+      "speed",
+      "help",
+      "unfortunately",
+      "research",
+      "suggests",
+      "limits",
+      "big",
+      "Traffic Control on My Street"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=39"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/will-a-lower-speed-help",
+    "faq_category_name": "Traffic Control on My Street"
+  },
+  "content": {
+    "title": "Will a lower speed help?",
+    "summary": "Unfortunately, research suggests that lower speed limits do not have a big impact on reducing speed. In Colorado, the speed limit on local streets (unless otherwise posted) is 30 mph. Whether posted or not, some people do not adhere to posted speed limits. This is unlawful and puts pedestrians and o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Will a lower speed help?",
+        "a": "Unfortunately, research suggests that lower speed limits do not have a big impact on reducing speed. In Colorado, the speed limit on local streets (unless otherwise posted) is 30 mph. Whether posted or not, some people do not adhere to posted speed limits. This is unlawful and puts pedestrians and other drivers at risk. Police Officers enforce speed limits. To report a speeding driver, please call non-emergency dispatch at 720-898-6900."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

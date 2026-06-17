@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "agenda",
+      "center",
+      "adobe",
+      "acrobat",
+      "agendacenter",
+      "agendas",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/AgendaCenter"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-038",
+    "spreadsheet_id": "MI-038",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Agenda Center",
+    "summary": "Current agendas and minutes for all city boards and commissions are available for viewing, with some documents requiring Adobe Reader. Users can search agendas by time period, date range, or specific terms, and can also utilize tools like RSS feeds and notification options.",
+    "body": "View current agendas and minutes for all boards and commissions. [Adobe Reader](http://www.adobe.com/products/acrobat/readstep2.html) may be required to view some documents. [![Get Adobe Acrobat](/common/images/getacro.gif)](http://www.adobe.com/products/acrobat/readstep2.html)\n\n### Tools\n\n- [RSS](/rss.aspx#agendaCenter)\n- [Notify Me®](/list.aspx#agendaCenter)\n\n### Search Agendas by:\n\nTime Period\n\nStart Date\n\nEnd Date\n\nEnter Search Terms\n\n[Select a Category](#categoryList)\n\n1. All Categories\n\nSearch",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

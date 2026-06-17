@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "city",
+      "seal",
+      "signatures",
+      "remain",
+      "valid",
+      "clerk",
+      "cause"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-88"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-88. - City seal; signatures remain valid.",
+    "summary": "(a)\nThe clerk may cause the seal of the city to be printed, engraved, stamped, or otherwise\n               placed in facsimile on any bond. The facsimile seal has the same legal effect as the\n               impression of the seal.\n(b)\nThe bonds and the coupons bearing the signatures of the officers …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-88. - City seal; signatures remain valid.",
+        "a": "(a)\nThe clerk may cause the seal of the city to be printed, engraved, stamped, or otherwise\n               placed in facsimile on any bond. The facsimile seal has the same legal effect as the\n               impression of the seal.\n(b)\nThe bonds and the coupons bearing the signatures of the officers in office at the\n               time of the signing thereof shall be the valid and binding obligations of the city,\n               notwithstanding that before the delivery thereof and payment therefor, any or all\n               of the persons whose signatures appear thereon shall have ceased to fill their respective\n               offices.\n(c)\nAny officer herein authorized or permitted to sign any bond, at the time of its execution\n               and of the execution of a signature certificate, may adopt as and for his own facsimile\n               signature the facsimile signature of his predecessor in office in the event that such\n               facsimile signature appears upon the bond or upon the coupons pertaining thereto or\n               upon both the bond and such coupons.\n(Code 1981, § 27-89; Ord. No. 551, § 29(K)—(M), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-88"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

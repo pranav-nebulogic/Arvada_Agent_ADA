@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "tax",
+      "use",
+      "storage",
+      "distribution",
+      "consumption",
+      "intent",
+      "hereby"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-77"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-77. - Tax on use, storage, distribution, consumption; intent.",
+    "summary": "It is hereby declared to be the legislative intent of the city council that for the\n               purposes of this article every person who stores, uses, distributes or consumes within\n               the city any article of tangible personal property purchased at retail, and not stored\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-77. - Tax on use, storage, distribution, consumption; intent.",
+        "a": "It is hereby declared to be the legislative intent of the city council that for the\n               purposes of this article every person who stores, uses, distributes or consumes within\n               the city any article of tangible personal property purchased at retail, and not stored\n               or distributed in normal function of wholesaling, is exercising a taxable privilege.\n               It is hereby declared that every resident of the city or any person doing business\n               within the city who purchases or leases tangible personal property for use, storage\n               or consumption within the city from sources outside the city and taxable hereunder,\n               and who has not paid the tax imposed by this article, shall make a return and pay\n               the tax to the finance director. The use, storage or consumption of tangible personal\n               property includes for the purpose of this article, materials, commodities and items\n               of tangible personal property affixed to or made a part of facilities and structures\n               on real property owned or leased situated within the city.\n(Code 1981, § 31-51; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-77"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

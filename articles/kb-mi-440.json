@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "quiktrip",
+      "developer",
+      "hearing",
+      "matterhorn",
+      "project",
+      "public",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1486/QuikTrip-4234"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-440",
+    "spreadsheet_id": "MI-440",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "QuikTrip 4234",
+    "summary": "QuikTrip plans to develop a 6,445 square foot convenience store with ten fuel pump islands and 50 parking spaces on a 3.023-acre site located at 9295 Matterhorn Lane. A Major Modification is requested to exceed the city code limit of five fuel islands. Public hearings for the project are scheduled for April 1, 2026, and June 16, 2026.",
+    "body": "![Aerial map view of site of new QuikTrip on Matterhorn Lane](/ImageRepository/Document?documentId=7153)\n\n## DA2025-0075\n\n### Project Name: QuikTrip 4234\n\n- **Address/Location:** 9295 Matterhorn Ln\n- **Developer:**QuikTrip\n- **Planner:**Julia Duncan\n- **Acres:**9.47\n- **Use: Commercial**\n- **Planning Commission Public Hearing:** April 1, 2026, 6:15 p.m.\n- **City Council Public Hearing:** June 16, 2026\n\n**Project Narrative from the Developer:** QT intends to develop Lot 1A for use as a 6,445 SF Convenience Store with ten (10) vehicle fuel pump islands with fifty (50) on-site parking spaces on approximately 3.023 acres. A Major Modification is requested to allow ten (10) fuel islands where five (5) are the maximum allowed per City Code. A future lot line adjustment between Lot 1A and Lot 2A will occur after the processing of the Rezoning with Concept Plan and Major Modification applications have been completed. This will be applied concurrently with the subsequent Site Plan application.\n\n[Learn more about the project.](https://aca-prod.accela.com/ARVADA)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

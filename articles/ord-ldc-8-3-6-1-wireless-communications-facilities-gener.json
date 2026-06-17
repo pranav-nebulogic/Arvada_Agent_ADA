@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "wireless",
+      "communications",
+      "facilities",
+      "general",
+      "review",
+      "procedures",
+      "generally",
+      "communication",
+      "facility",
+      "constructed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-6-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-6. WIRELESS COMMUNICATION FACILITIES"
+  },
+  "content": {
+    "title": "8-3-6-1. Wireless communications facilities general review procedures.",
+    "summary": "A.\tGenerally. No new Wireless Communication Facility (WCF) shall be constructed and no collocation or modification to any WCF may occur except after a written request from an Applicant, reviewed and approved by the City in accordance with this Code.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-6-1. Wireless communications facilities general review procedures.",
+        "a": "A.\tGenerally. No new Wireless Communication Facility (WCF) shall be constructed and no collocation or modification to any WCF may occur except after a written request from an Applicant, reviewed and approved by the City in accordance with this Code. All WCFs shall be reviewed pursuant to the following procedures.\nB.\tApplicability. Three types of review processes are available for the various WCF applications as follows:\n  1.\tBase Stations, Alternative Tower Structures, and Small Cell Facilities not in the Right-of-Way. Applications for Base Station facilities, including Alternative Tower Structures and Small Cell Facilities not in the right-of-way shall be processed administratively and acted upon by the Director, following the Site Plan procedures as set forth in Section 8-3-5-3. Separately, a building permit will be required for these applications along with any applicable right-of-way and street closure permits. The separate permits may be processed at a later date or concurrently once site design has been agreed upon.\n  2.\tSmall Cell Facilities in the Rights-of-Way. Applications for Small Cell Facilities in the rights-of-way shall follow a combined administrative permit process in which the application is concurrently reviewed by the planning, engineering, traffic, and building. Once the administrative review is complete and the Small Cell Facility permit has been issued, construction may commence without any further permit processing.\n  3.\tTowers. Freestanding Towers require review and approval as a conditional use through the public hearing process with Planning Commission and City Council as set forth in Section 8-3-5-1.\nC.\tPre-Submittal Meeting. Prior to applying for a WCF permit (except Small Cell Facilities), each Applicant is encouraged to hold a pre-submittal meeting for the purpose of identifying the proposed request and any potential conflicts or areas of concern. Should the project warrant a larger discussion, as determined by the sole discretion of the Director, a Pre-Application meeting may be recommended in conformance with Section 8-2-3-3.\nD.\tTimelines for Review. Unless the Applicant and the Director mutually agree otherwise, applications will be processed according to the following timelines:\n  1.\tThe review period begins to run when the application is filed and may be tolled only by mutual agreement of the Director and the Applicant, or in cases where the Director determines that the application is incomplete.\n  2.\tFinal action on complete applications for WCFs other than Small Cell Facilities will be no more than 150 days for a new WCF and 90 days for collocations that do not qualify as an eligible facilities request, provided all standards in this Code are met.\n  3.\tFinal action on complete applications for locating or collocating Small Cell Facilities will be in no more than 90 days, provided all applicable standards in this Code are met.\n  4.\tTo toll the review period for incompleteness, the Director must provide written notice to the Applicant within 30 days of receipt of the application, specifically delineating all missing documents or information required in the application. The timeframe for review period continues running again when the Applicant makes a supplemental written submission in response to the Director's notice of incompleteness.\nE.\tDecision. Any decision to approve, approve with conditions, or deny an application for a WCF, must be completed within the timeframes of Subsection D above and shall be in writing and supported by a written record. The Applicant shall receive a copy of the decision.\nF.\tCompliance with Applicable Law. Notwithstanding the approval of an application for collocation as described herein, all work done pursuant to and approved WCF application must be completed in accordance with all applicable building and safety requirements as set forth in the City Code, the LDC, and any other applicable laws or regulations. In addition, an Applicant whose WCF application is approved, shall comply as follows:\n  1.\tObtain and comply with any separate permit or license issued by a local, state, or federal agency with jurisdiction of the WCF;\n  2.\tComply with easements, covenants, conditions and/or restrictions on or applicable to the underlying real property;\n  3.\tEnsure maintenance of the WCF in good working condition and to the standards established at the time of application approval; and\n  4.\tEnsure that the WCF remains free from trash, debris, litter, graffiti, and other forms of vandalism. Any damage shall be repaired as soon as practicable, and in no instance more than ten calendar days from the time of notification by the Director or after discovery by the owner or operator of the site. Notwithstanding the foregoing, any graffiti on WCFs located in the rights-of-way or on public property may be removed by the City at its discretion, and the owner and/or operator of the WCF shall pay all costs of such removal within 30 days after receipt of an invoice from the City.\nG.\tPost Construction Compliance Report. Upon request by the Director, the Applicant shall provide a post construction compliance report within 45 days after installation of a WCF, demonstrating that as installed and in operation, the WCF complies with all conditions of approval, applicable Code requirements and standard regulations."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-6-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "use",
+      "fire",
+      "hydrants",
+      "temporary",
+      "service",
+      "supplied",
+      "through"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-70"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-70. - Use of fire hydrants.",
+    "summary": "(a)\nIf temporary service is supplied through a fire hydrant, a permit for the use of the\n               hydrant shall be obtained from the department of utilities. It shall be unlawful for\n               any person to operate a valve of any fire hydrant, other than by the use of a spanner\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-70. - Use of fire hydrants.",
+        "a": "(a)\nIf temporary service is supplied through a fire hydrant, a permit for the use of the\n               hydrant shall be obtained from the department of utilities. It shall be unlawful for\n               any person to operate a valve of any fire hydrant, other than by the use of a spanner\n               wrench.\n(b)\nIt is unlawful for any person, other than city personnel or members of the fire department,\n               to open any fire hydrant, attempt to draw water from it, or in any manner damage or\n               tamper with any fire hydrant.\n(c)\nAll authorized private use of fire hydrants shall be metered by use of a construction\n               water meter. Unmetered use of fire hydrants by any person except city personnel or\n               members of the fire department is unlawful.\n(d)\nIt is unlawful for any person to use a fire hydrant for fire suppression outside of\n               the city without the express approval of the city.\n(e)\nShould the city perform any work or incur any expense for the installation, removal,\n               repair, or replacement of a fire hydrant and any such work is caused by any person,\n               the city is authorized to recover the actual cost of the work or expense as provided\n               in\nsection 102-41\n.\n(Code 1981, § 33-43; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, § 5, 10-16-1989)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-70"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

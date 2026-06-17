@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "engineering",
+      "code",
+      "standards",
+      "specifications",
+      "construction",
+      "current",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/167/Engineering-Code"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-214",
+    "spreadsheet_id": "MI-214",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Engineering Code of Standards & Specifications",
+    "summary": "The Engineering Code of Standards and Specifications for the city is accessible online, including current, past, and proposed standards. Construction plans approved before July 26, 2022, remain valid if completed within two years of the relevant agreement or approval. Contractors and suppliers can submit materials for inclusion in the Approved Products List via a specified request form, with a review process that may take up to 60 days.",
+    "body": "[Current, past, and proposed Engineering Code of Standards and Specifications](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=618595beb3fbe) are available online. The current standards are searchable for ease of navigation.\n\nFor more information or questions please call the Engineering Division at 720-898-7640.\n\nConstruction plans that the city engineer has approved in writing prior to the July 26, 2022 effective date shall be considered valid, provided construction of the improvements related thereto is completed within two years of the effective date of a public improvement agreement, development agreement, building permit, or similar document requiring such construction or, in the absence of such, within two years of the approval of the construction plans.\n\n## Approved products\n\n- [Approved product list](/1290)\n- [New approved product review request form](https://docs.google.com/forms/d/e/1FAIpQLScqbxQ0aJAhV_fqIVI5qe7Ye2W8twHG2g6AdbZtHql8VTLD2Q/viewform)\n  - Contractors, suppliers, and manufacturer's wishing to **submit materials for approval and inclusion in our Approved Products List should [complete this request form](https://docs.google.com/forms/d/e/1FAIpQLScqbxQ0aJAhV_fqIVI5qe7Ye2W8twHG2g6AdbZtHql8VTLD2Q/viewform).**  The review process can take up to 60 days to complete. Please allow the full amount of time for the review to be completed. **No updates will be provided prior to the end of the 60 day review period.**",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "extra",
+      "work",
+      "authorized",
+      "payment",
+      "arise",
+      "connection",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-61"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-61. - Extra work authorized; payment.",
+    "summary": "Extra work may arise in connection with any project herein mentioned and not particularly\n               provided for in the plans, specifications, estimates, bids and contracts; and such\n               extra work shall be performed by the contractor at the direction of the engineer at\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-61. - Extra work authorized; payment.",
+        "a": "Extra work may arise in connection with any project herein mentioned and not particularly\n               provided for in the plans, specifications, estimates, bids and contracts; and such\n               extra work shall be performed by the contractor at the direction of the engineer at\n               cost of labor and materials plus ten per centum for superintendence, said amount to\n               be included in the assessment for said project (but not exceeding in the aggregate\n               the estimated maximum special benefits to the tract so assessed) or to be paid out\n               of the general or road funds of the city in the discretion of the council.\n(Code 1981, § 27-62; Ord. No. 551, § 20, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

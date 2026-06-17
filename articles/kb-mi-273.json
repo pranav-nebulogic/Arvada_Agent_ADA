@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "indoor",
+      "leak",
+      "tips",
+      "leaks",
+      "potential",
+      "appears",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1505/Indoor-Leak-Tips"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-273",
+    "spreadsheet_id": "MI-273",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Indoor Leak Tips",
+    "summary": "Regularly inspecting indoor appliances for leaks can help conserve water and reduce costs. Homeowners should check toilets, sinks, bathtubs, showers, and kitchen appliances for signs of leaks, using simple tests like adding food coloring to toilet tanks or looking for drips and bulges in supply lines. For persistent issues, online tutorials or professional assistance may be necessary, and upgrading to water-efficient models is advisable for older fixtures.",
+    "body": "Self-auditing indoor appliances for potential leaks is a great way to identify potential problems, saving water and money.  Many leaks can be fixed pretty easily. Look for tutorials online or call a professional for more complex issues.\n\n## ToiletsToilet\n\n- Add food coloring to the tank and wait 30 minutes to see if the color appears in the bowl without flushing. If it does, the flapper valve may be leaking.\n- Check the back and bottom for supply line leaks.\n- Consider replacing old toilets with newer, water efficient models.\n\n## Sinks and faucetssink\n\n- Look for persistent drips.\n- Open cabinets and check supply lines for weak spots or bulges.\n- Turn on faucets and look for leaks in the supply lines.\n- Change faucet aerators every 3 to 5 years.\n\n## Bathtubs and showersbathtub\n\n- Turn on faucets and check for leaks. When the water is diverted to the showerhead, water flow to the tub faucet should stop.\n- Remove showerhead buildup with calcium, lime, and rust remover sold at hardware stores.\n- Replace showerheads every 7 to 15 years.\n- Consider replacing old showerheads and aerators with high-efficiency ones.\n\n## Kitchen and laundrywasher\n\n- Check all water sources for leaks following the instructions above. This includes faucets, dishwasher, garbage disposal, ice maker, and supply lines to sinks and washing machines.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

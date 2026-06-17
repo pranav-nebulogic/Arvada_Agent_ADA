@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-91"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-91. - Definitions.",
+    "summary": "The following words, terms, and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nCity-owned land\nmeans any park, ballpark, recreation area, lake area, city-owned…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-91. - Definitions.",
+        "a": "The following words, terms, and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nCity-owned land\nmeans any park, ballpark, recreation area, lake area, city-owned street, easement,\n               sidewalk, or area dedicated or commonly used for vehicular or pedestrian traffic,\n               city storage facility, city garage area, pet park, and any and all other lands and\n               premises owned by the city or other legally recognized public entity.\nElectric devices\nmeans electrical assisted bicycles, EPAMD, and electric scooters as defined in\nSection 54-43\n.\nUnlicensed motor vehicle\nmeans a motor vehicle that is not required to be registered or to display a license\n               plate and includes motor bicycles, dune buggies, trail bikes, minibikes, go-carts,\n               racing minibikes, racing scooters, snowmobiles, and similar vehicles. It does not\n               include electric devices or wheelchairs.\n(\nOrd. No. 4561, § 1, 8-29-2016\n; Ord. No.\n4772\n, § 5, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-91"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

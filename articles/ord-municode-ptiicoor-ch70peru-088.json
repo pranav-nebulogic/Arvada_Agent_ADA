@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "resignation",
+      "regular",
+      "probationary",
+      "employees",
+      "requested",
+      "give",
+      "appointing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-182"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-182. - Resignation.",
+    "summary": "Regular and probationary employees are requested to give the appointing authority\n               at least 14 calendar days' prior notice, unless the appointing authority agrees to\n               permit a lesser period of time. A written resignation giving the reasons for leaving\n               shall…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-182. - Resignation.",
+        "a": "Regular and probationary employees are requested to give the appointing authority\n               at least 14 calendar days' prior notice, unless the appointing authority agrees to\n               permit a lesser period of time. A written resignation giving the reasons for leaving\n               shall be submitted by the employee to the appointing authority. The appointing authority\n               will forward the resignation to the human resources department. A resignation may\n               be approved verbally by the employee's immediate supervisor when deemed to be in the\n               best interests of the city. The supervisor must document the discussion and submit\n               it to the human resources department within 24 hours of the discussion.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-182"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

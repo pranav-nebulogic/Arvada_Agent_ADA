@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "liability",
+      "hereby",
+      "amended",
+      "read",
+      "follows",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-464"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-464. - I.P.M.C. Section 103.4, Liability.",
+    "summary": "Section 103.4. Liability,\nis hereby amended to read as follows:\n\"\n103.4. Liability.\nThe code official, members of the respective boards of appeals or employees charged\n                  with the enforcement of this code, while acting for the jurisdiction, in good faith\n                  and without …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-464. - I.P.M.C. Section 103.4, Liability.",
+        "a": "Section 103.4. Liability,\nis hereby amended to read as follows:\n\"\n103.4. Liability.\nThe code official, members of the respective boards of appeals or employees charged\n                  with the enforcement of this code, while acting for the jurisdiction, in good faith\n                  and without malice in the discharge of the duties required by this code or other pertinent\n                  law or ordinance, shall not thereby be rendered liable personally, and is hereby relieved\n                  from all personal liability for any damage accruing to persons or property as a result\n                  of an act or by reason of an act or omission in the discharge of official duties.\n                  Any suit instituted against any officer or employee because of an act performed by\n                  that officer or employee in the lawful discharge of duties and under the provisions\n                  of this code shall be defended by the legal representative of the jurisdiction until\n                  the final termination of the proceedings. The code official or any subordinate shall\n                  not be liable for costs in an action, suit or proceeding that is instituted in pursuance\n                  of the provisions of this code.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-464"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

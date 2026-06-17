@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "base",
+      "usage",
+      "establishment",
+      "hereby",
+      "established",
+      "annually",
+      "prior"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-169"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-169. - Base usage; establishment.",
+    "summary": "There is hereby established annually, prior to July 1, a base usage for water consumption\n               for every connected service of all classes except distributors. Base usage in each\n               instance is the volume of actual water use as determined by the average of the bimonthly\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-169. - Base usage; establishment.",
+        "a": "There is hereby established annually, prior to July 1, a base usage for water consumption\n               for every connected service of all classes except distributors. Base usage in each\n               instance is the volume of actual water use as determined by the average of the bimonthly\n               amount of water metered to the user during any four-month period between November\n               1 and April 13 in each 12-month period. Individually adjusted variances shall be made\n               for known abnormalities, including those connected services where metered use during\n               the base period is in accurately recorded. In such instances, the base usage is the\n               same as the average of those in the same class of service where usage data is available.\n               The base usage hereby established for each connected service will be in effect for\n               the 12-month period beginning July 1, of the current calendar year.\n(Code 1981, § 33-85; Ord. No. 2574, § 1, 11-21-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-169"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

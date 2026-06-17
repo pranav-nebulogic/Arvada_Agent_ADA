@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "sewer",
+      "required",
+      "hereby",
+      "amended",
+      "adding",
+      "second"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-407"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-407. - I.P.C. Section 701.2, Sewer required.",
+    "summary": "Section 701.2. Sewer required,\nis hereby amended by adding a second paragraph to read as follows:\n\"\n701.2. Sewer required.\nThe public sewer shall not be available when such public sewer or any building or\n                  any exterior drainage facility connected thereto is located more than 400 fee…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-407. - I.P.C. Section 701.2, Sewer required.",
+        "a": "Section 701.2. Sewer required,\nis hereby amended by adding a second paragraph to read as follows:\n\"\n701.2. Sewer required.\nThe public sewer shall not be available when such public sewer or any building or\n                  any exterior drainage facility connected thereto is located more than 400 feet (121,920\n                  mm) from any proposed building or exterior drainage facility on any lot or premises\n                  which abuts and is served by such public sewer.\"\n(Ord. No.\n4738\n, § 11, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-407"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-21-006",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "str_permit",
+    "category": "short_term_rentals",
+    "tags": [
+      "operate",
+      "short",
+      "term",
+      "rental",
+      "out",
+      "townhome",
+      "condo",
+      "accessory",
+      "Short Term Rentals"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=21"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-i-operate-a-short-term-rental-out-of-a-townhome-condo-or",
+    "faq_category_name": "Short Term Rentals"
+  },
+  "content": {
+    "title": "Can I operate a short-term rental out of a townhome/condo or accessory dwelling unit (ADU)?",
+    "summary": "Yes. There is only one permit issued per lot. Therefore, only the ADU or the primary structure would be permitted. Townhomes and condos are issued per owner. Permits are not allowed in buildings not designated as affordable housing or that are otherwise deed-restricted.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can I operate a short-term rental out of a townhome/condo or accessory dwelling unit (ADU)?",
+        "a": "Yes. There is only one permit issued per lot. Therefore, only the ADU or the primary structure would be permitted. Townhomes and condos are issued per owner. Permits are not allowed in buildings not designated as affordable housing or that are otherwise deed-restricted."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

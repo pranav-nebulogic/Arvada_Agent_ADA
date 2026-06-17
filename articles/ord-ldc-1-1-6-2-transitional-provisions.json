@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "transitional",
+      "provisions",
+      "section",
+      "addresses",
+      "applicability",
+      "substantive",
+      "standards",
+      "enacted",
+      "code",
+      "activities"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-6-2"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-6. EFFECTIVE DATE, TRANSITIONAL PROVISIONS, AND SEVERABILITY"
+  },
+  "content": {
+    "title": "1-1-6-2. Transitional provisions.",
+    "summary": "This Section addresses the applicability of new substantive standards enacted by this Code to activities, actions, and other matters that are pending or occurring as of the effective date of this Code.\n  A.\tViolations continue.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-6-2. Transitional provisions.",
+        "a": "This Section addresses the applicability of new substantive standards enacted by this Code to activities, actions, and other matters that are pending or occurring as of the effective date of this Code.\n  A.\tViolations continue. Any violation of the previous land development regulations of the City shall continue to be a violation under this Code and shall be subject to the penalties and enforcement set forth in Chapter 10 of this Code, unless the use, development, construction, or other activity is clearly consistent with the express terms of this Code.\n  B.\tCompletion of development plans commenced or approved under previous codes.\n    1.\tBuildings or Developments with Previously Issued Building Permits.\n      a.\tAny building or development for which a building permit was granted prior to the effective date of this Code shall be permitted to proceed to construction even if such building or development does not conform to the provisions of this Code.\n      b.\tIf construction is not commenced within 60 days from building permit issuance, and if work is not completed and the intended use not established in accordance with the applicable permit terms within 18 months of building permit issuance, the Planning Commission may, for good cause shown, grant not more than one extension of up to one year. If the building or development is not substantially completed within the 18-month period, or within any extension granted, then the building shall be constructed, completed, used, or occupied only in compliance with the requirements of this Code.\n  C.\tDevelopments with PUD Approval. A development for which a PUD development plan was granted approval prior to the effective date of this Code may be completed in accordance with the approved plan, an approved plat, and any other approved permits and conditions, even if the development does not comply with one or more general development standards set forth in Chapters 4 and 5 of this Code, per Section 8-3-10-7, PUDs Approved Prior to Effective Date."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-6-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

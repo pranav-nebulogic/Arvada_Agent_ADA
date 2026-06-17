@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "removal",
+      "office",
+      "upon",
+      "conviction",
+      "arbitration",
+      "award",
+      "entry"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-380"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-380. - Removal from office.",
+    "summary": "Upon a conviction, arbitration award or entry of judgment by a court, disinterested\n               third party or city council of malfeasance or misconduct the city council shall cause\n               a hearing to be held at which time it shall be determined if the officer shall be\n               rem…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-380. - Removal from office.",
+        "a": "Upon a conviction, arbitration award or entry of judgment by a court, disinterested\n               third party or city council of malfeasance or misconduct the city council shall cause\n               a hearing to be held at which time it shall be determined if the officer shall be\n               removed from office.\n(1)\nIf the matter has been referred to a disinterested third person for an arbitration\n                  award, such person shall present written findings and a determination of whether a\n                  violation of this article, the Charter or other instance of malfeasance or misconduct\n                  has occurred to the city council for final action. If the matter was referred to a\n                  court for determination the city attorney shall obtain a copy of the courts final\n                  order and present it to the city council.\n(2)\nThe city clerk shall cause notice of the matter to be published and written notice\n                  to be delivered to the officer who is the subject of the complaint. The city council\n                  shall deliberate in public. The officer shall have the opportunity to make a statement\n                  in his behalf prior to the council's decision.\n(3)\nThe proceedings shall be recorded and shall constitute final governmental action for\n                  purposes of appeal.\n(4)\nA determination by the city council to remove the officer shall require a unanimous\n                  vote of the city council eligible to vote thereon.\n(5)\nIf the city council votes to remove the officer, the officer may ask for a reconsideration\n                  upon filing a written request within 48 hours of council's announcement of the penalty.\n                  A reconsideration may be considered only in the event new evidence, not known or available\n                  to the officer at the time of the hearing, is set forth in the request for reconsideration.\n(6)\nCity council shall announce any penalty within 48 hours of announcing its decision.\n                  Any penalty shall be stayed until expiration of the reconsideration period.\n(7)\nIf the city council imposes the penalty of forfeiture of office said penalty shall\n                  not take affect until 31 days after council has announced the penalty. During this\n                  period the penalty shall be stayed and the councilmember shall remain in office. Upon\n                  expiration of the 31-day period the council shall proceed to fill the council person's\n                  seat as provided in\nsection 4.6\nof the Charter.\n(Code 1981, § 2-60; Ord. No. 3088, § 2, 6-27-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-380"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

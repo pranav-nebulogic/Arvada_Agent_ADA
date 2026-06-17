@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-32-008",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "see",
+      "increases",
+      "bill",
+      "rate",
+      "fee",
+      "reflected",
+      "beginning",
+      "first",
+      "Water & Sewer Billing"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=32"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/when-will-i-see-increases-on-my-bill",
+    "faq_category_name": "Water & Sewer Billing"
+  },
+  "content": {
+    "title": "When will I see increases on my bill?",
+    "summary": "Rate and fee increases will be reflected beginning with your first bill of the year. Customers across Arvada receive their bills at different times. Every customer pays for 365 days of water at the rate for that year. The bill reflects the 8 weeks of water use, prior to the bill date. Please watch t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "When will I see increases on my bill?",
+        "a": "Rate and fee increases will be reflected beginning with your first bill of the year. Customers across Arvada receive their bills at different times. Every customer pays for 365 days of water at the rate for that year. The bill reflects the 8 weeks of water use, prior to the bill date. Please watch the Understanding Your Utility Bill video or visit the Rates and Fees webpage for more information."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

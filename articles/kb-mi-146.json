@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "code",
+      "enforcement",
+      "neighborhood",
+      "services",
+      "community",
+      "ensure",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/400/Code-Enforcement-Neighborhood-Services"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-146",
+    "spreadsheet_id": "MI-146",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Code Enforcement (Neighborhood Services)",
+    "summary": "The Code Enforcement division aims to maintain the community's commercial and residential areas by addressing reported concerns from residents. Complaints can be submitted online through the Ask Arvada system, by phone, or in person, with a response assigned within three days. The enforcement process involves inspections, notices of violation, and potential court proceedings if compliance is not achieved, with specific workflows for vehicle-related violations.",
+    "body": "Our goal is to ensure the community is preserved for a lifetime. To achieve this goal, we work to ensure commercial and residential areas are maintained. Code Enforcement officers respond to reports submitted by community members. Code enforcement can be a complicated process and can vary based on many factors. Please keep in mind that the issue you are reporting may not be resolved as quickly as you would prefer. Due process must be followed.\n\n## Report a Code Concern\n\nThere are several ways that you may register a concern. If you have a question about city ordinances, please explore the [Common Code Questions page](/408/Common-Code-Questions).\n\n- **Online**- The most efficient way to enter a complaint is to submit a code concern using Ask Arvada.\n\n### To enter a complaint online:\n\n- **The Ask Arvada system requires you to create a user account by providing your email address and your first and last name.**\n- When you create your user account, you will also choose your public display name. Your display name and the description that you entered might be visible to the public, depending on the type of request.\n- **Your real name and email address will never be displayed publicly**.\n- Your issue will be routed to the appropriate staff member for resolution.\n- Submissions that are incomplete or contain inaccurate or false information may not be processed.\n- **Anonymous submissions are not accepted.**\n\n- **Phone** - 720-898-7465\n- **In-person or by mail**:  \n  8101 Ralston Road  \n  Arvada, CO 80002\n\n## What to Expect After You Report a Code Concern\n\nAll Code Enforcement concerns will be assigned to a team member **within 3 days**.\n\n### Code Violation Workflow\n\nMost Code Violations move through the system using a similar workflow. Violations involving a vehicle, RV, or trailer follow a slightly different workflow\n\n### Most Violations\n\nThe timeframe described sometimes varies, depending on the type of violation. These are the steps in the workflow when a report has been received:\n\n1. A Code Compliance Officer performs an inspection within 30 days of the report.\n2. If a violation is found, a notice of violation is served and the property must be compliant within 30 days.\n3. A second inspection is performed when the deadline is reached.\n4. If the property is in compliance, the report is closed and no further action is taken. If the violation has not been corrected, a summons is issued to the property owner.\n5. Once a summons is issued, the case moves **out**of Code Enforcement and **into**the Court System.\n\n**Please Note:**\n\nA case that moves into the Court System can take up to a year to complete.\n\n### Violations involving a vehicle, RV, or trailer\n\nThe workflow is much shorter for these types of reports, unless the vehicle is on private property. Vehicle violations on private property do not follow this process and instead follow the same process as other violations described under the heading \"Most Violations.\"\n\n1. A Code Compliance Officer inspects the vehicle within 3 to 10 days.\n2. The vehicle is tagged with a warning and the tires and street are marked.\n3. Re-inspection occurs within 3 to 10 days after the vehicle is tagged.\n4. If the vehicle is in compliance, the report is closed and no further action is taken. If the violation has not been corrected, the vehicle is towed and the report is closed.\n\n**Please Note:**\n\nFull-size semi trucks (cab, trailer, or both) follow an expedited process.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

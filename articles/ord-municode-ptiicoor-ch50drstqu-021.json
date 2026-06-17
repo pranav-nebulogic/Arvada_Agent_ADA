@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "city",
+      "responsibilities",
+      "review",
+      "approval",
+      "permit",
+      "applications",
+      "each"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-55"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-55. - City responsibilities.",
+    "summary": "(a)\nReview and approval of permit applications.\n(1)\nThe city will review each site disturbance permit application or revised application\n               to determine the application's conformance with the provisions of this article, the\n               Land Development Code, and the Engineering Standa…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-55. - City responsibilities.",
+        "a": "(a)\nReview and approval of permit applications.\n(1)\nThe city will review each site disturbance permit application or revised application\n               to determine the application's conformance with the provisions of this article, the\n               Land Development Code, and the Engineering Standards. Upon the receipt and review\n               of an application, the director may, in writing:\n(i)\nApprove the permit application;\n(ii)\nApprove the permit application subject to such reasonable conditions as may be necessary\n               to substantially secure the objectives of this article, and issue the permit subject\n               to such conditions; or\n(iii)\nDisapprove the permit application, indicating the deficiencies. The applicant may\n               submit a revised site disturbance permit application for review and approval, upon\n               payment of a resubmittal fee as set forth in the public works administrative fees\n               and costs schedule.\n(b)\nClosure of permit without violation of this article.\n(1)\nThe city may close a site disturbance permit when:\n(i)\nFinal stabilization has occurred at the opinion of the director;\n(ii)\nThe final site conditions are in accordance with all terms of the site disturbance\n               permit; and\n(iii)\nThe condition of the site is approved by the director.\n(2)\nThe city may also close a site disturbance permit when there has been no activity\n               at the site for a period of more than 60 days when doing so is in the best interest\n               of the city.\n(3)\nNothing in this subsection (b) shall prohibit the city from revoking a site disturbance\n               permit due to a violation of this article.\n(c)\nAfter final stabilization.\nFollowing city final inspection, the permittee will confirm that final stabilization\n               has been achieved by:\n(1)\nRemoving all temporary BMP and completing any final landscaping; and\n(2)\nThe city will confirm no other outstanding site disturbance permit requirements remain\n               incomplete, close out the permit, and return any escrow amounts as appropriate.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-55"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

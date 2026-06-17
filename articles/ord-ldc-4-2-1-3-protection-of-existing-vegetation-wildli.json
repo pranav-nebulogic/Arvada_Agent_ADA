@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "protection",
+      "existing",
+      "vegetation",
+      "wildlife",
+      "areas",
+      "natural",
+      "features",
+      "general",
+      "requirements",
+      "layout"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-2-1-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-2. SUBDIVISION STANDARDS",
+    "division": "DIVISION 4-2-1. SUBDIVISION STANDARDS"
+  },
+  "content": {
+    "title": "4-2-1-3. Protection of existing vegetation, wildlife areas and natural features.",
+    "summary": "A.\tGeneral Requirements.\n  1.\tThe general layout of lots, roads, driveways, utilities, drainage facilities, and other services within all proposed subdivisions shall be designed in a manner that minimizes land disturbance and preserves existing trees, vegetation, watercourses, wildlife areas, and ot…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-2-1-3. Protection of existing vegetation, wildlife areas and natural features.",
+        "a": "A.\tGeneral Requirements.\n  1.\tThe general layout of lots, roads, driveways, utilities, drainage facilities, and other services within all proposed subdivisions shall be designed in a manner that minimizes land disturbance and preserves existing trees, vegetation, watercourses, wildlife areas, and other natural features that would add value to the proposed development. The development standards set forth in Division 4-6-2, Tree Removal and Replacement, shall be considered in the layout of the subdivision in order to avoid creating lots or patterns of lots that will make compliance with such standards difficult or infeasible.\n  2.\tExisting Trees On-Site. The determination of which existing site trees are to be saved, replaced, or relocated shall be made by the City, pursuant to Division 4-6-2, Tree Preservation and Replacement. No trees shall be removed from any subdivision or any change of grade of the land effected until approval of the plat has been granted. All trees on the platted area required to be retained shall be preserved, and all trees where required shall be welled and protected against change of grade.\nB.\tGeologic Hazard Areas and Protection of Natural Lands.\n  1.\tGeneral Requirements.\n    a.\tAll subdivisions shall comply with the standards in Division 4-1-4, Natural Hazards and Environmentally-Sensitive Areas.\n    b.\tAll subdivision plats shall be laid out with due regard to geologic hazards, including but not limited to existing soils, conditions, and slope stability. All subdivisions shall evidence design and use compatibility with existing soils, particularly in regard to topography, drainage, bearing capacity, and erosion potential. All subdivision design shall ensure adequate protection from potentially hazardous or undesirable soils or geological conditions on the development site.\n    c.\tNo subdivision shall be approved where the design or related facilities clearly constitute the creation of a hazardous circumstance or lack of provision for the public safety.\n  2.\tHazard Areas within Platted Lots.\n    a.\tTo the maximum extent feasible, lands that contain steep slopes (an average of 30 percent slope or greater as measured from the points with highest and lowest elevation within 25 feet of any portion of the proposed structure) or that show evidence of slope instability, landslides, avalanches, or other natural or man-made hazards shall not be included in platted lots, or alternately, shall not be included within the plats and/or an individual lot's identified Limits of Development. See Section 4-1-4-2, Limits of Development.\n    b.\tAlternately, platted lots may contain such hazard areas only if an acceptable mitigation and remedial plan, prepared by a Colorado-licensed geotechnical engineer, is approved by the City Engineer. Such mitigation plans shall be judged by generally accepted principles of engineering adapted to the particular circumstances of the subdivision site. If approved, the plat shall include a plat note that all development in the subdivision shall be carried out in conformity with such mitigation and remedial plans.\n  3.\tFloodplain.\n    a.\tAll subdivisions containing lands within the 100-year floodplain, as shown on the most current FIRM and FIS, shall comply with Division 4-1-2, Floodplain Regulations.\n(Ord. No. 4867, § 3, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-2-1-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

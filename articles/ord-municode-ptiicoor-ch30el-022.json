@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "action",
+      "city",
+      "council",
+      "initiated",
+      "ordinance",
+      "adopted",
+      "registered"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-38"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-38. - Action by city council.",
+    "summary": "(a)\nNo initiated ordinance which is adopted by the registered electors of the city may\n               be amended or repealed by the city council during the six-month period following the\n               date of the election on the initiated ordinance.\n(b)\nNo referred ordinance which is repealed by th…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-38. - Action by city council.",
+        "a": "(a)\nNo initiated ordinance which is adopted by the registered electors of the city may\n               be amended or repealed by the city council during the six-month period following the\n               date of the election on the initiated ordinance.\n(b)\nNo referred ordinance which is repealed by the registered electors may be subsequently\n               adopted by the city council during the six-month period following the date of the\n               election on the referred ordinance.\n(c)\nCity council shall have the power to make technical amendments to initiated or Charter\n               amendment ordinances which do not change the intent of the ordinance adopted by the\n               registered electors.\n(d)\nCity council shall have the power to resubmit to a vote any proposed ordinance reviving,\n               repealing, or amending an ordinance which has been adopted or rejected by a vote of\n               the registered electors upon city council's own initiative without a petition.\n(e)\nAny ballot issue, ballot question, or ballot title submitted through a petition process\n               at a special election shall be prohibited to be submitted at a subsequent special\n               election within a period of two years following the initial special election.\n(f)\nCity council shall have the power to submit any proposed or adopted ordinance or any\n               ballot issue or ballot question to a vote of the registered electors without receipt\n               of a petition.\n(Code 1981, § 11-29; Ord. No. 3511, § 2, 2-1-1999)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-38"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

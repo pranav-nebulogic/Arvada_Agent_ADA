@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "change",
+      "street",
+      "elevation",
+      "grade",
+      "any",
+      "project",
+      "result"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-28"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-28. - Change in street elevation or grade.",
+    "summary": "If any project will result in any substantial change in any existing street elevation\n               or grade, it shall be sufficient for the notice required in this article merely so\n               to state without stating a description of the extent or the location of such change.\n               I…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-28. - Change in street elevation or grade.",
+        "a": "If any project will result in any substantial change in any existing street elevation\n               or grade, it shall be sufficient for the notice required in this article merely so\n               to state without stating a description of the extent or the location of such change.\n               It shall not be necessary finally to establish the street elevation or grade line\n               or to finalize completed plans until after the provisional order hearing, but prior\n               to the time of the final passage of the ordinance creating the district.\n(Code 1981, § 27-29; Ord. No. 551, § 13(G), 5-14-1964; Ord. No. 766, § 5, 6-16-1969)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-28"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

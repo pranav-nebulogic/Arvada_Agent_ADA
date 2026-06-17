@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "false",
+      "identification",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "offer"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-41"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-41. - False identification.",
+    "summary": "It shall be unlawful for any person to offer, use or attempt to offer or use any means,\n               manner, type or kind of paper, document, card, license or any other evidence of the\n               identification of such person for the purpose of making sales or purchases of commodities,\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-41. - False identification.",
+        "a": "It shall be unlawful for any person to offer, use or attempt to offer or use any means,\n               manner, type or kind of paper, document, card, license or any other evidence of the\n               identification of such person for the purpose of making sales or purchases of commodities,\n               cashing checks, making other monetary transactions, to gain admission to any place\n               or for any other purpose whatsoever where such means, manner, type or kind of identification\n               offered or used, or which is attempted to be offered or used, is false, fraudulent\n               or incorrect in any manner or way, or which misrepresents such person so offering\n               or using the same, or who attempts to offer or use the same, or which does not belong\n               to such person, or which is altered, forged or changed in any respect; except such\n               changes as are required or authorized by law.\n(Code 1960, § 17-17; Code 1981, § 21-10)\nState Law reference—\nForgery, simulation, impersonation, etc., C.R.S. § 18-5-101 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-41"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

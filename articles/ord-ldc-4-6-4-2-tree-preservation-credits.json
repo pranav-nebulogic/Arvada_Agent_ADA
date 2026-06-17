@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "tree",
+      "preservation",
+      "credits",
+      "generally",
+      "existing",
+      "trees",
+      "preserved",
+      "subject",
+      "property",
+      "excluding"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-4-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-4. CALCULATION OF LANDSCAPE REQUIREMENTS"
+  },
+  "content": {
+    "title": "4-6-4-2. Tree preservation credits.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-4-2. Tree preservation credits.",
+        "a": "A.\tGenerally. Existing trees that are preserved on a subject property, excluding existing, individual residential lots, count towards the tree replacement requirements of this Article, provided that:\n  1.\tThey are either:\n    a.\tOn the approved plant list; or\n    b.\tDeemed of significant community value by the Director; and\n  2.\tThey are not:\n    a.\tDiseased;\n    b.\tPoor in form;\n    c.\tLeaning heavily over buildings;\n    d.\tToo close to building foundations;\n    e.\tDamaging sidewalks and driveways; or\n    f.\tImpacting utilities.\nB.\tCredit for Preservation of Trees. Healthy, mature trees that are preserved on-site may count only towards trees removed."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

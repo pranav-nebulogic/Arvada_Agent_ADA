@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "olde",
+      "town",
+      "purpose",
+      "form",
+      "based",
+      "zoning",
+      "district",
+      "protect",
+      "established",
+      "historic"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-5-1"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-5. OLD TOWN DISTRICT"
+  },
+  "content": {
+    "title": "2-1-5-1. OT: Olde Town.",
+    "summary": "A.\tPurpose. The purpose of the Olde Town (OT) form-based zoning district is to protect the established historic character of Olde Town Arvada based on the City's adopted plans and design guidelines for the area.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-5-1. OT: Olde Town.",
+        "a": "A.\tPurpose. The purpose of the Olde Town (OT) form-based zoning district is to protect the established historic character of Olde Town Arvada based on the City's adopted plans and design guidelines for the area. The purpose of this Division is to establish lot, building, and form standards for buildings in the OT zoning district. This Division is applied in conjunction with the Design Guidelines for Olde Town Arvada.\nB.\tRelationship to the Comprehensive Plan. The OT zoning district generally implements the \"Transit Framework Plan\" land use category stated in the Comprehensive Plan.\nC.\tApplication of Division.\n  1.\tSection 2-1-5-2, Building Types, describes eight different building types that are permissible in the OT zoning district. The section includes a matrix that indicates which building types are allowed in each OT subdistrict.\n  2.\tSection 2-1-5-3, Generally Applicable Lot and Building Form Standards, explains each of the standards and measures that are used in the tables in Section 2-1-5-4, Mixed-Use Building Type Lot and Building Form Standards, through Section 2-1-5-11, Civic Building Type Lot and Building Form Standards, inclusive.\n  3.\tSection 2-1-5-4, Mixed-Use Lot and Building Form Standards, through Section 2-1-5-11, Civic Building Lot and Building Form Standards, inclusive, set out the specific standards that apply to each of the permissible building types.\nD.\tFuture Expansion of Structure. Notwithstanding the build-to or frontage zone requirements established in this Division, enlargement, alteration, or expansion in the Olde Town Zoning District shall occur in the most historically appropriate location as determined through design review.\nE.\tSubdistricts. The Olde Town zoning district is divided into seven subdistricts that have different form, characteristics, and allowable land uses and the subdistricts contain form-based standards tailored to the distinct character of each area where the subdistrict is applied:\n  1.\tOT-E: Olde Town East Subdistrict\n  2.\tOT-EY: Olde Town East Yukon Subdistrict\n  3.\tOT-GV: Olde Town Grandview Subdistrict\n  4.\tOT-OW: Olde Town Olde Wadsworth Subdistrict\n  5.\tOT-RN: Olde Town Residential Neighborhood Subdistrict\n  6.\tOT-RR: Olde Town Ralston Road Subdistrict\n  7.\tOT-W: Olde Town Webster Subdistrict.\nF.\tCross-References. The cross-references in Table 2-1-5-1, Cross-References for Olde Town, are provided for the reader's convenience and are not necessarily exhaustive of applicable regulations."
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

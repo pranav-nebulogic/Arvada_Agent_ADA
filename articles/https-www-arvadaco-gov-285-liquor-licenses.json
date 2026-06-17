@@ -1,0 +1,53 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "license",
+    "permit_type": "liquor_license",
+    "category": "licensing",
+    "source_urls": [
+      "https://www.arvadaco.gov/285/Liquor-Licenses"
+    ],
+    "scraped_at": "2026-06-10T11:01:22.214997+00:00",
+    "content_hash": "16e44dce6275be4ccb0db4478531c373f36f63f3f71c94d12f8052ae7fb15391",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Liquor Licenses",
+    "summary": "The Arvada City Clerk's office manages liquor licensing within the City of Arvada, including new applications, transfers, renewals, special event permits, and administrative services related to liquor licenses. Applicants should contact the Deputy City Clerk for specific application requirements and fees.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Contact the City Clerk's Office",
+        "text": "Because every situation is different regarding which application forms, fees and other necessary documents are required, please email Sarah Walters, Deputy City Clerk, or call 720-898-7544.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "City Clerk's Office",
+      "phone": "720-898-7544",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "special_event_liquor_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1363
+}

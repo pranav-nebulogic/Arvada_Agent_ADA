@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "finances",
+      "budget",
+      "year",
+      "current",
+      "funds",
+      "major",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/233/City-Finances"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-132",
+    "spreadsheet_id": "MI-132",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "City Finances",
+    "summary": "The City of Arvada employs long-range planning for its major operating funds, preparing a two-year budget alongside a ten-year financial plan to ensure fiscal soundness. The City Council has adopted the 2025 to 2026 Biennial Operating and Capital Budget, while also prioritizing financial transparency by sharing information such as the Annual Comprehensive Financial Report.",
+    "body": "The City of Arvada utilizes long-range planning for each of the City's major operating funds. Specifically, the City prepares a two-year budget and a ten-year financial plan. This method of budgeting is used to determine if future impacts of the current proposed budget are fiscally sound. City Council's adopted budget and fiscal policies require minimum fund balances in each of the major operating funds be maintained. Using the ten-year models, the City is able to test the effects of current financial decisions on future years' financial conditions when approving funding requests throughout the organization.\n\n## The Budget\n\nThe Arvada City Council has adopted the [2025 to 2026 Biennial Operating and Capital Budget](/235/Budget)\n\n## Financial Transparency\n\nThe City of Arvada is committed to [financial transparency](/237/Financial-Transparency) and the sharing of information, including the Annual Comprehensive Financial Report (ACFR) and other financial reports. Learn more.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

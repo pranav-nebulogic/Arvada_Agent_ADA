@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "residential",
+      "water",
+      "fees",
+      "parks",
+      "street",
+      "medians",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-168"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-168. - Residential water fees for parks and street medians.",
+    "summary": "(a)\nAll residential water fees collected under\nsection 102-161\n(3),\nsection 102-161.5\n(3),\nsection 102-161.6\n(3), or\nsection 102-163\n(3) shall be charged an additional amount based on the following schedule:\nType of Residence\nAmount per Unit\nIn City\nOut of City\na. Single-family\n$1,000.00\n$1,500.00\nb…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-168. - Residential water fees for parks and street medians.",
+        "a": "(a)\nAll residential water fees collected under\nsection 102-161\n(3),\nsection 102-161.5\n(3),\nsection 102-161.6\n(3), or\nsection 102-163\n(3) shall be charged an additional amount based on the following schedule:\nType of Residence\nAmount per Unit\nIn City\nOut of City\na. Single-family\n$1,000.00\n$1,500.00\nb. Duplex\n$750.00\n$1,125.00\nc. Multifamily\n$500.00\n$750.00\n(b)\nThe fees paid and collected by virtue of this section shall not be used for general\n               or other governmental propriety purposes of the city and shall be used solely to pay\n               for the cost of water taps for new and existing parks and street medians.\n(Code 1981, § 33-84; Ord. No. 3490, § 1, 10-26-1998;\nOrd. No. 4361, § 9, 10-22-2012, eff. 1-1-2013\n; Ord. No. 4819, § 26, 10-17-2022, eff. 7-1-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-168"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

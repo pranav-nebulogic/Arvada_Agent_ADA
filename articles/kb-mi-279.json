@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "intercity",
+      "claim",
+      "recovery",
+      "sales",
+      "collect",
+      "correctly",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/343/Intercity-Claim-for-Recovery"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-279",
+    "spreadsheet_id": "MI-279",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Intercity Claim for Recovery",
+    "summary": "The Intercity Claim for Recovery aims to standardize the process for reclaiming sales or use taxes mistakenly paid to the wrong municipality, while maintaining the taxpayer's responsibility to remit taxes correctly. When a vendor is found to have collected taxes for another municipality, the city will notify them to cease improper collections and may file a claim for recovery, which must include a release from the taxpayer and supporting evidence. Claims must be submitted within 36 months of the incorrect payment, and the city will respond within 90 days, remitting any approved amounts within 30 days.",
+    "body": "The intent of Intercity Claim for Recovery is to streamline and standardize procedures related to situations where tax has been remitted to the incorrect municipality. It is not intended to reduce or eliminate the responsibilities of the taxpayer or vendor to correctly pay, collect and remit sales and use taxes to the city.\n\n\"Intercity claim for recovery\" is a claim for reimbursement of sales or use tax, or both paid to the wrong taxing jurisdiction.\n\nWhen it is determined that sales or use tax or both, owing to the city have been reported and paid to another municipality, the city shall promptly notify the vendor that taxes are being improperly collected and remitted, and that as of the date of the notice the vendor must cease improper tax collections and remittances.\n\nThe city may make a written claim for recovery directly to the municipality that received tax and/or penalty and interest owed to the city, or, in the alternative, may institute procedures for the collection of the tax from the taxpayer or vendor. The decision to make a claim for recovery lies at the sole discretion of the city. Any claim for recovery shall include a properly executed release of claim from the taxpayer and/or vendor releasing its claim to the taxes paid to the wrong municipality, evidence to substantiate the claim (this would include a sampling of invoices which show the \"shipped to\" address and sales taxes collected), and a request that the municipality approves or deny, in whole or in part, the claim within 90 days of its receipt. The municipality to which the city submits a claim for recovery may, for good cause, request an extension of time to investigate the claim, and approval of such extension by the city shall not be unreasonably withheld.\n\nWithin 90 days after receipt of a claim for recovery, the city shall verify to its satisfaction whether or not all or a portion of the tax claimed was improperly received and shall notify the municipality submitting the claim in writing that the claim is either approved or denied in whole or in part, including the reasons for the decision. If the claim is approved in whole or in part, the city shall remit the undisputed amount to the municipality submitting the claim within 30 days after approval. If a claim is submitted jointly by a municipality and a vendor or taxpayer, the check shall be made to the parties jointly. Denial of a claim for recovery may only be made for a good cause.\n\nThe city may deny a claim on the grounds that it has previously paid a claim for recovery arising out of an audit of the same taxpayer.\n\nThe period subject to the claim for recovery shall be **limited to the 36-month period** prior to the date the municipality that was wrongly paid the tax receives the claim for recovery.\n\n## Example\n\nAtlas Computer Inc, which is located in Denver, delivered a new computer system to AAA Electronic, an Arvada business. Atlas Computer collected Denver sales tax on the sales and AAA Electronics paid the invoice. AAA Electronics' was later audited and during the review, the auditor picked up the Atlas Computer invoice as a spin-off audit. The auditor sent an Intercity Claim for Recovery to Atlas Computers to sign for the release of any claim to the sales taxes that they had collected and remitted to Denver. The claim was returned to the auditor and then sent on to the City and County of Denver. The full 4.31% tax rate was requested to include the excess tax rate of 0.85% (4.31% Denver - 3.46% Arvada).\n\nIf the same situation had occurred as stated above, but Atlas was a Lakewood vendor and it was an Intercity Claim for Recovery to the City of Lakewood, then the entire tax that was remitted to Lakewood (3%) would be claimed for recovery. The incremental difference of 0.46% would have been picked up during the audit of AAA Electronics.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

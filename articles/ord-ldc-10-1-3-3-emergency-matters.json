@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "emergency",
+      "matters",
+      "case",
+      "violations",
+      "constitute",
+      "create",
+      "increased",
+      "problems",
+      "costs",
+      "remedied"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "10-1-3-3"
+    ],
+    "chapter": "Chapter 10 ENFORCEMENT",
+    "article": "ARTICLE 10-1. ENFORCEMENT",
+    "division": "DIVISION 10-1-3. ENFORCEMENT PROCEDURES"
+  },
+  "content": {
+    "title": "10-1-3-3. Emergency matters.",
+    "summary": "In the case of violations of this LDC that constitute an emergency, or violations that will create increased problems or costs if not remedied immediately, the Zoning Enforcement Officer may use the enforcement powers available under this Article without prior notice, but the Officer shall attempt t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "10-1-3-3. Emergency matters.",
+        "a": "In the case of violations of this LDC that constitute an emergency, or violations that will create increased problems or costs if not remedied immediately, the Zoning Enforcement Officer may use the enforcement powers available under this Article without prior notice, but the Officer shall attempt to give notice simultaneously with beginning enforcement action or as soon thereafter as practicable. Notice may be provided to the property owner, agent, occupant, or to the Applicant for any pending application or request for an approval or permit."
+      }
+    ],
+    "ordinance_refs": [
+      "10-1-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

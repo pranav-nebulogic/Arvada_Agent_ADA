@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "july",
+      "address",
+      "area",
+      "atlas",
+      "business",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1422/New-Businesses-July-2025"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-346",
+    "spreadsheet_id": "MI-346",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses July 2025",
+    "summary": "In July 2025, several new businesses opened in Arvada, Colorado, including 2020 Mobile Corp, Elevate Health Chiropractic LLC, and RAMAH Home, among others. The list features a variety of services such as real estate, health, and food, with addresses and contact information provided for each establishment.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew Businesses July 2025\n\n| 2020 Mobile Corp | 5057 W 64TH AVE ARVADA CO 80003 | 909-587-2973 |\n| Area Pros Real Estate | ARVADA CO 80004 | 303-520-5282 |\n| Atlas Trail Works LLC | ARVADA CO 80003 | 719-221-1066 |\n| Elevate Health Chiropractic LLC | 5400 WARD RD 5-105 ARVADA CO 80002 | 720-688-6372 |\n| EVG Extracts LLC | 5045 ROBB ST 400 ARVADA CO 80033 | 833-215-8482 |\n| Fog and Flag Ltd | ARVADA CO 80007 | 303-482-6837 |\n| Gardenia Massage LLC | 12330 W 58TH AVE 6 ARVADA CO 80002 | 617-961-9638 |\n| Gas & Food | 6215 CARR ST ARVADA CO 80004 | 720-747-7878 |\n| Geneste Properties LLc | 13722 W 67TH PL ARVADA CO 80004 | 720-307-3102 |\n| Headband Movers | 6275 JOYCE DR 200 ARVADA CO 80403 | 303-381-2955 |\n| Jama at Freedom Street | 15177 CANDELAS PKWY ARVADA CO 80007 | 720-263-1536 |\n| Mattress by Appointment Arvada | 6680 WADSWORTH BLVD D ARVADA CO 80003 | 720-772-6958 |\n| Middle School Money Makers LLC | ARVADA CO 80003 | 913-991-2311 |\n| North Current LLC | ARVADA CO 80007 | 720-635-7902 |\n| Ramah Home | 5642 WADSWORTH BLVD ARVADA CO 80002 | 303-422-7758 |\n| ROSSI LIQUORS | 12399 W 64TH AVE ARVADA CO 80004 | 719-494-5773 |\n| Tan Bookkeeping | ARVADA CO 80005 | 720-252-0536 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

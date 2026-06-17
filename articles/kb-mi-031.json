@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "administrative",
+      "schedule",
+      "colorado",
+      "police",
+      "records",
+      "fees",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1315/Administrative-Fee-Schedule"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-031",
+    "spreadsheet_id": "MI-031",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Administrative Fee Schedule",
+    "summary": "The Arvada Police Department outlines its administrative fee schedule for accessing police records, which includes charges based on the number of pages and any required redactions. Fees for digital media records, such as video and audio, are determined by processing time, with a deposit required, while a letter of police clearance costs $12.00 and is processed within 5 to 7 business days. Address searches for calls for service are also available, with varying fees depending on the duration of the search requested.",
+    "body": "The Arvada Police Department releases records in accordance with the Colorado Open Records Act and the Colorado Criminal Justice Records Act. Colorado law requires certain information to be redacted before a record can be released. All paid fees are non-refundable.\n\n## Police Records\n\nFees for copies of police reports are charged by the number of pages in the report. Additional fees apply for reports that require redaction by Colorado law. Requests for police reports will be completed in approximately 5 to 7 business days.\n\n### Record Search, Retrieval, and Dissemination Fees\n\n| Information Requested | Fee |\n| --- | --- |\n| Records request 10 pages or less | $10.00 |\n| Redaction, if required | $.50 per page |\n| Additional pages over 10 pages | $.25 per page |\n| Miscellaneous copies | $.25 per page |\n| Microfiche or microfilm search and retrieval | $.50 per page |\nRecords request prices\n\n## Digital Media Records\n\nFees for video and audio records are charged by the time needed to process the request, and a 50% deposit is required. Additional fees apply for recordings that require redaction by Colorado law. Requests for video and photograph records will be completed in approximately 5 to 7 business days. Audio recordings will be completed in approximately 10 to 14 business days.\n\n### Body Worn Camera and Other Video Recording Fees\n\n| Employee Processing Time | Fee |\n| --- | --- |\n| One hour (minimum fee) | $40.00 |\n| Additional 30 minutes | $20.00 |\n| Redaction, if required | $10.00 per 15 minutes |\nVideo recording prices\n\n### Audio Recording Fees\n\n| Employee Processing Time | Fee |\n| --- | --- |\n| One hour (minimum fee) | $20.00 |\n| Redaction, if required | $10.00 per 15 minutes |\nAudio recording prices\n\n### Photograph Fees\n\n| Type of Photo | Fee |\n| --- | --- |\n| Digital photos | $25.00 per CD |\n| Non-digital (film) photos | $1.00 per photo |\nPhotograph prices\n\n## Letter of Police Clearance (Records Check)\n\nA letter of police clearance (records check) will return physical arrests of, and summonses issued to, a named individual. Traffic violation information will not be included but can be requested [through the Colorado Department of Motor Vehicles](https://dmv.colorado.gov/driver-services-frequently-asked-questions). Juvenile information will only be released to the juvenile or the juveniles parent/legal guardian.\n\nRequests for a records check must include the subject's full name and date of birth. Records checks are $12.00 per individual and will be completed in approximately 5 to 7 business days.\n\n## Computer Search Projects\n\nRecords of calls for service at a specific location, between May 21, 2002 and March 21, 2018, can be obtained by requesting an address search. Address searches for records from March 22, 2018 to present can be [requested through Jeffcom](https://www.jeffcom911co.gov/).\n\nAn address search will include limited information about the calls for service at the address, including the date, call type, and case number if applicable. Specific incident details are not included. Police reports associated to a specific call for service may be requested separately. Dispatch notes and radio recordings for a specific incident may be [requested through Jeffcom](https://www.jeffcom911co.gov/).\n\nA basic address search will result in all calls for service at one address for a two year period. An advanced address search is required for calls for service at one address for more than a two year period, and will incur additional fees assessed per month requested. An extended search may be required in some cases, with additional labor fees assessed in 15 minute increments.\n\nAddress searches will be completed in approximately 7 to 10 business days.\n\n| Type of Search | Fee |\n| --- | --- |\n| Basic address search - all calls for service for two years | $10.00 |\n| Advanced address search - all calls for service for more than two years | $20.00 per month |\n| Extended search | $5.00 per 15 minutes |\nFees for Computer Search projects\n\n## Sex Offender Registration\n\n| Type of Record | Fee |\n| --- | --- |\n| Initial registration | $60.00 |\n| Re-registration | $25.00 |\n| Sexually Violent Predator registration | $75.00 |\nFees for Sex Offender Registration\n\n## Miscellaneous Fees\n\n| Service | Fee |\n| --- | --- |\n| Bonding Fee | $15.00 per warrant |\n| Fingerprinting for City business licenses | $7.00 |\n| Tow Fee | $200.00 minimum, additional fees may apply |\n| Sex offender registration list | No fee |\nOther fees",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "summary",
+      "destruction",
+      "removal",
+      "any",
+      "domestic",
+      "bee",
+      "colony"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-404"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-404. - Summary destruction or removal.",
+    "summary": "(a)\nAny domestic bee colony not residing in a hive box intended for beekeeping, or any\n               swarm of domestic bees, or any colony residing in a standard or homemade hive box\n               which, by virtue of its condition, has obviously been abandoned by the beekeeper,\n               is u…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-404. - Summary destruction or removal.",
+        "a": "(a)\nAny domestic bee colony not residing in a hive box intended for beekeeping, or any\n               swarm of domestic bees, or any colony residing in a standard or homemade hive box\n               which, by virtue of its condition, has obviously been abandoned by the beekeeper,\n               is unlawful and may be summarily destroyed or removed from the city by the city manager\n               or designee thereof. Summary destruction or removal from the city of any colony or\n               hive box as set forth herein shall not preclude prosecution for any violation of this\n               article.\n(b)\nNothing in this article shall prevent the city manager or designee thereof from exercising\n               his authority to summarily destroy, remove, or otherwise abate a swarm or colony of\n               non-domestic bees or honeybees which is found or deemed to constitute a nuisance under\n               article III of\nchapter 38\nof this Code.\n(c)\nIn all cases where the city manager or his designee determines that summary destruction\n               or removal of a swarm, colony, or hive box is necessary, 24 hours notice shall be\n               given in writing, signed by the city manager or his designee, to the owner, agent,\n               tenant, or occupant of such structure or premises to remove such swarm, colony, or\n               hive box. In case of such person's neglect or refusal to abate the same in accordance\n               with such notice, he shall be chargeable with the expenses which may be incurred in\n               the abatement thereof, to be collected by suit or otherwise in accordance with\nchapter 59\n, municipal liens, of this Code and in addition to the penalty provided in this article\n               for violation hereof.\n(\nOrd. No. 4345, § 1, 8-6-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-404"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

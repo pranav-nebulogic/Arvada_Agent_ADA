@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "review",
+      "update",
+      "emergency",
+      "operations",
+      "plan",
+      "basic",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-2"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-2. - Review and update of emergency operations plan (basic plan).",
+    "summary": "The city manager and the community resilience coordinator shall annually review the\n               emergency operations plan (basic plan) and update the document as necessary to ensure\n               that the plan enables the timely and effective use of all available city resources\n               to…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-2. - Review and update of emergency operations plan (basic plan).",
+        "a": "The city manager and the community resilience coordinator shall annually review the\n               emergency operations plan (basic plan) and update the document as necessary to ensure\n               that the plan enables the timely and effective use of all available city resources\n               to plan for, respond to and recover from civil emergencies, emergencies, or local\n               disasters, whether natural or manmade, that are likely to affect the health, security,\n               safety, or property of the inhabitants of the city.\n(\nOrd. No. 4827\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

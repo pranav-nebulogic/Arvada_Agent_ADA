@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exceptions",
+      "following",
+      "activity",
+      "shall",
+      "constitute",
+      "violation",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-153"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-153. - Exceptions.",
+    "summary": "The following activity shall not constitute a violation of\nsection 62-152\nwhere the minor is:\n(1)\nAccompanied by his parent, guardian, or other adult who has the lawful care and custody\n                  of the minor;\n(2)\nUpon an emergency errand directed by his parent, guardian, or other adult who …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-153. - Exceptions.",
+        "a": "The following activity shall not constitute a violation of\nsection 62-152\nwhere the minor is:\n(1)\nAccompanied by his parent, guardian, or other adult who has the lawful care and custody\n                  of the minor;\n(2)\nUpon an emergency errand directed by his parent, guardian, or other adult who has\n                  the lawful care and custody of the minor;\n(3)\nGoing to or returning directly home from a school activity, entertainment, recreational\n                  activity, or dance;\n(4)\nReturning directly home from lawful employment that makes it necessary to be in the\n                  above referenced public places during the proscribed period of time;\n(5)\nAttending or traveling directly to or from an activity involving the exercise of first\n                  amendment rights of free speech, freedom of assembly, or the free exercise of religion;\n                  or\n(6)\nTraveling interstate through the city.\n(\nOrd. No. 4084, § 1, 8-20-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-153"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

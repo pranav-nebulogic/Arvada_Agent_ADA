@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "community",
+      "civic",
+      "educational",
+      "health",
+      "care",
+      "institutional",
+      "standards",
+      "ambulance",
+      "services",
+      "located"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-3-6"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-3. USE-SPECIFIC STANDARDS FOR PRIMARY LAND USE"
+  },
+  "content": {
+    "title": "3-1-3-6. Community, civic, educational, health care, and institutional standards.",
+    "summary": "A.\tAmbulance Services.\n  1.\tThe use shall not be located within 300 feet of the boundary of a residential zoning district.\nB.\tCemetery.\n  1.\tAll cemeteries shall be subject to the following requirements:\n    a.\tCrematoriums and alkaline hydrolysis facilities are prohibited.\nC.\tCrematorium and Alkali…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-3-6. Community, civic, educational, health care, and institutional standards.",
+        "a": "A.\tAmbulance Services.\n  1.\tThe use shall not be located within 300 feet of the boundary of a residential zoning district.\nB.\tCemetery.\n  1.\tAll cemeteries shall be subject to the following requirements:\n    a.\tCrematoriums and alkaline hydrolysis facilities are prohibited.\nC.\tCrematorium and Alkaline Hydrolysis Facilities.\n  1.\tIn the IL and IG zoning districts, the use shall not be located within 300 feet of the boundary of a residential zoning district.\nD.\tDay Care Center, Adult or Child.\n  1.\tThe use shall take access from an arterial or collector street, or if possible from a local street if the subject property is located at the corner of the local street and an arterial or collector street and no single-family detached or duplex residential lots take access from the local street between the intersection and the access point to the subject property.\n  2.\tIn the OT-RR zoning district, the maximum building size shall be no more than 2,500 square feet of gross floor area.\nE.\tFuneral Home/Mortuary.\n  1.\tAll funeral homes/mortuaries shall be subject to the following requirements:\n    a.\tThe subject property shall take access from an arterial or collector street.\n    b.\tThe use shall not include a crematorium.\nF.\tPlace of Assembly.\n  1.\tAll places of assembly shall take access from an arterial or collector street, or from a local street if the subject property is located at the corner of the local street and an arterial or collector street.\n  2.\tIn the RN, R6, R13 and MX-N, MX-U, MX-T, OT-E, OT-EY, OT-GV, OT-OW, OT-RN and OT-RR zoning districts, the place of assembly building shall not exceed 40,000 square feet."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-3-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

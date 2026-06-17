@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "sign",
+      "placement",
+      "feet",
+      "signs",
+      "cannot",
+      "curb",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/934/Sign-Placement"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-035",
+    "spreadsheet_id": "BP-035",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Sign Placement",
+    "summary": "Sign placement regulations dictate that all signs, including political ones, must adhere to specific location and material guidelines rather than their content. Signs cannot be placed in public right-of-way areas, must be set back at least 12 feet from the curb or pavement edge, and cannot exceed 2 feet in height within visibility triangles. The City reserves the right to remove signs from both private and public properties if they are deemed unsafe or improperly placed, with disposal occurring without prior notice.",
+    "body": "All signs, including political signs, are regulated according to the structure that they are on, and/or material that they are made of, and not by their content.\n\n**Useful Tips:**\n\n- Signs cannot be located in the public right-of-way. Guide to finding right-of-way;\n  - Sign should be set back at least 12 feet from adjoining curb edge of the adjacent roadway and behind sidewalk.\n  - If no curb or sidewalk exists, 12 feet from the edge of the pavement.\n  - A sign taller than 2 feet cannot be placed in a visibility triangle.\n  - Power poles are in the right-of-way. If the sign is between power pole and street, it is in the right-of-way.\n- No signs can be attached to power poles, traffic signs, or utility boxes.\n\n**Sign Removal: A sign is subject to removal by the City as follows:**\n\n- Private property. Any sign, including any political sign, located within an unsafe location is subject to removal by the City. However, the  City generally seeks the cooperation of the private property owner before doing so.\n- Public property (not right-of-way). The City will remove private signs, including political signs, placed on City owned property or structures.\n- Public property (right-of-way). The City will remove private signs, including political signs, placed in public right-of-way.\n- City staff cannot relocate your signs to an appropriate location for  \n  you.\n- Signs removed by the City will be disposed of without further notice.\n\n[View a table of commonly used campaign signs](https://www.arvadaco.gov/DocumentCenter/View/2160/Campaign-Signs---Guide-to-political-signs-Rev-2023-1) along with where they are allowed, what is allowed, and what is restricted.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

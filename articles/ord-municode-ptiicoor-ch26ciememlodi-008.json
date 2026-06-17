@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "civil",
+      "emergency",
+      "means",
+      "conditions",
+      "unrest",
+      "including"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-33"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-33. - Definitions.",
+    "summary": "Civil emergency\nmeans conditions of unrest including, but not limited to, riot, civil disturbance,\n               unlawful assembly, hostile military or paramilitary action, war, terrorism, cyber\n               attack, breach of data, or sabotage.\nContinuity of operations\nmeans the development and m…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-33. - Definitions.",
+        "a": "Civil emergency\nmeans conditions of unrest including, but not limited to, riot, civil disturbance,\n               unlawful assembly, hostile military or paramilitary action, war, terrorism, cyber\n               attack, breach of data, or sabotage.\nContinuity of operations\nmeans the development and maintenance of a plan to relocate operations without the\n               loss of basic government functions.\nDeclaration\nmeans the written document executed by the city manager which declares a disaster,\n               emergency, or civil emergency.\nDisaster\nmeans the occurrence or imminent threat of widespread or severe damage, injury, or\n               loss of life or property resulting from any natural cause or cause of human origin,\n               including, but not limited to, fire, flood, earthquake, wind, storm, wave action,\n               hazardous substance incident, oil spill, or any other water contamination requiring\n               emergency action to avert danger or damage, volcanic activity, epidemic, air pollution,\n               blight, drought, infestation, explosion, civil disturbance, hostile military or paramilitary\n               action, or a condition of riot, insurrection, or invasion. See C.R.S. § 24-33.5-703(3);\n               42 U.S.C. § 5122(2).\nEmergency\nmeans any occurrence or imminent threat of widespread or severe damage, injury, or\n               loss of life or property resulting from a natural or manmade cause that is less severe\n               than a disaster, but of such severity that it cannot be handled by emergency response\n               agencies in conduct of their normal duties. See C.R.S. § 24-33.5-703(3.5).\nEmergency management\nmeans the marshaling of all resources available to meet all potential disasters or\n               emergencies under coordinated management. The phases of emergency management are mitigation,\n               preparedness, response, and recovery. See C.R.S. § 24-33.5-703(4.3).\nMitigation\nmeans any activities that actually eliminate or reduce the probability of occurrence\n               of disaster. See C.R.S. § 24-33.5-703(4.5); 2017 National Incident Management System\n               at 67.\nPreparedness\nmeans the development of plans, the stockpiling and inventory of critical resources,\n               the organization and training of response personnel, and the exercise of plans.\nProtection\nmeans the capabilities necessary to secure the City of Arvada against acts of terrorism\n               and manmade or natural disasters.\nPrevention\nmeans the capabilities necessary to avoid, prevent, or stop a threatened or actual\n               act of terrorism. For the purposes of the prevention framework, the term \"prevention\"\n               refers to preventing imminent threats. See National Preparedness Goal (2d 2015) (\"NPG\")\n               at A-2.\nRecovery\nmeans those actions, both short-term and long-term, that result in the planned redevelopment\n               of the City of Arvada after a disaster, consistent with disaster experience and with\n               measures available for hazard reduction. See C.R.S. § 24-33.5-703(7.3); NPG at A-2.\nResponse\nmeans the capabilities necessary to save lives, protect property and the environment,\n               and meet basic human needs after a civil emergency, emergency, disaster, or incident\n               has occurred. See C.R.S. § 24-33.5-703(7.7); NPG at A-2.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)\nCross reference—\nDefinitions,\n§ 1-2\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

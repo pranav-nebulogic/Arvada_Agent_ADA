@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "conduct",
+      "constituting",
+      "malfeasance",
+      "misconduct",
+      "office",
+      "officer",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-374"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-374. - Conduct constituting malfeasance and misconduct in office.",
+    "summary": "An officer shall not commit malfeasance or misconduct in office and shall be subject\n               to removal from office in accordance with the provisions provided herein in the event\n               of any of the following:\n(1)\nConviction of or an entry of judgment in any Colorado Court or an arbi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-374. - Conduct constituting malfeasance and misconduct in office.",
+        "a": "An officer shall not commit malfeasance or misconduct in office and shall be subject\n               to removal from office in accordance with the provisions provided herein in the event\n               of any of the following:\n(1)\nConviction of or an entry of judgment in any Colorado Court or an arbitration award\n                  upon a charge of malfeasance or misconduct in office.\n(2)\nConviction of or an entry of judgment by a Colorado Court including the Arvada Municipal\n                  Court or an arbitration award of a violation of the Charter,\nsection 6.5\n.\n(Code 1981, § 2-54; Ord. No. 3088, § 2, 6-27-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-374"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

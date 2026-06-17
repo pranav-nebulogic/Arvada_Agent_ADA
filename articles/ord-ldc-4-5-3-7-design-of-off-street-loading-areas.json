@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "design",
+      "street",
+      "loading",
+      "areas",
+      "generally",
+      "required",
+      "spaces",
+      "designed",
+      "constructed",
+      "maintained"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-3-7"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-3. PARKING AND LOADING DESIGN"
+  },
+  "content": {
+    "title": "4-5-3-7. Design of off-street loading areas.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-3-7. Design of off-street loading areas.",
+        "a": "A.\tGenerally. All required off-street loading spaces shall be designed, constructed, and maintained in accordance with the standards and requirements of this Section.\nB.\tLocation.\n  1.\tLoading spaces shall be located on the same lot as the building or structure to which they relate.\n  2.\tNo loading space shall be located in any front setback area.\n  3.\tExcept where alley loading or over-the-curb loading is allowed, loading areas shall be located and designed to ensure adequate on-site maneuvering area for delivery vehicles.\n  4.\tNo loading area shall be designed in a manner that would allow any vehicle to extend into any front setback area or adjacent to any residential zone district while being loaded or unloaded.\n  5.\tTrucks parked in loading areas shall not encroach into required parking spaces or building setbacks.\n  6.\tParked trucks loading or unloading materials shall not block travel lanes in parking lot or fire lanes.\nC.\tBuffering. Loading areas, including overhead doors, oriented so to face a residential zone district or a public right-of-way shall be screened from view from all property lines and adjacent streets to the greatest extent possible, as determined by the Director, by the following:\n  1.\tBy an opaque fence or wall between six feet and eight feet in height that incorporates at least one of the predominant materials and one of the predominant colors used in the principal building. The fence or wall may exceed eight feet in height when there is a difference in grade between the street and loading area to effectively screen the area. (For a drive-through stacking area, a fence or wall shall only be used when the area is adjacent to a residential zone district).\n  2.\tA landscape berm may be used instead or combined with the required fence or wall.\n  3.\tIf such areas are covered, then the covering shall include at least one of the predominant exposed roofing colors on the principal building.\nD.\tSurfacing. All required off-street loading spaces and access drives shall be improved with an asphaltic, concrete, or equivalent surface and shall be graded and drained in order to dispose of all surface water accumulation within such areas, as well as any associated parking area.\nE.\tAlleys. All alleys that are used for loading shall meet the City of Arvada Engineering Code of Standards and Specifications.\n(Ord. No. 4793, § 3, 3-21-2022; Ord. No. 4905, §§ 44, 45, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-3-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

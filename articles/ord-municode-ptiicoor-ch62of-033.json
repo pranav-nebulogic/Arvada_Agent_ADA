@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "littering",
+      "shall",
+      "unlawful",
+      "any",
+      "persons",
+      "dump",
+      "deposit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-63"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-63. - Littering.",
+    "summary": "(a)\nIt shall be unlawful for any persons to dump, deposit or dispose of any glass, paper,\n               can, bottle, box, garbage, or any other trash whatsoever anywhere on any street, alley,\n               road, highway, parking lot, public or community building, or any private property\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-63. - Littering.",
+        "a": "(a)\nIt shall be unlawful for any persons to dump, deposit or dispose of any glass, paper,\n               can, bottle, box, garbage, or any other trash whatsoever anywhere on any street, alley,\n               road, highway, parking lot, public or community building, or any private property\n               open to the general public except in a trash receptacle provided for such purpose.\n(b)\nLittering shall be punishable by a fine not to exceed the limits established in\nsection 1-5\n.\n(Code 1981, § 21-31; Ord. No. 2367, § 1, 11-3-1986)\nCross reference—\nLittering in parks, § 66-10; solid waste,\nch. 90\n.\nState Law reference—\nLittering of public or private property, C.R.S. § 18-4-511."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-63"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

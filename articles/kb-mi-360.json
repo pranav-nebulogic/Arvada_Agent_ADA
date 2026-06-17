@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "olde",
+      "town",
+      "east",
+      "yukon",
+      "district",
+      "mixed",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/219/OT-EY-Olde-Town-East-Yukon-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-360",
+    "spreadsheet_id": "MI-360",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "OT-EY (Olde Town East Yukon) District",
+    "summary": "The Olde Town-East Yukon zoning district in Arvada is designed to preserve the historic character of the area while allowing for a mix of residential, commercial, and civic uses. This mixed-use zone permits various forms such as townhomes, multifamily units, hotels, and offices, with specific regulations governing each use type as outlined in the Land Development Code. Certain uses are classified as allowed by-right, limited, or conditional, ensuring that development aligns with the city's design guidelines.",
+    "body": "The intent of the Olde Town form-based zoning districts is to protect the established historic character of Olde Town Arvada based on the City's adopted plans and design guidelines for the area. The Olde Town-East Yukon zoning district is a mixed use zone district allowing mixed-use, mixed-use parking structure, apartment, townhouse, accessory building, and civic building forms.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#tab71dc6b4c-1388-4f3b-be07-051e21a6fe4f_0)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Townhome | A | N/A |\n| Multifamily | A | N/A |\n| Boarding, Lodging, or Rooming House | A | N/A |\n| Group Home, FFHA | L | 3-1-3-3 |\n| Group Home, Not Specified Above | C | 3-1-3-3 |\n| Live-Work Unit | L | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#tab71dc6b4c-1388-4f3b-be07-051e21a6fe4f_1)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Bar / Tavern / Nightclub | L | 3-1-3-4 |\n| Bed and Breakfast | L | 3-1-3-4 |\n| Brew Pub / Distillery Pub / Limited Winery | L | 3-1-3-4 |\n| Hotel / Motel | A | N/A |\n| Recreation and Amusement, Indoor | A | N/A |\n| Recreation, Outdoor (other) | L | 3-1-3-4 |\n| Restaurant | A | N/A |\n| Restaurant, Fast Food | L | 3-1-3-4 |\n| Theater | A | N/A |\n\n1. [Commercial Uses](#tab71dc6b4c-1388-4f3b-be07-051e21a6fe4f_2)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Animal Day Care / Training | L | 3-1-3-5 |\n| Art Studio / Makerspace | L | 3-1-3-5 |\n| Continuing Care Facility | A | N/A |\n| Office, General or Professional | A | N/A |\n| Retail Sales and Services Type 1 | L | 3-1-3-5 |\n| Retail Sales and Services Type 2 | L | 3-1-3-5 |\n| Veterinary Offices or Clinics | L | 3-1-3-5 |\n| Workshop | A | N/A |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#tab71dc6b4c-1388-4f3b-be07-051e21a6fe4f_3)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Medical Office | A | N/A |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | L | 3-1-3-6 |\n| Private School, Vocational, Trade, College, or University | A | N/A |\n\n1. [Utility & Communications Uses](#tab71dc6b4c-1388-4f3b-be07-051e21a6fe4f_4)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Minor | L | 3-1-3-9 |\n| Other Wireless Communications Facilities | L | Chapter 7 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "additional",
+      "residential",
+      "standards",
+      "boarding",
+      "lodging",
+      "rooming",
+      "house",
+      "zoning",
+      "district",
+      "houses"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-3-3"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-3. USE-SPECIFIC STANDARDS FOR PRIMARY LAND USE"
+  },
+  "content": {
+    "title": "3-1-3-3. Additional residential standards.",
+    "summary": "A.\tBoarding, Lodging, or Rooming House.\n  1.\tIn the R13 zoning district, boarding, lodging, or rooming houses shall have not more than six sleeping rooms.\nB.\tGroup Home.\nGenerally: Unless otherwise expressly stated, all group homes shall meet the following standards:\n  1.\tThe Applicant is licensed b…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-3-3. Additional residential standards.",
+        "a": "A.\tBoarding, Lodging, or Rooming House.\n  1.\tIn the R13 zoning district, boarding, lodging, or rooming houses shall have not more than six sleeping rooms.\nB.\tGroup Home.\nGenerally: Unless otherwise expressly stated, all group homes shall meet the following standards:\n  1.\tThe Applicant is licensed by the State of Colorado to operate such facility, or is not required to be licensed. If said license is pending, approval may be conditionally granted, but shall not take effect until licensing becomes final.\n  2.\tThe group home will not have an adverse effect on the residential character and quality of life in the particular neighborhood. The Director may not deny development approval for a proposed group home solely on the basis of neighborhood opposition, where no valid and substantive evidence has been offered to show that the proposed group home would have such adverse effect.\n  3.\tAny proposed new structure or structural changes to an existing structure shall be consistent in architectural design and style with the character of the surrounding neighborhood.\n  4.\tThe Director shall have the authority to impose reasonable conditions upon the approval which are found necessary to operate the group home in a manner compatible with the neighborhood.\n  5.\tNo administrative activities of any private or public organization or agency other than those incidental to operation of the specific group home shall be conducted on the premises.\nC.\tGroup Home, FFHA.\n  1.\tAll group homes for developmentally disabled, elderly, or mentally ill persons shall be spaced from each other by the lesser of:\n    a.\t750 feet (linear distance from lot line to lot line); or\n    b.\tA spacing that is such that no two group homes are located on the same block or take access from the same street.\n  2.\tAs authorized by 42 USC § 3604(f)(9), no group home for developmentally disabled, elderly, or mentally ill persons shall provide housing to any individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical danger to the property of others.\n  3.\tIf the group home is to be located in an existing building, the building must comply with all applicable requirements of the Building and Fire Codes before the use is established.\n  4.\tThe group home shall not include more than one resident who is required to register as a sex offender pursuant to C.R.S. § 18-3-412.5, as amended.\nD.\tGroup Home for Juvenile Offenders.\n  1.\tAll group homes for juvenile offenders require a conditional use approval and shall be:\n    a.\tSpaced from each other by at least 750 feet (linear distance from lot line to lot line);\n    b.\tLocated on a lot with a lot area that is at least 1,000 sf. per resident; and\n    c.\tProvided with 24-hour on-site supervision and security, approved by the Director and the Chief of Police, with input from the placing agency.\n  2.\tAs authorized by 42 U.S.C. § 3604(f)(9), no group home for juvenile offenders shall provide housing to any individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical danger to the property of others.\n  3.\tIf the group home is to be located in an existing building, the building must comply with all applicable requirements of the Building and Fire Codes before the use is established.\n  4.\tThe group home shall not include more than one resident who is required to register as a sex offender pursuant to C.R.S. § 18-3-412.5, as amended.\nE.\tGroup Home (Not Specified).\n  1.\tAll group homes that do not serve a class or group of residents protected by the Fair Housing Act, shall be allowed only as a conditional use in all zoning districts, provided the number of residents does not exceed 12 persons, including resident supervisory personnel.\n  2.\tConditional use approval for any group home may be granted for the term of the facility's license, or for such shorter period as the Decision-Making Body shall find appropriate under the circumstances of the individual case, but in no event for a period greater than two years.\n  3.\tIf active and continuous operations are not carried on for a period of 12 consecutive months in a group home approved as a conditional use, the group home shall be considered to be abandoned. The use may be reinstated only after obtaining a new conditional use approval.\n  4.\tAt the expiration of its term, a conditional use approval for any group home shall automatically renew under the same conditions, including duration, as the original approval, unless the Director or the group home licensing agency has received written complaints concerning the operation of the group home during the term of the conditional use permit. If any such complaint has been received, the application for renewal must be heard by the Decision-Making Body under the same requirements for a new conditional use application.\nF.\tLive-Work Unit.\n  1.\tAll live-work units shall comply with the following standards:\n    a.\tThe R13 and R24 residential portion of the live-work unit shall occupy more than 50 percent of the gross floor area.\n    b.\tThe nonresidential portion of the live-work unit shall comply with all applicable nonresidential Building and Fire code requirements.\n    c.\tThe number of employees shall be limited to the occupants of the residential portion of the live-work unit plus up to two persons not residing in the residential portion."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

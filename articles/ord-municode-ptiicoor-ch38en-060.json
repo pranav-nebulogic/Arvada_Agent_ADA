@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "enforcement",
+      "penalties",
+      "division",
+      "shall",
+      "implemented",
+      "arvada",
+      "police"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-307"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-307. - Enforcement and penalties.",
+    "summary": "(a)\nEnforcement of this division shall be implemented by the Arvada Police Department.\n(b)\nNotice of the provisions set forth in this division shall be given to all applicants\n               for a business license in the City of Arvada.\n(c)\nAny person who desires to register a complaint under this c…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-307. - Enforcement and penalties.",
+        "a": "(a)\nEnforcement of this division shall be implemented by the Arvada Police Department.\n(b)\nNotice of the provisions set forth in this division shall be given to all applicants\n               for a business license in the City of Arvada.\n(c)\nAny person who desires to register a complaint under this chapter may initiate a complaint\n               with the Arvada Police Department.\n(d)\nAny owner, manager, operator, or employee of any establishment regulated by this division\n               shall inform persons violating this division of the appropriate provisions thereof\n               and request their compliance.\n(e)\nNo person or employer shall discharge, refuse to hire or retaliate in any manner against\n               any employee, applicant for employment, or customer because such employee, applicant,\n               or customer exercises any right to a smoke-free environment afforded by this division.\n(f)\nIt shall be unlawful for any person who owns, manages, operates or otherwise controls\n               the use of any premises subject to regulation under this ordinance to fail to comply\n               with any of its provisions.\n(g)\nIt shall be unlawful for any person to smoke in any area where smoking is prohibited\n               by the provisions of this division.\n(h)\nAny person who violates or any entity which violates any provision of this division\n               shall be guilty of an infraction, punishable by:\n(1)\nA minimum fine of $200.00 for the first violation.\n(2)\nA minimum fine of $300.00 for the second violation.\n(3)\nA minimum fine of $500.00 for each additional violation of this division.\n(4)\nEach day of continuing violation shall be deemed to be a separate violation.\n(i)\nA person who commits any act that is unlawful pursuant to this division will be punished\n               as set forth herein, except that any violation of this division that would also constitute\n               a felony under the Colorado Revised Statutes will be charged and prosecuted pursuant\n               to the applicable Title thereof.\n(\nOrd. No. 4003, § 1, 6-5-2006\n;\nOrd. No. 4501, § 6, 5-4-2015\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-307"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

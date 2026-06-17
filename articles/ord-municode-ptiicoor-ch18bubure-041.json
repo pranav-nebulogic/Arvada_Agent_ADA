@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "scope",
+      "hereby",
+      "amended",
+      "read",
+      "follows",
+      "provisions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-169"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-169. - I.R.C. Section R101.2, Scope.",
+    "summary": "Section R101.2. Scope,\nis hereby amended to read as follows:\n\"\nR101.2. Scope.\nThe provisions of the International Residential Code for One- and Two-family Dwellings\n                  shall apply to the construction, alteration, movement, enlargement, replacement, repair,\n                  equipment,…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-169. - I.R.C. Section R101.2, Scope.",
+        "a": "Section R101.2. Scope,\nis hereby amended to read as follows:\n\"\nR101.2. Scope.\nThe provisions of the International Residential Code for One- and Two-family Dwellings\n                  shall apply to the construction, alteration, movement, enlargement, replacement, repair,\n                  equipment, use and occupancy, location, removal and demolition of detached one- and\n                  two-family dwellings and townhouses not more than three stories above grade plane\n                  in height with a separate means of egress and their accessory structures not more\n                  than three stories above grade plane in height.\nAny installation, alteration, modification, repair, movement, removal, demolition,\n                  or use of any system, equipment, or component that is not specifically covered in\n                  these chapters of the I.R.C. shall comply with applicable provisions of the related\n                  technical codes.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-169"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

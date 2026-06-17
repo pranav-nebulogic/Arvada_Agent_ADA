@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "investigation",
+      "receipt",
+      "properly",
+      "completed",
+      "application",
+      "together",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-55"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-55. - Investigation.",
+    "summary": "(a)\nOn receipt of a properly completed application, together with all information required\n               in connection therewith, and the payment of all applicable fees, the city clerk shall\n               transmit photocopies of the application to the police department and the building\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-55. - Investigation.",
+        "a": "(a)\nOn receipt of a properly completed application, together with all information required\n               in connection therewith, and the payment of all applicable fees, the city clerk shall\n               transmit photocopies of the application to the police department and the building\n               division for investigation. Investigations shall be completed within 30 days of the\n               date the application is filed with the city clerk, pursuant to\nsection 22-53\n(d).\n(b)\nThe police department shall be responsible for investigation of the background of\n               each person required to sign the application pursuant to\nsection 22-53\n(c), and all managers of the proposed adult business. The investigation conducted\n               by the police department shall verify the accuracy of all information required by\nsection 22-53\n. Each applicant shall pay a nonrefundable investigation fee at the time the application\n               is filed in the amount then charged by the Colorado Department of Public Safety for\n               each person who will be investigated. At the conclusion of its investigation, the\n               police department shall indicate on the photocopy of the application whether the required\n               information has been verified, date it, and sign it.\n(c)\nThe building division shall be responsible for ascertaining whether the application\n               is in compliance with applicable building and fire code regulations and the design,\n               floor plan, and building provisions of this chapter. At the conclusion of its investigation,\n               the building department shall indicate on the photocopy of the application whether\n               it is in compliance, date it, sign it, and in the event of noncompliance, state the\n               reasons therefor.\n(d)\nAfter their respective investigations, the police department and building division\n               shall each immediately return its photocopy of the application to the city clerk.\n(Code 1981, § 4-14; Ord. No. 3217, § 2, 9-18-1995; Ord. No. 3810, § 1, 6-16-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-55"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

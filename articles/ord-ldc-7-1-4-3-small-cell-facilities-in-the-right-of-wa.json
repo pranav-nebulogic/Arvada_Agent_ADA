@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "small",
+      "cell",
+      "facilities",
+      "right",
+      "generally",
+      "within",
+      "comply",
+      "design",
+      "standards",
+      "specified"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-4-3"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-4. ADDITIONAL STANDARDS BY FACILITY TYPE"
+  },
+  "content": {
+    "title": "7-1-4-3. Small cell facilities in the right-of-way.",
+    "summary": "A.\tGenerally. Small Cell Facilities within the right of way shall comply with the design standards specified in this Code and any administrative regulations adopted by the City related to facility design. The number of poles within the right of way shall be limited as much as possible.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-4-3. Small cell facilities in the right-of-way.",
+        "a": "A.\tGenerally. Small Cell Facilities within the right of way shall comply with the design standards specified in this Code and any administrative regulations adopted by the City related to facility design. The number of poles within the right of way shall be limited as much as possible. Small Cell Facilities in the right-of-way shall be designed and constructed to look like a facility or utility pole typically found nearby in the right-of-way and shall comply with the following design standards.\nB.\tPlacement Priorities. Small Cell Facilities in the public right-of-way shall be installed based on the following priorities unless specified differently in the MLA.\n  1.\tHighest priority is given to collocations using metal third-party poles (such as street light or distribution poles)\n  2.\tMetal street light poles in the right-of-way, purchased and maintained by the owner or provider\n  3.\tTraffic signal poles may be allowed provided no other reasonable opportunity for attachments exists and provided the detailed requirements of Small Cell Design Guidelines and the applicable MLA are met.\n  4.\tNew facilities placed on new wooden poles are prohibited, unless authorized through the MLA\n  5.\tSmall Cell Facilities strung on wires between existing poles are given the lowest priority and are highly discouraged.\nC.\tCamouflage and Concealment. The small cell facility shall be camouflaged/concealed consistent with other existing natural or manmade features in the Right-of-Way near the location where the WCF will be located.\n  1.\tAll antennas shall be concealed within the vertical pole or within a cantenna mounted to the top of the pole structure or behind a shroud.\n  2.\tEquipment shall be located within the pole base or screened from public view by the use of various screening techniques which may include undergrounding.\nD.\tLocation and Scale. The Small Cell Facility shall be:\n  1.\tSited to minimize the negative aesthetic impacts to the right-of-way; and\n  2.\tDesigned such that all facilities are sized and located to minimize visual clutter.\n  3.\tLimited to no more than ten feet higher (as measured from the ground to the top of the pole) than any existing utility or traffic signal within 600 feet of the pole or structure.\n  4.\tLimited to 40 feet (from base of pole to highest element (cantenna, light fixture, related accessory equipment, etc.), unless such pole is already existing at a greater height.\n  5.\tAny transmission equipment placed on an existing pole shall not extend more than eight feet above such pole.\n  6.\tWhen placed near a residential property, the WCF should be placed adjacent to the common side yard property line between adjoining residential properties, such that the WCF minimizes visual impacts equitably among adjacent properties. In the case of a corner lot, the WCF may be placed adjacent to the common side yard property line between adjoining residential properties, or on the corner formed by two intersecting streets. The Director may grant a waiver of these requirements if it is determined that such placement is not reasonably feasible from a construction, engineering or design perspective.\nE.\tSpacing.\n  1.\tNo new freestanding Small Cell Facility shall be within 600 feet of another freestanding Small Cell Facility. These separation requirements do not apply to attachments made to collocation on existing structures.\n  2.\tThe Director may exempt an application from these separation requirements if (1) the Applicant demonstrates through technical network documentation that the minimum separation requirement cannot be satisfied for technical reasons, or (2) the Director determines, when considering the surrounding topography; the nature of adjacent uses and nearby properties; and, the height of existing structures in the vicinity, that placement of a WCF at a distance less than 600 feet from another Small Cell Facility will meet the intent of reducing visibility and visual clutter of Small Cell Facilities to the extent possible.\nF.\tDesign and Materials. All collocated Small Cell Facilities shall, to the extent reasonably feasible, utilize metal poles that are consistent with the size and shape of the pole-mounted equipment installed by utility companies on utility in the surrounding area. In instances where collocation is intended for existing street lights mounted on wooden poles with overhead wires, the replacement design will be evaluated on a case by case basis with metal poles being the desired outcome.\nG.\tGround-Mounted Equipment and Enclosures.\n  1.\tGround mounted equipment shall be located in a manner necessary to address both public safety and aesthetic concerns.\n  2.\tEquipment enclosures shall be located out of view as much as possible\n  3.\tTechnical, construction, and engineering requirements may require a flush-to-grade underground equipment vault, where appropriate and reasonably feasible as determined by the reasonable discretion of the Director."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-4-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "payments",
+      "validate",
+      "contract",
+      "extent",
+      "city",
+      "makes",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-59"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-59. - Payments validate contract.",
+    "summary": "To the extent the city makes any payment thereunder, a contract or agreement under\n               the preceding section shall be valid, and any such payment may be included in any\n               cost defrayed by the levy of assessments unless theretofore the city elects to void\n               the co…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-59. - Payments validate contract.",
+        "a": "To the extent the city makes any payment thereunder, a contract or agreement under\n               the preceding section shall be valid, and any such payment may be included in any\n               cost defrayed by the levy of assessments unless theretofore the city elects to void\n               the contract or the agreement in its entirety and to recover any such payment from\n               the party to whom made.\n(Code 1981, § 27-60; Ord. No. 551, § 19(K), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-59"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

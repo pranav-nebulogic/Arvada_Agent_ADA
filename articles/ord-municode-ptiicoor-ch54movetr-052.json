@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalty",
+      "any",
+      "person",
+      "firm",
+      "corporation",
+      "violating",
+      "provisions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-186"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-186. - Penalty.",
+    "summary": "Any person, firm or corporation violating any of the provisions of\nsections 54-181\nthrough\n54-186\nshall, upon conviction thereof, be punished by a fine, or imprisoned, or both, not\n               to exceed the limits established in\nsection 1-5\n. Each and every day which the violation is permitted to…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-186. - Penalty.",
+        "a": "Any person, firm or corporation violating any of the provisions of\nsections 54-181\nthrough\n54-186\nshall, upon conviction thereof, be punished by a fine, or imprisoned, or both, not\n               to exceed the limits established in\nsection 1-5\n. Each and every day which the violation is permitted to exist shall constitute a\n               separate and distinct offense. The penalties herein shall not preclude the city from\n               initiating any other action to abate or prevent the occurrence of any violation of\n               this article.\n(Code 1981, § 17-117; Ord. No. 2204, § 1, 9-3-1985; Ord. No. 2297, § 8, 5-5-1986;\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-186"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

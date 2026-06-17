@@ -1,0 +1,46 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "foundation only permit",
+      "residential buildings",
+      "commercial buildings",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1263/Building-Fee-Schedule"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-017",
+    "spreadsheet_id": "BP-017",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Foundation Only Permit",
+    "summary": "A Foundation Only Permit allows the construction of a building foundation prior to the completion of full building permit approval, facilitating project progress while additional reviews are finalized. The City of Arvada has expanded this permit process for new residential projects, including single-family homes, townhomes, and duplexes, and has established specific fees for different building types: $285 for one- and two-family buildings, $425 for multifamily buildings, and $710 for commercial buildings.",
+    "body": "A Foundation Only Permit allows construction of a building foundation before full building permit approval is completed. This phased approach helps projects move forward while additional reviews, approvals, or supporting documentation are being finalized.\n\n\n## Improvements\nThe Building Safety Division is continuing to evaluate and improve our foundation-only permit process for new residential single-family homes, townhomes, and duplex projects.\n\nOver the past year, the City of Arvada expanded the use of foundation-only permits for these residential project types. This phased permitting approach was created to help projects continue moving forward while applicants work through additional requirements such as warranty review processes, Right-of-Way permits, and coordination with Engineering and Public Works.\n\n## Foundation Only Permit Fees\n\n| Type | Fee |\n|------|------:|\n| One- and two-family buildings | $285.00 |\n| Multifamily buildings | $425.00 |\n| Commercial buildings | $710.00 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

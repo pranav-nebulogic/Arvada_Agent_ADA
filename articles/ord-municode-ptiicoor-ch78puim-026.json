@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contents",
+      "notice",
+      "generally",
+      "hearing",
+      "shall",
+      "state",
+      "kind"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-27"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-27. - Contents of notice generally.",
+    "summary": "The notice of hearing shall state:\n(1)\nThe kind of project proposed (without mentioning minor details or incidentals);\n(2)\nThe estimated cost of the projects, or the estimated total amount of projects, and\n                  the part or portion, if any, to be paid from sources other than assessments;…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-27. - Contents of notice generally.",
+        "a": "The notice of hearing shall state:\n(1)\nThe kind of project proposed (without mentioning minor details or incidentals);\n(2)\nThe estimated cost of the projects, or the estimated total amount of projects, and\n                  the part or portion, if any, to be paid from sources other than assessments;\n(3)\nThe basis for apportioning the assessments, which assessments shall be in proportion\n                  to the special benefits derived to each of the several tracts comprising the assessable\n                  property and on a front-foot, area, zone or other equitable basis;\n(4)\nThe number of installments and the time in which the assessments will be payable;\n(5)\nThe maximum rate of interest on unpaid installments of assessments;\n(6)\nThe extent of the improvement district to be assessed (by boundaries or other brief\n                  description);\n(7)\nThe time and the place when and where the council will consider the ordering of the\n                  proposed projects and will hear all complaints, protests and objections that may be\n                  made in writing and filed with the clerk of the city at least three days prior thereto\n                  or may be made verbally at said hearing concerning the same by the owner of any tract\n                  to be assessed or by any person interested;\n(8)\nThe fact that the description of the tracts to be assessed, the maximum amount of\n                  benefits estimated to be conferred on each such tract, and all proceedings in the\n                  premises are on file and can be seen and examined at the office of the clerk during\n                  business hours at any time by any person so interested; and\n(9)\nThat regardless of the basis used for apportioning assessments, in cases of wedge\n                  or V or any other irregular shaped tracts, an amount apportioned thereto shall be\n                  in proportion to the special benefits thereby derived.\n(Code 1981, § 27-28; Ord. No. 551, § 13(F), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-27"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

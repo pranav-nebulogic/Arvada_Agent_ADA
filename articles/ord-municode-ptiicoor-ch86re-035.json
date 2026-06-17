@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "disability",
+      "retirement",
+      "conditions",
+      "examination",
+      "any",
+      "member",
+      "while"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-121"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-121. - Disability retirement; conditions; examination.",
+    "summary": "(a)\nIf any member, while in the performance of his duty, or by reason of service, shall\n               become physically or mentally disabled, and such disability shall be deemed to be\n               of a temporary nature by the board, he shall be granted temporary disability status\n               b…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-121. - Disability retirement; conditions; examination.",
+        "a": "(a)\nIf any member, while in the performance of his duty, or by reason of service, shall\n               become physically or mentally disabled, and such disability shall be deemed to be\n               of a temporary nature by the board, he shall be granted temporary disability status\n               by the board. He shall be entitled to disability pay as provided in\nsection 86-155\n. If such mental or physical disability results from intentionally self-inflicted\n               injuries, no benefits whatsoever shall be payable.\n(b)\nIf any member shall become physically or mentally disabled, and such disability shall\n               be deemed to be of a permanent nature by the board, he shall be granted permanent\n               disability status by the board. He shall be entitled to disability pay as provided\n               in\nsection 86-156\n. If such mental or physical disability results from intentionally self-inflicted\n               injuries, no benefits whatsoever shall be payable.\n(c)\nFor the purpose of determining the physical or mental disability of any member as\n               provided by subsections (a) and (b) of this section, the board shall appoint two or\n               more physicians or surgeons to make an examination of the member and report their\n               findings to the board, which report may be taken into consideration in determining\n               whether said member is physically or mentally disabled.\n(d)\nThe board shall determine if an injury was intentionally self-inflicted for the purposes\n               of this chapter.\n(Code 1960, § 19-9; Code 1981, § 26-56)\nState Law reference—\nDisability under statutory system, C.R.S. § 31-30-608."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-121"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

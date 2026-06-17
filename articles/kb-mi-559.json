@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "trails",
+      "open",
+      "space",
+      "trail",
+      "creek",
+      "divided",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/557/Trails-and-Open-Space"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-559",
+    "spreadsheet_id": "MI-559",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Trails and Open Space",
+    "summary": "Arvada features a comprehensive trail network exceeding 150 miles, comprising Primary, Local, and Regional Trails designed for non-motorized recreation and commuting. Additionally, the city's Parks and Open Space division oversees over 3,200 acres of non-irrigated land, maintaining approximately 1,350 acres of open space each growing season.",
+    "body": "![Ralston Creek trail sign next to a divided trail](/ImageRepository/Document?documentID=1818 \"Ralston Creek trail sign next to a divided trail\")\n\n## Trails\n\nArvada's 150-plus-mile trail network consists of Primary, Local and Regional Trails with both paved and soft surfaces. Trails are suitable for non-motorized recreational enjoyment as well as commuting. More information on the City's trail network can be found in the sections below.\n\n- [Parks and Open Space Trail Map](/DocumentCenter/View/607) (map only)\n- [Parks and Open Space Trail Map and Guide](/DocumentCenter/View/4140/2023-Arvada-Parks-Trails-and-Open-Space-Map) (parks and trails map, list of parks and trail descriptions)\n  - To get a printed version of the Trail Map and Guide, stop by the main entrance to City Hall (8101 Ralston Rd.) during business hours.\n- [Primary Trails](/558)\n- [Local Trails](/560)\n- [Regional Trails](/866)\n- [Trail Etiquette and Tips](/910)\n- [Adopt-A-Trail](/564)\n- [Snow Removal on Trails](/565)\n\n## Open Space\n\nThe Arvada Parks and Open Space division maintains more than 3,200 acres of non-irrigated land throughout the City. Each growing season, our parks staff mows approximately 1,350 acres of open space areas bordered by hundreds of private properties.\n\n- [General Open Space Information](/514)\n- [Open Space and Natural Area Maintenance](/517)\n\n1. [![](/ImageRepository/Document?documentID=4170)](/494)\n\n   #### [July 4th Fireworks](/494)\n\n   Important information regarding street closures and parking lot access for this year's Fourth of July fireworks show at Stenger Sports Complex. [Additional Info...](/494)\n\n/CivicAlerts.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

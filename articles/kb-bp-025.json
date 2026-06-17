@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "olde",
+      "town",
+      "reno",
+      "park",
+      "design",
+      "guidelines",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/180/Olde-Town-Reno-Park-Design-Guidelines"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-025",
+    "spreadsheet_id": "BP-025",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Olde Town & Reno Park Design Guidelines",
+    "summary": "Olde Town in Arvada serves as a cultural and historical hub, featuring a mix of residential and commercial buildings, while the Reno Park Addition Historic District is characterized by 1800s single-family homes. Both areas require projects to obtain a Certificate of Compliance with Design Guidelines to ensure adherence to preservation standards, with specific guidelines aimed at maintaining the historical integrity and character of each district. The guidelines encourage new developments to be compatible with the existing architectural styles and community layout.",
+    "body": "## Olde Town and Reno Park Background\n\nAt the center of Arvada, Olde Town serves as the link to the city's heritage, culture, past, and future. Olde Town contains a wide range of building types and uses ranging from single-family residences to retail, office, and mixed-use buildings. Historic resources and individual landmarks are intended to be preserved, restored, and new development should be designed to be sensitive to the historic district and built to be integrated into the urban fabric with pedestrian-oriented design.\n\nThe Reno Park Addition Historic District encompasses a specified area that is generally defined as the alley between Yukon and Yarrow St. to the east, the alley between Allison and Zephyr St. to the west, Ralston Road to the north, and Ridge Road to the south. Buildings within Reno Park are single-family homes with some being used as offices and other light-commercial uses. Most of the buildings in Reno Park were built in the 1800s and resemble key features from this era.\n\n## Certificate of Compliance With Design Guidelines Process\n\nAll projects located within Olde Town and projects in Reno Park impacted by mandatory guidelines must obtain a Certificate of Compliance with Design Guidelines prior to the approval of any permit. The certificate demonstrates that a particular project conforms to the guidelines that are applicable to the project. If one or more guideline cannot be met, a waiver will have to be approved. To apply for a Certificate of Compliance, visit [Arvada Permits]([NEW PORTAL URL]) and apply for a new project.\n\n## Olde Town Design Guidelines\n\nThe [Olde Town Design Guidelines (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=5af3a0e980343) are intended to preserve the historical integrity of the heart of Arvada while also encouraging new development to be in character with the area. Olde Town is broken down into seven sub-district zoning areas that better define the character of each area.\n\n## Reno Park Historic Addition Design Guidelines\n\nThe [Reno Park Design Guidelines (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=794ead3d8765a) are intended to preserve the traditional single-family residential character of the historic district. Some of these characteristics include smaller, narrow lots, homes setback from the sidewalk with landscaped front yards, and predominantly alley loaded garages.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

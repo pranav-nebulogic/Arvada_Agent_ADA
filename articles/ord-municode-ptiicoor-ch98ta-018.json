@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "tax",
+      "added",
+      "price",
+      "adding",
+      "imposed",
+      "retailers",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-69"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-69. - Tax added to price.",
+    "summary": "(a)\nAdding tax imposed.\nRetailers shall add the tax imposed, or the average equivalent thereof, to the price,\n               showing such tax as a separate and distinct item. Except as provided in this section,\n               no retailer shall advertise or hold out or state to the public or to any c…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-69. - Tax added to price.",
+        "a": "(a)\nAdding tax imposed.\nRetailers shall add the tax imposed, or the average equivalent thereof, to the price,\n               showing such tax as a separate and distinct item. Except as provided in this section,\n               no retailer shall advertise or hold out or state to the public or to any consumer,\n               directly or indirectly, that the tax or any part thereof shall be assumed or absorbed\n               by the retailer, or that it will not be added to the price, or if added, that it or\n               any part thereof shall be refunded. Sales tax may be included in the price of:\n(1)\nAny malt, vinous or spirituous liquor sold by the drink.\n(2)\nItems sold from coin operated devices or the price of utilizing such devices.\n(b)\nTax constitutes debt.\nAny tax collected by a retailer from a purchaser should be held in trust for the\n               benefit of the city. The city may utilize any method set forth in this chapter or\n               provided by law to collect such tax from the retailer.\n(c)\nExcess tax.\nNo retailer shall retain any tax collected in excess of the tax computed, but shall\n               report such excess collections on the return for the period in which it was collected\n               and include it in the calculation of tax due. If it is not possible to determine to\n               whom the excess tax is due, the vendor should remit on a prorata basis to the city\n               (the city tax rate divided by the total combined tax rate). The retention by the vendor\n               of any excess tax amounts or the intentional failure to remit punctually to the city\n               the full amount required to be remitted by the provisions of this article is a violation\n               of this article.\n(Code 1981, § 31-44; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-69"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

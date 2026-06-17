@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "term",
+      "permit",
+      "tastings",
+      "shall",
+      "valid",
+      "period",
+      "one"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-155"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-155. - Term of permit.",
+    "summary": "The tastings permit shall be valid for a period of one year, and shall run and expire\n               concurrently with the license of the retail liquor store, fermented malt beverage\n               and wine retailer, or liquor-licensed drugstore; except, that the first tastings permit\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-155. - Term of permit.",
+        "a": "The tastings permit shall be valid for a period of one year, and shall run and expire\n               concurrently with the license of the retail liquor store, fermented malt beverage\n               and wine retailer, or liquor-licensed drugstore; except, that the first tastings permit\n               issued to a retail liquor store, fermented malt beverage and wine retailer, or liquor-licensed\n               drugstore licensee shall be valid only until the expiration of the current license.\n(\nOrd. No. 4670\n, § 1, 12-17-2018; Ord. No.\n4839\n, § 1, 3-20-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-155"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

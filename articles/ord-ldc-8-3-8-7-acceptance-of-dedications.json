@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "acceptance",
+      "dedications",
+      "generally",
+      "major",
+      "subdivision",
+      "final",
+      "plats",
+      "executed",
+      "owners",
+      "property"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-8-7"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-8. SUBDIVISIONS"
+  },
+  "content": {
+    "title": "8-3-8-7. Acceptance of dedications.",
+    "summary": "A.\tGenerally.\n  1.\tMajor Subdivision Final Plats. All major subdivision final plats shall be executed by all owners of property within the boundaries of such plat, the surveyor, the attorney or title company who examined the title, and any and all lienholders.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-8-7. Acceptance of dedications.",
+        "a": "A.\tGenerally.\n  1.\tMajor Subdivision Final Plats. All major subdivision final plats shall be executed by all owners of property within the boundaries of such plat, the surveyor, the attorney or title company who examined the title, and any and all lienholders. Following the approval of a major subdivision final plat, the plat, which shall have all permitted exceptions, waivers, or variances expressly noted thereon, shall be signed by the Director, the City Engineer, and the City Attorney. Dedication, approval, certification, and signature blocks shall be in a form approved by the City Attorney.\n  2.\tMinor Subdivision Plats. All minor subdivision plats shall be executed by all owners of property within the boundaries of such plat, the surveyor, the attorney or title company who examined the title, and any lienholders. Following the approval of the minor subdivision plat, the plat, which shall have all permitted exceptions, waivers, or variances expressly noted thereon, shall be signed by the Director. Dedication, approval, certification, and signature blocks shall be in a form approved by the City Attorney.\nB.\tMethod of Acceptance of Dedications; Limitations. Full execution of the approved major subdivision final plat or minor subdivision plat shall constitute the City's acceptance of any fee-simple dedication or grant of easement to the City as is referenced on the plat. Acceptance of dedications does not constitute final acceptance of public improvements constructed thereon.\n(Ord. No. 4793, § 6, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-8-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

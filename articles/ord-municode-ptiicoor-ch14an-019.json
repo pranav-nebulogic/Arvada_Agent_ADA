@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "tag",
+      "transferable",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "affix"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-44"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-44. - Tag not transferable.",
+    "summary": "It\nshall be unlawful for any person to affix to the collar, chain, or harness of any\n               dog, or to permit to remain affixed, a tag evidencing licensing for any other dog,\n               or to display any such tag to an animal management officer or peace officer.\n(\nOrd. No. 4060, § 2, 3-1…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-44. - Tag not transferable.",
+        "a": "It\nshall be unlawful for any person to affix to the collar, chain, or harness of any\n               dog, or to permit to remain affixed, a tag evidencing licensing for any other dog,\n               or to display any such tag to an animal management officer or peace officer.\n(\nOrd. No. 4060, § 2, 3-19-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-44"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

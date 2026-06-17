@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "standard",
+      "scope",
+      "review",
+      "administrative",
+      "appeals",
+      "decided",
+      "according",
+      "same",
+      "standards",
+      "applied"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-5-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-5. ADMINISTRATIVE APPEALS"
+  },
+  "content": {
+    "title": "8-2-5-5. Standard and scope of review.",
+    "summary": "A.\tStandard of Review. Administrative appeals shall be decided according to the same standards that applied to the Decision.\nB.\tScope of Review. The scope of review of an administrative appeal is limited to the relevant issues raised in the request for appeal.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-5-5. Standard and scope of review.",
+        "a": "A.\tStandard of Review. Administrative appeals shall be decided according to the same standards that applied to the Decision.\nB.\tScope of Review. The scope of review of an administrative appeal is limited to the relevant issues raised in the request for appeal. Issues that are not described or obviously implied by the petition will not be considered on appeal. Evidence that was not offered in the proceeding below shall not be admitted or considered on administrative appeal."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-5-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

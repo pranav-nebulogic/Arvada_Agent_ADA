@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "private",
+      "garage",
+      "floor",
+      "drains",
+      "added",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-210"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-210. - I.R.C. Section P3201.4.1, Private Garage Floor Drains.",
+    "summary": "Section P3201.4.1. Private Garage Floor Drains,\nis added to read as follows:\n\"\nP3201.4.1. Private Garage Floor Drains.\nPrivate garages in which servicing, repair, or washing of vehicles is not conducted,\n                  and in which gasoline is not dispensed, shall not require a separator, unless …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-210. - I.R.C. Section P3201.4.1, Private Garage Floor Drains.",
+        "a": "Section P3201.4.1. Private Garage Floor Drains,\nis added to read as follows:\n\"\nP3201.4.1. Private Garage Floor Drains.\nPrivate garages in which servicing, repair, or washing of vehicles is not conducted,\n                  and in which gasoline is not dispensed, shall not require a separator, unless the\n                  garage drains into the sanitary sewer system. Areas of garages utilized only for storage\n                  of automobiles are not required to be drained through a separator, unless the garage\n                  drains into the sanitary sewer system.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-210"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "responsibility",
+      "reporting",
+      "vehicular",
+      "accidents",
+      "involving",
+      "animals",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-124"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-124. - Responsibility for reporting vehicular accidents involving animals.",
+    "summary": "Any person who, as the operator of a motor vehicle, strikes any animal, shall stop\n               at once and shall immediately report such injury or death to the owner or custodian\n               of such animal. In the event that the owner or custodian of the animal cannot be ascertained\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-124. - Responsibility for reporting vehicular accidents involving animals.",
+        "a": "Any person who, as the operator of a motor vehicle, strikes any animal, shall stop\n               at once and shall immediately report such injury or death to the owner or custodian\n               of such animal. In the event that the owner or custodian of the animal cannot be ascertained\n               and located the operator shall at once report the accident to the police department.\n(Code 1981, § 6-63; Ord. No. 3496, § 2, 12-14-1998)\nCross reference—\nMotor vehicles and traffic,\nch. 54\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-124"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

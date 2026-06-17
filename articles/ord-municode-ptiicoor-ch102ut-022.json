@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "enforcement",
+      "utilities",
+      "manager",
+      "hereby",
+      "directed",
+      "authorized",
+      "enforce"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-62"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-62.3. - Enforcement.",
+    "summary": "(a)\nThe utilities manager is hereby directed and authorized to enforce all requirements\n               and provisions of this article with respect to access to meters, meter pits, and meter\n               vaults. Failure of a property owner, agent of property owner, tenant or occupant to\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-62.3. - Enforcement.",
+        "a": "(a)\nThe utilities manager is hereby directed and authorized to enforce all requirements\n               and provisions of this article with respect to access to meters, meter pits, and meter\n               vaults. Failure of a property owner, agent of property owner, tenant or occupant to\n               comply with the requirements of\nsection 102-62\nand/or\n102-62.1\nshall constitute a violation thereof, and the utilities manager shall be authorized\n               to take the following actions in response to any such violation, continuing violation,\n               or recurring violation.\n(1)\nFollowing the first notice of violation delivered as provided in\nsection 102-62.2\nwithin a rolling 12-month period, the property owner shall be given a ten calendar\n               day grace period to provide the required access to the meter, meter pit, or meter\n               vault.\n(2)\nIf the required access is not provided within the initial grace period described in\n               subparagraph (1) of this\nsection 102-62.3\n(a), commencing on the 11\nth\ncalendar day after actual or constructive receipt of notice, and continuing thereafter\n               for each successive day or part thereof, there shall be assessed a fee of $10.00 added\n               to the water bill for the address of the subject property until such time as either\n               access is provided, or water service to the subject address is terminated or discontinued.\n(3)\nAnytime after the twentieth calendar day within a rolling 12-month period that notice\n               of failure to provide access is provided, the city may install flow restriction devices,\n               and/or suspend water service, and/or relocate, at the property owner's expense, the\n               meter to a location where access by the city is available.\n(b)\nThe property owner shall be responsible for all fees and charges imposed or incurred\n               as a consequence of enforcement of the provisions of\nsection 102-62\nand\nsection 102-62.1\nas a condition of continued receipt of water service. In the event that water service\n               is suspended or restricted as provided in this\nsection 102-62.3\n, restoration of normal water service delivery will not be permitted until access\n               is established and all fees and charges are paid. In the event that a water meter\n               pit is relocated, the cost of such relocation shall be added to the water bill for\n               the address which the water meter serves.\n(c)\nAny nonpayment or delinquency in payment of any fee or charge assessed pursuant to\n               this\nsection 102-62.3\nmay constitute a lien upon the property and are assessable as a lien against the\n               property as provided in\nsection 102-41\nof\nchapter 102\nof this Code.\n(\nOrd. No. 4030, § 1, 10-16-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-62"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

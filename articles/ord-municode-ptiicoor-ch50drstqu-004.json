@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "depositing",
+      "waste",
+      "damming",
+      "clogging",
+      "ditches",
+      "shall",
+      "unlawful"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-4"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-4. - Depositing waste; damming or clogging ditches.",
+    "summary": "It shall be unlawful for any person to deposit waste or debris of any kind or description\n               or in any way dam, clog, or interfere with the water running in any canal or ditch\n               or cause the same to overflow upon the streets, alleys, or public highways of the\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-4. - Depositing waste; damming or clogging ditches.",
+        "a": "It shall be unlawful for any person to deposit waste or debris of any kind or description\n               or in any way dam, clog, or interfere with the water running in any canal or ditch\n               or cause the same to overflow upon the streets, alleys, or public highways of the\n               city.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

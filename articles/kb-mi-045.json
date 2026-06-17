@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "annual",
+      "state",
+      "address",
+      "https",
+      "mayor",
+      "simpson",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/159/Annual-State-of-the-City-Address"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-045",
+    "spreadsheet_id": "MI-045",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Annual State of the City Address",
+    "summary": "On April 18, 2025, Mayor Lauren Simpson delivered the State of the City address titled “Arvada at Work: Building, Innovating, Thriving,” where she discussed the achievements of 2024 and outlined the city's vision for 2025 and beyond. The event was hosted by the Arvada Chamber of Commerce.",
+    "body": "On Friday, April 18, 2025, Mayor Lauren Simpson presented the State of the City address. Mayor Simpson’s address was titled “**Arvada at Work: Building, Innovating, Thriving**” and highlighted the successes from 2024 and the vision for 2025 and beyond.\n\n[**View the video of the presentation**](https://youtu.be/lqeBEyVku-I).\n\nEach year, [the Arvada Chamber of Commerce](https://www.arvadachamber.org/) hosts the annual State of the City Address.\n\n![SOTC 2025](/ImageRepository/Document?documentID=5690 \"SOTC 2025\")",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

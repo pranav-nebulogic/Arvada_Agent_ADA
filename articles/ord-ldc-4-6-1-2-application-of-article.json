@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "tree",
+      "protection",
+      "division",
+      "preservation",
+      "replacement",
+      "sets",
+      "standards",
+      "preserving"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-1-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "4-6-1-2. Application of article.",
+    "summary": "A.\tTree Protection.Division 4-6-2, Tree Preservation and Replacement, sets out standards for preserving certain trees on-site, and for protecting trees that are designated for preservation.\nB.\tGeneral Standards.Division 4-6-3, General Landscaping Standards, sets out the applicability for the standar…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-1-2. Application of article.",
+        "a": "A.\tTree Protection.Division 4-6-2, Tree Preservation and Replacement, sets out standards for preserving certain trees on-site, and for protecting trees that are designated for preservation.\nB.\tGeneral Standards.Division 4-6-3, General Landscaping Standards, sets out the applicability for the standards and the general landscaping standards.\nC.\tCalculations.Division 4-6-4, Calculation of Landscape Requirements, sets out the standards for calculating the landscape requirements of this Article.\nD.\tLandscape Areas and Bufferyards.Division 4-6-5, Landscape Areas and Bufferyards Landscape Areas and Bufferyards, identifies the landscaping area types and the options for bufferyards.\nE.\tOther Landscape Areas.Division 4-6-6, Requirements by Landscape Area, sets out standards for street trees, plazas, parking lots, and certain other interior portions of a subject property.\nF.\tAdditional Technical Requirements.Division 4-6-7, Additional Technical Requirements, sets out technical standards for certain elements of the landscape, including planting beds and berms.\nG.\tMaintenance and Warranties.Division 4-6-8, Maintenance and Warranties, sets out standards for how landscaping is to be maintained and warrantied."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

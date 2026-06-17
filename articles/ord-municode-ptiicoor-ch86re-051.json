@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "hearing",
+      "prior",
+      "making",
+      "any",
+      "decision",
+      "application",
+      "pension"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-159"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-159. - Hearing.",
+    "summary": "Prior to making any decision on an application for a pension, disability payments\n               (temporary or permanent), suspension of disability payments or beneficiary payments,\n               the board shall hold a hearing. All persons in interest shall be entitled to notice\n               ther…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-159. - Hearing.",
+        "a": "Prior to making any decision on an application for a pension, disability payments\n               (temporary or permanent), suspension of disability payments or beneficiary payments,\n               the board shall hold a hearing. All persons in interest shall be entitled to notice\n               thereof, to be present at such hearing, to be represented by counsel, to propound\n               any question pertinent or relevant to such matter and shall have the right to introduce\n               evidence in their behalf. All witnesses so produced shall be examined under oath,\n               and any member of the board is hereby authorized to administer such oath to such witness.\n               The rules of civil procedure are not required to be followed in this hearing. The\n               decision of the board in all cases shall be final.\n(Code 1960, § 19-14; Code 1981, § 26-83)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-159"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

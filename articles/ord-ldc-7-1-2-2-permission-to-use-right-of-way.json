@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "permission",
+      "right",
+      "wcfs",
+      "applicant",
+      "execute",
+      "master",
+      "license",
+      "agreement",
+      "city",
+      "able"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-2-2"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-2. OPERATIONAL STANDARDS"
+  },
+  "content": {
+    "title": "7-1-2-2. Permission to use right-of-way.",
+    "summary": "For WCFs in the right-of-way, the Applicant shall execute a Master License Agreement with the City. In this, the City is able to grant a non-exclusive license to the Applicant to use the right-of-way for Small Cell Facilities.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-2-2. Permission to use right-of-way.",
+        "a": "For WCFs in the right-of-way, the Applicant shall execute a Master License Agreement with the City. In this, the City is able to grant a non-exclusive license to the Applicant to use the right-of-way for Small Cell Facilities. Attachment of WCFs on an existing street light pole, traffic signal, or similar structure shall require written evidence of a license, or other legal right or approval, to use such structure by its owner."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

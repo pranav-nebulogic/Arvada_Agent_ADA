@@ -1,0 +1,203 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/332/Building-Permits"
+    ],
+    "scraped_at": "2026-06-10T10:49:39.057978+00:00",
+    "content_hash": "5ba40f88805f2e6696db29689bf7266936d052f0984f1f46c6dbba4cabb6189c",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Building Permits in City of Arvada, CO",
+    "summary": "The City of Arvada requires building permits for various construction and home improvement projects. Permits can be applied for online or via email, with fees varying by project type. Inspections are required for most permits and must be scheduled in advance.",
+    "eligibility": "Homeowners who occupy the structure and contractors. For residential permits, homeowners may apply if they occupy the structure; otherwise, contractors must apply. For commercial projects, a licensed contractor must obtain the permits and complete the work.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Determine if a Permit is Required",
+        "text": "Review the list of activities that require a permit or contact the Building Department at 720-898-7620 or email Building Department Division to confirm if your project needs a permit.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Complete the Application",
+        "text": "If available, complete your application online at www.arvadapermits.org using the SMART License & Permits system. If not available online, email your application and plans to the Building Permits Division or drop off paper applications and plans at City Hall. Permits are no longer processed over the counter.",
+        "portal_url": "https://www.arvadapermits.org"
+      },
+      {
+        "n": 3,
+        "title": "Submit Application and Pay Fees",
+        "text": "Submit your completed application along with any required fees. Fees vary by project type and may include a permit fee, use tax, and plan review fee if required.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 4,
+        "title": "Schedule Inspections",
+        "text": "Schedule required inspections through Arvada's permit site or by calling 720-898-7630 using the automated line with a 3-digit inspection code. Inspections are conducted Monday through Friday, 8 am to 4 pm. Someone over 18 must be present during inspections.",
+        "portal_url": "https://www.arvadapermits.org"
+      },
+      {
+        "n": 5,
+        "title": "Close the Permit",
+        "text": "After the final inspection is completed, the permit will be closed. An email notification will be sent to the applicant. For new single-family and commercial permits, a Certificate of Occupancy is required to finalize the permit.",
+        "portal_url": "https://www.arvadapermits.org"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Application Form",
+        "description": "Completed permit application form submitted online, via email, or in person.",
+        "where_to_get": "Available online at www.arvadapermits.org or from the Building Permits Division.",
+        "example": null
+      },
+      {
+        "name": "Project Plans",
+        "description": "Detailed plans for the construction or improvement project.",
+        "where_to_get": "Prepared by applicant or contractor; submitted with application.",
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "project_type",
+        "label": "Project Type",
+        "description": "Type of construction or improvement project being applied for.",
+        "example_value": null,
+        "why_needed": "To determine applicable codes, fees, and review requirements."
+      },
+      {
+        "field_name": "applicant_name",
+        "label": "Applicant Name",
+        "description": "Name of the person applying for the permit.",
+        "example_value": null,
+        "why_needed": "To identify the permit holder."
+      },
+      {
+        "field_name": "contractor_license_number",
+        "label": "Contractor License Number",
+        "description": "License number if a licensed contractor is applying.",
+        "example_value": null,
+        "why_needed": "To verify contractor licensing status."
+      },
+      {
+        "field_name": "project_address",
+        "label": "Project Address",
+        "description": "Physical address where the work will be performed.",
+        "example_value": null,
+        "why_needed": "To verify jurisdiction and location of the project."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Review Fee",
+        "amount": "$32.50",
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      },
+      {
+        "name": "Permit Fee",
+        "amount": "Variable",
+        "rate": null,
+        "config_key": "fees.building.permit",
+        "notes": null
+      },
+      {
+        "name": "Use Tax",
+        "amount": null,
+        "rate": "3.46%",
+        "config_key": "fees.building.use_tax",
+        "notes": "Use tax is assessed on construction materials used in Arvada at the same rate as sales tax."
+      },
+      {
+        "name": "Solar Permit Fee (Residential Only)",
+        "amount": "$45",
+        "rate": null,
+        "config_key": "fees.building.solar",
+        "notes": null
+      },
+      {
+        "name": "Windows and Siding Installation Permit Fee",
+        "amount": "$45 per trade",
+        "rate": null,
+        "config_key": "fees.building.windows_siding",
+        "notes": null
+      },
+      {
+        "name": "Food Truck Vending Permit Fee",
+        "amount": "$50",
+        "rate": null,
+        "config_key": "fees.food_truck",
+        "notes": null
+      },
+      {
+        "name": "Retaining Wall Permit Fee",
+        "amount": "$45",
+        "rate": null,
+        "config_key": "fees.retaining_wall",
+        "notes": null
+      },
+      {
+        "name": "Retaining Wall Plan Review Fee",
+        "amount": "$32.50",
+        "rate": null,
+        "config_key": "fees.retaining_wall_review",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "1 business day for permits without plan review; 4 to 6 weeks for major projects requiring plan review.",
+      "inspection": "Inspections scheduled Monday through Friday, 8 am to 4 pm.",
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Who can apply for a building permit?",
+        "a": "Homeowners who occupy the structure and licensed contractors. For commercial projects, a licensed contractor must apply."
+      },
+      {
+        "q": "How do I apply for a building permit?",
+        "a": "Apply online at www.arvadapermits.org using the SMART License & Permits system, or email your application and plans to the Building Permits Division. Paper applications can be dropped off at City Hall."
+      },
+      {
+        "q": "What fees are associated with building permits?",
+        "a": "Fees vary by project and may include a permit fee, use tax at 3.46%, and a plan review fee if required."
+      },
+      {
+        "q": "Are inspections required?",
+        "a": "Yes, inspections are required for most permit types and must be scheduled in advance."
+      },
+      {
+        "q": "How can I get a copy of my permit records?",
+        "a": "Permit records are available online at the Arvada Permits Site by searching for the permit by address or permit number."
+      }
+    ],
+    "ordinance_refs": [
+      "2018 International Codes with amendments"
+    ],
+    "related_permit_types": [
+      "Electrical Permit",
+      "Plumbing Permit",
+      "Mechanical Permit",
+      "Fence Permit",
+      "Solar Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3843
+}

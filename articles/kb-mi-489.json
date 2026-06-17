@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "sales",
+      "information",
+      "business",
+      "munirevs",
+      "return",
+      "added",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/243/Sales-Tax-Information"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-489",
+    "spreadsheet_id": "MI-489",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Sales Tax Information",
+    "summary": "Sales and use tax in Arvada is set at a rate of 3.46%, with returns due on the 20th of the month following the reporting period. Businesses must file and pay their taxes online through the MUNIRevs portal, and special event vendors can also remit their taxes online. Free classes on sales and use tax reporting are offered monthly at City Hall, and all businesses operating within the city are required to obtain a business license.",
+    "body": "## [Launch the Licensing and Tax Portal](https://arvada.munirevs.com/)\n\n## Sales and Use Tax\n\nWhen you have been issued a [business license](/253/Business-Licenses) , a sales and use tax return will be added to your business center based on your assigned filing status. Returns must be filed and paid for online at [arvada.munirevs.com](http://arvada.munirevs.com/). When a return has been added to your business center, you will receive notifications on a weekly basis until the return has been filed.\n\nThe tax rate for sales and use tax is 3.46%. Taxes are paid for the previous periods sales and are always due on the 20th of the month. For example, if you are a monthly filer, your August sales will be due on September 20.\n\nPayments can be made via e-check, ACH or credit card. Credit card transactions are charged a 2.38% service charge. Late payments are assessed a 10% late fee and one percent interest per month. Returned payments are assessed a $25 return fee as well as any penalty and interest.\n\nUsers have the ability to link to more than one account per user or can link multiple people to one account for ease of use and access.\n\n## Special Event Vendors Paying Sales Tax\n\nSpecial event vendors can now remit their Arvada sales tax online. Please set up your email by logging in using our online partner, MUNIRevs, at [arvada.munirevs.com](http://arvada.munirevs.com/). If you have already filed with Arvada in the past, please contact us, so we can confirm your account information. Please email Revenue at [[email protected]](/cdn-cgi/l/email-protection) or call 720-898-7100.\n\nOnce you have been linked, tax returns can be added to your business center upon request to accommodate your special event schedule. Returns will typically be due on the 20th of the month after the event. For example if you attended a craft fair on November 28, your tax return will be due on December 20.\n\n## Free Sales and Use Tax Classes\n\nThe Revenue staff invites you to attend a free class on collecting and reporting Sales and Use Tax at the City Hall Annex Building on the second Thursday of each month. [**Learn more and register.**](/1193/Free-Sales-and-Use-Tax-Classes)\n\n### [FAQs](/Faq.aspx?TID=17)\n\n[What type of businesses require a business license?](#)\n:   All businesses located within the City are required to obtain a business license and file a tax return based on their filing frequency. Any business coming into the City to sell, lease, rent, deliver, or install tangible personal property is also required to be licensed. Non-profit organizations should have a business license but no tax returns will be required.\n\n[How do I apply for a business license?](#)\n:   Businesses need to apply for a business license online using [MUNIRevs](https://arvada.munirevs.com/). The license is free and does not expire with the exception of food trucks and short-term rentals, which expire one year after the issue.\n\n[I have a debit block, what is your id?](#)\n:   Please log into your MUNIRevs Business Center to get the debit block and be sure to set it up **before** attempting payment. If you submit payment before this has been set up your bank will reject the payment.\n\n[What if I made a mistake?](#)\n:   If you made a mistake on your return you can correct it until you check out. If you checked out and need to make corrections, please access the MUNIRevs FAQs from your Business Center to find out what is required.\n\n[How do I close my business license?](#)\n:   Please use the [business license closure form](https://arvada-forms.app.transform.civicplus.com/forms/31744) to close your account.\n\n[Do I have to renew my business license?](#)\n:   Arvada does not require businesses to renew their business license unless they are a food truck or a short-term rental, which has an annual renewal. If you have an address or business change, please submit an account change, otherwise, your license will continue until it is closed.\n\n[What if I am having technical issues?](#)\n:   Please call MUNIRevs support directly at 888-751-1911 for submission errors, technical issues, and payment difficulties.\n\n[Can I file negative sales or use tax?](#)\n:   No, MUNIRevs will not allow you to file a tax form where you are owed money. You will need to fill out a [Claim for Refund form](https://arvada-forms.app.transform.civicplus.com/forms/32840) and send it to us for review. Once it has been reviewed and approved we can put a credit on your account or submit your request for a refund.\n\n[How do I pay?](#)\n:   We accept all payment types including e-check, credit card, and ACH credit payments. If you need electronic payment details, please reference the FAQs from your MUNIRevs Business Center and submit the form for access.\n\n[When is my tax return due?](#)\n:   All Arvada tax returns are due on the 20th of the month and must be filed and paid online.\n\n[What is the tax rate for Arvada?](#)\n:   Arvada is a home-ruled City which means Arvada collects its own tax. The City tax rate is 3.46% for sales and uses tax, 2% for lodging tax, and 4% for admissions tax.\n\n[How can I learn more about tax and filing?](#)\n:   Please reach out to us by [emailing Sales Tax](/cdn-cgi/l/email-protection#2350424f465057425b634251554247420d4c5144) or calling 720-898-7100 so that Revenue staff can provide one on one educational tax assistance and guidance.\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

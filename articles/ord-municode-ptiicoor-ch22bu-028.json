@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "lines",
+      "cables",
+      "etc",
+      "all",
+      "other",
+      "apparatus"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-135"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-135. - Construction of lines, cables, etc.",
+    "summary": "All construction of lines, cables, or other apparatus in the streets, alleys or public\n               places of the city pursuant to the grant of a permit under this division shall be\n               under the supervision of and in accordance with the specifications and regulations\n               pro…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-135. - Construction of lines, cables, etc.",
+        "a": "All construction of lines, cables, or other apparatus in the streets, alleys or public\n               places of the city pursuant to the grant of a permit under this division shall be\n               under the supervision of and in accordance with the specifications and regulations\n               provided for such work by the city engineer.\n(Code 1960, § 7A-4; Code 1981, § 9-6)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-135"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

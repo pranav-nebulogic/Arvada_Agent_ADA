@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "persons",
+      "under",
+      "age",
+      "prohibited",
+      "premises",
+      "shall",
+      "unlawful"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-305"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-305. - Persons under age 21 prohibited on premises.",
+    "summary": "(a)\nIt shall be unlawful for a person under the age of 21 years to be admitted to or be\n               on the premises of a smoking business.\n(b)\nThe owner, operator, manager, or other person who controls a smoking business shall\n               post and keep at all times visible to the public in a c…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-305. - Persons under age 21 prohibited on premises.",
+        "a": "(a)\nIt shall be unlawful for a person under the age of 21 years to be admitted to or be\n               on the premises of a smoking business.\n(b)\nThe owner, operator, manager, or other person who controls a smoking business shall\n               post and keep at all times visible to the public in a conspicuous place on the premises,\n               a sign to be provided by the city clerk's office which shall read as follows:\n\"WARNING: It is illegal for any person under 21 years of age to be on the premises\n               of this business, and upon conviction, a fine may be imposed.\"\n(\nOrd. No. 4003, § 1, 6-5-2006\n;\nOrd. No. 4127, § 3, 10-6-2008\n;\nOrd. No. 4501, § 4, 5-4-2015\n; Ord. No.\n4773\n, § 3, 8-16-2021)\nEditor's note—\nOrd. No. 4773, § 3, adopted Aug. 16, 2021, changed the title of § 38-305 from \"Minors\n               prohibited on premises\" to read as set out herein."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-305"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

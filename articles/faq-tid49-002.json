@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-49-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "afford",
+      "replace",
+      "all",
+      "plumbing",
+      "materials",
+      "city",
+      "implemented",
+      "free",
+      "Public Improvement Projects - Service Line Inventory"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=49"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/i-can-t-afford-to-replace-all-my-plumbing-materials-what-sho",
+    "faq_category_name": "Public Improvement Projects - Service Line Inventory"
+  },
+  "content": {
+    "title": "I can’t afford to replace all my plumbing materials, what should I do?",
+    "summary": "The City has implemented a free service line replacement program for impacted properties is effective May 1, 2024 through December 31, 2026. If your property is impacted, the City will help replace your service line (not premise plumbing) for free through 2026. Please visit the Service Line Replacem…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "I can’t afford to replace all my plumbing materials, what should I do?",
+        "a": "The City has implemented a free service line replacement program for impacted properties is effective May 1, 2024 through December 31, 2026. If your property is impacted, the City will help replace your service line (not premise plumbing) for free through 2026. Please visit the Service Line Replacement Program page for more information."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

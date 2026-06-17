@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "development",
+      "approval",
+      "required",
+      "generally",
+      "unless",
+      "specifically",
+      "exempt",
+      "application",
+      "redevelopment",
+      "qualifying"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-2-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-2. REQUIRED DEVELOPMENT APPROVALS"
+  },
+  "content": {
+    "title": "8-2-2-1. Development approval required.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-2-1. Development approval required.",
+        "a": "A.\tGenerally. Unless specifically exempt from the application of this LDC, development approval is required for all:\n  1.\tDevelopment;\n  2.\tRedevelopment;\n  3.\tQualifying \"land use activity\" within areas that are subject to Design Guidelines (see Section 8-3-5-4, Certificate of Compliance with or Waiver from Design Guidelines); or\n  4.\tRe-grading of:\n    a.\tNonresidential property; or\n    b.\tProperty within the Special Flood Hazard Area.\nB.\tTemporary Uses and Special Events. Certain temporary uses and special events require Temporary Use Permits. See Division 3-1-4, Temporary Uses.\nC.\tEncroachments into Public Rights-of-Way. Certain encroachments may be allowed in or over public rights-of-way pursuant to an approved revocable right-of-way license.\n(Ord. No. 4793, § 6, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

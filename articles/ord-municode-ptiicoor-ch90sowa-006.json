@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "waste",
+      "recyclable",
+      "handling",
+      "collection",
+      "requirements",
+      "all",
+      "residential"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-31"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-31. - Waste and recyclable handling and collection requirements.",
+    "summary": "(a)\nAll residential waste and recyclables shall be drained of liquid before being deposited\n               for collection.\n(b)\nNo person shall place, leave, deposit or dispose of any waste or recyclables on any\n               street, alley or other public place, or on any private property, unless th…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-31. - Waste and recyclable handling and collection requirements.",
+        "a": "(a)\nAll residential waste and recyclables shall be drained of liquid before being deposited\n               for collection.\n(b)\nNo person shall place, leave, deposit or dispose of any waste or recyclables on any\n               street, alley or other public place, or on any private property, unless the waste\n               or recyclables are wholly contained within a proper container for collection or proper\n               arrangements have been made with the hauler to pick up additional or bulky items.\n               Any accumulation of waste or recyclables in violation of this chapter is declared\n               to be a nuisance and is prohibited.\n(c)\nWaste and recycling containers shall be kept off the street, curb, sidewalk and all\n               other public ways, except on the scheduled day of collection, and then only for a\n               maximum of 12 hours before and 12 hours after the scheduled time of collection.\n(d)\nHazardous waste as defined by federal or state law, rule or regulation is not subject\n               to collection and must be properly disposed of by residents at an authorized facility.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-31"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

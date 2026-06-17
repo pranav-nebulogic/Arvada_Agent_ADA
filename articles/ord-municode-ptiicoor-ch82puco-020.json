@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "contract",
+      "bid",
+      "security",
+      "required",
+      "shall",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-48"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-48. - Construction contract bid security.",
+    "summary": "(a)\nRequired.\nBid security shall be required for all invitations for bids for construction contracts\n               on the city supplied form. Bid security shall be a bond provided by a surety company\n               authorized to do business in Colorado, the equivalent in cash, or otherwise supplied…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-48. - Construction contract bid security.",
+        "a": "(a)\nRequired.\nBid security shall be required for all invitations for bids for construction contracts\n               on the city supplied form. Bid security shall be a bond provided by a surety company\n               authorized to do business in Colorado, the equivalent in cash, or otherwise supplied\n               in a form satisfactory to the city.\n(b)\nAmount.\nBid security shall be in an amount equal to at least 5 percent of the amount of the\n               bid.\n(c)\nRejection for noncompliance.\nIf a request for bids requires security, substantive noncompliance requires that\n               the bid be rejected as nonresponsive.\n(d)\nReduction in amount; waiver.\nIf the project owner estimates the amount of the bid to be less than $200,000.00,\n               the work system director may reduce or waive the requirement of bid security.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-48"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

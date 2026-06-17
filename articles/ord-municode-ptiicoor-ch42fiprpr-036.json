@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "required",
+      "access",
+      "amended",
+      "read",
+      "follows",
+      "approved"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-81"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-81. - I.F.C. Section 3310.1, Required Access.",
+    "summary": "Section 3310.1. Required Access,\nis amended to read as follows:\n\"3310.1. Required access.\nApproved fire apparatus access for firefighting and emergency medical services is\n                  required to all construction or demolition sites. Access shall be provided to within\n                  150 fee…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-81. - I.F.C. Section 3310.1, Required Access.",
+        "a": "Section 3310.1. Required Access,\nis amended to read as follows:\n\"3310.1. Required access.\nApproved fire apparatus access for firefighting and emergency medical services is\n                  required to all construction or demolition sites. Access shall be provided to within\n                  150 feet (45,720mm) of all portions of the exterior walls of the first story of the\n                  building as measured by an approved route around the exterior of the building. When\n                  approved and permitted per Section 105.7.26, temporary fire apparatus access can be\n                  installed during construction of sites not consisting of one- and two-family dwellings\n                  or Group R occupancies and where practical difficulty exists with providing permanent\n                  access during construction. Permanent fire apparatus access shall be provided prior\n                  to occupancy. Approved temporary access shall be installed as set forth in Section\n                  3310.2.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-81"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

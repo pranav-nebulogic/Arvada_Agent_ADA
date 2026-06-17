@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fees",
+      "charges",
+      "lien",
+      "upon",
+      "property",
+      "any",
+      "nonpayment"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-41"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-41. - Fees and charges to be lien upon property.",
+    "summary": "(a)\nAny nonpayment or delinquency of any fee, rate, charge, or penalty provided by this\n               article constitutes a debt due and owing the city, and the city has the right to recover\n               on any such debt in the manner provided by law in any court of competent jurisdiction.\n(b)\nUn…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-41. - Fees and charges to be lien upon property.",
+        "a": "(a)\nAny nonpayment or delinquency of any fee, rate, charge, or penalty provided by this\n               article constitutes a debt due and owing the city, and the city has the right to recover\n               on any such debt in the manner provided by law in any court of competent jurisdiction.\n(b)\nUntil paid, all fees, rates, charges, or penalties provided by this article constitute\n               a perpetual lien on and against the property served, and any such lien may be foreclosed\n               by the city at any time in the same manner as provided by the laws of the state for\n               the foreclosure of mechanics' liens. Such lien foreclosure by the city is subject\n               to all rights of redemption granted by C.R.S. § 38-39-101 et seq., as amended.\n(c)\nUntil paid, all fees, rates, charges, and penalties provided by this article constitute\n               a perpetual lien on and against the property served, and any such lien may be foreclosed\n               by the city at any time in the same manner as provided pursuant to\nchapter 59\nentitled \"Municipal Liens.\" Such lien foreclosure by the city is subject to all rights\n               of redemption granted by C.R.S. § 38-39-101 et seq., as amended.\n(Code 1981, § 33-10; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 3262, § 5, 4-15-1996;\nOrd. No. 4042, § 8, 12-11-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-41"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

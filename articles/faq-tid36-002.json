@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-36-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "long",
+      "take",
+      "get",
+      "approved",
+      "aha",
+      "notify",
+      "family",
+      "owner",
+      "Housing Choice Voucher Program Landlord Guide"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=36"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-long-does-it-take-to-get-approved",
+    "faq_category_name": "Housing Choice Voucher Program Landlord Guide"
+  },
+  "content": {
+    "title": "How long does it take to get approved?",
+    "summary": "The AHA will notify the family and owner of approval or denial within 10 days of receiving all required forms. If AHA determines that the tenancy cannot be approved for any reason, the owner and the family will be notified in writing and given the opportunity to address any reasons for disapproval. …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How long does it take to get approved?",
+        "a": "The AHA will notify the family and owner of approval or denial within 10 days of receiving all required forms. If AHA determines that the tenancy cannot be approved for any reason, the owner and the family will be notified in writing and given the opportunity to address any reasons for disapproval. The AHA will instruct the owner and family of the next steps for approval."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

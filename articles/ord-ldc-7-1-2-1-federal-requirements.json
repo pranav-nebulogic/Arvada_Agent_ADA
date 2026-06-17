@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "federal",
+      "requirements",
+      "wcfs",
+      "meet",
+      "current",
+      "standards",
+      "regulations",
+      "aviation",
+      "administration",
+      "communications"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-2-1"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-2. OPERATIONAL STANDARDS"
+  },
+  "content": {
+    "title": "7-1-2-1. Federal requirements.",
+    "summary": "All WCFs shall meet the current standards and regulations of the Federal Aviation Administration (\"FAA\"), the Federal Communications Commission (\"FCC\"), and any other agency of the federal government with the authority to regulate WCFs.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-2-1. Federal requirements.",
+        "a": "All WCFs shall meet the current standards and regulations of the Federal Aviation Administration (\"FAA\"), the Federal Communications Commission (\"FCC\"), and any other agency of the federal government with the authority to regulate WCFs. If such standards and regulations are changed, then the owners of the WCF governed by this Article shall bring such facility into compliance with such revised standards and regulations within the time period mandated by the controlling federal agency. Failure to meet such revised standards and regulations shall constitute grounds for the removal of the WCF at the owner's expense."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

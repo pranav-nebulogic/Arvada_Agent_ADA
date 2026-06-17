@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "municipal",
+      "general",
+      "contractor",
+      "license",
+      "arvadapermits",
+      "SMART License & Permits",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/283/Municipal-General-Contractor"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-329",
+    "spreadsheet_id": "MI-329",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Municipal General Contractor",
+    "summary": "Starting June 1, 2023, contractors can apply for and renew their Municipal General Contractor licenses online through the Permit System. New applicants must create an account, while renewals will receive a notification 30 days before expiration; licenses can be used until the expiration date. Required documents include a municipal bond form, insurance certificates, and payment of fees, with application reviews taking up to five business days.",
+    "body": "## Municipal General Contractor License (Right-of-Way)\n\nStarting on June 1, 2023  apply and renew contractor’s licenses online through the [Permit System](https://aca-prod.accela.com/ARVADA).\n\n- New applicants will create an account.\n- For renewals, upon logging into the [Permit System](https://aca-prod.accela.com/ARVADA), a notification of renewal will appear 30 days in advance that your license will expire. You will be able to continue to use your license until the expiration date. After the expiration date, you will no longer be able to apply for permits or schedule inspections.\n\nOnce you complete your new account or renewal the City will review the application and add fees. You will receive an email notifying you that your license is ready for payment. After payment is collected, the City will send you your license.\n\n## How to Apply\n\n- For a new license: visit the [Permit System](https://aca-prod.accela.com/ARVADA) and click on “Apply for Contractor License” under the contractor heading. Follow the instructions on the application and submit. All required documentation must be uploaded in order for the application to be reviewed.\n- For a license renewal: visit the [Permit System](https://aca-prod.accela.com/ARVADA) and login in using your current AEC number. Follow the prompts to apply and submit. All required documentation must be uploaded in order for the application to be reviewed.\n- See License Packets under Resources for instructions on how to apply and a list of required documents.\n  - New license packet for contractors who have never had a license with the City of Arvada Engineering or your license\n  - Renewal license packet for contractors who have had a license with the City of Arvada Engineering but it is getting ready to expire or has just expired.\n- Review of applications may take up to 5 business days to complete\n\n## Required Documents\n\n1. [Municipal Bond Form (PDF)](/DocumentCenter/View/298/Bond-Form-for-Municipal-Contractors-License-PDF) with power of attorney\n2. Insurance and workman's compensation certificates with City of Arvada listed as additional insured. Examples of what is required are located under Resources on this page\n3. [License fee](/DocumentCenter/View/294)\n\n## Paying for the License\n\nFees are listed in the [Right-of-Way Fee Schedule](/DocumentCenter/View/294). See online payment instructions located under resources. You may also mail a check to City of Arvada Engineering, 8101 Ralston Road, Arvada, CO 80002.\n\nFor questions, please call 720-898-7640.\n\n### License Application Forms\n\n1. [Bond Form for Municipal Contractors License (PDF)](/DocumentCenter/View/298/Bond-Form-for-Municipal-Contractors-License-PDF)\n2. [Certificate of Exemption from Statutory Workmens Compensation (PDF)](/DocumentCenter/View/297/Certificate-of-Exemption-from-Statutory-Workmens-Compensation-PDF)\n3. [Insurance and workers compensation requirements (PDF)](/DocumentCenter/View/296/Insurance-and-workers-compensation-requirements-PDF)\n4. [New License Packet (PDF)](/DocumentCenter/View/292/New-License-Packet-PDF)\n5. [Renewal License Packet (PDF)](/DocumentCenter/View/293/Renewal-License-Packet-PDF)\n6. [Right of Way Fee Schedule (PDF)](/DocumentCenter/View/294/Right-of-Way-Fee-Schedule-PDF)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

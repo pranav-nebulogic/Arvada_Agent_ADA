@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-46-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "source",
+      "open",
+      "burn",
+      "info",
+      "arvada",
+      "burning",
+      "information",
+      "regulations",
+      "Wood Burning - Outdoor Burning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=46"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/who-is-the-source-for-open-burn-info",
+    "faq_category_name": "Wood Burning - Outdoor Burning"
+  },
+  "content": {
+    "title": "Who is the source for open burn info?",
+    "summary": "In Arvada, open burning information, regulations, and enforcement are handled through the Arvada Fire Protection District (AFPD). You may contact them at 303-424-3012.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Who is the source for open burn info?",
+        "a": "In Arvada, open burning information, regulations, and enforcement are handled through the Arvada Fire Protection District (AFPD). You may contact them at 303-424-3012."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

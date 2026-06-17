@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "chapter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-2"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-2. - Definitions.",
+    "summary": "The following words, terms, and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nBuilding service equipment\nmeans any plumbing, mechanical, electrical, and eleva…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-2. - Definitions.",
+        "a": "The following words, terms, and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning:\nBuilding service equipment\nmeans any plumbing, mechanical, electrical, and elevator equipment including piping,\n               wiring, fixtures, and other accessories which provide sanitation, lighting, heating,\n               ventilation, cooling, refrigeration, firefighting, and transportation facilities essential\n               to the occupancy of the building or structure for its designated use, or any swimming\n               pool, spa, or hot tub equipment, or any elevator, escalator, or moving walk.\nChief building official\nor\nbuilding official\nmeans the city employee charged with the administration and enforcement of this Code\n               and the technical codes, or his/her designees. For the purposes of enforcing the\nInternational Property Management Code\n(I.P.M.C.), chief building official includes the Chief of the Arvada Police Department\n               and the Arvada Police Neighborhood Services Supervisor and their designees.\nContractor\nmeans any person, firm, partnership, corporation, or organization that, for a fee\n               or value received, undertakes to perform any of the operations governed by the technical\n               codes.\nException: If a public utility company or a water and sanitation or other similar\n                  district is engaged in the installation, operation, or maintenance of equipment that\n                  will be used for the production, generation, or distribution of the utility, product,\n                  or service from their source through the facilities owned or operated by such company\n                  or district to the point of customer service, neither such company or districts, nor\n                  employees thereof, shall be considered contractors.\nContractor also means a person performing work governed by this chapter for a fee\n               or value received and for a person or entity that is appropriately licensed or registered.\nCombination permit\nmeans a type of building permit that is issued to a general contractor and includes\n               the subcontractor's valuation and fees as a part of the permit. Only a combination\n               permit shall be issued where more than one category of work is involved.\nException: The building official may issue separate permits when a general contractor\n                  is not required for the scope of work involved, or when the building official finds\n                  good cause.\nElectrical contractor\nmeans a person, firm, corporation, partnership, association, joint venture, or other\n               entity that, for a fee, undertakes or offers to undertake for another the planning,\n               laying out, supervising and installing or the making of additions, alterations, or\n               repairs in the installation of wiring apparatus and equipment for electrical light,\n               heat, or power. A registered professional engineer who plans or designs electrical\n               installation shall not be classified as an electrical contractor.\nGeneral contractor\nmeans a person, firm, corporation, partnership, association, joint venture, or other\n               entity that, for a fee, undertakes or offers to undertake for another the planning,\n               supervising and installing or the making of additions, alterations, repairs to or\n               constructs new structures, utilities, or rights of way and who first obtains a permit\n               for a construction project that requires more than one type of permit (i.e., a combination\n               permit).\nTechnical codes\nmeans those codes adopted by this jurisdiction containing the provisions for design,\n               construction, alteration, addition, repair, removal, demolition, use, location, or\n               occupancy, and maintenance of buildings, structures, building service equipment, utilities,\n               and rights-of-way. It also includes the\nInternational Fire Code\n(I.F.C.).\n(Ord. No.\n4738\n, § 2, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "generally",
+      "procedures",
+      "obtaining",
+      "development",
+      "approvals",
+      "appealing",
+      "decisions",
+      "director"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-1-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "8-2-1-2. Application of article.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-1-2. Application of article.",
+        "a": "A.\tGenerally. All procedures for obtaining development approvals and for appealing decisions of the Director or the Planning Commission are set out in this Article.\nB.\tRequired Development Approvals.Division 8-2-2, Required Development Approvals, sets out the approvals and permits required by the City for the use and development of real property. Section 8-2-2-2, Decision-Making Tracks By Application Type, establishes eight decision-making tracks for approval of development applications.\nC.\tStandardized Decision-Making Procedures.Division 8-2-3, Standardized Decision-Making Procedures, sets out the steps in the standardized procedures for development review.\nD.\tRequired Notices.Division 8-2-4, Required Notices, details the notice requirements for each type of application that requires one or more public notices.\nE.\tAppeals.Division 8-2-5, Administrative Appeals, sets out the process for appealing a decision of the Director or the Planning Commission."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

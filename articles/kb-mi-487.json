@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "sales",
+      "exemption",
+      "purchase",
+      "machinery",
+      "equipment",
+      "manufacturing",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1481/Sales-Tax-Exemption-for-Purchase-of-Mach"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-487",
+    "spreadsheet_id": "MI-487",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Sales Tax Exemption for Purchase of Machinery Equipment",
+    "summary": "The City of Arvada offers a Manufacturing Machinery Exemption that allows eligible businesses to avoid paying sales tax on machinery used exclusively for manufacturing tangible personal property. To qualify, businesses must have at least 50% of their sales in wholesale, and the machinery must be used in Arvada, included in a purchase order over $500, and capitalized. Businesses must complete a specific exemption form and provide proof to vendors; failure to meet the criteria may result in a tax assessment.",
+    "body": "The City of Arvada is a home rule city, which offers a Manufacturing Machinery Exemption separate from the Colorado Department of  Revenue. The local exemption is more restrictive than the Colorado state-level exemption and requires businesses to meet specific criteria regarding the equipment use. Businesses can submit a form to be exempt from paying sales tax on the purchase of manufacturing machinery used exclusively and directly in the manufacturing of tangible personal property.\n\nTo be eligible for the exemption, local manufacturers must meet the following criteria:\n\n## For the business to qualify:\n\nThe manufacturing business must have the majority (equal to or greater than 50 percent) of their total sales in wholesale sales.\n\n## For the machinery to qualify:\n\n- Machinery must be used in Arvada, Colorado;\n- It must be used exclusively and directly in the manufacturing of tangible personal property for sale;\n- Be included on a purchase order or invoice totaling more than $500;\n- Machinery must be capitalized.\n\nMore information on manufacturing and the exemption can be found in the [Manufacturing Tax Guide.](https://www.arvadaco.gov/351/Manufacturing)\n\n## Claiming the Exemption:\n\nThe purchaser must complete the [City of Arvada Sales Tax Exemption– Purchase of Machinery Equipment form](https://arvada.form.transform.civicplus.com/62226). **Since businesses must provide proof of the exemption to vendors, a copy of the completed form will be emailed to the purchaser, the seller and the City of Arvada. Please note that you will be required to enter an email address for the seller.**This will ensure that the seller has the required documentation to exempt the sale from sales tax.\n\nIf the machinery or business requirements are determined **not** to qualify for the exemption, the City of Arvada will post an assessment for the tax due to the purchasers sales and use tax account. The purchaser must pay the assessed tax amount within 30 days of issuance. The assessment may be protested within thirty (30) days of issuance, pursuant to [Sec. 98-99 of the Code.](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA_S98-99APDEHE)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

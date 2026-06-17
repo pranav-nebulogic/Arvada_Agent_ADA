@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "adjustment",
+      "park",
+      "fees",
+      "lieu",
+      "development",
+      "director",
+      "reduce",
+      "waive",
+      "requirements",
+      "residential"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-4-3-8"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-4. REQUIRED IMPROVEMENTS, DEDICATIONS, AND FEES",
+    "division": "DIVISION 8-4-3. LAND DEDICATION; FEES-IN-LIEU; AND DEVELOPMENT FEES"
+  },
+  "content": {
+    "title": "8-4-3-8. Adjustment of park fees-in-lieu and park development fees.",
+    "summary": "The Director may reduce or waive park fees-in-lieu and/or park development fee requirements for residential development that is located wholly or partially within ½ mile of an RTD G Line transit station, in proportion to the Director's finding that the development substantially contributes to living…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-4-3-8. Adjustment of park fees-in-lieu and park development fees.",
+        "a": "The Director may reduce or waive park fees-in-lieu and/or park development fee requirements for residential development that is located wholly or partially within ½ mile of an RTD G Line transit station, in proportion to the Director's finding that the development substantially contributes to living opportunities that are both urban in character and pedestrian-oriented, through the provision of all of the following:\n  A.\tOn-site plazas, squares, green spaces, Small Urban Parks, or other gathering spaces for residents and visitors that are sufficient in number and character to substantially promote transit-oriented, urban mixed-use, pedestrian-oriented living, meeting the requirements of Subsection 4-3-3-4E, Small Urban Parks;\n  B.\tParking for the development which is at least 50 percent below-structure parking or at least 50 percent structured parking; and\n  C.\tBuilding forms, the substantial majority of which are more than three stories in height."
+      }
+    ],
+    "ordinance_refs": [
+      "8-4-3-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

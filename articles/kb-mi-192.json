@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "directions",
+      "hours",
+      "garrison",
+      "google",
+      "maps",
+      "parking",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1255/Directions-and-Hours"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-192",
+    "spreadsheet_id": "MI-192",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Directions and Hours",
+    "summary": "The Nature Center at 7030 Garrison Street in Arvada has varying public hours depending on the season, with winter hours from Thursday to Saturday and summer hours from Wednesday to Saturday. Additional parking is available at Majestic View Park, and visitors are advised to contact the center in advance if planning to visit with large groups, as capacity may be limited. The park is open from dawn to dusk, with programs outside regular hours available by appointment only.",
+    "body": "## Address\n\n**7030 Garrison Street** ([View on Google Maps](https://www.google.com/maps/dir//7030+Garrison+St,+Arvada,+CO+80004/@39.823881,-105.100434,17z/data=!4m13!1m4!3m3!1s0x876b889532c40bb3:0xeaabca338c7fc211!2s7030+Garrison+St,+Arvada,+CO+80004!3b1!4m7!1m0!1m5!1m1!1s0x876b889532c40bb3:0xeaabca338c7fc211!2m2!1d-105.100434!2d39.823881)),\n\n1. Wadsworth Blvd to 68th Avenue\n2. West to Garrison Street\n3. North to the Center parking lot\n\nAdditional parking is available for Majestic View Park on 72nd Avenue, just west of Carr Street.  Enjoy the 1/3 mile nature walk to the Nature Center or access the playground, tennis courts, basketball courts, horseshoe pits, and picnic area nearby.\n\n## Public Hours\n\n- ### Sept. 15-May 15-Winter Hours\n\n  - Sunday through Wednesday: Closed\n  - Thursday through Saturday: 9:00 a.m. to 1:00 p.m.\n- ### May 16-Sept. 14-Summer Hours\n\n  - Sunday through Tuesday: Closed\n  - Wednesday through Friday: 9:00 a.m. to 1:00 p.m.\n  - Saturday: 9:00 a.m. to 4:00 p.m.\n\nThe park is open from dawn to dusk, parking off 72nd & Carr st.\n\n\\*Thanks to our SCFD funding, we're able to offer Saturday Public Hours for a limited time!\n\n### Drop-in Guests and Large Groups\n\nPlease contact us before your visit in spring and early fall as we may be at capacity hosting large school groups during the morning hours.\n\nAdditional parking for Majestic View Park is available off 72nd Ave. and Carr St. [(Google Map to East Lot)](https://www.google.com/maps/place/Majestic+View+Park/@39.8263067,-105.0984388,17z/data=!3m1!4b1!4m5!3m4!1s0x876b88eb2b09bc7d:0x5ace1cbd2b82c55f!8m2!3d39.8263026!4d-105.0962501)\n\nPrograms scheduled outside of these hours are by appointment only.\n\n![Scientific and Cultural Facilities District (SCFD) Logo - We fund culture](/ImageRepository/Document?documentId=5447)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

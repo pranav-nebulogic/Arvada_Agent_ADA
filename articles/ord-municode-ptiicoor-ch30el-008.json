@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "return",
+      "excess",
+      "monetary",
+      "contributions",
+      "kind",
+      "purposes",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-8"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-8. - Return of excess monetary contributions and contributions in kind.",
+    "summary": "(a)\nFor purposes of this section, the term \"receipt\" shall mean the date upon which the\n               candidate knows or reasonably should know that an excess monetary contribution or\n               contribution in kind has been received.\n(b)\nIn the event a candidate receives monetary contributions…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-8. - Return of excess monetary contributions and contributions in kind.",
+        "a": "(a)\nFor purposes of this section, the term \"receipt\" shall mean the date upon which the\n               candidate knows or reasonably should know that an excess monetary contribution or\n               contribution in kind has been received.\n(b)\nIn the event a candidate receives monetary contributions or contributions in kind\n               which exceeds the aggregate limit set forth in\nsection 30-7\n, such candidate shall make a good faith attempt to return the excess amount to the\n               contributor by personally returning the excess amount or by placing the excess contribution\n               in the U.S. mail with a complete address and sufficient postage. The good faith attempt\n               to return an excess contribution shall take place no later than seven days following\n               the receipt of such excess contribution.\n(Code 1981, § 11-8; Ord. No. 3511, § 2, 2-1-1999)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

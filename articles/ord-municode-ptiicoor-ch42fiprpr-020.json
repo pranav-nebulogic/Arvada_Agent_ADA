@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "hydrant",
+      "standpipe",
+      "systems",
+      "hereby",
+      "amended",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-59"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-59. - I.F.C. Section 507.5.1.1, Hydrant for standpipe systems.",
+    "summary": "Section 507.5.1.1 Hydrant for standpipe systems\n, is hereby amended to read as follows:\n\"507.5.1.1 Hydrant for automatic sprinkler systems and standpipe systems.\nBuildings equipped with an automatic sprinkler system in accordance with Section\n                  903.3.1.1 or Section 903.3.1.2 and/or s…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-59. - I.F.C. Section 507.5.1.1, Hydrant for standpipe systems.",
+        "a": "Section 507.5.1.1 Hydrant for standpipe systems\n, is hereby amended to read as follows:\n\"507.5.1.1 Hydrant for automatic sprinkler systems and standpipe systems.\nBuildings equipped with an automatic sprinkler system in accordance with Section\n                  903.3.1.1 or Section 903.3.1.2 and/or standpipe system installed in accordance with\n                  Section 905 shall have a fire hydrant a minimum of 50 feet and a maximum of 150 feet\n                  of the fire department connection.\nException: The distance shall be permitted to exceed 150 feet where approved by the\nfire code official.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-59"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

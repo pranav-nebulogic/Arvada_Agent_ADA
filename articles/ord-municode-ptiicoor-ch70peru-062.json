@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "administrative",
+      "leave",
+      "pay",
+      "provided",
+      "other",
+      "paid",
+      "leaves"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-116"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-116. - Administrative leave.",
+    "summary": "Administrative leave is leave with pay which is not provided for by other paid leaves.\n               It may be granted to or required of an employee. Administrative leave may be granted\n               at the discretion of the appointing authority or the city manager for the benefit\n               o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-116. - Administrative leave.",
+        "a": "Administrative leave is leave with pay which is not provided for by other paid leaves.\n               It may be granted to or required of an employee. Administrative leave may be granted\n               at the discretion of the appointing authority or the city manager for the benefit\n               of the city. Administrative leave may be used for workplace investigations, prior\n               to a pre disciplinary administrative meeting, or for other city related purposes as\n               determined by management.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-116"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

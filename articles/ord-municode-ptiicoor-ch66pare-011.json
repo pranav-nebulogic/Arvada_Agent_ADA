@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "littering",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "dump",
+      "deposit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-30"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-30. - Littering.",
+    "summary": "It shall be unlawful for any person to:\n(1)\nDump, deposit or dispose of any glass, paper, can, bottle, box, garbage or any other\n                  trash whatsoever anywhere in any public park within the city, except in a trash receptacle\n                  provided for such purpose.\n(2)\nDischarge or …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-30. - Littering.",
+        "a": "It shall be unlawful for any person to:\n(1)\nDump, deposit or dispose of any glass, paper, can, bottle, box, garbage or any other\n                  trash whatsoever anywhere in any public park within the city, except in a trash receptacle\n                  provided for such purpose.\n(2)\nDischarge or otherwise place in any pool, fountain, lake or stream within a public\n                  park or recreation facility any substance, matter or thing which may result in pollution\n                  of said waters.\n(Code 1960, § 17-25; Code 1981, § 22-11)\nCross reference—\nLittering,\n§ 62-63\n; solid waste,\nch. 90\n.\nState Law reference—\nMunicipal water pollution control, C.R.S. § 31-15-710; water quality control generally,\n               C.R.S. title 25, art. 8."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-30"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

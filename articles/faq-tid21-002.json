@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-21-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "str_permit",
+    "category": "short_term_rentals",
+    "tags": [
+      "need",
+      "permit",
+      "operate",
+      "short",
+      "term",
+      "rental",
+      "rent",
+      "dwelling",
+      "Short Term Rentals"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=21"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/do-i-need-a-permit-to-operate-a-short-term-rental",
+    "faq_category_name": "Short Term Rentals"
+  },
+  "content": {
+    "title": "Do I need a permit to operate a short-term rental?",
+    "summary": "If you rent a dwelling unit, including a single-unit, duplex, multiplex, or multifamily dwelling unit, mobile home, or any portion of such dwellings, for a period of less than 30 nights and a minimum of 2 nights, a short-term rental permit is required. If you only rent for 31 or more nights at a tim…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Do I need a permit to operate a short-term rental?",
+        "a": "If you rent a dwelling unit, including a single-unit, duplex, multiplex, or multifamily dwelling unit, mobile home, or any portion of such dwellings, for a period of less than 30 nights and a minimum of 2 nights, a short-term rental permit is required. If you only rent for 31 or more nights at a time, then no permit is required."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

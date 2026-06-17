@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "remedies",
+      "awards",
+      "violation",
+      "law",
+      "city",
+      "manager",
+      "determines"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-84"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-84. - Remedies for awards in violation of the law.",
+    "summary": "(a)\nRemedies.\nIf the city manager determines an award violated the Code or other applicable law,\n               the city manager may, with the approval of the city attorney, order any remedy the\n               city manager deems appropriate to the circumstances.\n(b)\nTermination of the contract.\nIf t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-84. - Remedies for awards in violation of the law.",
+        "a": "(a)\nRemedies.\nIf the city manager determines an award violated the Code or other applicable law,\n               the city manager may, with the approval of the city attorney, order any remedy the\n               city manager deems appropriate to the circumstances.\n(b)\nTermination of the contract.\nIf the city manager allowed work on the contract to begin under the exception to\nsection 82-83\n(h), and the manager finds cancellation of the contract is necessary as a result of\n               the findings made in the formal award protest, the city manager may order the contract\n               to be terminated. Termination by the manager under this provision shall not be considered\n               a breach of the contract. The person awarded the contract will be compensated for\n               the actual costs reasonably incurred under the contract through the time of the termination\n               notice, if the person submits to the city manager an itemized invoice of those costs\n               not later than 14 days after the termination notice.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-84"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

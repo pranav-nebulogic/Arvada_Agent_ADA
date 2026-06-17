@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "status",
+      "program",
+      "director",
+      "file",
+      "city",
+      "manager",
+      "later"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-308"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-308. - Status of program.",
+    "summary": "The director will file with the city manager no later than January 31, 2022, a report\n               assessing the program for city council's six month review. City council may terminate\n               the pilot program on February 16, 2022 or allow the pilot program to continue. The\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-308. - Status of program.",
+        "a": "The director will file with the city manager no later than January 31, 2022, a report\n               assessing the program for city council's six month review. City council may terminate\n               the pilot program on February 16, 2022 or allow the pilot program to continue. The\n               program described herein will operate as a pilot program through and including September\n               13, 2022 with the possibility of extending to December 31, 2022. Unless terminated\n               by city council action prior to that date, the micromobility program will operate\n               as a city program on the same terms set forth in this article beginning on January\n               1, 2023.\n(Ord. No.\n4772\n, § 8, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-308"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

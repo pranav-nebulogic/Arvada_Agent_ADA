@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "special",
+      "obligations",
+      "bonds",
+      "issued",
+      "pursuant",
+      "article",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-89"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-89. - Special obligations.",
+    "summary": "(a)\nBonds issued pursuant to this article shall not be a debt of the city, and the city\n               shall not be liable thereon, nor shall it thereby pledge its full faith and credit\n               for their payment, nor shall the bonds be payable out of any funds other than the\n               sp…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-89. - Special obligations.",
+        "a": "(a)\nBonds issued pursuant to this article shall not be a debt of the city, and the city\n               shall not be liable thereon, nor shall it thereby pledge its full faith and credit\n               for their payment, nor shall the bonds be payable out of any funds other than the\n               special assessments (including installments thereof, interest thereon, and any penalties)\n               and other funds and moneys pledged to the payment thereof, as herein authorized.\n(b)\nEach bond issued under this article shall recite in substance that said bond and the\n               interest thereon are payable solely from the special assessments and other funds and\n               moneys pledged to the payment thereof.\n(c)\nThe payment of bonds shall not be secured by an encumbrance, mortgage or other pledge\n               of property of the city, except for such special assessments and other funds and moneys\n               pledged for the payment of bonds. No property of the city, subject to said exceptions,\n               shall be liable to be forfeited or to be taken in payment of the bonds.\n(Code 1981, § 27-90; Ord. No. 551, § 30, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-89"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

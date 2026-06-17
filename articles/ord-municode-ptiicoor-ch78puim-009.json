@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "types",
+      "construction",
+      "costs",
+      "resolution",
+      "under",
+      "provisional",
+      "order"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-10"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-10. - Types of construction; costs.",
+    "summary": "The resolution under the provisional order method may provide for one or more types\n               of construction, and the engineer shall separately estimate the cost of each type\n               of construction. The estimate may be made in a lump sum or by unit prices, as to such\n               eng…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-10. - Types of construction; costs.",
+        "a": "The resolution under the provisional order method may provide for one or more types\n               of construction, and the engineer shall separately estimate the cost of each type\n               of construction. The estimate may be made in a lump sum or by unit prices, as to such\n               engineer may seem most desirable for the facilities complete in place.\n(Code 1981, § 27-11; Ord. No. 551, § 8(B), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-10"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

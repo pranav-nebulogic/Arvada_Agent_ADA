@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "water",
+      "quality",
+      "report",
+      "year",
+      "drinking",
+      "shares",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/448/Water-Quality-Report"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-597",
+    "spreadsheet_id": "MI-597",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Water Quality Report",
+    "summary": "The City conducts daily water quality tests and annually provides a report detailing the results from the previous year to inform Arvada water customers about the quality of their drinking water. The 2026 Water Quality Report, which covers data from 2025, is available for download and can also be requested in print by contacting the Water Quality Department.",
+    "body": "The City performs water quality tests every day. Each year the City shares data from the prior year about what was tested for and found in our drinking water.\n\n## 2026 Water Quality Report\n\nThe Water Quality Report shares information with Arvada water customers about their high quality drinking water. We want you to know where your water comes from, what it contains and how it compares to stringent federal water quality standards.\n\nDownload the 2026 Annual Water Quality Report (Reporting Year 2025):\n\n- [2026 Annual Water Quality Report - Reporting Year 2025](/DocumentCenter/View/7612) (PDF)\n\nA print version of the Water Quality Report is available upon request. Please call the Water Quality Department at 720-898-7800.\n\n## Past Water Quality Reports\n\n- [Water Quality Reports Archive](/Archive.aspx?AMID=42)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

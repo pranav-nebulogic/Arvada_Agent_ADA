@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "duties",
+      "city",
+      "clerk",
+      "attorney",
+      "shall",
+      "prescribe",
+      "forms"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-10"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-10. - Duties of the city clerk; city attorney.",
+    "summary": "(a)\nThe city clerk shall:\n(1)\nPrescribe the forms required to be filed by this article and furnish such forms and\n               information free of charge for use by candidates and other persons required to file\n               such statements and information under this article.\n(2)\nMake the reports…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-10. - Duties of the city clerk; city attorney.",
+        "a": "(a)\nThe city clerk shall:\n(1)\nPrescribe the forms required to be filed by this article and furnish such forms and\n               information free of charge for use by candidates and other persons required to file\n               such statements and information under this article.\n(2)\nMake the reports and statements filed with the city clerk available for public inspection\n               and copying under city clerk staff supervision, commencing as soon as practicable\n               but not later than the end of the second day following the day during which it was\n               received. Information from reports may be copied by hand or duplication machine at\n               the expense of the requesting person. No information copied from such reports and\n               statements shall be sold or utilized by any person for the purpose of soliciting contributions\n               or for any commercial purpose.\n(3)\nReview all required filings for timeliness and completeness. In the event the city\n               clerk determines that a filing is incomplete, the candidate or campaign treasurer\n               which has made the incomplete filing shall have three business days from the date\n               of receipt of notification to file a complete report. Notification from the city clerk\n               shall be by certified mail. In the event that a report is not timely filed or is incomplete\n               despite notification as set forth in this subsection, the city clerk shall refer the\n               matter to the city attorney. In the event there is an allegation that the excess contribution\n               or mail ballot 45-day report contains erroneous information, the matter shall be referred\n               to the city attorney.\n(4)\nUpon receipt of a sworn, written complaint, the city clerk shall refer such complaint\n               to the city attorney for preliminary review. Such written complaint shall be in the\n               form of a sworn notarized affidavit which alleges that the complainant has personal\n               knowledge of the facts and circumstances set forth in the written complaint, and believe\n               them to be accurately described in the complaint.\n(5)\nSubject to the city attorney's review and determination, the city clerk shall request\n               that an investigation is made of the complaints which sufficiently allege facts which,\n               if true, would constitute a violation of this article.\n(b)\nThe city attorney shall:\n(1)\nConsult with the city clerk on all issues arising under this section as requested.\n(2)\nExamine and review allegations set forth in a complaint for the purpose of determining\n               whether such allegations, if true, sufficiently describe violation, under applicable\n               standards, of this article to merit investigation as described in this section.\n(Code 1981, § 11-10; Ord. No. 3511, § 2, 2-1-1999;\nOrd. No. 4400, § 5, 8-19-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-10"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

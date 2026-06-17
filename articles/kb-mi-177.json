@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "criminal",
+      "investigations",
+      "bureau",
+      "assaults",
+      "cases",
+      "crimes",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/205/Criminal-Investigations-Bureau"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-177",
+    "spreadsheet_id": "MI-177",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Criminal Investigations Bureau",
+    "summary": "The Criminal Investigations Bureau (CIB) of the Arvada Police Department investigates serious crimes, cases requiring extensive follow-up, and those needing specific expertise, such as Crimes Against Children and Domestic Violence. Patrol officers handle less complex cases to maintain their investigative skills, allowing the CIB to focus on more complicated investigations. The CIB is staffed by a diverse team, including detectives specializing in various areas, crime scene investigators, and support roles.",
+    "body": "The Criminal Investigations Bureau (CIB) of the Arvada Police Department is responsible for the investigation of:\n\n- Crimes that are particularly serious in nature (i.e., homicide, aggravated assaults, sexual assaults, burglary, robbery, etc.);\n- Cases involving extensive follow up (forgeries, thefts where the items were pawned);\n- Cases requiring specific expertise (Crimes Against Children); and,\n- Legislatively mandated functions (Domestic Violence, [Sexual Offender](/583), and At-Risk Adult Abuse).\n\nPatrol officers in Arvada traditionally file cases that can be completed in an expedient manner. This philosophy serves two purposes. First, it allows our patrol officers to maintain a level of expertise in case investigation and follow-up. Second, it allows our CIB to focus on complicated cases that have a higher priority or an extended investigative commitment.\n\nThe decision to refer a case to CIB often depends on the individual circumstances such as a suspect being arrested during the commission of the crime, the degree of follow up before and after an arrest is made, specific expertise that is needed for a successful prosecution and crime scene processing.\n\n## Staffing\n\n| Number | Role |\n| --- | --- |\n| 1 | Commander |\n| 3 | Sergeants |\n| 5 | Crimes Against Children |\n| 5 | Crimes Against Persons |\n| 1 | Domestic Violence |\n| 9 | General Assignment |\n| 1 | Crimes Against At-Risk Adults |\n| 1 | Digital Evidence/General Assignment |\n| 1 | Intelligence Investigator |\n| 1 | Sex Offender Registrations |\n| 4 | Crime Scene Investigators (CSI) |\n| 1 | Traffic Detective |\n| 1 | Patrol Detective |\n| 1 | Civilian Liquor Investigator |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

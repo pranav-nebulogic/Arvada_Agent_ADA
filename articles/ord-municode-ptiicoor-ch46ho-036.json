@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "remedies",
+      "obligee",
+      "authority",
+      "any",
+      "right",
+      "addition",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-65"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-65. - Remedies of an obligee of authority.",
+    "summary": "Any obligee of the authority has the right, in addition to all other rights which\n               may be conferred on such obligee, subject only to any contractual restrictions binding\n               upon such oblige by:\n(1)\nMandamus, suit, action or proceeding in law or equity, all of which may be j…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-65. - Remedies of an obligee of authority.",
+        "a": "Any obligee of the authority has the right, in addition to all other rights which\n               may be conferred on such obligee, subject only to any contractual restrictions binding\n               upon such oblige by:\n(1)\nMandamus, suit, action or proceeding in law or equity, all of which may be joined\n                  in one action, to compel the performance by the authority and the commissioners thereof,\n                  and any officer, agent or employee of the authority of each and every term, provision\n                  and covenant contained in any trust indenture, mortgage, lease or other agreement\n                  to which the authority is a party, and to require the carrying out of any or all covenants\n                  and agreements and the fulfillment of all duties imposed upon the authority by this\n                  article.\n(2)\nSuit, action or proceeding in equity to enjoin any act or thing which may be unlawful\n                  or the violation of any of the rights of such obligee of the authority.\n(3)\nSuit, action or proceeding in any court of competent jurisdiction to cause possession\n                  of any project or any part thereof to be surrendered by any obligee having the right\n                  to such possession pursuant to any mortgage, lease or contract of the authority.\n(Code 1981, § 14-34; Ord. No. 1248, § 16, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-218."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-65"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

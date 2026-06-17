@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "agreement",
+      "required",
+      "generally",
+      "city",
+      "does",
+      "adjudicate",
+      "relative",
+      "interests",
+      "landowners",
+      "owners"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-5-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-5. IRRIGATION CANALS AND DITCHES"
+  },
+  "content": {
+    "title": "4-1-5-2. Agreement required.",
+    "summary": "A.\tGenerally. The City does not adjudicate the relative interests of landowners and owners of irrigation canals and irrigation ditches (i.e., whether such interests are fee-simple or easement interests).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-5-2. Agreement required.",
+        "a": "A.\tGenerally. The City does not adjudicate the relative interests of landowners and owners of irrigation canals and irrigation ditches (i.e., whether such interests are fee-simple or easement interests). As such, where development has the potential to impact an irrigation canal or irrigation ditch (e.g., by installation of an overhead, surface, or subterranean crossing); installation of infrastructure or improvements that may increase seepage (e.g., detention ponds in close proximity to the canal or ditch, or subsurface drainage systems); grading that could result in changes to the amount of stormwater runoff or pollution that reaches the canal or ditch; or improvements that increase the risk of trespass onto canal or ditch infrastructure or rights-of-way, including service roads), the Applicant shall provide to the City a fully executed agreement between the Applicant and the owner of the canal or ditch that is satisfactory to the City and addresses the impacts of the development on the canal or ditch.\nB.\tStreet or Water and Sewer Utility Crossings. Any agreement related to crossing an irrigation canal or ditch for the purpose of providing public street access or accessing or obtaining water or sewer service from the City shall identify the City as an approved assignee and require prior written approval (or right to cure defaults in the event of provisions that allow for termination in the event of default) by the City for any modification or termination prior to said assignment.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-5-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

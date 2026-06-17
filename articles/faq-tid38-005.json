@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-38-006",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "happening",
+      "building",
+      "avenue",
+      "formerly",
+      "early",
+      "college",
+      "arvada",
+      "eca",
+      "Homelessness in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=38"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-is-happening-with-the-building-at-4905-w-60th-avenue-fo",
+    "faq_category_name": "Homelessness in Arvada"
+  },
+  "content": {
+    "title": "What is happening with the building at 4905 W. 60th Avenue (formerly Early College of Arvada)?",
+    "summary": "The ECA building is for sale as of this time. For updates on the status of the building, subscribe to the Homelessness Response email list.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What is happening with the building at 4905 W. 60th Avenue (formerly Early College of Arvada)?",
+        "a": "The ECA building is for sale as of this time. For updates on the status of the building, subscribe to the Homelessness Response email list."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "conditions",
+      "reservations",
+      "generally",
+      "section",
+      "applied",
+      "request",
+      "processed",
+      "pursuant",
+      "division",
+      "vacation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-9-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-9. VACATION OF RIGHTS-OF-WAY; TERMINATION OF EASEMENTS"
+  },
+  "content": {
+    "title": "8-3-9-3. Conditions and reservations.",
+    "summary": "A.\tGenerally. The conditions and reservations set out in this Section may be applied to any request that is processed pursuant to this Division.\nB.\tVacation of Portion of Request.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-9-3. Conditions and reservations.",
+        "a": "A.\tGenerally. The conditions and reservations set out in this Section may be applied to any request that is processed pursuant to this Division.\nB.\tVacation of Portion of Request. Unless otherwise provided by enforceable agreement or applicable law, the City may, in its discretion, refuse any vacation request, or vacate only a portion of the total area that is the subject of a request for vacation.\nC.\tReservation of Rights-of-Way or Easements. In the event of a vacation in accordance with this Division, alternative rights-of-way or easements may be established or reserved for the use of existing or future streets; water, wastewater, gas, or similar pipelines and appurtenances; overland drainage, drainage facilities or canals and appurtenances; electric, cable television, telephone, and similar lines and appurtenances; or any other public purpose.\nD.\tConditions on Vacation. The City Council (in the ordinance effecting a vacation) or the Director (in a notice effecting a vacation) may impose reasonable conditions on a vacation, in order to preserve and promote the public health, safety, and welfare of the inhabitants of the City and the public generally."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-9-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

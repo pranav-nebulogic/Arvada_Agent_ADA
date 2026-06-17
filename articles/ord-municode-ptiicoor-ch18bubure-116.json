@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "required",
+      "inspections",
+      "testing",
+      "hereby",
+      "amended",
+      "amending"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-356"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-356. - I.M.C. Section 107.2, Required inspections and testing.",
+    "summary": "Section 107.2. Required inspections and testing,\nis hereby amended by amending item number 2 in its entirety to read as follows:\n\"2. A rough mechanical inspection shall be made prior to rough frame inspection and\n                  after the roof and roof covering, framing, fire-blocking, and bracing…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-356. - I.M.C. Section 107.2, Required inspections and testing.",
+        "a": "Section 107.2. Required inspections and testing,\nis hereby amended by amending item number 2 in its entirety to read as follows:\n\"2. A rough mechanical inspection shall be made prior to rough frame inspection and\n                  after the roof and roof covering, framing, fire-blocking, and bracing are in place,\n                  and all vents, duct systems, piping, and HVAC equipment is properly installed, including\n                  all vents, exhausts, and intakes extended through the completed roof and walls.\"\n(Ord. No.\n4738\n, § 10, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-356"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

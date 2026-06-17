@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-29-007",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "group",
+      "homes",
+      "sober",
+      "living",
+      "facilities",
+      "require",
+      "rezoning",
+      "allowed",
+      "Group Homes"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=29"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/do-group-homes-or-sober-living-facilities-require-rezoning",
+    "faq_category_name": "Group Homes"
+  },
+  "content": {
+    "title": "Do group homes or sober living facilities require rezoning?",
+    "summary": "No, group homes and sober living facilities are allowed in all residential zone districts. There is no action required by the City Council.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Do group homes or sober living facilities require rezoning?",
+        "a": "No, group homes and sober living facilities are allowed in all residential zone districts. There is no action required by the City Council."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

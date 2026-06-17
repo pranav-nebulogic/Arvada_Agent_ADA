@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "opportunities",
+      "system",
+      "bidnet",
+      "direct",
+      "districts",
+      "potential",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/242/Bid-Opportunities"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-098",
+    "spreadsheet_id": "MI-098",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Bid Opportunities",
+    "summary": "The City of Arvada posts all formal bidding opportunities on the BidNet Direct E-Purchasing System, where vendors can register to receive notifications about solicitations. Registration options include free search-only access or paid automatic email notifications for selected commodities. Vendors already registered with another agency on this system do not need to register again for Arvada.",
+    "body": "The City of Arvada does not register vendors for potential business in our system. Rather, all formal solicitations are posted on the BidNet Direct E-Purchasing System.\n\n## Bidding Information/Registration\n\nYou may register as a potential vendor for Arvada, along with over 100 Colorado public entities (municipalities, counties, school districts, special districts, etc.), at [BidNet Direct](https://www.bidnetdirect.com/)/Rocky Mountain E-Purchasing System. By [registering as a vendor/supplier](https://www.bidnetdirect.com/register/colorado/information/2076631849?subscriptionItemId=&registrationFlow=STANDARD_A&purchasingGroupId=8409951), you may receive email notices when solicitations are released.\n\nThere are several options available for registration. You can register for SEARCH ONLY ACCESS which is free and gives you access to the website to check for bidding opportunities on your own; or, for different fees you can get AUTOMATIC EMAIL NOTIFICATION for commodities you select when solicitations, addenda, and other bid communications are posted.\n\nYou can search for \"Arvada\" or [go to our specific page to see open the City’s solicitations](https://www.bidnetdirect.com/colorado/solicitations/open-bids?keywords=City+of+Arvada&selectedContent=BUYER&target=g_3). If you are not registered, the information is limited.\n\nIf you are currently registered as a vendor on this system with another agency, you do not need to register separately for the City of Arvada.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

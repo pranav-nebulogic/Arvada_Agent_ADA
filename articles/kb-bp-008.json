@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "building",
+      "inspection",
+      "policy",
+      "contemporaneous",
+      "review",
+      "state",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1241/Policy-On-Review-of-Electrical-Licenses"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-008",
+    "spreadsheet_id": "BP-008",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Building Inspection Policy On Contemporaneous Review of State of Colorado Issued Electrical Licenses",
+    "summary": "The City of Arvada has established a policy for the contemporaneous review of electrical licenses issued by the State of Colorado to ensure compliance with relevant statutes governing electrical work. This policy applies to all electrical permits and requires that a licensed electrical contractor be listed on the permit application, with verification of their current licenses before permit issuance. Additionally, city inspectors are authorized to verify licenses on-site and may fail inspections if compliance cannot be confirmed.",
+    "body": "## Purpose\n\nThe purpose of this policy is to establish City of Arvada Building Division processes in providing contemporaneous review of State of Colorado issued electrical licenses in accordance with Colorado Revised Statute (C.R.S.) 12-23-116 \"Inspection - application - standard - rules\" (10) to ensure electrical contractors, licensed electricians and apprentices are in compliance with C.R.S. 12-23-105 \"Electrician must have license - control and supervision\" and 12-23-110.5 \"Apprentices - supervision - registration - discipline\".\n\n## Scope\n\nThis policy shall apply to all electrical permits and building permits that include electrical work and / or any permit combination thereof where the electrical work is subject to regulation under Colorado Revised Statute Title 12, ''Professions and Occupations\", Article 23 \"Electricians\"; informally known as the \"Electricians Practice Act\".\n\nAdditionally, this policy shall apply to electrical plan reviews performed to ensure design compliance and field inspections performed by City of Arvada Building Division electrical inspectors under the Electrical Code adopted by the State of Colorado Electrical Board (currently NFPA 70 / the 2017 National Electrical Code).\n\n## Process (permit application, plan review, and permit issuance)\n\nUpon receipt of an application for a building permit that identifies electrical work and / or an application for an electrical-only permit that identifies electrical work subject to regulation under the Electricians Practice Act, the City of Arvada Building Division intends to ensure a State of Colorado licensed electrical contractor is listed on the building permit as the electrical contractor of record and to further ensure the electrical contractor holds a current electrical contractor license issued by the State Electrical Board and has registered with the City of Arvada as an electrical contractor.\n\nThe application for either permit type shall include the name of the licensed electrical contractor and the electrical contractor shall provide a copy of his / her State-issued electrical contractor license as well as a copy of his/ her master electrician license as a condition of application for either permit type and registration with the City as an electrical contractor. If the electrical contractor of record is unknown at the time of application for either permit type, the permit shall not be issued until such time as the electrical contractor has demonstrated compliance with the above.\n\nThe City of Arvada Building Division will verify that both the electrical contractor license and master electrician license are current and up-to-date with the State Electrical Board before either permit type is issued.\n\n## Process (electrical inspections)\n\n1. City of Arvada Building Division electrical inspectors are authorized to:\n   - Perform license verifications of any person on a job-site performing electrical work to ensure they hold the appropriate license for the electrical work being performed in accordance with C.R.S. 12-23-105.\n   - If the City inspector is unable to verify the identity or verification of any of the items listed above, the inspector may fail the inspection, at their discretion, until verification can be provided.\n   - The City inspectors may file a complaint with the State Electrical Board for any violation of C.R.S. Title 12, Article 23.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

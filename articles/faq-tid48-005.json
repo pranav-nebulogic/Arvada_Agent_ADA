@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-48-006",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "trees",
+      "vegetation",
+      "added",
+      "end",
+      "construction",
+      "most",
+      "project",
+      "areas",
+      "Public Improvement Projects - Lake Arbor Restoration"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=48"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-trees-or-vegetation-will-be-added-at-the-end-of-the-con",
+    "faq_category_name": "Public Improvement Projects - Lake Arbor Restoration"
+  },
+  "content": {
+    "title": "What trees or vegetation will be added at the end of the construction?",
+    "summary": "Most of the project areas will be restored with good-quality topsoil, and should be solid candidates for new tree plantings in the future. Soil quality will be tested after construction to determine when and where we can put new trees. Other areas in the park will likely need more time for soil reme…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What trees or vegetation will be added at the end of the construction?",
+        "a": "Most of the project areas will be restored with good-quality topsoil, and should be solid candidates for new tree plantings in the future. Soil quality will be tested after construction to determine when and where we can put new trees. Other areas in the park will likely need more time for soil remediation. New wetland plants will also be added along the north shoreline in 2024 once the water level has returned to normal. Topsoil test will be used to determine the plant species that will work best."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

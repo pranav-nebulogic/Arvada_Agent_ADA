@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "leased",
+      "rented",
+      "property",
+      "code",
+      "lease",
+      "personal",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/348/Leased-Rented-Property"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-295",
+    "spreadsheet_id": "MI-295",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Leased & Rented Property",
+    "summary": "The Arvada Municipal Code defines leasing and rental agreements as taxable transactions, requiring lessors to obtain a business license and collect sales tax on lease payments. Sales tax is applicable on all lease payments, with specific rules for equipment delivered outside the city and for vehicles leased by Arvada residents. Licensed lessors are exempt from paying sales tax on inventory held strictly for customer use, but must pay tax on property used in their business.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) includes in the definition of \"purchase or sale\" any \"lease, lease-purchase agreement, rental, or grant of a license, including royalty agreements, to use tangible personal property or taxable services\". These terms include capital leases, and installment and credit sales. Retailers (\"lessors\") leasing or renting tangible personal property for use in the City must obtain an Arvada Business License and collect Arvada sales tax on the lease payments. A purchaser (\"lessee\") who does not pay a sufficient, legally imposed, sales or use tax to a lessor licensed and authorized to collect the same at the time of purchase must remit a use tax directly to the City.\n\n## Taxable Amount of Lease Payment\n\nArvada sales and use tax is due upon each lease payment throughout the duration of the lease agreement. If the property is delivered to the lessee outside the City for use in the City thereafter, the first rental or lease period (up to 30 days) is not subject to Arvada sales/use tax. Subsequent periods will be subject to Arvada sales/use tax. The taxable purchase price includes without limitation, rental or lease charges, operator charges that are not separately stated, charges for delivery/pickup of the equipment, mandatory setup or services charges, environmental fees, property tax charges, certain insurance charges, damage waivers, fuel charges, and all other amounts paid to obtain the uninterrupted use of the property under lease.\n\n## Purchase of Leased Equipment\n\nArvada sales and use tax should not be paid by licensed lessors when purchasing the inventory for lease if the property will be held strictly for customer use. Lessor may not avoid the collection of sales tax by paying sales or use tax on the purchase of lease inventory. The lessor must pay Arvada sales/use tax on property the business uses which is also held for lease.\n\n## Usage of Equipment\n\nIf a rental or lease agreement calls for a royalty to be paid based on units produced or for use of the property, such royalties are subject to tax. This can sometimes be measured by the amount the equipment is used.\n\n## Leased Vehicles\n\nVehicles leased by an Arvada resident or business are required to be registered at the lessee's address in Arvada. City sales tax is due on each periodic lease payment. If at the inception of the lease, the lessee was not an Arvada resident or business, but subsequently moves into the City, the vehicle must be registered at the lessee's address in Arvada at the time of the move. Arvada sales tax is due on all subsequent periodic lease payments.\n\n## Example\n\n- The resident is building a fence for his yard and rents a nail gun and compressor from ABC Renter, a licensed Arvada retailer. ABC Renter charges $100 per day for the rental plus a $10 damage waiver. The renter must collect Arvada sales tax on both the $100 rental charge and the damage waiver.\n- The Arvada Bowl Lanes is a local bowling alley that sells equipment, accessories, and supplies. In addition, they rent bowling shoes for $5 which is subject to sales tax. Since the rental of bowling shoes is taxable, the Arvada Bowl Lanes should purchase the shoes without paying sales or use tax at the time of purchase.\n- ABC Linen Services is a retailer that provides (retailer-owned) linen, diapers, uniforms, floor mats, and other textiles along with the service of laundering soiled linens. \"Linen services\" or other similar \"services\" are considered a rental of the retail's linens and therefore, subject to Arvada sales tax. The retailer does not have to pay sales and use tax when purchasing the textiles inventory if the property will be held strictly for customer use.\n- Customer A lives in Westminster and leases a vehicle for 36 months. She properly registers the vehicle in Westminster. Six months later, Customer A moves to Arvada. She must change the vehicle location to Arvada and pay Arvada sales tax on the lease payments as long as she resides in Arvada.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

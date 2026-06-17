@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "permit history",
+      "permit search",
+      "address lookup",
+      "records",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/627/Researching-Permits"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-472",
+    "spreadsheet_id": "MI-472",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Researching Permits | Arvada, CO",
+    "summary": "Historical permits and documentation can be accessed by address through the Permit Portal, requiring users to log in for attachment information. For permits issued before 2013, users should search using the PREH13 permit number associated with the address. The portal allows users to search for permits by entering the address, selecting from generated results, and reviewing detailed information across multiple tabs, including permit status, applicant details, and inspection notes.",
+    "body": "Historical permits and documentation is available by address on [Permit Portal]([NEW PORTAL URL]). If the record does not show, then there is most likely not a permit on record. To view attachment information, users must be logged into an account.\n\nIf you are looking for permits that may have been issued prior to 2013, please look for the PREH13 permit number associated with the address. Records will be in an attachment.\n\n1. **Search for Permits:**  \n\tSelect \"Search Permit\" located under the Permits heading\n2. **Enter Address:**  \n\tEnter the full address or part of the address. If the address does not generate any results, try to enter only the numbers and then select the address from the list. Click \"Search\" to generate results.  \n\t**Note:** Addresses in Arvada use abbreviations without punctuation for street directions (N, W, E, S) and for Street Names (Place, Avenue, Street). If you need to verify your address please use [Address and Property Search](https://www.arvadaco.gov/702/Maps-Property-Search).\n3. **Select Permit:**  \n\tOnce the list generates, highlight the permit from the list and select it.\n4. **Review Permit Information:**  \n\tInformation about the permit will be in multiple tabs on this screen. The overall permit status, dates of approval, issuance and final attachments will show on the first Permit Info tab. The applicant information and contractor information will show on the Contacts tab. Information on inspections will be located on the Inspections tab. If the permit required reviews, the Reviews tab will have notes and comments from staff about the approval of the permit of the project. For permit information on records that were issued before 2013, you will need to review the permit type **history**. The records will be located in the attachments file.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

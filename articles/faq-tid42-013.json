@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-42-014",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "city",
+      "policy",
+      "use",
+      "herbicides",
+      "parks",
+      "open",
+      "space",
+      "apply",
+      "Parks Maintenance"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=42"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-is-the-city-s-policy-on-the-use-of-herbicides-in-parks-",
+    "faq_category_name": "Parks Maintenance"
+  },
+  "content": {
+    "title": "What is the City's policy on the use of herbicides in parks and open space?",
+    "summary": "We apply herbicides to better control invasive species such as: Scotch Thistle, Emerald Ash Borer, Mountain Pine Beetle and Purple Loose Strife to name a few. All parks crew who are applicators are certified by the Department of Agriculture and attend classes to keep their credentials current.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What is the City's policy on the use of herbicides in parks and open space?",
+        "a": "We apply herbicides to better control invasive species such as: Scotch Thistle, Emerald Ash Borer, Mountain Pine Beetle and Purple Loose Strife to name a few. All parks crew who are applicators are certified by the Department of Agriculture and attend classes to keep their credentials current."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

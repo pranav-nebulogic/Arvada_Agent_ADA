@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "promulgation",
+      "rules",
+      "regulations",
+      "chief",
+      "police",
+      "hereby",
+      "authorized"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH34EMSE"
+    ],
+    "scraped_at": "2026-06-10T12:02:33.665000+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 34-73"
+    ],
+    "chapter": "Chapter 34 - EMERGENCY SERVICES"
+  },
+  "content": {
+    "title": "Chapter 34 - EMERGENCY SERVICES — Sec. 34-73. - Promulgation of rules and regulations.",
+    "summary": "The chief of police is hereby authorized to adopt rules and regulations not inconsistent\n               with this section to aid in its administration and enforcement, pursuant to the procedure\n               provided in article V, division 2 of chapter 2 of this Code.\n(Code 1981, § 2-191(c); Ord. N…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 34-73. - Promulgation of rules and regulations.",
+        "a": "The chief of police is hereby authorized to adopt rules and regulations not inconsistent\n               with this section to aid in its administration and enforcement, pursuant to the procedure\n               provided in article V, division 2 of chapter 2 of this Code.\n(Code 1981, § 2-191(c); Ord. No. 1745, §§ 2—6, 5-18-1981; Ord. No. 1959, § 1, 8-1-1983;\n               Ord. No. 3237, § 2, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 34-73"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "design",
+      "objectives",
+      "purpose",
+      "intent",
+      "section",
+      "intended",
+      "result",
+      "plans",
+      "reflect",
+      "high"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-3-2-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-3. SITE DESIGN",
+    "division": "DIVISION 4-3-2. GENERAL STANDARDS FOR SITE DESIGN"
+  },
+  "content": {
+    "title": "4-3-2-1. Design objectives.",
+    "summary": "A.\tPurpose and Intent.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-3-2-1. Design objectives.",
+        "a": "A.\tPurpose and Intent. The design objectives of this Section are intended to result in plans that reflect high quality design that preserves important environmental resources, provides useable open space amenities, provides creative design in the layout of buildings, open space and circulation, design to complements the neighborhood character and social activities, and provides efficiency in the layout and provision of roads, utilities and other infrastructure. The principal objectives of this Division are to ensure that the elements of proposed development that are addressed by this Chapter 4, Environmental and Site Design, are appropriately configured.\nB.\tObjectives. Development shall result in harmonious, interrelated combinations of compatible buildings and uses that:\n  1.\tProvide appropriate space for buffers and transitions between:\n    a.\tConflicting land uses; and\n    b.\tObvious changes in density or intensity between adjacent uses;\n  2.\tProvide access and circulation and vehicular and pedestrian linkages among residential uses and recreational, institutional, retail, service, and office uses, with anticipated and planned future linkages to new development;\n  3.\tMinimize impacts to water quality from runoff, erosion, or discharge of pollutants; and\n  4.\tRecognize environmental constraints that affect the way land is developed by identifying specific areas affected by natural hazards, naturally steep slopes, wetlands, riparian areas, wildlife corridors, and floodplain.\nC.\tContextual Design Objectives. If there is an identifiable development pattern in the immediate area of the development, then proposed development shall, to the maximum extent practicable, coordinate elements between adjacent sites, including:\n  1.\tReinforce the existing pattern and site features, particularly at the edges where the proposed development is not separated from existing development by a street or physical separation (i.e., railroad tracks, etc.);\n  2.\tProvide shared driveways for accessing adjoining streets;\n  3.\tProvide linkages of internal vehicular circulation systems;\n  4.\tProvide linkages of interior pedestrian systems;\n  5.\tProvide linkage/continuation of open space systems; and\n  6.\tIntegrate drainage and detention facilities."
+      }
+    ],
+    "ordinance_refs": [
+      "4-3-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

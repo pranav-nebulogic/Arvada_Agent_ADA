@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "annexed",
+      "lands",
+      "any",
+      "area",
+      "city",
+      "future",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-5"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-5. - Annexed lands.",
+    "summary": "Any area annexed to the city in the future shall be automatically considered as a\n               part of the council district and voting precinct of which it is a part by extension\n               of district and precinct boundaries in a straight line.\n(Code 1981, § 11-5; Ord. No. 3511, § 2, 2-1-1999…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-5. - Annexed lands.",
+        "a": "Any area annexed to the city in the future shall be automatically considered as a\n               part of the council district and voting precinct of which it is a part by extension\n               of district and precinct boundaries in a straight line.\n(Code 1981, § 11-5; Ord. No. 3511, § 2, 2-1-1999)\nCharter reference—\nAuthority for above section, §\n4.1.1\n."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

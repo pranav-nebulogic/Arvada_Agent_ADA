@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "abandonment",
+      "motor",
+      "vehicle",
+      "any",
+      "person",
+      "abandons",
+      "upon"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-35"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-35. - Abandonment of a motor vehicle.",
+    "summary": "(a)\nAny person who abandons any motor vehicle upon a street, highway, right-of-way, or\n               any other public property, or upon any private property without the express consent\n               of the owner or person in lawful charge of that private property commits abandonment\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-35. - Abandonment of a motor vehicle.",
+        "a": "(a)\nAny person who abandons any motor vehicle upon a street, highway, right-of-way, or\n               any other public property, or upon any private property without the express consent\n               of the owner or person in lawful charge of that private property commits abandonment\n               of a motor vehicle.\n(b)\nTo \"abandon\" means to leave a thing with the intention not to retain possession of\n               or assert ownership over it. The intent need not coincide with the act of leaving.\n(c)\nIt is prima facie evidence of the necessary intent to abandon that:\n(1)\nThe motor vehicle has been left for more than seven days unattended and unmoved other\n               than in a public parking garage; or\n(2)\nLicense plates or other identifying marks have been removed from the motor vehicle;\n               or\n(3)\nThe motor vehicle has been damaged or is deteriorated so extensively that it has value\n               only for junk or salvage; or\n(4)\nThe owner has been notified by a law enforcement agency to remove the motor vehicle,\n               and it has not been removed within three days after notification; or\n(5)\nThe motor vehicle has been parked in a public parking garage in excess of thirty days.\n(d)\nIt shall be unlawful for any person to leave or park an inoperable motor vehicle upon\n               a street, highway, right-of-way, or any other public property.\nFor purposes of enforcement of this subsection, an inoperable motor vehicle means\n               a vehicle which cannot be driven upon the public streets for reasons including, but\n               not limited to, not having a current license plate or tag, being wrecked, in a state\n               of major disassembly, in a state of disrepair, or incapable of being moved under its\n               own power.\n(e)\nFor purposes of enforcement and prosecution of this section, the owner of the motor\n               vehicle shall be presumed to be the person who abandoned the motor vehicle, or who\n               parked or left the inoperable vehicle, unless the owner can furnish sufficient evidence\n               that the vehicle was, at the time the vehicle was abandoned, parked, or left, in the\n               care, custody, or control of another person. In the event that the owner of such vehicle\n               or the person in possession cannot be found, then a summons and complaint alleging\n               the violation of this section may be issued against the vehicle, describing the same\n               by year, make and model. The chief of police or designee thereof is authorized to\n               investigate any vehicle left at any place within the city which reasonably appears\n               to be in violation of this section.\n(\nOrd. No. 4096, § 2, 11-19-2007\n;\nOrd. No. 4563, § 1, 9-19-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

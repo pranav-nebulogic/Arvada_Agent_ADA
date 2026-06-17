@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Feedback List · Smart Knowledge</title>
+<script>
+  (function () {
+    const saved = localStorage.getItem("arvada-theme");
+    document.documentElement.dataset.theme = saved || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  })();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: oklch(0.985 0.005 250); --surface: oklch(1 0 0); --surface-2: oklch(0.965 0.012 250);
+    --line: oklch(0.92 0.012 250); --line-strong: oklch(0.88 0.015 250);
+    --text: oklch(0.18 0.04 260); --text-2: oklch(0.5 0.025 255); --text-3: oklch(0.62 0.02 255);
+    --heading: oklch(0.2 0.05 260); --navy: oklch(0.18 0.045 260);
+    --brand-blue: oklch(0.45 0.16 258); --brand-blue-soft: oklch(0.955 0.025 255);
+    --good: oklch(0.65 0.16 155); --bad: oklch(0.6 0.22 27);
+    --shadow-sm: 0 1px 2px 0 rgb(15 23 42 / .04);
+    --shadow-card: 0 1px 2px 0 rgb(15 23 42 / .04), 0 8px 24px -12px rgb(15 23 42 / .08);
+    --shadow-md: 0 2px 4px 0 rgb(15 23 42 / .05), 0 16px 32px -12px rgb(15 23 42 / .16);
+    --radius: 18px; --radius-sm: 12px;
+    --sans: "Inter", system-ui, sans-serif; --serif: "Plus Jakarta Sans", "Inter", sans-serif;
+  }
+  html[data-theme="dark"] {
+    --bg: oklch(0.195 0.038 258); --surface: oklch(0.255 0.042 258); --surface-2: oklch(0.3 0.04 258);
+    --line: oklch(0.35 0.03 258); --line-strong: oklch(0.41 0.03 258);
+    --text: oklch(0.96 0.014 255); --text-2: oklch(0.75 0.02 255); --text-3: oklch(0.62 0.02 255);
+    --heading: oklch(0.96 0.014 255); --navy: oklch(0.16 0.04 258);
+    --brand-blue: oklch(0.72 0.14 258); --brand-blue-soft: oklch(0.72 0.14 258 / .12);
+    --good: oklch(0.72 0.15 155); --bad: oklch(0.7 0.2 25);
+    --shadow-sm: 0 1px 2px rgba(0,0,0,.3);
+    --shadow-card: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px -12px rgba(0,0,0,.5);
+    --shadow-md: 0 8px 28px rgba(0,0,0,.45);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: var(--sans); background: var(--bg); color: var(--text); min-height: 100vh; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+  svg { display: block; }
+  .topbar { position: sticky; top: 0; z-index: 50; display: flex; align-items: center; gap: 12px; padding: 14px 24px;
+    background: color-mix(in srgb, var(--bg) 82%, transparent); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
+  .nav-btn { display: inline-flex; align-items: center; gap: 7px; color: var(--text); text-decoration: none; font-size: 13.5px;
+    font-weight: 600; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); }
+  .nav-btn:hover { border-color: var(--brand-blue); }
+  .brand { display: flex; align-items: center; gap: 9px; margin-left: auto; color: var(--text-2); font-size: 13px; font-weight: 600; }
+  .brand .mark { width: 26px; height: 26px; border-radius: 8px; background: var(--brand-blue); color: #fff; display: grid; place-items: center; font-size: 14px; }
+
+  .wrap { max-width: 1240px; margin: 0 auto; padding: 32px 24px 100px; }
+  .head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 8px; }
+  .eyebrow { font-size: 12px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--brand-blue); }
+  h1 { font-family: var(--serif); font-size: clamp(26px, 4vw, 36px); font-weight: 700; letter-spacing: -.015em; color: var(--heading); margin-top: 6px; }
+  .lede { color: var(--text-2); margin-top: 6px; font-size: 15px; }
+  .filters { display: flex; gap: 6px; background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 5px; }
+  .filt { font-size: 13px; font-weight: 600; color: var(--text-2); border: none; background: transparent; cursor: pointer; padding: 8px 15px; border-radius: 999px; }
+  .filt:hover { color: var(--text); }
+  .filt.on { background: var(--surface); color: var(--brand-blue); box-shadow: var(--shadow-sm); }
+
+  .table-wrap { margin-top: 24px; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-card); background: var(--surface); }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  thead th { text-align: left; padding: 14px 18px; background: var(--surface-2); color: var(--text-3); font-size: 11px; letter-spacing: .05em; text-transform: uppercase; font-weight: 700; white-space: nowrap; }
+  tbody td { padding: 14px 18px; border-top: 1px solid var(--line); vertical-align: middle; }
+  tbody tr { cursor: pointer; transition: background .12s; }
+  tbody tr:hover { background: color-mix(in srgb, var(--brand-blue-soft) 55%, transparent); }
+  .sr { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--heading); white-space: nowrap; }
+  .when { color: var(--text-3); white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .ttl { color: var(--heading); font-weight: 600; }
+  .fb { display: inline-flex; align-items: center; gap: 7px; font-weight: 700; font-size: 12.5px; padding: 4px 11px; border-radius: 999px; white-space: nowrap; }
+  .fb svg { width: 15px; height: 15px; }
+  .fb.good { color: var(--good); background: color-mix(in srgb, var(--good) 14%, transparent); }
+  .fb.bad  { color: var(--bad);  background: color-mix(in srgb, var(--bad) 14%, transparent); }
+  .state { text-align: center; padding: 80px 20px; color: var(--text-2); }
+  .spinner { width: 26px; height: 26px; border-radius: 50%; margin: 0 auto 14px; border: 3px solid var(--line); border-top-color: var(--brand-blue); animation: spin .8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Detail drawer */
+  .scrim { position: fixed; inset: 0; background: rgba(15,23,42,.4); backdrop-filter: blur(1px); z-index: 60; opacity: 0; pointer-events: none; transition: opacity .2s; }
+  .scrim.show { opacity: 1; pointer-events: auto; }
+  .drawer { position: fixed; top: 0; right: 0; height: 100%; width: min(94vw, 440px); background: var(--bg); border-left: 1px solid var(--line);
+    box-shadow: var(--shadow-md); z-index: 61; transform: translateX(100%); transition: transform .26s cubic-bezier(.22,1,.36,1); display: flex; flex-direction: column; }
+  .drawer.show { transform: translateX(0); }
+  .drawer .dh { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 18px 20px; border-bottom: 1px solid var(--line); }
+  .drawer .dh h2 { font-family: var(--serif); font-size: 17px; font-weight: 700; color: var(--heading); }
+  .drawer .dh .x { width: 34px; height: 34px; border-radius: 999px; border: none; background: var(--surface-2); color: var(--text-2); cursor: pointer; display: grid; place-items: center; }
+  .drawer .dh .x svg { width: 16px; height: 16px; }
+  .drawer .db { padding: 20px; overflow: auto; flex: 1; }
+  .drawer .dk { font-size: 11px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--text-3); margin: 16px 0 6px; }
+  .drawer .dk:first-child { margin-top: 0; }
+  .drawer .dv { color: var(--heading); font-size: 15px; font-weight: 600; }
+  .drawer .comment { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 14px 16px; color: var(--text); font-size: 14px; line-height: 1.6; white-space: pre-wrap; }
+  .drawer .df { padding: 16px 20px; border-top: 1px solid var(--line); display: flex; gap: 10px; }
+  .drawer .df a { flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 11px 14px; border-radius: 999px; font-weight: 700; font-size: 13.5px; text-decoration: none; }
+  .drawer .df svg { width: 16px; height: 16px; }
+  .df .open { border: 1px solid var(--line-strong); background: var(--surface); color: var(--text); }
+  .df .open:hover { border-color: var(--brand-blue); color: var(--brand-blue); }
+  .df .edit { background: var(--brand-blue); color: #fff; }
+  .df .edit:hover { filter: brightness(1.06); }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a class="nav-btn" href="/articles">← Smart Knowledge</a>
+  <div class="brand"><span class="mark">A</span> Admin · Feedback List</div>
+</div>
+
+<div class="wrap">
+  <div class="head">
+    <div>
+      <div class="eyebrow">Smart Knowledge</div>
+      <h1>Feedback List</h1>
+      <div class="lede">Article feedback raised as SRs. Open a thumbs-down to read the comment, then fix &amp; publish the article.</div>
+    </div>
+    <div class="filters" id="filters">
+      <button class="filt on" data-f="">All</button>
+      <button class="filt" data-f="bad">Needs work</button>
+      <button class="filt" data-f="good">Helpful</button>
+    </div>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>SR #</th><th>SR Date</th><th>SR Title</th><th>Feedback</th></tr></thead>
+      <tbody id="rows"><tr><td colspan="4"><div class="state"><div class="spinner"></div>Loading feedback…</div></td></tr></tbody>
+    </table>
+  </div>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <div class="dh"><h2 id="dTitle">Feedback</h2><button class="x" id="dClose"></button></div>
+  <div class="db" id="dBody"></div>
+  <div class="df" id="dFoot"></div>
+</aside>
+
+<script>
+const TOKEN = "local-dev-token-change-in-prod";
+const ICONS = {
+  up:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10v12"/><path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2a3.13 3.13 0 0 1 3 3.88Z"/></svg>`,
+  down:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 14V2"/><path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22a3.13 3.13 0 0 1-3-3.88Z"/></svg>`,
+  x:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>`,
+  open:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>`,
+  edit:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>`,
+};
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+const fmtDate = iso => { try { return new Date(iso).toLocaleString(undefined, { year:"numeric", month:"short", day:"numeric", hour:"2-digit", minute:"2-digit" }); } catch { return iso; } };
+
+let ALL = [], filter = "";
+const rowsEl = document.getElementById("rows");
+
+async function load() {
+  try {
+    const res = await fetch("/api/feedback", { headers: { "X-Internal-Token": TOKEN } });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    ALL = (await res.json()).items || [];
+    render();
+  } catch (e) {
+    rowsEl.innerHTML = `<tr><td colspan="4"><div class="state">⚠️ Could not load feedback (${esc(e.message)}).</div></td></tr>`;
+  }
+}
+function render() {
+  const items = filter ? ALL.filter(x => x.rating === filter) : ALL;
+  if (!items.length) { rowsEl.innerHTML = `<tr><td colspan="4"><div class="state">No feedback yet.</div></td></tr>`; return; }
+  rowsEl.innerHTML = items.map(x => `
+    <tr data-id="${x.id}">
+      <td class="sr">${esc(x.sr_number)}</td>
+      <td class="when">${esc(fmtDate(x.created_at))}</td>
+      <td class="ttl">${esc(x.article_title || "—")}</td>
+      <td>${x.rating === "good"
+        ? `<span class="fb good">${ICONS.up} Helpful</span>`
+        : `<span class="fb bad">${ICONS.down} Needs work</span>`}</td>
+    </tr>`).join("");
+  rowsEl.querySelectorAll("[data-id]").forEach(tr => tr.onclick = () => openDetail(+tr.dataset.id));
+}
+
+document.getElementById("filters").querySelectorAll("[data-f]").forEach(b => b.onclick = () => {
+  filter = b.dataset.f;
+  document.getElementById("filters").querySelectorAll(".filt").forEach(x => x.classList.toggle("on", x === b));
+  render();
+});
+
+/* Detail drawer */
+const scrim = document.getElementById("scrim"), drawer = document.getElementById("drawer");
+function closeDrawer() { drawer.classList.remove("show"); scrim.classList.remove("show"); drawer.setAttribute("aria-hidden", "true"); }
+document.getElementById("dClose").innerHTML = ICONS.x;
+document.getElementById("dClose").onclick = closeDrawer;
+scrim.onclick = closeDrawer;
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeDrawer(); });
+
+function openDetail(id) {
+  const x = ALL.find(a => a.id === id);
+  if (!x) return;
+  document.getElementById("dTitle").textContent = x.sr_number;
+  document.getElementById("dBody").innerHTML = `
+    <div class="dk">Feedback</div>
+    <div class="dv">${x.rating === "good" ? `<span class="fb good">${ICONS.up} Helpful</span>` : `<span class="fb bad">${ICONS.down} Needs work</span>`}</div>
+    <div class="dk">Article</div><div class="dv">${esc(x.article_title || "—")}</div>
+    <div class="dk">Submitted</div><div class="dv" style="font-weight:500;color:var(--text-2)">${esc(fmtDate(x.created_at))}</div>
+    <div class="dk">Comment</div>
+    <div class="comment">${x.comment ? esc(x.comment) : "<span style='color:var(--text-3)'>No comment provided.</span>"}</div>`;
+  const foot = document.getElementById("dFoot");
+  if (x.article_id) {
+    foot.style.display = "flex";
+    foot.innerHTML = `<a class="open" href="/article/${esc(x.article_id)}" target="_blank" rel="noopener">${ICONS.open} Open article</a>
+      <a class="edit" href="/article/${esc(x.article_id)}?edit=1">${ICONS.edit} Edit &amp; publish</a>`;
+  } else { foot.style.display = "none"; foot.innerHTML = ""; }
+  drawer.classList.add("show"); scrim.classList.add("show"); drawer.setAttribute("aria-hidden", "false");
+}
+
+load();
+</script>
+</body>
+</html>

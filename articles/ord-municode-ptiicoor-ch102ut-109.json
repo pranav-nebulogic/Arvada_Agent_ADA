@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "duties",
+      "powers",
+      "director",
+      "general",
+      "authorized",
+      "directed",
+      "implement"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-275"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-275. - Duties and powers of the director.",
+    "summary": "(a)\nGeneral.\nThe director is authorized and directed to implement, administer, and enforce the\n               provisions of this article. The director has the authority to:\n(1)\nImplement and administer a cross-connection control program and may develop written\n               rules and regulations ou…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-275. - Duties and powers of the director.",
+        "a": "(a)\nGeneral.\nThe director is authorized and directed to implement, administer, and enforce the\n               provisions of this article. The director has the authority to:\n(1)\nImplement and administer a cross-connection control program and may develop written\n               rules and regulations outlining the processes and procedures for surveying property\n               for the purpose of establishing the extent of protection required for the city's water\n               system and for other aspects of the program;\n(2)\nDetermine and implement a process to select a backflow prevention assembly or backflow\n               prevention method to control a cross-connection;\n(3)\nEstablish and administer an annual cross-connection inspection program and communications\n               plan therefor;\n(4)\nRequire access to the property of customers receiving water service to conduct a cross-connection\n               control survey, and survey all service connections within the water distribution system\n               to determine if the connection is a cross-connection;\n(5)\nControl all service connections within the water distribution system if the connection\n               is a cross-connection;\n(6)\nIn a case where a backflow prevention assembly required by this article is not installed,\n               tested, or maintained as required under this article, or if a backflow prevention\n               assembly has been removed or bypassed, or if an uncontrolled cross-connection exists\n               on the customer's property, the director may:\n(i)\nControl the cross-connection;\n(ii)\nRemove the cross-connection;\n(iii)\nOrder the customer with the uncontrolled cross connection to take all necessary actions\n               to ensure the connection is controlled;\n(iv)\nSuspend water service to the cross-connection. If water service is suspended, it shall\n               not be restored until the conditions or defects that caused the uncontrolled cross-connection\n               are corrected. In this case, the director shall give notice to the customer of the\n               director's action, as well as of any order or orders necessary to ensure the customer's\n               cross-connection is brought into compliance with this article as soon as is reasonably\n               practicable after the director takes action to protect the cross-connection;\n(v)\nExcept in cases where the director has determined there is an acute risk to the public's\n               health, safety, or welfare, the director may grant a one-time compliance extension\n               of no more than an additional 14 days to a customer who has requested an extension\n               under\nsection 102-276\n(f) of this article; or\n(vi)\nTake any other action as authorized by this article.\n(7)\nControl any service connection within the water distribution system in lieu of a survey\n               if the service connection is controlled with an air gap or reduced pressure zone backflow\n               prevention assembly;\n(8)\nInspect, test or require the testing of, or audit any backflow prevention assembly\n               or backflow prevention method used to control a cross-connection at any time to ensure\n               compliance with this chapter;\n(9)\nCreate and administer a licensing program for technicians;\n(10)\nEstablish and collect fees for the administration of the program. Any such fees shall\n               be set in accordance with\nsections 2-261\n—\n2-263\nof this Code;\n(11)\nMaintain records of cross-connection surveys, and of the installation, testing, and\n               repair of all backflow prevention assemblies installed for containment and containment\n               by isolation purposes;\n(12)\nRender interpretations of this article and adopt policies and procedures in order\n               to clarify the application of its provisions. Such interpretations, policies, and\n               procedures shall be in compliance with the intent and purpose of this article, and\n               shall not have the effect of waiving requirement specifically provided for in this\n               article;\n(13)\nDiscontinue service of water to any property if uncontrolled cross-connections exist\n               on the property, if any defect is found in an installed backflow prevention method\n               or assembly, if a backflow prevention assembly or method has been removed or bypassed\n               or does not adequately protect public health, or otherwise in accordance with this\n               article; and\n(14)\nOtherwise implement, administer, and enforce the provisions of this article.\n(\nOrd. No. 4829\n, § 1, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-275"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

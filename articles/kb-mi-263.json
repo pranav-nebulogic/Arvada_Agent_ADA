@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "housing",
+      "choice",
+      "voucher",
+      "program",
+      "landlord",
+      "guide",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/461/Housing-Choice-Voucher-Program-Landlord-"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-263",
+    "spreadsheet_id": "MI-263",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Housing Choice Voucher Program Landlord Guide",
+    "summary": "The Housing Choice Voucher Program assists low-income families in securing safe and sanitary housing by providing direct rent payments to property owners. Participants are responsible for paying the remaining rent, and the program is regulated by the U.S. Department of Housing and Urban Development (HUD), with adherence to Colorado Tenant/Landlord and Fair Housing laws. A guide for landlords includes FAQs addressing participant screening, approval processes, rent payment timelines, and other relevant concerns.",
+    "body": "The Housing Choice Voucher Program is designed to help low-income families rent housing in safe, decent, and sanitary conditions. The program provides for direct payment to the property owner on behalf of the family to cover part of the participant's rent. The participant pays the remainder of the rent. Regulations for the Housing Choice Voucher Program are determined by the U.S. Department of Housing and Urban Development (HUD). All Colorado Tenant/Landlord laws and Fair Housing laws apply.\n\n### [FAQs](/Faq.aspx?TID=36)\n\n1. [Who screens the participant?](/Faq.aspx?QID=166)\n2. [What forms will I have to complete to participate in the program?](/Faq.aspx?QID=167)\n3. [How long does it take to get approved?](/Faq.aspx?QID=168)\n4. [When will I receive the rent?](/Faq.aspx?QID=169)\n5. [How do I request a rent increase?](/Faq.aspx?QID=170)\n6. [Can I evict a participant?](/Faq.aspx?QID=171)\n7. [Who pays if damages occur to my unit?](/Faq.aspx?QID=172)\n8. [Am I allowed to rent to a relative?](/Faq.aspx?QID=173)\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

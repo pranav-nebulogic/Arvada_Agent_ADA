@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "street",
+      "services",
+      "traffic",
+      "control",
+      "report",
+      "lighting",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/475/Street-Services-Traffic-Control"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-532",
+    "spreadsheet_id": "MI-532",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Street Services & Traffic Control",
+    "summary": "Residents can report potholes, damaged street lights, and traffic signal issues online through the Ask Arvada portal or by contacting relevant authorities directly. For streetlights in the Olde Town Arvada and Candelas subdivisions, reports should be made through the city’s portal, while state highway issues should be reported to the Colorado Department of Transportation. After hours, traffic signal problems can be reported to the Arvada Police Department.",
+    "body": "## Street & Traffic Safety Issues\n\nDo you need to report a pothole or damaged street light? You can do so online.\n\n- [**Report a streetlight outage or repair to Xcel online**](https://co.my.xcelenergy.com/s/partner-resources/municipalities/outdoor-lighting/outdoor-lighting-reporting)or at 800-895-4999.\n  - **Exceptions:**Streetlights located in the **Olde Town Arvada and Candelas subdivisions**are owned and operated by the City of Arvada. To report a streetlight outage or repair in the Olde Town Arvada or Candelas subdivisions, please use our online [Ask Arvada portal](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map)\n    - [View a map of where City-owned street lights are located](https://www.arvadaco.gov/DocumentCenter/View/2191/StreetlightManagementMap24x36).\n- [Report a **Pothole on a Public Street** through Ask Arvada](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map)  \n  To report a pothole on State Highways, contact the Colorado Department of Transportation (CDOT) [online](https://dialog.my.salesforce-sites.com/WebToCase?region=1&Type=Highway+Maintenance) or by [live chat](https://dialog.my.salesforce-sites.com/SelectLiveAgentRegion).\n- [Report a Problem with **Traffic Signals** through Ask Arvada](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map)  \n  Ask Arvada is not monitored 24/7. If you need to report a failing traffic signal after normal business hours, please call the Arvada Police Department at 720-898-6900. The Colorado Department of Transportation (CDOT) maintains and operates traffic signals on State-owned roadways including Wadsworth Boulevard, Sheridan Boulevard, and Ward Road. To report a problem on State-owned signals please contact CDOT [online](https://dialog.my.salesforce-sites.com/WebToCase?region=1&Type=Traffic) or by [live chat](https://dialog.my.salesforce-sites.com/SelectLiveAgentRegion).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

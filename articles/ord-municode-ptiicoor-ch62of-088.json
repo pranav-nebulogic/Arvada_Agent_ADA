@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "offenses",
+      "related",
+      "drug",
+      "paraphernalia",
+      "marijuana",
+      "accessories",
+      "possession"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-214"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-214. - Offenses related to drug paraphernalia and marijuana accessories.",
+    "summary": "(a)\nPossession.\nIt shall be unlawful for any person to possess drug paraphernalia if that person\n               knows or reasonably should know that the drug paraphernalia could be used under circumstances\n               in violation of the laws of the State of Colorado.\n(b)\nPossession of marijuana …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-214. - Offenses related to drug paraphernalia and marijuana accessories.",
+        "a": "(a)\nPossession.\nIt shall be unlawful for any person to possess drug paraphernalia if that person\n               knows or reasonably should know that the drug paraphernalia could be used under circumstances\n               in violation of the laws of the State of Colorado.\n(b)\nPossession of marijuana accessories—Under 21.\nIt shall be unlawful for any person under the age of 21 years of age to possess marijuana\n               accessories.\n(c)\nManufacture, sale, or delivery.\nIt shall be unlawful for any person to sell or deliver, possess with intent to sell\n               or deliver, or manufacture with intent to sell or deliver equipment, products, or\n               materials knowing or under circumstances where one should reasonably know that such\n               equipment, products, or materials could be used as drug paraphernalia.\n(d)\nSale of marijuana accessories—Under 21.\nIt shall be unlawful for any person to sell marijuana accessories to any person under\n               the age of 21 years of age.\n(e)\nAdvertisement.\nIt shall be unlawful for any person to place an advertisement in any newspaper, magazine,\n               handbill, or other publication who intends thereby to promote the sale of equipment,\n               products, or materials designed and intended for use as drug paraphernalia.\n(f)\nExemption.\nIt shall not be a violation of subsections (a), (c), or (e), if the person is 21\n               years of age or older and all drug paraphernalia involved are solely marijuana accessories.\n(\nOrd. No. 4392, § 2, 7-1-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-214"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-29-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "sober",
+      "living",
+      "facilities",
+      "allowed",
+      "arvada",
+      "neighborhoods",
+      "under",
+      "federal",
+      "Group Homes"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=29"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/why-are-sober-living-facilities-allowed-in-arvada-neighborho",
+    "faq_category_name": "Group Homes"
+  },
+  "content": {
+    "title": "Why are sober living facilities allowed in Arvada neighborhoods?",
+    "summary": "Under federal law, individuals recovering from drug and/or alcohol addiction are considered to have a disability, as drug addiction and alcoholism are physical impairments that can substantially limit major life activities. Individuals with disabilities are a federally protected class of people; pro…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Why are sober living facilities allowed in Arvada neighborhoods?",
+        "a": "Under federal law, individuals recovering from drug and/or alcohol addiction are considered to have a disability, as drug addiction and alcoholism are physical impairments that can substantially limit major life activities. Individuals with disabilities are a federally protected class of people; protected by both the FFHA and the ADA. Under these federal laws, cities are obligated to provide individuals with disabilities \"reasonable accommodations\" upon request in order to provide equal housing opportunities."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

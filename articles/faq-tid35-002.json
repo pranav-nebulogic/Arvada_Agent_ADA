@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-35-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "pfas",
+      "get",
+      "into",
+      "water",
+      "enter",
+      "wastewater",
+      "sewer",
+      "system",
+      "Water - PFAS Information"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=35"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-do-pfas-get-into-water",
+    "faq_category_name": "Water - PFAS Information"
+  },
+  "content": {
+    "title": "How do PFAS get into water?",
+    "summary": "PFAS enter the wastewater (sewer) system when products containing them are washed or rinsed down your drains. Wastewater treatment plants typically don't fully remove the tiny particles so they end up moving downstream to the next water user. They can also enter groundwater near facilities where PFA…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How do PFAS get into water?",
+        "a": "PFAS enter the wastewater (sewer) system when products containing them are washed or rinsed down your drains. Wastewater treatment plants typically don't fully remove the tiny particles so they end up moving downstream to the next water user. They can also enter groundwater near facilities where PFAS-containing products are made or used. In Arvada, groundwater is not a source of our drinking water."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

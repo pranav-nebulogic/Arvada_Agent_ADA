@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "events",
+    "tags": [
+      "block party",
+      "neighborhood event",
+      "street closure",
+      "park permit",
+      "Special Event Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/484/Neighborhood-Block-Party-Permit"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/events/se-003",
+    "spreadsheet_id": "SE-003",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Neighborhood Block Party Permit",
+    "summary": "To host a neighborhood block party or event in Arvada, a permit is required if the event takes place in a public park or involves street closure, although there is no fee for the permit. The application must be submitted at least two weeks prior to the event and includes guidelines for park usage and safety notifications to city departments. Key restrictions include prohibiting inflatable structures and ensuring the park remains open to the public, with adherence to city noise ordinances and park closing times.",
+    "body": "## You Will Need a Neighborhood Block Party Permit If\nAre you having a neighborhood block party or neighborhood event like a Movie in a Park? Please review the following information to determine if you should apply for a Neighborhood Block Party permit. There is **no** cost and many benefits.\n\n- You are hosting the event in a public park.\n- You are requesting a street closure.\n\nEven if you are **not** required to get a permit, there are many benefits to doing so:\n\n- City departments (like Parks Maintenance and Traffic) are automatically notified of your event, making your event more successful.\n- While there is no guarantee that they will be able to attend, a block party permit notifies the Arvada Police Department and Arvada Fire Protection District of your event for safety purposes and community-building.\n\n## What Is a Neighborhood Block Party\nA neighborhood block party is any event open to your neighbors to be held **within your neighborhood or in your neighborhood park**.\n\nThe following rules apply to all neighborhood block parties at Arvada Public Parks:\n\n- **Bouncy Castles** and other inflatable gyms and obstacle courses are **prohibited**.\n- **Park Pavilion**: If the park has a rentable park pavilion, **you must** [**reserve the pavilion**](https://www.arvadaco.gov/518/Park-Pavilion-Rentals-in-Arvada).\n- **Petting zoo, farm, and livestock animals**: not allowed on turf areas.\n- The park must remain open to the public.\n- Amplified noise must adhere to the [city noise ordinance](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN_ARTIINOCO_DIV3CONOLE).\n- All City parks close at 11 pm per the [city parks ordinance](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE_ARTIIPUPARE).\n\n## Before You Begin\n**Please Note**: All applications must be submitted no later than 2 weeks prior to the scheduled event.\n\nTips for filling out the online application:\n\n- Under job value, use \"0\". This is the cost of the permit.\n- \"Location of the event\" is the **description** of where the event will take place. (E.g. 59th pl cul-de-sac)\n- \"Location\" ties your application to a **specific address**. If your event is in a City park, you can use the [Parks and Trails map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=b0199c652f7447338b3759ff63f61882) to search for the address.\n- Printing approved permits: Once your permit has been approved, go into the Permit Portal and retrieve your permit under \"Attachments\"\n\n**Note**: Make sure to have these attachments ready before you begin your application:\n\n- **Street Closure**. Applicant needs to attach the following:\n\t- [Block Party Traffic Control Plan](https://arvada.form.transform.civicplus.com/65950)\n\t\t- [Block Party Street Closure Plan Signature Pages](https://www.arvadaco.gov/DocumentCenter/View/7571/Block-Party-Permit-Signature-Page-2026)\n- [Neighborhood Block Party Park Site Plan Guidelines](https://www.arvadaco.gov/1539) for more information.\n\n### Neighborhood Block Party: Park Site Guidelines\nA block party in a city park requires a permit application and approval. The permit application also requires a site map of the park that shows how you plan to use the park and the location of items like bounce houses, electrical generators, food trucks and movie screens.\n\nThis ensures that the park is used properly to minimize damage to the irrigation system and grassy areas. Follow these guidelines to prepare a park site plan for your neighborhood block party.\n\nTo find a map of your neighborhood park:\n\n- Use the City of Arvada [interactive Parks and Open Space map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=b0199c652f7447338b3759ff63f61882)\n- In the white search box in the upper left corner type the name or address of the park\n\nThis will pull up a map of your park. You can use this to snip, copy, print, etc. the park map. You can then use the map to add the elements of your block party.\n\nFollow the key below to copy, paste or draw applicable items to your map to show the location of things such as bounce houses, electrical generators, food trucks or obstacle courses. When complete include with your permit application and upload to the system.\n\n**Park Site Plan Key**\n\n**Please Note**: All applications must be submitted no later than 2 weeks prior to the scheduled event.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

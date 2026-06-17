@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "applicability",
+      "real",
+      "property",
+      "provisions",
+      "article",
+      "shall",
+      "apply"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-163"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-163. - Applicability to real property.",
+    "summary": "The provisions of this article shall apply to the various interests to be acquired\n               by the city in real property, including all improvements thereon, according to the\n               intended use and purpose of the property. The provisions of this article shall further\n               ap…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-163. - Applicability to real property.",
+        "a": "The provisions of this article shall apply to the various interests to be acquired\n               by the city in real property, including all improvements thereon, according to the\n               intended use and purpose of the property. The provisions of this article shall further\n               apply to development of real property within the city, or property to be annexed into\n               the city, which property may, upon reasonable belief on the part of the city, constitute\n               a danger or threat to the health, safety, and welfare of the citizens due to a condition\n               of environmental contamination by hazardous substances as defined herein.\n(Code 1981, § 25-82; Ord. No. 3009, § 1, 10-4-1993)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-163"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

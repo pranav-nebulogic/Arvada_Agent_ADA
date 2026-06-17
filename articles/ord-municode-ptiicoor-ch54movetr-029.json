@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "parking",
+      "private",
+      "property",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-156"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-156. - Parking on private property.",
+    "summary": "(a)\nIt shall be unlawful for any person to park, stand, or stop a motor vehicle upon any\n               private parking lot or other private property within the city without the consent\n               of the owner or the tenant or person in lawful possession or control of the private\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-156. - Parking on private property.",
+        "a": "(a)\nIt shall be unlawful for any person to park, stand, or stop a motor vehicle upon any\n               private parking lot or other private property within the city without the consent\n               of the owner or the tenant or person in lawful possession or control of the private\n               parking lot or private property.\n(b)\nWhere the owner, tenant, or person in lawful control of private property places or\n               posts a sign limiting, regulating, or restricting the parking, standing, or stopping\n               of motor vehicles parked or left on the property, or prohibiting the parking, standing,\n               or stopping of motor vehicles parked or left on the property, a motor vehicle parked\n               or left on the property contrary to such regulations or prohibitions shall be deemed\n               to have been parked or left without authority or consent.\n(c)\nNo parking citation or summons shall be issued for any violation of this section,\n               unless it is issued at the request of the owner, tenant, or person in lawful possession\n               or control of the private parking lot or private property within or upon which the\n               violation of this section alleged to have occurred. The person requesting the issuance\n               of the citation or summons shall provide to the parking enforcement officer his or\n               her name, address, and telephone number, and must agree to provide relevant information\n               as needed.\n(d)\nWhenever the owner, tenant, or person in lawful possession or control of the private\n               property finds a motor vehicle parked thereon without his or her consent, such owner,\n               tenant, or person in lawful possession or control shall have the authority to have\n               such motor vehicle towed in accordance with this section and at his or her expense.\n(i)\nNo city employee or designee may authorize the tow or removal of a motor vehicle from\n               a private parking lot or other private property pursuant to this section.\nException: A police officer, or any employee of the city or other person designated\n               by the chief of police to issue parking citations may authorize the tow or removal\n               of a motor vehicle from a private parking lot that is either leased by the city for\n               use as a private parking lot, or that is otherwise subject to a written agreement\n               with the city that allows for the use of private property for public parking purposes,\n               so long as the lease or other written agreement allows for such tows.\n(e)\nIn the event the owner, tenant, or person in lawful possession or control of a private\n               parking lot or private property has a motor vehicle towed in accordance with this\n               section, he or she shall immediately notify the police department of such tow and\n               indicate the name of the towing company that towed the vehicle, as well as the location\n               of the lot to which the vehicle was towed.\n(f)\nAny sign posted pursuant to this section must indicate, in lettering not less than\n               two inches high, the limitation, restriction, or prohibition on parking, standing,\n               or stopping, and must be located and posted in such a manner as to be seen by an ordinarily\n               observant person.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-156"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

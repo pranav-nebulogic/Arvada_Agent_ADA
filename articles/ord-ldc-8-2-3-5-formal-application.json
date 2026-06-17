@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "formal",
+      "application",
+      "generally",
+      "applications",
+      "submitted",
+      "format",
+      "approved",
+      "director",
+      "submittal",
+      "requirements"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-5. Formal application.",
+    "summary": "A.\tGenerally. Applications shall be submitted in a format approved by the Director.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-5. Formal application.",
+        "a": "A.\tGenerally. Applications shall be submitted in a format approved by the Director. Submittal requirements for every type of development application required by this LDC may be established and amended by the Director without action by the City Council, provided that each such submittal shall be an item reasonably required to evaluate compliance with this LDC, City of Arvada Engineering Code of Standards and Specification, and the Comprehensive Plan, and shall be accompanied by the corresponding development review fee (seeSection 74-31, Arvada Municipal Code).\nB.\tWaiver of Application Requirements. The Director may waive specific submittal requirements if the Director determines that such requirements are unnecessary for the processing of the application for which the waiver is requested. However, if the Director subsequently finds that such information is pertinent to the evaluation of compliance with the standards of this LDC, the Director may require the Applicant to supplement the application with the necessary information.\nC.\tSchedule. The Director is authorized, but not required, to establish regular intake days for any or all classifications of applications for development approval, except sign permits and administrative appeals.\nD.\tAuthority to File Application.\n  1.\tAn application for review or approval under this Code shall be filed by the person having legal authority to take action in accordance with the approval sought. That person is presumed to be the record owner, purchaser under a sale, or the duly authorized agent of the record owner in the absence of satisfactory proof to the contrary.\n  2.\tIn the case of variance or conditional use applications, the express authorization of the property owner shall be included with the application if the Applicant is not the owner.\n  3.\tThe Director, Planning Commission or City Council may initiate code amendment action under this Code with or without an application from affected property owners."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

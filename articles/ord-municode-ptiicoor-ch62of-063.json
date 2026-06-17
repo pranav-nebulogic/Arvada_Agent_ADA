@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "record",
+      "reference",
+      "any",
+      "sale",
+      "excess",
+      "quantity",
+      "provided"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-123"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-123. - Record.",
+    "summary": "With reference to any sale in excess of the quantity provided in the preceding section\n               of this article to any person under the age of 18 years, such seller shall, simultaneously\n               with such sale, enter into a permanent record the date of said sale, the name, address,\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-123. - Record.",
+        "a": "With reference to any sale in excess of the quantity provided in the preceding section\n               of this article to any person under the age of 18 years, such seller shall, simultaneously\n               with such sale, enter into a permanent record the date of said sale, the name, address,\n               age and sex of each such purchaser, including the name and address of the consenting\n               parent or guardian, intentional failure of which shall result in a violation of this\n               article.\n(Code 1981, § 21-58; Ord. No. 738, § 3, 10-21-1968)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-123"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "erection",
+      "tents",
+      "buildings",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-23"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-23. - Erection of tents and buildings.",
+    "summary": "It shall be unlawful for any person to build or place any tent, building, booth, stand\n               or other structure, in or upon any public park within the city, without first having\n               obtained a permit to do so from the director of parks, golf and hospitality services.\n(Code 1960, …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-23. - Erection of tents and buildings.",
+        "a": "It shall be unlawful for any person to build or place any tent, building, booth, stand\n               or other structure, in or upon any public park within the city, without first having\n               obtained a permit to do so from the director of parks, golf and hospitality services.\n(Code 1960, § 17-33; Code 1981, § 22-4; Ord. No. 3844, § 1, 12-15-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-23"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

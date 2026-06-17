@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "pollinator",
+      "garden",
+      "tour",
+      "details",
+      "pollinators",
+      "across",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1253/Pollinator-Garden-Tour"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-419",
+    "spreadsheet_id": "MI-419",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Pollinator Garden Tour",
+    "summary": "Join the Pollinator Garden Tour in Arvada on Saturday, June 27, 2026, for a self-guided exploration of home gardens designed to support pollinators. Starting at Majestic View Nature Center, participants can pick up a map and discover ways to enhance their own outdoor spaces for pollinator conservation. No registration is required, and those interested in hosting a garden can fill out an interest form by May 31.",
+    "body": "## Pollinator Garden Tour\n\nDiscover the beauty and impact of pollinator-friendly gardening! Join us for a self-guided tour of home gardens across Arvada that have been designed to support pollinators.\n\n### Event Details\n\n- **Date:** Saturday, June 27, 2026\n- **Time:** More details to come.\n- **No registration required.**\n\nEach stop on the tour offers inspiration and ideas for how you can make your own outdoor space a haven for pollinators. The tour begins at Majestic View Nature Center, where participants can pick up a tour map and garden details before heading out to explore.\n\nWhether you're a seasoned gardener or just curious, this event is a great way to connect with nature, neighbors, and local conservation efforts. Can't wait to see you there!\n\nInterested in being a host? [Fill out an interest form here](https://docs.google.com/forms/d/e/1FAIpQLSf5BCu6_Szp46MCX6GBDcFcjK9l5_qiRlZ7WQyVTBBp0vA-3g/viewform?usp=dialog) before May 31.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

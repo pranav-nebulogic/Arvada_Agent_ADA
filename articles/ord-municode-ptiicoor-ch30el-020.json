@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "protest",
+      "writing",
+      "under",
+      "oath",
+      "filed",
+      "city",
+      "clerk"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-36"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-36. - Protest.",
+    "summary": "(a)\nA protest in writing, under oath, may be filed with the city clerk by a registered\n               elector, within 30 days for an initiated or referendum petition and within 45 days\n               for a Charter amendment petition, setting forth with particularity the reasons of\n               suc…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-36. - Protest.",
+        "a": "(a)\nA protest in writing, under oath, may be filed with the city clerk by a registered\n               elector, within 30 days for an initiated or referendum petition and within 45 days\n               for a Charter amendment petition, setting forth with particularity the reasons of\n               such protest and the names protested. The city clerk shall mail a copy of such protest\n               to the petition representatives, together with a notice fixing a time for hearing\n               such protest not less than ten or more than 20 days after such notice is mailed. All\n               mailings will be via certified U.S. mail, return receipt requested.\n(b)\nUpon the filing of any protest with the city clerk, all proceedings upon the petition\n               shall be suspended until final disposition of such protest.\n(Code 1981, § 11-27; Ord. No. 3511, § 2, 2-1-1999)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-36"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "neighborhood",
+      "preparedness",
+      "kits",
+      "neighbors",
+      "prepared",
+      "advance",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1097/Neighborhood-Preparedness"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-337",
+    "spreadsheet_id": "MI-337",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Neighborhood Preparedness",
+    "summary": "Neighborhood preparedness enhances resilience during emergencies, with social connectedness being a key factor in supporting one another. Residents are encouraged to organize gatherings to create emergency kits, establish communication plans, and designate meeting places, while also considering joining Arvada's Community Emergency Response Team (CERT) for additional training in disaster response.",
+    "body": "Neighbors and neighborhoods that have prepared for emergencies in advance are more resilient when facing disaster or disruption.\n\nOne of the most important aspects of neighborhood preparedness is social connectedness. Neighbors who are socially connected are more inclined to support each other in times of need.\n\n## What you can do to help your neighborhood be prepared\n\n### Plan a gathering:\n\n- Build go-kits/stay kits together.\n- Download, print and fill out the Neighborhood Talent Bank with your neighbors and distribute.\n- Lead a wildfire mitigation project with neighbors.\n- Create a communication plan.\n- Designate a neighborhood emergency meeting place.\n- Determine an evacuation route.\n\n### Increase your preparedness skills:\n\nJoin **Arvada's [Community Emergency Response Team](https://www.arvadaco.gov/684/Arvada-CERT) (CERT).** Arvada CERT Members are trained to be ready for disasters and will be better able to help themselves and their neighbors respond and recover from emergencies.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

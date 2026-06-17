@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "city",
+      "council",
+      "finds",
+      "declares",
+      "keeping"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-401"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-401. - Legislative declaration.",
+    "summary": "The city council finds and declares that keeping of bees is consistent with encouraging\n               small scale agricultural activities in urban and suburban areas, that bees are beneficial\n               to society in that they produce honey and other products and pollinate nearby plants,\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-401. - Legislative declaration.",
+        "a": "The city council finds and declares that keeping of bees is consistent with encouraging\n               small scale agricultural activities in urban and suburban areas, that bees are beneficial\n               to society in that they produce honey and other products and pollinate nearby plants,\n               and that bees may be maintained within populated areas in reasonable densities without\n               causing a nuisance if the bees are properly located and carefully maintained. The\n               city council also finds and declares that this article is promulgated under the general\n               police power of the city, and that regulation of bees and beekeeping activities is\n               necessary for the preservation of the public health, safety and welfare, and that\n               this article bears a rational relationship to the legislative objective sought to\n               be attained.\n(\nOrd. No. 4345, § 1, 8-6-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-401"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

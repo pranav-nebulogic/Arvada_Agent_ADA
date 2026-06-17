@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "disc",
+      "golf",
+      "courses",
+      "course",
+      "johnny",
+      "project",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/640/Disc-Golf-Courses"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-193",
+    "spreadsheet_id": "MI-193",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Disc Golf Courses",
+    "summary": "The City of Arvada offers two disc golf courses: Johnny Roberts Disc Golf Course and Bird's Nest Disc Golf Course. From late February through April 2026, holes 2 and 3 of the Johnny Roberts course will be closed for a stormwater improvement project aimed at repairing creek damage and preventing erosion, while the Bird's Nest course features 27 holes set in a scenic landscape.",
+    "body": "![Man throwing a disc at disc golf course ](/ImageRepository/Document?documentID=1222 \"Man throwing a disc at disc golf course \")\n\nThe City of Arvada has two disc golf courses, Johnny Roberts Disc Golf Course and Bird's Nest Disc Golf Course.\n\n## Johnny Roberts Disc Golf\n\n**Holes 2 and 3 of the Johnny Robert Disc Golf Course will be temporarily closed starting in late February through April 2026** as part of a stormwater improvement project. The project will repair and stabilize damaged sections of the stone creek crossing between holes 2 and 3, as well as address erosion along the creek bank.\n\nThis work is necessary to protect the creek, improve safety, and ensure long-term access to the course. Visit the [stormwater system improvement page](/1416) for more information.\n\n- Location: Memorial Park at [8001 West 59th Avenue](https://www.google.com/maps/place/8001+W+59th+Ave,+Arvada,+CO+80004/@39.8037908,-105.0861168,17z/data=!3m1!4b1!4m2!3m1!1s0x876b8629879f9911:0x227618c2f2458bb0) behind City Hall and Police Headquarters\n- A short 18-hole course that is often very busy\n- [Johnny Robert's Disc Golf Course Map](/ImageRepository/Document?documentId=1221)\n\n## Bird's Nest Disc Golf Course\n\n- Located at [17925 West 64th Parkway](https://goo.gl/maps/2vx8b) just east of Highway 93 on 64th Avenue south of the Arvada-Blunn Reservoir\n- A 27-hole course that features rolling pastures, tree-lined holes and some elevation change\n- [Bird's Nest Disc Golf Course Map](/ImageRepository/Document?documentId=1220)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

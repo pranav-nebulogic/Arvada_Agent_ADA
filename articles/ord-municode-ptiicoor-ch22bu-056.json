@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "license",
+      "application",
+      "applicant",
+      "shall",
+      "submit",
+      "verified",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-203"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-203. - License application.",
+    "summary": "(a)\nThe applicant for a license shall submit a verified application to the city clerk\n               on forms provided by the city clerk, which shall include the following information:\n(1)\nName, address, telephone number, description of each applicant and manager, including\n               date of bi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-203. - License application.",
+        "a": "(a)\nThe applicant for a license shall submit a verified application to the city clerk\n               on forms provided by the city clerk, which shall include the following information:\n(1)\nName, address, telephone number, description of each applicant and manager, including\n               date of birth of each applicant and all managers; each applicant and manager shall\n               be photographed and fingerprinted by the city police department;\n(2)\nIn the case of a corporation, the name, address and telephone number of the agent\n               for service of process;\n(3)\nA statement of whether the applicant and/or manager has been convicted of any crime,\n               misdemeanor or violation of any federal, state or municipal law, the nature of the\n               offense and the punishment or penalty assessed therefor;\n(4)\nA brief statement or drawing of the nature and character of the signage or advertising\n               to be used;\n(5)\nThe location of the proposed business;\n(6)\nA copy of the applicant's lease or other evidence of the applicant's right to possession\n               of the premises;\n(7)\nInformation regarding the zoning of the location of the premises; and\n(8)\nSuch other reasonable information as to the identity or character of the applicant\n               and manager as may be determined by the chief of police to be necessary for the protection\n               of the public welfare.\n(b)\nUpon receipt of an application, the city clerk shall forward it to the chief of police,\n               who shall cause such investigation of the applicant and manager to be made as he deems\n               necessary for the protection of the public and return his recommendation to the city\n               clerk. If the investigation discloses that the applicant and/or manager have been\n               convicted of misdemeanors or felonies that were not disclosed on the application,\n               the chief of police shall recommend denial of the application. If the applicant and\n               manager have disclosed convictions on the application, the chief of police shall make\n               his recommendation based on the nature of offenses, the length of time since the convictions\n               and any other information relevant to the protection of the public. The chief of police\n               may also base his recommendation upon other identifiable threats to the public safety.\n(c)\nIf the application is approved by the city clerk, upon posting the bond required by\n               this chapter and payment of the prescribed license fee by the applicant, the license\n               shall be issued.\n(Code 1981, § 23-3; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-203"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

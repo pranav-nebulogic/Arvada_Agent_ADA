@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "termination",
+      "except",
+      "otherwise",
+      "provided",
+      "chapter",
+      "any",
+      "member"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-46"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-46. - Termination.",
+    "summary": "Except as otherwise provided in this chapter, should any member cease to be a police\n               officer in the employ of the city, for any reason except to become a retirant or by\n               his death, he shall thereupon cease to be a member. In the event such person is reemployed\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-46. - Termination.",
+        "a": "Except as otherwise provided in this chapter, should any member cease to be a police\n               officer in the employ of the city, for any reason except to become a retirant or by\n               his death, he shall thereupon cease to be a member. In the event such person is reemployed\n               by the city as a police officer, he shall again become a member and any credited service\n               accrued by him, at the date he last ceased to be a member, may be restored to his\n               credit; provided however, that said member shall refund and pay into the fund all\n               contributions for such previous credited service as may have been refunded to him\n               pursuant to the provisions of\nsection 86-43\n, plus interest at a rate of six percent per annum of such amount. If the reemployed\n               member does not elect to have his previous credited service restored by payment of\n               reimbursed funds as provided in this section, then such previous service shall not\n               be restored or credited to such member. In the event a member becomes a retirant or\n               dies, he shall thereupon cease to be a member.\n(Code 1960, § 19-5; Code 1981, § 26-15)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-46"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

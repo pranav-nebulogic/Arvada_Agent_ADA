@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "suspension",
+      "revocation",
+      "license",
+      "enforcement",
+      "officer",
+      "shall",
+      "power"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-65"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-65. - Suspension or revocation of license.",
+    "summary": "The enforcement officer shall have the power, at any time, upon violation by any holder\n               of a license as provided for in this article or any of the regulations lawfully prescribed\n               hereunder by the enforcement officer, or for violation of any provisions of this Code\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-65. - Suspension or revocation of license.",
+        "a": "The enforcement officer shall have the power, at any time, upon violation by any holder\n               of a license as provided for in this article or any of the regulations lawfully prescribed\n               hereunder by the enforcement officer, or for violation of any provisions of this Code\n               or state statute, to suspend or revoke any such license after a hearing before the\n               enforcement officer. Any device or method employed by the holder of a license to evade\n               the payment of the tax provided for by this article shall be sufficient cause for\n               suspension or revocation.\n(Code 1981, § 31-40; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-65"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

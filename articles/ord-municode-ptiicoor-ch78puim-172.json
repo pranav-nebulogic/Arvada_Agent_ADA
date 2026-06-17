@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contracts",
+      "lieu",
+      "procedure",
+      "set",
+      "forth",
+      "herein",
+      "developer"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-228"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-228. - Contracts.",
+    "summary": "(a)\nIn lieu of the procedure set forth herein, the developer and the owners of any property\n               which would be subject to assessment may contract for reimbursement in such manner\n               and amount as they deem appropriate and the city will, at the request of the parties,\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-228. - Contracts.",
+        "a": "(a)\nIn lieu of the procedure set forth herein, the developer and the owners of any property\n               which would be subject to assessment may contract for reimbursement in such manner\n               and amount as they deem appropriate and the city will, at the request of the parties,\n               collect the reimbursement at the time of connection, platting, or as otherwise agreed.\n(b)\nIn the event that a developer contracts with the owner of a portion of the property\n               which would be subject to reimbursement assessment, such property shall be excluded\n               from the district, but no property within the district shall be assessed in an amount\n               proportionally greater than that provided by contract.\n(c)\nThe city council hereby ratifies and affirms all reimbursement agreements heretofore\n               entered into by the city and expresses its intent that the adoption of this article\n               not affect the validity of such preexisting contracts.\n(Code 1981, § 27-188; Ord. No. 1721, § 8, 2-2-1981)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-228"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

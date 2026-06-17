@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sign",
+      "maintenance",
+      "generally",
+      "signs",
+      "structures",
+      "types",
+      "attached",
+      "detached",
+      "temporary",
+      "maintained"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-7-1"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-7. MAINTENANCE; HISTORIC SIGNS"
+  },
+  "content": {
+    "title": "6-1-7-1. Sign maintenance.",
+    "summary": "A.\tGenerally. Signs and sign structures of all types (attached, detached, and temporary) shall be maintained as follows:\n  1.\tPaint and Finishes. Paint and other finishes shall be maintained in good condition. Peeling finishes shall be repaired.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-7-1. Sign maintenance.",
+        "a": "A.\tGenerally. Signs and sign structures of all types (attached, detached, and temporary) shall be maintained as follows:\n  1.\tPaint and Finishes. Paint and other finishes shall be maintained in good condition. Peeling finishes shall be repaired. Signs with running colors shall be repainted, repaired, or removed if the running colors were not a part of the original design.\n  2.\tMineral Deposits and Stains. Mineral deposits and stains shall be promptly removed.\n  3.\tCorrosion and Rust. Permanent signs and sign structures shall be finished and maintained to prevent corrosion and rust. A patina on copper elements (if any) is not considered rust.\n  4.\tDamage. Permanent signs that are damaged shall be repaired or removed within one year, unless the damage creates a material threat to public safety, in which case the Chief Building Official may order prompt repair or removal. Temporary signs that are damaged (e.g., broken yard signs) shall be removed within 24 hours.\n  5.\tUpright, Level Position. Signs that are designed to be upright and level, whether temporary or permanent, shall be installed and maintained in an upright and level position.\n  6.\tCode Compliance. The sign must be maintained in compliance with all applicable building, electrical, and property maintenance codes (including any exceptions that may apply to existing sign structures).\nB.\tQuality of Repairs. Repairs to signs shall be equal to or better in quality of materials and design than the original sign.\nC.\tAltering or Moving Existing Signs.\n  1.\tAny alteration to an existing sign structure (except for alterations to changeable copy, replacement of a panel in a cabinet sign, replacement of a light source with a comparably bright light source, application of paint or stain) shall require a new permit pursuant to Section 8-3-7-1, Sign Permits, prior to commencement of the alteration. Alterations requiring a new permit shall include, without limitation:\n    a.\tChanges to the area of manual changeable copy center on a sign, including the installation of a new manual changeable copy center where one was not previously present;\n    b.\tChanging the size of the sign;\n    c.\tChanging the shape of the sign;\n    d.\tChanging the material of which the sign is constructed;\n    e.\tChanging or adding lighting to the sign (except as provided above);\n    f.\tChanging the location of the sign; or\n    g.\tChanging the height of the sign.\n  2.\tExcept as specifically provided in Section 6-1-5-1, Additional Standards for Attached Permanent Signs, Subsection E., nonconforming signs are subject to the applicable provisions of Chapter 9, Nonconformities.\n  3.\tNo sign permit is required for removal of sign displays from supporting structures for maintenance, provided that they are replaced on the same support in the same configuration and the maintenance did not involve work that requires a permit."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-7-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

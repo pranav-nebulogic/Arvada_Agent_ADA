@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "license",
+      "term",
+      "fees",
+      "all",
+      "licenses",
+      "granted",
+      "pursuant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-174"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-174. - License term; fees.",
+    "summary": "(a)\nAll licenses granted pursuant to this article shall be for a term of one year. Said\n               terms shall commence on the date the license is issued or renewed.\n(b)\nThe license fee for a new license shall be $150.00 and the annual license renewal\n               shall be $150.00.\n(c)\nIn the …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-174. - License term; fees.",
+        "a": "(a)\nAll licenses granted pursuant to this article shall be for a term of one year. Said\n               terms shall commence on the date the license is issued or renewed.\n(b)\nThe license fee for a new license shall be $150.00 and the annual license renewal\n               shall be $150.00.\n(c)\nIn the event of a suspension, revocation, or cessation of business, no portion of\n               the license fee shall be refunded.\n(Code 1981, § 16-14; Ord. No. 3292, § 1, 10-21-1996)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-174"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

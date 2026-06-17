@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-35-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "pfas",
+      "arvada",
+      "water",
+      "quality",
+      "performs",
+      "periodic",
+      "sampling",
+      "both",
+      "Water - PFAS Information"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=35"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/are-pfas-in-arvada-water",
+    "faq_category_name": "Water - PFAS Information"
+  },
+  "content": {
+    "title": "Are PFAS in Arvada water?",
+    "summary": "Arvada Water Quality performs periodic PFAS sampling at both of our drinking water treatment plants. So far there have been no detected PFAS compounds near the EPA reporting limits in our finished waters. If you would like to review the City's PFAS test results, please contact the Water Quality Depa…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Are PFAS in Arvada water?",
+        "a": "Arvada Water Quality performs periodic PFAS sampling at both of our drinking water treatment plants. So far there have been no detected PFAS compounds near the EPA reporting limits in our finished waters. If you would like to review the City's PFAS test results, please contact the Water Quality Department at 720-898-7800. The City works very hard to keep our drinking water safe for all who drink it. Thankfully, we are very early users of our water source. This means our source water hasn't had as much opportunity to be contaminated. Remember that all water, including bottled water, may reasonably be expected to contain at least small amounts of some contaminants."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

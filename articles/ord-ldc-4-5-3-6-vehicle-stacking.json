@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "vehicle",
+      "stacking",
+      "generally",
+      "spaces",
+      "used",
+      "measure",
+      "capacity",
+      "drive",
+      "through",
+      "lane"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-3-6"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-3. PARKING AND LOADING DESIGN"
+  },
+  "content": {
+    "title": "4-5-3-6. Vehicle stacking.",
+    "summary": "A.\tGenerally. Vehicle stacking spaces are used to measure the capacity of a drive-through lane to hold cars while transactions are taking place at drive-through stations.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-3-6. Vehicle stacking.",
+        "a": "A.\tGenerally. Vehicle stacking spaces are used to measure the capacity of a drive-through lane to hold cars while transactions are taking place at drive-through stations. Adequate space must be provided for on-site stacking, storage and queuing of vehicles.\n  1.\tThe required stacking distance for the site may be distributed between access points serving the site, provided a minimum stacking of 20 feet is provided at all access points.\n  2.\tStacking spaces must be a minimum of 8.5 feet in width and 20 feet in length.\n  3.\tElectronic devices such as loudspeakers, automobile service order devices, and similar instruments shall not be audible beyond the property line adjacent to a residential zone district.\n  4.\tStacking spaces for internal drive-through services shall be measured from the point of service and within a designated drive aisle.\nB.\tDrive-Through. Uses that include drive-through service shall provide the following minimum number of stacking spaces:\n  1.\tFinancial institutions, drive-through convenience retail, fueling stations, and pharmacies. Three stacking spaces.\n  2.\tDrive-through restaurants.\n    a.\tIf two service windows are provided (one for payments and one for pick-up):\n      i.\tFour stacking spaces to each menu board;\n      ii.\tThree stacking spaces between the menu board and the first window, including the position at the first window; and\n      iii.\tTwo spaces between the first window and the second window, including the position at the second window (See Figure 4-5-3-6, Illustrative Stacking Requirements).\n    b.\tIf one service window is provided, for both payments and pick up:\n      i.\tSix stacking spaces to the menu board; and\n      ii.\tThree stacking spaces between the menu board and the service window.\n  3.\tDrive-through only uses in buildings with less than 300 square feet of gross floor area and no separate menu board. Three stacking spaces per service window.\n  4.\tDry cleaners. Two stacking spaces per service window.\n  5.\tVehicle wash.\n    a.\tTwo stacking spaces for each bay in a self-service vehicle wash facility;\n    b.\tFive stacking spaces for each in-bay or conveyor vehicle wash facility; and\n    c.\tIf the facility provides detailing, manual drying or polishing, and/or vacuuming, sufficient area to provide those services without creating additional demand for stacking at the vehicle wash entrance.\n  6.\tOther Uses. The determination by the Director of stacking spaces necessary for other uses may require a queuing study conducted by a qualified transportation planner or traffic engineer at the Applicant's expense.\nC.\tDesign.\n  1.\tStacking lanes shall be clearly marked, and shall not interfere with on-site or off-site traffic circulation, or access to parking spaces.\n  2.\tStacking areas shall not be located in the front setback or side street setback.\n(Ord. No. 4793, § 3, 3-21-2022; Ord. No. 4905, §§ 42, 43, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-3-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

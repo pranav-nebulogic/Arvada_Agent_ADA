@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "division",
+      "established",
+      "following",
+      "purposes",
+      "intended",
+      "promote",
+      "public",
+      "health",
+      "safety"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-3-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-3. STORMWATER AND DRAINAGE CONTROL"
+  },
+  "content": {
+    "title": "4-1-3-1. Purpose.",
+    "summary": "This Division has been established with the following purposes intended:\n  1.\tPromote the public health, safety, and welfare by minimizing flood losses and the inconvenience and damage resulting from uncontrolled and unplanned stormwater runoff in the City;\n  2.\tMinimize increases in stormwater runo…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-3-1. Purpose.",
+        "a": "This Division has been established with the following purposes intended:\n  1.\tPromote the public health, safety, and welfare by minimizing flood losses and the inconvenience and damage resulting from uncontrolled and unplanned stormwater runoff in the City;\n  2.\tMinimize increases in stormwater runoff as a result of development;\n  3.\tReduce pollutants in stormwater discharges from construction activity;\n  4.\tMinimize increases in non-point source pollution cause by stormwater runoff;\n  5.\tReduce flooding, siltation, stream bank erosion, and channel degradation; and\n  6.\tEnsure that stormwater management controls are properly maintained.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

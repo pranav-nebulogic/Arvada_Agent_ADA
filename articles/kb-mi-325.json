@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "movies",
+      "around",
+      "town",
+      "movie",
+      "alcoholic",
+      "aspx",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1260/Movies-Around-Town"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-325",
+    "spreadsheet_id": "MI-325",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Movies Around Town",
+    "summary": "Arvada is hosting free movie nights at local parks on Friday evenings throughout the summer, starting at dusk, with live music before the screenings. Attendees are encouraged to bring blankets and popcorn, but pets, barbecues, fires, smoking/vaping, and alcoholic beverages are not allowed. The schedule includes films like \\\"Labyrinth,\\\" \\\"Little Shop of Horrors,\\\" \\\"Super Mario Galaxy,\\\" and a People's Choice movie.",
+    "body": "Grab a blanket and some popcorn and join us at some of Arvada's favorite parks for free movie nights on Friday evenings throughout the summer! Showtimes start at dusk. Get there early to enjoy some live music before the movie!\n\nPets, barbecues, fires, smoking/vaping and alcoholic beverages are not permitted.\n\n![Movies Around Town Webpage Logo](/ImageRepository/Document?documentId=5453)\n\n### [2026 Movies Around Town Schedule](/calendar.aspx?CID=51)\n\n1. #### Fri, Jul. 17\n\n   1. **[Movies Around Town: Labyrinth](/Calendar.aspx?EID=3565)** \n      Join us for free Friday evening movie nights at Arvada parks throughout the summer, featuring live m...\n\n      [Movies Around Town: Labyrinth Read On](/Calendar.aspx?EID=3565)\n2. #### Fri, Aug. 21\n\n   1. **[Movies Around Town: Little Shop of Horrors](/Calendar.aspx?EID=3566)**\n      Join us for free Friday evening movie nights at Arvada parks throughout the summer, featuring live m...\n\n      [Movies Around Town: Little Shop of HorrorsRead On](/Calendar.aspx?EID=3566)\n3. #### Fri, Sep. 18\n\n   1. **[Movies Around Town: Super Mario Galaxy](/Calendar.aspx?EID=3567)**\n      Join us for free Friday evening movie nights at Arvada parks throughout the summer, featuring live m...\n\n      [Movies Around Town: Super Mario GalaxyRead On](/Calendar.aspx?EID=3567)\n4. #### Fri, Oct. 9\n\n   1. **[Movies Around Town: People's Choice](/Calendar.aspx?EID=3568)**\n      Join us for free Friday evening movie nights at Arvada parks throughout the summer, featuring live m...\n\n      [Movies Around Town: People's ChoiceRead On](/Calendar.aspx?EID=3568)\n\n/Calendar.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "dead",
+      "ends",
+      "hereby",
+      "added",
+      "read",
+      "follows"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-85"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-85. - I.F.C. Section 3310.3.3, Dead ends.",
+    "summary": "Section 3310.3.3. Dead ends\n, is hereby added to read as follows:\n\"3310.3.3. Dead ends.\nDead-end temporary fire apparatus access roads in excess of 150 feet (45,720 mm)\n                  in length shall be provided with an approved area for turning around fire apparatus.\"\n(Ord. No.\n4739\n, § 3, 9-14-…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-85. - I.F.C. Section 3310.3.3, Dead ends.",
+        "a": "Section 3310.3.3. Dead ends\n, is hereby added to read as follows:\n\"3310.3.3. Dead ends.\nDead-end temporary fire apparatus access roads in excess of 150 feet (45,720 mm)\n                  in length shall be provided with an approved area for turning around fire apparatus.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-85"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

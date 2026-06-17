@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "site",
+      "disturbance",
+      "permit",
+      "application",
+      "requirements",
+      "applicant",
+      "seeking"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-52"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-52. - Site disturbance permit application requirements.",
+    "summary": "(a)\nApplication requirements.\nAn applicant seeking a site disturbance permit shall submit a completed permit application,\n               meet all of the requirements set forth in the application, provide any other documents\n               required by the director to support the application, and sati…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-52. - Site disturbance permit application requirements.",
+        "a": "(a)\nApplication requirements.\nAn applicant seeking a site disturbance permit shall submit a completed permit application,\n               meet all of the requirements set forth in the application, provide any other documents\n               required by the director to support the application, and satisfy any other requirements\n               established by the director.\n(1)\nAll documents required by the director to be submitted in support of an application\n               must satisfy any requirements established by the director.\n(b)\nApplication changes.\nPrior to the issuance of a site disturbance permit, an applicant must update any\n               new information on any permit application, including any changes to a document included\n               in a permit application, within ten days of any change occurring.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-52"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

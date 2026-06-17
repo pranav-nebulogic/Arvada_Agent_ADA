@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "low",
+      "income",
+      "persons",
+      "renters",
+      "authority",
+      "rent",
+      "lease"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-48"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-48. - Low income persons as renters.",
+    "summary": "The authority may rent or lease dwelling accommodations therein only to persons of\n               low income, being persons receiving incomes less than the incomes which, according\n               to the determination of the authority, persons must receive to enable them to pay\n               the ren…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-48. - Low income persons as renters.",
+        "a": "The authority may rent or lease dwelling accommodations therein only to persons of\n               low income, being persons receiving incomes less than the incomes which, according\n               to the determination of the authority, persons must receive to enable them to pay\n               the rent necessary to secure safe and sanitary dwelling accommodations within the\n               boundaries of the authority, except such dwelling accommodations as are provided by\n               the authority or the city.\n(Code 1981, § 14-18; Ord. No. 1248, § 8(1)(a), 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-210(1)(a)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-48"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,189 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_electrical",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/344/Electrical"
+    ],
+    "scraped_at": "2026-06-10T10:49:51.896961+00:00",
+    "content_hash": "301fd8b24e88f000bfa72a1ad6814b4b02dfc6bc1382c497547d266675afa4e8",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Electrical Permit",
+    "summary": "Electrical permits are required for residential and commercial electrical work in the City of Arvada, CO. Permits must be approved and issued before starting work, and applications can be submitted online or via email for homeowners.",
+    "eligibility": "Homeowners who are occupants of the structure and contractors with valid City of Arvada registration can apply for electrical permits.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Permit Requirements",
+        "text": "Permits are required for electrical work including service replacement or new service, meter housing replacement, construction meter, and new wiring circuits. Review all application requirements before submission.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Prepare Application Documents",
+        "text": "Include an engineered signed and stamped set of plans if the panel rating is over 200 amps or for commercial structures. Homeowners must include a single line diagram. Include a site plan for new utilities meter or telephone cabinet installations.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 3,
+        "title": "Submit Application",
+        "text": "Contractors with valid City of Arvada registration can submit applications through the online SMART License & Permits system. Homeowners may submit applications via email to the Building Permits Division.",
+        "portal_url": "https://arvada.permits.com"
+      },
+      {
+        "n": 4,
+        "title": "Pay Fees",
+        "text": "After application processing, pay fees through Arvada Permits or at City Hall during regular business hours.",
+        "portal_url": "https://arvada.permits.com"
+      },
+      {
+        "n": 5,
+        "title": "Schedule and Complete Inspections",
+        "text": "Inspections are required depending on the permit subtype. Contact Building Inspections for questions about inspections.",
+        "portal_url": null
+      },
+      {
+        "n": 6,
+        "title": "Close the Permit",
+        "text": "Once all required inspections are completed with a FINAL result, the permit will be finalized and closed. Notification will be sent via email. Inspection results and permit status can be reviewed online or by phone.",
+        "portal_url": "https://arvada.permits.com"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Engineered Signed and Stamped Plans",
+        "description": "Required for projects with panel rating over 200 amps and commercial structures.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Single Line Diagram",
+        "description": "Required for homeowners completing a project.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Site Plan",
+        "description": "Required for new utilities meter or telephone cabinet installations showing the location of the new installation.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "panel_rating",
+        "label": "Panel Rating",
+        "description": "Indicate if the panel rating is over 200 amps to determine if engineered plans are required.",
+        "example_value": "250 amps",
+        "why_needed": "To determine if engineered signed and stamped plans are required."
+      },
+      {
+        "field_name": "project_type",
+        "label": "Project Type",
+        "description": "Specify the type of electrical work such as service replacement, meter housing replacement, construction meter, or new wiring circuit.",
+        "example_value": "New Wiring Circuit",
+        "why_needed": "To identify the scope of work and applicable permit fees."
+      },
+      {
+        "field_name": "single_line_diagram",
+        "label": "Single Line Diagram",
+        "description": "Upload a single line diagram if you are a homeowner completing the project.",
+        "example_value": null,
+        "why_needed": "To provide electrical layout details for homeowner projects."
+      },
+      {
+        "field_name": "site_plan",
+        "label": "Site Plan",
+        "description": "Upload a site plan showing the location of new utilities meter or telephone cabinet installations.",
+        "example_value": null,
+        "why_needed": "To verify the location of new installations."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Residential Replace or New Service",
+        "amount": "$54",
+        "rate": null,
+        "config_key": null,
+        "notes": "verify current amount with city"
+      },
+      {
+        "name": "Residential Construction Meter",
+        "amount": "$54",
+        "rate": null,
+        "config_key": null,
+        "notes": "verify current amount with city"
+      },
+      {
+        "name": "Residential Meter Housing",
+        "amount": "$50",
+        "rate": null,
+        "config_key": null,
+        "notes": "verify current amount with city"
+      },
+      {
+        "name": "Residential New Wiring Circuit",
+        "amount": "Building Permit Fee",
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      },
+      {
+        "name": "Commercial All Subtypes",
+        "amount": "Building Permit Fee",
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "Panel Under 200 Amps: Reviewed within 1 Business Day; Panel Over 200 Amps: 3 business day technical review; Commercial: 3 business day technical review",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7630",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Who can apply for an electrical permit?",
+        "a": "Homeowners who occupy the structure and contractors with valid City of Arvada registration can apply."
+      },
+      {
+        "q": "What documents are required for a project with a panel rating over 200 amps?",
+        "a": "An engineered signed and stamped set of plans must be included with the application."
+      },
+      {
+        "q": "How do I submit my electrical permit application?",
+        "a": "Contractors can submit applications through the online SMART License & Permits system. Homeowners may submit applications via email to the Building Permits Division."
+      },
+      {
+        "q": "Are inspections required?",
+        "a": "Yes, inspections such as Electrical Service/CL, Final Electrical, Rough Electrical, and others depending on the permit subtype are required."
+      },
+      {
+        "q": "How do I check the status of my permit or inspection results?",
+        "a": "Inspection results and permit status can be reviewed online at Arvada Permits or by calling the automated inspection line at 720-898-7630."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "building_permit_mechanical",
+      "building_permit_plumbing"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2947
+}

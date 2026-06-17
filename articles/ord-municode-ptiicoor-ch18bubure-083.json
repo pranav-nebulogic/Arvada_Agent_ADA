@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "service",
+      "disconnect",
+      "location",
+      "hereby",
+      "amended",
+      "entirety"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-211"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-211. - I.R.C. Section E3601.6.2, Service disconnect location.",
+    "summary": "Section E3601.6.2. Service disconnect location,\nis hereby amended in its entirety to read as follows:\n\"\nE3601.6.2. Service disconnect location.\nThe service disconnecting (main disconnect) means shall be installed at a readily\n                  accessible location outside of a building or structure.\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-211. - I.R.C. Section E3601.6.2, Service disconnect location.",
+        "a": "Section E3601.6.2. Service disconnect location,\nis hereby amended in its entirety to read as follows:\n\"\nE3601.6.2. Service disconnect location.\nThe service disconnecting (main disconnect) means shall be installed at a readily\n                  accessible location outside of a building or structure.\nEXCEPTION: The service disconnecting means may be installed inside the building if\n                  it is located within a room built with materials similar to that of the building or\n                  structure that is used only for electrical equipment and has exterior access by doors\n                  having a minimum dimension of three feet (914 mm) by six feet eight inches (2032 mm).\n                  The doors shall be labeled \"MAIN ELECTRICAL DISCONNECT\" in a minimum of one inch (25\n                  mm) letters on a contrasting background. The disconnect must be located nearest the\n                  point of entrance into the building of the service conductors in accordance with this\n                  code. In residential single-family homes, the main disconnect may be installed inside\n                  the garage if near a service door, when approved by the building official. Service\n                  disconnecting means shall not be installed in bathrooms. Each occupant shall have\n                  access to the disconnect serving the dwelling unit in which they reside.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-211"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

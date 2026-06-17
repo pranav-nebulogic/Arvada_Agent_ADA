@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reports",
+      "vendor",
+      "payment",
+      "tax",
+      "every",
+      "shall",
+      "liable"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-68"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-68. - Reports by vendor; payment of tax.",
+    "summary": "Every vendor shall be liable as a taxpayer and responsible for the reporting to the\n               finance director and paying the tax at the rate of 3.46 percent of the gross total\n               of taxable sales or charges for service during the reporting period, plus any excess\n               tax…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-68. - Reports by vendor; payment of tax.",
+        "a": "Every vendor shall be liable as a taxpayer and responsible for the reporting to the\n               finance director and paying the tax at the rate of 3.46 percent of the gross total\n               of taxable sales or charges for service during the reporting period, plus any excess\n               tax collected on sales or charges for service. Unless otherwise approved by the finance\n               director, the reporting period shall be as follows: annually for a taxpayer whose\n               yearly net tax is less than $100.00; quarterly for a taxpayer whose average monthly\n               net tax due is less than $60.00; monthly for a taxpayer whose average monthly net\n               tax due is $60.00 or more. Such report shall be made and tax paid under the provisions\n               of this article on or before the 20th day of the month following the reporting period.\n               A timely payment shall be evidenced by the city cashier validation date. Any due date,\n               payment date, or deadline for paying the total tax liability or providing information\n               or taking other action, which falls on a Saturday, Sunday or legal holiday established\n               by title 5 U.S. Code § 6103, shall be extended to the first business day following\n               such weekend or holiday. A report shall be made for each place of business if more\n               than one location is used in the business of sales at retail within the city. The\n               taxpayer may submit a written request annually to the finance director to use a reporting\n               period different than that specified herein. The finance director may in his sole\n               discretion grant such a request if he finds that there is reasonable cause to do so\n               and that the change will not jeopardize collection of the taxes due. If any taxpayer\n               who is on a quarterly reporting period fails to file any return or pay any tax when\n               due, he may be given notice by the city to file returns and pay taxes on a monthly\n               basis, and the taxpayer shall do so from and after the date of the said notice.\n(Code 1981, § 31-43; Ord. No. 3783, § 2, 12-16-2002; Ord. No. 3980, § 1, 12-12-2005;\n               Ord. No.\n4612\n, § 1, 10-16-2017;\nOrd. No. 4664\n, § 1, 11-19-2018)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-68"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

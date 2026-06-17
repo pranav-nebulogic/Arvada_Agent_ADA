@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "channel",
+      "comcast",
+      "live",
+      "cable",
+      "channels",
+      "watch",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/899/Channel-8-880"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-119",
+    "spreadsheet_id": "MI-119",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Channel 8 / 880",
+    "summary": "Arvada's government access channels, Comcast and TDS channels 8 and 880, feature City Council meetings, community shows, and political forums. Residents can watch live on cable, through Apple TV and Roku apps, online streaming, or by downloading a media player playlist. Additionally, the city's YouTube channel offers a library of over 400 videos, including City Council meetings and community topics.",
+    "body": "Arvada's government access channels, Comcast and TDS channels 8 and 880, include City Council meetings, shows, political forums, and special features about our community.\n\n## Ways to watch\n\n- **Comcast or TDS cable:**watch live on channel 8 or 880 with your Comcast or TDS cable service\n- **Apple TV and Roku:**download the app and search \"Arvada\"\n- **Online:**[live stream on your internet browser using this link](http://katv.arvada.org/cablecastapi/live?channel_id=1&use_cdn=false)\n- **Media player:**[download the live stream playlist](http://stream.arvada.org/live/live.m3u8) to play on your preferred media player (Windows Media Play, VLC Media Player)\n\nIf you experience problems with the streaming content, please [contact KATV Channel 8 using Ask Arvada](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map).\n\n## YouTube\n\nOur YouTube channel includes a library of City Council meetings, over 400 videos covering many topics in the \"About Arvada\" section, and much more!\n\n### [Visit our YouTube Channel](https://www.youtube.com/@cityofarvada \"View the City's YouTube channel in new tab\")\n\n## Contact Information\n\n**Arvada Media Services Phone Number:**720-898-7520\n\n## Photograph and Video Release Form\n\n### [Release Form](https://arvada-forms.app.transform.civicplus.com/forms/40912 \"City of Arvada Photograph and Video Release Form\")",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

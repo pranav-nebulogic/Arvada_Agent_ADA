@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "adoption",
+      "reference",
+      "pursuant",
+      "section",
+      "home",
+      "rule",
+      "charter"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-261"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-261. - Adoption by reference.",
+    "summary": "Pursuant to section\n5.11\nof the Home Rule Charter of the city, there is hereby adopted as a primary code by\n               reference the \"Engineering Code of Standards and Specifications\" as promulgated by\n               the city engineer and published by the engineering division of the department o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-261. - Adoption by reference.",
+        "a": "Pursuant to section\n5.11\nof the Home Rule Charter of the city, there is hereby adopted as a primary code by\n               reference the \"Engineering Code of Standards and Specifications\" as promulgated by\n               the city engineer and published by the engineering division of the department of public\n               works, City of Arvada, Colorado, and dated October 23, 2023. That previous code titled\n               \"Engineering Code of Standards and Specifications\" dated July 26, 2022, is hereby\n               repealed. Construction plans that the city engineer has approved in writing prior\n               to the effective date hereof shall be considered valid, provided construction of the\n               improvements related thereto is completed within two years of the effective date of\n               a public improvement agreement, development agreement, building permit, or similar\n               document requiring such construction or, in the absence of such, within two years\n               of the approval of the construction plans.\n(Code 1981, § 27-190; Ord. No. 2391, § 1, 1-19-1987; Ord. No. 2429, § 1, 7-20-1987;\n               Ord. No. 3711, § 1, 8-6-2001; Ord. No. 3776, § 1, 11-4-2002; Ord. No. 3938, § 1, 3-21-2005;\nOrd. No. 4050, § 1, 1-8-2007\n;\nOrd. No. 4273, § 1, 7-11-2011\n;\nOrd. No. 4534, 1-4-2016\n;\nOrd. No. 4809\n, § 1, 7-18-2022;\nOrd. No. 4857\n, § 1, 10-2-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-261"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "exemption",
+      "certificate",
+      "relieves",
+      "vendor",
+      "burden",
+      "proof",
+      "sale"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-89"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-89. - Exemption certificate.",
+    "summary": "(a)\nAn exemption certificate relieves a vendor from the burden of proof that a sale of\n               tangible personal property or taxable service is for exempt use only if the vendor\n               accepts the certificate in good faith from a purchaser who, at the time of purchasing\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-89. - Exemption certificate.",
+        "a": "(a)\nAn exemption certificate relieves a vendor from the burden of proof that a sale of\n               tangible personal property or taxable service is for exempt use only if the vendor\n               accepts the certificate in good faith from a purchaser who, at the time of purchasing\n               the tangible personal property, intends to use the property in a manner that qualifies\n               for an exemption under\nsection 98-70\n(1) and (2).\n(b)\nRequirements for proper documentation for exempt sales:\n(1)\nName of organization;\n(2)\nAddress of organization;\n(3)\nItem or service purchased;\n(4)\nOrganization's state exemption number, copy of exemption certificate or signed affidavit\n               of out of state tax-exempt organization.\n(c)\nNot all purchases made by tax-exempt organizations are nontaxable. The vendor may\n               sell tangible personal property or taxable services tax free only if both of the following\n               requirements are met:\n(1)\nPayment for the item or service must be made with funds of the organization;\n(2)\nThe item or service is used by the organization in conducting its regular religious,\n               charitable, or governmental business.\n(d)\nBuilding materials for construction work on property owned by tax-exempt organization\n               - religious, charitable and governmental may be purchased tax free. The general contractor\n               must obtain an exemption certificate from the state department of revenue for the\n               project.\n(Code 1981, § 31-62.2; Ord. No. 3783, § 2, 12-16-2002;\nOrd. No. 4317, § 12, 3-5-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-89"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "utility",
+      "bill",
+      "auto",
+      "update",
+      "online",
+      "payment",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1488/Utility-Bill-Auto-Pay-Update"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-575",
+    "spreadsheet_id": "MI-575",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Utility Bill Auto-Pay Update",
+    "summary": "The City of Arvada has transitioned its utility billing auto-pay system online, effective May 7, 2026, requiring all customers to re-enroll through the new online payment portal. Previous auto-pay accounts using ACH were canceled to avoid double charges, and customers will need to follow specific instructions to set up the new system, as past due amounts will not be automatically deducted. The online auto-pay service is offered at no additional cost.",
+    "body": "Auto-pay has moved online for City of Arvada utility billing! Visit the [**online payment portal**](https://ipn.paymentus.com/cp/avdu) and follow these [**step-by-step instructions**](/1526) to sign up. This service is available at no additional cost to customers.\n\n**If you were previously enrolled in auto-pay with ACH through your bank account, payments were canceled on Thursday, May 7, 2026.**You will need to re-enroll in auto-pay online or use a different payment method that does not draw payments automatically.\n\n## Timeline\n\nThe new auto-pay system went live on **Thursday****, May 7, 2026**. \n\n## Previous ACH auto-pay customers: Need to know\n\n1. **Manual re-enrollment in auto-pay will be required through the online system.**\n   - [**Visit the payment portal**](https://ipn.paymentus.com/cp/avdu) to create an account and set up auto-pay.\n   - Follow these [**step-by-step instructions**](/1526) to sign up.\n2. **Your previous auto-pay account with ACH was canceled on Thursday, May 7.**\n   - This was to prevent double charges.\n   - You will receive a mailer with this information before and after the go-live date.\n3. If you prefer not to set up an online account, **other payment methods are listed on the**[**Pay My Bill page**](/453) (offline options do not support auto-pay).\n\n**Past due bill amounts:**If you have outstanding payments that are past due, please make a one-time payment. The past due amount will not auto-draw.\n\n## Online auto-pay\n\nAll City of Arvada Utility customers use an [**online account through Paymentus**](https://ipn.paymentus.com/cp/avdu) to set up auto-pay for your bi-monthly bill. Follow these [**step-by-step instructions**](/1526) to sign up. This service is available at no additional cost to customers.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "certificate",
+      "issued",
+      "hereby",
+      "amended",
+      "amending",
+      "first"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-176"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-176. - I.R.C. Section R110.3, Certificate issued.",
+    "summary": "Section R110.3. Certificate issued,\nis hereby amended by amending the first paragraph to read as follows:\n\"\nR110.3. Certificate issued.\nAfter the building official inspects the building or structure and finds no violations\n                  of the provisions of this code or any other applicable poli…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-176. - I.R.C. Section R110.3, Certificate issued.",
+        "a": "Section R110.3. Certificate issued,\nis hereby amended by amending the first paragraph to read as follows:\n\"\nR110.3. Certificate issued.\nAfter the building official inspects the building or structure and finds no violations\n                  of the provisions of this code or any other applicable policies or laws that are enforced\n                  by the department of building safety, the building official shall issue a certificate\n                  of occupancy which shall contain the following:\"\nThe remaining numbered provisions of section R110.3 of the I.R.C. shall remain unchanged.\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-176"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

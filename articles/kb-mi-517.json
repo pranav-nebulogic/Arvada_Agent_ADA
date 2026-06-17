@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "online application",
+      "permit application",
+      "permit types",
+      "document upload",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/636/Starting-an-Application-Online"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-517",
+    "spreadsheet_id": "MI-517",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Starting an Application Online",
+    "summary": "Users must create an account to access the online application process for permits in Arvada. Licensed contractors should use their AEC license number to log in, while homeowners can apply for permits on their own occupied properties without a license. The application process involves selecting the permit type, entering a valid Arvada address, attaching required documentation, and submitting the application for review.",
+    "body": "All users that would like to use the online application process must have a user account. If you are a licensed contractor with the City of Arvada, you must access [Permit Portal]([NEW PORTAL URL]) using your AEC license number. For more information about becoming a Licensed Contractor, visit the Contractor link under resources.\n\n**Note**: If you are a homeowner completing work on a home that you own and occupy, you can apply for the permit. However, if you are applying for a permit on a rental property, a license is required.\n\nSteps:\n\n1. **Start an Application:**  \n\tVisit [Permit Portal]([NEW PORTAL URL]) and select Apply/New Permit under the Permits heading to start your application for a permit.\n2. **Log in:**  \n\tUse the Public Login or the Contractor Login as appropriate. If this is your first time, you will need to register.\n3. **Accept City Disclaimer:**  \n\tRead and accept the City's disclaimer\n4. **Select Permit Type:**  \n\tSelect the permit/project type that you are needing a permit for. If the permit is not available in this list, then the application is not available for online submittal. Once you select the permit/project type that you wish to create, more fields will be generated based on the permit that was selected. All fields with an asterisk in front of the title must be completed to submit the application.\n5. **Select the Address:**  \n\tPermits must be linked to a valid Arvada address. If you cannot locate the appropriate address, please make sure that you are using the correct address format. For directional streets please use \"W\" instead of \"West\" don't abbreviate \"Street\" or \"Road,\" etc. For example: 8101 Ralston Road, 11204 W 58th Avenue. You can also just enter in the address numbers to generate address results and select the address from a list.  \n\t**Note:** If the address does not populate, verify that your address is correct and within the city limits of Arvada. All addresses can be verified using our online address tool under the Location heading.\n6. **Attach Documentation:**  \n\tDifferent permit types request additional documentation to be submitted. If you need to submit additional documentation, these are the file types that are accepted:\n\t- Adobe: PDF\n\t\t- Word: DOC, DOCX\n\t\t- Excel: XLS, XLSX\n\t\t- Image Files: JPG, JPEG, PNG\n\tUnder the Attachments heading, select a filename. Then enter a description of the file, activate the Upload button and agree to the disclaimer. Your file is now attached and can be deleted if necessary.\n7. **Permit Contacts:**  \n\tAfter selecting \"next step,\" you will enter in the contacts for the permit. Most of this information will be already completed based on your information on your Permit Portal profile. Any field that has an asterisk is a required field and you will not be able to move forward until it is added. Select \"next step\" to proceed.\n8. **Submit Application:**  \n\tAfter selecting \" **next step**,\" you will be able to review and make edits to the application, if needed. When done with those edits, select \" **next step** \" again and your application will be submitted. Staff will review the applications and notify you when the permit is approved or if more information is needed.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

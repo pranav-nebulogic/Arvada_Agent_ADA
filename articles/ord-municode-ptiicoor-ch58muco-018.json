@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "jurors",
+      "fees",
+      "shall",
+      "receive",
+      "appearing",
+      "before",
+      "municipal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-43"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-43. - Jurors' fees.",
+    "summary": "Jurors shall receive for appearing before the municipal court $6.00 per day, or $12.00\n               per day if chosen to sit on a jury, to be paid out of the general funds of the city.\n(Code 1960, § 1-15; Code 1981, § 18-31; Ord. No. 2487, § 1, 2-15-1988; Ord. No. 3420,\n               § 1, 11-17-1…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-43. - Jurors' fees.",
+        "a": "Jurors shall receive for appearing before the municipal court $6.00 per day, or $12.00\n               per day if chosen to sit on a jury, to be paid out of the general funds of the city.\n(Code 1960, § 1-15; Code 1981, § 18-31; Ord. No. 2487, § 1, 2-15-1988; Ord. No. 3420,\n               § 1, 11-17-1997)\nState Law reference—\nSimilar provisions, C.R.S. § 13-10-114."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-43"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

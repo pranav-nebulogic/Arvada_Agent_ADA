@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "removing",
+      "name",
+      "petition",
+      "event",
+      "person",
+      "signed",
+      "wishes"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-40"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-40. - Removing name from petition.",
+    "summary": "In the event a person who has signed a petition wishes to remove their name from such\n               petition, such individual shall submit a request in writing for removal to the city\n               clerk. The written request shall include the full name, complete address, and a general\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-40. - Removing name from petition.",
+        "a": "In the event a person who has signed a petition wishes to remove their name from such\n               petition, such individual shall submit a request in writing for removal to the city\n               clerk. The written request shall include the full name, complete address, and a general\n               description of the subject of the petition which was signed. The request to remove\n               a name shall be effective only if it is filed with the city clerk prior to the issuance\n               of the certificate of sufficiency.\n(Code 1981, § 11-31; Ord. No. 3511, § 2, 2-1-1999)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-40"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

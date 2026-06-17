@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalties",
+      "any",
+      "violation",
+      "public",
+      "parks",
+      "regulations",
+      "contained"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-22",
+      "§ 17-38"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-22. - Penalties.",
+    "summary": "Any violation of the public parks regulations contained in this chapter shall be punishable\n               by a fine not to exceed the limits established in\nsection 1-5\n.\n(Code 1960, § 17-38; Code 1981, § 22-2; Ord. No. 2297, § 21, 5-5-1986)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-22. - Penalties.",
+        "a": "Any violation of the public parks regulations contained in this chapter shall be punishable\n               by a fine not to exceed the limits established in\nsection 1-5\n.\n(Code 1960, § 17-38; Code 1981, § 22-2; Ord. No. 2297, § 21, 5-5-1986)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-22",
+      "§ 17-38"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

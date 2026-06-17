@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "probation",
+      "court",
+      "municipal",
+      "violations",
+      "adult",
+      "allowed",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/404/Probation"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-427",
+    "spreadsheet_id": "MI-427",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Probation",
+    "summary": "Defendants convicted of violations of the Arvada Municipal Code, such as theft or harassment, may be sentenced to probation by the Arvada Municipal Court, which supervises both adult and juvenile offenders. Probation allows individuals to live in the community under the supervision of a probation officer, ensuring compliance with court requirements while focusing on community safety and victim protection. The Arvada Probation division follows a Risk, Need, and Responsivity model to tailor supervision to individual needs and may incorporate restorative justice practices to support community and victim reparation.",
+    "body": "A defendant may be sentenced to probation by the Arvada Municipal Court Judge after being convicted of a violation in the Arvada Municipal Code of Laws. Example violations include, but are not limited to theft, harassment, and disturbing the peace. On rare occasions, the court will order probation in animal ordinance violations. Arvada Municipal Court probation supervises both adult and juvenile offenders.\n\n## Definition\n\nProbation is a specified period of time in which the offender is allowed to live in the community but is supervised by a probation officer. Progress and compliance with court-ordered requirements is monitored while protecting the community and victim from further harm.\n\n## Our Philosophy\n\nThe City of Arvada Probation division operates under the philosophy of the Risk, Need, and Responsivity model, which matches probation supervision to each individual's identified risks and needs. When appropriate, restorative justice practices may be employed to further aid in community and victim reparation.\n\nThe combination of these practices align with the City's Mission: Delivering superior services to enhance the lives of everyone in our community.\n\n## Our Responsibilities\n\n- Meeting with probationers on a regular basis\n- Referring probationers to a variety of counseling agencies and community resources\n- Monitoring drug and alcohol tests\n- Providing sentencing recommendations and updating the court",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

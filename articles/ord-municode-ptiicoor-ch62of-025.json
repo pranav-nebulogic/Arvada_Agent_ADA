@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "window",
+      "peeping",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "look"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-55"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-55. - Window peeping.",
+    "summary": "It shall be unlawful for any person to look, peer or peep into, or to loiter around\n               or within view of, any window of a building occupied as the residence of another with\n               the intent of observing any person undressed or in the act of dressing or undressing.\n(Code 1960, § …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-55. - Window peeping.",
+        "a": "It shall be unlawful for any person to look, peer or peep into, or to loiter around\n               or within view of, any window of a building occupied as the residence of another with\n               the intent of observing any person undressed or in the act of dressing or undressing.\n(Code 1960, § 17-13; Code 1981, § 21-25)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-55"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

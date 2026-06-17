@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "trees",
+      "property",
+      "health",
+      "team",
+      "tree",
+      "forestry",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/737/Trees-on-City-Property"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-566",
+    "spreadsheet_id": "MI-566",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Trees on City Property",
+    "summary": "The forestry team is responsible for maintaining the urban canopy on city property through tree-health assessments, preventative treatments, pruning, and safe removal of hazardous trees. They prioritize species and age diversity in planting new trees and are committed to preserving trees whenever possible. Team members are certified arborists and licensed pesticide applicators, ensuring professional care for the city's trees.",
+    "body": "## What the Forestry Team Does for Trees in City Parks / City Property\n\n### General Tree Maintenance\n\nThe forestry team follows robust health care standards regarding the maintenance of its urban canopy, including:\n\n- Tree-health assessments: Identity, diagnose, and treat tree ailments.\n- Apply preventative treatments for insect/disease control.\n- Prune trees for aesthetics, health, and safety (The team prunes an average of 1,500 trees per year, and since 2015, they have pruned more than 8,600 publicly maintained trees).\n- Timely removal of trees and branches to eliminate hazardous conditions.\n- Plant trees with an emphasis on species and age diversity.\n\nThe forestry team professionals are required to have Arborist Certification from the International Society of Arboriculture and a Pesticide Applicators License from the Department of Agriculture. Learn more about the [City's tree and shrub maintenance (PDF)](/DocumentCenter/View/1034).\n\n### Planting Trees on City Property\n\nLearn more about the [City's approach to planting trees](/739/Planting-Trees-on-City-Property) with an emphasis on age and species diversity.\n\n### Removing Trees on City Property\n\nThe forestry crew always prefers to preserve a tree rather than remove one; however, sometimes tree removal is necessary. For more information on tree removal, [visit the Removing Trees on City Property page](/740/Removing-Trees-on-City-Property).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

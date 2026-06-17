@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "city",
+      "pick",
+      "members",
+      "contributions",
+      "effective",
+      "member",
+      "contribution"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-41"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-41. - City pick up of members' contributions.",
+    "summary": "Effective May 1, 1989, a member's contribution will be picked up and paid by the city\n               as provided in section 414(h) of the Internal Revenue Code of 1986, as amended, and\n               a member's gross income will be reduced by the amount of the contributions picked\n               up …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-41. - City pick up of members' contributions.",
+        "a": "Effective May 1, 1989, a member's contribution will be picked up and paid by the city\n               as provided in section 414(h) of the Internal Revenue Code of 1986, as amended, and\n               a member's gross income will be reduced by the amount of the contributions picked\n               up by the city. Each member as a condition of his employment, is deemed to have authorized\n               the city to reduce the member's compensation by such amount from each of his paychecks\n               and to transmit such amount directly to the custodian of the pension fund. Records\n               will be maintained so as to identify the amounts contributed by each member prior\n               to the pickup of such contributions by the city and the contributions picked up by\n               the city. For the purposes of distributions from the police pension fund, the amounts\n               picked up and paid by the city are considered as city contributions.\n(Code 1981, § 26-10.5; Ord. No. 2610, § 2, 4-17-1989)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-41"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

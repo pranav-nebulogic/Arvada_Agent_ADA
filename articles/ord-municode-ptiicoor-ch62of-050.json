@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "criminal",
+      "liability",
+      "business",
+      "entities",
+      "definitions",
+      "used",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-81"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-81. - Criminal liability of business entities.",
+    "summary": "(a)\nDefinitions.\nAs used in this section:\nBusiness entity\nmeans a corporation, sole proprietorship, or other association or group of individuals\n               doing business in the city.\nHigh managerial agent\nmeans an officer of a business entity or any other agent in a position of comparable\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-81. - Criminal liability of business entities.",
+        "a": "(a)\nDefinitions.\nAs used in this section:\nBusiness entity\nmeans a corporation, sole proprietorship, or other association or group of individuals\n               doing business in the city.\nHigh managerial agent\nmeans an officer of a business entity or any other agent in a position of comparable\n               authority with respect to the formulation of the business entity's policy or the supervision\n               in a managerial capacity of subordinate employees.\n(b)\nA business entity is guilty of an offense if:\n(1)\nThe conduct constituting the offense consists of an omission to discharge a specific\n               duty of affirmative performance imposed on the business entity by law; or\n(2)\nThe conduct constituting the offense is engaged in, authorized, solicited, requested,\n               commanded, or knowingly tolerated by the governing body or individual authorized to\n               manage the affairs of the business entity or by a high managerial agent acting within\n               the scope of his or her employment or in behalf of the business entity.\n(Ord. No.\n4847\n, § 4, 7-10-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-81"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

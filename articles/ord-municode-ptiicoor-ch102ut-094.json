@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "user",
+      "charges",
+      "distributor",
+      "institutions",
+      "sanitary",
+      "sewer",
+      "service"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-205"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-205. - User charges; distributor and institutions.",
+    "summary": "The charges for sanitary sewer service for campus-type institutions, special districts\n               or to facilities served by user-owned, user-maintained collection systems will be\n               established by agreement between the city and such user. The charges will be established\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-205. - User charges; distributor and institutions.",
+        "a": "The charges for sanitary sewer service for campus-type institutions, special districts\n               or to facilities served by user-owned, user-maintained collection systems will be\n               established by agreement between the city and such user. The charges will be established\n               to reflect reasonably the cost of service.\n(Code 1981, § 33-109; Ord. No. 2574, § 1, 11-21-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-205"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

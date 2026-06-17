@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-49-006",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "lead",
+      "pipes",
+      "system",
+      "owned",
+      "portion",
+      "water",
+      "city",
+      "long",
+      "Public Improvement Projects - Service Line Inventory"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=49"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/are-there-lead-pipes-in-the-system-owned-portion-of-the-wate",
+    "faq_category_name": "Public Improvement Projects - Service Line Inventory"
+  },
+  "content": {
+    "title": "Are there lead pipes in the system-owned portion of the water system?",
+    "summary": "No. The City long ago removed all lead pipes from the system-owned portion of the water system.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Are there lead pipes in the system-owned portion of the water system?",
+        "a": "No. The City long ago removed all lead pipes from the system-owned portion of the water system."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

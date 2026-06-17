@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "home",
+      "child",
+      "care",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "uses",
+      "within",
+      "dwelling"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-5-2"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-5. BUSINESS USE OF THE HOME"
+  },
+  "content": {
+    "title": "3-1-5-2. Home child care.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-5-2. Home child care.",
+        "a": "A.\tGenerally. The standards of this Section apply to the child care uses within dwelling units (hereinafter \"home child care uses\") that are listed in this Subsection.\n  1.\tSpecialized group homes, as defined in Subsection 7.701.2.B., 12 CCR 2509-8, except as provided in Subsection B., below;\n  2.\tFamily child care homes, as defined in Subsections 7.707.22.A. and B., 12 CCR 2509-8, and including:\n    a.\tThree under two family child care homes, as defined in Subsection 7.707.22.C., 12 CCR 2509-8;\n    b.\tFamily child care homes with infant/toddler licenses, as defined in Subsection 7.707.22.D., 12 CCR 2509-8;\n    c.\tExperienced child care provider, as defined in Subsection 7.707.22.F., 12 CCR 2509-8; and\n    d.\tLarge child care homes, as defined in Subsection 7.707.22.E., 12 CCR 2509-8.\nB.\tExceptions. The following child care uses are allowed without a permit in all dwelling units, provided that all licenses (if any) that are required by state law (see 12 CCR 2509-8) are obtained prior to establishment of the use, and thereafter maintained:\n  1.\tSpecialized group homes that are licensed to provide care for three or more children pursuant to C.R.S. § 26-6-102(10), but that are providing care for three or fewer children who are determined to have a developmental disability by a community centered board or who are diagnosed with a serious emotional disturbance.\n  2.\tExempt family child care home providers, as defined in C.R.S. § 26-6-102(12);\n  3.\tFoster care homes, as defined in C.R.S. § 26-6-102(14); and\n  4.\tLicensed host family homes, as defined in section 7.701.21., 12 CCR 2509-8.\nC.\tStandards. In addition to any state regulatory requirements, the following standards apply to the home child care uses that are subject to this Section:\n  1.\tThe operator of the home child care use shall reside on the subject property.\n  2.\tThe home child care use shall not generate, in excess of levels customarily found in residential neighborhoods, any noise that is noticeable at or beyond the property line of the premises upon which the home child care use is located.\n  3.\tNo additional off-street parking shall be created on the subject property for the home child care use.\n  4.\tCommercial vehicles shall not be parked or stored on the subject property.\nD.\tMaximum Number of Children. The number of children that may be cared for in a home child care use is limited by the applicable state license or statutory definition and not this Code."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-5-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

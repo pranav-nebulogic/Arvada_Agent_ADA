@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "transitional",
+      "duty",
+      "modified",
+      "assignment",
+      "temporary",
+      "work",
+      "another"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-109"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-109. - Transitional duty and modified duty.",
+    "summary": "(a)\nA transitional duty assignment is temporary work in another position that can be performed\n               by an employee who is unable to perform the employee's essential job functions due\n               to physical or other limitations set forth by a certified healthcare provider. A modified\n  …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-109. - Transitional duty and modified duty.",
+        "a": "(a)\nA transitional duty assignment is temporary work in another position that can be performed\n               by an employee who is unable to perform the employee's essential job functions due\n               to physical or other limitations set forth by a certified healthcare provider. A modified\n               duty assignment is created when the employee's current position is temporarily adapted\n               to meet the recommendations of the healthcare provider. An employee in transitional\n               or modified duty status must remain under the care of a healthcare provider. The human\n               resources department and/or risk management department will work with the appointing\n               authority to determine if transitional or modified duty is available and what type\n               of duty will best fit the needs of the organization and the employee. Transitional\n               or modified duty is not guaranteed.\n(b)\nA transitional or modified duty assignment will not exceed 90 days, unless additional\n               time is granted based upon consideration of the needs of the city and the nature of\n               the employee's injury or illness. In no event shall transitional or modified duty\n               assignment(s) exceed a total of 12 consecutive months or 18 months of intermittent\n               duty for any single injury or illness. Transitional or modified duty shall not create\n               an obligation for the city to permanently modify or alter any position.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-109"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

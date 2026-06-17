@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "general",
+      "hereby",
+      "amended",
+      "reads",
+      "follows",
+      "components"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-513"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-513. - I.P.M.C. Section 306.1, General.",
+    "summary": "Section 306.1. General,\nis hereby amended to reads as follows:\n\"\n306.1. General.\nThe components of a structure and equipment therein shall be maintained structurally\n                  sound and in a sanitary condition.\"\n\"\n306.1.1. Unsafe conditions.\nWhere any of the following conditions cause the co…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-513. - I.P.M.C. Section 306.1, General.",
+        "a": "Section 306.1. General,\nis hereby amended to reads as follows:\n\"\n306.1. General.\nThe components of a structure and equipment therein shall be maintained structurally\n                  sound and in a sanitary condition.\"\n\"\n306.1.1. Unsafe conditions.\nWhere any of the following conditions cause the component or system to be beyond\n                  its limit state, the component or system shall be determined as unsafe and shall be\n                  repaired replaced or demolished to comply with the International Building Code as\n                  required for existing buildings:\n1.\nSoils that have been subjected to any of the following conditions:\n1.1.\nCollapse of footing or foundation system;\n1.2.\nDamage to footing, foundation, concrete or other structural element due to soil expansion;\n1.3.\nAdverse effects to the design strength of footing, foundation, concrete or other structural\n                     element due to a chemical reaction from the soil or from the effects of groundwater.\n2.\nConcrete that is deteriorated, deformed, fractured or otherwise defective in any structural\n                     element making such element unsafe.\nException:\n1.\nWhen substantiated otherwise by an approved method.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-513"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

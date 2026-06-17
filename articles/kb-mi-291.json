@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "land",
+      "development",
+      "code",
+      "information",
+      "municode",
+      "provides",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/179/Land-Development-Code"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-291",
+    "spreadsheet_id": "MI-291",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Land Development Code",
+    "summary": "The Land Development Code (LDC) regulates property development and use in Arvada, covering zoning, building permits, and land use activities. In 2024, new state legislation addressing Colorado's housing crisis will prompt amendments to the LDC, including increased housing densities, reduced parking minimums, and expanded Accessory Dwelling Unit (ADU) construction. A City Council workshop to discuss these changes is scheduled for January 13, 2024.",
+    "body": "The Land Development Code (LDC) provides the City's regulations for the development and use of property within the city. The code provides information on zoning, subdivisions, building permits, flood plain information and other related land use activities.\n\nYou can download the full version of the land development code from [Municode](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO).\n\n## 2024 Legislative Actions Impacting Land Use in Arvada\n\nIn 2024, the Colorado General Assembly passed several bills to address the housing crisis in Colorado, which will impact areas of the City's current Land Development Code. These laws address the state’s housing crisis by:\n\n- Allowing greater housing densities\n- Reducing costly parking minimums\n- Increasing Accessory Dwelling Unit (ADU) construction\n- Preserving existing affordable housing\n- Allowing more people to live together\n\nAs these laws apply to member communities that are part of Metropolitan Planning Organizations (MPO), such as the City of Arvada, City staff will prepare amendments to the City of Arvada’s Land Development Code to ensure alignment with this new state legislation.  These upcoming amendments will be related to [HB24-1007 (Residential Occupancy)](https://leg.colorado.gov/sites/default/files/2024a_1007_signed.pdf), [HB24-1152 (Accessory Dwelling Units)](https://leg.colorado.gov/sites/default/files/2024a_1152_signed.pdf), and [HB24-1304 (Minimum Parking)](https://leg.colorado.gov/sites/default/files/2024a_1304_signed.pdf) as well as various clean up items that need to be adjusted in Arvada’s Land Development Code (LDC).\n\nSpecifically, HB24-1007 prohibits local governments from limiting the number of unrelated people who can live together, with exceptions only granted for health and safety concerns, or if tied to affordable housing guidelines. Additionally, HB24-1152 requires municipalities to allow one ADU as an accessory use to a single-unit detached dwelling wherever single-unit detached dwellings are allowed, subject to an administrative approval process. And lastly, HB24-1304 restricts cities and towns from establishing or enforcing minimum parking requirements for multifamily residential developments, buildings redeveloped for residential purposes, and mixed-use buildings in which 50% of the new use is residential in specific areas near bus/train stops, etc.\n\nThe first City Council workshop that will address this legislation and the future impacts it will have on the City of Arvada's Land Development Code will take place at [6 p.m. on Monday, January 13, in City Council Chambers](https://www.arvadaco.gov/Calendar.aspx?EID=2232). For questions about this upcoming workshop, reach out to the City of Arvada’s Planning Department at 720-898-7435 or [[email protected]](/cdn-cgi/l/email-protection#deaeb1ba9ebfaca8bfbabff0b1acb9).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

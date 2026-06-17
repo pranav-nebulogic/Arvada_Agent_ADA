@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "duration",
+      "display",
+      "temporary",
+      "signs",
+      "generally",
+      "purpose",
+      "messages",
+      "used",
+      "subterfuge",
+      "circumvent"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "6-1-6-3"
+    ],
+    "chapter": "Chapter 6 SIGNS",
+    "article": "ARTICLE 6-1. SIGNS",
+    "division": "DIVISION 6-1-6. TEMPORARY SIGNS"
+  },
+  "content": {
+    "title": "6-1-6-3. Duration of display of temporary signs.",
+    "summary": "A.\tGenerally. The purpose of temporary signs is to display messages for a temporary duration.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "6-1-6-3. Duration of display of temporary signs.",
+        "a": "A.\tGenerally. The purpose of temporary signs is to display messages for a temporary duration. Temporary signs shall not be used as a subterfuge to circumvent the regulations that apply to permanent signs or to add permanent signage to a property in addition to that which is allowed by this Article.\nB.\tClassification of Temporary Sign Materials. Temporary signs are constructed from a variety of materials with varying degrees of durability. Common materials are classified in Table 6-1-6-3A, Classification of Temporary Sign Materials.\nC.\tDuration of Display.\n  1.\tIn general, a temporary sign shall be removed as of the earlier of the date that:\n    a.\tIt becomes an Abandoned Sign; or\n    b.\tIt falls into disrepair (see Section 6-1-7-1, Sign Maintenance); or\n    c.\tIf the sign is located in the MX, C, I district or OT sign district (except the OT-RN zoning subdistrict), the number of days set out in Table 6-1-6-3B, Duration of Temporary Signs by Material Classification, expires.\n  2.\tTemporary signs that are required due to governmental regulation (e.g., public notices) shall be removed as required by the applicable regulation.\nD.\tAdministrative Interpretations. Materials for signage that are not listed in this Section may be introduced into the market. When a material is proposed that is not listed in this Section, the Director shall determine the class of materials with which the new material is comparable, based on the new material's appearance, durability, and colorfastness. No temporary sign shall be displayed for a longer period than the longest permitted period in this Section, regardless of the material."
+      }
+    ],
+    "ordinance_refs": [
+      "6-1-6-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "major",
+      "street",
+      "plan",
+      "generally",
+      "layout",
+      "streets",
+      "highways",
+      "sidewalks",
+      "trails",
+      "comply"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-4-3-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-4. ACCESS, CIRCULATION, MOBILITY, AND UTILITIES",
+    "division": "DIVISION 4-4-3. STREETS"
+  },
+  "content": {
+    "title": "4-4-3-2. Major street plan.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-4-3-2. Major street plan.",
+        "a": "A.\tGenerally. The layout of streets, highways, sidewalks, and trails shall comply with the Arvada Comprehensive plan, all adopted transportation plans, and the provisions of this LDC.\nB.\tDesign Standards.\n  1.\tThe design of public streets shall reflect the nature and function of the street in relation to the proposed and existing surrounding land uses.\n  2.\tDesign and construction of public streets shall comply with the Transportation Standards in the Engineering Code of Standards and Specifications.\n  3.\tAll streets shall be designed to avoid steep grades and deep cuts to the maximum extent feasible given the site's natural topography."
+      }
+    ],
+    "ordinance_refs": [
+      "4-4-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

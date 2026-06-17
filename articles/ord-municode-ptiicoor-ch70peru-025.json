@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "pay",
+      "part",
+      "time",
+      "work",
+      "equivalent",
+      "hourly",
+      "rate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-57"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-57. - Pay for part-time work.",
+    "summary": "Pay for part-time work is at the equivalent hourly rate set forth in the pay plan.\n               Pay for holidays, sick leave, and vacation to regular and probationary part-time employees\n               is on a pro rata basis, as determined by the part-time employee's work schedule. Regular\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-57. - Pay for part-time work.",
+        "a": "Pay for part-time work is at the equivalent hourly rate set forth in the pay plan.\n               Pay for holidays, sick leave, and vacation to regular and probationary part-time employees\n               is on a pro rata basis, as determined by the part-time employee's work schedule. Regular\n               and probationary part-time employees will also pay for applicable benefits on a pro\n               rata basis, as determined by the part-time employee's work schedule. Health plan eligible,\n               variable hour, or seasonal employees who work part time hours are not eligible for\n               city benefits except as provided in\nsection 70-32\nof this chapter.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-57"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

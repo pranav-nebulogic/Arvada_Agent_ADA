@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "horses",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "ride",
+      "lead"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-26"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-26. - Horses.",
+    "summary": "It shall be unlawful for any person to ride, lead or otherwise permit any horse in\n               or upon any public park, except for posted equestrian trails and posted equestrian\n               centers.\n(Code 1960, § 17-28; Code 1981, § 22-7; Ord. No. 3028, § 1, 12-13-1993)\nCross reference—\nAnimal…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-26. - Horses.",
+        "a": "It shall be unlawful for any person to ride, lead or otherwise permit any horse in\n               or upon any public park, except for posted equestrian trails and posted equestrian\n               centers.\n(Code 1960, § 17-28; Code 1981, § 22-7; Ord. No. 3028, § 1, 12-13-1993)\nCross reference—\nAnimals,\nch. 14\n.\nState Law reference—\nPower of city council to adopt regulations as to animals, C.R.S. § 31-15-401."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-26"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

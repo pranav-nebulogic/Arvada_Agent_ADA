@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "pay",
+      "increases",
+      "rate",
+      "within",
+      "established",
+      "grade",
+      "granted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-55"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-55. - Pay increases.",
+    "summary": "(a)\nPay rate increases within an established pay grade may be granted to an employee based\n               on an employee's performance. An employee will first be considered for a pay increase\n               upon satisfactory completion of the required employment probationary period.\nThereafter, empl…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-55. - Pay increases.",
+        "a": "(a)\nPay rate increases within an established pay grade may be granted to an employee based\n               on an employee's performance. An employee will first be considered for a pay increase\n               upon satisfactory completion of the required employment probationary period.\nThereafter, employees may be considered for additional pay increases upon either the\n               satisfactory completion of each 12 subsequent months of service, or upon a date established\n               by the city manager as the annual pay increase review date until the employee reaches\n               the maximum rate of the pay grade. All pay increases will be submitted to the director\n               of human resources or a designee for review. No pay increase may be granted in excess\n               of the maximum rate for the pay grade.\n(b)\nIn instances where an employee is denied a pay increase based on performance, the\n               employee's supervisor or appointing authority will inform the employee in writing\n               of the areas in which the employee needs performance improvement. The performance\n               of an employee who is denied a pay rate increase may be reviewed again at a time determined\n               by the appointing authority.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-55"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

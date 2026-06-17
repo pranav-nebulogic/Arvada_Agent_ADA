@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "removal",
+      "designation",
+      "restricted",
+      "parking",
+      "area",
+      "traffic",
+      "engineer"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-247"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-247. - Removal of designation as restricted parking area.",
+    "summary": "(a)\nThe traffic engineer shall have the authority to remove the designation of a block\n               as a restricted parking area if any one of the following conditions occurs:\n(1)\nBy virtue of closure of the school or change in use of the property, the block or\n               some part thereof is …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-247. - Removal of designation as restricted parking area.",
+        "a": "(a)\nThe traffic engineer shall have the authority to remove the designation of a block\n               as a restricted parking area if any one of the following conditions occurs:\n(1)\nBy virtue of closure of the school or change in use of the property, the block or\n               some part thereof is no longer located within one-half mile of the closest property\n               line of a senior high school; or\n(2)\nThere are no longer residences located in the block or the block becomes located on\n               a cul-de-sac or dead-end street, or by virtue of change in use of the property, the\n               block is no longer located immediately adjacent to a public park; or\n(3)\nA written petition signed by no less than two-thirds of the property owners of the\n               block is submitted to the traffic engineer requesting that designation of the block\n               as a restricted parking area be removed; or\n(4)\nThe block becomes part of the state highway system as that term is defined in C.R.S.\n               § 43-2-101, as amended; or\n(5)\nThe traffic engineer makes a written finding, based on the totality of circumstances,\n               that such designation is no longer in the best interests of the city. The traffic\n               engineer shall specify in the writing the block or blocks in which the designation\n               shall no longer apply.\n(b)\nThe removal of a designation pursuant to this section shall nullify any parking permit\n               issued for the block or blocks in which the removal occurs. Such nullification shall\n               not be considered a denial, suspension, or revocation of the parking permit.\n(Code 1981, § 17-131; Ord. No. 2804, § 1, 4-15-1991; Ord. No. 2996, § 1, 8-16-1993;\nOrd. No. 4121, § 1, 7-21-2008\n;\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-247"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

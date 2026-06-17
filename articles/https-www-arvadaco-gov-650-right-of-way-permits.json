@@ -1,0 +1,163 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "row_permit",
+    "category": "row",
+    "source_urls": [
+      "https://www.arvadaco.gov/650/Right-of-Way-Permits"
+    ],
+    "scraped_at": "2026-06-10T11:01:26.327316+00:00",
+    "content_hash": "57f727b931ea16fc3a38853ad776870cb71956a2a4b25d48e475b93503a294be",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Right-of-Way Permits",
+    "summary": "Right-of-way permits are required for construction, reconstruction, and remodeling activities on public rights-of-way, easements, and other public property in the City of Arvada. These permits are issued only to contractors with a current Municipal General Contractor license. The permit process includes coordination with city projects, compliance with street cut moratoriums, and adherence to licensing and inspection requirements.",
+    "eligibility": "Contractors holding a current Municipal General Contractor license with the City of Arvada Engineering Division.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Check City Construction Projects and Street Cut Moratorium Maps",
+        "text": "Visit the City Construction Projects map to see if your proposed work is near a city project and coordinate with the City to minimize damage and avoid interference. Also, check the City Street Cut Moratorium map to determine if your work affects streets under moratorium, which may require special asphalt restoration requirements.",
+        "portal_url": "https://www.arvadaco.gov/650/Right-of-Way-Permits"
+      },
+      {
+        "n": 2,
+        "title": "Verify Jurisdiction",
+        "text": "Use the Maps and Property Search page to confirm that your address is within City of Arvada jurisdiction, as some locations may be under county jurisdiction.",
+        "portal_url": "https://www.arvadaco.gov/650/Right-of-Way-Permits"
+      },
+      {
+        "n": 3,
+        "title": "Ensure Licensing Requirements",
+        "text": "Confirm that you have a current General Municipal Contractor license and are in good standing with the City of Arvada. Visit the Municipal General Contractor page for more information.",
+        "portal_url": "https://www.arvadaco.gov/650/Right-of-Way-Permits"
+      },
+      {
+        "n": 4,
+        "title": "Obtain Colorado 811 Locate Confirmation",
+        "text": "Enter the Colorado 811 locate confirmation number on your application. All utilities must be identified through the locate process prior to any soil excavation or boring. If a City Utility cannot be located, attend a mandatory on-site meeting before proceeding.",
+        "portal_url": "https://www.arvadaco.gov/650/Right-of-Way-Permits"
+      },
+      {
+        "n": 5,
+        "title": "Apply Online for the Right-of-Way Permit",
+        "text": "Submit your permit application online through the City of Arvada's permitting portal. Include all required information and documentation.",
+        "portal_url": "https://www.arvadaco.gov/650/Right-of-Way-Permits"
+      },
+      {
+        "n": 6,
+        "title": "Schedule Inspections",
+        "text": "Schedule inspections online by 6 am on the desired day of inspection for every day crews are working. Inspections occur Monday through Friday between 8 am and 3 pm. Use the Arvada Permits portal to schedule inspections.",
+        "portal_url": "https://www.arvadaco.gov/650/Right-of-Way-Permits"
+      },
+      {
+        "n": 7,
+        "title": "Request Special Inspections if Needed",
+        "text": "For work outside city business hours, including Saturdays and holidays, submit a special inspection request at least two business days in advance using the Saturday Request Form.",
+        "portal_url": "https://www.arvadaco.gov/650/Right-of-Way-Permits"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Municipal General Contractor License",
+        "description": "A current General Municipal Contractor license issued by the City of Arvada Engineering Division.",
+        "where_to_get": "City of Arvada Engineering Division",
+        "example": null
+      },
+      {
+        "name": "Colorado 811 Locate Confirmation Number",
+        "description": "Confirmation number from Colorado 811 for utility locates prior to excavation.",
+        "where_to_get": "Colorado 811",
+        "example": null
+      },
+      {
+        "name": "Traffic Control Plan",
+        "description": "Required for full residential street closures as part of the right-of-way permit application.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "contractor_license_number",
+        "label": "Contractor License Number",
+        "description": "Your current Municipal General Contractor license number issued by the City of Arvada.",
+        "example_value": null,
+        "why_needed": "To verify licensing eligibility for permit issuance."
+      },
+      {
+        "field_name": "colorado_811_confirmation_number",
+        "label": "Colorado 811 Locate Confirmation Number",
+        "description": "The confirmation number from Colorado 811 indicating utilities have been located prior to excavation.",
+        "example_value": null,
+        "why_needed": "To ensure all utilities are identified before excavation begins."
+      },
+      {
+        "field_name": "traffic_control_plan",
+        "label": "Traffic Control Plan",
+        "description": "A plan detailing traffic management for full residential street closures.",
+        "example_value": null,
+        "why_needed": "Required for review when requesting full street closures."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Right-of-Way Permit Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.row_permit",
+        "notes": null
+      },
+      {
+        "name": "Sales and Use Tax",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.row_permit.sales_use_tax",
+        "notes": "Sales and Use Tax is collected on every right-of-way permit at the time of permit issuance based on the job value provided on the application."
+      }
+    ],
+    "timelines": {
+      "review": "1 to 3 business days for traffic control plan review related to street closures.",
+      "inspection": "Inspections are conducted daily Monday through Friday between 8 am and 3 pm.",
+      "total": null
+    },
+    "contact": {
+      "dept": "Engineering Division",
+      "phone": "720-898-7640",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Who is eligible to apply for a right-of-way permit?",
+        "a": "Only contractors with a current Municipal General Contractor license with the City of Arvada Engineering Division can apply."
+      },
+      {
+        "q": "Is a traffic control plan required for street closures?",
+        "a": "Yes, a traffic control plan must be submitted with the right-of-way permit application for full residential street closures."
+      },
+      {
+        "q": "How do I schedule inspections?",
+        "a": "Inspections must be scheduled online by 6 am on the desired day of inspection using the Arvada Permits portal."
+      },
+      {
+        "q": "What should I do if I need an inspection outside normal business hours?",
+        "a": "Submit a special inspection request at least two business days in advance using the Saturday Request Form."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "floodplain_development_permit",
+      "sidewalk_chase_drain_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3727
+}

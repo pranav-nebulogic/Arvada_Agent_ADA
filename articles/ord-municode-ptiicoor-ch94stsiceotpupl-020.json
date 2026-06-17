@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "city",
+      "any",
+      "property",
+      "owner",
+      "fails",
+      "comply"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-37"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-37. - Construction by city.",
+    "summary": "If any property owner fails to comply with any notice served upon him in accordance\n               with the terms of this chapter, or fails to comply with an order of the city manager,\n               or his designee, following a hearing, within the time specified therein, then the\n               wor…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-37. - Construction by city.",
+        "a": "If any property owner fails to comply with any notice served upon him in accordance\n               with the terms of this chapter, or fails to comply with an order of the city manager,\n               or his designee, following a hearing, within the time specified therein, then the\n               work order to be done in such notice may be done by the city, under the direction\n               of the director of public works, in accordance with the procedures established in\n               this chapter.\n(\nOrd. No. 4365, § 1, 11-19-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-37"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

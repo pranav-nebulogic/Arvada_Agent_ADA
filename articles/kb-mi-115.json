@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "capital",
+      "improvement",
+      "plan",
+      "budget",
+      "approach",
+      "arvadaco",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/311/Capital-Improvement-Plan"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-115",
+    "spreadsheet_id": "MI-115",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Capital Improvement Plan",
+    "summary": "The City of Arvada's Capital Improvement Plan (CIP) outlines a strategic approach for capital maintenance and investments over the next decade, updated every two years alongside the budget cycle. The current CIP can be reviewed in the 2025-2026 Biennial Operating and Capital Budget document, with past plans accessible through Munidocs.",
+    "body": "The City of Arvada Capital Improvement Plan (CIP) represents two years of a new comprehensive CIP plan that encompasses a long-term and strategic approach for the City's capital maintenance and capital investments for the next decade. The plan is updated in its entirety with each two-year budget cycle. Review the [current Capital Improvement plans beginning on page 153 of the 2025-2026 Biennial Operating and Capital Budget document](https://www.arvadaco.gov/235/Budget). Past CIPs are available to review in [Munidocs](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=6876616fb5ed5).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

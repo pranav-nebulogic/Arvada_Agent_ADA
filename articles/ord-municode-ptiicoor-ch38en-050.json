@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "penalty",
+      "violation",
+      "any",
+      "provision",
+      "article",
+      "shall",
+      "fine"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-285"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-285. - Penalty.",
+    "summary": "Penalty for violation of any provision of this article shall be a fine of not less\n               than $25.00 nor more than $500.00. Each day of a continuing violation shall be deemed\n               to be a separate violation.\n(Code 1981, § 21-80; Ord. No. 2451, § 1, 10-19-1987)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-285. - Penalty.",
+        "a": "Penalty for violation of any provision of this article shall be a fine of not less\n               than $25.00 nor more than $500.00. Each day of a continuing violation shall be deemed\n               to be a separate violation.\n(Code 1981, § 21-80; Ord. No. 2451, § 1, 10-19-1987)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-285"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

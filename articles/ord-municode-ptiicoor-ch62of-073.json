@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "parental",
+      "failure",
+      "supervise",
+      "shall",
+      "unlawful",
+      "parent",
+      "guardian"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-154"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-154. - Parental failure to supervise.",
+    "summary": "It shall be unlawful for the parent, guardian, or other adult having the care, control\n               or custody of the minor to knowingly permit or allow such minor to be or to loiter\n               in violation of\nsection 62-152\n. The term \"knowingly\" includes knowledge which a parent should be re…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-154. - Parental failure to supervise.",
+        "a": "It shall be unlawful for the parent, guardian, or other adult having the care, control\n               or custody of the minor to knowingly permit or allow such minor to be or to loiter\n               in violation of\nsection 62-152\n. The term \"knowingly\" includes knowledge which a parent should be reasonably expected\n               to have concerning the whereabouts of the minor in that adult's custody or indifference\n               to activities of the minor. The provisions of this section do not apply if the responsible\n               adult has made a missing person notification to the appropriate police department\n               prior to the minor's violation of\nsection 62-152\n.\n(\nOrd. No. 4084, § 1, 8-20-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-154"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

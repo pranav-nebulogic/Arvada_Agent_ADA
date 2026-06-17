@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "witnesses",
+      "addition",
+      "persons",
+      "called",
+      "parties",
+      "testify",
+      "hearing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-177"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-177. - Witnesses.",
+    "summary": "(a)\nIn addition to persons called by the parties to testify, the hearing officer may,\n               in his discretion and in view of the purpose of the hearing, permit other interested\n               persons to testify.\n(b)\nAny party shall have the opportunity to cross-examine any witness presented…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-177. - Witnesses.",
+        "a": "(a)\nIn addition to persons called by the parties to testify, the hearing officer may,\n               in his discretion and in view of the purpose of the hearing, permit other interested\n               persons to testify.\n(b)\nAny party shall have the opportunity to cross-examine any witness presented by another\n               party.\n(c)\nExcept as to the parties and their respective legal representatives, upon motion of\n               either party, the hearing officer may enter an order of sequestration of witnesses.\n               In any event, either party may designate one advisory witness who shall not be subject\n               to an order of sequestration.\n(d)\nA witness except a city employee is entitled to fees and mileage provided for a witness\n               in the municipal court.\n(Code 1981, § 2-142; Ord. No. 3608, §§ 1, 2, 4-3-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-177"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

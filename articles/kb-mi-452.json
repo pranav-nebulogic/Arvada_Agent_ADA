@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "records",
+      "requests",
+      "munidocs",
+      "https",
+      "public",
+      "access",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/247/Records-and-Requests"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-452",
+    "spreadsheet_id": "MI-452",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Records and Requests",
+    "summary": "The City Clerk of Arvada serves as the custodian of city records, providing public access in accordance with the Colorado Open Records Act. Over 30,000 documents, including agendas and meeting minutes, are available online, while specific records such as police, code enforcement, and municipal court records can be requested through their respective departments. For other records, residents can submit a request via the city's online portal.",
+    "body": "The City Clerk is the official custodian of city records and provides access to public records under the guidelines of the [Colorado Open Records Act](https://coloradosos.gov/pubs/info_center/cora.html).\n\n## Online Records\n\n### General Records\n\nThe City of Arvada has made over 30,000 documents available for the public to search and view through the [MuniDocs website](https://library.municode.com/co/arvada/munidocs/munidocs?default=Arvada). Types of records include agendas, meeting minutes, budgets, ordinances, resolutions and more.\n\n### Building and Development Records\n\nThe City of Arvada uses [SMART License & Permits](https://aca-prod.accela.com/ARVADA) to provide citizens and contractors the ability to search for information on permits, developments and building records.\n\n## How to Request Records\n\nFor all other records, to receive the information you are requesting as quickly as possible please make sure you are requesting documents from the correct office.\n\n### Police Records\n\nPolice Reports, Police Photos, Address Searches and Clearance Letters are made available by the Arvada Police Department. [Request Police Records](/554/Order-Police-Records).\n\n### Code Enforcement (including violations)\n\nRecords relating to city code violations such as: parking surfaces, fences, overgrown weeds, snow removal, etc. are made available by the Arvada Police Department. [Request Code Enforcement Records](/554/Order-Police-Records).\n\n### Municipal Court Records\n\nCourt cases, court records checks, dispositions, and name checks are held by the Municipal Court. [Request Court Records](/407/Records-Request-Information).\n\n### Zoning Verification Letter\n\nTo obtain an official Zoning Verification for a property in Arvada, [email Planning Division](/cdn-cgi/l/email-protection#80f0efe4c0e1f2f6e1e4e1aeeff2e7bff3f5e2eae5e3f4bddaefeee9eee7a5b2b0d6e5f2e9e6e9e3e1f4e9efeea5b2b0d2e5f1f5e5f3f4) or call the Planning Counter at 720-898-7435 to receive assistance. An Official Zoning Verification letter will provide information regarding the zoning of a property, whether it is conforming to the Land Development Code and if any zoning violations exist\n\n### All Other Records\n\nFor all other City of Arvada records submit a records request using the link below. All requests submitted here will be treated as CORA requests. [Submit Records Request](https://arvadaco.justfoia.com/publicportal/home/newrequest)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

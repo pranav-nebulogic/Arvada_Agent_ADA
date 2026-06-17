@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "duty",
+      "maintain",
+      "repair",
+      "reconstruct",
+      "shall",
+      "every",
+      "owner"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-31"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-31. - Duty to maintain, repair and reconstruct.",
+    "summary": "(a)\nIt shall be the duty of every owner of property located within the city to repair,\n               reconstruct and maintain in good order all curb, gutter and sidewalks on, abutting\n               or adjacent to the property.\n(b)\nIt is unlawful for any owner to fail, neglect or refuse to comply w…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-31. - Duty to maintain, repair and reconstruct.",
+        "a": "(a)\nIt shall be the duty of every owner of property located within the city to repair,\n               reconstruct and maintain in good order all curb, gutter and sidewalks on, abutting\n               or adjacent to the property.\n(b)\nIt is unlawful for any owner to fail, neglect or refuse to comply with the requirements\n               of any such notice served upon or in accordance with the provisions of this chapter,\n               within the time specified therein, and each day's neglect and refusal to comply with\n               the terms of said notice shall constitute a separate offense.\n(\nOrd. No. 4365, § 1, 11-19-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-31"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

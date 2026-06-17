@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-34-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "these",
+      "drains",
+      "lead",
+      "directly",
+      "local",
+      "waterways",
+      "without",
+      "treatment",
+      "Stormwater - Power Washing"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=34"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/where-do-these-drains-lead-to",
+    "faq_category_name": "Stormwater - Power Washing"
+  },
+  "content": {
+    "title": "Where do these drains lead to?",
+    "summary": "These drains lead directly to our local waterways, without treatment, and eventually flow into Clear Creek and the South Platte River, which are used by downstream communities for irrigation and drinking water.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Where do these drains lead to?",
+        "a": "These drains lead directly to our local waterways, without treatment, and eventually flow into Clear Creek and the South Platte River, which are used by downstream communities for irrigation and drinking water."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

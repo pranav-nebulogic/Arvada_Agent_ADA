@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "criminal",
+      "conspiracy",
+      "shall",
+      "unlawful",
+      "person",
+      "conspire",
+      "commit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-75"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-75. - Criminal conspiracy.",
+    "summary": "(a)\nIt shall be unlawful for a person to conspire to commit an offense. A person commits\n               conspiracy to commit a crime if, with the intent to promote or facilitate its commission,\n               he agrees with another person or persons that they, or one or more of them, will engage\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-75. - Criminal conspiracy.",
+        "a": "(a)\nIt shall be unlawful for a person to conspire to commit an offense. A person commits\n               conspiracy to commit a crime if, with the intent to promote or facilitate its commission,\n               he agrees with another person or persons that they, or one or more of them, will engage\n               in conduct which constitutes a crime or an attempt to commit a crime, or he agrees\n               to aid the other person or persons in the planning or commission of a crime or of\n               an attempt to commit such crime.\n(b)\nNo person may be convicted of conspiracy to commit a crime, unless an overt act in\n               pursuance of that conspiracy is proved to have been done by him or by a person with\n               whom he conspired.\n(c)\nIf a person knows that one with whom he conspires to commit a crime has conspired\n               with another person to commit the same crime, he is guilty of conspiring to commit\n               a crime with the other person or persons, whether or not he knows their identity.\n(d)\nIf a person conspires to commit a number of crimes, he is guilty of only one conspiracy\n               so long as such multiple crimes are part of a single criminal episode.\n(e)\nJoinder and venue in conspiracy prosecutions shall proceed as set forth herein. Subject\n               to the provisions of subsection (f) of this section, two or more persons charged with\n               criminal conspiracy may be prosecuted jointly if:\n(1)\nThey are charged with conspiring with one another; or\n(2)\nThey are charged with being involved in conspiracies that are so related as to constitute\n               different aspects of a scheme of organized criminal conduct. In such case it is immaterial\n               that the persons charged are not parties to the same conspiracy.\n(f)\nIn any joint prosecution under subsection (e) of this section:\n(1)\nNo defendant shall be charged with a conspiracy in this jurisdiction unless he entered\n               into the conspiracy in this jurisdiction, or unless he or a person with whom he conspired\n               did an overt act pursuant to such conspiracy in this jurisdiction; and\n(2)\nNeither the liability of any defendant nor the admissibility against him of evidence\n               of acts or declarations of another shall be enlarged by this joinder; and\n(3)\nThe court shall order a severance or take a special verdict as to any defendant who\n               so requests, if it deems it necessary or appropriate to promote the fair determination\n               of his guilt or innocence.\n(g)\nIt is an affirmative defense to a charge of conspiracy that the offender, after conspiring\n               to commit a crime, thwarted the success of the conspiracy, under circumstances manifesting\n               a complete and voluntary renunciation of his criminal intent.\n(h)\nIt is immaterial to the liability of a person who conspires with another to commit\n               a crime that:\n(1)\nHe or the person with whom he conspires does not occupy a particular position or have\n               a particular characteristic which is an element of the crime, if he believes that\n               one of them does; or\n(2)\nThe person with whom he conspires is irresponsible or has immunity to prosecution\n               or conviction for the commission of the crime.\n(i)\nCriminal conspiracy shall be punishable by a fine or imprisonment not to exceed the\n               limits established in\nsection 1-5\n, except that if a person is found to have conspired to commit a non-jailable offense,\n               that conspiracy shall be punishable by a fine not to exceed the limits established\n               in\nsection 1-5\n.\n(\nOrd. No. 4076, § 3, 7-16-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-75"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

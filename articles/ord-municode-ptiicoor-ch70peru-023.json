@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "non",
+      "exempt",
+      "employees",
+      "employee",
+      "works",
+      "designated",
+      "work"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-56"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-56.1. - Non-exempt employees.",
+    "summary": "(a)\nA non-exempt employee who works in the designated work week longer than 40 hours will\n               be paid for such work in excess of 40 hours at a rate equal to one and a half times\n               the employee's regular hourly rate of pay. Non-exempt employees who are regularly\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-56.1. - Non-exempt employees.",
+        "a": "(a)\nA non-exempt employee who works in the designated work week longer than 40 hours will\n               be paid for such work in excess of 40 hours at a rate equal to one and a half times\n               the employee's regular hourly rate of pay. Non-exempt employees who are regularly\n               scheduled for 12-hour shifts and who work longer than their scheduled hours during\n               the designated work week will be paid for such work in excess of their scheduled hours\n               of the week. Such non-exempt employees will be paid at a rate equal to one and a half\n               times the employee's regular hourly rate of pay.\n(b)\nOvertime worked by any employee must be authorized in advance by either the employee's\n               appointing authority or designee thereof. The following leaves will be considered\n               work days for purposes of computing overtime: sick leave, holiday, floating holiday,\n               extended care leave, fatigue leave, city closure, injury leave, bereavement leave,\n               military leave, administrative leave, and jury duty. Leave time taken, but not listed\n               herein, shall not be considered time worked for purposes of determining overtime eligibility.\n(1)\nException\n: Vacation and compensatory time taken may be used for purposes of computing overtime\n               if it is taken during a week in which an emergency service status employee works for\n               non-discretionary reasons during time which occurs immediately before or after their\n               normally scheduled hours for that day. Such time must be approved by the employee's\n               supervisor.\n(c)\nA non-exempt employee may choose to receive compensatory time in lieu of pay for overtime\n               work at a rate equal to one and a half hours for each hour of work for which overtime\n               pay is required by this section. A written agreement to permit accrual of such compensatory\n               time must be executed by the employee to permit the accrual and use of compensatory\n               time. However, if the agreement is provided, an employee can accrue no more than 40\n               hours of compensatory time. Any overtime work in excess of such 40-hour accrual limitation\n               for compensatory time will be paid to the employee as provided above. Compensatory\n               time off may be taken by a non-exempt employee at a time determined by the employee's\n               appointing authority or designee thereof, to be convenient to the city and, where\n               possible, the employee.\n(d)\nA non-exempt employee who terminates employment with the city for any reason will\n               be paid for any accrued and unused compensatory time at the hourly rate of pay of\n               the employee at the time of termination.\n(e)\nUpon notice to payroll, non-exempt employees may choose to cash out their compensatory\n               accruals at any time.\n(f)\nA non-exempt health plan eligible, variable hour, or seasonal employee required to\n               work on a city-designated holiday will be compensated at a rate equal to one and a\n               half times the employee's regular hourly rate of pay for all hours worked during that\n               holiday. When a holiday falls on a Saturday or Sunday and is observed by the city\n               on an alternate day (Friday prior or Monday following), the appointing authority shall\n               determine which day of work (the holiday or the city observed day) the non-exempt\n               health plan eligible, variable hour, or seasonal employee will receive the additional\n               compensation provided herein. The employee may only receive the additional pay for\n               one day per holiday.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-56"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

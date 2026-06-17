@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "town",
+      "grows",
+      "street",
+      "incorporation",
+      "articles",
+      "attempts",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/590/The-Town-Grows"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-552",
+    "spreadsheet_id": "MI-552",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "The Town Grows",
+    "summary": "Arvada, initially without a government, successfully incorporated on July 26, 1904, with a population of 600. Following its incorporation, the town established essential services, including electric and telephone lines, a water tank, and a fire department, and transitioned to a city by 1951, experiencing significant growth and infrastructure development, including the opening of Interstate 70 in 1967. The Arvada Police Department was formed in 1950, and the Fire Protection District evolved from a volunteer organization to a combination of volunteer and career personnel by 1999.",
+    "body": "In the early days between 1870 and 1904, Arvada had no town government. In 1903, two attempts to incorporate the town failed. Finally, the third election was held on July 26, 1904 and the vote for incorporation passed 159 to 62! Articles of Incorporation for the Town of Arvada, population 600, were filed on August 24, 1904. The town boundaries were Ralston Road to the north, Carr Street to the west, 54th Street to the south, and Lamar Street to the east.\n\n## Key Milestones Following 1904 Incorporation\n\n- The new Town Board quickly awarded franchises to provide for the installation of electric and telephone lines.\n- They hired a Town Marshal to keep order, eliminate farm animals and cats and dogs from the streets, and supervise the water ditches.\n- In 1910, the Arvada Water Tank was completed, providing artesian water to residents.\n- In 1916, Clemency McIlvoy gave land and money to establish Arvada's first park.\n- By 1917, traffic had increased on the road to the point that a warning signal had to be established at the railroad crossing.\n- Wadsworth road was \"paved.\" The first Arvada Harvest Festival was held in October of 1925 to celebrate the completion of the paved road.\n- Arvada welcomed EE. Benjamin's Arvada Flour Mill in 1925. Wheat moved through the mill with a system of bucket elevators.\n- On October 15, 1941 the first traffic light was installed at the corner of Wadsworth and Grandview. This was the first traffic light in Jefferson County!\n- World War II ended August 14, 1945, and Arvada, population 1,500, experienced a housing boom. In the years that followed, houses were built north of Ralston Road east and west from Carr Street to Independence Street.\n- Arvada became a City on November 1, 1951 (population of 2,359). The Town Board was now called a City Council and the Trustees became Councilmen or Councilwomen.\n- On March 14, 1960, a landmark contract was signed between Arvada and the Denver Water Board.\n- The first City Manager was hired in 1961.\n- On January 28, 1967, the \"super highway,\" Interstate 70, was opened between Wadsworth and Kipling streets.\n\n## Police Department\n\nIn 1941, the Town Board hired Arvada's first uniformed policeman. In 1950, the Arvada Police Department was formed, beginning its operation with a Chief and a Deputy Chief. In addition to responding to calls for service, the duo also read meters and performed many other duties.\n\n## Fire Department\n\n- In 1907, the Arvada Town Board approved the purchase of Arvada's first fire engine. In 1911, the Arvada Fire Department was formed, funded primarily by appropriations from the Town Board.\n- In 1949, local citizens approved the formation of the Arvada Fire Protection District, which transferred control and financing of the department from the Arvada City Council to a separate Board of Directors consisting of five elected officials.\n- In 1999, voters within the District supported a mill levy increase to allow the Arvada Fire Protection District to move from an all-volunteer organization to a combination volunteer/career District.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

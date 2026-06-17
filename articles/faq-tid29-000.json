@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-29-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "group",
+      "home",
+      "generally",
+      "term",
+      "refers",
+      "housing",
+      "occupied",
+      "unrelated",
+      "Group Homes"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=29"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-is-a-group-home",
+    "faq_category_name": "Group Homes"
+  },
+  "content": {
+    "title": "What is a group home?",
+    "summary": "Generally, the term Group Home refers to housing occupied by a group of unrelated persons with disabilities that are a protected class under the Federal Fair Housing Act (FFHA) and the Americans with Disabilities Act (ADA). Persons with disabilities include those with a condition that substantially …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What is a group home?",
+        "a": "Generally, the term Group Home refers to housing occupied by a group of unrelated persons with disabilities that are a protected class under the Federal Fair Housing Act (FFHA) and the Americans with Disabilities Act (ADA). Persons with disabilities include those with a condition that substantially limits major life activities, such as blindness, hearing and mobility impairment, developmental disabilities, and mental illness. These facilities provide housing, personal care, and rehabilitation services, affording individuals with disabilities the same right to use and enjoy a home as individuals without disabilities."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

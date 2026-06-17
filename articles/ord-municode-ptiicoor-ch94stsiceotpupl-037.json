@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "required",
+      "every",
+      "house",
+      "city",
+      "numbered",
+      "after",
+      "april"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-93"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-93. - Required.",
+    "summary": "Every house in the city numbered after April 21, 1975, shall be numbered by the owner\n               thereof with plain, distinct metal or composition numerals, of a color contrasting\n               with the background, not less than four inches in height, and of a design approved\n               by …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-93. - Required.",
+        "a": "Every house in the city numbered after April 21, 1975, shall be numbered by the owner\n               thereof with plain, distinct metal or composition numerals, of a color contrasting\n               with the background, not less than four inches in height, and of a design approved\n               by the city manager. Such numbers shall be placed upon some portion of the house visible\n               from the adjacent street.\n(Code 1960, § 21-13; Code 1981, § 30-103)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-93"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

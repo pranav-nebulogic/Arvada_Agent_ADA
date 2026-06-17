@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "purchase",
+      "bonds",
+      "authority",
+      "power",
+      "out",
+      "any",
+      "funds"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-61"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-61. - Purchase of bonds by authority.",
+    "summary": "The authority has power, out of any funds available therefor, to purchase any bonds\n               issued by it at a price not more than the principal amount thereof and the accrued\n               interest. All bonds so purchased shall be cancelled. This section shall not apply\n               to the…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-61. - Purchase of bonds by authority.",
+        "a": "The authority has power, out of any funds available therefor, to purchase any bonds\n               issued by it at a price not more than the principal amount thereof and the accrued\n               interest. All bonds so purchased shall be cancelled. This section shall not apply\n               to the redemption of bonds.\n(Code 1981, § 14-30; Ord. No. 1248, § 13(4), 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-215(4)."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

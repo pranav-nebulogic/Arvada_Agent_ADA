@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "purposes",
+      "article",
+      "term",
+      "requesting",
+      "party",
+      "means"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-121"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-121. - Definitions.",
+    "summary": "For the purposes of this article the term \"requesting party\" means any person, partnership,\n               joint venture, association, corporation, person in a representative capacity or other\n               legal entity or legal representative, who shall request installation of a street light.\n(Cod…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-121. - Definitions.",
+        "a": "For the purposes of this article the term \"requesting party\" means any person, partnership,\n               joint venture, association, corporation, person in a representative capacity or other\n               legal entity or legal representative, who shall request installation of a street light.\n(Code 1960, § 21-16; Code 1981, § 30-118)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-121"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

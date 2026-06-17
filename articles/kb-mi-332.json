@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "nature",
+      "center",
+      "bingo",
+      "view",
+      "card",
+      "different",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1237/Nature-Center-Bingo"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-332",
+    "spreadsheet_id": "MI-332",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Nature Center Bingo",
+    "summary": "Majestic View Nature Center offers a seasonal bingo game that helps visitors learn about local wildlife. Participants can download or pick up a bingo card, explore the park to find animals depicted on the card, and claim a prize upon completing a row. For inquiries, visitors can contact the Nature Center staff.",
+    "body": "## What's in the park right now?\n\nLearn about the different types of wildlife that you can expect to see at the Majestic View Nature Center by playing bingo!\n\nThere are bingo cards for each season that correspond with the different types of animals you can expect to see at the park during those times of the year.\n\n[Download the Bingo Card](/DocumentCenter/View/7651)\n\n### How to play Nature Center Bingo\n\n1. [Download and print the Nature Center bingo card.](/DocumentCenter/View/7651) Or pick up a copy at the Majestic View Nature Center.\n2. Explore the Majestic View Nature Center park and trails to find the animals that are depicted on your bingo card.\n3. Find four animals in a row to complete your bingo card.\n4. Bring your completed bingo card inside the Majestic View Nature Center to claim a prize!\n\nIf you have questions or think an item is missing, please email the Nature Center staff.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

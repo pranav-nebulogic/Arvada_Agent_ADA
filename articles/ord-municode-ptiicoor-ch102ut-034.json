@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fluoridation",
+      "water",
+      "supply",
+      "city",
+      "manager",
+      "hereby",
+      "authorized"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-73"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-73. - Fluoridation of water supply.",
+    "summary": "The city manager is hereby authorized and directed to provide a means for and to proceed\n               with the introduction of the fluoride ion into the water supply through the city water\n               treatment plants in such quantities as are required to maintain throughout the pipe\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-73. - Fluoridation of water supply.",
+        "a": "The city manager is hereby authorized and directed to provide a means for and to proceed\n               with the introduction of the fluoride ion into the water supply through the city water\n               treatment plants in such quantities as are required to maintain throughout the pipe\n               distribution system a fluoride ion concentration that meets the recommendations set\n               forth by the State of Colorado Department of Health and Environment.\n(Code 1981, § 33-44; Ord. No. 2574, § 1, 11-21-1988;\nOrd. No. 4246, § 1, 1-3-2011\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-73"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

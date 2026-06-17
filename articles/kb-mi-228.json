@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "flushing",
+      "water",
+      "mains",
+      "discoloration",
+      "process",
+      "advise",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/451/Flushing-Water-Mains"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-228",
+    "spreadsheet_id": "MI-228",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Flushing Water Mains",
+    "summary": "City crews flush water mains to maintain water quality, which may temporarily cause discoloration in the water. Residents are advised to run their cold water faucets for a few minutes to clear it, and if discoloration persists, they can contact Water Quality or Water Treatment. Flushing operations occur from March for about four months, targeting different zones each year, and are designed to prevent issues like stale water and mineral buildup while using water conservation methods.",
+    "body": "As part of the maintenance process, City crews flush the water mains. Occasionally this causes a slight and temporary discoloration in the water. The water is completely safe, and we advise that you simply open your COLD water faucet and allow the water to run for several minutes to clear it out.\n\nIf water discoloration persists for an extended period of time, call Water Quality at 720-898-7800 or Water Treatment at 720-898-7070.\n\n## Flushing process\n\nFlushing operations typically begin in March and last approximately 4 months. Flushing will take place Monday through Friday. This work will move around different segments of the highlighted zone. The work is weather dependent.\n\n### 2026 flushing zone\n\nRed highlighted areas are where water main flushing will take place.\n\n\\*Click the image to enlarge.\n\n[![map of Arvada with 2026 flushing zones highlighted in primarily in north west Arvada](/ImageRepository/Document?documentId=7116)](/ImageRepository/Document?documentID=7116)\n\n### When is flushing done?\n\nFlushing is usually done when temperatures are above freezing and during business hours. There are sites that need to be flushed after hours because of possible impact on traffic or safety concerns for the flushing crews.\n\n### Where is flushing done?\n\nThe City is divided into three somewhat equal parts with one-third being done each year. It takes three years to completely flush the entire water system.\n\n## Purpose of flushing\n\nFlushing helps maintain water quality in water mains.\n\nDuring the winter months when use is at its lowest, low-flow water areas invite two potential problems.\n\n1. Water can begin to go \"stale,\" meaning that the unused water slowly begins to lose its chlorine residual. Chlorine prevents bacteria growth in the system. It's important to flush out those areas before the chlorine levels drop below minimum standards.\n2. Minerals like iron and manganese (essentially rust) can build up over time in water mains. At low levels these minerals pose no health risk. If the settled sediment gets stirred up, these minerals can pass into customers’ service lines, water heaters, and faucets, causing discolored water.\n\n## Flushing and water conservation\n\nThis water release may seem like a waste, especially during dry years. In reality Arvada only flushes about 0.1% of its total annual consumption. To conserve water, the City performs unidirectional flushing which uses significantly less water than conventional flushing. Additionally, it is important to note that during flushing, released water goes back into the [stormwater system](/444).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "economic",
+      "development",
+      "association",
+      "aeda",
+      "business",
+      "businesses",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/689/Arvada-Economic-Development-Association-"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-057",
+    "spreadsheet_id": "MI-057",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Economic Development Association (AEDA)",
+    "summary": "The Arvada Economic Development Association (AEDA) serves as the business-to-government liaison for the City of Arvada, focusing on supporting commercial development for new and existing businesses to foster job creation and economic growth. Funded by the city, AEDA's board comprises 17 volunteers dedicated to enhancing the local economy, while shopping in Arvada contributes to city services through a portion of sales tax revenue.",
+    "body": "## Arvada Economic Development AssociationAbout Arvada Economic Development Association\n\nThe Arvada Economic Development Association (AEDA) is the community's business-to-government liaison. Operationally funded by the City of Arvada, AEDA's board of directors consists of 17 business and community volunteers dedicated to commercial development services to new and existing businesses, so that businesses can grow and expand to create jobs, increase revenues and make capital investments.\n\n## Explore Arvada Economic Development Association\n\nLearn more about the variety of programs AEDA offers at [Arvada Economic Development](http://www.arvadaeconomicdevelopment.org/ \"Visit Arvada Economic Development Association\").\n\n## Business Directory\n\nBy choosing to shop in Arvada, you are investing in the community. 3.46% of each purchase made in Arvada goes to pay for City services such as police, parks, and street maintenance. Keeping the dollars in Arvada helps create and retain quality jobs. Visit the [AEDA Business Directory](https://arvadaeconomicdevelopment.org/services/business-directory/ \"Visit Arvada is Open for Business (Business Directory)\") for information on Arvada businesses.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

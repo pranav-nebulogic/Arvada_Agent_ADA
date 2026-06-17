@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "prior",
+      "property",
+      "code",
+      "against",
+      "artiiisausta",
+      "authorized",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/365/Prior-Use-of-Property"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-425",
+    "spreadsheet_id": "MI-425",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Prior Use of Property",
+    "summary": "Arvada imposes a use tax on the use, storage, or consumption of tangible personal property and certain services unless sales tax is paid at the time of purchase. Exemptions include automotive vehicles registered outside the city and tangible personal property used for at least six months prior to relocation into Arvada. Businesses must declare construction equipment for use tax purposes, and credits are available for taxes paid to other municipalities, but specific conditions apply.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a use tax upon the privilege of using, storing, distributing, or otherwise consuming tangible personal property and certain taxable services in the City. If Arvada sales tax is not paid to a vendor which is licensed and authorized to collect the same at the time of purchase, then a use tax must be remitted directly to the City. Credit may be taken against Arvada's use tax for legally imposed sales or use taxes paid to other municipalities. Such credit may not exceed the Arvada use tax due. Certain tangible personal property is exempt from use tax when a resident-owned and used the property prior to being brought into Arvada and becoming an Arvada resident or business.\n\n## Automotive Vehicles\n\nAutomotive vehicles are exempt from City use tax if, at the time of purchase, the owner was a non‐resident and the vehicle was properly registered, titled, and licensed outside the City. If the owner was not a natural person, but a business, the vehicle must have been primarily garaged and maintained outside the City. This exemption does not apply to leased vehicles.\n\n## Construction Equipment\n\nConstruction equipment is subject to use tax on the full purchase price paid regardless of its age or value at the time of first use in the City. Credit is allowed for legally‐imposed sales/use tax paid to another municipality to the extent of the Arvada use tax due. Construction equipment must be declared to the City on all equipment to be used on a project. See the construction equipment declaration form and instructions on how to complete it.\n\n## Business Relocation\n\nTangible personal property, other than that described above, is subject to use tax unless it was used for its intended purpose for at least 6 months prior to a taxpayer's relocation into the City. When certain tangible personal property which has been owned, but not used for its intended purpose is moved into Arvada, it is subject to use tax if no legally imposed tax was paid of at least equal to or greater than the Arvada use tax rate. Credit is allowed for legally imposed sales and use tax paid to another municipality to the extent of the Arvada use tax due.\n\n## Example\n\nABC Construction Company moves its general offices and construction equipment garage to Arvada from Denver. Included in the move were the following:\n\n- Computer equipment was purchased 6 months earlier for $12,000 on which no municipal tax was paid. The equipment was delivered and used in the prior business. No Arvada use tax is due.\n- Office furniture was purchased 18 months ago for $100,000 which was immediately put to use at ABC's previous office location. No Arvada tax is due on the furniture.\n- A backhoe was purchased 2 years ago for $20,000 on which a 1% municipal tax or $200 was paid. No Arvada use tax is due.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "approval",
+      "conditions",
+      "generally",
+      "planning",
+      "commission",
+      "recommend",
+      "city",
+      "council",
+      "ordinance",
+      "effecting"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-4-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-4. ZONING AND REZONING"
+  },
+  "content": {
+    "title": "8-3-4-3. Approval conditions.",
+    "summary": "A.\tGenerally. The Planning Commission may recommend, and the City Council in the ordinance effecting an initial zoning or rezoning of a lot or parcel of land may impose, reasonable conditions on the rezoning.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-4-3. Approval conditions.",
+        "a": "A.\tGenerally. The Planning Commission may recommend, and the City Council in the ordinance effecting an initial zoning or rezoning of a lot or parcel of land may impose, reasonable conditions on the rezoning. The City Council may apply conditions if it finds they are necessary to ensure compliance with the approval criteria listed in Section 8-3-4-2, Approval Criteria.\nB.\tIllustrative Conditions. Conditions of approval may include, but shall not be limited to:\n  1.\tReduction in the number or types of permitted uses;\n  2.\tReductions or other limits on permitted density or intensity of development;\n  3.\tRequired review at the end of a specified period of time to determine if the construction of the allowed uses has commenced, and if not, then whether the rezoning should remain in place; or\n  4.\tConsistency with any concept plans, architectural plans, landscape plans, and/or site plans submitted by the Applicant as part of the rezoning application.\nC.\tAdoption by Ordinance.\n  1.\tRezonings (Official Zoning Map Amendments) shall be approved by ordinance."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-4-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

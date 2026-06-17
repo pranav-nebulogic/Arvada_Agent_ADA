@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "land",
+      "zoning",
+      "district",
+      "division",
+      "provides",
+      "tables",
+      "list",
+      "uses"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-1-2"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "3-1-1-2. Application of article.",
+    "summary": "A.\tLand Use by Zoning District.Division 3-1-2, Land Use by Zoning District, provides a set of tables that list the uses that are allowed in each zoning district, identifies the type of approval for a proposed use, and provides a cross-reference to applicable use-specific standards.\nB.\tUse-Specific S…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-1-2. Application of article.",
+        "a": "A.\tLand Use by Zoning District.Division 3-1-2, Land Use by Zoning District, provides a set of tables that list the uses that are allowed in each zoning district, identifies the type of approval for a proposed use, and provides a cross-reference to applicable use-specific standards.\nB.\tUse-Specific Standards.Division 3-1-3, Use-Specific Standards for Primary Land Uses, provides standards that are specific to land uses that are set out in Division 3-1-2, Land Use by Zoning District, when the land uses are allowed as limited uses or conditional uses.\nC.\tTemporary Uses.Division 3-1-4, Temporary Uses, provides standards for the location and conduct of certain temporary land uses.\nD.\tBusiness Use of the Home.Division 3-1-5, Business Use of the Home, provides standards for home occupations, and home-based child care uses.\nE.\tOil and Gas Operations.Division 3-1-6. Reserved."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

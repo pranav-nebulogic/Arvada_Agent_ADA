@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "promote",
+      "public",
+      "health",
+      "safety",
+      "welfare"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-162"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-162. - Legislative declaration.",
+    "summary": "To promote the public health, safety and welfare, and economic well-being of the city\n               and to avoid and prevent public nuisance, the city council hereby finds and declares\n               that it is in the best interests of the city to adopt procedures to evaluate the environmental\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-162. - Legislative declaration.",
+        "a": "To promote the public health, safety and welfare, and economic well-being of the city\n               and to avoid and prevent public nuisance, the city council hereby finds and declares\n               that it is in the best interests of the city to adopt procedures to evaluate the environmental\n               condition of certain property within the city, to be annexed to the city, or to be\n               acquired by the city and to provide remediation as set forth therein.\n(Code 1981, § 25-81; Ord. No. 3009, § 1, 10-4-1993)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-162"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

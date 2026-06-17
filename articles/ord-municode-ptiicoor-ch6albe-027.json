@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "state",
+      "law",
+      "applicable",
+      "amended",
+      "time",
+      "shall",
+      "apply"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-151",
+      "§ 44-3"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-151. - State law applicable.",
+    "summary": "C.R.S. § 44-3-301(10), as may be amended from time to time, shall apply to tastings\n               under this article.\n(\nOrd. No. 4670\n, § 1, 12-17-2018; Ord. No.\n4839\n, § 1, 3-20-2023)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-151. - State law applicable.",
+        "a": "C.R.S. § 44-3-301(10), as may be amended from time to time, shall apply to tastings\n               under this article.\n(\nOrd. No. 4670\n, § 1, 12-17-2018; Ord. No.\n4839\n, § 1, 3-20-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-151",
+      "§ 44-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "involved",
+      "volunteers",
+      "center",
+      "help",
+      "mission",
+      "nature",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1109/Get-Involved"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-243",
+    "spreadsheet_id": "MI-243",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Get Involved",
+    "summary": "The Nature Center relies on a dedicated team of staff and volunteers to fulfill its mission, offering various opportunities for community involvement, including teaching programs, leading activities, and participating in outreach events. Volunteers can also engage in special projects related to program development and wildlife conservation. Additionally, the Friends of Majestic View, a non-profit partner, supports the center through outreach, volunteer efforts, and fundraising initiatives.",
+    "body": "We are a small team of staff and volunteers with a wide range of skills and experience. We love what we do, and we do it with passion, but our work wouldn’t be possible without the help from volunteers and the hours they put into the Nature Center. Or the support from our visitors and organizational partners. You can help support our mission by helping the Nature Center, too!\n\n## Volunteer\n\nStaff and volunteers work towards our mission by:\n\n- Teaching public programs\n- Leading drop-in interactive activities\n- Attending outreach events (Kite Festival, Trails Day, etc.)\n- Guiding/teaching school and group programs\n- Working in the demonstration Garden, and more.\n\nThe Nature Center encourages volunteers to share their passions and connect families with nature in a variety of roles. Special projects such as program development, wildlife conservation research, or trail maintenance are offered on an “as needed” basis.\n\n## Join The Friends\n\nOur non-profit partner organization, Friends of Majestic View, support the growth of the Majestic View Nature Center through community outreach, volunteerism, and fundraising. You can learn more about the Friends group by visiting their website at [majesticviewfriends.org](https://www.majesticviewfriends.org/).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

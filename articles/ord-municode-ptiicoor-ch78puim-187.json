@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "inspections",
+      "take",
+      "place",
+      "during",
+      "after",
+      "construction",
+      "permittee"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-300"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-300. - Inspections.",
+    "summary": "Inspections will take place during and after construction. Permittee is to notify\n               the engineering division 24 hours before work begins to schedule an inspection. Approximately\n               30 days prior to the expiration of the two-year guarantee, the city shall conduct\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-300. - Inspections.",
+        "a": "Inspections will take place during and after construction. Permittee is to notify\n               the engineering division 24 hours before work begins to schedule an inspection. Approximately\n               30 days prior to the expiration of the two-year guarantee, the city shall conduct\n               a final inspection of the completed work. If the final inspection does not occur within\n               two years, the city shall be deemed to have accepted the work. If the work is still\n               satisfactory, the cash escrow or letter of credit shall be returned or allowed to\n               expire with a letter of final acceptance, less any amounts needed to complete work\n               not done by permittee. Upon review of the application for a permit, the director shall\n               determine how many additional inspections, if any, may be required. For work that\n               does not involve material disturbance in the rights-of-way, the director shall waive\n               the final inspection and the cash escrow/letter of credit.\n(Code 1981, § 27-209; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-300"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

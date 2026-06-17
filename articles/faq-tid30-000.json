@@ -1,0 +1,53 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-30-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "cable",
+      "companies",
+      "serve",
+      "arvada",
+      "xfinity",
+      "comcast",
+      "tds",
+      "Cable Companies"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=30"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-cable-companies-serve-arvada",
+    "faq_category_name": "Cable Companies"
+  },
+  "content": {
+    "title": "What cable companies serve Arvada?",
+    "summary": "Cable companies in Arvada are: Xfinity (Comcast): 303-930-2000 TDS: 866-696-8368",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What cable companies serve Arvada?",
+        "a": "Cable companies in Arvada are: Xfinity (Comcast): 303-930-2000 TDS: 866-696-8368"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "required",
+      "utilities",
+      "described",
+      "section",
+      "provided",
+      "applicant",
+      "cost",
+      "except",
+      "herein",
+      "water"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-4-5-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-4. ACCESS, CIRCULATION, MOBILITY, AND UTILITIES",
+    "division": "DIVISION 4-4-5. UTILITIES"
+  },
+  "content": {
+    "title": "4-4-5-1. Required utilities.",
+    "summary": "A.\tRequired Utilities.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-4-5-1. Required utilities.",
+        "a": "A.\tRequired Utilities. The utilities described in this Section shall be provided by the Applicant, at the Applicant's cost, except as provided herein.\nB.\tWater and Sewer Lines.\n  1.\tThe Applicant shall design and install, at the Applicant's cost, all water and sanitary sewer lines and necessary appurtenances (e.g., fire hydrants, meters, blowoffs, cleanouts, valves, etc.) to serve its proposed development.\n  2.\tWhere water mains are required, water main sizes shall meet the minimum requirements of City and the fire district with jurisdiction over the subject property.\n  3.\tAll water and sanitary sewer mains shall be not less than eight inches nominal diameter, unless smaller diameters are permitted by the design criteria of the City.\nC.\tElectric Power and Natural Gas. Electric power and natural gas lines shall be installed underground pursuant to the standards set forth in Section 4-4-5-2, Underground Installation. The Applicant shall make the necessary arrangements, including payment for any construction or installation charges, with each of the serving utilities for the installation of such lines.\nD.\tWired Communications. The Applicant shall provide for wired communications services, which may be telephone lines, cable lines, or fiber optic lines. The Applicant shall make the necessary arrangements, including payment for any construction or installation charges, with each of the serving utilities for the installation of such lines."
+      }
+    ],
+    "ordinance_refs": [
+      "4-4-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

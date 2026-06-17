@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "deferred",
+      "compensation",
+      "board",
+      "plan",
+      "acts",
+      "administer",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1452/457-Deferred-Compensation-Board"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-010",
+    "spreadsheet_id": "MI-010",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "457  Deferred Compensation Board",
+    "summary": "The 457 Deferred Compensation Board oversees a tax-advantaged retirement savings plan for state and local government employees, managing plan records, vendor relationships, and investment options. The Board consists of five members, including a citizen representative, and meets quarterly at City Hall to discuss plan administration. Members are appointed for four-year volunteer terms.",
+    "body": "## Overview\n\nA 457 Deferred Compensation Plan is a tax-advantaged retirement savings tool for state/local government employees. It allows pre-tax and Roth post-tax contributions from paychecks up to a specific annual amount. This Board acts in the interests of the City team it represents.\n\nThe 457 Deferred Compensation Board:\n\n- Acts as the Plan Administrator\n- Maintains the necessary Plan records\n- Hires, directs, administers and meets with third party vendors to administer the Plan\n- Selects, monitors and when necessary, replaces investment options to best serve the Plan participants\n\n## Meeting Information\n\n- Board meetings are held once per quarter on the second Thursday of February, May, August and November from 9 to 11 a.m. at City Hall\n\n## Board Details\n\n- 5 members, including a citizen representative\n- Volunteer appointment for a four-year term",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

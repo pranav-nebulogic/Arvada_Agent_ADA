@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "floodplain",
+      "management",
+      "debris",
+      "ditch",
+      "maintenance",
+      "please",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1004/Floodplain-Management"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-010",
+    "spreadsheet_id": "RW-010",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Floodplain Management",
+    "summary": "The City conducts regular inspections of creeks and drainage systems to prevent flooding and maintain clear channels, while also developing plans for storm drainage improvements. Property owners in floodplains may need a separate floodplain development permit for construction activities. Residents are encouraged to report flooding concerns and help protect local waterways.",
+    "body": "## What the City does\n\n### Maintenance and mitigation efforts\n\nThe City inspects creeks and drainage ways each spring and summer to keep channels clear of debris. If you see debris or other blockages, please [submit the concern online](/898) or contact the Streets Division at 720-898-7720.\n\n- Please note: irrigation ditch maintenance is the responsibility of the ditch owner.\n\n### Short and long range planning for resiliency\n\nEven outside of the mapped floodplain, everyone has flood risk. The City builds and maintains storm drainage pipes and open channels to reduce flooding problems. Over time, these storm drainage systems need to be repaired, replaced and sometimes expanded. The City team creates short and long range plans to prioritize these needs around the city.\n\n### Floodplain permits\n\nIf your property is in a floodplain, in addition to a building permit, a separate floodplain development permit may be required in order to build on, alter, regrade, or fill your property. Visit the [Right-of-Way Permit page](/650) for more information.\n\n## How you can help\n\n### [Report Concerns](/898)\n\nReport concerns about flooding or drainage issues in your neighborhood and concerns about construction in flood zones.\n\n### [Protect Waterways](/445)\n\nHelp protect our waterways with these 8 simple steps.\n\n## City Partners\n\n### Mile High Flood District (MHFD)\n\nMHFD is a multi-jurisdictional entity that provides assistance and resources to local governments and municipalities' flood and draining control. Visit the [MHFD website](http://www.mhfd.org) for more information.\n\n### Federal Emergency Management Agency (FEMA)\n\nFEMA provides a variety of resources to the City and property owners in floodplains.\n\nMore resources are available on the [FEMA website for Floodplain Management.](https://www.fema.gov/floodplain-management)\n\n#### FEMA Flood Publications\n\n1. [Above the Flood: Elevating Your Floodprone House, FEMA-347 (PDF)](https://www.arvadaco.gov/DocumentCenter/View/978/Above-the-Flood-Elevating-Your-Floodprone-House-FEMA-347-PDF)\n2. [Answers to Questions About the National Flood Insurance Program, F-084 (PDF)](https://agents.floodsmart.gov/resource-library/nfip-answers-to-questions)\n3. [Elevated Residential Structures, FEMA-54 (PDF)](https://www.fema.gov/sites/default/files/documents/fema54_elevated_residential_structures.pdf)\n4. [Protecting Building Utilities from Flood Damage, FEMA P-348 (PDF)](https://www.fema.gov/sites/default/files/2020-07/fema_p-348_protecting_building_utility_systems_from_flood_damage_2017.pdf)\n5. [Protecting Floodplain Resources, FEMA-268 (PDF)](https://www.arvadaco.gov/DocumentCenter/View/982/Protecting-Floodplain-Resources-FEMA-268-PDF)\n6. [Protecting Manufactured Homes from Floods and Other Hazards, FEMA P-85 (PDF)](https://www.fema.gov/sites/default/files/2020-08/fema_p85.pdf)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "complaint",
+      "resolution",
+      "process",
+      "employee",
+      "specific",
+      "described",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-168"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-168.1. - Complaint resolution process.",
+    "summary": "(a)\nIf an employee has a specific complaint described in\nsection 70-168\n(a), the employee may file a formal complaint by following the city's complaint resolution\n               process stated below:\n(1)\nStep 1.\nWithin ten days of the event at issue or within ten days from the date where the\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-168.1. - Complaint resolution process.",
+        "a": "(a)\nIf an employee has a specific complaint described in\nsection 70-168\n(a), the employee may file a formal complaint by following the city's complaint resolution\n               process stated below:\n(1)\nStep 1.\nWithin ten days of the event at issue or within ten days from the date where the\n               employee should have known of the event at issue, the employee shall both notify the\n               human resources department of the complaint and discuss the issue with their immediate\n               supervisor. The immediate supervisor shall consider the points raised by the employee\n               during the discussion and complete any necessary investigation. Following the discussion,\n               the immediate supervisor shall issue a written decision on the issue and provide the\n               decision to the employee within ten days of the discussion. The supervisor shall provide\n               a copy of the written decision to the human resources department.\n(2)\nStep 2.\nIf Step 1 does not resolve the issue and the employee wishes to proceed with the\n               complaint, the employee shall bring the complaint to the attention of the next level\n               supervisor in writing within ten days of the issuance of the immediate supervisor's\n               written decision. The employee shall provide a copy of the written complaint to the\n               human resources department. The next level supervisor shall consider the written documentation\n               provided by the employee and immediate supervisor, and complete any necessary investigation.\n               The next level supervisor shall issue a written decision on the issue within ten days\n               of receiving the written documentation from the employee and immediate supervisor.\n               The next level supervisor shall provide a copy of the written decision to the human\n               resources department.\n(3)\nStep 3.\nThe process in Step 2 may be repeated with each higher level of management including\n               the employee's department director. For performance appraisal concerns or a concern\n               involving a reprimand that does not involve a suspension without pay or demotion,\n               the decision of the department director is final in this administrative process.\n(i)\nIf the employee's department director under this Step 3 is the city manager, the city\n               manager will render a decision consistent with Step 4, including the 20-day timeline.\n               Any decision made by the city manager is final in this administrative process. This\n               administrative process then ends and the employee is not entitled to any further review\n               under Step 4.\n(4)\nStep 4.\nIf the department director's decision regarding a complaint about working conditions,\n               working practices, or health or safety practices, the employee shall bring the complaint\n               to the city manager in writing within ten days of the receipt of the department director's\n               decision. The city manager will review the written documentation from the employee\n               and the employee's supervisor(s) and complete any necessary investigation. The city\n               manager will respond to the employee in writing within 20 days of receiving the written\n               documentation. The decision of the city manager is final in this administrative process.\n               The city manager will provide a copy of the written decision to the human resources\n               department.\n(b)\nIf the employee's immediate supervisor, next level supervisor, department director,\n               or city manager fails to respond to a complaint at any step of the process within\n               the specified time limit, it will be considered a denial of the complaint. If the\n               employee still wishes to proceed, the employee must proceed to the next step of the\n               complaint resolution process, if any, within the time limits provided as if a formal\n               denial had been rendered on the last day allowed for the supervisor, next level supervisor,\n               or department director, to respond. In the event the employee does not appeal a complaint\n               from one step to the next within the time limits specified, the complaint shall be\n               considered resolved on the basis of the last response by the immediate supervisor,\n               next level supervisor, department director, or city manager, as the case may be. With\n               the agreement of both parties in writing, time limits may be extended.\n(c)\nThe city will not permit retaliation or discrimination against anyone who raises a\n               complaint under this process.\n(\nOrd. No. 4862\n, § 1, 10-16-2023;\nOrd. No. 4890\n, § 14, 2-10-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-168"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

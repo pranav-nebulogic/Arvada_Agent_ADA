@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "discharge",
+      "partial",
+      "improper",
+      "jurors",
+      "completion",
+      "incomplete",
+      "juries"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-45"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-45. - Discharge of partial or improper jurors; completion of incomplete juries.",
+    "summary": "If any juror summoned shall be interested in the event of the case or kin to a defendant,\n               or shall have expressed his opinion on the matter about to be tried or shall, for\n               any cause to be judged by the judge of the municipal court, be considered as a partial\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-45. - Discharge of partial or improper jurors; completion of incomplete juries.",
+        "a": "If any juror summoned shall be interested in the event of the case or kin to a defendant,\n               or shall have expressed his opinion on the matter about to be tried or shall, for\n               any cause to be judged by the judge of the municipal court, be considered as a partial\n               or improper juror, the judge shall discharge such juror. When, by such discharge or\n               failure of any juror to attend, the jury shall not be complete, the judge shall direct\n               any police officer of the city or the sheriff of the county to summon as many persons\n               as shall be required to complete such jury, instantly, from among the bystanders or\n               other persons in the city, which summons shall be verbal. The person so summoned shall\n               be bound to serve on such jury and, on refusal or failure to do so, may be attached\n               and punished for contempt.\n(Code 1960, § 1-13; Code 1981, § 18-33)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-45"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

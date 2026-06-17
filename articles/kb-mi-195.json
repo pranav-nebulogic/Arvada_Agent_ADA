@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "document",
+      "center",
+      "civicengage",
+      "documentcenter",
+      "documents",
+      "start",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/DocumentCenter"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-195",
+    "spreadsheet_id": "MI-195",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Document Center • Arvada, CO • CivicEngage",
+    "summary": "The Document Center in Arvada, CO, allows users to filter and access various documents by specifying date ranges and times. It serves as a centralized resource for civic documents and information.",
+    "body": "[![Document Center module icon](/Areas/DocumentCenter/Assets/Images/DocumentCenterModuleIconLarge.png)](/DocumentCenter)\n\n### Filter Documents by:\n\nFrom \n\nStart Date\n\nStart Time\n\nTo \n\nEnd Time\n\nFolders\n\n Documents",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

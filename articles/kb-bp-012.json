@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "construction",
+      "building",
+      "reconciliation",
+      "code",
+      "materials",
+      "permit",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/310/Construction-Building-Use-Tax-Reconcilia"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-012",
+    "spreadsheet_id": "BP-012",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Construction Building Use Tax Reconciliation",
+    "summary": "The Arvada Municipal Code mandates that use tax on construction materials must be paid directly to the City for projects requiring a building permit, unless exempt. Contractors are responsible for paying this tax and must provide permits to subcontractors to avoid double taxation. An estimated use tax is calculated based on the project's valuation, and contractors must reconcile this estimate with the actual tax liability upon project completion.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) requires that use tax must be paid directly to the City on all construction materials used in projects requiring a City building permit unless the project is exempt. To avoid potential double taxation, contractors should present the permit when purchasing construction materials in order to qualify for an exemption from City sales tax.\n\nPayment of building use tax is the responsibility of the general contractor. The general contractor should provide copies of the building permit to sub-contractors on a project so they too may purchase construction materials without paying City tax.\n\n## Estimated Prepayment of Building Use Tax\n\nA use tax estimate is computed and collected when the permit is issued and is based on the total value of construction. To calculate the use tax, first take the valuation of the project and multiply it by the appropriate construction cost percentage (listed below) to determine the estimated amount of materials that will be taxed for the project. This amount should then be multiplied by the 3.46%, the Arvada use tax rate. The contractor must reconcile the actual use tax liability with the estimated pre-payment at the conclusion of the project.\n\n### Construction Cost Percentage\n\n- 58% Effective January 1, 2026\n- 57% Effective January 1, 2025\n- 58% Effective January 1, 2018\n- 56% Effective January 1, 2017\n- 50% Effective prior to January 1, 2017\n\n### Example\n\n- $500,000 (Total Project Valuation) × 58% (Construction Cost Percentage) = $290,000 (Estimated Materials Cost)\n- $290,000 (Estimated Materials Cost) × 3.46% (Use Tax Rate) = $10,034 (Estimated Pre-Payment of Building Use Tax)\n\n**Construction materials shall mean** tangible personal property which, when combined with other tangible personal property, loses its identity to become an integral and inseparable part of a complete structure or project including public and private improvements. Construction materials include but are not limited to, such things as asphalt, bricks, builders' hardware, caulking material, cement, concrete, conduit, electric wiring, and connections, fireplace inserts, electrical heating and cooling equipment, flooring, glass, gravel, insulation, lath, lead, lime, lumber, macadam, millwork, mortar, oil, paint, piping, pipe valves and pipe fittings, plaster, plumbing fixtures, putty, reinforcing mesh, road base, roofing, sand, sanitary sewer pipe, sheet metal, site lighting, steel, stone, stucco, tile, trees, shrubs, and other landscaping materials, wallboard, wall coping, wallpaper, weather stripping, wire netting, and screen, water mains and meters, and wood preserver.\n\n**Note:** Items that would **not**qualify as construction materials and are subject to City tax would include but are not limited to the above-listed construction materials when used for forms, or other items which do not remain as an integral or inseparable part of a completed structure or project. Also, any other items such as tools, ladders, saw blades, drill bits, sandpaper, rags, paint brushes, paint rollers, light bulbs, drinks or food, drop cloths, sponges, cleaning supplies, appliances, masking tape, buckets, etc.\n\n## Claim for Refund & Use Tax Return\n\n[The refund claim form can be submitted online.](https://arvada-forms.app.transform.civicplus.com/forms/32840)\n\nIt is important to note that the use tax paid on the permit is strictly an estimate. This method is allowed solely as a convenience and does not alter the fact that the actual cost of materials is the proper basis for determining actual use tax due. The general contractor is responsible for computing the actual cost of construction materials used in the project, including those used by sub-contractors. If the general contractor fails to file a Construction Project Cost Report, and a subsequent audit discloses a deficiency, the general contractor will be assessed for all such tax, and applicable penalties and interest.\n\n## Underpayment - Additional Use Tax Due\n\nIf the actual use tax due is greater than the estimated pre-payment (underpayment) then the difference must be remitted within 30 days of the date of the Certificate of Occupancy. The general contractor will be allowed to remit this difference without penalty and interest provided it is remitted within the 30-day period.\n\n## Overpayment - Refund Request\n\nIf the actual use tax due is less than the estimated pre-payment (overpayment), the contractor may request the difference as a refund.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "location",
+      "setbacks",
+      "separation",
+      "generally",
+      "portion",
+      "extend",
+      "beyond",
+      "property",
+      "line",
+      "wcfs"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-3-4"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-3. GENERALLY APPLICABLE DESIGN STANDARDS"
+  },
+  "content": {
+    "title": "7-1-3-4. Location, setbacks, and separation.",
+    "summary": "A.\tGenerally. No portion of any WCF may extend beyond the property line. WCFs shall be located and designed utilizing design characteristics that have the effect of reducing or eliminating visual obtrusiveness. The height and size of WCFs should be minimized as much as possible.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-3-4. Location, setbacks, and separation.",
+        "a": "A.\tGenerally. No portion of any WCF may extend beyond the property line. WCFs shall be located and designed utilizing design characteristics that have the effect of reducing or eliminating visual obtrusiveness. The height and size of WCFs should be minimized as much as possible. All WCFs shall comply with the setbacks of the underlying zoning district.\nB.\tNo Impact on Required Parking. WCFs shall be sited in a location that does not reduce the parking for the other principal uses on the parcel (if any) below the standards set out in Article 4-5, Parking and Loading (including, if applicable, parking reductions), or applicable Planned Unit Development approval.\nC.\tNo Unreasonable Interference with the Use of the Right of Way.\n  1.\tThe WCF shall not alter vehicular circulation or parking within the right-of-way or impede vehicular, bicycle, or pedestrian access or visibility along the right-of-way.\n  2.\tThe WCFs must comply with the Americans with Disabilities Act and every other local, state, and federal law and regulations.\n  3.\tNo WCFs may be located or maintained in a manner that causes \"unreasonable interference\" of use of the right-of-way. For the purposes of this subsection, unreasonable interference means any use of the right-of-way that disrupts or interferes with its use by the City, the general public, or other person authorized to use or be present upon the right-of-way, when there exists an alternative that would result in less disruption or interference. Unreasonable interference includes any use of the right-of-way that disrupts vehicular or pedestrian traffic, any interference with public utilities, and any other activity that will present a hazard to public health, safety, or welfare.\nD.\tNo Impact on Required Landscape Areas. WCFs shall be sited in a manner that does not reduce the landscaped areas for the other principal uses on the parcel (if any), below the standards of Article 4-6, Landscaping and Buffering, or applicable Planned Unit Development approval.\nE.\tAdjacent Uses. WCFs shall be sited in a manner that evaluates the proximity of the facility in relation to nearby properties and the compatibility of the facility to those uses. WCFS shall not be placed on residential buildings excluding multi-family and mixed use buildings. Applications for multi-family and mixed use buildings shall be evaluated on a case-by-case basis to assess potential community and aesthetic impacts\nF.\tIngress/Egress. Visual impacts of the proposed ingress and egress shall be minimized.\nG.\tElectric Distribution Structures. Small Cell Facilities attached to electric distribution alternative tower structures should be located at the minimum height necessary to provide the safety clearance required by the utility (if applicable) and technically provide adequate service."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-3-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

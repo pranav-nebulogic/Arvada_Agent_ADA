@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "interpretation",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "code",
+      "defined",
+      "below",
+      "elsewhere",
+      "director"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "11-3-2-1"
+    ],
+    "chapter": "Chapter 11 MEASUREMENTS, RULES OF CONSTRUCTION, AND DEFINITIONS",
+    "article": "ARTICLE 11-3. DEFINITIONS",
+    "division": "DIVISION 11-3-2. INTERPRETATION"
+  },
+  "content": {
+    "title": "11-3-2-1. Interpretation.",
+    "summary": "For words, terms, and phrases used in this Code that are not defined below, or elsewhere in this Code, the Director shall have the authority and power to interpret or define such words, terms, and phrases.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "11-3-2-1. Interpretation.",
+        "a": "For words, terms, and phrases used in this Code that are not defined below, or elsewhere in this Code, the Director shall have the authority and power to interpret or define such words, terms, and phrases. (See Section 8-3-11-7, Official Interpretations.) In making such interpretations or definitions, Staff may consult secondary sources related to the planning profession, such as A Planners Dictionary - Planning Advisory Service Report Number 521/522, edited by Michael Davidson and Fay Dolnick (American Planning Association, Chicago, Ill. 2004); The Complete Illustrated Book of Development Definitions, by Harvey S. Moskowitz and Carl G. Lindbloom (Center for Urban Policy Research, Rutgers University. N.J. 4th ed. 2015), for technical words, terms and phrases; or Merriam-Webster Dictionary (Random House Reference and Information Publishing, New York, 2016), as supplemented, for other words, terms and phrases."
+      }
+    ],
+    "ordinance_refs": [
+      "11-3-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

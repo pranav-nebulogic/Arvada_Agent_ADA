@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "floodplain",
+      "administrator",
+      "generally",
+      "city",
+      "engineer",
+      "their",
+      "designated",
+      "representative",
+      "administer",
+      "regulation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-1-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-1. CITY STAFF AND REFERRAL AGENCIES"
+  },
+  "content": {
+    "title": "8-1-1-4. Floodplain administrator.",
+    "summary": "A.\tGenerally. The City Engineer, or their designated representative, shall be the Floodplain Administrator and shall administer the floodplain regulation set forth in Division 4-1-2, Floodplain Regulations.\nB.\tDuties and Responsibilities.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-1-4. Floodplain administrator.",
+        "a": "A.\tGenerally. The City Engineer, or their designated representative, shall be the Floodplain Administrator and shall administer the floodplain regulation set forth in Division 4-1-2, Floodplain Regulations.\nB.\tDuties and Responsibilities. The Floodplain Administrator's powers and duties under this LDC are set out in this subsection.\n  1.\tFloodplain Development Permits. The Floodplain Administrator shall review Floodplain Development Permit applications to determine if the applicable permit requirements of Division 4-1-2, Floodplain Regulations, have been satisfied and take final action to approve, approve with conditions, or deny such applications. In so doing, the Floodplain Administrator shall ensure that all other necessary permits have been obtained from those governmental agencies from which prior approval is required by federal or state law and make a determination that the proposed building site, including placement of mobile homes, will be reasonably safe from flooding.\n  2.\tMapping and Boundary Interpretations. The Floodplain Administrator shall make interpretations regarding the FIRM boundaries of the Flood Regulatory Floodplain, Floodway, and Flood Fringe Sub-Zones and regarding final floodplain boundaries in accordance with Section 4-1-2-5(B).\n  3.\tReports to Hearing Officer on Appeals and Variances. The Floodplain Administrator shall prepare reports to assist the Floodplain Hearing Officer in his or her consideration of Administrative Reviews (appeals) and Floodplain Variances.\n  4.\tOther Matters. The Floodplain Administrator shall have the following other duties and responsibilities:\n    a.\tObtain and Maintain Floodplain Information:\n      i.\tObtain and record the actual elevation (in relation to mean sea level) of all new or substantially improved structures within the Regulatory Floodplain, whether or not the structure contains a basement.\n      ii.\tFor all new or substantially improved flood-proofed structures:\n        (1)\tVerify and record the actual elevations (in relation to mean sea level) to which the structure has been flood-proofed.\n        (2)\tMaintain the flood-proofing certification required in Section 4-1-2-6, Regulatory Floodplain - General Standards.\n      iii.\tMaintain for public inspection all records pertaining to the provisions of the floodplain regulations, including appeals and variances.\n        (1)\tReport variances to FEMA upon request.\n    b.\tFor Any Alteration of Watercourses:\n      i.\tNotify the Colorado Water Conservation Board, Urban Drainage and Flood Control District (\"UDFCD\"), U.S. Army Corps of Engineers (\"USACE\"), and adjacent communities prior to any alteration or relocation of a watercourse, and submit evidence of such notification to the FEMA.\n      ii.\tRequire that maintenance is provided within the altered or relocated portion of said watercourse so that flood-carrying capacity is not diminished.\n      iii.\tEnsure that the flood-carrying capacity within the altered or relocated portion of any watercourse is maintained.\n      iv.\tUnder the provisions of 44 CFR Chapter 1, Section 65.12, of the National Flood Insurance Program regulations, the City may approve certain development in zones A1-30, AE, AH, on the City's FIRM which increases the water surface elevation of the base flood by more than one-half foot, provided that the Applicant first applies for a conditional FIRM revision through FEMA (CLOMR); fulfills the requirements for such revisions as established under the provisions of Section 65.12; and receives FEMA approval.\n(Ord. No. 4867, § 4, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-1-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

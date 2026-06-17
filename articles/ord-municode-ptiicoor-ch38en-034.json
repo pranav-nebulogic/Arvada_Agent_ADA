@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "assessment",
+      "any",
+      "person",
+      "violates",
+      "section",
+      "weeds"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-212"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-212. - Notice and assessment.",
+    "summary": "(a)\nAny person who violates section 302.4, Weeds, of the International Property Maintenance\n               Code (I.P.M.C.) shall be served a written notice of violation. Service of the notice\n               may be by first class mail properly addressed to the dwelling or building located\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-212. - Notice and assessment.",
+        "a": "(a)\nAny person who violates section 302.4, Weeds, of the International Property Maintenance\n               Code (I.P.M.C.) shall be served a written notice of violation. Service of the notice\n               may be by first class mail properly addressed to the dwelling or building located\n               on the lot or tract of land upon which a violation of this article occurs; by a conspicuous\n               posting of the written notice of violation upon the dwelling or building located on\n               the lot or tract of land upon which a violation of said section occurs; or by personal\n               service upon a natural person over the age of 18 years who occupies a dwelling or\n               building or a lot or tract of land upon which a violation of said section occurs.\n(b)\nIf a notice of violation cannot be served in any manner specified above, the notice\n               of violation shall be sent by first class mail to the owner of record of such lot\n               or tract of land as shown in the records of the county.\n(c)\nThe notice will state that the weeds must be cut to a height less than eight inches\n               and/or noxious weeds removed within seven calendar days from the date of the notice\n               and, if not so cut or removed by the owner or occupant, the city will cut the weeds\n               or may cut or remove the noxious weeds and assess the whole cost thereof, including\n               five percent for inspection and incidental costs, upon the lots or tracts of land\n               from which the plants are controlled or removed.\n(d)\nThe city will serve such a notice on the same violator only once during any calendar\n               year. Thereafter, in the event of a subsequent violation by the same person within\n               the same calendar year, the city will cut the weeds or may cut or remove the noxious\n               weeds and assess the whole cost thereof, including five percent for inspection and\n               incidental costs, upon the lots or tracts of land from which the weeds are cut or\n               noxious weeds are cut or removed, without serving an additional notice on the violator.\n(Ord. No. 4095, § 4, 11-19-2007)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-212"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

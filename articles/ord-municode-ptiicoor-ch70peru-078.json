@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "conflict",
+      "interest",
+      "employees",
+      "obligation",
+      "refrain",
+      "activities",
+      "interfere"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-154"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-154. - Conflict of interest.",
+    "summary": "(a)\nEmployees have an obligation to refrain from activities which conflict or interfere\n               with the city's operations such as, but not limited to, outside employment, sharing\n               privileged or confidential information, outside business interests, and accepting\n               g…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-154. - Conflict of interest.",
+        "a": "(a)\nEmployees have an obligation to refrain from activities which conflict or interfere\n               with the city's operations such as, but not limited to, outside employment, sharing\n               privileged or confidential information, outside business interests, and accepting\n               gifts or gratuities.\n(b)\nAn employee must seek written permission from the appointing authority prior to engaging\n               in secondary employment. Paid secondary employment may be allowed as long as it in\n               no way interferes with an employee's position or performance at the city. In addition,\n               the secondary employer must not be a supplier of materials or contractor of services\n               for the city if it creates a conflict of interest or an appearance of a conflict of\n               interest.\n(c)\nAn employee may not use plans, programs, or information of public interest for personal\n               gain or to benefit friends, family, and/or acquaintances. If an employee has an outside\n               interest which could be affected by any city plan or activity, the employee must report\n               this immediately to their supervisor. Employees are responsible for ensuring that\n               only information that is appropriate to share with the general public is released.\n(d)\nOutside business interests which would create a conflict of interest may include having\n               a personal financial relationship with any individual or business organization, other\n               than a regulated financial institution, that furnishes supplies, merchandise, property,\n               or services to the city.\n(e)\nAn employee may not accept gifts or gratuities from any individual or organization\n               currently or proposed to do business with the city; however, unsolicited advertising\n               or promotional items valued under $50.00 may be retained by an employee and perishable\n               items may be retained if they are made available to others. An employee may not accept\n               items which are not business related, such as, but not limited to tickets to sporting\n               or cultural events. This prohibition is not intended to apply to the purchase of a\n               meal in a setting where the attendees are discussing city business, unless otherwise\n               prohibited by departmental policies.\n(f)\nCity employees may only solicit businesses for activities which benefit the community\n               and/or which are approved by the city manager.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-154"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

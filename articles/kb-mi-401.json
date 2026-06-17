@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "payment",
+      "municipal",
+      "court",
+      "fines",
+      "check",
+      "made",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/403/Payment-of-Municipal-Court-Fines"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-401",
+    "spreadsheet_id": "MI-401",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Payment of Municipal Court Fines",
+    "summary": "Fines and costs for the Arvada Municipal Court are due on the day of sentencing and can be paid in person, by mail, online, or via a drop box. Payments can be made in various forms, including credit cards, cash, checks, or money orders, with specific instructions provided for each method. Online payments may incur a transaction fee, and not all offenses are eligible for online resolution.",
+    "body": "Fines and costs are due on the day of sentencing.\n\n## Pay in Person\n\nArvada Municipal Court, 8101 Ralston Road, from 8:30 am to 4:30 pm, Monday through Friday excluding holidays. We accept Visa, MasterCard, cash, check or money order made payable to City of Arvada.\n\n## Pay by Mail\n\nSend check or money order made payable to City of Arvada to:\n\nArvada Municipal Court  \nP.O. Box 8101  \nArvada, CO 80002\n\n## Pay by Credit Card Online\n\n[Pay online.](https://mobile.citepayusa.com/?agency=ArvadaMuni) There will be a transaction fee assessed by the vendor. Please note: **not all offenses** are eligible for online resolution. The system will indicate if your charge is or is not eligible. If it is not eligible, you will need to appear on your court date.\n\n## Pay by Drop Box\n\nPlace your payment in our after-hours black drop box located outside the court entrance at 8101 Ralston Road. Please include your name and summons number on the envelope to ensure your case will be credited properly.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

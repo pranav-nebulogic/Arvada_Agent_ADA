@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "redemption",
+      "bonds",
+      "whenever",
+      "considered",
+      "advisable",
+      "finance",
+      "director"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-92"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-92. - Redemption of bonds.",
+    "summary": "Whenever considered advisable by the finance director, he may, and whenever funds\n               may be in his hands to the credit of any district exceeding the amount of interest\n               on the unpaid principal becoming due on and prior to one year next after the last\n               interest…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-92. - Redemption of bonds.",
+        "a": "Whenever considered advisable by the finance director, he may, and whenever funds\n               may be in his hands to the credit of any district exceeding the amount of interest\n               on the unpaid principal becoming due on and prior to one year next after the last\n               interest payment date, and, if maturing serially, the principal becoming due on the\n               next principal payment date, he shall, subject to the provisions concerning the payment\n               of bonds of the district prior to maturity in the bonds and in any ordinance appertaining\n               to their issuance, by publication at least once not less than 15 days prior to the\n               redemption date, call in a suitable number of bonds of the district for payment, for\n               the principal amount thereof, accrued interest to the redemption date, and any prior\n               redemption premium due thereon. After the redemption date so designated, interest\n               on the bonds so called shall cease. Nothing herein contained shall be construed as\n               preventing the city from providing that such bonds shall be redeemed only on interest\n               payment dates. The notice shall specify the bonds so called by number, and all such\n               bonds shall be paid in the order designated in any such ordinance. The holder of any\n               bonds may at any time furnish his post office address to the finance director, and\n               in such case a copy of such advertisement shall be mailed by the finance director\n               to the holder of the bonds called at such address within three days of the date of\n               such publication.\n(Code 1981, § 27-93; Ord. No. 551, § 33, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-92"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

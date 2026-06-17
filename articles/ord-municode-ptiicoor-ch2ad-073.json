@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedures",
+      "concerning",
+      "violation",
+      "code",
+      "except",
+      "allegations",
+      "violations"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-379"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-379. - Procedures concerning violation of this Code.",
+    "summary": "Except as to allegations of violations of\nsection 2-377\nor criminal allegations in addition to any other rules of procedure adopted by the\n               city council the following shall apply when the city council, or a person delegated\n               by the city council, is the official body deter…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-379. - Procedures concerning violation of this Code.",
+        "a": "Except as to allegations of violations of\nsection 2-377\nor criminal allegations in addition to any other rules of procedure adopted by the\n               city council the following shall apply when the city council, or a person delegated\n               by the city council, is the official body determining whether a violation of this\n               Code has occurred.\n(1)\na.\nThe hearing shall be conducted in a judicial or quasi-judicial forum. The allegations\n                  shall be presented on behalf of the city, by special counsel selected by the city\n                  council.\nb.\nThe city shall have the burden of proof which shall be a preponderance of the evidence.\nc.\nIn addition to the provisions of section\n4.2.1\nof the Charter and any rules of procedure adopted by the city council, the parties\n                  shall have the following rights:\n1.\nPresent testimony.\n2.\nProduce evidence.\n3.\nCross examine witnesses.\n4.\nBe represented by legal counsel.\n5.\nRaise any statutory privilege.\n(2)\nThe officer against whom the allegations are raised shall receive a notice briefly\n                  stating the substance of the allegation and notice of all hearings pertaining thereto.\n(3)\nMatters referred to a disinterested third person for determination shall be heard\n                  in accordance with the Colorado Rules of Civil Procedure and the Uniform Arbitration\n                  Act C.R.S. § 13-22-201.\n(Code 1981, § 2-59; Ord. No. 3088, § 2, 6-27-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-379"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

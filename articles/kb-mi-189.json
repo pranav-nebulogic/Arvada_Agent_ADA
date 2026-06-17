@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "digital",
+      "accessibility",
+      "plan",
+      "december",
+      "access",
+      "accessible",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1333/Digital-Accessibility-Plan-21"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-189",
+    "spreadsheet_id": "MI-189",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Digital Accessibility Plan 2.1",
+    "summary": "The City of Arvada has published its Digital Accessibility Transition Plan (DATP) 2.1, aimed at ensuring equitable access to digital services for all residents, including those with disabilities. This plan aligns with the City Council's Strategic Plan and incorporates various accessibility standards, building on the existing ADA Program to address both physical and digital accessibility. The DATP is a dynamic strategy that will be updated annually, with the next planned update in December 2026.",
+    "body": "## Publication Information\n\n- **Version:** 2.1\n- **Published:** December 2025\n- **Last Updated:** December 2025\n- **Next Planned Update:** December 2026\n\n## Introduction & Overview\n\nThe City of Arvada is committed to fostering an accessible digital environment that ensures equitable access to services, programs, and activities along with civic participation for all residents, employees, and visitors, including individuals with disabilities. This Digital Accessibility Transition Plan (\"DATP\") formalizes this commitment in alignment with the Accessibility Standards set forth below. The City team, with assistance from AccessAbility Officer, developed this DATP to align closely with the Arvada City Council's [Strategic Plan](/241/Strategic-Alignment) to reinforce Arvada’s vision to provide reliable and accessible physical and technology systems.\n\nThis DATP builds upon Arvada's broader Americans with Disabilities Act (\"ADA\") Program and existing ADA Transition plan, which focuses primarily on the physical accessibility of Arvada’s built infrastructure.  While the ADA Transition Plan is updated on a five-year basis and driven by ongoing capital planning, this DATP represents a dynamic and evolving operational strategy designed to respond to rapidly changing technologies and a growing digital asset portfolio.\n\n### **Scope**\n\nThis DATP applies to all of Arvada’s digital assets as required by the Accessibility Standards set forth below.\n\n### **Alignment with the City Council's Strategic Plan**\n\nThis DATP aligns with and supports City Council’s Strategic Plan to \"Improve internal and external accessibility to information, programs, systems, and services.\" More specifically, this DATP supports the following elements of Arvada's Council Strategic Plan:\n\n- Diversity, Equity, Inclusion, and Accessibility principles embedded in city services\n- Innovation and technology modernization that reduces barriers and improves the resident experience\n- Fiscal stewardship and risk management by proactively addressing accessibility compliance to avoid future liabilities\n- Transparent and inclusive government operations\n\n## Accessibility Standards\n\nThe City of Arvada’s ongoing digital accessibility efforts rely on the following technical standards:\n\n- [8 CCR 1501-11-Rules Establishing Technology Accessibility Standards](https://www.coloradosos.gov/CCR/DisplayRule.do?action=ruleinfo&ruleId=3447&deptID=6&agencyID=168&deptName=Office%20of%20the%20Governor&agencyName=Governor%27s%20Office%20of%20Information%20Technology&seriesNum=8%20CCR%201501-11)\n- [Web Content Accessibility Guidelines (WCAG) 2.1, Level AA or higher](https://www.w3.org/TR/WCAG21/)\n- [Section 508 of the Rehabilitation Act of 1973, Chapter 4](https://www.access-board.gov/ict/#chapter-4-hardware)\n- [Title II of the Americans with Disabilities Act, 28 CFR 35.200 - Requirements for web and mobile accessibility (applicable April 24, 2026)](https://www.ada.gov/resources/2024-03-08-web-rule/)\n\n## Accessibility Maturity\n\nThe table below reflects the status of the City's accessibility maturity, which refers to the phases in which the City is improving the accessibility of its digital assets. This table is a high-level self-assessment tool that is updated annually.\n\n| Date | Stage | Criteria |\n| --- | --- | --- |\nHigh-level Self-assessment of Accessibility Maturity\n\n| 2023 | Initial Review | Evaluating awareness and recognition of need. |\n| 2024 | Launch | Recognized City-wide need. Planning initiated but activities not well organized. Issued an RFP and selected a vendor to organize efforts and perform an audit of digital assets. |\n| 2025 | Integrate | Roadmap including goals and timeline is in place; overall organizational approach defined and well organized; substantial number of digital assets have been audited and remediated if necessary. Action items identified and are beginning to be executed. |\n| 2026 | Strengthen | Continue strengthening the citywide digital accessibility framework. Increase employee knowledge and skills. Continue progress on action items. |\n| Future | Optimize | Digital accessibility is incorporated into the whole City organization, consistently evaluated and actions are taken based on assessment outcomes. |\n\n## Progress Updates\n\nPrior to this DATP version  2.1, Arvada published quarterly progress reports about its digital accessibility efforts pursuant to HB 24-1454.  Those reports have been archived but can be accessed at the [Digital Accessibility Progress Report Archive webpage](/1086/Digital-Accessibility-Progress-Report).  In June 2025, Arvada published [version 2.0 of this DATP](/1456).  Version 2.0 contained a \"Progress Update\" summarizing Arvada’s digital accessibility efforts at that time.  In order to document Arvada’s good faith efforts on this DATP, all future progress updates related to this DATP will be kept separate from this DATP on the [Digital Accessibility Progress Updates page](/1455/Digital-Accessibility-Progress-Updates). Arvada will annually review this DATP and publish a progress update summarizing the progress made on advancing digital accessibility under this DATP.\n\n## How Arvada is Implementing Digital Accessibility\n\nThe City is committed to advancing the accessibility of its digital assets. In support of this commitment, some of the measures the City is taking include:\n\n- Establishing a multi-departmental group to lead digital accessibility efforts known as the Digital Accessibility Steering Committee (DASC).\n- Finalizing and following a comprehensive digital accessibility roadmap developed with assistance from AccessAbility Officer.\n- Evaluating and updating the City’s procurement process to incorporate digital accessibility.\n- Creating and implementing digital accessibility training for City employees.\n- Developing a system to prioritize, test, and address accessibility issues based on the public or internal-facing nature of the asset, the severity of the issue in light of the Accessibility Standards, and impact on the user of the asset.  Assets are tested and issues addressed in the following order:\n  1. Public-facing assets with critical and high level severity issues\n  2. Public-facing assets with moderate severity issues and internal-facing assets with critical and high issues\n  3. Public-facing assets with low severity issues and internal-facing assets with moderate issues\n  4. Internal - facing assets with low severity issues\n  5. Ongoing review of newly procured assets and regular audits of the most widely accessed assets.\n- Continuing to offer multiple methods for the community and employees to suggest improvements to the City’s digital accessibility efforts, request reasonable accommodations and modifications, and ensure reasonable accommodations and modifications remain available.\n- Publishing a City of Arvada Technology Accessibility Statement.\n- Updating City policy to incorporate digital accessibility.\n- Providing regular progress updates to the community, the City Council, and City leadership.\n- Coordinating the work under this DATP with work performed under the ADA Transition Plan.\n- Monitoring the Accessibility Standards and adjusting this DATP as-needed.\n- Engaging with consultants as necessary to support the City team.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

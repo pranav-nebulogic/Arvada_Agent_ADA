@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "housing",
+      "preservation",
+      "resources",
+      "division",
+      "strong",
+      "array",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/186/Housing-Preservation-Resources"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-264",
+    "spreadsheet_id": "MI-264",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Housing Preservation & Resources",
+    "summary": "The Housing Preservation and Resources Division, in collaboration with the Arvada Housing Authority, focuses on providing customer service and a variety of housing assistance programs, including the Community Development Block Grant and the Housing Choice Voucher Program. Recently, the division developed a Housing Strategic Plan approved by the Arvada City Council, which outlines goals and policies to address the city's housing needs, promote mixed-use development, and improve existing housing stock. The division aims to enhance housing options for a diverse population while ensuring the long-term vitality of neighborhoods.",
+    "body": "## Housing Preservation and Resources Division\n\nThe Housing Preservation and Resources Division and the Arvada Housing Authority constitute a strong team of mutually supportive professionals and technicians that are dedicated to providing a high level of customer service to clients, the City, and to providers of financial assistance the division uses. The division is outcome oriented to provide a diverse and extensive array of services and programs in strong collaboration with a variety of private, non-profit and internal City departments and divisions.\n\nThe principal grants and assistance utilized by the division include:\n\n- **Community Development Block Grant (CDBG):** The City is eligible to receive annual CDBG entitlement grants from the U.S. Department of Housing and Urban Development. Some programs partially or fully funded from CDBG include or have included the Essential Home Repair program, neighborhood public improvements and facilities. Additionally the grant funds housing for people experiencing homelessness, the Child Advocacy Center, the Carin Clinic, and Jeffco Mental Health services.\n- **Housing Choice Voucher Program (Section 8):** Administered through the Arvada Housing Authority, this program is funded through the U.S. Department of Housing and Urban Development. Up to 508 very low income households obtain vouchers to assist with rent payments to allow them to secure affordable and quality rental housing.\n\n**Notably, the Housing Preservation and Resources Division recently completed the development of a new Housing Strategic Plan, which was approved by the Arvada City Council this past May.  The plan identifies, prioritizes and recommends housing goals, policies, programs and resources to address housing needs in Arvada.**\n\n[**Read the final Housing Strategic Plan here.**](/DocumentCenter/View/4233)\n\nThis division is also responsible for implementing the following City goals and objectives.\n\nArvada will be a community with broad quality housing choices relative to cost, design, maintenance and location to meet the needs of a demographically diverse population. Where appropriate, Arvada will encourage pedestrian-oriented, neo-traditional community design concepts and will recognize the diverse nature of neighborhoods in the development process, especially with regards to development requirements.\n\nObjectives:\n\n- Encourage quality mixed-use development that combines residential, commercial and office uses and provides an appropriate dispersed mix of residential housing types at different affordability levels.\n- Strive to stabilize and improve Arvada's existing housing stock, neighborhoods, and related infrastructure with special emphasis on code enforcement and outreach to property owners and tenants.\n- The City will develop and implement programs to assist low-to moderate-income home buyers.\n- Encourage residential housing options in the Olde Town Area and City of Arvada to ensure long-term vitality and stability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

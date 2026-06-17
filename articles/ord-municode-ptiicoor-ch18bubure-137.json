@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "size",
+      "water",
+      "service",
+      "pipe",
+      "hereby",
+      "amended"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-401"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-401. - I.P.C. Section 603.1, Size of water service pipe.",
+    "summary": "Section 603.1. Size of water service pipe,\nis hereby amended in its entirety to read as follows:\n\"\n603.1. Size of water sewer pipe.\nThe water service pipe shall be sized to supply water to the structure in the quantities\n                  and at the pressures required in this code. The minimum diame…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-401. - I.P.C. Section 603.1, Size of water service pipe.",
+        "a": "Section 603.1. Size of water service pipe,\nis hereby amended in its entirety to read as follows:\n\"\n603.1. Size of water sewer pipe.\nThe water service pipe shall be sized to supply water to the structure in the quantities\n                  and at the pressures required in this code. The minimum diameter of water service\n                  pipe shall be one inch (25mm).\nException: The building official has the authority to allow a water service pipe that\n                  is smaller than one inch in diameter or require a water service pipe that is larger\n                  than one inch in diameter upon completion of an accurate water pipe sizing calculation\n                  as set forth in the plumbing code.\"\n(Ord. No.\n4738\n, § 11, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-401"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

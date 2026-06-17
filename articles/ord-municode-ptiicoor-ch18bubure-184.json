@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "abatement",
+      "violation",
+      "hereby",
+      "amended",
+      "entirety",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-471"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-471. - I.P.M.C. Section 106.5, Abatement of violation.",
+    "summary": "Section 106.5. Abatement of violation,\nis hereby amended in its entirety to read as follows:\n\"\n106.5. Abatement of violation.\nThe imposition of the penalties herein prescribed shall not preclude an officer or\n                  official of this jurisdiction from instituting appropriate legal action t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-471. - I.P.M.C. Section 106.5, Abatement of violation.",
+        "a": "Section 106.5. Abatement of violation,\nis hereby amended in its entirety to read as follows:\n\"\n106.5. Abatement of violation.\nThe imposition of the penalties herein prescribed shall not preclude an officer or\n                  official of this jurisdiction from instituting appropriate legal action to restrain,\n                  correct, or abate a violation or a nuisance, or to prevent illegal occupancy of a\n                  building, structure, or premises, or to stop an illegal act, conduct, business, or\n                  utilization of the building, structure, or premises.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-471"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

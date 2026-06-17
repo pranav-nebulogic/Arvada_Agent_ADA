@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "acquisition",
+      "district",
+      "sewers",
+      "city",
+      "extend",
+      "maintain",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-131"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-131. - Acquisition of district sewers.",
+    "summary": "(a)\nThe city may extend and maintain any existing public sewer or any district sewer main\n               wherever acquired from its outlet to any point within or without the city.\n(b)\nSuch sewer extensions shall be established and acquired at such times, in such locations\n               within or wi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-131. - Acquisition of district sewers.",
+        "a": "(a)\nThe city may extend and maintain any existing public sewer or any district sewer main\n               wherever acquired from its outlet to any point within or without the city.\n(b)\nSuch sewer extensions shall be established and acquired at such times, in such locations\n               within or without the city, to such extent, with such dimensions and materials and\n               in accordance with such full details and specifications as may be prescribed by the\n               council.\n(c)\nNecessary lands and rights-of-way may upon the order of the council be purchased,\n               condemned or otherwise acquired on behalf of the city, and the whole cost of such\n               sewer rights-of-way may be paid by the city solely or partially by assessment, or\n               otherwise.\n(Code 1981, § 27-131; Ord. No. 551, § 72, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-131"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

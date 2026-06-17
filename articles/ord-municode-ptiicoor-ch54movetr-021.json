@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "permission",
+      "operate",
+      "motor",
+      "vehicle",
+      "city",
+      "grant",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-96"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-96. - Permission to operate a motor vehicle.",
+    "summary": "The city may grant permission to any person to use or operate a motor vehicle on city-owned\n               land where such use or operation is prohibited under this article. Permission may\n               be granted through a sign or signs posted by the city at the direction of the city\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-96. - Permission to operate a motor vehicle.",
+        "a": "The city may grant permission to any person to use or operate a motor vehicle on city-owned\n               land where such use or operation is prohibited under this article. Permission may\n               be granted through a sign or signs posted by the city at the direction of the city\n               manager or the city parks director. Any sign granting permission must specify the\n               type of motor vehicle that is permitted and area for which permission is granted,\n               and may specify the hours of permissible use.\n(Ord. No.\n4772\n, § 7, 8-16-2021)\nEditor's note—\nOrd. No.\n4772\n, § 7, adopted Aug. 16, 2021, repealed the former § 54-96, and enacted a new § 54-96\n               as set out herein. The former § 54-96 pertained to signs allowing use and derived\n               from Ord. No. 4561, § 1, adopted Aug. 29, 2016."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-96"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

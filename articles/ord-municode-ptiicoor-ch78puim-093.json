@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reissuance",
+      "bonds",
+      "case",
+      "any",
+      "outstanding",
+      "bond",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-94"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-94. - Reissuance of bonds.",
+    "summary": "(a)\nIn case any outstanding bond shall become mutilated or be destroyed, stolen or lost,\n               the city may deliver a new bond (with any appropriate coupons attached) of like tenor,\n               number and amount as the bond and the appurtenant coupons, if any, so mutilated, destroyed,\n  …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-94. - Reissuance of bonds.",
+        "a": "(a)\nIn case any outstanding bond shall become mutilated or be destroyed, stolen or lost,\n               the city may deliver a new bond (with any appropriate coupons attached) of like tenor,\n               number and amount as the bond and the appurtenant coupons, if any, so mutilated, destroyed,\n               stolen or lost, in exchange and substitution for such mutilated bond and upon surrender\n               of such mutilated bond and appurtenant coupons, if any, or in lieu of and substitution\n               for the bond and the appurtenant coupons, if any, destroyed, stolen, or lost upon:\n(1)\nFiling with the city evidence satisfactory to it that such bond and appurtenant coupons,\n               if any, have been destroyed, stolen or lost and proof of ownership thereof; and\n(2)\nFurnishing the city with indemnity satisfactory to it and upon complying with such\n               other reasonable regulations as the city may prescribe and upon paying such expenses\n               as the city may incur in connection therewith.\n(b)\nThe city may reissue any bond under any other circumstances in exchange for any outstanding\n               bond appertaining to the district to which each reissued bond appertains, as provided\n               in\nsections 78-78\n—\n78-88\n, without substantially modifying the city's obligation evidenced thereby, upon complying\n               with such reasonable regulations as the city may prescribe and upon paying such expenses\n               as the city may incur in connection therewith.\n(Code 1981, § 27-95; Ord. No. 551, § 35, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-94"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

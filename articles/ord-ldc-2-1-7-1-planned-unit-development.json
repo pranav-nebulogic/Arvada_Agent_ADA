@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "planned",
+      "unit",
+      "development",
+      "purpose",
+      "purposes",
+      "zoning",
+      "district",
+      "provide",
+      "procedures",
+      "which"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-7-1"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-7. PLANNED UNIT DEVELOPMENT DISTRICT"
+  },
+  "content": {
+    "title": "2-1-7-1. Planned unit development.",
+    "summary": "A.\tPurpose.\n  1.\tThe purposes of the Planned Unit Development zoning district are:\n    a.\tTo provide for procedures by which a subject property can be uniquely zoned and developed to meet the needs of the City, property owners, residents, and developers.\n    b.\tTo allow for flexibility that results …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-7-1. Planned unit development.",
+        "a": "A.\tPurpose.\n  1.\tThe purposes of the Planned Unit Development zoning district are:\n    a.\tTo provide for procedures by which a subject property can be uniquely zoned and developed to meet the needs of the City, property owners, residents, and developers.\n    b.\tTo allow for flexibility that results in innovative or exceptional project and site design or for unique and imaginative uses or combinations of uses, where no other zoning district set out in this Land Development Code would allow for a product that is substantially similar to the proposed development, and where the proposed development would result in a net benefit to the community.\n  2.\tOnce approved by City Council, the PUD zoning district establishes the land use and development standards for the subject property as a separate and distinct zoning district.\nB.\tPUD Zoning Districts That Remain Following Adoption of this Code. Property that is subject to an approved outline development plan, preliminary development plan, or final development plan that was approved prior to the effective date of this LDC may be developed in accordance with the approved plans if the approved plans have not expired. See Section 8-2-3-14 Effect of Approvals and Division 8-3-12, Vested Rights.\nC.\tUses Established. Any proposed use(s) allowed within a PUD zoning district shall be established as part of the approval granted by the Decision-Making Body\nD.\tThresholds for Rezoning to PUD Zoning District. A subject property may be rezoned to PUD only if the proposed development could not be developed using the conventional zoning districts or standards established in this Code and meets the following criteria:\n  1.\tThe proposed development provides for a new land use or an innovative implementation of an existing land use, is consistent with the City's planning objectives, and will reinforce or catalyze economic development or provide innovative housing opportunities.\n  2.\tThe proposed development incorporates creative and superior quality design in the layout of buildings, common areas, and circulation, includes high-value design features, provides above-average recreational amenities or preserves natural, environmental or scenic resources that exceeds the standards of this LDC.\n  3.\tThe proposed development assures harmonious integration with surrounding land uses, neighborhood character, and environmental features.\n  4.\tThe proposed development implements the Comprehensive Plan, an adopted subarea or corridor plan, or an adopted urban renewal plan, or supports the implementation of such plans.\nE.\tLot and Building Standards. Lot and building standards are established through the PUD process set out in Division 8-3-10, Planned Unit Development."
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-7-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

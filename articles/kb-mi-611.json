@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "xcel",
+      "energy",
+      "payment",
+      "assistance",
+      "colorado",
+      "outreach",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/422/Xcel-Energy-Payment-Assistance"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-611",
+    "spreadsheet_id": "MI-611",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Xcel Energy Payment Assistance",
+    "summary": "The City of Arvada offers financial assistance for Xcel Energy bills to residents facing disconnection due to circumstances like illness or job loss, funded by a grant from Energy Outreach Colorado. Assistance is available on a first-come, first-served basis for those whose bills are at least one day overdue, and residents can only receive help once per quarter. For more information, residents can contact Administrative Specialist Justine Eighmy at 720-898-7494.",
+    "body": "![Energy Outreach Colorado - Together We Power Stability](/ImageRepository/Document?documentID=423 \"Energy Outreach Colorado - Together We Power Stability\")\n\n## Overview\n\nThe City of Arvada receives a grant from Energy Outreach Colorado (EOC) to provide financial assistance with Xcel bills to Arvada residents who are at risk of having their electric and/or gas service disconnected. Financial assistance is made available to help those behind in paying their gas and/or electric bills because of adverse one-time circumstances in their lives such as illness, loss of job, or high medical bills. Residents can receive this assistance only once during this time, and assistance is disbursed on a first come first served basis. If funds are exhausted, applicants must wait until the beginning of the next quarter. If your bill is at least one day delinquent or if you have received a shut-off notice from Xcel Energy, assistance is available.\n\nCriteria for this assistance:\n\n- Must be an Arvada resident\n- Bill has to be at least one day in the arrears\n- Valid ID\n- Applicant must reside at Xcel service address and show proof if needed.\n\nEOC funds cannot be used for deposits.\n\nFor more information, please feel free to reach out to Justine Eighmy, Administrative Specialist, at 720-898-7494 or [[email protected]](/cdn-cgi/l/email-protection#d5bdbaa0a6bcbbb295b4a7a3b4b1b4fbbaa7b2).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "privacy",
+      "policy",
+      "security",
+      "encryption",
+      "technology",
+      "access",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/735/Privacy-Policy"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-426",
+    "spreadsheet_id": "MI-426",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Privacy Policy",
+    "summary": "The City of Arvada employs industry-standard security measures, including firewalls and encryption, to protect personal identifiable information submitted through its website. Users are advised against sharing sensitive information via email, as such communications may not be confidential and could be subject to public record laws. The city also utilizes the SeeClickFix application for residents to report non-emergency issues, with the understanding that submitted descriptions will be publicly visible while email addresses remain private.",
+    "body": "## Privacy & Security Statement\n\nThe City of Arvada uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including 'firewalls' and encryption (Secure Socket Layer) technology. We employ many different security techniques to protect such data from unauthorized access. 'Perfect' security, however, does not exist on the Internet. Unless a particular web page on the City of Arvada website indicates that encryption technology is being used, the user should not assume that information submitted through that web page to the City of Arvada web server will be treated as confidential. Visual cues (an unbroken key or locked lock) report to the visitor that the online service is secure through a given web page. If a user submits information to the City of Arvada's web server through a web page containing visual indicators of active encryption technology, the City of Arvada will take reasonable precautions to safeguard the confidentiality of such information, but shall nevertheless not be held liable for any injury caused by the disclosure of that information, whether caused by security breach, accident, inadvertence, or any other act resulting in disclosure.\n\nPlease do not send information via email that you would not want a third party to read. For example, please do not send your Social Security number or credit card information, as it is unlikely this data is needed to respond to your email.\n\nThe City may also forward that email to another party, government agency or individual. Certain email may constitute a public record and is subject to disclosure under state law. When you link to another website, you are subject to the privacy policy of the new site.\n\nIf you enter information on the City of Arvada's web pages where the URL begins with 'HTTPS' that information will be encrypted before being sent to the City, providing a high level of data security and confidentiality.\n\nCommunication made through email or any other computer messaging system shall in no way be deemed to constitute legal notice to the City or any of its agencies, officers, employees, agents or representatives with respect to any existing or potential claim or cause of action.\n\n## User Sessions\n\nThere are several places on this website where the visitor may provide us with personal information. This information may come to us through order forms, application forms, survey forms or email subscription lists. In filling out these forms you may be asked for contact information (name, address, telephone number, email address), financial information (credit card numbers) and demographic information (age, gender, education level, income level, etc.).\n\nAs with most other websites, our web servers record the Internet Protocol (IP) address of each visitor. This IP address tells us from which domain you are visiting (for instance aol.com), but not your email address. We use the information to help diagnose problems with our server, to administer the website more effectively and to gather broad demographic information.\n\nThis site utilizes cookies to keep track of the visitor's shopping cart and for other purposes.\n\n## Ask Arvada Mobile App\n\nThe City of Arvada is using SeeClickFix, an online and mobile service request system, to power its mobile app and reporting forms. SeeClickFix is an application that allows Arvada community members to report non-emergency related issues to the city. SeeClickFix can be used via the Web on a desktop computer, laptop, mobile phone, or tablet.\n\nSeeClickFix is a public application. The description entered will be visible to the public. Your display name (chosen when you register the first time) will also be visible. Your email address will never be displayed publicly.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

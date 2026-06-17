@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "olde",
+      "town",
+      "station",
+      "sculpture",
+      "backbone",
+      "bone",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/473/Olde-Town-Station"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-373",
+    "spreadsheet_id": "MI-373",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Olde Town Station",
+    "summary": "Olde Town Hub, located in Arvada's historic downtown, serves as a key retail and cultural destination and is one of the city's three G Line stations. The station features a public art installation titled \\\"Track Bone,\\\" a 28-foot-long sculpture made of Red Colorado Granite that symbolizes the historical significance of the railroad in Arvada's founding. The artist behind this piece is Frank Swanson.",
+    "body": "Located in Arvada's historic downtown, the Olde Town Hub is the most prominent of Arvada's three G Line stations and an important retail, mixed-use, and cultural destination for visitors from throughout the Denver region.\n\n## Public Art at the Station\n\nThe art selected for the Olde Town Hub is titled \"Track Bone.\" It is a sculpture that reflects the fact that the railroad was in many ways the backbone of Arvada when it was founded in 1870. The sculpture is made of Red Colorado Granite cut into sections of railroad track. At completion it will be 28' long, 4' 6\" high, and 7' wide.\n\n## Artist Details\n\nThe artist behind \"Track Bone\" is Frank Swanson. To find out more about the artist, please visit his profile on [RTD-FasTracks.com](http://www.rtd-fastracks.com/main_474).\n\n## Photo Gallery\n\nIf you're a member of the media needing high-resolution images, please contact Sherry Nalbach at 720-898-7521.\n\n1. ![Birdseye View of Olde Town Hub](/ImageRepository/Document?documentID=538 \"Birdseye View of Olde Town Hub\")\n2. ![Arvada NW Plaza Entry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 \"Arvada NW Plaza Entry\")\n3. ![Arvada West Plaza Entry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 \"Arvada West Plaza Entry\")\n\n1. [1\n   Birdseye View of Olde Town Hub](#targetImage)\n2. [2\n   Arvada NW Plaza Entry](#targetImage)\n3. [3\n   Arvada West Plaza Entry](#targetImage)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

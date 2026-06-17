@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "steep",
+      "slopes",
+      "hazardous",
+      "building",
+      "conditions",
+      "generally",
+      "lots",
+      "created",
+      "lands",
+      "containing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-4-5"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-4. NATURAL HAZARDS AND ENVIRONMENTALLY-SENSITIVE AREAS"
+  },
+  "content": {
+    "title": "4-1-4-5. Steep slopes and hazardous building conditions.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-4-5. Steep slopes and hazardous building conditions.",
+        "a": "A.\tGenerally. New lots shall not be created on lands containing an average slope of 25 percent, as measured from the points with highest and lowest elevation within 25 feet of any portion of a proposed building, unless such lots designate a building envelope located to avoid such steep slope areas, and the location of the principal building is restricted to the building envelope. Roads and driveways leading to any primary or accessory structure may not be located on slopes in excess of 25 percent.\nB.\tUnstable Slopes and other Hazards. No new principal building, and no new accessory building (except mini-structures), shall be constructed in any location that shows evidence of slope instability, landslides, avalanche, flooding, or other natural or man-made hazards. If the City makes a preliminary determination that such evidence exists, the Applicant shall demonstrate, to the City's satisfaction, that the slope's ground surface and subsurface are not unstable, that the proposed development will not cause instability or increase the potential for slope failure, and that the development of the slope will not increase the degree of hazards.\n(Ord. No. 4867, § 2, 2-12-2024; Ord. No. 4905, § 31, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-4-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

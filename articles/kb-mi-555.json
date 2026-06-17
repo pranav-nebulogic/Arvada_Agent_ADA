@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "tournament",
+      "athletic",
+      "field",
+      "complete",
+      "food",
+      "organizer",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/685/Tournament-on-Athletic-Field"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-555",
+    "spreadsheet_id": "MI-555",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Tournament on Athletic Field",
+    "summary": "Tournament organizers in Arvada can reserve athletic fields for sports events by completing the necessary steps, with specific requirements for those wishing to include food trucks. Organizers must secure the field through the City of Arvada and, if food trucks are desired, must arrange them in advance and ensure they are licensed and invited to the event. For more details, organizers can visit the city's website or contact the Revenue department.",
+    "body": "- **Requesting athletic field only:** If you are a tournament organizer wishing to reserve an athletic field, please complete **Step 1.**\n- **Requesting athletic field with food trucks present:** If you are a tournament organizer reserving an athletic field **and** wish to have a food truck at your event, **you must complete Steps 1 and 2.**\n\n## Step 1: Reserve Field through City of Arvada\n\nTournament organizers hosting a sports tournament in Arvada can schedule a field with the City of Arvada. For more information, visit [CivicRec](https://secure.rec1.com/CO/arvada-co/catalog/index?filter=dGFiJTVCMTU4NjklNUQ9MSZzZWFyY2g9JnJlbnRhbCU1QmZyb20lNUQ9JnJlbnRhbCU1QnRvJTVEPSYyODQzYTg0MzhkMGVkZjYyNWY1MDlkZDU3YTQ3N2VlYz1iYjc4NzliYjQzODVlY2EzNmQ3OGU0YzdjNzlhMjM3Zg==) or send an [email to the Fields Division](/cdn-cgi/l/email-protection#7e18171b121a0d3e1f0c081f1a1f50110c19).\n\nThe following athletic fields are available for tournaments:\n\n- Long Lake Regional Park\n- Stenger Soccer Complex\n- Youth Memorial Complex\n- Harold Lutz Sports Complex\n- Pioneer Park\n\n## Step 2: Use of a Food Truck at a tournament\n\nIf you are a tournament organizer hosting a tournament on an athletic field AND you wish to have a food truck present at the tournament, the following requirements MUST be met:\n\n- Please Note: We do not find or provide the food trucks. The tournament organizer is required to find and schedule the food truck.\n- The Food truck must be pre-arranged. They are **not** allowed to just show up.\n- Very specific Rules, Regulations and fees apply to the use of food trucks (No retail vendors allowed). Please visit [Food Trucks Page](/402).\n\n### Information for Food Trucks\n\nIf you are a food truck wanting to be present at a tournament on an athletic field, the following requirements must be met.\n\n- You **must** be invited by the Tournament Organizer to be present at the tournament. Food trucks are **not** allowed to just show up without an invitation.\n- Food Trucks must be licensed and permitted through the City of Arvada. Visit [Food Truck Vending](/402/Food-Truck-Permits) for more information.\n\nIf you have other questions about food trucks or tournament vending, please contact Revenue at 720-898-7100.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

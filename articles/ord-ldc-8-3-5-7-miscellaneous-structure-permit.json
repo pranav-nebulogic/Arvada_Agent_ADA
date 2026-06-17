@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "miscellaneous",
+      "structure",
+      "permit",
+      "applicability",
+      "prior",
+      "erection",
+      "fence",
+      "wall",
+      "shed",
+      "deck"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-5-7"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-5. SITE DEVELOPMENT AND TEMPORARY USES"
+  },
+  "content": {
+    "title": "8-3-5-7. Miscellaneous structure permit.",
+    "summary": "A.\tApplicability. Prior to the erection of any fence, wall, shed, deck, or other miscellaneous structure allowed by this Code, a Miscellaneous Structure Permit shall be obtained pursuant to this Section.\nB.\tForm of Application.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-5-7. Miscellaneous structure permit.",
+        "a": "A.\tApplicability. Prior to the erection of any fence, wall, shed, deck, or other miscellaneous structure allowed by this Code, a Miscellaneous Structure Permit shall be obtained pursuant to this Section.\nB.\tForm of Application. An application for a Miscellaneous Structure Permit shall be filed with the Chief Building Official. The Chief Building Official shall review the application for completeness in accordance with Section 8-2-3-7, Completeness Review.\nC.\tChief Building Official and Staff Review and Action. The Chief Building Official shall review the Miscellaneous Structure Permit application in light of the Approval Criteria of D., below, and as deemed necessary, distribute the application to other reviewers in accordance with Section 8-1-1-2. Based on the results of those reviews, the Chief Building Official shall take final action on the Miscellaneous Structure Permit application and either approve, approve with conditions, or deny such application. The Chief Building Official shall act upon a request for a Miscellaneous Structure Permit within seven days of submittal of a Complete Application.\nD.\tApproval Criteria. The Chief Building Official shall approve a Miscellaneous Structure Permit application if it complies with the applicable standards set forth in Section 8-3-11-3 this Code and with the Building Code of the City of Arvada, unless a Variance (see Section 8-3-11-2) or a Minor Modification (see Section 8-3-11-3) has been previously granted.\nE.\tEffect of Approval/Lapse. A Miscellaneous Structure Permit shall lapse and have no further effect unless the structure has been erected in compliance with the terms and conditions of the permit within six months after the date of the Miscellaneous Structure Permit approval."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-5-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

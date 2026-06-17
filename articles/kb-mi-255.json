@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "high",
+      "seniors",
+      "event",
+      "annual",
+      "celebration",
+      "activity",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1199/High-Tea-for-Seniors"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-255",
+    "spreadsheet_id": "MI-255",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "High Tea for Seniors",
+    "summary": "High Tea for Seniors, organized by the Arvada Festivals Commission, is an annual celebration for seniors aged 85 and older, featuring afternoon tea, light lunch, and activities. The 2025 event will take place on August 8, 2026, from 1 to 3 p.m. at the Apex Community Recreation Center, and attendees must RSVP by July 25.",
+    "body": "![High Tea for Seniors logo](/ImageRepository/Document?documentId=3680)\n\nHigh Tea for Seniors is the Arvada Festivals Commission's annual senior celebration. The event includes afternoon tea, a light lunch, sweet treats and a fun activity. The 2025 High Tea for Seniors celebration is moving to August after previously being held in May.\n\nPast attendees look forward to this annual event where they mix and mingle while enjoying tasty food and elegant desserts. The event is for seniors 85 and older, plus one guest.\n\n## High Tea for Seniors Details\n\n- **Date**: Saturday, August 8, 2026\n- **Time**: 1 to 3 p.m.\n- **Location**: Apex Community Recreation Center (6842 Wadsworth Blvd.)\n\n### Please RSVP to attend High Tea for Seniors\n\nPlease RSVP by July 25 to attend this year's High Tea for Seniors Event. RSVP to Special Events and Public Arts Manager Adelle Burton at [[email protected]](/cdn-cgi/l/email-protection#99f8fbecebedf6f7d9f8ebeff8fdf8b7f6ebfe) or call (720) 898-7403.\n\n![people enjoying afternoon tea at a High Tea for Seniors event ](/ImageRepository/Document?documentId=2711)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

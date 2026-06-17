@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "grease",
+      "grit",
+      "interceptors",
+      "nonresidential",
+      "facilities",
+      "shall",
+      "equipped"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-136"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-136. - Grease and grit interceptors.",
+    "summary": "Nonresidential facilities shall be equipped with grit or grease interceptors, or both,\n               in accordance with the Uniform Plumbing Code, unless otherwise determined by the city.\n(Code 1981, § 33-69; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2931, §§ 8, 9, 10-19-1992)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-136. - Grease and grit interceptors.",
+        "a": "Nonresidential facilities shall be equipped with grit or grease interceptors, or both,\n               in accordance with the Uniform Plumbing Code, unless otherwise determined by the city.\n(Code 1981, § 33-69; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2931, §§ 8, 9, 10-19-1992)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-136"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

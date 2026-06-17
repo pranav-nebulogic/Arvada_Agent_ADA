@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "computation",
+      "sewer",
+      "user",
+      "charge",
+      "each",
+      "system",
+      "computed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-208"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-208. - Computation of sewer user charge.",
+    "summary": "The sewer user charge to each user of the sewer system will be computed by applying\n               the rate set forth in\nsection 102-110\nto the average bimonthly amount of water used during any period as specified in\nsection 102-207\n. It is the intent of this provision that the usage of water within…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-208. - Computation of sewer user charge.",
+        "a": "The sewer user charge to each user of the sewer system will be computed by applying\n               the rate set forth in\nsection 102-110\nto the average bimonthly amount of water used during any period as specified in\nsection 102-207\n. It is the intent of this provision that the usage of water within two complete cycle\n               billings, occurring between November 1 and April 30, is used for the purpose of accomplishing\n               the computation with the exception for swimming pools and supporting facilities as\n               set forth in subsection (a) of this section.\n(Code 1981, § 33-112; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2823, § 14, 7-1-1991)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-208"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

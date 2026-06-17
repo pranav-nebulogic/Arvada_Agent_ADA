@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "avalon",
+      "welby",
+      "center",
+      "project",
+      "multifamily",
+      "units",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1465/Avalon-Arvada-Welby-Center"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-089",
+    "spreadsheet_id": "MI-089",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Avalon Arvada (Welby Center)",
+    "summary": "The Avalon Arvada (Welby Center) project proposes the development of 384 multifamily units and 51 townhomes on a 20.1-acre site located at 17201 W 64th Ave. The project aims to create a cohesive residential community with a mix of housing types to accommodate Arvada's growing population, featuring a total of 435 units at a density of 20.5 dwelling units per acre. Key dates include a Planning Commission public hearing on January 21, 2026, and a City Council public hearing on April 21, 2026.",
+    "body": "![Aerial view of Welby Center development project](/ImageRepository/Document?documentId=6884)\n\n## DA2025-0035\n\n### Project Name: Avalon Arvada (Welby Center)\n\n**Project Information:**Conditional Use to allow 384 multifamily and 51 townhome units on site\n\n- **Address/Location:** 17201 W 64th Ave\n- **Developer:**TBD\n- **Planner:**Rozalynne Thompson\n- **Acres:**20.1\n- **Use:**Residential\n- **Total Units:**384 Multifamily and 51 Townhomes\n- **Planning Commission Public Hearing:** Jan. 21, 2026\n- **City Council First Reading:** March 24, 2026\n- **City Council Public Hearing:** April 21, 2026\n\n**Project Narrative from the Developer:** The proposed mixed-density residential community includes a mix of housing types and designs to create an aesthetically attractive development which provides housing for a diverse range of future residents. The configuration of residential structures will create a cohesive residential community with a suburban character, consistent with the purpose of the Mixed-Use, Suburban (MX-S) zone district, while enabling higher density development and accommodating attainably priced housing for Arvada’s growing population.\n\nThe site plan proposes eight (8) townhome buildings ranging from 4-8 units per building, totaling fifty-one (51) units. The townhomes are anticipated to be a mix of two- and three-bedroom units. The site plan also includes twelve (12) breezeway and corridor multi-family buildings, providing 384 apartment units through a mix of studio, one-, two- and three-bedroom apartments. Ten buildings are proposed to be 3-stories, and 2 buildings are proposed to be 4-stories. All residential buildings are proposed not to exceed the maximum height of 45’. In total, this residential community proposes 435 units at a density of 20.5 DU/Acre. There is no density maximum for Mixed-Use Suburban zone district or Mixed-Use comprehensive plan land use designation. The proposed community is consistent with the height of the existing MorningStar community and is less dense.\n\n[Learn more about the project.](https://aca-prod.accela.com/ARVADA)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

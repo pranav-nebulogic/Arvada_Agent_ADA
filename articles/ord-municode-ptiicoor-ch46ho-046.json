@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reports",
+      "authority",
+      "shall",
+      "least",
+      "once",
+      "year",
+      "file"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-75"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-75. - Reports.",
+    "summary": "The authority shall, at least once a year, file with the mayor a report of its activities\n               for the preceding year and shall make any recommendations with reference to any additional\n               legislation or other action that may be necessary in order to carry out the purposes\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-75. - Reports.",
+        "a": "The authority shall, at least once a year, file with the mayor a report of its activities\n               for the preceding year and shall make any recommendations with reference to any additional\n               legislation or other action that may be necessary in order to carry out the purposes\n               of this article.\n(Code 1981, § 14-44; Ord. No. 1248, § 26, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-228."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-75"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

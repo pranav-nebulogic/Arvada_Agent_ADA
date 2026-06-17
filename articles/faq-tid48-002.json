@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-48-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "project",
+      "take",
+      "long",
+      "begin",
+      "city",
+      "legally",
+      "required",
+      "determine",
+      "Public Improvement Projects - Lake Arbor Restoration"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=48"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/why-did-the-project-take-so-long-to-begin",
+    "faq_category_name": "Public Improvement Projects - Lake Arbor Restoration"
+  },
+  "content": {
+    "title": "Why did the project take so long to begin?",
+    "summary": "The City is legally required to determine any existing water rights that may impact the project. This was a lengthy process that has concluded and allowed the project to move forward.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Why did the project take so long to begin?",
+        "a": "The City is legally required to determine any existing water rights that may impact the project. This was a lengthy process that has concluded and allowed the project to move forward."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

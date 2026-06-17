@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rules",
+      "regulations",
+      "city",
+      "shall",
+      "authority",
+      "make",
+      "promulgate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-182"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-182. - Rules and regulations.",
+    "summary": "The city shall have the authority to make and promulgate such rules and regulations\n               as may be found necessary for the administration and enforcement of this article not\n               inconsistent with the Charter and the Arvada City Code.\n(Ord. No.\n4749\n, § 1, 1-25-2021)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-182. - Rules and regulations.",
+        "a": "The city shall have the authority to make and promulgate such rules and regulations\n               as may be found necessary for the administration and enforcement of this article not\n               inconsistent with the Charter and the Arvada City Code.\n(Ord. No.\n4749\n, § 1, 1-25-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-182"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "generators",
+      "system",
+      "building",
+      "fuel",
+      "generator",
+      "portable",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1504/Generators"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-242",
+    "spreadsheet_id": "MI-242",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Generators",
+    "summary": "Permits are required for any generator that is permanently installed and connected to a building's electrical or fuel gas system, while portable generators used temporarily do not need a permit unless they connect to the fuel gas system. Homeowners can obtain permits for their own work, but contractors must be licensed and obtain permits for their projects. Applications for generator permits must include specific documentation, and certain conditions may restrict installation in specific areas.",
+    "body": "## When are permits required for generators?\n\nPermits are required for **any generator permanently installed and connected to a building's electrical system or fuel gas system**.\n\nNo permit is required if the generator is portable, electric plug-in and only used temporarily without hardwiring into a building's electrical system or connecting to the building’s fuel gas system.\n\n**Some portable generators allow connection to the building’s fuel gas system. In these cases, the portable generator does require a permit.** Whether a permit is required or not for a generator, compliance with the City's Noise Ordinance in Chapter 38 is still required.\n\nPortable generators may require a Residential Electrical permit if  you are adding an Interlock to your electrical panel for a portable electric generator.\n\n### Note on contractor license requirements\n\nA permit can be obtained by a homeowner if the homeowner is completing the work themselves. If a contractor is completing the work, the contractor is required to obtain the permit. Any contract to complete work by someone other than the owner/ occupant of the structure, will be required to be completed by a licensed contractor, licensed with the city of Arvada. Generator permits typically require a licensed mechanical and electrical contractor. \n\n## Permit type: Residential Exterior\n\nApply for your generator permit using the Residential Exterior permit application.\n\n### Required documents\n\n- **Plot plan**\n  - **Address of the property**\n    - Show the location of the generator and distance to adjoining property lines, openings into the building, clearances for generator on all sides, distance to any other adjacent buildings or structures.\n    - Show the location of the gas connection at the building or structure. If a gas line modification is proposed, provide a gas line calculations\n    - Show the location of all electrical service equipment and transfer switches\n- **Generator Manufacturer specifications packet with decibel rating for sound provided**. It is important to note that each specific manufacturer has their own requirements so please follow those accordingly to avoid delays in plan review and inspections.\n- **Gas line calculation** if a gas line is being installed\n\n### Potential additional requirements\n\n**Generator screen:**A screen for the generator must be provided if the fence around the generator is not solid.  \n\n**Separate permit for structure around generator:**A separate permit or additional information may be required if a structure is proposed to be built around the generator. **Additional fees may be applicable in this case** if adding this scope to the existing permit. Make sure all required clearances are being met clearly, per the manufacturer’s requirements. \n\n**Separate permit for propane tank installation:**Although it is uncommon, if a propane tank (greater than 20 lbs) is necessary and not included as part of the generator application, then a separate permit may be required and there may be requirements from the fire department. Please contact the Building Safety Division at 720-898-7620 for guidance if you are using a propane tank.\n\n### Other special conditions\n\nThere are special conditions where a generator installation may not be permitted. This can include instances where a generator is being proposed for certain townhome units, in a floodplain, or where the clearances required to be maintained cannot be met due to site constraints. \n\nIf you feel you may fall into one of these special condition categories, please **contact the Building Safety Division at 720-898-7620****before applying for a building permit to confirm your project's feasibility before moving forward**. \n\n## Permit review time\n\nPlease allow 5 business days each review cycle for complete applications. Additional review cycles may be required if we are missing required details on the submittal documents. **Incomplete applications will not be accepted for review. Please review document requirements to ensure that you are submitting a complete application**.\n\n## Required inspections\n\n- Rough Electrical (may be required if there is a transfer switch)\n- Final Electrical\n- Final Mechanical\n- Gas Piping\n\n## Noise\n\nAccording to the City of Arvada Code Chapter 38, generators are classified as stationary noise sources subject to maximum permissible sound pressure levels based on land use and time of day. These regulations specify decibel limits for different zones and times, with lower limits at night.\n\nGenerators operating in residential areas at night are subject to the following noise limits:\n\n- Nighttime Limit: 50 dB(A) between the hours of 9:00 p.m. and 7:00 a.m..\n- Daytime Limit: 55 dB(A) between 7:00 a.m. and 9:00 p.m.\n\n[Read the full ordinance in the City code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN_ARTIINOCO).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

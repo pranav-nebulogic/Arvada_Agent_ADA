@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "appeals",
+      "any",
+      "person",
+      "aggrieved",
+      "action",
+      "chief",
+      "police"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH34EMSE"
+    ],
+    "scraped_at": "2026-06-10T12:02:33.665000+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 34-74"
+    ],
+    "chapter": "Chapter 34 - EMERGENCY SERVICES"
+  },
+  "content": {
+    "title": "Chapter 34 - EMERGENCY SERVICES — Sec. 34-74. - Appeals.",
+    "summary": "Any person aggrieved by the action of the chief of police in the administration of\n               this section may appeal the action in an administrative hearing, as provided in article\n               V, division 3 of chapter 2. Such appeal shall be taken by filing with the city manager,\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 34-74. - Appeals.",
+        "a": "Any person aggrieved by the action of the chief of police in the administration of\n               this section may appeal the action in an administrative hearing, as provided in article\n               V, division 3 of chapter 2. Such appeal shall be taken by filing with the city manager,\n               within 14 days of the action complained of, a written statement setting forth fully\n               the grounds for the appeal.\n(Code 1981, § 2-191(d); Ord. No. 1745, §§ 2—6, 5-18-1981; Ord. No. 1959, § 1, 8-1-1983;\n               Ord. No. 3237, § 2, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 34-74"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

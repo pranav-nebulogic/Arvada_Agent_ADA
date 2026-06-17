@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "contact",
+      "call",
+      "hours",
+      "request",
+      "service",
+      "submit",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/592/Contact-Us"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-165",
+    "spreadsheet_id": "MI-165",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Contact Us",
+    "summary": "For emergencies, residents should call 911, while non-emergency police matters can be reported at 303-980-7300. Service requests can be submitted online 24/7 and are addressed during regular business hours. City Hall is located at 8101 Ralston Road, Arvada, CO 80002, and the main phone number is 720-898-7000.",
+    "body": "**For emergencies, call 911.**For non-emergency police matters, please call 303-980-7300.\n\n## Submit a Service Request\n\n[Submit a service request or report a concern](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map) 24 hours a day, 7 days a week. Requests are monitored and addressed during regular business hours Monday through Friday, 8 am to 5 pm.\n\n## City Hall\n\n**Main Phone**: 720-898-7000  \n**Address**: 8101 Ralston Road, Arvada, CO 80002\n\n## Contact a Department\n\nIf you need to contact a department directly (or just find out more about them), you can find their phone number and detailed department information in the [Department Directory](/149).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "underground",
+      "installation",
+      "generally",
+      "except",
+      "provided",
+      "subsection",
+      "below",
+      "electric",
+      "communication",
+      "utility"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-4-5-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-4. ACCESS, CIRCULATION, MOBILITY, AND UTILITIES",
+    "division": "DIVISION 4-4-5. UTILITIES"
+  },
+  "content": {
+    "title": "4-4-5-2. Underground installation.",
+    "summary": "A.\tGenerally. Except as provided in Subsection B., below, all electric and communication utility lines and services, and all street lighting circuits, shall be installed underground.\nB.\tExceptions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-4-5-2. Underground installation.",
+        "a": "A.\tGenerally. Except as provided in Subsection B., below, all electric and communication utility lines and services, and all street lighting circuits, shall be installed underground.\nB.\tExceptions. The following utility infrastructure may be installed above ground as provided herein:\n  1.\tTransformers, switching boxes, terminal boxes, meter cabinets, pedestals, ducts and other facilities necessarily appurtenant to such underground and street lighting facilities, which may be placed above ground within a utility easement, or within a public right-of-way in a location approved by the City.\n  2.\tFacilities reasonably necessary to connect underground facilities to existing or permitted overhead or over-ground facilities.\n  3.\tOverhead electric transmission lines and distribution feeder lines over 110KV, and overhead communication long distance, trunk, and feeder lines.\n  4.\tExisting utility facilities and structures that are not required to be removed or replaced as part of a development."
+      }
+    ],
+    "ordinance_refs": [
+      "4-4-5-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

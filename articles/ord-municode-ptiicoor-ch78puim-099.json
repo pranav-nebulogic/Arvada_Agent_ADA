@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "assessment",
+      "hearing",
+      "upon",
+      "receiving",
+      "roll",
+      "council"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-100"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-100. - Notice of assessment hearing.",
+    "summary": "(a)\nUpon receiving the assessment roll, the council by resolution shall:\n(1)\nFix a time and a place when and where complaints, protests and objections that may\n               be made in writing or may be made verbally concerning the same by the owner of any\n               tract or by any person inte…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-100. - Notice of assessment hearing.",
+        "a": "(a)\nUpon receiving the assessment roll, the council by resolution shall:\n(1)\nFix a time and a place when and where complaints, protests and objections that may\n               be made in writing or may be made verbally concerning the same by the owner of any\n               tract or by any person interested may be heard; and\n(2)\nOrder the city clerk to give notice of said hearing.\n(b)\nThe city clerk shall give notice by publication and by mail of the time and the place\n               of such hearing, which notice shall also state:\n(1)\nThat the assessment roll is on file in his office;\n(2)\nThe date of filing the same;\n(3)\nThe time and the place when and where the council will hear all complaints, protests\n               and objections that may be made in writing or may be made verbally to the assessment\n               roll and to the proposed assessments by the parties thereby aggrieved; and\n(4)\nThat any complaint, protest or objection to the regularity, validity and correctness\n               of the proceedings, of said assessment roll, of each assessment contained therein\n               and of the amount thereof levied on each tract shall be deemed waived unless filed\n               in writing on specific grounds with the city clerk at least three days prior to the\n               assessment hearing.\n(Code 1981, § 27-101; Ord. No. 551, § 41, 5-14-1964)\nState Law reference—\nNotice of hearing on assessments, C.R.S. § 31-25-520."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-100"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

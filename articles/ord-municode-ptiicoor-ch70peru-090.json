@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "last",
+      "day",
+      "employment",
+      "effective",
+      "date",
+      "employee",
+      "physical"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-184"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-184. - Last day of employment.",
+    "summary": "(a)\nThe last effective date of employment is the date of the employee's last physical\n               day of work. Exceptions may be made for good business reasons by the director of human\n               resources. Payment for eligible accrued leaves and other termination pay, if any,\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-184. - Last day of employment.",
+        "a": "(a)\nThe last effective date of employment is the date of the employee's last physical\n               day of work. Exceptions may be made for good business reasons by the director of human\n               resources. Payment for eligible accrued leaves and other termination pay, if any,\n               is paid on the next regularly scheduled payday. An employee retiring from the city\n               or leaving employment due to a layoff or reduction in force may use their vacation\n               leave accruals to extend their last day of employment. A retiring employee may only\n               extend their last day of employment by the amount of vacation leave accruals they\n               have on the day they give notice to the city. An employee subject to a layoff or reduction\n               in force may only extend their last day of employment by the amount of vacation leave\n               accruals they have on the day they are given official notice of their position being\n               eliminated. Retiring employees and those subject to layoff or reduction in force extending\n               their last day in this manner will no longer receive any car allowance, assignment\n               pay, or shift differential after their last day of work.\n(b)\nOn or before the employee's last day of work, all city property must be returned to\n               the employee's department. Failure to return city property can result in a deduction\n               in pay. If an employee fails to return any city property, and the manager wishes to\n               deduct the value of the property from the employee's final paycheck, the manager must\n               first provide written notice to the employee within ten days after employment terminates,\n               informing the employee that the property was not returned; the replacement value of\n               the property; and date when the property was provided to the employee. If not returned\n               within 14 days from the date the notice is provided to the employee, the city may\n               deduct the value from the employee's final paycheck. If the employee subsequently\n               returns the property within 14 days of the deduction of their wages, the city must\n               then repay the employee within 14 days of the receipt of the returned property.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-184"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

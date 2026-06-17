@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "cluster",
+      "subdivisions",
+      "generally",
+      "division",
+      "provides",
+      "optional",
+      "standards",
+      "subdivision",
+      "development",
+      "create"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-2-2-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-2. SUBDIVISION STANDARDS",
+    "division": "DIVISION 4-2-2. CLUSTER SUBDIVISIONS"
+  },
+  "content": {
+    "title": "4-2-2-1. Cluster subdivisions.",
+    "summary": "A.\tGenerally. This Division provides optional standards for cluster subdivision development to create more compact development in order to preserve and protect sensitive lands, create amenitized landscape areas, and to implement the Comprehensive Plan and/or adopted specific area plans.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-2-2-1. Cluster subdivisions.",
+        "a": "A.\tGenerally. This Division provides optional standards for cluster subdivision development to create more compact development in order to preserve and protect sensitive lands, create amenitized landscape areas, and to implement the Comprehensive Plan and/or adopted specific area plans. A cluster subdivision is a residential or mixed-use subdivision in which some or all of the lots are allowed to be smaller (in area and width) than otherwise required for the underlying zoning district, in exchange for permanent protection of sensitive lands and/or open space.\nB.\tZoning Districts Where Allowed.\n  1.\tThe cluster subdivision option is available in the R6, R13, and R24 zoning districts.\nC.\tMinimum Parcel Size. The minimum parcel size for a cluster subdivision shall be three acres.\nD.\tCluster Subdivision Development Standards.\n  1.\tAll other standards in the LDC shall apply to cluster subdivisions unless modified by this Section.\nE.\tIdentification and Maintenance of Protected Lands.\n  1.\tProtected lands as defined in Section 4-1-4-2, Limits of Development, shall be identified on the final subdivision plat with a notation that indicates that those lands shall not be used for future development.\n  2.\tProtected lands shall be identified with appropriate permanent signage markers in order to distinguish these areas from private lots.\n  3.\tProtected lands shall be permanently maintained and preserved as:\n    a.\tOpen space tracts with deed restrictions;\n    b.\tLand dedicated to the City;\n    c.\tLand protected through a conservation easement; or\n    d.\tLand protected by other means approved by the City.\n  4.\tFor any protected land not dedicated to the City, the developer shall provide a permanent mechanism acceptable to the City Attorney for the primary purpose of conservation, preservation, and management of protected lands.\n  5.\tThere shall be no further subdivision of land in an area approved for cluster subdivision; however, dedication of easements for public purposes may be permitted.\nF.\tUse of Protected Lands.\n  1.\tProtected lands shall be left in an undisturbed natural state or landscaped pursuant to Section 4-6-5, Landscape Areas and Bufferyards.\n  2.\tThe protected lands shall be used for low-intensity recreation, agriculture, buffers, critical wildlife habitat, or other passive park or open space purposes.\n  3.\tThe use of protected lands may be further limited or controlled at the time of final approval where necessary to protect adjacent properties.\nG.\tReview and Approval of Cluster Subdivisions.\n  1.\tThe review and approval of cluster subdivisions shall follow the procedures for preliminary and final plats. The applicable procedure is dependent on the number of lots proposed in the cluster subdivision.\n(Ord. No. 4793, § 3, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-2-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "certain",
+      "ordinances",
+      "affected",
+      "code",
+      "nothing",
+      "ordinance",
+      "adopting"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH1GEPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:08.706973+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 1-10"
+    ],
+    "chapter": "Chapter 1 - GENERAL PROVISIONS"
+  },
+  "content": {
+    "title": "Chapter 1 - GENERAL PROVISIONS — Sec. 1-10. - Certain ordinances not affected by Code.",
+    "summary": "(a)\nNothing in this Code or the ordinance adopting this Code shall be construed to repeal\n               or otherwise affect the validity of any of the following when not inconsistent with\n               this Code:\n(1)\nAny offense or act committed or done or any penalty or forfeiture incurred before…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 1-10. - Certain ordinances not affected by Code.",
+        "a": "(a)\nNothing in this Code or the ordinance adopting this Code shall be construed to repeal\n               or otherwise affect the validity of any of the following when not inconsistent with\n               this Code:\n(1)\nAny offense or act committed or done or any penalty or forfeiture incurred before\n               the effective date of this Code.\n(2)\nAny ordinance or resolution promising or guaranteeing the payment of money for the\n               city or authorizing the issue of any bonds of the city or any evidence of the city's\n               indebtedness or any contract, right, agreement, lease, deed or other instrument or\n               obligation assumed by the city.\n(3)\nAny administrative ordinances or resolutions of the city not in conflict or inconsistent\n               with this Code.\n(4)\nAny right or franchise granted by any ordinance.\n(5)\nAny ordinance or resolution dedicating, naming, establishing, locating, relocating,\n               opening, paving, widening, repairing, vacating, etc., any street or public way.\n(6)\nThe ordinance adopting the budget or any appropriation ordinance.\n(7)\nAny ordinance levying or imposing taxes.\n(8)\nAny ordinance prescribing through streets, parking and traffic regulations, speed\n               limits, one-way traffic, limitations on load of vehicles or loading zones.\n(9)\nAny rezoning ordinance or amendment to the zoning map.\n(10)\nAny ordinance establishing and prescribing the street grades of any street.\n(11)\nAny ordinance providing for local improvements and assessing taxes for such improvements.\n(12)\nAny ordinance dedicating or accepting any plat or subdivision.\n(13)\nAny ordinance annexing territory or excluding territory or any ordinance extending\n               or describing the boundaries of the city.\n(14)\nAny ordinance establishing positions, classifying positions, establishing pension\n               or employee benefits, setting salaries of city officers and employees or any personnel\n               regulations.\n(15)\nAny temporary or special ordinance.\n(16)\nAny ordinance calling an election.\n(17)\nAny ordinance authorizing interlocal or other agreements.\n(18)\nAny ordinance levying a fee, rate, deposit or charge.\n(19)\nAny ordinance or resolution regarding land development, zoning, subdivisions or land\n               use.\n(20)\nAny ordinance regarding special districts.\n(b)\nAll such ordinances are recognized as continuing in full force and effect to the same\n               extent as if set out at length in this Code. All ordinances are on file in the city\n               clerk's office."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 1-10"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

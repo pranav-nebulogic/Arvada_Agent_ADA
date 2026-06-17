@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "temporary",
+      "permit",
+      "generally",
+      "permits",
+      "required",
+      "uses",
+      "special",
+      "events",
+      "division",
+      "more"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-5-5"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-5. SITE DEVELOPMENT AND TEMPORARY USES"
+  },
+  "content": {
+    "title": "8-3-5-5. Temporary use permit.",
+    "summary": "A.\tGenerally. Temporary Use Permits are required for the temporary uses and special events that are set out in Division 3-1-4, Temporary Uses.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-5-5. Temporary use permit.",
+        "a": "A.\tGenerally. Temporary Use Permits are required for the temporary uses and special events that are set out in Division 3-1-4, Temporary Uses. No more than one Temporary Use Permit application is required for any organized special event, such as a festival, even if it involves more than one activity or site, or is held over a period of more than one day, provided that the application is otherwise complete as to each such activity, site, or time period. A temporary use permit may provide for temporary signage and temporary lighting, and may waive or modify otherwise applicable City noise restrictions.\nB.\tTiming of Application. An application for a Temporary Use Permit for a special event shall be submitted to the Director at least 60 days, but not more than 12 months, prior to the proposed special event date. The Director shall act upon a request for a Temporary Use Permit within 30 days of submittal of a Complete Application.\nC.\tApproval Criteria.\n  1.\tGenerally. A Temporary Use Permit application shall be approved by the Director if it meets all of the following criteria and any applicable additional approval criteria or requirements of Division 3-1-4, Temporary Uses:\n    a.\tThe proposed temporary use will be located, operated, and maintained in a manner consistent with the policies of the Comprehensive Plan and the provisions of this LDC;\n    b.\tThe proposed temporary use will not be detrimental to property or improvements in the surrounding area or to the public health, safety, or general welfare;\n    c.\tThe proposed temporary use complies with all applicable specific regulations of subsection 3-1-4-12, Temporary Uses and Structures, unless otherwise expressly stated;\n    d.\tThe particular location requested can reasonably accommodate the proposed temporary use, given the proposed use's nature, size, or duration; and\n    e.\tThe Applicant or operator has obtained and complies with any other required permits.\n  2.\tSpecial Events. If the application is for a temporary special event use, the following criteria shall be met in addition to the criteria set out in Subsection C.1., above:\n    a.\tThe proposed event shall not create an unreasonable risk of:\n      i.\tSignificant damage to public or private property, beyond normal wear and tear;\n      ii.\tInjury to persons;\n      iii.\tPublic or private nuisances;\n      iv.\tUnsafe impediments or distractions to, or congestion of, vehicular or pedestrian travel; or\n      v.\tAdditional and impractical or unduly burdensome police, fire, trash removal, maintenance, or other public services demands; and\n    b.\tThe date, time and location requested for the proposed special event is not already permitted or reserved for other activities.\nD.\tRestrictions. The following restrictions shall apply to all Temporary Use Permits:\n  1.\tPermanent alterations to the site are prohibited;\n  2.\tPermanent signs are prohibited;\n  3.\tAll approved temporary signs associated with the temporary use shall be removed promptly when the activity ends; and\n  4.\tTemporary uses shall not violate any applicable conditions of approval that apply to the principal use on the site, if any.\nE.\tApproval Conditions. In approving Temporary Use Permits, the Director shall be authorized to impose such conditions as may be authorized by Division 3-1-4, Temporary Uses, and such conditions upon the premises covered by the permit that may be necessary to mitigate potential adverse impacts upon other property in the area, provided that the condition relates to a situation created or aggravated by the proposed temporary use. For example, the Director is authorized to require:\n  1.\tProvision of temporary parking facilities, including vehicular ingress and egress.\n  2.\tControl of nuisance factors such as, but not limited to, the prevention of glare or direct illumination of adjacent properties, noise, vibrations, smoke, dust, dirt, odors, gases, and heat.\n  3.\tRegulation of temporary buildings, structures and facilities, including placement, height and size, location of equipment and open spaces, including buffer areas and other yards.\n  4.\tProvision of sanitary and medical facilities.\n  5.\tProvision of solid waste collection and disposal.\n  6.\tProvision of security and safety measures.\n  7.\tUse of an alternative location, time or date for the proposed temporary use.\n  8.\tModification or elimination of certain proposed activities.\n  9.\tRegulation of operating hours and days, including limitation of the duration of the temporary use to a shorter time period than that requested or specified in this Section or in Division 3-1-4, Temporary Uses.\n  10.\tSubmission of a performance bond or other financial guarantee to ensure that any temporary facilities or structures used for such proposed temporary use will be removed from the subject property within a reasonable time following the event, and that the property will be restored to its former condition."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-5-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

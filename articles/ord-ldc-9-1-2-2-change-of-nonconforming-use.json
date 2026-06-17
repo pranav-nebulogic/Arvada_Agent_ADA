@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "change",
+      "nonconforming",
+      "changed",
+      "different",
+      "conforms",
+      "regulations",
+      "zoning",
+      "district",
+      "which",
+      "located"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-2-2"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-2. NONCONFORMING USES"
+  },
+  "content": {
+    "title": "9-1-2-2. Change of nonconforming use.",
+    "summary": "If a nonconforming use is changed to a different use, the new use shall be a use that conforms to the regulations of the zoning district in which it is located. After such change, all future use of the subject property shall comply with applicable use-related provisions of this LDC.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-2-2. Change of nonconforming use.",
+        "a": "If a nonconforming use is changed to a different use, the new use shall be a use that conforms to the regulations of the zoning district in which it is located. After such change, all future use of the subject property shall comply with applicable use-related provisions of this LDC."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-2-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

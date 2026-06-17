@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "emergency",
+      "telephone",
+      "system",
+      "footnotes",
+      "state",
+      "law",
+      "reference"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH34EMSE"
+    ],
+    "scraped_at": "2026-06-10T12:02:33.665000+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 29-11"
+    ],
+    "chapter": "Chapter 34 - EMERGENCY SERVICES"
+  },
+  "content": {
+    "title": "Chapter 34 - EMERGENCY SERVICES — ARTICLE II. - EMERGENCY TELEPHONE SYSTEM",
+    "summary": "Footnotes:\n--- (\n2\n) ---\nState Law reference—\nEmergency telephone charge authorized, C.R.S. § 29-11-102.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE II. - EMERGENCY TELEPHONE SYSTEM",
+        "a": "Footnotes:\n--- (\n2\n) ---\nState Law reference—\nEmergency telephone charge authorized, C.R.S. § 29-11-102."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 29-11"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

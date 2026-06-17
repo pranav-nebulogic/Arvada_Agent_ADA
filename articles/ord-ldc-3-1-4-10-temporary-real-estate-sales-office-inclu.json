@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "temporary",
+      "real",
+      "estate",
+      "sales",
+      "office",
+      "including",
+      "model",
+      "home",
+      "where",
+      "permitted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-4-10"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-4. TEMPORARY USES"
+  },
+  "content": {
+    "title": "3-1-4-10. Temporary real estate sales office including model home.",
+    "summary": "A.\tWhere Permitted.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-4-10. Temporary real estate sales office including model home.",
+        "a": "A.\tWhere Permitted. Temporary real estate sales offices, including model or show homes, are permitted as provided in Section 3-1-4-2, Temporary Uses by Zoning District, provided that the subject property is approved for residential development or mixed-use development with a residential component.\nB.\tCommencement of Use. A real estate sales office shall not be moved, erected, or established on a residential development site until the date on or after construction actually commences.\nC.\tPermit Required.\n  1.\tTerm. The term of a temporary use permit for a temporary real estate sales office shall automatically expire 30 days after completion of construction or one year after issuance, whichever occurs first.\n  2.\tEarly Expiration. All temporary real estate sales offices shall be removed, and all model/show homes closed for viewing, within 30 days after the sale of the last dwelling unit in the development, even if the temporary use permit is still valid.\n  3.\tExtensions. The Director may grant extensions upon written request if the builder maintains active and continuous construction on the site or within the subdivision.\nD.\tSetbacks. All temporary real estate sales offices, including model or show homes, shall comply with the building setbacks in the zoning district in which the building or structure is located.\nE.\tUsage Allowed.\n  1.\tPermitted temporary real estate sales offices shall be used only as temporary field offices and for storage of incidental supplies, and shall not be used as any type of dwelling.\n  2.\tUse of the temporary real estate sales office for sales of residential sites or projects located off-site is prohibited.\nF.\tParking.\n  1.\tExcept as provided in Subsection F.2., below, a minimum of three off-street parking spaces shall be required for a temporary real estate sales office.\n  2.\tThe Director may approve a temporary real estate sales office without off-street parking if the following conditions are met:\n    a.\tThere are a minimum of three on-street parking spaces within 75 feet of the temporary real estate office;\n    b.\tThere are no residences existing on that portion of the street that would be using the street for parking; and\n    c.\tThere would be no anticipated adverse parking or traffic impacts.\n  3.\tAn off-street parking area shall be paved if it is adjacent to the model or show home. Reconstituted asphalt may be used for paving in the winter when asphalt plants are closed.\nG.\tRestoration after Expiration. As appropriate, the site of the temporary real estate sales office use shall be returned to its original condition after completion of use."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-4-10"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

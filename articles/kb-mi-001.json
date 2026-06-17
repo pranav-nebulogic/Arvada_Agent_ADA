@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "comprehensive",
+      "plan",
+      "development",
+      "anticipating",
+      "articulates",
+      "bearing",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/307/2014-Comprehensive-Plan"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-001",
+    "spreadsheet_id": "MI-001",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "2014 Comprehensive Plan",
+    "summary": "The 2014 Comprehensive Plan for Arvada outlines the community's vision and values, guiding development and investment decisions to enhance the quality of life. It serves as a resource for residents, business owners, and city officials, detailing land use patterns, development regulations, and capital investment strategies. The plan is periodically updated to address new opportunities and community needs, with a 2021 implementation update tracking progress on its policies and actions.",
+    "body": "## What Is the Comprehensive Plan?\n\nThe 2014 Comprehensive Plan articulates the community's shared values and vision. Goals and policies help guide development and investment decisions that have a direct bearing on the quality of life in Arvada. The plan establishes the City's land use pattern, sets the stage for development regulations and standards, and guides the City in funding programs and capital investments by anticipating future tax revenue. The plan was prepared to conform to the requirements in the Colorado Revised Statutes.\n\nThe Comprehensive Plan is designed to be used by anyone interested in the future of Arvada:\n\n- Residents may be interested in the location of new neighborhoods, trails, employment, and shopping areas;\n- Business and property owners may be interested in land use recommendations or development policies for their properties;\n- As an adopted City document, all decision-makers, boards, commissions, and agencies look to the Comprehensive Plan to inform their strategic plans, budgets, timing for capital improvements, evaluating development proposals, as well as in the preparation of zoning and subdivision regulations.\n\nThe Comprehensive Plan is updated periodically to better leverage new opportunities and strengthen Arvada's economy, respond to shifting demographics and new citizen concerns, and manage growth to achieve the community's vision. Review the following:\n\n- [2014 Comprehensive Plan (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=83d9e6fa9124d)\n- [Comprehensive Plan Maps (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68cc14870afdb)\n\n### Implementing the Comprehensive Plan\n\nAfter the approval of the Comprehensive Plan in 2014, the City of Arvada identified a wide range of actions to implement the goals and policies of the plan. These implementation actions fall into three broad categories: (1) policies, plans and regulations that define the location, form and character of public and private projects; (2) capital projects that are financed by the City, grants or other funding sources; and (3) a range of programs that include subject areas such as economic development, housing, transportation, conservation, water supply, broadband access, neighborhood engagement, as well as many more.\n\n### 2021 Implementation Update\n\nThe Comprehensive Plan Implementation Update 2021 identifies the Plan's policies, the corresponding implementation actions and completion timelines, and their status as of the end of 2021.\n\n- Use the Comprehensive Plan daily for policy guidance in the review of development projects and the implementation of other projects;\n- Align the Plan's goals and policies with implementation actions and coordinate project implementation with the City's Capital Improvements Plan and other funding sources;\n- Propose any amendments to the Comprehensive Plan as needed, recognizing that Arvada is a dynamic and ever-changing city and periodic updates to the Plan will keep the plan current.\n- Provide annual updates to City Council on the status of implementing the Comprehensive Plan.\n- Download the [Comprehensive Plan Implementation Update 2021 (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68cc056039bfe).\n- Download the [Comprehensive Plan Implementation Update 2021 Summary (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=68cc0556f4c90).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

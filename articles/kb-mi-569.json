@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "upholsterers",
+      "code",
+      "personal",
+      "property",
+      "tangible",
+      "upon",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/383/Upholsterers"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-569",
+    "spreadsheet_id": "MI-569",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Upholsterers",
+    "summary": "The Arvada Municipal Code imposes a sales tax on tangible personal property and certain taxable services, including those provided by upholsterers. Upholsterers must separately state labor charges from the cost of materials, with the latter subject to sales tax, while materials that become part of the finished item can be purchased tax-free. If an upholsterer sells a repaired item, they are required to collect sales tax on the total selling price.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax upon the purchase price paid for tangible personal property and certain taxable services in the City by the ultimate user or consumer. This also includes a use tax upon using, storing, distributing, or otherwise consuming in the City any article of tangible personal property purchased, leased, or rented from sources outside the City on which a lawfully imposed sales tax has not been paid.\n\nAn upholsterer that is in business to repair, recover or upholster property that is provided by the customer is engaged in selling tangible personal property and service. The labor portion of the service must be separately stated from the tangible personal property; otherwise, that entire amount would be subject to sales tax. The tangible personal property or materials portion is subject to sales tax.\n\nIf the upholsterer purchases property that he repairs or upholsters and then sells the finished item, then the upholsterer is required to collect sales tax on the full selling price of the item. Upholstery materials can be purchased tax-free, however, sales or use tax must be paid when the items are used or consumed and do not become a part of the finished item.\n\n## Example\n\n- Tony, the local upholsterer, upholsters chairs. When a customer brings in their chairs to be upholstered, Tony helps them pick out the new fabric that will be used. When Tony is done he bills the customer for the fabric, tacks, and the new stuffing that is used. The materials are all subject to sales tax. Tony separately charges his service/labor for the time it took him to upholster the chair.\n- Bob's Upholstery buys old used dining room furniture at auctions for resale. Bob then repairs or upholsters the furniture before it is put up for sale. The materials such as fabric, varnish, and nails that become part of the furniture, can be purchased tax-free, however, the sandpaper and the equipment used to repair the furniture is subject to sales or use tax. Once Bob is done, Bob can sell the furniture in his front showroom and the total sale price of the furniture is subject to sales tax.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

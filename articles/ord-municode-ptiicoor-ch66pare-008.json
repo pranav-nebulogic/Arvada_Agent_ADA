@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "closed",
+      "areas",
+      "generally",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-27"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-27. - Closed areas generally.",
+    "summary": "It shall be unlawful for any person to enter into or trespass upon any enclosed areas\n               of a park, including, but not limited to, fenced swimming pools, tennis courts and\n               buildings whenever such facilities are closed to the public by locked gates, doors\n               or …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-27. - Closed areas generally.",
+        "a": "It shall be unlawful for any person to enter into or trespass upon any enclosed areas\n               of a park, including, but not limited to, fenced swimming pools, tennis courts and\n               buildings whenever such facilities are closed to the public by locked gates, doors\n               or barricades or where any enclosed area of a park is posted with a sign restricting\n               the use of said facility.\n(Code 1960, § 17-29; Code 1981, § 22-8)\nState Law reference—\nCriminal trespass, C.R.S. § 18-4-502 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-27"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

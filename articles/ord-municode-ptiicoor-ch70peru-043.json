@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "time",
+      "reporting",
+      "attendance",
+      "all",
+      "employees",
+      "recorded",
+      "daily"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-101"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-101. - Time reporting.",
+    "summary": "(a)\nThe attendance of all employees is recorded daily by each department and is submitted\n               to payroll every two weeks. Attendance records are city records and care must be exercised\n               in recording the hours worked, overtime hours, compensatory time accruals, leave taken,\n …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-101. - Time reporting.",
+        "a": "(a)\nThe attendance of all employees is recorded daily by each department and is submitted\n               to payroll every two weeks. Attendance records are city records and care must be exercised\n               in recording the hours worked, overtime hours, compensatory time accruals, leave taken,\n               and absences. Employees are responsible for accurately and correctly recording their\n               own time and may not complete time records for another employee unless specifically\n               authorized to do so by that employee's appointing authority or their designee.\n(b)\nAny time away from work during an employee's scheduled hours must be documented on\n               the time entry form. Time away from work requires prior approval from the employee's\n               supervisor. Use of sick, vacation, holiday, floating holiday, compensatory time, or\n               any other use of time must be reported. Leave time can be used in 15-minute increments.\n               Regular and probationary employees must account for all scheduled time by entering\n               hours worked or approved paid or unpaid leave.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-101"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "fees",
+      "all",
+      "original",
+      "applications",
+      "shall",
+      "accompanied",
+      "nonrefundable"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-204"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-204. - Fees.",
+    "summary": "(a)\nAll original applications shall be accompanied by a $1,000.00 nonrefundable application\n               fee to defray the cost of reviewing and evaluating the application.\n(b)\nThe annual license fee for pawnshops shall be $5,000.00.\n(c)\nNo fee is refundable in the event of revocation or suspensio…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-204. - Fees.",
+        "a": "(a)\nAll original applications shall be accompanied by a $1,000.00 nonrefundable application\n               fee to defray the cost of reviewing and evaluating the application.\n(b)\nThe annual license fee for pawnshops shall be $5,000.00.\n(c)\nNo fee is refundable in the event of revocation or suspension of a license.\n(d)\nThe police department shall issue a quarterly invoice to each licensee listing the\n               charges for all forms used by the police department pursuant to the state statute\n               regulating pawnshops. Invoices shall be payable within 30 days.\n(Code 1981, § 23-4; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-204"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

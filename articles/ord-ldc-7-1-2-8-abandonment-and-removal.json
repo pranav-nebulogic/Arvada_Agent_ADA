@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "abandonment",
+      "removal",
+      "generally",
+      "period",
+      "days",
+      "owner",
+      "notify",
+      "city",
+      "indicate",
+      "whether"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-2-8"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-2. OPERATIONAL STANDARDS"
+  },
+  "content": {
+    "title": "7-1-2-8. Abandonment and removal.",
+    "summary": "A.\tGenerally. If a WCF has not been in use for a period of 90 days, the owner of the WCF shall notify the City of the non-use and shall indicate whether re-use is expected within the ensuing 90 days.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-2-8. Abandonment and removal.",
+        "a": "A.\tGenerally. If a WCF has not been in use for a period of 90 days, the owner of the WCF shall notify the City of the non-use and shall indicate whether re-use is expected within the ensuing 90 days. Any WCF that is not operated for a continuous period of 180 days shall be considered abandoned.\nB.\tRemoval of Abandoned WCF. The City, in its sole discretion, may require an abandoned WCF to be removed. The owner of such WCF shall remove the same within 30 days of receipt of written notice from the City. If such WCF is not removed within said 30 days, the City may remove it at the owner's expense and any approved permits for the WCF shall be deemed to have expired."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-2-8"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

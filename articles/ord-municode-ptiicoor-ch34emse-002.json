@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "imposition",
+      "charge",
+      "pursuant",
+      "provisions",
+      "seq",
+      "amended",
+      "hereby"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH34EMSE"
+    ],
+    "scraped_at": "2026-06-10T12:02:33.665000+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 34-31",
+      "§ 29-11"
+    ],
+    "chapter": "Chapter 34 - EMERGENCY SERVICES"
+  },
+  "content": {
+    "title": "Chapter 34 - EMERGENCY SERVICES — Sec. 34-31. - Imposition of charge.",
+    "summary": "Pursuant to the provisions of C.R.S. § 29-11-101 et seq., as amended, there is hereby\n               imposed upon all telephone exchange access facilities within the city an emergency\n               telephone charge per exchange access facility, whenever and for such period of time\n               as…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 34-31. - Imposition of charge.",
+        "a": "Pursuant to the provisions of C.R.S. § 29-11-101 et seq., as amended, there is hereby\n               imposed upon all telephone exchange access facilities within the city an emergency\n               telephone charge per exchange access facility, whenever and for such period of time\n               as the Jefferson County Emergency Telephone Service Authority deems appropriate, in\n               an amount up to and including $0.40 per exchange access facility or two percent of\n               the tariff rate as defined in C.R.S. § 29-11-102(2), whichever at any point in time\n               is lower. Upon recommendation of the Jefferson County Emergency Telephone Service\n               Authority, the city council may, by resolution, raise or lower the emergency telephone\n               charge, but in no event shall such charge exceed the amount authorized by the tariff\n               as approved by the state public utilities commission.\n(Code 1981, § 2-194; Ord. No. 2116, § 1, 10-15-1984; Ord. No. 2247, § 1, 12-2-1985)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 34-31",
+      "§ 29-11"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

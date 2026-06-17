@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "infrastructure",
+      "department",
+      "miles",
+      "mission",
+      "break",
+      "call",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1301/Infrastructure"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-276",
+    "spreadsheet_id": "MI-276",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Infrastructure",
+    "summary": "The Infrastructure Department of Arvada is dedicated to providing safe and reliable infrastructure services, managing over 1,500 lane miles of streets, extensive cycling facilities, traffic signals, and water distribution systems. The department also oversees waste hauling, ADA accessibility, and sustainability programs, and is accredited by the American Public Works Association, having received its initial accreditation in 2016 and re-accreditations in 2020 and 2023. For utility emergencies, residents are advised to call 720-898-7070.",
+    "body": "**In case of a utility emergency**, such as a water main break, call**720-898-7070**.\n\n# Mission\n\nThe mission of the Infrastructure Department is to provide safe, reliable, and resilient infrastructure services to maintain and enhance Arvada’s vibrant community.\n\n# About\n\nThe Infrastructure Department plans, maintains, and improves City infrastructure. This includes:\n\n- 1,500+ lane miles of paved streets\n- 50+ miles of on-street cycling facilities\n- 100+ traffic signals\n- 30000+ road signs\n- 600,000+ square feet of facilities\n- 700+ fleet vehicles\n- 650+ miles of water distribution pipe\n- 400+ miles of sewer line\n- 220+ miles of storm pipe\n- Roughly 2,300 storm and irrigation ditches\n- 2 water treatment plants\n\nThe Department also manages the City-run waste hauling, ADA accessibility and sustainability programs.\n\n## APWA Accreditation\n\n![APWA accreditation logo](/ImageRepository/Document?documentId=2656)The City of Arvada is [accredited organization](https://www.apwa.org/resources/accreditation/) with the [American Public Works Association (APWA)](https://www.apwa.org/). The evaluation and best practice review process provides a means of formally verifying and recognizing public works agencies for compliance with the recommended practices. Accreditation is a voluntary approach to evaluate, verify and recognize compliance with the recommended management practices. The City of Arvada was first accredited in 2016 with re-accreditations in 2020 and 2023.\n\n## More Information\n\n- [Public Improvement Projects](/612)\n  - [Infrastructure Year in Review](/970)\n- [Utilities](/785)\n  - [Utilities Transparency](/661)\n- [Roads and Transit](/462)\n\n### Additional resources:\n\n- [Adopt-a-Street program](/499)\n- [Engineering Code of Standards and Specifications](/167)\n- [Current Bid Opportunities](/242)\n- [Right-of-Way Permits and Applications](/650)\n- [Open Data Hub](https://gis-arvada.opendata.arcgis.com/)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

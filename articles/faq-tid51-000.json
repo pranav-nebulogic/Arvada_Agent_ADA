@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-51-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "city",
+      "team",
+      "manually",
+      "change",
+      "signal",
+      "timing",
+      "yes",
+      "possible",
+      "Public Improvement Projects - Traffic Detection Systems"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=51"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-the-city-team-manually-change-signal-timing",
+    "faq_category_name": "Public Improvement Projects - Traffic Detection Systems"
+  },
+  "content": {
+    "title": "Can the City team manually change signal timing?",
+    "summary": "Yes, this is possible but it is not always feasible with current resources and staffing. The City team is working to adjust timing on impacted intersections. However, traffic patterns can vary throughout the day and not all patterns can be adjusted at the same response time and accuracy that the det…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can the City team manually change signal timing?",
+        "a": "Yes, this is possible but it is not always feasible with current resources and staffing. The City team is working to adjust timing on impacted intersections. However, traffic patterns can vary throughout the day and not all patterns can be adjusted at the same response time and accuracy that the detection system can."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

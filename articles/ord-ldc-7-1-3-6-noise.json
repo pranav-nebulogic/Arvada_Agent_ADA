@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "noise",
+      "generated",
+      "site",
+      "must",
+      "exceed",
+      "levels",
+      "permitted",
+      "city",
+      "code",
+      "except"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-3-6"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-2. OPERATIONAL STANDARDS"
+  },
+  "content": {
+    "title": "7-1-3-6. Noise.",
+    "summary": "Noise generated on the site must not exceed the levels permitted in the City Code, except that a WCF owner or operator shall be permitted to exceed City Code noise standards for a reasonable period of time during repairs, not to exceed two hours, without prior authorization from the City.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-3-6. Noise.",
+        "a": "Noise generated on the site must not exceed the levels permitted in the City Code, except that a WCF owner or operator shall be permitted to exceed City Code noise standards for a reasonable period of time during repairs, not to exceed two hours, without prior authorization from the City."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-3-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

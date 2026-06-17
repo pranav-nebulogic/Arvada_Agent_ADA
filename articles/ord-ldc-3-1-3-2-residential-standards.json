@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "residential",
+      "standards",
+      "single",
+      "family",
+      "detached",
+      "zoning",
+      "districts",
+      "order",
+      "buffer",
+      "existing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-3-2"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-3. USE-SPECIFIC STANDARDS FOR PRIMARY LAND USE"
+  },
+  "content": {
+    "title": "3-1-3-2. Residential standards.",
+    "summary": "A.\tSingle-Family Detached.\n  1.\tIn the MX-S and MX-U zoning districts, in order to buffer existing single-family detached dwellings, the single-family detached lot shall only adjoin or be located across a local street from an existing or approved single-family residential subdivision.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-3-2. Residential standards.",
+        "a": "A.\tSingle-Family Detached.\n  1.\tIn the MX-S and MX-U zoning districts, in order to buffer existing single-family detached dwellings, the single-family detached lot shall only adjoin or be located across a local street from an existing or approved single-family residential subdivision. The lot width that is used for the housing type shall be within 25 percent of the average lot width of the adjoining lots or the lots that are directly across the local street (as applicable) that are developed with single-family detached dwelling units.\n  2.\tIn the MX-N district, single-family detached units shall not be adjacent to arterial streets.\nB.\tDuplex.\n  1.\tEach individual duplex dwelling unit shall have a separate exterior entrance and separate utility meters.\nC.\tTownhome.\n  1.\tEach individual townhome dwelling unit shall have direct access to a street, alley, or shared open space."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

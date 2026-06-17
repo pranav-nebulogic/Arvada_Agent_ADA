@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "lakes",
+      "ponds",
+      "streams",
+      "any",
+      "lake",
+      "stream",
+      "pond"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH66PARE"
+    ],
+    "scraped_at": "2026-06-10T12:03:03.436160+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 66-28"
+    ],
+    "chapter": "Chapter 66 - PARKS AND RECREATION"
+  },
+  "content": {
+    "title": "Chapter 66 - PARKS AND RECREATION — Sec. 66-28. - Lakes, ponds and streams.",
+    "summary": "In any lake, stream or pond in any public park within the city, no person shall swim,\n               wade, boat, raft or ice skate unless signs are posted expressly permitting such activity.\n(Code 1960, § 17-30; Code 1981, § 22-9)\nState Law reference—\nPower of city to regulate swimming areas, C.R.S.…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 66-28. - Lakes, ponds and streams.",
+        "a": "In any lake, stream or pond in any public park within the city, no person shall swim,\n               wade, boat, raft or ice skate unless signs are posted expressly permitting such activity.\n(Code 1960, § 17-30; Code 1981, § 22-9)\nState Law reference—\nPower of city to regulate swimming areas, C.R.S. § 25-5-808; power of city to regulate\n               boating, C.R.S. § 33-31-112."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 66-28"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "nepotism",
+      "appointing",
+      "authority",
+      "shall",
+      "appoint",
+      "promote",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-33"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-33. - Nepotism.",
+    "summary": "No appointing authority shall appoint or promote any member of the appointing authority's\n               immediate family to any position in the city. Unless a supervisory relationship between\n               immediate family members existed prior to January 1, 2007, from and after January\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-33. - Nepotism.",
+        "a": "No appointing authority shall appoint or promote any member of the appointing authority's\n               immediate family to any position in the city. Unless a supervisory relationship between\n               immediate family members existed prior to January 1, 2007, from and after January\n               1, 2007, no employee may directly or indirectly supervise any member of the employee's\n               immediate family. Immediate family means the employee's spouse, child, parent, sibling\n               (including natural, step, adopted, foster, or in-law relationships), aunt, uncle,\n               or cousin. This prohibition also applies to a person who the employee identifies as\n               the employee's significant other or domestic partner whose primary residence or place\n               of primary abode is the same as the employee. The restrictions of this section concerning\n               supervisory relationships shall apply to initial hires, transfers, assignments, demotions,\n               or promotions effective on or after December 23, 2006. Supervisors and managers may,\n               under emergency, short-term, or intermittent circumstances, and while acting under\n               the authority of their position, direct the actions of their immediate family to conduct\n               lawful and necessary activities related only to the emergency, short-term, or intermittent\n               circumstances. When a situation that runs contrary to this section arises through\n               promotion, transfer, or marriage, the affected individuals have 90 calendar days in\n               which to remedy the prohibited supervisory relationship by one of the employees transferring,\n               where possible, or terminating employment.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

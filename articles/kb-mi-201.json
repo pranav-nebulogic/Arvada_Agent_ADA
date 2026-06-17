@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "drop",
+      "shipments",
+      "purchaser",
+      "consumer",
+      "directly",
+      "order",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/322/Drop-Shipments"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-201",
+    "spreadsheet_id": "MI-201",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Drop Shipments",
+    "summary": "A drop shipment involves a seller shipping goods directly to a purchaser's customer at the purchaser's direction, resulting in two sales transactions: the retailer collects sales tax from the customer while providing a resale certificate to the wholesaler, making that sale nontaxable. Issues can arise in multi-state transactions regarding tax collection responsibilities and the determination of nexus. This summary serves as a simplified overview of relevant Arvada tax law and should be used alongside the full Arvada tax code for legal purposes.",
+    "body": "A drop shipment is a shipment of property from a seller directly to the purchaser's customer, at the direction of the purchaser. There are, at arm's length, three parties and two separate sales transactions. Generally, a retailer accepts an order from an end user/consumer, places this order with a third party, usually a manufacturer or wholesaler distributor, and directs the third party to ship the goods directly to the end purchaser/consumer. Drop shipments are examined as two transactions:\n\n- The retailer collects sales tax on the sale to its customer\n- The retailer furnishes a resale certificate to the primary seller/wholesaler - rending the sale a nontaxable transaction\n\nProblems arise when the parties are in different states, particularly when the retailer, the party generally held responsible for the collection, is in a different state from the transaction state. In these multi-state sales, taxpayers need to know whether either sales or both sales are taxable and who is responsible for collection. Questions emerge as to what constitutes nexus, what determines the location of the sales, and when is a supplier treated as an agent.\n\n## Example\n\nSales Number 1 − ABC Company (customer) purchases a computer system from XYZ Company (retailer). XYZ Company then bills ABC Company (customer) for the computer system along with sales tax.\n\nSales Number 2 − XYZ Company (retailer) places an order and provides a (resale certificate) to Computer Distributors for the computer system to be drop shipped to ABC Company (customer). Computer Distributors bill YYZ Company (retailer) for the computer system once shipped.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

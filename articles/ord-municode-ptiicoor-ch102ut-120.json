@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "short",
+      "title",
+      "article",
+      "known",
+      "cited",
+      "arvada",
+      "stormwater"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-351",
+      "§ 33-251"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-351. - Short title.",
+    "summary": "This article is known and may be cited as the \"Arvada Stormwater Management Utility\n               Ordinance.\"\n(Code 1981, § 33-251; Ord. No. 3701, § 1, 6-18-2001)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-351. - Short title.",
+        "a": "This article is known and may be cited as the \"Arvada Stormwater Management Utility\n               Ordinance.\"\n(Code 1981, § 33-251; Ord. No. 3701, § 1, 6-18-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-351",
+      "§ 33-251"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

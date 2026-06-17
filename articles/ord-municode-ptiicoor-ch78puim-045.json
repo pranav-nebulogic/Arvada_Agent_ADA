@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "methods",
+      "acquisition",
+      "improvement",
+      "generally",
+      "any",
+      "construction",
+      "work"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-46"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-46. - Methods of acquisition or improvement; generally.",
+    "summary": "Any construction work for or acquisition of any project shall be done in any one or\n               more of the following four ways by:\n(1)\nIndependent contract;\n(2)\nUse of municipally owned or leased equipment and municipal officers, agents and employees;\n(3)\nAny public body or by the federal govern…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-46. - Methods of acquisition or improvement; generally.",
+        "a": "Any construction work for or acquisition of any project shall be done in any one or\n               more of the following four ways by:\n(1)\nIndependent contract;\n(2)\nUse of municipally owned or leased equipment and municipal officers, agents and employees;\n(3)\nAny public body or by the federal government acquiring or improving a project or any\n                  interest therein which is herein authorized which results in general benefits to the\n                  city and in special benefits to the assessable property being assessed therefor by\n                  the city within its boundaries; or\n(4)\nPurchase of existing improvements at a cost determined acceptable by the city. In\n                  such case, nothing in\nsections 78-50\nthrough\n78-64\n, inclusive, shall be applicable.\n(Code 1981, § 27-47; Ord. No. 551, § 18(A), 5-14-1964; Ord. No. 2294, § 2, 7-7-1986)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-46"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

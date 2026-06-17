@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sign",
+      "permits",
+      "generally",
+      "required",
+      "prior",
+      "installation",
+      "construction",
+      "display",
+      "certain",
+      "signs"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-7-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-7. SIGN PERMITS AND ALTERNATIVE SIGN PROGRAMS"
+  },
+  "content": {
+    "title": "8-3-7-1. Sign permits.",
+    "summary": "A.\tGenerally. Sign Permits are required prior to the installation, construction, or display of certain signs, as provided in Chapter 6, Signs. In some cases, additional building permits may be required to install or construct a sign.\nB.\tForm of Application.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-7-1. Sign permits.",
+        "a": "A.\tGenerally. Sign Permits are required prior to the installation, construction, or display of certain signs, as provided in Chapter 6, Signs. In some cases, additional building permits may be required to install or construct a sign.\nB.\tForm of Application. Sign Permit applications shall be submitted and processed concurrently with all other building permits that are required (if any) for the erection, construction, or installation of the sign.\nC.\tTime Period for Submittal and Action.\n  1.\tThe time period within which action shall be taken on a complete sign permit application is set out in Section 8-2-3-11, Review by Director. The timing requirements apply to attached and detached signs that require sign permits.\n  2.\tAn Applicant may request an extension of the period for processing sign permits, in order to allow for simultaneous processing with a related application for development approval or for any other reason.\nD.\tApproval Criteria. A Sign Permit may only be issued if the Director finds that:\n  1.\tThe proposed sign complies with all applicable standards set forth in Chapter 6, Signs, or to the extent that it does not so comply:\n    a.\tAn Administrative Minor Modification (see Section 8-3-11-3, Administrative Minor Modifications) or a Variance (see Section 8-3-11-2, Variances) has been previously granted that establishes an alternative standard for compliance; or\n    b.\tThe Director finds that the \"other standards\" requirement in Section 6-1-5-2, Additional Standards for Detached Permanent Signs, with respect to the applicable zoning district where the sign is located, substantially burdens the Applicant's ability to display a primary detached permanent sign. In such cases, the Director may waive or modify the \"other standards\" with respect to a primary detached permanent sign; or\n  2.\tAn application for an Alternative Sign Program has been approved pursuant to the provisions of Section 8-3-7-2, Alternative Sign Program, and the sign permit application meets the standards set out in the Alternative Sign Program."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-7-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

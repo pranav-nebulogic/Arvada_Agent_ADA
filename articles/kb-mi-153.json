@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "common",
+      "parking",
+      "citations",
+      "information",
+      "loading",
+      "property",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/464/Common-Parking-Citations"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-153",
+    "spreadsheet_id": "MI-153",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Common Parking Citations",
+    "summary": "The article outlines common reasons for parking citations issued to residents and visitors, including loading zone infractions, violations of timed parking limitations, compact-only violations, and improper parking within designated spaces. Each infraction is enforceable under the municipal code, which specifies the rules regarding parking and the consequences for violations. Understanding these regulations can help individuals address or appeal their citations effectively.",
+    "body": "Did you receive a civil parking citation, and are now looking for more information on why you received the ticket? This page has information about some of the most common parking citations residents and visitors receive.\n\n## Common Ticket Reasons\n\n1. Loading zone infraction - definition is below and can be referenced in the Municipal Code:\n   - Loading and/or unloading means the continuous and uninterrupted activity of placing property into or removing property from a vehicle, or the receiving or discharging of passengers from a vehicle.\n2. Timed parking limitation in violation of posted sign - this infraction is enforceable under our municipal code as stated below and referenced in the Municipal Code:\n   - When a traffic control sign is placed or posted giving notice that no vehicle may remain parked for longer than the time specified on the sign, it shall be unlawful for any person to park a vehicle longer than the maximum time specified on the sign.\n     - If you moved your vehicle within the time frame allowed or left and returned to the area and still received a violation, before you appeal the ticket, please note if your vehicle was moved a minimum of 500 feet from the original space. If it was not, it was in violation of municipal code 54-155 (c)(i).\n3. Compact only violation, not within the length of white lines - this infraction is enforceable under our municipal code as stated below and referenced in the Municipal Code:\n   - When a traffic control sign is placed or posted giving notice of any parking, standing, or stopping prohibition, it shall be unlawful for any person to park, stop, or stand a vehicle in any manner in violation of that prohibition.\n4. Parking in space required, not within a single space - the reason for the citation is below and is referenced within our Municipal Code:\n   - In our Olde Town District there are space delineating pavement markings to indicate individual spaces. Parking in a manner that occupies multiple spaces diminishes the City's limited parking spaces.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

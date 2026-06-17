@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "iii",
+      "motor",
+      "vehicles",
+      "public",
+      "property",
+      "footnotes",
+      "editor"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 54-91"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — ARTICLE III. - MOTOR VEHICLES ON PUBLIC PROPERTY",
+    "summary": "Footnotes:\n--- (\n3\n) ---\nEditor's note—\nOrd. No. 4561, § 1, adopted Aug. 29, 2016\n, amended and restated former Art. III, §§ 54-91—54-97, in its entirety which pertained\n               to similar subject matter and derived from Code of 1960, §§ 16-C-1—16-C-5; Code of\n               1981, § 17-51—17-…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE III. - MOTOR VEHICLES ON PUBLIC PROPERTY",
+        "a": "Footnotes:\n--- (\n3\n) ---\nEditor's note—\nOrd. No. 4561, § 1, adopted Aug. 29, 2016\n, amended and restated former Art. III, §§ 54-91—54-97, in its entirety which pertained\n               to similar subject matter and derived from Code of 1960, §§ 16-C-1—16-C-5; Code of\n               1981, § 17-51—17-57; Ord. No. 2297, § 5, 5-5-1986.\nState Law reference—\nPower of city to regulate the local movement of traffic where not provided for by\n               law, C.R.S. § 42-4-109."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 54-91"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

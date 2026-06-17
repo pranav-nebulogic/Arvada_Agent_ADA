@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "parking",
+      "space",
+      "aisle",
+      "standards",
+      "generally",
+      "spaces",
+      "access",
+      "aisles",
+      "designed",
+      "according"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-3-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-3. PARKING AND LOADING DESIGN"
+  },
+  "content": {
+    "title": "4-5-3-2. Parking space and aisle standards.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-3-2. Parking space and aisle standards.",
+        "a": "A.\tGenerally. Parking spaces and access aisles shall be designed according to the standards of this Section.\nB.\tArrangement.\n  1.\tAll parking spaces located across from each other, on the opposite side of a drive lane, shall be located at the same angle to the drive lane, except that parallel parking may be provided on one side of the drive lane in order to enhance accessible access.\n  2.\tAngle parking located on a drive lane with a dead-end is not allowed unless:\n    a.\tThe angle of the parking space is 90 degrees to the direction of travel; or\n    b.\tThe geometry of the subject property requires such a configuration for an efficient parking layout and the Director determines that the design provides for safe circulation.\nC.\tDimensions. The size of a parking stall, its angle, and the width of the access aisles shall conform to the standards set out in Table 4-5-3-2, Parking Area Dimensions.\nD.\tLandscape. Landscape islands must be provided as indicated in Section 4-6-6-3, Parking Area Landscaping.\nE.\tAlternative Parking Dimensions. The Director may approve angles and dimensions that are different from those set out in Table 4-5-3-2, Illustrative Parking Area Dimensions, provided that the Applicant demonstrates that the angles and dimensions will provide for safe circulation and parking within the parking lot based on an AASHTO 2011 (US) - P design vehicle template, or such other template as the Director determines is appropriate based on the proposed land use.\nF.\tOverhangs. Where the adjacent sidewalk or landscape area is protected by a curb and is not less than seven feet in width, the length of standard parking spaces may be reduced by up to two feet. This allows a vehicle overhang up to two feet and an unobstructed walkway or landscape area of at least five feet in width. The use of wheel barriers in such locations is prohibited.\n(Ord. No. 4905, § 40, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-3-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

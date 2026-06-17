@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "article",
+      "generally",
+      "city",
+      "council",
+      "finds",
+      "enforcement",
+      "important",
+      "public",
+      "service"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "10-1-1-1"
+    ],
+    "chapter": "Chapter 10 ENFORCEMENT",
+    "article": "ARTICLE 10-1. ENFORCEMENT",
+    "division": "DIVISION 10-1-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "10-1-1-1. Purpose of article.",
+    "summary": "A.\tGenerally. The City Council finds that the enforcement of this LDC is an important public service, and that code enforcement is vital to the protection of the public health, safety, and quality of life.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "10-1-1-1. Purpose of article.",
+        "a": "A.\tGenerally. The City Council finds that the enforcement of this LDC is an important public service, and that code enforcement is vital to the protection of the public health, safety, and quality of life. The purpose of this Article is to encourage and enforce prompt compliance with the LDC.\nB.\tProcedures and Remedies are Not Exclusive. Nothing in this Article is intended to limit the remedies that are available to the City to prevent, cure, or abate violations of this LDC. This Article shall not be construed to prevent the City from using other enforcement procedures as are lawful and appropriate, nor shall it be construed to elect remedies."
+      }
+    ],
+    "ordinance_refs": [
+      "10-1-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

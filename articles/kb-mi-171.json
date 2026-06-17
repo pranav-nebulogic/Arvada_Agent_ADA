@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "court",
+      "records",
+      "request",
+      "information",
+      "forms",
+      "four",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/407/Court-Records-Request-Information"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-171",
+    "spreadsheet_id": "MI-171",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Court Records Request Information",
+    "summary": "To obtain court records for cases within the last four years, individuals must complete a Court Records Request Form and pay a $5 fee for a basic background check, along with any additional fees for more extensive research. If no record exists or the case is older than four years, the court can issue a letter confirming the absence of a record.",
+    "body": "You might need to obtain information of previous Court cases for the following reasons:\n\n- Military\n- Other Judicial Branches\n- Employment\n- Gaming License\n- Other\n\nCourt records are kept for four years. To obtain a certified copy of a previous Court case within the last four years you must:\n\n- Submit a completed [Court Records Request Form](https://arvada-forms.app.transform.civicplus.com/forms/32711)\n- Pay $5 for a basic background check\n- Pay additional fees detailed in the [Administrative Fee Schedule (PDF)](/DocumentCenter/View/363) if more in-depth research is required\n\nIf there is no record on file and/or the case is more than four years old, the court can provide a letter stating that the court no longer has a record.\n\n## Related Information\n\n[Rules Related to Public Access to Criminal Justice Records](/1529)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

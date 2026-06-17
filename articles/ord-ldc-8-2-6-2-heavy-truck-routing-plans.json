@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "heavy",
+      "truck",
+      "routing",
+      "plans",
+      "generally",
+      "plan",
+      "required",
+      "uses",
+      "specifically",
+      "identified"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-6-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-6. STUDIES AND REPORTS"
+  },
+  "content": {
+    "title": "8-2-6-2. Heavy truck routing plans.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-6-2. Heavy truck routing plans.",
+        "a": "A.\tGenerally. A heavy truck routing plan is required for uses as specifically identified in this LDC and for uses that the Director determines will involve the use of semi-trailers, dump trucks, trash hauling trucks, or comparable heavy vehicles at a frequency of more than 25 heavy truck trips per week. The heavy truck routing plan shall be followed once approved.\nB.\tUpdates. Heavy truck routing plans shall be updated when:\n  1.\tNew routes are proposed by the Applicant;\n  2.\tThe Applicant proposes to increase heavy truck traffic by more than 20 percent compared to that set out in the approved heavy truck routing plan;\n  3.\tRoutes are changed by the City or other relevant transportation authority in a manner that affects the approved heavy truck routing plan; or\n  4.\tThe nature of an existing land use changes in such a way that requires the use of a larger design vehicle, or an alternative method for maneuvering trucks.\nC.\tContents. The heavy truck routing plan shall include, at a minimum:\n  1.\tThe type or class of heavy trucks that will be associated with the proposed land use;\n  2.\tThe anticipated frequency of delivery and departures of heavy trucks;\n  3.\tThe hours of heavy truck traffic;\n  4.\tA map illustrating the route(s) to and from a limited access highway (or to and from anticipated destinations in the City, if traffic is not anticipated to be inter-city), of all heavy trucks associated with the proposed land use; and\n  5.\tA map illustrating the routing and flow of heavy trucks within the subject property."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-6-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

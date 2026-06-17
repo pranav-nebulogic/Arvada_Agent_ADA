@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "medical",
+      "inability",
+      "perform",
+      "employee",
+      "dismissed",
+      "disability",
+      "cannot"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-187"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-187. - Medical inability to perform.",
+    "summary": "(a)\nAn employee may be dismissed for disability or inability when the employee cannot\n               perform the essential functions of the position due to physical or mental impairment.\n               Separation from employment for such reasons shall not be deemed disciplinary and shall\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-187. - Medical inability to perform.",
+        "a": "(a)\nAn employee may be dismissed for disability or inability when the employee cannot\n               perform the essential functions of the position due to physical or mental impairment.\n               Separation from employment for such reasons shall not be deemed disciplinary and shall\n               be recorded as a medical separation. Employees may be required to submit to a physical\n               or mental examination in accordance with a policy established by the city manager.\n               Such examination(s) will be conducted by a medical provider selected and paid for\n               by the city.\n(b)\nIf treatment is recommended to remedy or alleviate the situation and the employee\n               does not submit to such treatment within required schedules, or if the treatment cannot\n               be completed within a reasonable timeframe, the employee may be dismissed due to the\n               disability. The city will determine what constitutes a reasonable timeframe based\n               on the business needs of the city.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-187"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

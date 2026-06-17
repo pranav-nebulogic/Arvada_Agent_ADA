@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "safety",
+      "security",
+      "workplace",
+      "violence",
+      "public",
+      "across",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1399/Safety-and-Security-in-your-Workplace"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-485",
+    "spreadsheet_id": "MI-485",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Safety and Security in your Workplace",
+    "summary": "Workplaces are increasingly recognized as potential targets for violence, necessitating proactive measures to enhance safety and preparedness. A course is offered to help businesses prevent violence, prepare for incidents, and become less vulnerable to crime, including a walkthrough assessment by an officer. For further details or to schedule a walkthrough, contact 720-898-6883.",
+    "body": "Often in the past, workplaces were not considered potential targets for violence. Unfortunately, due to recent tragic events across the world, we now know that places of business, worship, schools, public buildings, and other public areas are susceptible to violence. It is essential to take preventative steps now to help lessen the chance for violence and to ensure a better response to violence if it happens. This course covers:\n\n- Preventing violence at your workplace.\n- What you can do to prepare.\n- Things to consider to become a harder target to crime.\n\nAn officer will visit your place of work to meet with you and your staff. We will conduct a walkthrough, providing recommendations to enhance safety and reduce vulnerabilities for crime.\n\nFor more information or to request an officer to meet with you and walk through your place of business, please call 720-898-6883.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

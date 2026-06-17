@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "income",
+      "tax",
+      "return",
+      "statement",
+      "investment",
+      "lieu",
+      "complying"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-415"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-415. - Income tax return; statement of investment.",
+    "summary": "In lieu of complying with provisions of\nsections 2-411\nand\n2-412\n, any person subject to the provisions of\nsections 2-411\n—\n2-416\nmay elect to file with the city clerk annually a copy of such person's federal income\n               tax return and any separate federal income tax return filed by such p…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-415. - Income tax return; statement of investment.",
+        "a": "In lieu of complying with provisions of\nsections 2-411\nand\n2-412\n, any person subject to the provisions of\nsections 2-411\n—\n2-416\nmay elect to file with the city clerk annually a copy of such person's federal income\n               tax return and any separate federal income tax return filed by such person's spouse,\n               together with a statement of any investment held by such person or such person's spouse\n               which is not reflected by the income tax returns, which tax return and any statement\n               filed under the provisions of this section shall be public information.\n(Code 1960, § 2-3.4(e); Code 1981, § 2-7)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-415"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

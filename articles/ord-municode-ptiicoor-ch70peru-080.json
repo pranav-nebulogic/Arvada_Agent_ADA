@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "employee",
+      "committee",
+      "city",
+      "established",
+      "purpose",
+      "enhancing",
+      "communication"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-166"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-166. - Employee committee.",
+    "summary": "The city has established an employee committee for the purpose of enhancing communication\n               for both the city manager and the city employees. Representatives to the employee\n               committee are selected by each department. Representatives may meet monthly with the\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-166. - Employee committee.",
+        "a": "The city has established an employee committee for the purpose of enhancing communication\n               for both the city manager and the city employees. Representatives to the employee\n               committee are selected by each department. Representatives may meet monthly with the\n               city manager or their designee. The city manager may periodically discuss with the\n               employee committee any employee issues which the city manager deems necessary to discuss\n               with the committee. Employee committee members may use this meeting time to discuss\n               any issues or employee concerns with the city manager or their designee. Representation\n               on the committee will be established by the bylaws of the committee. The employee\n               committee may collect and expend funds for sanctioned activities and events related\n               to employee recognition, activities that benefit employees, or community service.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-166"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

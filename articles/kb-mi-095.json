@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "barber",
+      "nichols",
+      "plant",
+      "expansion",
+      "council",
+      "hearing",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1487/Barber-Nichols-Plant-Expansion-2"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-095",
+    "spreadsheet_id": "MI-095",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Barber-Nichols Plant Expansion #2",
+    "summary": "Barber-Nichols is planning to expand its manufacturing operations by constructing a new facility at 6290 W 56th Ave, which will consolidate machining operations from three existing buildings into one. The project, covering approximately 1.793 acres, is set for a Planning Commission public hearing on April 1, 2026, with subsequent City Council readings and hearings scheduled for May and June 2026. The expansion aims to enhance production efficiency and support the company's continued growth in the aerospace and defense sector.",
+    "body": "![Aerial view of Barber-Nichols expansion site on W 56th Ave](/ImageRepository/Document?documentId=7154)\n\n## DA2025-0057\n\n### Project Name: Barber-Nichols Plant Expansion #2\n\n- **Address/Location:** 6290 W 56th Ave\n- **Developer:**Barber-Nichols\n- **Planner:**Chris Sandine\n- **Acres:**1.793\n- **Use:**Industrial\n- **Planning Commission Public Hearing:** April 1, 2026\n- **City Council First Reading:**May 19, 2026\n- **City Council Public Hearing:** June 16, 2026\n\n**Project Narrative from the Developer:** Barber-Nichols (B-N) is an aerospace/defense contractor located at 6325 W 55th Ave. in Arvada. We design, manufacture, assemble, test, and service specialty pumps, turbines, compressors and their integrated systems. Our business has been growing for over 15 years at a rate of 10%/year or more. As we have grown, we have added jobs, acquired, refurbished and improved adjacent buildings and property, adding them to our campus while generally improving our neighborhood. At this point B-N needs to make a significant move to consolidate our machining operations and improve overall production efficiency. We intend to do this by building a new manufacturing building on property we have recently acquired and consolidate machining operations from three buildings into one.\n\nThe acquired property is located at 6290 W. 56th Ave. The overall land dimensions are approximately 162 ft wide (along 56th Ave) and 480 ft deep making up approximately 1.7 acres. The land is in unincorporated Jefferson County and most recently is residential with a significant amount of outdoor storage on the property. There is an existing home that will be demolished eventually. This lot is near to our existing facility campus and will be developed to similarly match the existing buildings.\n\n[Learn more about the project.](https://aca-prod.accela.com/ARVADA)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "council",
+      "selects",
+      "manager",
+      "finalist",
+      "wick",
+      "april",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1286/Arvada-City-Council-Selects-City-Manager"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-055",
+    "spreadsheet_id": "MI-055",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada City Council Selects City Manager Finalist",
+    "summary": "The Arvada City Council has selected Don Wick as the finalist for City Manager, directing staff to begin contract negotiations with him. Wick, who has over 30 years of public service experience and currently serves as Deputy City Manager, is expected to be formally appointed at the May 6, 2025 meeting. He has held various leadership roles within the city and is recognized for his collaborative approach and commitment to community development.",
+    "body": "April 23, 2025 -- Arvada, CO - During the Arvada City Council meeting on Tuesday, April 22, the City Council announced Don Wick as their finalist for City Manager. City Council gave City staff direction to begin negotiations with Mr. Wick. At the May 6, 2025 business meeting, the Arvada City Council is expected to take action to approve the appointment of Mr. Wick.  \n  \nWith more than 30 years of public service experience and a deep commitment to the community he calls home, Wick currently serves as a Deputy City Manager for Arvada overseeing key city operations including police, public works, utilities, community development, parks, golf and hospitality and emergency management.  \n  \nAdditionally, as a Deputy City Manager, Wick leads major initiatives such as Arvada’s participation in the Harvard/Bloomberg City Leadership Innovation Track where he guides the City’s project to take advantage of the investment in Quantum COmmons, and he represents Arvada in the regional transportation planning through the State of Colorado’s Mountain Rail Project. Wick also serves on the board of the Metro Water Recovery.  \n  \nPrior to becoming Deputy City Manager, Wick held senior leadership roles with the City, including Chief of Police and Director of Public Works, before advancing to Deputy City Manager.\n\nHolding master’s degrees in Business Administration and Public Administration, Wick brings a unique background that blends private-sector experience with public safety, infrastructure and civic leadership. Known for his collaborative approach and forward-thinking mindset, he remains focused on building a thriving and inclusive future for Arvada.\n\nFor further information about the City Manager selection process, visit Arvada's [City Manager Selection webpage](http://ArvadaCo.gov/1151/City-Manager-Selection).\n\n![Don Wick Headshot](/ImageRepository/Document?documentID=5563)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

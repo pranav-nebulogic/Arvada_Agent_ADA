@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "term",
+      "declaration",
+      "civil",
+      "emergency",
+      "disaster",
+      "shall",
+      "effect"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-36"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-36. - Term of declaration.",
+    "summary": "The declaration of a civil emergency, emergency, or disaster shall be in effect as\n               determined by the city manager for a period of up to seven calendar days. This period\n               may be extended upon submission of a request by the city manager and the approval\n               of t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-36. - Term of declaration.",
+        "a": "The declaration of a civil emergency, emergency, or disaster shall be in effect as\n               determined by the city manager for a period of up to seven calendar days. This period\n               may be extended upon submission of a request by the city manager and the approval\n               of the city council. In the event a quorum of the city council cannot be assembled\n               to approve a continuance of the declaration, such declaration shall remain in effect\n               until such time as a quorum can be assembled. In the event a quorum of the city council\n               can meet to provide the city manager with advice and consultation during the pendency\n               of a declaration, such meeting shall be held in compliance with the Colorado Open\n               Meetings Law and city council rules and procedures as soon as possible, but in no\n               event later than seven calendar days following the initial declaration.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-36"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

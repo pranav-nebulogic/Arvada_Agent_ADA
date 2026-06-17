@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "nuisances",
+      "abatement",
+      "procedures",
+      "rubbish",
+      "garbage",
+      "intent",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-4"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-4. - Nuisances and abatement procedures for rubbish and garbage.",
+    "summary": "It is the intent of the city to require the removal of rubbish and garbage of all\n               kinds from lots and tracts of land within the city in the manner provided by Article\n               XI, of\nChapter 18\n, Buildings and Building Regulations. Failure to properly remove rubbish and garbage\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-4. - Nuisances and abatement procedures for rubbish and garbage.",
+        "a": "It is the intent of the city to require the removal of rubbish and garbage of all\n               kinds from lots and tracts of land within the city in the manner provided by Article\n               XI, of\nChapter 18\n, Buildings and Building Regulations. Failure to properly remove rubbish and garbage\n               shall be sufficient cause for the city to avail itself of the procedures described\n               in Division 1, Article III, of\nChapter 38\n, Environment.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

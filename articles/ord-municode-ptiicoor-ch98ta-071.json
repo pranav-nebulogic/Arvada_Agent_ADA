@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "intent",
+      "city",
+      "council",
+      "every",
+      "person",
+      "purchases"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-242"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-242. - Legislative intent.",
+    "summary": "It is the legislative intent of the city council that every person who purchases lodging\n               in the city is exercising a taxable privilege. It is also the intent of the city council\n               that every person who is engaged in business in the city and who furnishes lodging\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-242. - Legislative intent.",
+        "a": "It is the legislative intent of the city council that every person who purchases lodging\n               in the city is exercising a taxable privilege. It is also the intent of the city council\n               that every person who is engaged in business in the city and who furnishes lodging\n               shall collect the tax imposed under this article.\n(Code 1981, § 31-102; Ord. No. 3783, § 2, 12-16-2002; Ord. No.\n4741\n, § 4, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-242"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

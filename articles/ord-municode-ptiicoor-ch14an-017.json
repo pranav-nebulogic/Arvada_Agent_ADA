@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "dog",
+      "license",
+      "required",
+      "any",
+      "over",
+      "age",
+      "four"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-42"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-42. - Dog license required.",
+    "summary": "(a)\nA license is required for any dog over the age of four months, within 30 days of acquisition\n               of said dog, or within 30 days of the owner moving into the city, whichever occurs\n               last. It shall be unlawful for the owner of any such dog to fail to obtain such license.\n(…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-42. - Dog license required.",
+        "a": "(a)\nA license is required for any dog over the age of four months, within 30 days of acquisition\n               of said dog, or within 30 days of the owner moving into the city, whichever occurs\n               last. It shall be unlawful for the owner of any such dog to fail to obtain such license.\n(b)\nApplication for such license shall be made to the Foothills Animal Shelter or such\n               agents as designated by the Foothills Animal Shelter. The Foothills Animal Shelter\n               or such agents as designated by the City of Arvada will administer the City of Arvada's\n               dog licensing program and issue dog licenses.\n(c)\nTo obtain a dog license, a dog owner must submit proof of a current rabies vaccination\n               administered by a Colorado licensed veterinarian within 365 days prior to licensing,\n               or in the case of a booster vaccination, within the time period recommended by the\n               animal compendium of animal rabies control.\n(d)\nThe dog owner must renew the dog license once every 365 days.\n(e)\nLicense fees, including fees for renewal licenses, shall be set by the Foothills Animal\n               Shelter Board of Directors. Fees shall be reduced for spayed or neutered dogs. Proof\n               of spaying or neutering by a licensed veterinarian is required for a dog to qualify\n               for the reduced license fee.\n(1)\nA dog owner may request a reduced license fee if, for medical reasons, a dog cannot\n               be vaccinated or spayed or neutered. Any dog owner making such a request must submit\n               to the Foothills Animal Shelter or such agents as designated by the Foothills Animal\n               Shelter an affidavit signed by a licensed veterinarian stating why the dog is unable\n               to be vaccinated or spayed or neutered.\n(2)\nAn assistance dog must be licensed as set forth herein. A person with a disability\n               is exempt from any licensing fees that might otherwise apply as set forth in C.R.S.\n               § 24-34-803.\n(f)\nLicense fees shall be used for operational expenses of the Foothills Animal Shelter.\n(g)\nAny dog owner or entity exempt from Jefferson County's dog licensing requirements\n               shall be exempt from the provisions of this\nsection 14-42\n.\n(\nOrd. No. 4060, § 2, 3-19-2007\n;\nOrd. No. 4399, § 2, 8-5-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-42"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

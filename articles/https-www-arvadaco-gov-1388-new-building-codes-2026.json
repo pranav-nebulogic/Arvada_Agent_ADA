@@ -1,0 +1,111 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/1388/New-Building-Codes-2026"
+    ],
+    "scraped_at": "2026-06-10T10:57:13.911138+00:00",
+    "content_hash": "65ec9765916fd6c1a615f52f56653a535b9b4604b2dbb563ab5ffef043e07ec2",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "2026 Building Code Updates in the City of Arvada, CO",
+    "summary": "The City of Arvada is updating its building codes effective July 1, 2026, to incorporate new wildfire resiliency, energy efficiency, and residential sprinkler system requirements. These updates reflect the latest national standards and aim to improve safety, energy conservation, and preparedness for new technologies.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Understand the changes",
+        "text": "Review the key changes including wildfire codes, energy codes, and residential sprinkler system requirements that will impact new construction and certain existing structures.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Determine if you are impacted",
+        "text": "If you plan any construction, renovation, alteration, remodel, repair, demolition, or change of occupancy, check if your project is subject to the new codes. Permits submitted before July 1, 2026, may use the 2018 codes; permits submitted after must comply with the 2026 codes. Contact the Building Safety Division at building[email protected] for questions.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 3,
+        "title": "Check ongoing permits",
+        "text": "If you have an ongoing or issued building permit approved under current codes, your project should not be affected as long as the permit remains active and work continues.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Review development projects",
+        "text": "For projects in the development application stage or with master permits approved or under review, an implementation plan allows alignment with the 2018 codes. Contact the Building Safety Division to review your project and understand expectations.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 5,
+        "title": "Prepare for implementation",
+        "text": "The new codes were approved on March 24, 2026, adopted on April 1, 2026, and will be implemented starting July 1, 2026. Stay updated via the City of Arvada website and contact the Building Division with questions.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "What are building codes?",
+        "a": "Building codes are minimum construction requirements that ensure safety, affordability, structural strength, sanitation, energy conservation, and protection from hazards in places where people live, work, and play."
+      },
+      {
+        "q": "Why are the building codes changing?",
+        "a": "Codes are updated every three to six years to keep up with industry practices, innovations, new materials, and to ensure consistency across municipalities. The 2024 International Codes reflect the latest national standards."
+      },
+      {
+        "q": "What are the major changes in the 2026 update?",
+        "a": "The biggest changes involve wildfire resiliency codes, energy codes incorporating electric-ready and solar-ready requirements, and new requirements for sprinkler systems in new single-family homes, duplexes, and townhomes."
+      },
+      {
+        "q": "Who will be affected by the wildfire codes?",
+        "a": "Structures within the wildland urban interface areas will have new requirements for structural hardening and defensible space, affecting new construction and some existing structures in identified risk areas."
+      },
+      {
+        "q": "Will existing homes be required to install sprinkler systems?",
+        "a": "No, the new sprinkler system requirements apply only to new single-family homes, duplexes, and townhomes, not existing homes."
+      },
+      {
+        "q": "How can I find out if my property is in a wildfire risk area?",
+        "a": "You can search by address on the City of Arvada website to see if your property is within an identified wildfire risk area."
+      },
+      {
+        "q": "What if I have a permit issued under the current codes?",
+        "a": "Your project should not be affected by the new codes as long as your permit remains in good status and work continues."
+      },
+      {
+        "q": "Who can I contact for questions about the new building codes?",
+        "a": "Contact the Building Safety Division at building[email protected] for any questions regarding the 2026 building code updates."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Building Permit",
+      "Development Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2881
+}

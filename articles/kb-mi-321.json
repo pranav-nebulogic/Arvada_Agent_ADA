@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "metro",
+      "districts",
+      "district",
+      "page",
+      "bonds",
+      "bottom",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1453/Metro-Districts"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-321",
+    "spreadsheet_id": "MI-321",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Metro Districts",
+    "summary": "Metro districts in Arvada are independent governmental entities that can issue bonds, levy property taxes, and finance infrastructure projects such as water, sewer, and parks. They are created through a process governed by state law and the Arvada City Code, with oversight from the City Council, which approves service plans and intergovernmental agreements. Funding for these districts comes from property taxes and fees, and they are subject to Colorado's Taxpayer’s Bill of Rights (TABOR).",
+    "body": "This page includes information on metro districts in Arvada, including details about what they are and their purpose. At the bottom of the page, you can find a list of metro districts located in Arvada.\n\n## What is a metro district and what does it do?\n\nA metro district (short for \"metropolitan district\") is an independent governmental entity within Colorado that can issue bonds, levy property taxes (mills) and finance infrastructure projects like water, sewer, streets, drainage, parks, recreation, trails, transportation, fire protection, mosquito control, etc. Metro districts are frequently used to fund the construction of infrastructure necessary for new residential developments, because metro districts are able to borrow money at lower interest rates and are able to fund infrastructure development more quickly than might otherwise be possible. In some instances, metro districts may also operate and maintain the infrastructure or other public facilities.\n\n## How are metro districts created and governed, and how is the City involved?\n\nIn Arvada, metro districts are formed and approved through a specific process governed by state law and by Chapter 91 of the Arvada City Code. As part of that process, the City Council approves a service plan for the metro district and an intergovernmental agreement between the metro district and the City.\n\nOnce a metro district is formed, it is governed by an elected board of directors, which may consist of developer representatives, homeowners, or both. After formation, the City’s role in metro district oversight involves:\n\n- Ensuring compliance with an existing service plan\n- Approval of certain material changes to the service plan\n- Ensuring compliance with any intergovernmental agreement between the City and the metro district\n- Issuing/enforcing certain regulations generally applicable throughout the City (such as building codes)\n\nThe City is not involved in the day-to-day operations of a metro district so long as those operations do not conflict with the applicable service plan and intergovernmental agreement.\n\n### What is a service plan, and why is it important?\n\nA service plan outlines the services a metro district may provide and serves as a guiding document for its operations. The plan must be approved by the City and any material modifications require further approval. The district’s actions and activities must conform to its service plan. The City has adopted a [model service plan](/DocumentCenter/View/7016).\n\n## How are metro districts funded?\n\nMetro districts are funded through property taxes, fees and other revenue sources. They may impose mill levies (i.e. property tax) for repayment of debt and general operating expenses, and they can also charge fees, rates, tolls and penalties for services provided. Metro districts are subject to the constitutional limitations in the Colorado Taxpayer’s Bill of Rights (TABOR).\n\nMetro districts can have a number of impacts on the residents living in them. Read more on the [Metro districts: Resident impacts page](https://www.arvadaco.gov/1454/Metro-Districts-Resident-Impact).\n\n## List of Arvada metro districts\n\nBelow is a list of metro districts in Colorado. Please note that this is not an exhaustive list.\n\n- [Boyd Ponds Metropolitan District No. 2](https://www.boydpondsmd2.org/)\n- [Canyon Pines Metropolitan District](https://canyonpinesmd.org/)\n- [Cimarron Metropolitan District](https://www.cimarronmetrodistrict.com/)\n- [GEOS Neighborhood Metropolitan District](https://geosmetro.specialdistrict.org/)\n- [Haskins Station Metropolitan District](https://www.haskinsstationmetrodistrict.com/)\n- [Hometown Metropolitan District No. 2](https://hometownmd2.colorado.gov/)\n- Howard Ranch Metropolitan District (website coming soon)\n- [Jefferson Center Metropolitan District No. 1](https://jeffersoncentermd1.colorado.gov/)\n- [Jefferson Center Metropolitan District No. 2](https://jeffersoncentermd2.colorado.gov/)\n- [Kipling Ridge Metropolitan District](https://www.kiplingridgemd.org/)\n- [Leyden Ranch Metropolitan District](https://www.leydenranchmetrodistrict.org/)\n- [Leyden Rock Metropolitan District No. 10](https://www.leydenrocklife.com/)\n- [Mountain Shadows (Whisper Creek) Metropolitan District](https://www.mountainshadowsmd.org/)\n- [Richards Farm Metropolitan District No. 2](https://www.richardsfarmmetro.org/)\n- [Sabell Metropolitan District](https://sabellmetrodistrict.com/)\n- [Spring Mesa (Eldorado Hills) Metropolitan District](https://www.springmesa.org/)\n- [Vauxmont Metropolitan District](https://www.vauxmontmd.gov/)\n- [West Point (Village of Five Parks) Metropolitan District](https://www.westpointmd.com/)\n- [Westown (Hometown District No. 1) Metropolitan District](https://www.westownmd.org/)\n\n[This map shows all the metro districts in the State of Colorado](https://data.colorado.gov/Local-Aggregation/Map-of-Metro-Districts-in-Colorado/knbf-ggf2), or you can [see all the metro districts in Jefferson County on this map](https://gis.jeffco.us/webmaps/jmap/index.html) by following these steps:\n\n- In the right side Layer List, scroll down and open the Special District dropdown\n- Select Metropolitan District\n- Use the +/- in the upper left to zoom in and use your cursor to drag the map to view Arvada\n- Click each highlighted area to see its borders outlined\n\n## Questions?\n\nThe best way to get information about your metro district is to reach out directly to the board members or the contact person (i.e. general counsel or a manager) of the district using the webpages linked above.\n\nIf you have any general questions about metro districts, please reach out to the Planner of the Day, at 720-898-7435 or [[email protected]](/cdn-cgi/l/email-protection#9bebf4ffdbfae9edfafffab5f4e9fc).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

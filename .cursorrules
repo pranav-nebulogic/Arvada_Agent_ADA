@@ -1,0 +1,65 @@
+# .cursorrules — Arvada Permits AI Agent
+
+## Project Identity
+You are building a **production AI agent microservice** for a city government permits & licenses platform.
+This is a standalone Python service that will later integrate with a Java/Spring Boot backend.
+The city is City of Arvada, Colorado. The agent must be multi-city configurable (city_id tenant isolation).
+
+## Language & Framework Rules
+- **Python 3.11+** only. Use modern syntax: match/case, `X | None`, `list[str]` not `List[str]`.
+- **FastAPI** for the HTTP layer. Always use `async def` for route handlers.
+- **LangGraph 0.3+** for agent orchestration. Never use LangChain Expression Language (LCEL) — use LangGraph nodes.
+- **Pydantic v2** for all data models. Use `model_validator` not `validator`. Use `field_validator` not `@validator`.
+- **asyncpg** for Postgres. Never use SQLAlchemy — too heavy for this service.
+- **redisvl** for semantic cache. Never raw Redis string keys for semantic search.
+
+## Architecture Non-Negotiables
+1. **city_id is ALWAYS injected server-side** from the JWT header (`X-City-ID`). Never read it from the request body.
+2. **Postgres RLS** enforces tenant isolation. Always `SET LOCAL app.tenant_id = $city_id` before any query.
+3. **SSE streaming** via `StreamingResponse(media_type="text/event-stream")`. Always include `X-Accel-Buffering: no` header.
+4. **Parallel execution** for independent operations. Use `asyncio.gather()` for embed + cache check, classify + retrieve.
+5. **Never use an LLM for fee calculations.** Fee calc is always a deterministic rule engine from `fee_schedules` table.
+6. **Never guess fees, dates, or phone numbers.** If not in retrieved context → say "please verify with the city directly".
+7. **Every answer cites sources.** Citation = `{title, url, effective_date, section}` emitted as SSE `citation` event.
+8. **Judge runs async, post-stream.** Never block TTFT with the judge. Emit `warning` event if judge fails.
+9. **Semantic cache threshold ≥ 0.92** for factual permit content. Never lower — wrong cached answers destroy trust.
+
+## File Structure Rules
+- Each LangGraph node = one file in `agent/nodes/`.
+- Each node file exports exactly one async function: `async def node_name(state: AgentState, config: RunnableConfig) -> dict`.
+- Return dicts from nodes (partial state updates), never full AgentState objects.
+- All database queries live in `agent/db/`. Nodes import from db, never write raw SQL.
+- Config (API keys, URLs, thresholds) always via `pydantic-settings` from `.env`. Never hardcoded.
+
+## SSE Event Protocol
+All SSE events must follow this format:
+```
+event: {type}\ndata: {json}\n\n
+```
+Types: `start` | `token` | `citation` | `tool_call` | `warning` | `escalate` | `done` | `error`
+
+## Naming Conventions
+- Files: `snake_case.py`
+- Classes: `PascalCase`
+- Async functions: prefix with nothing (just `async def retrieve(...)`)
+- Constants: `UPPER_SNAKE_CASE`
+- Intent enum values: `FAQ | FEE_CALC | STATUS_LOOKUP | FORM_HELP | DOC_CHECKLIST | ESCALATE`
+
+## Error Handling
+- Never let exceptions propagate to the SSE stream silently. Always catch, log to Langfuse, emit `error` event.
+- Use `try/finally` in SSE generators to always emit `data: [DONE]\n\n`.
+- Postgres errors: retry once with exponential backoff, then escalate.
+
+## Testing
+- Every node function must have a corresponding test in `tests/nodes/test_{node_name}.py`.
+- Use `pytest-asyncio`. Mark async tests with `@pytest.mark.asyncio`.
+- Mock LLM calls with `respx` (httpx mock). Never make real API calls in tests.
+
+## What NOT to Do
+- Do NOT use LangChain `chains` or `pipelines` — use LangGraph nodes only.
+- Do NOT use `openai.ChatCompletion.create` (old API) — always use `openai.AsyncOpenAI`.
+- Do NOT store conversation history in the AgentState messages field beyond 6 turns.
+- Do NOT use `requests` library — always `httpx` or `asyncpg` for async.
+- Do NOT use `print()` for logging — use `structlog` with JSON output.
+- Do NOT mix sync and async code in the same function.
+- Do NOT return full AgentState from nodes — return partial update dicts only.

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "relocation",
+      "facilities",
+      "any",
+      "time",
+      "city",
+      "requests",
+      "permittee"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-309"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-309. - Relocation of facilities.",
+    "summary": "If at any time the city requests the permittee or any other entity with facilities\n               in the public right-of-way to relocate its facilities in order to allow the city to\n               make any public use of rights-of-way, or if at any time it shall become necessary\n               becaus…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-309. - Relocation of facilities.",
+        "a": "If at any time the city requests the permittee or any other entity with facilities\n               in the public right-of-way to relocate its facilities in order to allow the city to\n               make any public use of rights-of-way, or if at any time it shall become necessary\n               because of a change in the grade or for any other purpose by reason of the improving,\n               repairing, constructing, or maintaining of any rights-of-way, or reason of traffic\n               conditions, public safety, or by reason of installation of any type of structure of\n               public improvement, the city, or other public agency or special district, and any\n               general program for the undergrounding of such facilities, to move or change the permittee's\n               facilities within or adjacent to rights-of-way in any manner, either temporarily or\n               permanently, the city shall notify the permittee, in writing, no less than 60 days\n               and no greater than 120 days in advance, except in the case of emergencies, of the\n               city's intention to perform or have such work performed. The permittee shall thereupon,\n               at its sole cost and expense, accomplish the necessary relocation, removal, or change\n               within a reasonable time from the date of the notification, but in no event later\n               than three working days prior to the date the city has notified the permittee that\n               it intends to commence its work, or immediately in the case of emergencies. Upon the\n               permittee's failure to accomplish such work and after three working days notice, all\n               other work permits held by permittee may be summarily suspended, except in only emergency\n               work, until such time as the work required under this section is completed. All other\n               work suspended shall be left in a condition where the public health, safety, and welfare\n               are not at risk. Following relocation, all affected property shall be restored to,\n               at a minimum, the condition that existed prior to construction by the permittee, at\n               the permittee's expense. Notwithstanding the requirements of this section, a permittee\n               may request additional time to complete a relocation project. The director shall grant\n               a reasonable extension if, in his sole discretion, the extension will not adversely\n               affect the city's project.\n(Code 1981, § 27-218; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-309"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

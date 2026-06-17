@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "cash",
+      "escrow",
+      "letter",
+      "credit",
+      "required",
+      "site",
+      "disturbance"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-54"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-54. - Cash escrow or letter of credit required.",
+    "summary": "(a)\nCash escrow or letter or credit required.\nNo site disturbance permit shall be issued until such time as a cash escrow or letter\n               of credit has been received and approved by the city. This cash escrow or letter of\n               credit shall serve as security for the performance of …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-54. - Cash escrow or letter of credit required.",
+        "a": "(a)\nCash escrow or letter or credit required.\nNo site disturbance permit shall be issued until such time as a cash escrow or letter\n               of credit has been received and approved by the city. This cash escrow or letter of\n               credit shall serve as security for the performance of work necessary to stabilize\n               the site if the permittee fails to install or maintain the necessary BMP or to complete\n               the work under the permit. The amount of the cash escrow or letter of credit shall\n               include, at a minimum, the cost estimate for the proposed BMP associated with the\n               project.\n(b)\nWaiver of requirement.\nNotwithstanding the requirements for providing security set forth in this section,\n               the director may waive posting of a cash escrow or letter of credit if the applicant\n               is a public or quasi-governmental entity, the applicant has already posted a cash\n               escrow or letter of credit for the project subject to these requirements, or the waiver\n               would be within the city's best interests.\n(c)\nDrawing and replenishment.\nThe cash escrow or letter of credit shall remain at the amount specified herein through\n               the final inspection for final stabilization. In the event the city draws against\n               the security, the applicant in question shall replenish the security to the amount\n               required within 30 days after notice by the city to do so.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-54"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

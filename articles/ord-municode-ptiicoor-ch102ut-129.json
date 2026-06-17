@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "severability",
+      "event",
+      "any",
+      "section",
+      "subsection",
+      "subdivision",
+      "paragraph"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-360"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-360. - Severability.",
+    "summary": "In the event that any section, subsection, subdivision, paragraph, sentence, clause,\n               or phrase of this article, or the application thereof, if for any reason is held or\n               decided to be unconstitutional or unlawful, such decision shall not affect the validity\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-360. - Severability.",
+        "a": "In the event that any section, subsection, subdivision, paragraph, sentence, clause,\n               or phrase of this article, or the application thereof, if for any reason is held or\n               decided to be unconstitutional or unlawful, such decision shall not affect the validity\n               of the remaining portions or application of this article, chapter, or Code.\n(Code 1981, § 33-260; Ord. No. 3701, § 1, 6-18-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-360"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

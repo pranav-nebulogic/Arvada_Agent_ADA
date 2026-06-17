@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "conflict",
+      "private",
+      "agreements",
+      "intent",
+      "code",
+      "interfere",
+      "abrogate",
+      "annul",
+      "easement",
+      "covenant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "1-1-4-3"
+    ],
+    "chapter": "Chapter 1 PRELIMINARIES",
+    "article": "ARTICLE 1-1. PRELIMINARIES",
+    "division": "DIVISION 1-1-4. RELATIONSHIP TO OTHER CODES, ORDINANCES, AND REGULATIONS"
+  },
+  "content": {
+    "title": "1-1-4-3. Conflict with private agreements.",
+    "summary": "It is not the intent of this Code to interfere with, abrogate, or annul any easement, covenant, deed restriction, or other agreement between private parties. If the provisions of this Code impose a greater restriction than imposed by a private agreement, the provisions of this Code will control.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "1-1-4-3. Conflict with private agreements.",
+        "a": "It is not the intent of this Code to interfere with, abrogate, or annul any easement, covenant, deed restriction, or other agreement between private parties. If the provisions of this Code impose a greater restriction than imposed by a private agreement, the provisions of this Code will control. If the provisions of a private agreement impose a greater restriction than this Code, the provisions of the private agreement will control. The City shall not be responsible for monitoring or enforcing private agreements."
+      }
+    ],
+    "ordinance_refs": [
+      "1-1-4-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

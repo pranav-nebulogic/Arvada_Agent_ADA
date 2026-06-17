@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "access",
+      "property",
+      "inspection",
+      "purposes",
+      "performance",
+      "routine",
+      "maintenance"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-77"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-77. - Access to property.",
+    "summary": "(a)\nFor inspection purposes and performance of routine maintenance, authorized employees\n               of the city shall be allowed free access at reasonable hours to any building or premises\n               to which city water or sewer service, or both, are provided. All such employees carry\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-77. - Access to property.",
+        "a": "(a)\nFor inspection purposes and performance of routine maintenance, authorized employees\n               of the city shall be allowed free access at reasonable hours to any building or premises\n               to which city water or sewer service, or both, are provided. All such employees carry\n               an identification card signed by the city manager and containing a picture of the\n               employee. Unless such employee possesses such an identification card, the employee\n               need not be admitted to the building or premises.\n(b)\nThe city has the right of ingress and egress to utility easements and rights-of-way\n               containing city water or service lines, or both, at any time for the purpose of making\n               repairs and making inspections to determine if repairs are needed.\n(c)\nExcept as may be authorized by revocable permit issued by the city, no permanent obstruction,\n               including but not limited to buildings, patios, sheds, trees, or fences may be located\n               in a right-of-way or utility easement. When it is necessary for the city to accomplish\n               maintenance or repair of any utility that is located within a right-of-way or utility\n               easement, the city shall accomplish the work in a manner which minimizes disruption\n               of the landscape, and shall replace landscape damaged by the work. All costs associated\n               with moving or removing a permanent obstruction that encroaches on or is located in\n               a right-of-way or easement will be borne by the owner of the obstruction.\n(Code 1981, § 33-48; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, § 12, 10-16-1989;\n               Ord. No. 2931, § 6, 10-19-1992)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-77"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

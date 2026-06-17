@@ -1,0 +1,46 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "development",
+    "tags": [
+      "transient merchants",
+      "vendors",
+      "entartainers",
+      "Planning & Zoning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/524/Transient-Merchants-Entertainment"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/development/pz-018",
+    "spreadsheet_id": "PZ-018",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Transient Merchants & Entertainment Permit",
+    "summary": "Transient Merchant permits are necessary for various vendors, merchants, and entertainers operating in designated areas, including food carts and performers. Certain activities, such as outdoor sales by established businesses and special events, are exempt from this requirement. For more details, individuals can contact the city at 720-898-7435.",
+    "body": "Transient Merchant permits are **required** for certain types of vendors, merchants, and/or entertainers operating in specific places. Examples include food carts, portrait artists, balloon salespeople, musical performers, and jugglers. Transient Merchant permits are required for a range of activities across many zoning districts. For a comprehensive list of vendor types requiring a Transient Merchant permit, please see [Transient Merchants and Entertainment](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH3USRE_ART3-1PRLAUSRE_DIV3-1-4TEUS_3-1-4-11TRMEEN) in the Land Development Code.\n\n## Exceptions\n\nThere are some temporary vendor activities that do not require a Transient Merchant permit. Examples include:\n\n- Businesses having sidewalk or similar outdoor sales adjacent to their business. These require Temporary Outdoor Sales permits.\n- **Special Events** including Olde Town Events, Race Events, Public Park Events, and more. These require Special Events permits.\n- Individuals selling newspapers, leaflets, pamphlets, bumper stickers, or buttons.\n\n## Questions\n\nPlease call 720-898-7435 for further information about Transient Merchant permits.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

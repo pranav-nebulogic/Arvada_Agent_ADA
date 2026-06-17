@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "parent",
+      "guardian",
+      "duty",
+      "shall",
+      "unlawful",
+      "legal",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-94"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-94. - Parent or guardian's duty.",
+    "summary": "(a)\nIt shall be unlawful for the parent or legal guardian of any person under the age\n               of 18 to permit such minor to act in violation of the provisions of this article.\n(b)\nFor the purpose of prosecution of any parent or guardian for violation of this section,\n               it shall n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-94. - Parent or guardian's duty.",
+        "a": "(a)\nIt shall be unlawful for the parent or legal guardian of any person under the age\n               of 18 to permit such minor to act in violation of the provisions of this article.\n(b)\nFor the purpose of prosecution of any parent or guardian for violation of this section,\n               it shall not be necessary in order to obtain a conviction to prove notice or knowledge\n               on the part of such parent that such minor was violating any of the sections of this\n               article at the time and place charged, it being the purpose and intent of this section\n               to impose strict liability upon the parents for the actions of their minor children.\n(\nOrd. No. 4561, § 1, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-94"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

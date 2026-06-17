@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "tree",
+      "protection",
+      "specifications",
+      "following",
+      "should",
+      "followed",
+      "maximum",
+      "extent",
+      "feasible",
+      "projects"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-2-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-2. TREE PRESERVATION AND REPLACEMENT"
+  },
+  "content": {
+    "title": "4-6-2-3. Tree protection.",
+    "summary": "A.\tTree Protection Specifications.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-2-3. Tree protection.",
+        "a": "A.\tTree Protection Specifications. The following tree protection specifications should be followed to the maximum extent feasible for all projects with protected existing trees.\n  1.\tPrior to and during construction, barriers shall be erected around all protected existing trees with such barriers to be of orange fencing a minimum of four feet in height, secured with metal T-posts, no closer than six feet from the trunk or one foot for every inch of diameter whichever is greater (for example, a ten-inch diameter tree will have a fence no closer than ten feet from the trunk). There shall be no storage or movement of equipment, material, debris or fill within the fenced tree protection zone unless previously approved by the Director.\n  2.\tDuring the construction stage of development, the Applicant shall prevent the cleaning of equipment or material or the storage and disposal of waste material such as paints, oils, solvents, asphalt, concrete, motor oil or any other material harmful to the life of a tree within the fenced tree protection zone.\n  3.\tNo damaging attachment, wires, signs or permits may be fastened to any protected tree.\n  4.\tLarge property areas containing protected trees and separated from construction or land clearing areas, road rights-of-way and utility easements may be \"ribboned off,\" rather than erecting protective fencing around each tree. This may be accomplished by placing metal T-post stakes a maximum of 50 feet apart and tying ribbon or rope from stake-to-stake along the outside perimeters of such areas being cleared.\n  5.\tThe installation of utilities, irrigation lines or any underground fixture within the fence tree protection zone shall be accomplished by boring under the root system of protected existing trees at a minimum depth of 24 inches."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-2-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

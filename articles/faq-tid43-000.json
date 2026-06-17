@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-43-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "much",
+      "class",
+      "cost",
+      "free",
+      "only",
+      "available",
+      "arvada",
+      "residents",
+      "Women's Self Defense Class"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=43"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-much-does-the-class-cost",
+    "faq_category_name": "Women's Self Defense Class"
+  },
+  "content": {
+    "title": "How Much Does the Class Cost?",
+    "summary": "The class is free and only available to Arvada residents or those who work in Arvada.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How Much Does the Class Cost?",
+        "a": "The class is free and only available to Arvada residents or those who work in Arvada."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

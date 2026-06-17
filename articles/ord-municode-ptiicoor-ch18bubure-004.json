@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "duties",
+      "powers",
+      "building",
+      "official",
+      "general",
+      "hereby",
+      "authorized"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-33"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-33. - Duties and powers of building official.",
+    "summary": "(a)\nGeneral.\nThe building official is hereby authorized and directed to enforce all the provisions\n               of this Code and the technical codes. For such purposes, the building official shall\n               have the powers of a law enforcement officer.\n(b)\nNotices and orders.\nThe building off…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-33. - Duties and powers of building official.",
+        "a": "(a)\nGeneral.\nThe building official is hereby authorized and directed to enforce all the provisions\n               of this Code and the technical codes. For such purposes, the building official shall\n               have the powers of a law enforcement officer.\n(b)\nNotices and orders.\nThe building official may issue a notice or order to a permit holder or contractor\n               whose work does not comply with this Code or the technical codes. The permit holder\n               or contractor shall, within 30 calendar days of the date of the notice, complete all\n               necessary work or repairs.\nException: Should a property owner prevent a contractor from obtaining inspections\n               or completing corrective work by refusal to allow the contractor entry to the property\n               or other reason, the contractor shall, within 30 calendar days of the date of the\n               notice, file with the building official on company letterhead or on a form provided\n               by the building official, notice of refusal to allow entry. The letter or form must\n               be accompanied by copies of no fewer than two written notices from the contractor\n               to the property owner seeking permission to allow entry for purposes of making corrections.\n               The filing of such letter or form and accompanying documentation shall create a presumption\n               that the contractor has complied with his responsibility under\nsection 18-72\n(i) to complete all work authorized by the permit. Although the building permit in\n               such a case shall remain open until the work is completed and approved by the division,\n               said open permit shall not provide the basis for denial of a contractor's license\n               pursuant to\nsection 18-71\n(c)(2).\n(c)\nRecord of action.\nDocumentation concerning the application of this Code and decisions or actions of\n               the building official shall be kept in accordance with Arvada's adopted records retention\n               schedule.\n(Ord. No.\n4738\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

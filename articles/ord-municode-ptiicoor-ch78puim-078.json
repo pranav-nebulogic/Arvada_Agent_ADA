@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "dates",
+      "interest",
+      "payment",
+      "any",
+      "bonds",
+      "shall",
+      "bear"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-79"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-79. - Dates; interest; payment.",
+    "summary": "Any bonds shall bear such date, shall mature in such denomination at such time or\n               serially at such times, but in no event after that date which is one year after the\n               last assessment installment payment date, shall bear interest which may be evidenced\n               by o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-79. - Dates; interest; payment.",
+        "a": "Any bonds shall bear such date, shall mature in such denomination at such time or\n               serially at such times, but in no event after that date which is one year after the\n               last assessment installment payment date, shall bear interest which may be evidenced\n               by one or by two sets of coupons, payable annually or semiannually, except that the\n               first coupon on any bond may represent interest, or interest on any bond registered\n               for payment as to interest may accrue to the first interest payment date, for any\n               period not in excess of two years, as may be provided by ordinance; and any bonds\n               shall be payable in such medium of payment at such place within or without the state,\n               including but not limited to the office of the county treasurer, and at the option\n               of the council may be made subject to prior redemption in advance of maturity, in\n               such order or by lot or otherwise, at such time, and without or with the payment of\n               such premium not exceeding seven per centum of the principal amount of each bond so\n               redeemed.\n(Code 1981, § 27-80; Ord. No. 551, § 29(B), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-79"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

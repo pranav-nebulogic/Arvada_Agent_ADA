@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "trash",
+      "collection",
+      "compaction",
+      "generally",
+      "nonresidential",
+      "mixed",
+      "multifamily",
+      "clustered",
+      "small",
+      "housing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-6-5"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-6. SUPPLEMENT STANDARDS FOR NONRESIDENTIAL AND MULTIFAMILY LAND USE"
+  },
+  "content": {
+    "title": "5-1-6-5. Trash collection and compaction.",
+    "summary": "A.\tGenerally. Nonresidential, mixed-use, multifamily, and clustered small housing development shall include a designated trash collection and/or compaction area, which shall be located and designed to ensure adequate on-site maneuvering area for trash collection vehicles.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-6-5. Trash collection and compaction.",
+        "a": "A.\tGenerally. Nonresidential, mixed-use, multifamily, and clustered small housing development shall include a designated trash collection and/or compaction area, which shall be located and designed to ensure adequate on-site maneuvering area for trash collection vehicles. Residential subdivisions may include designated trash collection and/or compaction areas, which, if provided, must also comply with the standards of this Section. Trash collection dumpsters shall not be allowed on individual single-family or duplex lots, unless on a temporary basis associated with construction projects for which a building permit has been issued.\nB.\tLocation.\n  1.\tEach trash collection, including recycling bins, or compaction area shall be located not less than 20 feet away from lots used for single-family detached, duplex, multiplex, or townhome uses, and at least 20 feet away from streets, sidewalks, and internal pedestrian circulation systems. Such areas shall be located on the site in the following order of priority (highest priority listed first, and higher order priorities are eliminated only if infeasible):\n    a.\tIn a screened enclosure that is connected to or adjacent to the rear of the principal building;\n    b.\tIn the rear yard; or\n    c.\tIn the interior side yard;\n  2.\tTrash collection, recycling bins, or compaction areas shall not be located more than 200 feet from the entrances of uses that they are intended to serve.\nC.\tEnclosures. Each such trash collection area shall be screened from view from all property lines by a non-combustible screen or wall between six feet and eight feet in height. The access to this enclosure shall be screened with an opaque gate. Screening fences and walls (not including gates) shall be aesthetically consistent with one of the predominant materials and one of the predominant colors used in the principal building. Chain-link gates with metal cladding are prohibited.\n(Ord. No. 4793, § 4, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-6-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

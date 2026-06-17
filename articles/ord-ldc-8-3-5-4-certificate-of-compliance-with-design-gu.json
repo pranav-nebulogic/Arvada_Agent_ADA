@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "certificate",
+      "compliance",
+      "design",
+      "guidelines",
+      "generally",
+      "ccdg",
+      "required",
+      "erection",
+      "alteration",
+      "addition"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-5-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-5. SITE DEVELOPMENT AND TEMPORARY USES"
+  },
+  "content": {
+    "title": "8-3-5-4. Certificate of compliance with design guidelines.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-5-4. Certificate of compliance with design guidelines.",
+        "a": "A.\tGenerally. A Certificate of Compliance with Design Guidelines (CCDG), is required for the erection, alteration, addition to, renovation, restoration, relocation or demolition of the exterior of a building or structure (collectively, \"land use activity\") within areas of the City that are subject to Design Guidelines, as provided herein.\nB.\tApplicability.\n  1.\tGeneral Rule.\n    a.\tWithin the Olde Town Zoning District, no land use activity shall be allowed unless the Director has first issued a CCDG, or has otherwise determined pursuant to the provisions of this Section that a waiver from the Design Guideline(s) may be issued.\n    b.\tWithin the Reno Park Design Guidelines Project Area, any land use activity that is subject to the Design Guidelines designated as \"mandatory\" within the Design Guidelines for the Reno Park Addition Historic District shall be prohibited unless the Director has first issued a CCDG, or has otherwise determined pursuant to the provisions of this Section that a waiver from the Design Guideline(s) may be issued.\n  2.\tExceptions.\n    a.\tThis Section shall not apply to \"ordinary maintenance or repair,\" as defined in Article 11-3, Definitions.\n    b.\tThe above exception, however, specifically excludes the following, which shall remain subject to the Design Guidelines for Olde Town Arvada and the issuance of a CCDG or waiver therefrom:\n      i.\tInstallation or replacement of an exterior door;\n      ii.\tPainting, other than colors substantially similar to those existing;\n      iii.\tTuckpointing, restoration, or similar repair of brick surfaces;\n      iv.\tInstallation or replacement of a gutter, downspout, or storm window;\n      v.\tInstallation or replacement of an exterior lighting fixture;\n      vi.\tChanges to, or replacement of, existing siding material; or\n      vii.\tConstruction or reconstruction of a retaining wall or a divisional or perimeter fence.\nC.\tForm of Application.\n  1.\tAn application for a CCDG shall be submitted to the Director.\n  2.\tSuch application shall include a narrative explanation of how the proposed land-use activity complies with the applicable Design Guidelines and the applicable provisions of this Section (or merits a waiver therefrom), along with any renderings, photographs, plans, specifications, or similar information that the Director may deem necessary in order to assess the proposed land-use activity's compliance with the applicable Design Guidelines.\nD.\tApproval Criteria.\n  1.\tThe Director shall approve a CCDG application if the Director determines that the proposed land-use activity complies with all Design Guidelines that are specifically applicable to the proposed land-use activity and after consultation with the Design Review Advisory Committee, if a review by the committee is determined to be appropriate by the Director.\n  2.\tThe Director may grant a waiver from one or more of the Design Guidelines upon a determination of any one of the following:\n    a.\tThe proposed land-use activity is of a nature that will not substantially alter, or erode the authenticity of, any historically significant exterior feature of an existing structure and is compatible with both the distinctive characteristics of the Arvada Downtown Historic District or Olde Town Zoning District, or the Reno Park Design Guidelines Project Area, as applicable, and with the intent and purpose of the applicable Design Guidelines;\n    b.\tThe proposed land-use activity is of a nature that will not undermine, impair, or conflict with the intent of the applicable Zoning District, and is compatible with both the distinctive characteristics of the Arvada Downtown Historic District, Olde Town Zoning Districts, or Reno Park Design Guidelines Project Area, as applicable, and the intent and purpose of the applicable Design Guidelines;\n    c.\tStrict compliance with the Design Guidelines would create an economic hardship, such that the cost to strictly comply would result in an inability to obtain any reasonable economic return on the property; or\n    d.\tThe proposed land-use activity is of comparable architectural and historical value and authenticity to that required by the applicable Design Guidelines and is consistent with the intent and purpose of the applicable Design Guidelines."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-5-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

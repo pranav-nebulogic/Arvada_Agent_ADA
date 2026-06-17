@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "criminal",
+      "solicitation",
+      "shall",
+      "unlawful",
+      "person",
+      "commit",
+      "except"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-76"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-76. - Criminal solicitation.",
+    "summary": "(a)\nIt shall be unlawful for a person to commit criminal solicitation. Except as to bona\n               fide acts of persons authorized by law to investigate and detect the commission of\n               offenses by others, a person is guilty of criminal solicitation if he or she commands,\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-76. - Criminal solicitation.",
+        "a": "(a)\nIt shall be unlawful for a person to commit criminal solicitation. Except as to bona\n               fide acts of persons authorized by law to investigate and detect the commission of\n               offenses by others, a person is guilty of criminal solicitation if he or she commands,\n               induces, entreats, or otherwise attempts to persuade another person, or offers his\n               or her services or another's services to a third person, to commit an offense, whether\n               as principal or accomplice, with intent to promote or facilitate the commission of\n               that crime, and under circumstances strongly corroborative of that intent.\n(b)\nIt is a defense to a prosecution under this section that, if the criminal object were\n               achieved, the defendant would be the sole victim of the offense or the offense is\n               so defined that his conduct would be inevitably incident to its commission or he otherwise\n               would not be guilty under the statute defining the offense or under\nsection 62-73\ndealing with complicity.\n(c)\nIt is no defense to a prosecution under this section that the person solicited could\n               not be guilty of the offense because of lack of responsibility or culpability, or\n               other incapacity.\n(d)\nIt is an affirmative defense to a prosecution under this section that the defendant,\n               after soliciting another person to commit an offense, persuaded him not to do so or\n               otherwise prevented the commission of the offense, under circumstances manifesting\n               a complete and voluntary renunciation of the defendant's criminal intent.\n(e)\nCriminal solicitation shall be punishable by a fine or imprisonment not to exceed\n               the limits established in\nsection 1-5\n, except that if a person is found to have solicited a non-jailable offense, that\n               solicitation shall be punishable by a fine not to exceed the limits established in\nsection 1-5\n.\n(\nOrd. No. 4076, § 4, 7-16-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-76"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

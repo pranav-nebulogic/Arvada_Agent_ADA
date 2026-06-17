@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "other",
+      "than",
+      "residential",
+      "areas",
+      "hereby",
+      "added"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-518"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-518. - I.P.M.C. Section 308.6, Other than residential areas.",
+    "summary": "Section 308.6. Other than residential areas,\nis hereby added to read as follows:\n\"\n308.6. Other than residential areas.\nThe owner, lessee, tenant or any other person having the right to possession of all\n                  or a portion of any premises used for other than residential purposes shall pr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-518. - I.P.M.C. Section 308.6, Other than residential areas.",
+        "a": "Section 308.6. Other than residential areas,\nis hereby added to read as follows:\n\"\n308.6. Other than residential areas.\nThe owner, lessee, tenant or any other person having the right to possession of all\n                  or a portion of any premises used for other than residential purposes shall provide\n                  adequate and accessible enclosures for the storage of rubbish and garbage containers.\n                  Said enclosures shall either be in an area fully contained within a building or be\n                  in an area fully screened from public view by masonry or solid noncombustible fencing\n                  at least six feet in height. Uses existing prior to August 12, 1980, shall be exempt\n                  from this provision.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-518"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

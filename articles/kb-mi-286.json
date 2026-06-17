@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "juror",
+      "information",
+      "jury",
+      "receive",
+      "summons",
+      "back",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/396/Juror-Information"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-286",
+    "spreadsheet_id": "MI-286",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Juror Information",
+    "summary": "Jury service in Arvada is a civic duty mandated by the U.S. and Colorado constitutions, allowing citizens to participate in democracy. If summoned, individuals must call the Municipal Court the day before their scheduled appearance to confirm whether their service is required. Disqualifications and requests for excusal must be communicated within seven days, with specific documentation needed for illness or travel-related absences.",
+    "body": "The right to a trial by jury is provided in both the United States and State of Colorado constitutions. Jury service was established as a check on the exercise of governmental power and dates back to 1215 and the Magna Carta. If you are summoned, it is because there are pending cases in the City of Arvada for which jury trials have been scheduled. Serving on a jury is an opportunity to participate directly in our democracy.\n\n## If You Receive a Juror Summons\n\nIf you receive a Juror Summons in the mail from the Arvada Municipal Court, you are required to:\n\n- Call 720-898-7151 between 3 and 5 pm the day before the appearance listed on the summons to learn:\n  - If your service **is**required, please report to the Municipal Court at 8101 Ralston Road. Upon arriving at the court, please check in with the court clerk.\n  - If your service **is not** required, you will be excused from Juror Service.\n\nThe length of a jury trial in the Municipal Court is typically one day; it is rare, but possible, that a case may last longer.\n\n## Requesting Disqualification from Juror Service\n\nYou are disqualified from serving as a Juror in Arvada Municipal Court if one or more of the following apply:\n\n- You are no longer a resident of Arvada.\n- You are not a citizen of the United States.\n- You cannot read, speak and / or understand the English language.\n\nPlease notify us of the reason you do not qualify for Juror Service within 7 days of receiving your summons. If you no longer reside in Arvada, you will be required to fax to 720-898-7164 or [email](/cdn-cgi/l/email-protection#a1c0d3d7c0c5c0ccd4cfc8c2c8d1c0cde1c0d3d7c0c5c08fced3c6) your latest utility bill showing your name and new address.\n\n## Requesting to Be Excused from Juror Service\n\nIf you cannot appear because...\n\n- You are ill or injured, your doctor must provide written notice.\n- You are scheduled to be out of town, you must provide proof in the form of a travel itinerary, airline tickets or leave request from work.\n\nProof of excusable absence can be faxed to the Arvada Municipal Court at 720-898-7164 or [emailed](/cdn-cgi/l/email-protection#6405161205000509110a0d070d140508240516120500054a0b1603).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

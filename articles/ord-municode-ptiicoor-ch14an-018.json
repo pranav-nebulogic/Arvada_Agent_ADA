@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "tag",
+      "required",
+      "shall",
+      "unlawful",
+      "owner",
+      "custodian",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-43"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-43. - Tag required.",
+    "summary": "(a)\nIt shall be unlawful for the owner or custodian of any dog to fail to cause the dog\n               to wear a current license tag affixed to the dog's collar, chain, or harness. When\n               the dog is wearing a current dog license affixed to its collar, chain, or harness,\n               i…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-43. - Tag required.",
+        "a": "(a)\nIt shall be unlawful for the owner or custodian of any dog to fail to cause the dog\n               to wear a current license tag affixed to the dog's collar, chain, or harness. When\n               the dog is wearing a current dog license affixed to its collar, chain, or harness,\n               it is not necessary to display a current rabies tag.\n(b)\nIt shall be unlawful for the owner or custodian of any cat to fail to cause the cat\n               to wear an identification tag affixed to the cat's collar or harness, or to have an\n               identification microchip surgically implanted into the cat, or to wear some other\n               similar type of identification. Such tag or microchip shall clearly set forth the\n               current owner's name, address, and telephone number.\n(\nOrd. No. 4060, § 2, 3-19-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-43"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

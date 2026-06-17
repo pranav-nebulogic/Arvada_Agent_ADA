@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "change",
+      "managers",
+      "event",
+      "pawnbroker",
+      "shall",
+      "disclose",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-209"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-209. - Change of managers.",
+    "summary": "In the event of a change in managers, pawnbroker shall disclose to city said change\n               within 30 days of change, and the new manager shall be photographed and fingerprinted\n               by the city police department. Pawnbroker shall furnish three reference letters for\n               n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-209. - Change of managers.",
+        "a": "In the event of a change in managers, pawnbroker shall disclose to city said change\n               within 30 days of change, and the new manager shall be photographed and fingerprinted\n               by the city police department. Pawnbroker shall furnish three reference letters for\n               new manager, and the new manager shall be investigated pursuant to\nsection 22-203\n. Pawnbroker shall pay a nonrefundable investigation fee of $500.00 for the investigation\n               of a new manager. Failure of a new manager to meet the prescribed standards and qualifications\n               shall constitute grounds for denial, suspension, cancellation or revocation of the\n               license.\n(Code 1981, § 23-9; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-209"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

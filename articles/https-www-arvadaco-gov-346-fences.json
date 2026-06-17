@@ -1,0 +1,135 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_fence",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/346/Fences"
+    ],
+    "scraped_at": "2026-06-10T10:49:47.889970+00:00",
+    "content_hash": "3d8ca382e3774b51b2896df2fa834a55b789c49a40284538edbad56623149686",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Fence Building Permit",
+    "summary": "Permits are required for all fencing in the City of Arvada. Homeowners who occupy the structure may apply, or contractors can apply if hired. Rental property owners can install or replace fences without a licensed contractor if a Homeowner Waiver is completed.",
+    "eligibility": "Homeowners who occupy the structure or contractors hired by the homeowner. Rental property owners may apply with a Homeowner Waiver if the tenant is installing the fence.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Determine the Zoning for Your Property",
+        "text": "Use the address tool to determine the zoning for your property. Enter your address and click Full Report. Use the zoning information to find minimum front setback and maximum fence height requirements. Note that fences above 4 feet must be located at or behind the front facade of the building. Corner lots have front and side street setbacks.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Plot Plan",
+        "text": "Create a Plot Plan (PDF) showing the distance of the fence to each property line, including the address and direction (North, South, East, West). If you do not have a plot plan, check the address files or hire a 3rd party company for an ILC or create your own plot plan. Contact Planning at 720-898-7435 for assistance.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Complete the Application",
+        "text": "Submit the application using the online Arvada Permits Site. Attach all documents in PDF format. Planning and Development will review zoning compliance. Applications can also be submitted in person at City Hall, 2nd Floor planning counter, Monday through Friday 8 am to 5 pm.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 4,
+        "title": "Staff Review",
+        "text": "Staff will review the application and attachments. If more information is needed, staff will contact you. Once approved, you will receive an email with next steps to obtain the permit.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Plot Plan",
+        "description": "A detailed plan showing the distance of the fence to each property line, address, and direction.",
+        "where_to_get": "Create yourself, check address files, or hire a 3rd party company for an ILC.",
+        "example": null
+      },
+      {
+        "name": "Homeowner Waiver",
+        "description": "Required if a tenant is installing a fence on a rental property.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "property_address",
+        "label": "Property Address",
+        "description": "The address of the property where the fence will be installed.",
+        "example_value": null,
+        "why_needed": "To identify the location of the fence installation."
+      },
+      {
+        "field_name": "zoning_district",
+        "label": "Zoning District",
+        "description": "The zoning classification of the property determined by the address tool.",
+        "example_value": null,
+        "why_needed": "To determine setback and height requirements for the fence."
+      },
+      {
+        "field_name": "plot_plan",
+        "label": "Plot Plan Attachment",
+        "description": "Upload a PDF of the plot plan showing fence location and distances to property lines.",
+        "example_value": null,
+        "why_needed": "To verify fence placement and compliance with zoning."
+      },
+      {
+        "field_name": "homeowner_permission_letter",
+        "label": "Homeowner Permission Letter",
+        "description": "Letter from homeowner granting permission if applicant is not the homeowner on a rental property.",
+        "example_value": null,
+        "why_needed": "To confirm authorization to apply for the permit."
+      }
+    ],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Planning and Development",
+      "phone": "720-898-7435",
+      "address": "City Hall, 2nd Floor, Arvada, CO",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Do I need a permit to install a fence?",
+        "a": "Yes, permits are required for all fencing in the City of Arvada."
+      },
+      {
+        "q": "Can a tenant install a fence on a rental property?",
+        "a": "Yes, tenants can install fences if the Homeowner Waiver is completed."
+      },
+      {
+        "q": "Are there height restrictions for fences?",
+        "a": "Yes, maximum fence heights vary by zoning district and setback area. Fences over 6 feet require additional plan review."
+      },
+      {
+        "q": "What if my property is in a floodplain?",
+        "a": "Additional permits and fees may be required by the Engineering Division for properties in floodplains."
+      }
+    ],
+    "ordinance_refs": [
+      "Chapter 4-7-2-1",
+      "Figure 4-7-2-1A",
+      "Figure 4-7-2-1B"
+    ],
+    "related_permit_types": [
+      "building_permit_residential",
+      "building_permit_commercial"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3578
+}

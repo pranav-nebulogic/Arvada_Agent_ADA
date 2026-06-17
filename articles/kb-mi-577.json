@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "vending",
+      "machines",
+      "machine",
+      "money",
+      "operated",
+      "personal",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/385/Vending-Machines"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-577",
+    "spreadsheet_id": "MI-577",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Vending Machines",
+    "summary": "Vending machines that dispense tangible personal property are subject to city sales tax, including both food and non-food items. Sales tax is included in the retail price, and individuals or companies collecting receipts from these machines are responsible for remitting the applicable taxes. Additionally, sales, leases, rentals, and repairs of vending machine equipment are also subject to sales/use tax.",
+    "body": "A vending machine is a money-operated (all forms of payment) machine offering tangible personal property to a consumer. This definition does not include such things as video games, pinball machines, pool tables, or other money-operated machines which do not dispense tangible personal property. Machines with claws that players use to pick up toys/prizes require tax to be paid at the time merchandise is purchased for use in the machine, rather than collecting the tax on the machine's gross receipts.\n\nSales of tangible personal property, sold through vending machines, vending markets, and the like, are subject to city sales tax. \"Honor box\" sales are treated the same as vending machine sales. The retail price of items sold through vending machines includes city sales tax. This inclusion is an exception to the general requirement that sales tax be added to the selling price as a distinct amount. Both the sale of food and non-food items is subject to Arvada sales tax.\n\nAny person or company who removes the receipts from vending machines is liable for remitting the applicable sales taxes on the vending machine revenues. If a person or company only receives a fixed fee or a percentage of receipts from a vending machine and has no access to the machine, such a person or company is not liable for remitting sales tax.\n\n## Vending Machine Equipment\n\nSales of Vending Machine Equipment are subject to sales / use tax on the purchase, lease, rental, or sale of the equipment or similar devices. Any repairs or replacement parts are also subject to city tax.\n\n## Example\n\nA business located in Arvada and Jefferson County provides food, drink, and candy vending machines at their place of business for the convenience of its employees and customers. Total collections (gross receipts - which include both tax and sales) last month were $2,000. The business will need to calculate its taxable sales and sales tax due as follows:\n\nWhen the items that are sold are subject to State and/or City taxes you will need to determine the correct tax rate that is to be remitted based on:\n\n- What is being sold\n- The location of the vending machine\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

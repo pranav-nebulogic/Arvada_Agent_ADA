@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "april",
+      "training",
+      "address",
+      "agave",
+      "alloy",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1420/New-Businesses-April-2025"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-341",
+    "spreadsheet_id": "MI-341",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses April 2025",
+    "summary": "In April 2025, several new businesses opened in Arvada, Colorado, including 323 Automotive Inc, Agave Blue, and Great Clips. Other notable additions are Alloy Personal Training, AVOS Counseling Center, and Momentous Chiropractic PC, among others, contributing to the city's growing commercial landscape. Each business has its own unique services and contact information for potential customers.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew Businesses April 2025\n\n| 323 Automotive Inc | 6340 W 56TH AVE 8 ARVADA CO 80002 | 303-246-9639 |\n| 5280 Ink 2 | 12387 W 64TH AVE ARVADA CO 80004 | 303-907-1405 |\n| Agave Blue | 18168 W 92ND LN 300 ARVADA CO 80007 | 303-618-2270 |\n| Alloy Personal Training | 14807 W 64TH AVE A ARVADA CO 80007 | 720-637-2399 |\n| AVOS Counseling Center and Training Institute | 8795 RALSTON RD 200A ARVADA CO 80002 | 303-880-7793 |\n| Cozy Root Market | ARVADA CO 80005 | 720-624-9385 |\n| Great Clips | 9075 HOWELL ST 4 ARVADA CO 80005 | 303-422-0957 |\n| Ibu Tierra Farm LLC | 8412 ALKIRE ST ARVADA CO 80005 | 720-206-9398 |\n| Jensen Boys Investments | 6140 DUDLEY ST ARVADA CO 80004 | 303-915-8157 |\n| Mabries Cleaning Solutions LLC | ARVADA CO 80004 | 303-525-3275 |\n| Mercantile House LLC | 7609 RALSTON RD ARVADA CO 80002 | 720-308-8546 |\n| Method & Muse | 7513 GRANDVIEW AVE ARVADA CO 80002 | 720-954-4908 |\n| Momentous Chiropractic PC | 8795 RALSTON RD 114C ARVADA CO 80002 | 913-744-7508 |\n| Peregrine Alchemy by Amy | ARVADA CO 80003 | 720-663-0881 |\n| PML AIR CONDITIONING | 5628 KENDALL CT A ARVADA CO 80002 | 720-930-2215 |\n| Rise & Rally Institute PLLC | ARVADA CO 80007 | 734-646-6515 |\n| The Basement With a Bar | 6813 W 76TH AVE ARVADA CO 80003 | 720-275-0944 |\n| The Conference Experience Inc | ARVADA CO 80003 | 720-373-3273 |\n| Willow Larks LLC | ARVADA CO 80004 | 720-883-1581 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

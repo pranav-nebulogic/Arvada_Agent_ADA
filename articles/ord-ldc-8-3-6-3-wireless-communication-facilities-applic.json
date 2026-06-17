@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "wireless",
+      "communication",
+      "facilities",
+      "application",
+      "submittal",
+      "requirements",
+      "form",
+      "wcfs",
+      "director",
+      "prepare"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-6-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-6. WIRELESS COMMUNICATION FACILITIES"
+  },
+  "content": {
+    "title": "8-3-6-3. Wireless communication facilities - application submittal requirements.",
+    "summary": "A.\tForm of Application.\n  1.\tAll WCFs. The Director shall prepare, and from time to time revise and make publicly available, an application form and submittal requirements for all WCFs as described below and further defined in the Wireless Communications Facilities Design Guidelines.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-6-3. Wireless communication facilities - application submittal requirements.",
+        "a": "A.\tForm of Application.\n  1.\tAll WCFs. The Director shall prepare, and from time to time revise and make publicly available, an application form and submittal requirements for all WCFs as described below and further defined in the Wireless Communications Facilities Design Guidelines. The City must receive all submittal items in order to be determined a complete application by the Director.\n    a.\tApplication Form.\n    b.\tProject Description—a statement identifying the proposed facility, the collocation status, and code compliance.\n    c.\tProof of Legal Access.\n    d.\tPhoto Realistic Simulation—showing before and after conditions (excluding Eligible Facilities Requests).\n    e.\tPlans showing project layout, design, and elevations.\n    f.\tInventory of Existing Sites (excluding Eligible Facilities Requests).\n    g.\tSignal Non-Interference Letter.\n    h.\tRF Compliance Report.\n    i.\tFAA Letter (if applicable).\n  2.\tEligible Facilities Requests. In addition to the requirements above, the following shall apply to applications seeking approval as an Eligible Facilities Request. Application and submittal requirements shall be limited to the information necessary for the City to consider whether an application is an eligible facilities request. The application may not require the Applicant to demonstrate a need or business case for the proposed modification or collocation. Such information may include, without limitation in addition to the applicable requirements for other WCFs above, whether the project:\n    a.\tWould result in a substantial change; or\n    b.\tViolates a generally applicable law, regulations, or other rule codifying objective standards reasonably related to public health and safety.\n  3.\tSmall Cell Facilities in the Right-of-Way. In addition to the submittal requirements listed above for all WCFS, the following shall be submitted for Small Cell Facility applications.\n    a.\tApplication Form.\n    b.\tFully executed Master License Agreement for the applicable service provider.\n    c.\tSupplemental Site Permit.\n    d.\tSite survey showing that the proposed location is within the public right-of-way.\n    e.\tTraffic Control Plan.\n    f.\tContractor Forms."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-6-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

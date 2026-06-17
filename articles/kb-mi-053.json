@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "cert",
+      "team",
+      "emergency",
+      "help",
+      "members",
+      "response",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/684/Arvada-CERT"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-053",
+    "spreadsheet_id": "MI-053",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada CERT",
+    "summary": "The Arvada Community Emergency Response Team (CERT) is a volunteer organization formed in collaboration with the City of Arvada and the Arvada Fire Protection District, aimed at preparing members for emergencies and disasters. The CERT Basic Academy offers 24 hours of training for individuals aged 16 and older, covering topics such as emergency preparedness, fire safety, and search and rescue. The next training session is scheduled for Spring 2026, with classes held at the Arvada Fire Training Center.",
+    "body": "## What Is CERT?\n\nGet prepared! The Arvada Community Emergency Response Team (Arvada CERT) is a volunteer emergency response team that was started in partnership with the City of Arvada and the Arvada Fire Protection District. Arvada CERT Members are trained to be ready for disasters and will be better able to help themselves and their neighbors respond and recover from emergencies. CERT Members become part of a specialized team that can help our local first responders on special projects related to emergencies and disasters.\n\n## What Does the CERT Training Consist of?\n\nThe CERT Basic Academy consists of 24 hours of training time and is open to anyone at least 16 years of age, regardless of physical ability. At the Basic Academy, participants learn about:\n\n- emergency preparations you can make in your home\n- utility controls (gas, water, and electric)\n- fire safety and small fire suppression\n- search and rescue\n- emergency medical treatment\n- terrorism\n- disaster psychology\n\n## When Is the Next CERT Academy?\n\n**Thank you for your interest! The Fall 2025 CERT Training is currently underway. Check back in the spring for information on the Spring 2026 Training.**\n\nAll classes are held at the Arvada Fire Training Center (6651 Indiana St.). Training is open to anyone who is high school age (with parental permission) or over. There are no age or ability restrictions.\n\n## Contact\n\nFor more information, contact Arvada CERT at [[email protected]](/cdn-cgi/l/email-protection) or at [www.facebook.com/ArvadaCERT](http://www.facebook.com/ArvadaCERT).\n\n## Featured Video\n\nView more videos on [YouTube](https://www.youtube.com/user/cityofarvada/playlists).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

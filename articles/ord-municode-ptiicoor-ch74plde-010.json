@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "development",
+      "streets",
+      "developer",
+      "required",
+      "dedicate",
+      "construct",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-93"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-93. - Development of streets.",
+    "summary": "(a)\nA developer is required to dedicate and construct all minor, local, collector, and\n               parkway streets as designated on the city transportation plan in accordance with the\n               cross-section shown on the adopted standards and specifications of the city and as\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-93. - Development of streets.",
+        "a": "(a)\nA developer is required to dedicate and construct all minor, local, collector, and\n               parkway streets as designated on the city transportation plan in accordance with the\n               cross-section shown on the adopted standards and specifications of the city and as\n               required by article III of\nchapter 94\nand as otherwise required by this section.\n(b)\nAll minor, local, and collector roadways that serve a proposed flat or development\n               must be fully dedicated and constructed at time of development, unless waived by the\n               city council. On minor and local streets within an RA and RN-32.5 zoning districts,\n               the requirements for curb, gutter and sidewalk may be waived, provided that suitable\n               alternative design is approved by the city engineer. On collector streets in industrial\n               or commercial areas, the requirements for sidewalks may be waived if an alternate\n               pedestrian circulation plan is approved by the Community and Economic Development\n               Director.\n(c)\nA developer, property owner, or subdivider is required to dedicate the necessary right-of-way\n               for parkways. This requirement includes the right-of-way necessary for service roads,\n               acceleration/deceleration lanes, and turn lanes as set forth in the parkway cross-section.\n(d)\nThe development of a parkway street will be shared by the developer and the city as\n               follows: Where the parkway street is adjacent to the property, the developer shall\n               dedicate the necessary right-of-way from the subject property to the centerline of\n               the parkway. The developer shall construct and landscape that portion of the parkway\n               from the subject property line up to, but not including, the header curb on the median.\n               Where the parkway is totally within the developer's property, the developer shall\n               dedicate the entire right-of-way for the parkway. The developer shall construct and\n               landscape that portion of the parkway from the subject property line on both sides\n               of the street up to, but not including, the header curbs on the median.\n(e)\nIn those cases where substantial lengths of a street have been previously built to\n               a different standard, the city engineer or the traffic engineer may require an appropriate\n               transition section, a continuation of the standard of the existing street section\n               or other channelization or signal improvements to facilitate existing and anticipated\n               traffic demands.\n(f)\nThe city requires owners of any development, including redevelopment of an existing\n               use, lying adjacent to existing or proposed streets not built to city standards to\n               build or reconstruct these streets to the standards of the city. Except in the case\n               of parkway streets, if this action would cause the development of a half-street, the\n               city may require the owner to develop the entire approved section. If no opportunity\n               exists for reimbursement from adjacent property owners, the city engineer may allow\n               a modified section to be more than a half-street, but less than a full section, in\n               order to provide for the efficient movement of two-way traffic.\n(g)\nThe requirements imposed by this section are subject to the findings of the Community\n               and Economic Development Director as required in\nDivision 8-4-4\nof the city Land Development Code.\n(Code 1960, § 2-5(G); Code 1981, § 25-59; Ord. No. 2837, § 5, 8-5-1991; Ord. No.\n4728\n, § 20, 5-18-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-93"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

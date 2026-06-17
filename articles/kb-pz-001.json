@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "development",
+    "tags": [
+      "candelas",
+      "amendment",
+      "rezoning",
+      "project",
+      "residential",
+      "acres",
+      "Planning & Zoning"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1466/Candelas-Amendment-Rezoning"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/development/pz-001",
+    "spreadsheet_id": "PZ-001",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Candelas Amendment, Rezoning",
+    "summary": "The Candelas Amendment involves a rezoning and Comprehensive Plan Amendment for parcels 1-2, 1-5, and 1-6 located at 17201 W 64th Ave, proposed by Cimarron Holding Company, LLC. The project aims to allow for multi-family residential development with varying densities and includes a public hearing by the Planning Commission on February 4, 2026, followed by a City Council first reading on March 24, 2026, and a public hearing on July 7, 2026.",
+    "body": "![Map show area of amendment and rezoning](/ImageRepository/Document?documentId=6886)\n\n## DA2025-0042\n\n### Project Name: Candelas Amendment, Rezoning\n\n**Project Information:**Rezoning and Comprehensive Plan Amendment for Candelas Parcels 1-2, 1-5 and 1-6\n\n- **Address/Location:**17201 W 64th Ave\n- **Developer:**Cimarron Holding Company, LLC\n- **Planner:** Julia Duncan\n- **Acres:**105.89\n- **Use:** Residential and Commercial\n- **Total Units:** TBD; Residential Densities of 24, 13, and 6 du/a\n- **Planning Commission Public Hearing:** Feb. 4, 2026\n- **City Council First Reading:** March 24, 2026\n- **City Council Public Hearing:** July 7, 2026\n\n**Project Narrative from the Developer:**The applicant proposes to rezone a portion of Parcel 1 -2 to R -24 to allow for multi -family residential development, which will require an amendment to the Comprehensive Plan to reflect the High Density Residential (HDR) designation. The remaining portions of Parcel 1 -2 are proposed to be rezoned to CG (Commercial General) and do not require an amendment to the Comprehensive Plan. Parcel 1-5 is proposed to be rezoned to R -13, and Parcel 1-6 to R -6, with corresponding Comprehensive Plan amendment Is to Medium Density Residential (MDR) and Suburban Residential (SUBR), respectively.\n\n[Learn more about the project]([NEW PORTAL URL]).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

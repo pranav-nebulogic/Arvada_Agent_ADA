@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-23-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "contractor_license",
+    "category": "contractor_licenses",
+    "tags": [
+      "need",
+      "submit",
+      "application",
+      "every",
+      "year",
+      "able",
+      "renew",
+      "license",
+      "Building Contractor"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=23"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/do-i-need-to-submit-an-application-every-year",
+    "faq_category_name": "Building Contractor"
+  },
+  "content": {
+    "title": "Do I need to submit an application every year?",
+    "summary": "No. You will be able to renew your license with the City of Arvada whenever you have work in the City. It does not need to be renewed every year.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Do I need to submit an application every year?",
+        "a": "No. You will be able to renew your license with the City of Arvada whenever you have work in the City. It does not need to be renewed every year."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

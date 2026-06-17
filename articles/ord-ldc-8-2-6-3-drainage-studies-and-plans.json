@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "drainage",
+      "studies",
+      "plans",
+      "generally",
+      "reports",
+      "required",
+      "provided",
+      "section",
+      "preliminary",
+      "study"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-6-3"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-6. STUDIES AND REPORTS"
+  },
+  "content": {
+    "title": "8-2-6-3. Drainage studies and plans.",
+    "summary": "A.\tGenerally. Drainage studies and reports are required as provided in this Section.\nB.\tPreliminary Drainage Study and Plan.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-6-3. Drainage studies and plans.",
+        "a": "A.\tGenerally. Drainage studies and reports are required as provided in this Section.\nB.\tPreliminary Drainage Study and Plan. All applications for Preliminary Plat or Preliminary Development Plan approval shall include a preliminary drainage study encompassing all of the land involved in the development and indicating how the Applicant proposes to handle onsite and offsite drainage.\nC.\tFinal Drainage Report and Plan. All applications for Final Plat, Final Development Plan, or Site Plan approval shall include a final drainage study and plan that includes detailed engineering plans for handling onsite and offsite drainage.\nD.\tTechnical Requirements for Studies and Plans. The City Engineer shall promulgate and maintain technical requirements for drainage studies and plans, pursuant to the rulemaking procedures set out in Chapter 2, Article V, Division 2, Arvada Municipal Code."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-6-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

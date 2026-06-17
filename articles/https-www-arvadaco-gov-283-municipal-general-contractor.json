@@ -1,0 +1,99 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "license",
+    "permit_type": "contractor_license_municipal",
+    "category": "licensing",
+    "source_urls": [
+      "https://www.arvadaco.gov/283/Municipal-General-Contractor"
+    ],
+    "scraped_at": "2026-06-10T11:00:59.278859+00:00",
+    "content_hash": "ad8502f10deedd04ace347f446ea123b12560ab0f7c533de96d8fb6fe1adceb0",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Municipal General Contractor License (Right-of-Way)",
+    "summary": "The City of Arvada issues Municipal General Contractor Licenses for work in the right-of-way. New applicants and renewals must apply online through the Permit System, upload required documents, and pay applicable fees. License review may take up to 5 business days.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Create an Account or Log In",
+        "text": "New applicants must create an account in the Permit System. For renewals, log in using your current AEC number.",
+        "portal_url": "https://www.arvadaco.gov/283/Municipal-General-Contractor"
+      },
+      {
+        "n": 2,
+        "title": "Apply for License",
+        "text": "For a new license, click on “Apply for Contractor License” under the contractor heading and follow the instructions. For renewals, follow the prompts to apply and submit.",
+        "portal_url": "https://www.arvadaco.gov/283/Municipal-General-Contractor"
+      },
+      {
+        "n": 3,
+        "title": "Upload Required Documents",
+        "text": "Upload all required documentation including the Municipal Bond Form, insurance certificates, and workers' compensation certificates with the City of Arvada listed as additional insured.",
+        "portal_url": "https://www.arvadaco.gov/283/Municipal-General-Contractor"
+      },
+      {
+        "n": 4,
+        "title": "Application Review",
+        "text": "The City will review your application and add fees. Review may take up to 5 business days.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 5,
+        "title": "Payment and License Issuance",
+        "text": "You will receive an email notifying you that your license is ready for payment. After payment is collected, the City will send you your license.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Municipal Bond Form",
+        "description": "A bond form with power of attorney required for the license.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Insurance and Workman's Compensation Certificates",
+        "description": "Certificates listing the City of Arvada as additional insured. Examples are available under Resources on the permit page.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "License Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.right_of_way",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": "Up to 5 business days",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "City of Arvada Engineering",
+      "phone": "720-898-7640",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "contractor_license_state",
+      "right_of_way_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2085
+}

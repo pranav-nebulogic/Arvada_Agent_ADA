@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-49-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "know",
+      "portion",
+      "service",
+      "line",
+      "made",
+      "homes",
+      "built",
+      "after",
+      "Public Improvement Projects - Service Line Inventory"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=49"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-do-i-know-what-my-portion-of-the-service-line-is-made-of",
+    "faq_category_name": "Public Improvement Projects - Service Line Inventory"
+  },
+  "content": {
+    "title": "How do I know what my portion of the service line is made of?",
+    "summary": "Homes built after 1950 are more likely to have copper service lines. First, search for your address on the City's service line inventory map. If your address is marked as unknown, follow the steps below to identify your service line material. You can often identify the material used in your service …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How do I know what my portion of the service line is made of?",
+        "a": "Homes built after 1950 are more likely to have copper service lines. First, search for your address on the City's service line inventory map. If your address is marked as unknown, follow the steps below to identify your service line material. You can often identify the material used in your service line through a visual inspection at the point where the water service line enters your home. Find where the water line enters your home and inspect the pipe. If you can access the pipe but you aren't sure what it is, perform a \"scratch test\" using a key or coin and test it for magnetism. You can scrape a small section with a coin if it is dirty or discolored. If the scraped area is shiny and silver, your service line is lead. Lead is not magnetic. If the scraped area is copper in color, like a penny, your service line is copper. Copper is not magnetic. If the scraped area remains a dull gray, your service line is galvanized steel. Galvanized steel is magnetic. The plumbing material may be PEX / plastic. In this case, it would appear to be plastic, not metal. Need help or still not sure? Take a picture of the service line and email it along with the service address and a City team member will get back to you."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "inspections",
+      "city",
+      "reserves",
+      "right",
+      "conduct",
+      "searches",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-152"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-152. - Inspections.",
+    "summary": "(a)\nThe city reserves the right to conduct searches and inspections of any city-owned\n               property without notice. City-owned property includes, but is not limited to, desks,\n               file cabinets, books, bookshelves, hallways, toolboxes or bins, rooms, closets, computers,\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-152. - Inspections.",
+        "a": "(a)\nThe city reserves the right to conduct searches and inspections of any city-owned\n               property without notice. City-owned property includes, but is not limited to, desks,\n               file cabinets, books, bookshelves, hallways, toolboxes or bins, rooms, closets, computers,\n               electronic mobile devices, storage areas, lockers, vehicles or vehicle compartments,\n               or boxes of files. Personal locks are prohibited on city-owned lockers. Any employee\n               who refuses to submit to a search may be subject to disciplinary action.\n(b)\nUpon forming a reasonable suspicion of wrongdoing or for work related non-investigatory\n               reasons, an appointing authority, in consultation with human resources and the city\n               attorney's office, is authorized to order a search of an employee's personal belongings\n               located in or on city-owned property as described in subsection (a) of this section,\n               as well as in or on any city-owned parking areas to the extent allowed by law. A reasonable\n               suspicion of wrongdoing means a belief based on observed facts or behavior sufficient\n               to lead a reasonably prudent person to suspect an employee has taken custody, possession,\n               or control of items of interest to the city in a personal belonging. An item of interest\n               to the city shall include, but is not limited to: any item constituting contraband\n               under the laws of the city, the United States or the State of Colorado, including\n               unauthorized weapons, explosives, incendiary devices or material, poisons or hazardous\n               or infectious substances, any controlled substances, and unauthorized possession of\n               any property owned or leased by the city, including any items of personally owned\n               by the city, cash, checks, credit or debit cards, files, summonses, books, manuals,\n               written business records, computer records or work related files in any form of transportable\n               medium, or any city computer record or file, including copies of source codes, owned\n               by or licensed to the city for its workplace use.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-152"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

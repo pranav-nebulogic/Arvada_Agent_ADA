@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "administrative",
+      "review",
+      "proposed",
+      "service",
+      "plan",
+      "requests",
+      "additional"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-23"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-23. - Administrative review of proposed service plan; requests for additional information; report.",
+    "summary": "(a)\nAdministrative review.\nThe Department, in cooperation with other affected city departments, shall have 63\n               days to review the proposed service plan from the date that it is filed with the department.\n               The 63-day review period may be extended as deemed necessary by the…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-23. - Administrative review of proposed service plan; requests for additional information; report.",
+        "a": "(a)\nAdministrative review.\nThe Department, in cooperation with other affected city departments, shall have 63\n               days to review the proposed service plan from the date that it is filed with the department.\n               The 63-day review period may be extended as deemed necessary by the department.\n(b)\nRequest(s) for additional information.\nThe department may make one or more requests for additional information relating\n               to any portion or portions of the proposed service plan and related materials. The\n               petitioner shall promptly supply the department with all relevant information in response\n               to each such request.\n(c)\nReport.\nOnce the review has been completed, a comprehensive analysis of the proposed service\n               plan shall be made by the department in the form of a written report to the city council.\n               The report shall evaluate the proposed service plan and incorporate comments of the\n               department and other affected city departments. The report shall set forth the recommendations\n               of the department for approval, disapproval, or conditional approval of the proposed\n               service plan and the reasons therefor.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-23"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "division",
+      "policies",
+      "special",
+      "procedures",
+      "annexing",
+      "property",
+      "into",
+      "city",
+      "limits"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-3-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-3. ANNEXATION AND DISCONNECTION"
+  },
+  "content": {
+    "title": "8-3-3-1. Purpose.",
+    "summary": "The purpose of this Division is to set out the policies and special procedures for annexing property into the City limits or disconnecting property from the City. Annexation is a discretionary, legislative act.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-3-1. Purpose.",
+        "a": "The purpose of this Division is to set out the policies and special procedures for annexing property into the City limits or disconnecting property from the City. Annexation is a discretionary, legislative act. The City shall never be compelled to annex, unless otherwise required by state law, even if the requirements of Section 8-3-3-2, Annexation Requirements; State Law References, are met."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

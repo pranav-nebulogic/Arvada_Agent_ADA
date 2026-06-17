@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "historic",
+      "property",
+      "survey",
+      "district",
+      "addition",
+      "acres",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/426/Historic-Property-Survey"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-257",
+    "spreadsheet_id": "MI-257",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Historic Property Survey",
+    "summary": "In 1997, a historic property survey was conducted in southeast Arvada, covering 120 acres and documenting 311 resources, which led to the creation of three National Register Historic Districts. An update in 2013 assessed changes affecting the historic integrity of these resources, including renovations and new constructions. The intensive survey forms are available online for public access.",
+    "body": "In 1997 an intensive historic property survey was completed for approximately 120 acres of land in the southeast portion of Arvada, recording a total of 311 resources. The survey resulted in the establishment of three National Register Historic Districts: the Arvada Downtown Historic District, the Reno Park Addition Historic District, and the Stocke-Walter Addition Historic District. An update to the 1997 survey was conducted in 2013 in order to evaluate renovations, additions, new construction, demolitions, and modifications that may have affected the historic integrity of the resources. All intensive survey forms can be accessed from the [Historic Property Survey Map: Historic Property Survey Application.](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=de42c1c822ab4c0690816634c4ca5e21)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

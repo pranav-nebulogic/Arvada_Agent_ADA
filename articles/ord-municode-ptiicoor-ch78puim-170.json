@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "developer",
+      "responsibility",
+      "after",
+      "adoption",
+      "reimbursement",
+      "ordinance",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-226"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-226. - Developer's responsibility.",
+    "summary": "After the adoption of a reimbursement ordinance, it shall be the responsibility of\n               the person entitled to reimbursement to keep the city apprised of his current address.\n               In the event of the recipient's death, it shall be his personal representative's responsibility\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-226. - Developer's responsibility.",
+        "a": "After the adoption of a reimbursement ordinance, it shall be the responsibility of\n               the person entitled to reimbursement to keep the city apprised of his current address.\n               In the event of the recipient's death, it shall be his personal representative's responsibility\n               to notify the city of the name and address of the person entitled to receive future\n               reimbursements. In the case of a corporate recipient, a successor shall be designated\n               prior to dissolution. Failure to comply with the developer's responsibilities shall\n               constitute abandonment of all rights of reimbursement and shall be grounds for repeal\n               of the reimbursement ordinance and refund of any assessments received by the city\n               on behalf of the developer after the abandonment.\n(Code 1981, § 27-186; Ord. No. 1721, § 6, 2-2-1981)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-226"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

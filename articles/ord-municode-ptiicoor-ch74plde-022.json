@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "reserved",
+      "footnotes",
+      "editor",
+      "note",
+      "ord",
+      "adopted",
+      "june"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 74-191",
+      "§ 25-90"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — ARTICLE VI. - RESERVED",
+    "summary": "Footnotes:\n--- (\n3\n) ---\nEditor's note—\nOrd. No. 4340, § 1, adopted June 4, 2012\n, repealed §§ 74-191—74-197, which pertained to residential growth management and\n               derived from §§ 25-90—25-96 of the 1981 Code; Ord. No. 3740, § 1, 4-1-2002; Ord. No.\n               3924, § 1, 11-8-2004;\n…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE VI. - RESERVED",
+        "a": "Footnotes:\n--- (\n3\n) ---\nEditor's note—\nOrd. No. 4340, § 1, adopted June 4, 2012\n, repealed §§ 74-191—74-197, which pertained to residential growth management and\n               derived from §§ 25-90—25-96 of the 1981 Code; Ord. No. 3740, § 1, 4-1-2002; Ord. No.\n               3924, § 1, 11-8-2004;\nOrd. No. 4059, §§ 1—3, 3-19-2007\n."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 74-191",
+      "§ 25-90"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "sewer",
+      "system",
+      "development",
+      "charges",
+      "shall",
+      "assessed",
+      "basis"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-92"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-92. - Sewer system development charges.",
+    "summary": "Sewer system development charges shall be assessed on the basis of a schedule of fees,\n               adopted by ordinance, and from time-to-time amended by the city. This article may\n               be obtained from the director of utilities.\n(Ord. No. 4819, § 2, 10-17-2022, eff. 7-1-2023)\nEditor's …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-92. - Sewer system development charges.",
+        "a": "Sewer system development charges shall be assessed on the basis of a schedule of fees,\n               adopted by ordinance, and from time-to-time amended by the city. This article may\n               be obtained from the director of utilities.\n(Ord. No. 4819, § 2, 10-17-2022, eff. 7-1-2023)\nEditor's note—\nOrd. No. 4819, § 2, adopted October 17, 2022, effective July 1, 2023, amended section\n               74-92 in its entirety to read as herein set out. Former section 74-92, pertained to\n               sewer tap fees, and derived from § 2-5(D) of the 1960 Code; § 25-55 of the 1981 Code."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-92"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

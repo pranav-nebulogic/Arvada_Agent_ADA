@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "general",
+      "hereby",
+      "amended",
+      "adding",
+      "second",
+      "paragraph"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-324"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-324. - I.F.G.C. Section 304.1, General.",
+    "summary": "Section 304.1. General,\nis hereby amended by adding a second paragraph after the exception to the first paragraph\n               to read as follows:\n\"\n304.1. General.\nAny permit applicant intending to provide combustion, ventilation, and dilution air\n                  by a method other than outdoor …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-324. - I.F.G.C. Section 304.1, General.",
+        "a": "Section 304.1. General,\nis hereby amended by adding a second paragraph after the exception to the first paragraph\n               to read as follows:\n\"\n304.1. General.\nAny permit applicant intending to provide combustion, ventilation, and dilution air\n                  by a method other than outdoor combustion air shall, at the time of permit application,\n                  submit to the building official all calculations, drawings, and other information\n                  necessary to demonstrate compliance with code provisions governing such alternate\n                  method. In a case where the permit applicant has selected the all indoor combustion\n                  air method, all such calculations and information shall be submitted on forms provided\n                  by the building inspection division. No permit for work using a method other than\n                  outdoor combustion air shall be issued until after the building official or designee\n                  thereof has reviewed and approved all submitted documentation.\"\n(Ord. No.\n4738\n, § 9, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-324"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

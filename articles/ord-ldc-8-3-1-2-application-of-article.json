@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "organized",
+      "into",
+      "divisions",
+      "order",
+      "roughly",
+      "corresponds",
+      "table",
+      "subheadings"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-1-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "8-3-1-2. Application of article.",
+    "summary": "This Article is organized into Divisions that are set out in an order that roughly corresponds to the table subheadings in Table 8-2-2-2, Decision-Making Tracks by Application Type.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-1-2. Application of article.",
+        "a": "This Article is organized into Divisions that are set out in an order that roughly corresponds to the table subheadings in Table 8-2-2-2, Decision-Making Tracks by Application Type. The Divisions include purpose standards and specific application requirements, approval criteria, procedural modifications, and/or other special considerations for various application types."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "application",
+      "article",
+      "generally",
+      "provides",
+      "background",
+      "about",
+      "establish",
+      "substantive",
+      "requirements",
+      "limit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-1-2"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-1. PURPOSE AND APPLICATION OF ARTICLE"
+  },
+  "content": {
+    "title": "2-1-1-2. Application of article.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-1-2. Application of article.",
+        "a": "A.\tGenerally. This Article provides the background about how to use this Article, and not to establish substantive requirements or limit the effect of the individual Divisions and Sections of this Article.\nB.\tEstablishment of Zoning Districts.Division 2-1-2, Establishment of Zoning Districts, establishes the basic geographic framework for application of most of the other Chapters and Articles of this Code. The Division:\n  1.\tEstablishes the zoning districts in which various uses of land and intensities of development are allowed;\n  2.\tEstablishes the Official Zoning Map of the City of Arvada and provides rules for its interpretation of zoning district and overlay zone boundaries;\n  3.\tProvides for how land will be zoned upon annexation; and\n  4.\tProvides standards for rezoning property from one zoning district to another.\nC.\tZoning Districts and Lot and Building Standards.\n  1.\tContent.Division 2-1-3, Parks and Open Space and Residential Districts, through Division 2-1-6, Commercial and Industrial Districts, set out the purpose of each zoning district and the lot and building standards, e.g., building height, setbacks, and minimum lot area, that apply within each zoning district. For residential development, some of the residential and mixed-use zoning districts utilize the housing palette in Division 2-1-8, Housing Palette, for residential bulk standards.\n  2.\tIllustrations and Images. For each base zoning district, an illustration demonstrates visually how the district's lot and building standards apply to lots, buildings, and structures. The purpose of the illustrations is to show the general character of the district but not necessarily the specific locations or buildings. The illustrations do not necessarily reflect all standards that may apply to development. If an illustration is inconsistent with the respective table of lot and building standards, the standards in the table shall govern. Images, including photographs, are provided to assist readers in envisioning the intent of the Code and do not act as guidelines or standards.\nD.\tHousing Palette.Division 2-1-8, Housing Palette, establishes the bulk standards for a variety of housing types.\nE.\tPrincipal Buildings. Section 2-1-9-1, One Principal Building per Lot, establishes standards for the number of principal buildings permitted on a lot.\nF.\tArterial Street Setbacks. Section 2-1-9-2, Arterial Street Setbacks, establishes required minimum setbacks from arterial streets for single-family detached, duplex, townhomes and accessory dwelling units except along Ralston Road located west of Olde Town and east of Oak Street.\nG.\tSetbacks and Exceptions.Division 2-1-10, Exceptions and Adjustments to Lot and Building Standards, establishes the permitted encroachments and exceptions to lot and building standards, the height transition to RA and RN zoning districts or single-family detached units located in unincorporated Jefferson County, double frontage lots, and specific modification of lot area and width standards."
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-1-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

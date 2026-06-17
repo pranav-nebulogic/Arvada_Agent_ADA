@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-92"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-92. - Definitions.",
+    "summary": "The following words, terms, and phrases, when used in this article, shall have the\n               meaning ascribed to them in this section, unless the context clearly indicates a different\n               meaning:\nAbandoned, lost,\nor\nunclaimed property\nmeans any item or items that come into the posse…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-92. - Definitions.",
+        "a": "The following words, terms, and phrases, when used in this article, shall have the\n               meaning ascribed to them in this section, unless the context clearly indicates a different\n               meaning:\nAbandoned, lost,\nor\nunclaimed property\nmeans any item or items that come into the possession of the police department or\n               the city and for which the custodian is unable to determine an owner, or which is\n               otherwise deemed forfeited.\nCity\nmeans the City of Arvada, Colorado.\nCustodian\nmeans the chief of police or designee thereof who is assigned to act as the holder\n               of all property coming into the possession of the police department or the city, whether\n               it is lost, abandoned, forfeited, seized, confiscated, or recovered stolen property.\n               Nothing in this article shall be held to require the chief to take possession of or\n               make a disposition of any property the possession or disposition of which is otherwise\n               provided for in this Code.\nDays\nmeans calendar days.\nDirector\nmeans the director of finance for the city or designee thereof.\nEvidence\nmeans an item or material that has probative value in either tending to prove or\n               disprove a material fact in a criminal or civil matter.\nOwner\nmeans a person or entity, including a corporation, partnership, association, governmental\n               entity other than the city, or a duly authorized legal representative of same, which\n               has a legal or equitable interest in property subject to this article.\nPolice department\nmeans the Arvada Police Department.\nPolicy\nmeans a city policy or procedure, or a police department rule, procedure, or guideline.\nProperty\nor\nitem\nmeans tangible personal property and, for purposes of the administration of this\n               article, includes cash, checks, securities, and gift cards or certificates.\n(\nOrd. No. 4238, § 1, 12-6-2010\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-92"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

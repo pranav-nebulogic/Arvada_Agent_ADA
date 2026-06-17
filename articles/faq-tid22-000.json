@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-22-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "businesses",
+      "included",
+      "single",
+      "use",
+      "bag",
+      "fee",
+      "grocery",
+      "stores",
+      "Single Use Bag Fee"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=22"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-businesses-are-included-in-the-single-use-bag-fee",
+    "faq_category_name": "Single Use Bag Fee"
+  },
+  "content": {
+    "title": "What businesses are included in the single-use bag fee?",
+    "summary": "Grocery stores and supermarkets Major retailers Major convenience stores Clothing stores Hardware stores Other stores that are a franchise or a chain located outside of Colorado Other major stores that include self-checkout and delivery services Major liquor stores",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What businesses are included in the single-use bag fee?",
+        "a": "Grocery stores and supermarkets Major retailers Major convenience stores Clothing stores Hardware stores Other stores that are a franchise or a chain located outside of Colorado Other major stores that include self-checkout and delivery services Major liquor stores"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

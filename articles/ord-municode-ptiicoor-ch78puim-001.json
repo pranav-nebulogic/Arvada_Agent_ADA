@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "hereby",
+      "declared",
+      "matter",
+      "determination",
+      "notice"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-2"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-2. - Legislative declaration.",
+    "summary": "It is hereby declared as a matter of legislative determination that:\n(1)\nThe notice provided in this article for each hearing or other action to be taken is\n                  reasonably calculated to inform each interested person of any proceedings hereunder\n                  which may directly and …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-2. - Legislative declaration.",
+        "a": "It is hereby declared as a matter of legislative determination that:\n(1)\nThe notice provided in this article for each hearing or other action to be taken is\n                  reasonably calculated to inform each interested person of any proceedings hereunder\n                  which may directly and adversely affect his legally protected interests and of his\n                  legally protected rights;\n(2)\nThe powers, rights and privileges herein granted and the duties, disabilities, liabilities,\n                  and immunities herein provided comply in all respects with any requirement or limitation\n                  imposed by any constitutional, charter, or statutory provisions; and\n(3)\nFor the accomplishment of these purposes, the provisions of this article shall be\n                  broadly construed.\n(Code 1981, § 27-2; Ord. No. 551, § 2, 5-14-1964)\nState Law reference—\nLegislative declaration regarding municipal improvement districts, C.R.S. § 31-25-601."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

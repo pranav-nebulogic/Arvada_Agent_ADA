@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "reserved",
+      "editor",
+      "note",
+      "ord",
+      "adopted",
+      "december",
+      "repealed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-11",
+      "§ 58-11",
+      "§ 18-15"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-11. - Reserved.",
+    "summary": "Editor's note—\nOrd. No. 4830\n, § 2, adopted December 5, 2022, repealed § 58-11, which pertained to record of proceedings\n               and derived from § 18-15 of the 1981 Code; Ord. No. 1477, § 1, 6-19-1978; Ord. No.\n               2460, § 1, 11-9-1987.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-11. - Reserved.",
+        "a": "Editor's note—\nOrd. No. 4830\n, § 2, adopted December 5, 2022, repealed § 58-11, which pertained to record of proceedings\n               and derived from § 18-15 of the 1981 Code; Ord. No. 1477, § 1, 6-19-1978; Ord. No.\n               2460, § 1, 11-9-1987."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-11",
+      "§ 58-11",
+      "§ 18-15"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "planting",
+      "trees",
+      "property",
+      "species",
+      "disease",
+      "diversity",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/739/Planting-Trees-on-City-Property"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-411",
+    "spreadsheet_id": "MI-411",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Planting Trees on City Property",
+    "summary": "The City emphasizes planting diverse tree species on public property to enhance urban forest resilience against pests and diseases, as many existing trees are aging and declining. With a tree equity score of 87, Arvada aims to ensure all neighborhoods benefit from tree-related health and environmental advantages by implementing rigorous maintenance, replanting efforts, and community engagement programs. The forestry team is focused on increasing species diversity and maintaining a healthy tree canopy throughout the city.",
+    "body": "## Diverse Species\n\nThe City's approach to planting trees places an emphasis on age and species diversity. Urban forests need a diversity of tree species so they are less susceptible to insect and disease attacks that could affect an entire forest. Unfortunately, many trees in urban areas were planted decades ago when the trend was to plant the same few species over and over again. Many of those trees are now facing decline due to environmental stressors, age, disease, and infestation, and will be lost over time. Identifying those trees now enables our forestry team to plant young trees before the old ones die off with an eye toward increasing species diversity. We encourage residents to follow these practices to ensure our tree canopy is resilient and continues to provide vast benefits to the environment and our community.\n\n## Tree Equity\n\nAccording to the conservation non-profit American Forests, \"tree equity\" refers to the principle that there should be \"enough trees in specific neighborhoods or municipalities for everyone to experience the health, economic, and climate benefits that trees provide.\" A score of 100 represents perfect Tree Equity. Arvada's overall tree equity score is 87, which is a very good score when compared to other cities. The City's forestry team is committed to the concept of tree equity and is using a strategic approach to evaluate our tree canopy to support a healthy, resilient, and robust canopy in all areas of Arvada by:\n\n- Implementing rigorous forestry maintenance standards on all publicly maintained trees.\n- Identifying parks where we have lost or are losing tree cover due to the age of trees/disease and planting new trees with an emphasis on age and species diversity.\n- Requiring that new parks include an appropriate number of trees with an emphasis on age and species diversity.\n- Supporting a robust Plant-A-Tree program in partnership with residents.\n- Educating and engaging residents to achieve partnership in the continued health of Arvada's tree canopy.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "objectives",
+      "article",
+      "establish",
+      "requirements",
+      "siting",
+      "design",
+      "wireless",
+      "communications",
+      "facilities"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-1-1"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-1. PURPOSE; PUBLIC INTEREST; FINDINGS; AND RELATIONSHIP TO OTHER REGULATIONS"
+  },
+  "content": {
+    "title": "7-1-1-1. Purpose and objectives.",
+    "summary": "A.\tPurpose. The purpose of this Article is to establish requirements for the siting and design of Wireless Communications Facilities (\"WCFs\").\nB.\tObjectives.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-1-1. Purpose and objectives.",
+        "a": "A.\tPurpose. The purpose of this Article is to establish requirements for the siting and design of Wireless Communications Facilities (\"WCFs\").\nB.\tObjectives. The objectives of the provisions of this Article are to:\n  1.\tProvide for the managed development and installation, maintenance, modification, and removal of wireless communications infrastructure in the City with the fewest number of WCFs to complete a network without unreasonably discriminating against wireless communications providers of functionally equivalent services including all of those who install, maintain, operate, and remove WCFs.\n  2.\tPromote and protect the public health, safety, and welfare by reducing the visibility of WCFs to the greatest extent technically feasible through techniques including but not limited to camouflage/concealment design techniques and undergrounding of WCFs and the equipment associated therewith.\n  3.\tEncourage the deployment of smaller, less intrusive WCFs to supplement existing larger WCFs.\n  4.\tEncourage the use of wall mounted panel antennas.\n  5.\tEncourage roof mounted antennas only when wall mounted antennas will not provide adequate service or are not otherwise feasible.\n  6.\tEncourage the location of WCFs in non-residential areas, in a manner that minimizes the total number of WCFs needed throughout the community.\n  7.\tEncourage strongly the collocation of WCFs on new and existing sites.\n  8.\tEncourage owners and providers of WCFs to locate them, to the extent possible, in areas where the adverse impact on the community is minimized.\n  9.\tEnhance the ability of wireless communications service providers to provide such services to the community quickly, effectively, and efficiently.\n  10.\tEffectively manage Small Cell Facilities in the public right-of-way.\n  11.\tManage Amateur Radio Facilities and Over the Air Receiving Devices within the City."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-1-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

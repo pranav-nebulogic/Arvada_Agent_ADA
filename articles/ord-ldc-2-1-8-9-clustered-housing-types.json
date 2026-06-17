@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "clustered",
+      "housing",
+      "types",
+      "type",
+      "equivalencies",
+      "mixed",
+      "within",
+      "single",
+      "cluster",
+      "purposes"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-8-9"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-8. HOUSING PALETTE"
+  },
+  "content": {
+    "title": "2-1-8-9. Clustered housing types.",
+    "summary": "A.\tHousing Type Equivalencies. The clustered housing types may be mixed within a single cluster.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-8-9. Clustered housing types.",
+        "a": "A.\tHousing Type Equivalencies. The clustered housing types may be mixed within a single cluster. For the purposes of the application of density standards and the minimum and maximum number of dwelling units in Table 2-1-8-9, Clustered Housing Types Site and Building Standards:\n  1.\tA micro home is 400 gross floor area of building footprint or less and counted as one-half of a dwelling unit; and\n  2.\tA cottage is between 401 gross floor area and 1,200 gross floor area of building footprint and counted as one dwelling unit.\nB.\tSite and Building Standards. The site and building standards for clustered housing types are set out in Table 2-1-8-9, Clustered Housing Types Site and Building Standards. Standards apply to the subject property upon which the cluster will be developed. Standards for individual lots in a cluster (if the cluster is divided into lots) are not specified.\nC.\tSubdivision Standards. The standards for clustered subdivision are set forth in Division 4-2-2 Cluster Subdivisions.\n(Ord. No. 4793, § 1, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-8-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

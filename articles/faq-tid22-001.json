@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-22-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "exemptions",
+      "single",
+      "use",
+      "bag",
+      "fee",
+      "customers",
+      "provide",
+      "evidence",
+      "Single Use Bag Fee"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=22"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-are-the-exemptions-from-single-use-bag-fee",
+    "faq_category_name": "Single Use Bag Fee"
+  },
+  "content": {
+    "title": "What are the exemptions from single-use bag fee?",
+    "summary": "Customers that provide evidence to the store that they are a participant in a federal or state food assistance program Farmers markets Laundry or dry cleaning services Bulk stores Smaller businesses with three or fewer locations Pharmacies Bags used by consumers inside the store for items like produ…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What are the exemptions from single-use bag fee?",
+        "a": "Customers that provide evidence to the store that they are a participant in a federal or state food assistance program Farmers markets Laundry or dry cleaning services Bulk stores Smaller businesses with three or fewer locations Pharmacies Bags used by consumers inside the store for items like produce, bulk items, candy, small hardware items, meat, bakery, or floral items Restaurants are exempt from the single-use bag fee however they will be prohibited from distributing polystyrene foam containers beginning in 2024"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

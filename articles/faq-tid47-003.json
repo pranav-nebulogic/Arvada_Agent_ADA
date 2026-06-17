@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-47-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "cyclists",
+      "use",
+      "crosswalk",
+      "yes",
+      "bike",
+      "lane",
+      "doesn",
+      "extend",
+      "Bicycling in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=47"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-cyclists-use-the-crosswalk",
+    "faq_category_name": "Bicycling in Arvada"
+  },
+  "content": {
+    "title": "Can cyclists use the crosswalk?",
+    "summary": "Yes, cyclists can use a crosswalk if a bike lane doesn’t extend through an intersection, if you’re unsure how to make a left turn without a two-stage turn box, or if you simply feel more comfortable. Be sure to dismount and walk your bike through the crosswalk like a pedestrian. Once you’re through …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can cyclists use the crosswalk?",
+        "a": "Yes, cyclists can use a crosswalk if a bike lane doesn’t extend through an intersection, if you’re unsure how to make a left turn without a two-stage turn box, or if you simply feel more comfortable. Be sure to dismount and walk your bike through the crosswalk like a pedestrian. Once you’re through the intersection, ensure it’s safe to re-enter the roadway."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

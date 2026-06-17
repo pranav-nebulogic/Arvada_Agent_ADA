@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "building",
+      "code",
+      "advisory",
+      "board",
+      "members",
+      "official",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/267/Building-Code-Advisory-Board"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-004",
+    "spreadsheet_id": "BP-004",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Building Code Advisory Board",
+    "summary": "The Building Code Advisory Board provides guidance to the Building Official on building regulations and hears appeals related to the Building Code and Contractor Licensing. Comprising seven members, including five voting members and two non-voting officials, the board operates on a volunteer basis with three-year terms, and recruitment for vacancies will start in December.",
+    "body": "## Overview\n\nThe Building Code Advisory Board advises the Building Official on the adoption of ordinances affecting building and building regulations and other matters\n\nThe Board also hears and decides appeals to the Building Code and Contractor Licensing.\n\n## Meeting Information\n\n- Meetings called as needed\n\n## Board Details\n\n- 7 members\n  - 5 voting members\n  - Building Official and Fire Code Official serve as non-voting members\n- 3 year terms\n- Volunteer appointment\n\n## Interested in Joining the Building Code Advisory Board?\n\nRecruitment to fill vacancies on boards and commissions will begin in December. You can review the application process on the main [Boards, Commissions and Committees page](/248/Boards-Commissions-and-Committees).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-36-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "receive",
+      "rent",
+      "aha",
+      "release",
+      "payment",
+      "until",
+      "copy",
+      "signed",
+      "Housing Choice Voucher Program Landlord Guide"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=36"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/when-will-i-receive-the-rent",
+    "faq_category_name": "Housing Choice Voucher Program Landlord Guide"
+  },
+  "content": {
+    "title": "When will I receive the rent?",
+    "summary": "The AHA will not release payment until a copy of the signed lease is received and the HAP Contract is executed. The first payment is usually received within 30 to 45 days of the HAP Contract being signed. Though uncommon, you should be aware there could be a delay of up to 60 days before receiving t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "When will I receive the rent?",
+        "a": "The AHA will not release payment until a copy of the signed lease is received and the HAP Contract is executed. The first payment is usually received within 30 to 45 days of the HAP Contract being signed. Though uncommon, you should be aware there could be a delay of up to 60 days before receiving the first rental assistance payment. However, after any initial delay, you can expect the check on or about the first of every month. The participant must pay their portion of the rent according to the requirements of the lease. You may not penalize the participant for a delay in the assistance payment."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

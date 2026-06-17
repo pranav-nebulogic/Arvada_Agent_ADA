@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "equestrian",
+      "facilities",
+      "center",
+      "indiana",
+      "community",
+      "outdoor",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/641/Equestrian-Facilities"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-215",
+    "spreadsheet_id": "MI-215",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Equestrian Facilities",
+    "summary": "Arvada provides a variety of equestrian facilities, including the 50-acre Indiana Equestrian Center, which is open to the public, and the privately operated Arvada Indoor Equestrian Center that features an all-weather riding arena and educational classes. Additionally, the Horse Protection League, an equine rehabilitation center, is located at the Churches Ranch National Historic District in west Arvada.",
+    "body": "Arvada offers extensive opportunities for the equestrian community, including several [equestrian use trails](/560) located throughout the community. Arvada is also home to the Indiana Equestrian Center, the Arvada Indoor Equestrian Center and the Horse Protection League.\n\n## Indiana Equestrian Center\n\nThe Outdoor Equestrian Center includes 50 acres of riding areas free and open to the public.\n\n### Location\n\n- Street Address:  \n  7500 Indiana Street  \n  Arvada, CO 80007\n- [View on Outdoor Equestrian Center on Google Maps](https://maps.app.goo.gl/qNktAgPkfcpMzkh9A)\n- [Arvada Area Horsemen Association Events](https://www.arvadaareahorsemensassn.org/events)\n\n## Arvada Indoor Equestrian Center\n\nThe [Arvada Indoor Equestrian Center](https://www.arvadaindoorequestriancenter.com/) is a privately operated center offering an all-weather indoor riding arena, public hours of operation, and equestrian education classes.\n\n### Contact & Location\n\n- Main Telephone Number: 720-394-0191\n- [Email the Indoor Equestrian Center](/cdn-cgi/l/email-protection#c485b6b2a5a0a5adaaa0ababb6a1b5b1a1b7b0b6ada5aaa7a1aab0a1b684a3a9a5ada8eaa7aba9)\n- Street Address:  \n  7650 Indiana Street  \n  Arvada, CO 80007\n- [View the Indoor Equestrian Center on Google Maps](https://www.google.com/maps/place/7650+Indiana+St,+Arvada,+CO+80007/@39.83514,-105.162775,17z/data=!3m1!4b1!4m2!3m1!1s0x876b8f029757d029:0x2154a02bc1d5c054)\n\n## Additional Information\n\nArvada is also home to the [Horse Protection League](https://www.thehorseprotectionleague.org/), an equine rehabilitation center located at the City-owned Churches Ranch National Historic District in west Arvada.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

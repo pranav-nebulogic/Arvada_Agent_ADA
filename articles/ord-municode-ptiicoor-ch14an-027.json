@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "certain",
+      "animals",
+      "prohibited",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-91"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-91. - Certain animals prohibited.",
+    "summary": "(a)\nIt shall be unlawful for any person to own, have custody of, sell, or in any other\n               manner traffic in the following species of animals:\n(1)\nAll poisonous reptiles, all venomous and poisonous snakes, and all snakes longer than\n               six feet;\n(2)\nNonhuman primates;\n(3)\nAny …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-91. - Certain animals prohibited.",
+        "a": "(a)\nIt shall be unlawful for any person to own, have custody of, sell, or in any other\n               manner traffic in the following species of animals:\n(1)\nAll poisonous reptiles, all venomous and poisonous snakes, and all snakes longer than\n               six feet;\n(2)\nNonhuman primates;\n(3)\nAny species of feline other than ordinary domesticated house cats;\n(4)\nBears of any species;\n(5)\nAll crocodilians;\n(6)\nRaccoons, porcupines, skunks, badgers, or other like species;\n(7)\nFoxes, wolves, coyotes, or other species of canines other than dogs; or\n(8)\nAny other wild animal or wildlife that is not indigenous to the state or is not classified\n               as a pet or domesticated animal.\n(b)\nAlleged domestication of any prohibited animal shall not affect its status under this\n               section. In the event of uncertainty about whether a particular animal is a prohibited\n               animal, it shall be presumed prohibited until proven not by a preponderance of the\n               evidence to the satisfaction of the municipal court.\n(c)\nNothing herein shall prohibit the bona fide activities of the following:\n(1)\nA wildlife rehabilitator, falconer, or scientific collection permit holder currently\n               licensed by the Colorado Division of Wildlife, so long as such licensee or permit\n               holder complies with all applicable city Code and zoning ordinance provisions; or\n(2)\nA veterinary hospital operated by a veterinarian currently licensed by the state which\n               complies with all applicable city Code and zoning ordinance provisions.\n(Code 1981, § 6-46; Ord. No. 3496, § 2, 12-14-1998;\nOrd. No. 4118, § 2, 7-7-2008\n;\nOrd. No. 4878\n, § 8, 10-7-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-91"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "coins",
+      "currency",
+      "precious",
+      "metals",
+      "code",
+      "paid",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/308/Coins-Currency-Precious-Metals"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-148",
+    "spreadsheet_id": "MI-148",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Coins, Currency & Precious Metals",
+    "summary": "Arvada's Municipal Code imposes a sales tax on retail items, with no exemptions for coins, stamps, or precious metal bullion. While legal tender exchanges in general circulation are not taxable, purchases of numismatic items and non-monetized bullion are subject to sales and use tax. Additionally, transactions involving bartering with taxable coins or currency also incur sales tax obligations.",
+    "body": "The [Arvada Municipal Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales tax on the price paid for items sold at retail in the City of Arvada (COA). If sales and use tax was not paid to the COA or another municipality, Arvada uses tax is due. The taxable price is the amount of money received or due, including shipping charges.\n\nWhile some jurisdictions provide an exemption for certain coins, stamps, and precious metal bullion (monetized or non-monetized), Arvada's Code provides no such exemption.\n\n## Coins & Currency\n\nWhere coins and currency constitute legal tender of the United States or another nation, and are in general circulation as a medium of payment, their exchange in the open market, at an exchange rate that reflects their relative values as currency, will not be regarded as a taxable sale of tangible personal property. The same will be true even when the transferee is charged a small fee or does not receive the full face value of the currency exchanged.\n\n## Numismatic Items\n\nThe purchase of coins and other currency no longer in general circulation is subject to Arvada sales and use tax. Rare or commemorative coins purchased at a price that is different than their face value are also subject to Arvada sales and use tax. Tax is based on the price paid, even though they may technically be accepted as legal tender.\n\n## Precious Metal Bullion\n\nThe sale and purchase of non-monetized, precious metal bullion, (e.g. gold, silver, platinum, and palladium) are subject to Arvada sales and use tax. Monetized bullion follows the same rules as Numismatic items. Arvada's Code does not provide an exemption for bulk purchases of precious metal bullion, or for bullion held for investment purposes\n\n## Trading & Bartering\n\nAnyone using precious metals or stones to pay for taxable items must pay Arvada sales and use tax on the price of such items. The bartered exchange of taxable coins or currency for other taxable coins or currency is also subject to Arvada sales and use tax.\n\n## Examples\n\n- Person A has a jar full of change (legal, generally circulating U.S. tender) and wishes to exchange the jar for bills. Person A takes the jar to a coin-counting machine. The machine returns only $0.95 for each $1 counted. There is no Arvada sales tax due on this exchange.\n- Person B is traveling to Europe. Before his trip, he visits the bank and exchanges U.S. dollars for Euros at the current market exchange rate. There is no Arvada sales tax due on this exchange.\n- Person C purchases an American Silver Eagle coin from an online coin dealer. Person C pays $20 for the coin. The face value of the coin as legal U.S. tender is $1. The online dealer does not collect any sales tax. Person C must report and pay Arvada use tax on the $20 purchase price.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedure",
+      "adoption",
+      "administrative",
+      "fees",
+      "publication",
+      "proposed",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-262"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-262. - Procedure for adoption of administrative fees.",
+    "summary": "(a)\nPublication.\nProposed fees shall be submitted to the city manager for approval. Before becoming\n               effective, such fees shall be published in accordance with either of the two methods\n               set forth in subsections (1) and (2) of this section. The city manager or his designe…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-262. - Procedure for adoption of administrative fees.",
+        "a": "(a)\nPublication.\nProposed fees shall be submitted to the city manager for approval. Before becoming\n               effective, such fees shall be published in accordance with either of the two methods\n               set forth in subsections (1) and (2) of this section. The city manager or his designee,\n               as the adopting authority, shall select the method of publication.\n(1)\nBy publishing the fees in full as finally adopted once in a newspaper of general circulation\n               of the city; or\n(2)\nBy filing a total of five copies of the fees as follows: three copies of the fees\n               with the city clerk, one copy with the city attorney, and, if applicable, one copy\n               with the department head responsible for establishing such fees. If this method of\n               publication is adopted, there shall be published a notice stating that the filings\n               have been made, and setting forth dates of such filings. Such notice shall be published\n               once in a newspaper of general circulation.\n(b)\nPublic inspection.\nThe adopting authority and the city clerk shall make such fees available for public\n               inspection at all reasonable times.\n(c)\nAuthority to adopt.\nNo officer, employee, agent, board or commission or member thereof of the city shall\n               have power or authority to adopt any fees except under the authority or specific provision\n               of statutes or ordinances of the city.\n(Code 1981, § 2-182; Ord. No. 3219, § 1, 10-23-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-262"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

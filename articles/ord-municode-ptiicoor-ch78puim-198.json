@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "emergency",
+      "procedures",
+      "any",
+      "person",
+      "maintaining",
+      "facilities",
+      "public"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-311"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-311. - Emergency procedures.",
+    "summary": "Any person maintaining facilities in the public way may proceed with repairs upon\n               existing facilities without a permit when emergency circumstances demand that the\n               work be done immediately. The person doing the work shall apply to the city for a\n               permit on…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-311. - Emergency procedures.",
+        "a": "Any person maintaining facilities in the public way may proceed with repairs upon\n               existing facilities without a permit when emergency circumstances demand that the\n               work be done immediately. The person doing the work shall apply to the city for a\n               permit on or before the next working day after such work has commenced. All emergency\n               work will require prior telephone notification to the public works department (construction\n               inspection supervisor), the city police department, and the appropriate fire protection\n               agency.\n(Code 1981, § 27-220; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-311"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

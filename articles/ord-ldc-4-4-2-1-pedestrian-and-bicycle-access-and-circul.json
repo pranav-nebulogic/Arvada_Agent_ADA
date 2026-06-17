@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "pedestrian",
+      "bicycle",
+      "access",
+      "circulation",
+      "generally",
+      "designed",
+      "located",
+      "provided",
+      "section",
+      "trails"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-4-2-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-4. ACCESS, CIRCULATION, MOBILITY, AND UTILITIES",
+    "division": "DIVISION 4-4-2. ACCESS AND SITE CIRCULATION"
+  },
+  "content": {
+    "title": "4-4-2-1. Pedestrian and bicycle access and circulation.",
+    "summary": "A.\tGenerally. Pedestrian and bicycle access shall be designed and located as provided in this Section.\nB.\tTrails.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-4-2-1. Pedestrian and bicycle access and circulation.",
+        "a": "A.\tGenerally. Pedestrian and bicycle access shall be designed and located as provided in this Section.\nB.\tTrails. Pedestrian, bicycle, and equestrian trails shall be constructed where indicated in the City's adopted Trails Plan and/or Bicycle Master Plan policies, and shall be designed and constructed to adopted City standards. Bicycle lanes shall be constructed where indicated in the City's adopted Bicycle Master Plan, and shall be designed and constructed to adopted City standards. Specific locations on a subject property may be determined at the time of development approval in order to promote the efficient development of the property.\nC.\tPedestrian Connections.\n  1.\tAll primary entrances of principal buildings containing nonresidential (except agricultural) or mixed-uses, and each entryway serving dwelling units in a multifamily building, shall have direct accessible connections (access without having to cross a street) to a sidewalk, walkway, or trail that leads to a sidewalk adjacent to each public street that adjoins the subject property, between each principal building in the development, and to all existing or planned transit stop or park-n-ride locations identified by Regional Transportation District (RTD). Each such sidewalk, walkway, or trail shall be a minimum of five feet wide, or a minimum of seven feet wide where it is adjacent to areas where parked cars may overhang the walk or trail.\n  2.\tEach proposed development that will include parking areas that extend more than 250 feet from the principal building shall provide a designated walkway from the row of parking furthest from the principal building to a principal building entrance used by residents, employees, or the public, or to a sidewalk leading to such entrance. Such walkways shall be distinguished from surrounding parking areas by changes in color or texture, raised surfaces, or landscaped edges.\nD.\tBicycle Access. In developments containing nonresidential uses or multifamily uses, bicycle access routes shall be provided between public bicycle lanes or trails and on-site bicycle parking areas. Sites shall be designed to avoid or minimize all conflicting bicycle/motor vehicle and bicycle/pedestrian movements. All bicycle trails connecting to the Arvada park, open space, and trail system shall be constructed of concrete, and shall comply with City trail width requirements.\nE.\tCombined Trails. If a bicycle access route is combined with a pedestrian sidewalk, the combined path shall be at least ten feet wide if detached from the street, or 12 feet wide if attached to the street."
+      }
+    ],
+    "ordinance_refs": [
+      "4-4-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

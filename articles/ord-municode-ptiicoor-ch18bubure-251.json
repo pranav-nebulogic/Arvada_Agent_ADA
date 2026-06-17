@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "adopted",
+      "pursuant",
+      "seq",
+      "arvada",
+      "city",
+      "charter",
+      "national"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-570",
+      "§ 31-16"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-570. - Adopted.",
+    "summary": "Pursuant to C.R.S. § 31-16-101 et seq. and the Arvada City Charter, the National Electrical\n               Code, 2023 Edition, including Annexes A through K, published by the National Fire\n               Protection Association, is hereby adopted by reference and incorporated into the Arvada\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-570. - Adopted.",
+        "a": "Pursuant to C.R.S. § 31-16-101 et seq. and the Arvada City Charter, the National Electrical\n               Code, 2023 Edition, including Annexes A through K, published by the National Fire\n               Protection Association, is hereby adopted by reference and incorporated into the Arvada\n               City Code. The 2023 National Electrical Code shall be known as the \"N.E.C.\" or the\n               \"electrical code,\" and may be cited and referred to as such. Any reference in any\n               of the technical codes to the International Code Council Electrical Code shall be\n               to the most nearly equivalent of the 2023 National Electrical Code, or any successor\n               electrical code adopted by Arvada.\n(Ord. No.\n4738\n, § 14, 9-14-2020; Ord. No.\n4843\n, § 1, 5-15-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-570",
+      "§ 31-16"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

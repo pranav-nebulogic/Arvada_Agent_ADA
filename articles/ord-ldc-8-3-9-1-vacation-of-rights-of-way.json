@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "vacation",
+      "rights",
+      "generally",
+      "city",
+      "vacate",
+      "provided",
+      "section",
+      "vacations",
+      "notice",
+      "issued"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-9-1"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-9. VACATION OF RIGHTS-OF-WAY; TERMINATION OF EASEMENTS"
+  },
+  "content": {
+    "title": "8-3-9-1. Vacation of rights-of-way.",
+    "summary": "A.\tGenerally. The City may vacate rights-of-way as provided in this Section. Vacations may be by notice issued by the Director or by ordinance adopted by the City Council, depending on the nature of the property intended to be vacated.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-9-1. Vacation of rights-of-way.",
+        "a": "A.\tGenerally. The City may vacate rights-of-way as provided in this Section. Vacations may be by notice issued by the Director or by ordinance adopted by the City Council, depending on the nature of the property intended to be vacated. Vacation of public vehicular access easements and rights-of-way is not a matter of right, unless such vacation is mandated by the conditions of an enforceable development agreement (however titled).\nB.\tConsiderations.\n  1.\tThe City Council may, in its sole discretion, approve a request for vacation of a public right-of-way or public vehicular access easement by ordinance, if it finds that all of the following criteria have been met:\n    a.\tThe vacation is consistent with the Comprehensive Plan and with any other applicable, adopted City transportation plan or streets/roadway plan;\n    b.\tThe land to be vacated is no longer necessary for the public use and convenience, or the public right-of-way or public vehicular access easement has become useless, inconvenient, or burdensome to the City;\n    c.\tThe vacation will not create any landlocked property;\n    d.\tThe vacation will not restrict access to any lot, tract, or parcel so that the resulting access is unreasonable or economically prohibitive; and\n    e.\tThe vacation will not reduce the quality of public services or the provision of necessary emergency services to any lot, tract, or parcel.\n  2.\tThe Director may, in the Director's sole discretion, approve a request to vacate any other easement, including utility easements, fire lane or emergency access easements, and non-vehicular easements (e.g., sidewalk, pedestrian, or trail) or disclaim the City's interest in an easement, by issuance of a notice of vacation or disclaimer, provided that:\n    a.\tThe request is not subject to City Council consideration pursuant to Subsection B.1., above; and\n    b.\tThe Director determines that either:\n      i.\tThe easement is not currently or foreseeably necessary for the public health, safety, or welfare; or\n      ii.\tAnother easement of equivalent utility will replace that which is proposed for vacation.\nC.\tEffect of Vacation. Any document effecting a vacation under this Section shall state to whom title to the vacated land shall vest upon vacation, but failure to do so shall not effect the validity of the vacation. Title to the lands included within a street right-of-way, or so much thereof as may be vacated, shall vest in accordance with the provisions of C.R.S. § 43-2-302, and the vacation of any other easement shall, by operation of law, result in the vesting of title in the underlying fee owner of the land previously encumbered."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-9-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

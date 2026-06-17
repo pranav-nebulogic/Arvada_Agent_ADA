@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "intent",
+      "purpose",
+      "division",
+      "require",
+      "mandatory",
+      "provisions",
+      "conservation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-101"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-101. - Intent.",
+    "summary": "(a)\nThe purpose of this division is to require mandatory provisions for the conservation\n               of the city potable water supply by the utilization of certain plumbing fittings and\n               fixtures and water use practices.\n(b)\nThese provisions apply to all residential structures, incl…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-101. - Intent.",
+        "a": "(a)\nThe purpose of this division is to require mandatory provisions for the conservation\n               of the city potable water supply by the utilization of certain plumbing fittings and\n               fixtures and water use practices.\n(b)\nThese provisions apply to all residential structures, including but not limited to\n               one- and two-family residences, townhomes, condominiums, apartment buildings, hotels\n               and motels that are issued a building permit.\nSection 102-103\n(b) applies to commercial and industrial structures issued a building permit.\n(c)\nAll additions and alterations to existing residential structures issued a building\n               permit will comply with the provisions of this division when the work includes the\n               installation or replacement of plumbing fixtures and fittings governed by this division.\n(d)\nAll additions and alterations to existing commercial and industrial structures that\n               are issued a building permit will comply with the provisions of subsection (b) of\n               this section when the work includes the installation or replacement of plumbing fixtures\n               and fittings governed by\nsection 102-103\n(b).\n(Code 1981, § 33-51; Ord. No. 2574, § 1, 11-21-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-101"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

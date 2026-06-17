@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "administrative",
+      "procedures",
+      "legal",
+      "counsel",
+      "authority",
+      "adopt",
+      "rules"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-66"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-66. - Administrative procedures; legal counsel.",
+    "summary": "(a)\nAdministrative procedures.\nThe authority may adopt administrative procedures, rules, and policies as necessary\n               or convenient to implement the provisions of this chapter of the Code and Colorado\n               Liquor Code in accordance with chapter 2 of this Code.\n(b)\nLegal counsel…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-66. - Administrative procedures; legal counsel.",
+        "a": "(a)\nAdministrative procedures.\nThe authority may adopt administrative procedures, rules, and policies as necessary\n               or convenient to implement the provisions of this chapter of the Code and Colorado\n               Liquor Code in accordance with chapter 2 of this Code.\n(b)\nLegal counsel.\nThe city attorney or designee thereof shall be the legal advisor to the authority\n               and shall serve as prosecutor for violations of this Code or Colorado Liquor Code.\n               In the event of a conflict, the city attorney may appoint outside legal counsel.\n(\nOrd. No. 4872\n, § 2, 4-15-2024)\nEditor's note—\nOrd. No. 4872\n, § 2, adopted April 15, 2024, repealed the former § 6-66, and enacted a new § 6-66\n               as set out herein. The former § 6-66 pertained to removal of members; vacancies and\n               derived from\nOrd. No. 4670\n, § 1, 12-17-2018."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-66"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

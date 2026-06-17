@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "tax",
+      "requirements",
+      "entities",
+      "outside",
+      "jurisdiction",
+      "shall",
+      "unlawful"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH53MENDIMA"
+    ],
+    "scraped_at": "2026-06-10T12:02:40.728035+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 53-72"
+    ],
+    "chapter": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA"
+  },
+  "content": {
+    "title": "Chapter 53 - MEDICAL AND NON-MEDICAL MARIJUANA — Sec. 53-72. - Tax requirements for entities outside jurisdiction.",
+    "summary": "It shall be unlawful for any person lawfully authorized to deliver medical marijuana\n               to do so into or within the city in any form to any person who is lawfully entitled\n               to possess or use medical marijuana under the provisions of Article XVIII, § 14 of\n               the…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 53-72. - Tax requirements for entities outside jurisdiction.",
+        "a": "It shall be unlawful for any person lawfully authorized to deliver medical marijuana\n               to do so into or within the city in any form to any person who is lawfully entitled\n               to possess or use medical marijuana under the provisions of Article XVIII, § 14 of\n               the Colorado Constitution without first having obtained a business license from the\n               city pursuant to article III of\nchapter 98\nof this Code. Any deliveries of medical marijuana into or within the city by any\n               person lawfully authorized to make such deliveries shall be subject to the city's\n               sales tax pursuant to article III of\nchapter 98\nof this Code.\n(\nOrd. No. 4393, § 7(Att. A), 7-1-2013\n>;\nOrd. No. 4548, § 1, 5-2-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 53-72"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

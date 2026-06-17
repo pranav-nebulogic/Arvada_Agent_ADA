@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "levy",
+      "reassessment",
+      "cost",
+      "value",
+      "fact",
+      "contract",
+      "let"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-141"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-141. - Levy of reassessment; cost and value.",
+    "summary": "(a)\nThe fact that the contract has been let or that the project shall have been acquired\n               or improved, or acquired and improved, and otherwise completed in whole or in part\n               shall not prevent the assessment from being made, nor shall the omission, failure\n               o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-141. - Levy of reassessment; cost and value.",
+        "a": "(a)\nThe fact that the contract has been let or that the project shall have been acquired\n               or improved, or acquired and improved, and otherwise completed in whole or in part\n               shall not prevent the assessment from being made, nor shall the omission, failure\n               or neglect of any officer to comply with the provisions of the laws governing the\n               city as to petition, notice, resolution to acquire or improve, or both acquire and\n               improve, estimate, survey, diagram, manner of letting contract or execution of work\n               or any other matter whatsoever connected with the project and the first assessment\n               thereof, operate to invalidate or in any way to affect the making of the new assessment\n               or reassessment, as provided for by\nsections 78-135\n—\n78-146\n, both inclusive, charging the property benefited with the expense thereof, except\n               as herein otherwise provided.\n(b)\nAny such reassessment shall be levied by ordinance, shall become final, and shall\n               be subject to appeal, as provided in\nsections 78-102\nand\n78-103\n.\n(c)\nSuch reassessment shall be for an amount which shall not exceed the actual cost and\n               value of the project, together with any interest that shall have lawfully accrued\n               thereon; and such amount shall be equitably apportioned upon the property benefited\n               thereby according to the provisions of the laws of the city.\n(d)\nIt is the true intent and meaning of\nsections 78-135\n—\n78-146\n, both inclusive, to make the cost and expense of each local improvement project payable\n               by the tracts benefited by such project by making a reassessment therefor, notwithstanding\n               that the proceedings of the council, engineer or other body or any officers thereof\n               may be found irregular or defective, whether jurisdictional or otherwise.\n(Code 1981, § 27-141; Ord. No. 551, § 82, 5-14-1964)\nState Law reference—\nEffect of court order setting assessment aside, C.R.S. § 31-25-539."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-141"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

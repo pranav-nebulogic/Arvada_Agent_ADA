@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "compliance",
+      "state",
+      "federal",
+      "grant",
+      "requirements",
+      "procurement",
+      "process"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-7"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-7. - Compliance with state and federal grant requirements.",
+    "summary": "When a procurement process involves the expenditure of state or federal grant or assistance\n               funds, the procurement shall be done in compliance with all applicable state and federal\n               laws, statutes, and other requirements. In these cases, employees must also act in\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-7. - Compliance with state and federal grant requirements.",
+        "a": "When a procurement process involves the expenditure of state or federal grant or assistance\n               funds, the procurement shall be done in compliance with all applicable state and federal\n               laws, statutes, and other requirements. In these cases, employees must also act in\n               accordance with the solicitation rules and other provisions of this chapter, and all\n               applicable city policies. In the event of a conflict between state, federal, or city\n               laws, statutes or other requirements, the most stringent, or strictest, law, statute,\n               or requirement shall apply to the procurement.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

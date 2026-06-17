@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "optional",
+      "filing",
+      "claim",
+      "lien",
+      "council",
+      "required",
+      "any"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-112"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-112. - Optional filing of claim of lien.",
+    "summary": "(a)\nThe council may (but is not required) in any assessment ordinance or in any ordinance\n               amendatory thereof provide that the city clerk within 60 days after the publication\n               of the assessment ordinance after its final passage shall make out, sign, attest with\n          …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-112. - Optional filing of claim of lien.",
+        "a": "(a)\nThe council may (but is not required) in any assessment ordinance or in any ordinance\n               amendatory thereof provide that the city clerk within 60 days after the publication\n               of the assessment ordinance after its final passage shall make out, sign, attest with\n               the seal of the city and file for record in the office of the county clerk a claim\n               of lien for the unpaid amount due and assessed against each tract pursuant to the\n               provisions of\nchapter 59\nentitled \"municipal liens.\"\n(b)\nWhen a claim of lien is so filed and any assessment appertaining thereto is paid in\n               full, the city clerk shall release the lien against any specific tract either by entering\n               and signing a receipt of payment upon the margin of the record thereof or by filing\n               for record in the office of the county clerk a separate release wherein payment of\n               the assessment, principal, interest, and any penalty is recited.\n(Code 1981, § 27-113; Ord. No. 551, § 53, 5-14-1964;\nOrd. No. 4042, § 4, 12-11-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-112"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

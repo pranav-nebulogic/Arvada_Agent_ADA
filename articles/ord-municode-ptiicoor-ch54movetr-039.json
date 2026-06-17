@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "division"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-170"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-170. - Definitions.",
+    "summary": "The following words, terms, and phrases, when used in this division, shall have the\n               following meanings:\nLarge vehicle\nmeans any vehicle that is:\n(1)\nEight feet or more in width;\n(2)\nTwenty-five feet or more in length;\n(3)\nA vehicle with an attached trailer whose combined length when a…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-170. - Definitions.",
+        "a": "The following words, terms, and phrases, when used in this division, shall have the\n               following meanings:\nLarge vehicle\nmeans any vehicle that is:\n(1)\nEight feet or more in width;\n(2)\nTwenty-five feet or more in length;\n(3)\nA vehicle with an attached trailer whose combined length when attached is in excess\n                  of 30 feet;\n(4)\nA vehicle whose gross vehicle weight exceeds 10,000 pounds excepting major recreational\n                  vehicles;\n(5)\nA vehicle whose gross vehicle weight rating exceeds 14,500 pounds excepting major\n                  recreational vehicles; or\n(6)\nA truck tractor, semitrailer, or dump truck regardless of size, excluding pick-up\n                  trucks with standard beds that have been modified to dump loads.\nThe term \"large vehicle\" does not include boats, motor homes, or travel trailers.\nLoading and unloading\nmeans the continuous and uninterrupted activity of placing cargo into or removing\n               cargo from a vehicle.\nMajor recreational vehicle\nmeans boats, boat trailers, travel trailers, motor homes, tent-trailers, and hauling\n               trailers.\nResidential district\nmeans a residence district as defined in C.R.S. tit. 42, and any area zoned or designated\n               as residential in the Land Development Code.\nTravel trailer\nmeans a vehicle that is:\n(1)\nMounted on wheels;\n(2)\nDesigned to be towed by a motorized vehicle; and that\n(3)\nContains windows, sleeping, cooking, and heating equipment that were built-in as an\n                  integral part of the original design and construction of the vehicle.\n(\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-170"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

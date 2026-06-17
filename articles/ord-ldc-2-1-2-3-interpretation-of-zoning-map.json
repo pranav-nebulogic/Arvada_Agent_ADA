@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "interpretation",
+      "zoning",
+      "generally",
+      "precise",
+      "location",
+      "zone",
+      "boundary",
+      "line",
+      "shown",
+      "defined"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-2-3"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-2. ESTABLISHMENT OF ZONING DISTRICTS"
+  },
+  "content": {
+    "title": "2-1-2-3. Interpretation of zoning map.",
+    "summary": "A.\tGenerally. The precise location of any zone boundary line shown on the Zoning Map shall be defined by the rules of this Section.\nB.\tRezoning Ordinances.\n  1.\tRezoning ordinances shall be promptly reflected on the Zoning Map.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-2-3. Interpretation of zoning map.",
+        "a": "A.\tGenerally. The precise location of any zone boundary line shown on the Zoning Map shall be defined by the rules of this Section.\nB.\tRezoning Ordinances.\n  1.\tRezoning ordinances shall be promptly reflected on the Zoning Map. The boundaries of property that are specified in a rezoning ordinance are controlling, except as provided in this Subsection.\n  2.\tConflicts between the zone boundaries on the Zoning Map and the zoning for property provided by an adopted rezoning ordinance dated after the effective date of this Code could result from administrative or scrivener's errors. In the event of such conflict:\n    a.\tIt is presumed that the adopted rezoning ordinance controls, and the Zoning Map shall be promptly corrected when the conflict is identified. The Director shall provide written notice of the correction to the owners of property that is the subject of a Zoning Map correction.\n    b.\tThe presumption may be rebutted if it is obvious that the error is within the text of the rezoning ordinance, in that:\n      i.\tThe rezoning affects property that was not the subject of the application for rezoning; or\n      ii.\tThe rezoning affects only a portion of the property that was the subject of the application, the application requested rezoning for the entire property, and the application was granted without conditions that restricted the extent of the rezoning.\n  3.\tAny conflict between the boundaries on the Zoning Map and a development approval granted before the effective date shall be resolved as follows:\n    a.\tIf the Zoning Map conflicts with a rezoning ordinance adopted before the effective date, the Zoning Map boundaries control. However, if the rezoning ordinance was tied to a site specific development plan, then the Zoning Map designation shall not interfere with any vested rights created by the site specific development plan.\n    b.\tIf the Zoning Map conflicts with a Planned Unit Development (\"PUD\") boundary that was approved before the effective date but is not yet built-out, the PUD controls, unless there is record evidence to show that the Zoning Map was intended to adjust the boundaries of the PUD.\n    c.\tIf the Zoning Map conflicts with an approved PUD that is either expired or built-out, then the Zoning Map controls.\n    d.\tIf the Zoning Map conflicts with a development or annexation agreement, then the conflict shall be resolved according to the terms of the agreement.\nC.\tInterpretation of Zoning District Boundaries. In the absence of a rezoning ordinance that specifies parcel boundaries, where zone boundary lines appear to follow identifiable features, their location shall be determined by applying the following:\n  1.\tRights-of-Way. Boundary lines shown as following, or approximately following, streets, alleys, railroad tracks, or utility lines shall be construed as following the centerline of the right-of-way. Where the location of the actual streets or alleys differs from the location of corresponding streets or alleys on the Zoning Map, the location of the actual streets or alleys controls.\n  2.\tProperty Lines. Boundary lines shown as following, or approximately following, lot lines or other property lines shown on the Zoning Map shall be construed as following such lines.\n  3.\tWatercourses. Boundary lines shown as following, or approximately following, the centerline of streams, canals, or other watercourses shall be construed as following the channel centerline. In the event of a natural change in the location of such streams or other watercourses, the zoning district boundary shall be construed as moving with the channel centerline. However, such movement shall not render existing development nonconforming.\n  4.\tParallel to Features. Boundary lines shown as separated from and parallel, or approximately parallel, to any of the features listed in paragraphs 1. through 4. above, shall be construed to be parallel to such features and at such distances as are shown by the scale on the Zoning Map.\n  5.\tUnclear Zoning District Boundaries. In the event that a zoning district boundary is unclear or is disputed, the Director shall determine the location of the zoning district boundary.\nD.\tUn-subdivided Land or No Identifiable Feature. In the absence of a rezoning ordinance that specifies parcel boundaries, on un-subdivided land, or where a district boundary follows no identifiable feature, the location of zone boundaries shall be determined by applying the following rules:\n  1.\tText Dimensions. The boundary shall be located by reference to dimensions shown in text on the Zoning Map, if any.\n  2.\tMap Scale. The boundary shall be located using the map scale appearing on the Zoning Map.\nE.\tAll Land Within City Limits Shall Be Zoned. It is the intent of the City Council that all land within the City be zoned."
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-2-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

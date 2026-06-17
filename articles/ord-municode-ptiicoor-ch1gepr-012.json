@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "applicability",
+      "effect",
+      "new",
+      "ordinance",
+      "shall",
+      "construed",
+      "repeal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH1GEPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:08.706973+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 1-12"
+    ],
+    "chapter": "Chapter 1 - GENERAL PROVISIONS"
+  },
+  "content": {
+    "title": "Chapter 1 - GENERAL PROVISIONS — Sec. 1-12. - Applicability and effect of new ordinance.",
+    "summary": "No new ordinance shall be construed to repeal a former ordinance, whether such former\n               ordinance is expressly repealed or not, as to any offense committed against the former\n               ordinance, or as to any act done, any penalty, forfeiture or punishment incurred or\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 1-12. - Applicability and effect of new ordinance.",
+        "a": "No new ordinance shall be construed to repeal a former ordinance, whether such former\n               ordinance is expressly repealed or not, as to any offense committed against the former\n               ordinance, or as to any act done, any penalty, forfeiture or punishment incurred or\n               any right accrued or claim arising under the former ordinance, or in any way whatever\n               to affect any such offense or act or any penalty, forfeiture or punishment so incurred,\n               or any claim arising before the new ordinance takes effect, save only that the proceedings\n               thereafter shall conform, so far as practicable, to the ordinances at the time of\n               such proceeding. If any penalty, forfeiture or punishment is mitigated by the provisions\n               of a new ordinance, such provision may, by the consent of the party affected, be applied\n               to any judgment pronounced after the new ordinance takes effect. This section shall\n               extend to all repeals herewith by express words or by implication.\n(Code 1960, § 1-4; Code 1981, § 1-8)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 1-12"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

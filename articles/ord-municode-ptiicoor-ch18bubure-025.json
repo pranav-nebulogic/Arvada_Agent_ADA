@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "general",
+      "hereby",
+      "amended",
+      "read",
+      "follows",
+      "live"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-108"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-108. - I.B.C. Section 419.1, General.",
+    "summary": "Section 419.1 General,\nis hereby amended to read as follows:\n\"\n419.1. General.\nA live/work unit shall comply with Sections 419.1 through 419.9.\nException: Dwelling or sleeping units that include an office that is less than 10\n                  percent of the area of the dwelling unit are permitted t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-108. - I.B.C. Section 419.1, General.",
+        "a": "Section 419.1 General,\nis hereby amended to read as follows:\n\"\n419.1. General.\nA live/work unit shall comply with Sections 419.1 through 419.9.\nException: Dwelling or sleeping units that include an office that is less than 10\n                  percent of the area of the dwelling unit are permitted to be classified as dwelling\n                  units with accessory occupancies in accordance with section 508.2.\nSingle family homes, duplexes, and townhomes built in accordance with the International\n                  Residential Code may include up to 300 square feet of area within the dwelling unit\n                  and attached garage or 600 square feet in a detached building accessory to the dwelling\n                  unit, for uses that would otherwise be classified as B, M, F, or S Occupancies in\n                  accordance with this code, without complying with the provisions of this code. Operational\n                  permits and limitation of quantities of hazardous materials in accordance with the\n                  International Fire Code are required. Alterations to these spaces shall be in accordance\n                  with the International Residential Code.\"\n(Ord. No.\n4738\n, § 5, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-108"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

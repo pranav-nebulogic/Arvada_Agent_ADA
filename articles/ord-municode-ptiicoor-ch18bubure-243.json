@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "adopted",
+      "pursuant",
+      "seq",
+      "arvada",
+      "city",
+      "charter",
+      "international"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-550",
+      "§ 31-16"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-550. - Adopted.",
+    "summary": "Pursuant to C.R.S. § 31-16-101 et seq. and the Arvada City Charter, the International\n               Swimming Pool and Spa Code, 2018 Edition, published by the International Code Council,\n               5203 Leesburg Pike, Suite 600, Falls Church, VA 22041, is hereby adopted by reference\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-550. - Adopted.",
+        "a": "Pursuant to C.R.S. § 31-16-101 et seq. and the Arvada City Charter, the International\n               Swimming Pool and Spa Code, 2018 Edition, published by the International Code Council,\n               5203 Leesburg Pike, Suite 600, Falls Church, VA 22041, is hereby adopted by reference\n               and incorporated into the Arvada City Code.\nThe International Swimming Pool and Spa Code shall be known as the \"I.S.P.S.C.\" and\n               may be referred to as such.\n(Ord. No.\n4738\n, § 13, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-550",
+      "§ 31-16"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

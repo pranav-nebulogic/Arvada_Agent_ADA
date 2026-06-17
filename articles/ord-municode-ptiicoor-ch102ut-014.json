@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "utility",
+      "assistance",
+      "program",
+      "customer",
+      "receive",
+      "extension",
+      "date"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-45"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-45. - Utility assistance program.",
+    "summary": "A utility customer may receive an extension of the date on which payment for water\n               or sewer services, or both, would otherwise be due to the city, or a credit of up\n               to $100.00 to be applied to the customer's utility account with the city, or both.\n               The cit…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-45. - Utility assistance program.",
+        "a": "A utility customer may receive an extension of the date on which payment for water\n               or sewer services, or both, would otherwise be due to the city, or a credit of up\n               to $100.00 to be applied to the customer's utility account with the city, or both.\n               The city manager or his designee is hereby authorized to promulgate administrative\n               rules or regulations, or both, governing the procedures which shall be followed to\n               implement this section.\n(Code 1981, § 33-14; Ord. No. 3070, § 1, 4-4-1994)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-45"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

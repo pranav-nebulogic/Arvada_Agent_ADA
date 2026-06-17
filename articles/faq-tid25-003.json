@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-25-004",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "development_permit",
+    "category": "development",
+    "tags": [
+      "laws",
+      "know",
+      "depends",
+      "development",
+      "general",
+      "familiar",
+      "city",
+      "land",
+      "Development Review Resources"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=25"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/which-laws-should-i-know",
+    "faq_category_name": "Development Review Resources"
+  },
+  "content": {
+    "title": "Which laws should I know?",
+    "summary": "It depends on your development, but in general you should be familiar with the City's Land Development Code (LDC) and Engineering Code of Standards and Specifications.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Which laws should I know?",
+        "a": "It depends on your development, but in general you should be familiar with the City's Land Development Code (LDC) and Engineering Code of Standards and Specifications."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

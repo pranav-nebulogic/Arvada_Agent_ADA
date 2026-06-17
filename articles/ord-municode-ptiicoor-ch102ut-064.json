@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "nonresidential",
+      "water",
+      "system",
+      "development",
+      "charges",
+      "applicable",
+      "developments"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-164"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-164.5. - Nonresidential water system development charges applicable to developments subject to a water resource contribution discount.",
+    "summary": "(a)\nFees in this section are set in accordance with existing agreements to account for\n               water resources contributed to the city at no cost to the city.\n(b)\nDiscounted water system development charges under this\nsection 102-164.5\nwill apply only until such time as the contributed water …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-164.5. - Nonresidential water system development charges applicable to developments subject to a water resource contribution discount.",
+        "a": "(a)\nFees in this section are set in accordance with existing agreements to account for\n               water resources contributed to the city at no cost to the city.\n(b)\nDiscounted water system development charges under this\nsection 102-164.5\nwill apply only until such time as the contributed water resources are exhausted.\n(c)\nWater system development charges based on the following schedule:\nSize of Meter\nApplicable water system development charges when water resources contributed\n⅝\" x ¾\"\n$9,870.00\n¾\"\n$14,810.00\n1\"\n$24,680.00\n1 ½\"\n$49,350.00\n2\"\n$78,960.00\n3\"\n$172,730.00\n4\"\n$296,100.00\n6\"\n$616,880.00\n(d)\nWater system development charges for irrigated open space based on the following schedule,\n               at a per square foot of irrigated area:\nSize of Meter\nApplicable water system development charges when water resources contributed\nNon-water conserving landscaping\n$1.54\nWater conserving landscaping\n$0.82\n(e)\nFor service connections requiring a water tap and meter size larger than six inches,\n               the determination of the system development charge, based on the total annual water\n               requirement and the water demand characteristics of the property being served, shall\n               be at the sole discretion of the utilities director or their duly authorized representative,\n               consistent with the provisions of this Article I of Chapter 33. Any such determination\n               shall be made available to the user for inspection, upon request.\n(\nOrd. No. 5001, § 2, 11-19-2007, eff. 1-1-2008\n;\nOrd. No. 4139, § 5, 11-17-2008, eff. 1-1-2009\n;\nOrd. No. 4184, § 6, 10-19-2009, eff. 1-1-2010\n;\nOrd. No. 4193, § 5, 1-11-2010, eff. 7-1-2010, 1-1-2011\n;\nOrd. No. 4361, § 6, 10-22-2012, eff. 1-1-2013\n;\nOrd. No. 4411, § 6, 10-21-2013, eff. 1-1-2014\n;\nOrd. No. 4434, § 2, 4-7-2014\n;\nOrd. No. 4465, § 6, 10-20-2014, eff. 1-1-2015\n;\nOrd. No. 4524, § 6, 10-19-2015, eff. 1-1-2016\n;\nOrd. No. 4571, § 6, eff. 1-1-2017\n; Ord. No. 4819, § 22, 10-17-2022, eff. 7-1-2023; Ord. No.\n4854\n, § 7, 9-11-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-164"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "line",
+      "gold",
+      "parking",
+      "olde",
+      "town",
+      "levels",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/467/G-Line"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-239",
+    "spreadsheet_id": "MI-239",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "G Line (Gold Line)",
+    "summary": "The G Line, an 11.2-mile electric commuter rail line, connects Denver Union Station to Wheat Ridge, serving eight stations along the route. Parking at the Hub is shared between RTD passengers and visitors to Olde Town, requiring vehicle registration, while safety tips emphasize the importance of using designated crossings and remaining alert around train tracks. For more details on fares, schedules, and safety regulations, visit the RTD G Line webpage or contact RTD directly.",
+    "body": "![Gold Line](/ImageRepository/Document?documentID=526 \"Gold Line\")\n\n## Parking in the Hub\n\nParking in the Hub is now a shared space for RTD passengers and visitors to Olde Town and registering your vehicle is required. The lower levels are for RTD parking and the upper levels are for Olde Town parking. [Find information about where to park and how to register your vehicle](/567/Parking-in-Olde-Town).\n\n## Riding the Rail\n\nEverything you need to know about riding the G Line including fares, schedules, stations, timing and more can be found on the [RTD G Line webpage](https://app.rtd-denver.com/route/G/schedule?serviceType=4&direction=Eastbound&branch=).\n\n## G Line Overview\n\n### Rail Safety Tips\n\n- Never trespass on any train track - it is illegal and dangerous.\n- Cross the tracks only at designated crossings, always follow safety signage and obey warning devices like flashing red lights and gate arms.\n- Stay alert and look both ways for a train - you may not hear them coming.\n\n### Quiet Zones\n\nThe commuter rail opened with quiet zones in place along the entirety of the line, although horns will continue to be used if maintenance workers, pedestrians or vehicles are on or near the tracks; if there are issues with gate timing at any of the G Line's 16 crossings; if a train must use automatic train control; or in emergency situations.\n\n### Background\n\nThe G Line is part of RTD's 2004 voter-approved FasTracks plan to expand transit across the Denver metro region and is part of a larger project called the Eagle P3 project which includes the East Corridor transit line to Denver International Airport. The G Line is an 11.2-mile electric commuter rail transit line that will connect Denver Union Station to Wheat Ridge, passing through northwest Denver, Adams County and Arvada. There are eight stations: Denver Union Station, 41st/Fox, Pecos, Federal, Gold Strike, Olde Town Arvada, Arvada Ridge and Ward Road.\n\n### RTD Contact Information\n\nFor additional information, please [visit RTD](http://www.rtd-denver.com/) or call 303-299-6000.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

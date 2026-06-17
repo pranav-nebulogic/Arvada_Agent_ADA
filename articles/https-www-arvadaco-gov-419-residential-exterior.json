@@ -1,0 +1,192 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "permit",
+    "permit_type": "building_permit_residential_exterior",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/419/Residential-Exterior"
+    ],
+    "scraped_at": "2026-06-10T10:49:41.104067+00:00",
+    "content_hash": "3c1395e6eb825262e15ecb127efc11a1657aa279d07b70a3500d189ee31a25a7",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Residential Exterior Building Permit",
+    "summary": "A permit is required for constructing any attached or detached structure on a residential property in the City of Arvada. This includes decks, garages, pools, and other exterior projects. The application process is electronic and requires plan submission for review.",
+    "eligibility": "If you are the owner and occupant of the residence and completing the work yourself, no license is required. If hiring a contractor or if the residence is not your primary residence, a licensed contractor must be listed on the permit.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Requirements",
+        "text": "Review online information, guides, and adopted building codes to understand project requirements. Exterior permits require plan review and plan submission.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 2,
+        "title": "Prepare Plans",
+        "text": "Prepare plans drawn to scale. Engineered plans are not required unless structural changes are involved. Include any electrical, plumbing, or gas line details as applicable. Clearly label the project address on the plans.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Create Account and Apply",
+        "text": "Create a login on the Arvada Permits Site if you are a homeowner or login with your AEC number if you are a contractor. Start your application and upload all required documents. Failure to attach documents will result in application rejection.",
+        "portal_url": "https://arvada.permitsite.com"
+      },
+      {
+        "n": 4,
+        "title": "Submit Application and Plans",
+        "text": "Submit a completed application and plan sets for review. Planning staff will review site plans for approval before building staff review. Address any staff comments promptly to avoid delays.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      },
+      {
+        "n": 5,
+        "title": "Pay Fees and Print Permit",
+        "text": "Once approved, you will receive an email to pay fees and print the permit. Print the approved plan set and keep both on site during construction.",
+        "portal_url": null
+      },
+      {
+        "n": 6,
+        "title": "Schedule Inspections",
+        "text": "Schedule required inspections based on your project scope. Common inspections include footing, foundation, rough frame, electrical, plumbing, mechanical, and final inspections.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Plan Set",
+        "description": "Scaled plans showing the project details. Include electrical, plumbing, and gas line information if applicable. Address must be clearly labeled.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Plot Plan",
+        "description": "Shows project dimensions and relationship to existing buildings and property lines. Can be found on the Arvada Permits Site attached to the address record.",
+        "where_to_get": "Arvada Permits Site",
+        "example": null
+      },
+      {
+        "name": "Subcontractor Forms",
+        "description": "Completed by licensed mechanical, plumbing, or electrical subcontractors linked to the permit.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "project_type",
+        "label": "Project Type",
+        "description": "Type of residential exterior project such as deck, garage, pool, etc.",
+        "example_value": null,
+        "why_needed": "To determine permit requirements and applicable codes."
+      },
+      {
+        "field_name": "plans_upload",
+        "label": "Upload Plans",
+        "description": "Upload electronic plans for review. Hand-drawn plans can be scanned and uploaded.",
+        "example_value": null,
+        "why_needed": "Required for plan review and permit approval."
+      },
+      {
+        "field_name": "contractor_license",
+        "label": "Contractor License",
+        "description": "License information for any contractor performing work on the project.",
+        "example_value": null,
+        "why_needed": "To ensure licensed contractors are used as required by city regulations."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Building Permits",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.permit",
+        "notes": null
+      },
+      {
+        "name": "Plan Review",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.building.review",
+        "notes": null
+      },
+      {
+        "name": "Use Tax",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.use.tax",
+        "notes": null
+      },
+      {
+        "name": "Electrical Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.electrical",
+        "notes": null
+      },
+      {
+        "name": "Mechanical Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.mechanical",
+        "notes": null
+      },
+      {
+        "name": "Plumbing Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.plumbing",
+        "notes": null
+      },
+      {
+        "name": "Flat Fee for Hot Tubs and Above Ground Pools",
+        "amount": "$50",
+        "rate": null,
+        "config_key": null,
+        "notes": "Plan review fee and use tax will also be included."
+      }
+    ],
+    "timelines": {
+      "review": "2-12 business days depending on plan detail and workload",
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7620",
+      "address": "City Hall, Arvada, CO",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Do I need a license to apply for a residential exterior permit?",
+        "a": "If you are the owner and occupant completing the work yourself, no license is required. If hiring a contractor or if the residence is not your primary residence, a licensed contractor must be listed on the permit."
+      },
+      {
+        "q": "How do I submit my plans?",
+        "a": "Plans can be uploaded electronically during the application process or hand-drawn plans can be dropped off at City Hall to be scanned."
+      },
+      {
+        "q": "What inspections are required?",
+        "a": "Inspections vary by project scope but commonly include footing, foundation, rough frame, electrical, plumbing, mechanical, and final inspections."
+      }
+    ],
+    "ordinance_refs": [
+      "Chapter 18",
+      "Table 18-1"
+    ],
+    "related_permit_types": [
+      "building_permit_residential_interior",
+      "building_permit_pool",
+      "building_permit_garage"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 3653
+}

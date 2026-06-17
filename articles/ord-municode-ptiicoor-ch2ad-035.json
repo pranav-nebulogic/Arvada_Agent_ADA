@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "decision",
+      "conclusion",
+      "hearing",
+      "under",
+      "article",
+      "officer",
+      "immediately"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-183"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-183. - Decision.",
+    "summary": "(a)\nAt the conclusion of a hearing under this article, the hearing officer may immediately\n               render a verbal decision on the record, or may take the case under advisement and\n               render a written decision no longer than 30 days after the conclusion of the hearing.\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-183. - Decision.",
+        "a": "(a)\nAt the conclusion of a hearing under this article, the hearing officer may immediately\n               render a verbal decision on the record, or may take the case under advisement and\n               render a written decision no longer than 30 days after the conclusion of the hearing.\n               To the extent practicable, the hearing officer's decision should include findings\n               of fact relied on in reaching the decision. Unless otherwise required, however, the\n               absence or incompleteness of findings of fact shall not constitute error. The decision\n               shall be signed and dated by the hearing officer. A copy shall be mailed, first class\n               postage pre-paid, to the last known address of each party, with a copy to each party's\n               respective representative, if any. Facsimile or electronic transmission, with an original\n               executed decision to follow, may be sent to the parties and shall serve fully as notice\n               of the decision.\n(b)\nThe hearing officer may request proposed findings and orders from the parties and\n               may adopt and incorporate such findings and orders, or any portions thereof, as the\n               findings and orders of the hearing officer as may be consistent with the evidence\n               presented at the hearing.\n(c)\nIn regard to those matters arising under\nsection 70-170\n, the hearing officer shall confine the decision to determining whether cause exists,\n               and whether the appointing authority acted arbitrarily and capriciously in determining\n               the discipline imposed. The hearing officer shall have no authority to modify the\n               discipline, but may make a recommendation consistent with the evidence presented at\n               the hearing in accordance with the hearing officer's findings of fact. Subject to\n               appeal as provided in\nsection 2-185\n, the hearing officer may remand the matter to the appointing authority with a recommendation\n               to take action in accordance with the hearing officer's conclusions and findings of\n               fact. Such recommendation shall not constitute an order of the hearing officer under\nsection 2-173\n(b).\n(Code 1981, § 2-148; Ord. No. 3742, § 1, 5-6-2002; Ord. No. 3608, §§ 1, 2, 4-3-2003;\nOrd. No. 4049, § 1, 1-8-2007\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-183"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

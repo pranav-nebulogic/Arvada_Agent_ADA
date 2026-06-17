@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "department",
+      "police",
+      "history",
+      "policing",
+      "sector",
+      "units",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/845/About-Our-Department"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-020",
+    "spreadsheet_id": "MI-020",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "About Our Department",
+    "summary": "The Arvada Police Department utilizes sector policing to foster community engagement and responsiveness. It has a rich history of excellence and is notable for being the first Colorado agency accredited by CALEA, achieving re-accreditation 12 times. The department offers various units and programs, including a Police Explorer Program for young adults interested in law enforcement, emphasizing skills such as officer safety and teamwork.",
+    "body": "## [Sector Policing](/550/Sector-Policing)\n\nThe Arvada Police Department embraces sector policing, where officers are an integral part of the community they serve. This makes the department more fluid, collaborative, networked and responsive to the community.\n\n## [History of the Arvada Police Department](/575/History-of-the-Arvada-Police-Department)\n\nThe Arvada Police Department’s history reflects a tradition in excellence.\n\n## [Police Units](/846/Police-Units)\n\nLearn about the units that operate within the Arvada Police Department: Animal Management, Code Enforcement, Communications, Community Response Impact Team, Criminal Investigations, Internal Affairs, and Records and Evidence.\n\n## [International Accreditation](/207/International-Accreditation)\n\nThe Arvada Police Department was the first Colorado law enforcement agency to be accredited by the Commission on Accreditation for Law Enforcement Agencies (CALEA) in 1986. Since then, Arvada has been re-accredited an unprecedented 12 times.\n\n## [Police Transparency](/540/Police-Transparency)\n\nThe City of Arvada's Police Department (APD) is dedicated to serving our community. We feel that more transparency about the work we do and the way we do it will only enhance our commitment to community policing.\n\n## [Police Explorer Program](/932/Police-Explorer-Program)\n\nThe Arvada Police Department Explorer Post is an interactive educational program for young adults interested in late enforcement. Participants will learn the basic skills of what it will take to become a police officer. After being accepted to the post, the new explorer will learn officer safety, written and verbal de-escalation skills, criminal law, crime scene investigation, and more. This is a uniformed volunteer position with the police department. Explorers will learn teamwork, professionalism, and responsibility. Police Explorers are required to: You must be between the ages of 14 -21. Attending two meetings every month on Thursday nights. Complete monthly ride-a-longs with department officers. Attend a state-wide competition once a year. For more information, please contact: Officer Kelly Lechuga at, [[email protected]](/cdn-cgi/l/email-protection) or 720-898-6534",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

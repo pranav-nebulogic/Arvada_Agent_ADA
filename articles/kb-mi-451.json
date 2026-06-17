@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "records",
+      "evidence",
+      "units",
+      "unit",
+      "department",
+      "warrants",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/208/Records-Evidence-Units"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-451",
+    "spreadsheet_id": "MI-451",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Records & Evidence Units",
+    "summary": "The Arvada Police Department's Records Unit manages and disseminates criminal justice records, including accident reports, arrest information, and the City of Arvada's Sex Offender List, which is available to the public at no cost. The Property and Evidence Unit oversees approximately 70,000 items related to criminal activity, ensuring their integrity until they are returned to rightful owners or disposed of if unclaimed. Appointments are required for the release of property, which is available during specified hours.",
+    "body": "## Records Unit\n\nThe Arvada Police Department Records Unit has the responsibility for maintaining and releasing criminal justice records to the public, other law enforcement agencies, and insurance companies.\n\nThe Records Unit also verifies information related to accidents, arrests, warrants, citations, contacts made by officers on the streets, and offenders in the Department's records system. They work in state and national databases (CCIC/NCIC) to enter, modify, and cancel warrants, missing people, and stolen items.\n\nThe Records Unit is responsible for disseminating the City of Arvada's Sex Offender List to the public. The list of registered sex offenders living in Arvada is available to anyone who requests the information, free of charge.\n\nTo order records, visit the [police records request webpage](https://www.arvadaco.gov/554/Order-Police-Records).\n\n## Property and Evidence Unit\n\nThe Arvada Police Department Property and Evidence Unit preserves and maintains the integrity of approximately 70,000 items of property and vehicles seized by department personnel.\n\nProperty and vehicles can be seized when known to be or are implicated in criminal activity or when the property has been found or recovered. It is then released back to its rightful owner.\n\nThe Property and Evidence Unit is a secured area with limited and controlled access. Property or vehicles seized by employees will remain in the custody and control of the Unit until a disposition through the criminal justice system has been reached and identified owners are established.\n\n### Property and Evidence Release\n\nItems are available for release by appointment only during the following hours (excluding holidays):\n\n- Monday 8 a.m. to 4 p.m.\n- Tuesday 8 a.m. to  4 p.m.\n- Wednesday closed\n- Thursday closed\n- Friday 8 a.m. to 4 p.m.\n- Saturday, Sunday, and Holidays closed\n\nPlease call 720-898-6926 to set an appointment or inquire about the release of property and evidence.\n\n### Unclaimed Property\n\nUnclaimed property will be destroyed, auctioned or converted to Department use. For more information about police auctions, visit [Roller Auction](http://www.rollerauction.com/)[.](http://www.rollerauction.com/)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

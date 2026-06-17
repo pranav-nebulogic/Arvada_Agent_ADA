@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "keeping",
+      "livestock",
+      "specified",
+      "zoning",
+      "districts",
+      "generally",
+      "except"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-92"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-92. - Keeping livestock in specified zoning districts.",
+    "summary": "(a)\nLivestock—Generally.\nExcept as otherwise set forth in this section, livestock may be kept only in the\n               RA and RN-32.5 zoning districts. It shall be unlawful for any person or household\n               to keep a livestock animal in any other zoning district except as otherwise set fo…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-92. - Keeping livestock in specified zoning districts.",
+        "a": "(a)\nLivestock—Generally.\nExcept as otherwise set forth in this section, livestock may be kept only in the\n               RA and RN-32.5 zoning districts. It shall be unlawful for any person or household\n               to keep a livestock animal in any other zoning district except as otherwise set forth\n               herein. The keeping of livestock must be done in accordance with all other provisions\n               of this chapter.\n(1)\nLivestock—Horses.\nIn addition to being kept in the RA and RN-32.5 zoning districts, horses may be kept\n               in the RN-12.5 zoning district and any PUD zoning districts where horses are allowed\n               as part of the PUD. It shall be unlawful for any person or household to keep horses\n               in any zoning district other than those set forth in this subsection (1).\n(2)\nLivestock—Chickens and turkeys.\nIn addition to being kept in the RA and RN-32.5 zoning districts, chickens and turkeys\n               may be kept in any other zoning district.\n(3)\nLivestock—Miniature goats.\nIn addition to being kept in the RA and RN-32.5 zoning districts, miniature goats\n               may be kept in any other zoning district.\n(Code 1981, § 6-47; Ord. No. 3496, § 2, 12-14-1998;\nOrd. No. 4118, § 3, 7-7-2008\n;\nOrd. No. 4344, § 3, 8-6-2012\n;\nOrd. No. 4502, § 2, 5-18-2015\n; Ord. No.\n4728\n, § 6, 5-18-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-92"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

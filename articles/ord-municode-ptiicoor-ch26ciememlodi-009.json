@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "authorization",
+      "issue",
+      "declaration",
+      "civil",
+      "emergency",
+      "disaster",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-34"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-34. - Authorization to issue declaration of civil emergency, emergency, or disaster.",
+    "summary": "The city manager is authorized to declare a civil emergency, emergency, or disaster\n               if the city manager finds that the city or any part thereof is suffering from or is\n               in imminent danger of suffering a natural or manmade civil emergency, emergency, or\n               dis…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-34. - Authorization to issue declaration of civil emergency, emergency, or disaster.",
+        "a": "The city manager is authorized to declare a civil emergency, emergency, or disaster\n               if the city manager finds that the city or any part thereof is suffering from or is\n               in imminent danger of suffering a natural or manmade civil emergency, emergency, or\n               disaster.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-34"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

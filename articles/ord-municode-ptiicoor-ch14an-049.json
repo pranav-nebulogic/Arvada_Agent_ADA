@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "impoundment",
+      "payment",
+      "soon",
+      "practicable",
+      "after",
+      "animal"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-203"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-203. - Notice of impoundment and payment.",
+    "summary": "(a)\nNotice of impoundment and payment.\nAs soon as is practicable after impoundment of an animal, an animal management officer\n               will give the owner notice of impoundment and payment, if the owner is known. The\n               notification may be given by any method reasonably calculated …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-203. - Notice of impoundment and payment.",
+        "a": "(a)\nNotice of impoundment and payment.\nAs soon as is practicable after impoundment of an animal, an animal management officer\n               will give the owner notice of impoundment and payment, if the owner is known. The\n               notification may be given by any method reasonably calculated to reach the owner promptly,\n               including but not limited to delivering the notice in-person, by posting at the owner's\n               last known address, or by electronic mail or text message. If the owner is not known\n               to the animal management officer, the animal management officer or designee thereof\n               will make reasonable efforts to determine the owner and give notice of the impoundment.\nException.\nAn animal management officer is not obligated to determine the owner of any cat deemed\n               in the sole discretion of the officer to be feral. A feral cat may be impounded, transported\n               to the shelter, and may be disposed of in accordance with\nsection 14-205\nof this article.\n(1)\nContents of notice.\nThe notice of impoundment and payment must contain the following:\n(i)\nA notice that an animal has been impounded and the location to which the animal has\n                  or will be transported;\n(ii)\nThe process by which the owner or custodian may redeem or prevent disposition of the\n                  animal;\n(iii)\nThe amounts determined by the animal management officer to be sufficient to reimburse\n                  the city for the costs related to the impoundment, and by the shelter sufficient to\n                  provide for the animal's care and provision for at least 30 days including the day\n                  on which the animal was impounded; and\n(iv)\nA notice that an impounded animal not redeemed as set forth herein will be considered\n                  abandoned and disposed of.\n(\nOrd. No. 4878\n, § 9, 10-7-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-203"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

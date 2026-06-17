@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "west",
+      "woods",
+      "golf",
+      "club",
+      "course",
+      "clubhouse",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/637/West-Woods-Golf-Club"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-605",
+    "spreadsheet_id": "MI-605",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "West Woods Golf Club",
+    "summary": "West Woods Golf Club, located in west Arvada, Colorado, features 27 championship golf holes with three distinct nines that offer diverse challenges and scenic views for golfers of all skill levels. The remodeled clubhouse, designed in a \\\"Refined Colorado Mountain\\\" style, includes dining facilities, event spaces, and a Golf Simulator for practice and entertainment. For more details and to book tee times, visit the West Woods Golf Club website.",
+    "body": "## Course Overview\n\nLocated in west Arvada, Colorado, West Woods Golf Club features 27 unique championship golf holes. Each of our three nines provides brilliant natural scenery along with challenges for golfers of all skill levels.\n\nPlay classic golf on any of our three different 18-hole course combinations. Each nine has a very different personality so you will want to try them all. We change the course combinations daily.\n\n## Clubhouse Overview\n\nWWCG's remodeled clubhouse was designed with a \"Refined Colorado Mountain\" style in mind using stucco, wood, and metal for a contemporary and updated appearance and feel. The restaurant/bar/grill areas provide ample seating for any event. There is a multipurpose Room for larger events and a banquet area for smaller groups. The Golfers Porch with its Overlook Patio allows guests to warm up by the fire pit and enjoy panoramic views of the golf course and the mountains beyond. The restaurant serves breakfast, lunch, and dinner seven days a week\n\nAdditionally, the club boasts a Golf Simulator, where golfers can challenge their friends on famous courses in the world of golf, as well as improve their game with training from golf professionals.\n\n## West Woods Website\n\nFor more information and to book a tee time [visit the West Woods Golf Club website](http://www.westwoodsgolf.com/).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

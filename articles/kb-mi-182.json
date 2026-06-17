@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "demonstration",
+      "garden",
+      "wildlife",
+      "majestic",
+      "plants",
+      "view",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1170/Demonstration-Garden"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-182",
+    "spreadsheet_id": "MI-182",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Demonstration Garden",
+    "summary": "The Majestic View Demonstration Garden, established in 2008, features hundreds of native and regionally appropriate plants that support wildlife and is recognized as a certified wildlife habitat by the National Wildlife Federation. Primarily maintained by volunteers, the garden employs xeriscaping techniques to promote water conservation while providing educational resources for visitors. The garden's continued success is supported by various sponsors and grants, enabling it to serve as a hands-on educational space for the community.",
+    "body": "## Majestic View Demonstration Garden\n\nThe Majestic View Demonstration garden was created in 2008 and has matured and grown over the years. While primarily volunteer-maintained, the garden contains hundreds of native and regionally appropriate plants that benefit wildlife. Providing food, water, shelter, and space to raise young, the garden is certified wildlife habitat by the National Wildlife Federation.\n\nMany of the plants found in the garden are water conserving and suited for our dry climate. However, Xeric does not mean “zero” water. The xeric design involves a diverse combination of water-wise landscape techniques, efficient irrigation and minimal-strategic use of turf grass. Xeriscaping is NOT a monoculture of rocks and a few shrubs, but it’s a diverse, lower maintenance, and sustainable garden solution.\n\n## Garden Resources\n\nWhen you visit the garden, you will find many plants labeled with common and latin names. While these sometimes change over time, the labels help visitors see what plants look like, what wildlife is attracted to it, and learn new plants that could work in their garden. Just as plants change over time, we attempt to update our labels and plant list every few years as plants come and go. For our latest plant list, download our inventory spreadsheet here. To see plant recommendations and garden map, download our garden brochure.\n\n## Thank you Sponsors\n\nThanks to the generous support of sponsors and grants, the garden is able to continue to thrive and provide hands-on education for gardeners, ecologist, conservationists, and many of our youth programs.\n\n- City of Arvada\n- Colorado Garden Foundation\n- Arvada Sunrise Rotary",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

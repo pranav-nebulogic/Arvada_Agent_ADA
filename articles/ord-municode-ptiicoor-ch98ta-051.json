@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "county",
+      "wide",
+      "tax",
+      "event",
+      "sales",
+      "becomes",
+      "effective"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-102"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-102. - County-wide tax.",
+    "summary": "In the event a county-wide sales tax becomes effective in Jefferson County and provisions\n               are made for the revenue collections to the city in an amount at least equal to the\n               net revenue collections which would be received under the within article, the within\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-102. - County-wide tax.",
+        "a": "In the event a county-wide sales tax becomes effective in Jefferson County and provisions\n               are made for the revenue collections to the city in an amount at least equal to the\n               net revenue collections which would be received under the within article, the within\n               article shall forthwith be repealed by the city council as of the effective date of\n               such county-wide sales tax; providing a repeal of the within article has not taken\n               place.\n(Code 1981, § 31-71; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-102"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "metro",
+      "districts",
+      "resident",
+      "impact",
+      "district",
+      "living",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1454/Metro-Districts-Resident-Impact"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-320",
+    "spreadsheet_id": "MI-320",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Metro Districts: Resident Impact",
+    "summary": "Metro districts in Arvada can offer amenities like parks and recreation facilities, but they may also lead to higher property taxes due to specific mill levies and fees. Homeowners can determine if they live in a metro district by checking their property taxes, and those considering purchasing a home in such districts should be aware of potential tax increases and the governance structure of the district. For more information, residents are encouraged to consult their district's publicly accessible website or contact board members directly.",
+    "body": "This page includes information on how metro districts in Arvada might impact residents living in them.\n\n## What is the impact on homeowners of living in a metro district?\n\nWhile metro districts may have more amenities, such as parks and landscaping, trails, community gardens and pools or recreation centers, they can also significantly increase property taxes for their residents because of additional metro district-specific mill levies, fees and other costs. Details about a property’s tax burden can be found on the [County Assessor's website](https://www.jeffco.us/822/Determination-of-Tax-Rates).\n\nThese taxes go toward building and maintaining infrastructure such as streets, sidewalks, and water and sewer lines. Additionally, the lower interest rates metro districts pay for public improvement projects can lead to faster timelines for completion.\n\n## How do you know if you live in a metro district?\n\nYou can find out if you live in a metro district by looking at your property taxes. In Jefferson County, [go to the Treasurer's website and search for your property by the owner's name](https://propertysearch.jeffco.us/propertyrecordssearch/owner). If you see a listing with \"Metro\" listed in the Authority column, you live in a metro district.\n\n![Bill showing the tax impact of metro districts](/ImageRepository/Document?documentId=6820)\n\nColorado law also requires certain disclosures regarding metro districts when a home within a district is purchased. For instance, every purchase agreement must provide notice that the property is within a special taxing district, title work will include the district’s order of organization, and information\\* regarding the district’s website, service plan, mill levy and debt service caps, and estimated future property taxes must be provided at the time a contract to sell the property is executed.\n\n### What do you need to do if you live in a metro district?\n\nYou should be aware that in the first few years of new home construction within a metro district, homeowners' tax bills can go up significantly as property values rise. If you're considering buying a home in a metro district, find out whether the board of the district is still developer controlled or made up of residents. Additionally, you should be aware that taxes or fees may increase later on if your district is underfunded or has not planned properly for future capital expenses.\n\n## How do you find more information about your metro district?\n\nThe best source of information on your metro district is your metro district. Metro districts are required to maintain a publicly accessible website with information such as the names and contact details of board members, the current budget, financial statements and meeting schedules. This ensures transparency and accountability to residents. The websites for each metro district in Arvada are linked [on the Metro districts page](https://www.arvadaco.gov/1453/Metro-Districts).\n\nIn addition, since metro districts are government entities, they are required to follow all open meetings and open records laws. This means that a metro district must provide notice of all board meetings, record meeting minutes, allow residents to attend all board meetings, and must respond to open records requests sent by a resident. To file an open records request, contact your metro district directly.\n\n## Questions?\n\nThe best way to get information about your metro district is to reach out directly to the board members or the contact person (i.e. general counsel or a manager) of the district using the webpages linked on the [Metro districts page](https://www.arvadaco.gov/1453/Metro-Districts).\n\nIf you have any general questions about metro districts, please reach out to the Planner of the Day, at 720-898-7435 or [[email protected]](/cdn-cgi/l/email-protection#f4849b90b4958682959095da9b8693).\n\n\\*This information was first required for sales after Dec. 31, 2021, of newly constructed homes within a metro district that was formed on or after Jan. 1, 2000. Beginning Aug. 6, 2025, this is now a requirement for all homes sold within a metro district that was formed on or after Jan. 1, 2000.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

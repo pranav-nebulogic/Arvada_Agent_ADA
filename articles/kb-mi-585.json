@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "voluntary",
+      "disclosure",
+      "agreement",
+      "businesses",
+      "compliance",
+      "program",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1479/Voluntary-Disclosure-Agreement"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-585",
+    "spreadsheet_id": "MI-585",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Voluntary Disclosure Agreement",
+    "summary": "The City of Arvada offers a Voluntary Disclosure Program to assist businesses in complying with sales and use tax obligations, although it does not have a formal Voluntary Disclosure Agreement (VDA) due to potential conflicts with local code. Businesses can apply for a VDA by submitting an application that includes details about their tax activities, estimated liabilities, and supporting documentation, with a general lookback period of 36 months. If taxes are paid within 30 days of assessment, the city typically waives penalties for prior tax liabilities.",
+    "body": "## About the Voluntary Disclosure Program\n\nThe City of Arvada is a business-friendly municipality and is committed to helping businesses achieve compliance with their sales and use tax obligations. While the City of Arvada does not have a formal **Voluntary Disclosure Agreement (VDA)** program due to potential conflicts with the Arvada Municipal Code, it recognizes good-faith efforts to reach compliance. Businesses seeking to become compliant should submit a VDA application, through which the City typically waives penalties on prior taxes if they are paid within 30 days of the assessment date.\n\n### Lookback Period\n\nThe general lookback period for voluntary disclosures is **36 months (3 years)**. This period may be extended if a business has collected Arvada taxes but failed to remit them, as businesses are not permitted to retain any collected Arvada tax.\n\n### Process for Applying\n\nBusinesses will need to complete the [Voluntary Disclosure Application](https://arvada.form.transform.civicplus.com/62076), which will require the following information:\n\n- A letter requesting the Voluntary Disclosure – This letter should include information such as:\n  - A description of the taxpayer’s activities and the date the activities began;\n  - An estimate of the Arvada tax liability for previous tax periods;\n  - A disclosure with respect to whether the company has or has not collected the relevant taxes;\n  - A representation that the company has not been previously contacted by the City of Arvada;\n  - A representation that the failure to file is not the result of fraud or gross negligence on the part of the company.\n- Work papers supporting the taxable sales, sales tax and periods covered.  The sales data should include delivery addresses so that they can be verified.\n- City of Arvada license number – Information about applying for a business license is available on our [Business Licenses](/253) page.\n\nThe VDA amount (taxes and interest) will be posted to the businesses Arvada sales tax account. This will be considered a one-time catch-up return in which no penalty will be assessed if payment is made within 30 days of the assessment date.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

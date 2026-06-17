@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "elections",
+      "district",
+      "council",
+      "councilmembers",
+      "election",
+      "large",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/279/Elections"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-205",
+    "spreadsheet_id": "MI-205",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Elections",
+    "summary": "The next election in Arvada is scheduled for November 4, 2025, during which the At-Large, District 1, and District 3 City Council seats will be contested. Additionally, voters will decide on Question No. 3 G, which proposes amending the City Charter to eliminate the requirement for Municipal Court judges to reside in Arvada. Voter registration deadlines and resources for voting locations are also provided.",
+    "body": "## Next Election: November 4, 2025\n\n### **The following Council seats are up for election:**\n\n- At-Large\n- District 1\n- District 3\n\nThe Mayor and At-Large councilmembers represent the entire City of Arvada and are voted on by all residents.\n\nCouncilmembers representing a specific district must live within that district, and only residents of that district may vote for that seat on City Council.\n\n### **QUESTION No. 3 G - AMENDMENT TO THE CHARTER FOR THE CITY OF ARVADA**\n\nShall Chapter VIII, Section 8.2, “Judiciary,” of the Arvada City Charter be amended to remove the requirement that each judge of the Municipal Court be a resident of the City of Arvada?\n\n[**Learn about the Ballot Measure No. 3 G**](https://www.arvadaco.gov/1305/14180/Relief-Judge-Ballot-Measure)\n\n### [FAQs](/Faq.aspx?TID=61)\n\n[How do I register to vote?](#)\n:   The Colorado Secretary of State registers voters. Visit [GoVoteColorado.com](http://govotecolorado.com/) for more information.\n\n[What is the deadline to register to vote?](#)\n:   The deadline to register to vote and receive a mail ballot is October 30, 2023.\n\n    After October 30 you can still register to vote, up to and including Election Day, by appearing in-person at any Voter Service Center in the county in which you reside.\n\n    Please use the links to [Jefferson County Election](https://www.jeffco.us/elections) and [Adams County Election](http://www.adamsvotes.com/) websites.\n\n[What City Council District do I live in?](#)\n:   The City Council [District Map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=332a7eba6a4641999d278cfa6ee149f4) was adopted in January 2023. Locate your address on the map, or enter your address in the upper right corner to confirm which City Council District you live in.\n\n[Where can I vote?](#)\n:   Ballot drop-off  and voting locations for:\n\n    - [Jefferson County](https://www.jeffco.us/3907/Find-Voting-Locations)\n    - [Adams County](https://www.adamscountycoelections.gov/ballot-drop-boxes/)\n\n[Where are election signs allowed to be placed?](#)\n:   Signs cannot be:\n\n    - located in the public right-of-way\n    - attached to power poles, traffic signs, or utility boxes\n\n    Signs can be removed if they are placed:\n\n    - in an unsafe position\n    - on City-owned property\n    - in the public right-of-way\n\n    Signs removed by City staff:\n\n    - will be destroyed without notice\n    - will not be relocated to an appropriate location for you\n\n    For more details about allowable sizes and locations of political signs please review the City's [Guide to Political Sign Placement](/DocumentCenter/View/2160/Campaign-Signs---Guide-to-political-signs-Rev-2023-1)\n\n[Why do I still receive calls from candidates and political campaigns if I am registered on the \"Do not call\" list?](#)\n:   There are exemptions to telephone solicitation, and political calls are one of them as defined in the Colorado Revised Statutes (C.R.S.) Section 6-1-903. Unfortunately, there is no complaint or removal process established for these types of calls and mailings. You can contact your county clerk and request that your phone number be removed from your voter registration information, but this provides no guarantee that your phone number will not be obtained from other sources.\n\n/FAQ.aspx",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

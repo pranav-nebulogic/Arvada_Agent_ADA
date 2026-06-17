@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "property",
+      "eligible",
+      "inclusion",
+      "district",
+      "specially",
+      "benefited",
+      "street"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-222"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-222. - Property eligible for inclusion.",
+    "summary": "(a)\nProperty is eligible for inclusion in a district if it will be or has been specially\n               benefited by a street, sidewalk, bicycle trail, storm drainage facility, bridge, water\n               main, sewer main or other improvement constructed and dedicated to the city.\n(b)\nProperty loca…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-222. - Property eligible for inclusion.",
+        "a": "(a)\nProperty is eligible for inclusion in a district if it will be or has been specially\n               benefited by a street, sidewalk, bicycle trail, storm drainage facility, bridge, water\n               main, sewer main or other improvement constructed and dedicated to the city.\n(b)\nProperty located outside the city limits may be included in a reimbursement district\n               upon the application of the person installing the improvements. Such inclusion, however,\n               shall be contingent and no assessment may be collected with respect to such property\n               unless it has been annexed to the city prior to the last date to which the assessment\n               may be deferred pursuant to\nsection 78-224\n(a), or ten years from the effective date of the ordinance establishing the reimbursement\n               district, whichever date is later.\n(Code 1981, § 27-182; Ord. No. 1721, § 2, 2-2-1981; Ord. No. 1764, § 2, 8-3-1981;\n               Ord. No. 2403, § 1, 3-2-1987; Ord. No. 2553, § 3, 9-6-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-222"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

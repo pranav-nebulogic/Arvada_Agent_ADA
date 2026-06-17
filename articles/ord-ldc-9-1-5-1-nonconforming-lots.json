@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "nonconforming",
+      "lots",
+      "generally",
+      "area",
+      "width",
+      "depth",
+      "frontage",
+      "used",
+      "developed",
+      "pursuant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-5-1"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-5. NONCONFORMING LOTS OR RESIDENTIAL DENSITY"
+  },
+  "content": {
+    "title": "9-1-5-1. Nonconforming lots.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-5-1. Nonconforming lots.",
+        "a": "A.\tGenerally. Lots that are nonconforming as to lot area, lot width, lot depth, or lot frontage may be used or developed pursuant to the standards of the zoning district in which they are located, subject to the provisions of this Section.\nB.\tConstruction on Nonconforming Lots That Do Not Conform to Dimensional Requirements. A nonconforming lot that does not meet zoning district requirements with respect to lot area or lot width may be built upon if:\n  1.\tThe lot is a legal lot of record; and\n  2.\tThe use is permitted in the zoning district in which the lot is located, or is approved as a limited or conditional use that does not specifically require a minimum lot area, width, depth, or frontage to which the lot does not conform.\nC.\tWhen Combination Required.\n  1.\tWhere a landowner owns several adjoining lots that do not conform to the area or dimensional requirements of the zoning district in which they are located, the adjoining lots of record shall be combined, reconfigured, or resubdivided in a manner that results in fully conforming lots or, if full conformity is not possible, the lots shall be combined, reconfigured, or resubdivided in a manner that maximizes the degree of conformity."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-5-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

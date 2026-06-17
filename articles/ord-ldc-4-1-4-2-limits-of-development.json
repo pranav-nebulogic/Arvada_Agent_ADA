@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "limits",
+      "development",
+      "indicate",
+      "specific",
+      "areas",
+      "subdivision",
+      "within",
+      "which",
+      "activity",
+      "contained"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-4-2"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-4. NATURAL HAZARDS AND ENVIRONMENTALLY-SENSITIVE AREAS"
+  },
+  "content": {
+    "title": "4-1-4-2. Limits of Development.",
+    "summary": "A.\tThe Limits of Development (\"LOD\") shall indicate the specific areas of a subdivision within which the development activity shall be contained in order to avoid areas identified in Section 4-1-4-3, Natural Hazard Areas, and features identified in Section 4-1-4-4, Significant Natural Features.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-4-2. Limits of Development.",
+        "a": "A.\tThe Limits of Development (\"LOD\") shall indicate the specific areas of a subdivision within which the development activity shall be contained in order to avoid areas identified in Section 4-1-4-3, Natural Hazard Areas, and features identified in Section 4-1-4-4, Significant Natural Features. LODs shall be indicated by the Applicant on the plat, and shall be reviewed and approved by the City as part of the development approval process based on:\n  1.\tA visual analysis of the location and apparent extent of areas affected by natural hazards and significant natural features;\n  2.\tSite topography, including but not limited to such characteristics such as steepness of slopes, existing drainage features, rock outcroppings, river and stream terraces, valley walls, ridgelines, and scenic topographic features;\n  3.\tAny recommendations made by any other reviewing agency, including without limitation the U.S. Fish and Wildlife Service or the Colorado Division of Wildlife; and\n  4.\tThe practical needs of proposed construction activity in terms of ingress and egress to the developed project and necessary staging and operational areas.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

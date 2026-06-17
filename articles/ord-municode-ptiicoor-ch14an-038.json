@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "feeding",
+      "wildlife",
+      "prohibited",
+      "shall",
+      "unlawful",
+      "any",
+      "person"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN"
+    ],
+    "scraped_at": "2026-06-10T12:02:17.495766+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 14-128"
+    ],
+    "chapter": "Chapter 14 - ANIMALS"
+  },
+  "content": {
+    "title": "Chapter 14 - ANIMALS — Sec. 14-128. - Feeding wildlife prohibited.",
+    "summary": "It shall be unlawful for any person to feed, provide food, or assist another person\n               in the feeding of wildlife or any wild animal in, from, or upon any park or golf course\n               within the city.\nException: Bird feeders may be placed on a park or golf course within the city wi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 14-128. - Feeding wildlife prohibited.",
+        "a": "It shall be unlawful for any person to feed, provide food, or assist another person\n               in the feeding of wildlife or any wild animal in, from, or upon any park or golf course\n               within the city.\nException: Bird feeders may be placed on a park or golf course within the city with\n               the prior written approval of the manager of parks for the city or for the North Jeffco\n               Metropolitan Park and Recreation District, as applicable.\n(\nOrd. No. 4110, § 3, 4-21-2008\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 14-128"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

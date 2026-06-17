@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "table",
+      "hereby",
+      "amended",
+      "entirety",
+      "read",
+      "follows"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-421"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-421. - I.P.C. Section 706, Table 706.3.",
+    "summary": "Section 706. Table 706.3\nis hereby amended in its entirety to read as follows:\nTABLE 706.3\nFITTINGS FOR CHANGE IN DIRECTION\nTYPE OF FITTING PATTERN\nCHANGE IN DIRECTION\nHorizontal to Vertical\nVertical to Horizontal\nHorizontal to Horizontal\nSixteenth bend\nX\nX\nX\nEighth bend\nX\nX\nX\nSixth bend\nX\nX\nX\nQuart…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-421. - I.P.C. Section 706, Table 706.3.",
+        "a": "Section 706. Table 706.3\nis hereby amended in its entirety to read as follows:\nTABLE 706.3\nFITTINGS FOR CHANGE IN DIRECTION\nTYPE OF FITTING PATTERN\nCHANGE IN DIRECTION\nHorizontal to Vertical\nVertical to Horizontal\nHorizontal to Horizontal\nSixteenth bend\nX\nX\nX\nEighth bend\nX\nX\nX\nSixth bend\nX\nX\nX\nQuarter bend\nX\n—\na\n—\na\nShort sweep\nX\n—\na,b\n—\na\nLong sweep\nX\nX\nX\nSanitary tee\nX\nc\n—\n—\nWye\nX\nX\nX\nCombination wye and eighth bend\nX\nX\nX\nFor SI: 1 inch = 25.4 mm.\na.\nThe fittings shall only be permitted for a 2-inch or smaller fixture drain.\nb.\nThree inches or larger—fixture drain.\nc.\nFor a limitation on double sanitary tees, see Section 706.3.\n706.4 Heel- or side-inlet quarter bends.\nHeel-inlet quarter bends shall be an acceptable means of connection, except where\n                  the quarter bend serves as water closet. A low-heel inlet shall not be used as a wet-vented\n                  connection. Side-inlet quarter bends shall be an acceptable means of connection for\n                  drainage, wet venting and stack venting arrangements.\n(Ord. No.\n4738\n, § 11, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-421"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

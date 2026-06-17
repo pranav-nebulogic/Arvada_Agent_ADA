@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "standards",
+      "administration",
+      "any",
+      "site",
+      "assessment",
+      "provided",
+      "under"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-168"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-168. - Standards and administration.",
+    "summary": "(a)\nAny site assessment provided for under this article shall be performed by qualified\n               and trained personnel who shall adhere to the most stringent scientific methods, testing\n               measures, procedures and criteria in performing site assessments and evaluating results\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-168. - Standards and administration.",
+        "a": "(a)\nAny site assessment provided for under this article shall be performed by qualified\n               and trained personnel who shall adhere to the most stringent scientific methods, testing\n               measures, procedures and criteria in performing site assessments and evaluating results\n               related thereto concerning potentially environmentally contaminated property. A site\n               assessment performed by, or at the direction of, an owner shall be subject to review\n               by the city for thoroughness, completion, scope, adequacy, clarity and any other factor\n               which may be necessary to determine the nature, presence, or extent of hazardous substances\n               present in, at, on, over, or under real property that is assessed as provided in this\n               article.\n(1)\nThe determination as to whether a site assessment is to be performed, or whether a\n               higher phase of assessment is necessary, shall be made by the city manager, or his\n               designee after consultation with the employee identified as having responsibility\n               for review and analysis of site assessments as described in subsection (b) of this\n               section.\n(2)\nAny determination that a Phase I or higher assessment is necessary shall, at a minimum,\n               consider whether a hazardous substance may reasonably be believed to exist in the\n               property; the planned or potential use of the property; the potential economic, health,\n               or safety consequences of permitting a potentially hazardous waste to remain unidentified\n               or unremediated on the property; proximity of the hazardous waste to contaminable\n               sources such as groundwater; the proximity of the hazardous waste to adjacent property;\n               the potential exposure of the general populace to hazardous substances by incidental\n               contact; as well as appropriate standards and requirements established by the Colorado\n               Department of Public Health and Environment and the Environmental Protection Agency\n               concerning lawful and/or hazardous contaminant levels regarding the nature and make\n               up of the property in question. The city may further adopt, in the manner described\n               in subsection (d) of this section, such other factors, criteria, standards, requirements,\n               or procedures as may be reasonably necessary to implement the provisions of this article.\n(3)\nThe city may reject any assessment which in the reasonable judgment of the city does\n               not sufficiently identify the nature and scope of the hazardous material or substances,\n               or which otherwise fails to enumerate such necessary activity or actions as may be\n               required to remediate the condition of environmental contamination, or which is otherwise\n               defective because of inadequacy or faulty performance by the person or company performing\n               such assessment. Rejection of an assessment by the city shall not relieve any property\n               owner of the responsibility for having an assessment performed as may be required\n               under this article.\n(b)\nThe city manager shall designate an employee who, together with such other duties\n               as may be assigned, shall be responsible for receiving, reviewing, and analyzing site\n               assessment reports, and for providing and planning remediation monitoring activities.\n(c)\nNotwithstanding any requirement of this article, or any contractual agreement between\n               the city and an owner, or any other participation by the city in performing or reviewing\n               assessments, the city shall not warrant or guarantee the environmental condition of\n               any property to any property owners or third party. When a site assessment has been\n               performed by the city or at its direction, such assessment shall be for the exclusive\n               use of the city in evaluating the property for the city's purposes. Information obtained\n               by the city from a site assessment shall be public information to the extent required\n               under applicable state and federal law.\n(d)\nWhen any determination required under this article is to be made by the city, and\n               has not been otherwise provided for by this article, the city shall promulgate such\n               rules and regulations as are necessary and appropriate. The city shall observe the\n               administrative rule making procedure in developing such rules and/or regulations.\n               The city shall be authorized to establish such regulations and rules as it deems necessary\n               and appropriate for the implementation in this article or to otherwise implement the\n               rules, regulations, laws, or statutes promulgated by the Colorado Department of Public\n               Health and Environment or the Environmental Protection Agency.\n(Code 1981, § 25-87; Ord. No. 3009, § 1, 10-4-1993)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-168"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

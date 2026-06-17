@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "water",
+      "saving",
+      "programs",
+      "central",
+      "provide",
+      "resource",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/602/Water-Saving-Programs"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-600",
+    "spreadsheet_id": "MI-600",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Water Saving Programs",
+    "summary": "The City of Arvada collaborates with Resource Central to offer water-saving programs for its water customers, including discounts on low-water Garden In A Box kits, sprinkler system evaluations, and lawn replacement services. Additionally, free Waterwise Yard Seminars are available to help residents learn efficient watering techniques. These initiatives aim to promote water conservation and enhance local landscapes.",
+    "body": "![](/ImageRepository/Document?documentId=752)\n\nThe City of Arvada partners with [Resource Central](https://resourcecentral.org/) to provide our water customers with opportunities to save money, conserve water and beautify their landscapes.\n\nCity of Arvada water customer with a current account are eligible for these programs through the City. Other water districts may also provide programs through Resource Central. Please check with your water provider.\n\n## Garden in a Box\n\nCity of Arvada water customers are eligible for discounts on Garden In A Box kits, while supplies last. Each kit comes with beautiful plants that require little water and thrive in our Colorado soil and arid climate.\n\n- In the spring, gardens are available to **order in March** to be picked up in late May and June.\n- In the late summer, gardens are available to **order in June** to be picked up in August and September.\n\nThe resident discount has limited availability. Once sold out, kits are still available at full cost through Resource Central.\n\n[Visit Resource Central's Garden page](https://resourcecentral.org/gardens/).\n\n## Slow the Flow Sprinkler Evaluation\n\nSchedule an appointment with a trained Resource Central team member to complete an inspection of your sprinkler system. Customers will receive customized information about their system, watering schedule, and ways to improve efficiency.\n\n- **Please note:**this program is not available to HOAs at this time.\n\n[Visit the Sprinkler Evaluations page.](https://resourcecentral.org/sprinklers/)\n\n## Lawn Replacement\n\nResource Central makes low-water lawn replacement easy and affordable to cut, remove and compost a section of lawn. It's quick, easy, and painless! Many customers are eligible for discounts. Learn more, join the interest list, or sign up for the program.\n\n[Visit the Lawn Replacement page](https://resourcecentral.org/lawn/).\n\n## Waterwise Yard Seminars\n\nLearn how to water less in these free Waterwise Yard Seminars taught by Colorado low-water landscape pros. Get tips to keep your yard looking great while using less water. Workshops are virtual and open to everyone.\n\n[Visit the Waterwise Yard Seminars page](https://resourcecentral.org/seminars/).\n\n## Learn more\n\nListen to the Inside Arvada podcast episode about Resource Central Programs using the player below or wherever you listen to podcasts, including [Buzzsprout](https://www.buzzsprout.com/2320363/episodes/18734486)(with transcript).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

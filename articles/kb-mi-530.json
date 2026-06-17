@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "street",
+      "moratorium",
+      "approval",
+      "pavement",
+      "affects",
+      "artvri",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1007/Street-Cut-Moratorium"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-530",
+    "spreadsheet_id": "MI-530",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Street Cut Moratorium",
+    "summary": "The City of Arvada enforces a three-year moratorium on open trench excavations or potholing in newly constructed or resurfaced public right-of-way streets, requiring permits for any such work. Applicants must submit a detailed request letter and meet specific criteria for approval, including demonstrating that alternative methods are impractical. A pre-construction meeting with a city inspector is necessary before permit approval, which typically takes 3-10 business days to process.",
+    "body": "City [Ordinance Section 78-308](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM_ARTVRI-W_S78-308CORESTNECOOVST) requires approval for any open trench excavation or potholing of utilities in the pavement of any public right-of-way for a period of three years from completion of construction or resurfacing. This approval requirement includes any and all penetrations into or through the resurfaced pavement.\n\nIf proposed work affects streets highlighted on this [Street Cut Moratorium map](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=a80fd7bd06ae40fb8393961eb264333f), a permit is subject to approval and may require special asphalt restoration requirements.\n\n## Submitting your application\n\nAs part of the [permit application](https://aca-prod.accela.com/ARVADA), a prepared request letter on company letterhead with the following details is required:\n\n- All required information per City [Ordinance Section 78-308](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM_ARTVRI-W_S78-308CORESTNECOOVST)\n- Contractor contact information\n- Brief scope of work to be completed\n- Total area of asphalt and concrete to be impacted\n- Explanation of why this work is necessary and why it cannot wait until the moratorium has lifted\n- An explanation as to how your request meets the Ordinance’s Criteria for Approval\n\n## Criteria for approval\n\nNo permit for excavation in the right-of-way of new streets will be approved unless all of the following criteria are met:\n\n- Boring or jacking without disturbing the pavement is not practical due to physical characteristics of the street or alley or other utility conflicts;\n- Alternative utility alignments that do not involve excavating the street or alley are found to be impracticable; and the proposed excavation cannot reasonably be delayed until after the three-year deferment period has lapsed.\n\nShould your memo omit any of the above information and/or the criteria for approval, your permit request will not be accepted.\n\n**Please note:**processing time for these types of permit requests is 3-10 business days.\n\n## Inspections\n\nPrior to permit approval, a pre-construction meeting with a City of Arvada Inspector is required to establish any restoration requirements pertinent to your site conditions and construction impacts. Upon receipt of your permit application, an inspector will reach out to you within two (2) business days to coordinate this meeting. Permit approval will depend on the outcome of this meeting.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "authority",
+      "establish",
+      "implement",
+      "enforce",
+      "drainage",
+      "stormwater",
+      "regulations"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH50DRSTQU"
+    ],
+    "scraped_at": "2026-06-10T12:02:39.359696+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 50-22"
+    ],
+    "chapter": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY"
+  },
+  "content": {
+    "title": "Chapter 50 - DRAINAGE AND STORMWATER QUALITY — Sec. 50-22. - Authority.",
+    "summary": "The authority to establish, implement, and enforce drainage and stormwater regulations\n               is derived from the city's powers and authority as a home rule city under C.R.S. tit.\n               31, arts. 15 and 35 and from the Engineering Code of Standards and Specifications\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 50-22. - Authority.",
+        "a": "The authority to establish, implement, and enforce drainage and stormwater regulations\n               is derived from the city's powers and authority as a home rule city under C.R.S. tit.\n               31, arts. 15 and 35 and from the Engineering Code of Standards and Specifications\n               as adopted and amended by the city.\n(\nOrd. No. 4875\n, § 1, 8-19-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 50-22"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

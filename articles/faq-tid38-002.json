@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-38-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "many",
+      "people",
+      "estimated",
+      "homeless",
+      "arvada",
+      "roughly",
+      "unhoused",
+      "just",
+      "Homelessness in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=38"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-many-people-are-estimated-to-be-homeless-in-arvada",
+    "faq_category_name": "Homelessness in Arvada"
+  },
+  "content": {
+    "title": "How many people are estimated to be homeless in Arvada?",
+    "summary": "As of 2025, there were roughly 300 people in Arvada who were unhoused. They are not just statistics. They are parents, families, veterans, seniors, pet owners, neighbors. Get to know some of them and their stories on the City of Arvada YouTube channel.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How many people are estimated to be homeless in Arvada?",
+        "a": "As of 2025, there were roughly 300 people in Arvada who were unhoused. They are not just statistics. They are parents, families, veterans, seniors, pet owners, neighbors. Get to know some of them and their stories on the City of Arvada YouTube channel."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

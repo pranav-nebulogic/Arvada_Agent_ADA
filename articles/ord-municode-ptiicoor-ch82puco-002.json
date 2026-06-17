@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "intent",
+      "purpose",
+      "chapter",
+      "prescribe",
+      "purchasing"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-2"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-2. - Legislative declaration and intent.",
+    "summary": "The purpose of this chapter is to prescribe purchasing procedures for the city to\n               follow in contracting for the construction of capital and other improvements, for\n               the purchase of tangible goods, and for the acquisition of professional, consulting,\n               and ot…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-2. - Legislative declaration and intent.",
+        "a": "The purpose of this chapter is to prescribe purchasing procedures for the city to\n               follow in contracting for the construction of capital and other improvements, for\n               the purchase of tangible goods, and for the acquisition of professional, consulting,\n               and other services. This chapter shall be construed and applied to promote the following\n               purposes: to simplify the law governing the city's procurement processes; to provide\n               for transparency and public confidence in the city's procurement procedures; to ensure\n               the fair and equitable treatment of all persons who deal with the city's procurement\n               system; to facilitate city procurement activities; to maximize the purchasing value\n               of public funds; to promote effective broad-based competition; and to maintain the\n               quality and integrity of the city's fiscal controls and procurement system.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

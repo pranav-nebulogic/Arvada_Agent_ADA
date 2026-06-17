@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "approval",
+      "criteria",
+      "generally",
+      "rezonings",
+      "approved",
+      "city",
+      "council",
+      "finds",
+      "either",
+      "rezoning"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-4-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-4. ZONING AND REZONING"
+  },
+  "content": {
+    "title": "8-3-4-2. Approval criteria.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-4-2. Approval criteria.",
+        "a": "A.\tGenerally. Rezonings may be approved if the City Council finds that either the rezoning corrects a technical mistake or the rezoning meets all of the following Approval Criteria:\n  1.\tThe rezoning is consistent with the Arvada Comprehensive Plan, or an adopted sub-area plan, corridor plan, or urban renewal plan, or reflects conditions that have changed since the adoption of the Comprehensive Plan;\n  2.\tThe intended land use is consistent with the stated intent of the proposed zoning district;\n  3.\tFacilities and services (including sewage and waste disposal, water, gas, electricity, police and fire protection, and roads and transportation, as applicable) will, prior to development, be available to serve the subject property while maintaining adequate levels of service to existing development;\n  4.\tThe intended land use for which the rezoning is sought will not result in significant adverse impacts upon the natural environment, including air, water, noise, stormwater management, wildlife, and vegetation, or such impacts will be substantially mitigated; and\n  5.\tThe rezoning is consistent with the character of existing or planned development on adjacent properties and in the surrounding area or neighborhood, or measures will be taken to substantially buffer or otherwise substantially mitigate any negative impacts."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-4-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

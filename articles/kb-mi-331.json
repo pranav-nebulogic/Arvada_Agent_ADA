@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "national",
+      "night",
+      "crime",
+      "community",
+      "annual",
+      "august",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/534/National-Night-Out"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-331",
+    "spreadsheet_id": "MI-331",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "National Night Out",
+    "summary": "National Night Out (NNO) is an annual event held on the first Tuesday in August aimed at fostering community relationships to reduce crime and fear of crime. Residents are encouraged to participate by turning on porch lights and hosting block parties, with permits required only for street closures or public park gatherings. Additionally, residents can invite local police and fire department representatives to their events through designated request forms.",
+    "body": "## About National Night Out\n\n[National Night Out](https://natw.org/about) (NNO) is a community effort to reduce crime and the fear of crime in our neighborhoods through relationship-building. This annual national celebration is held the first Tuesday in August. National Night Out is an opportunity for our officers to meet and interact with residents in a relaxed, informal way while discussing citizen concerns and ways to prevent crime as a community.\n\n## Celebrate NNO in Your Neighborhood\n\nJoin Americans across the country showing support for strong communities by turning **on** your porch lights to turn **off** crime. Show support for **your** neighborhood and have a block party with your neighbors!\n\n- Do you need a block party permit to host an NNO block party?\n  - You only need a block party permit for your neighborhood block party if you are **closing your street** (or having the party in a public park).  \n    **Please note:**block party permit applications **must** be submitted **no later** than two weeks prior to the event.\n\n## Invite the Arvada Police/City Leadership\n\nIf you would like the Arvada Police Department or City leadership to attend your block party, please use the [National Night Out - Request Form](https://arvada-forms.app.transform.civicplus.com/forms/32103).\n\n## Invite Arvada Fire\n\nThe Arvada Fire Protection District arranges NNO visits from Arvada Fire members. If you would like Arvada Fire to attend your block party, submit an online request directly through them at: Submit an [AFPD Event Request](https://app.smartsheet.com/b/form?EQBCT=cf85f2a8f5d2458cb2cbca374adfb44d).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

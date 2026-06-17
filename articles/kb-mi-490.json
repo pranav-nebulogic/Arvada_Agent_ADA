@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "samples",
+      "demonstrations",
+      "displays",
+      "code",
+      "personal",
+      "property",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/373/Samples-Demonstrations-Displays"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-490",
+    "spreadsheet_id": "MI-490",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Samples, Demonstrations & Displays",
+    "summary": "The Arvada Municipal Code imposes a use tax on tangible personal property used for sampling, demonstrating, or displaying goods unless they are resold in an unaltered and basically unused condition. Retailers must pay this tax based on the purchase price of the items used for demonstrations, and if they later sell these items, they must collect sales tax on the sales price. Exemptions are rare, and the burden of proof lies with the purchaser to demonstrate that the primary intent of the purchase was resale.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a use tax upon the privilege of using, storing, distributing, or otherwise consuming tangible personal property and certain taxable services in the City.\n\n## Taxability of Samples, Demonstration Units, & Displays\n\nTangible personal property used by a retailer, manufacturer, wholesaler, or salesperson to sample, demonstrate, or display goods available for sale is subject to Arvada sales tax unless the goods will be resold in an unaltered state and basically unused by the purchaser. If Arvada sales tax is not paid to a vendor licensed and authorized to collect the same at the time of purchase, then a use tax must be remitted directly to the City.\n\nThe basis of the use tax is the purchase price paid for the sample, display, or demonstrator units. No reduction in the tax is permitted on account of the length of time the sample units are used, the amount of consumption, or tax collected on future sales of the units. The Arvada use tax is calculated on the full purchase prices paid. If the sample units are fabricated by the user, the basis of the tax is the cost of raw materials.\n\nThe intent of the purchaser to subsequently resell sample units does not necessarily qualify the units for exemption even if the units are carried as \"inventory\" on the purchaser's books. Rather, the purchaser must show clearly that the primary purpose of the purchase is resale in an unaltered condition and basically unused by the purchaser. In general, taxation is the rule, and exemption is the rare exception. If the sample units are subsequently resold, sales tax must be collected on the sales price at that time.\n\n## Example\n\n- Company A is an Arvada electronics retailer. To induce customers to purchase goods, Company A uses some of its inventory as demonstrator units on its sales floor. These demonstrator units are connected to a power source and are operated during store hours. Company A does not adjust its inventory values on its books, as these units will ultimately be resold. Because Company A is using these units, they must pay use tax on the price they paid when they purchased the inventory wholesale. Company A must also collect sales tax on the price charged when the demonstrator units are subsequently resold.\n- Company B is a furniture retailer with a showroom in Arvada. Company B uses furniture, rugs, and decorative accessories, and fabric swatches in its showroom. Customers who like the furniture select the desired fabric pattern and place an order. Some orders are filled immediately with stock in Company B's attached warehouse and others are fabricated and delivered to the customer at a later date. Some of the floor samples are eventually touched up and sold at full retail price. The rest are discarded. The decorative accessories are either reused or discarded. Company B must pay a use tax on all of the floor samples and decorative accessories. Company B must also collect sales tax on the price charged for the floor samples that are subsequently resold.\n- Company C is a grocer. On the weekends, Company C offers its customers samples of food taken from inventory and prepared. Company C must pay use tax on its cost of the inventory, including any napkins, toothpicks, disposable cups, etc., which it uses to distribute the samples.\n- Company D is a shoe retailer. Customers at Company D's store try on shoes for fit and appearance. Customers may briefly walk in the shoes within the store, but they must use socks and cannot remove them from the store to prevent wear. If the customer is satisfied with the sampled pair of shoes, they purchase that pair. Because the shoes are sold in an unaltered condition and basically unused, Company D does not owe a use tax. Company D must collect a sales tax on the price charged for the shoes.\n- Company E is a second hand store. It acquires used goods for sale from its retail storefront in Arvada. Company E places its inventory on its sales floor for sale in an \"as is where is\" condition. Although Company E is displaying its goods, the goods are sold in an unaltered condition subsequent to Company E's acquisition. The fact that the goods are used when Company E acquires them does not subject Company E to a tax on such acquisition. When Company E subsequently sells the goods at retail, it must collect a sales tax on the price charged even though tax may have been collected on a previous transaction involving the goods when they were purchased new.\n- Company F is a candy manufacturer and retail store. Customers can take a tour of the candy being manufactured and afterwards stop in the retail store to sample and purchase the candy. The candy that is taken out of inventory and use for customer sampling is subject to use tax, as all of the ingredient use to make the candy were purchased for resale.\n- Company G is a liquor store operating in the City. On the weekends, the retailer offers a \"tasting\" of wines it carries in the store and provides cheese and crackers to prospective customers. The wine is taken from inventory and the cheese and crackers are purchased from a local grocer. The retailer must pay use tax to the City on the cost of the wine used or discarded during the tasting. If sales tax was not paid by the retailer when purchasing the cheese and crackers, then the use tax would be due on those items as well.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

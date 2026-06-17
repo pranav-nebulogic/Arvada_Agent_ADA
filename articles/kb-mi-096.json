@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "becoming",
+      "court",
+      "appointed",
+      "attorney",
+      "charged",
+      "application",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/297/Becoming-a-Court-Appointed-Attorney"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-096",
+    "spreadsheet_id": "MI-096",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Becoming a Court-Appointed Attorney",
+    "summary": "Individuals charged in Municipal Court who cannot afford an attorney and face potential incarceration may request court-appointed counsel. Attorneys in good standing with the Colorado Bar Association can apply to represent these indigent clients in jail-eligible cases.",
+    "body": "Any person charged before the Municipal Court who is financially unable to obtain counsel and who could be incarcerated if convicted of one or more of the violations with which charged, may petition the Court for court-appointed counsel.\n\nIf you are an attorney in good standing with the Colorado Bar Association and interested in representing indigent municipal court clients charged with jail-eligible offenses, you may submit an application for consideration.\n\n[Application to Provide Legal Service as Court-Appointed Counsel](https://arvada-forms.app.transform.civicplus.com/forms/32902)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

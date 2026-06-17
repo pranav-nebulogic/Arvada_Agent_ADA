@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "medical",
+      "dependent",
+      "care",
+      "spending",
+      "accounts",
+      "regular",
+      "probationary"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-72"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-72. - Medical and dependent care spending accounts.",
+    "summary": "Regular and probationary employees may participate, in accordance with applicable\n               state and federal law, in pre-tax medical care and dependent care spending accounts\n               as authorized by the city council and approved by the city manager. Employees are\n               authori…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-72. - Medical and dependent care spending accounts.",
+        "a": "Regular and probationary employees may participate, in accordance with applicable\n               state and federal law, in pre-tax medical care and dependent care spending accounts\n               as authorized by the city council and approved by the city manager. Employees are\n               authorized to have such amounts as they may choose withheld from their paycheck, subject\n               to the terms and limitations that the city manager deems lawful and appropriate, and\n               to spend such sums consistent with the purposes of the spending accounts. The city\n               is authorized to withhold from the employees such amounts to pay and make payment\n               on behalf of the employees consistent with the terms and limitations established by\n               the city manager. The city is authorized to determine the lawful disposition of such\n               spending account funds withheld but not spent in a manner consistent with applicable\n               state and federal law.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-72"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

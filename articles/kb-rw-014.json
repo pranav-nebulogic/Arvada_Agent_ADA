@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "sidewalk",
+      "chase",
+      "drains",
+      "water",
+      "drainage",
+      "sidewalks",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/662/Sidewalk-Chase-Drains"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-014",
+    "spreadsheet_id": "RW-014",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Sidewalk Chase Drains",
+    "summary": "Residents may observe water flowing across sidewalks due to a planned drainage system that directs precipitation into the City's storm water management. To mitigate issues like icing and algae growth, homeowners can hire a Licensed Right-of-Way Contractor to install a City-approved sidewalk chase drain, which requires obtaining a permit from the City of Arvada Public Works Department. Property owners are responsible for the maintenance of these drains to ensure effective drainage and safety.",
+    "body": "Residents may occasionally witness water from a planned system of drainage easements and swales flowing across sidewalks after rainstorms or during rapid snow melt events. This is the proper method for allowing precipitation to join the City's storm water drainage system of curbs and gutters, storm inlets and underground piping. On occasion, water may continuously cross sidewalks causing icing in the winter and algae growth and slippery conditions in the summer. This issue typically results from continual sump pump flows and/or the runoff from a single or multiple lots in a subdivision caused by regular, excessive irrigation.\n\n## Installing a sidewalk chase drain\n\nIn an effort to provide the conveyance of runoff directly to the curb, a homeowner may hire a Licensed Right-of-Way Contractor to install a City approved sidewalk chase drain at sidewalks within the City Right-of-Way. To install a sidewalk chase drain, the Contractor must obtain the Right-of-Way Permit through the City of Arvada Public Works Department. A sketch showing the proposed location of the chase drain(s) and a photo(s) that demonstrates the need for the sidewalk chase drain must be included with the permit application.and must be designed and installed in accordance with one of the designs noted in the following. Please indicate which chase drain(s) will be installed by noting this on the sketch provided with your permit application. Please note, property owners will need to clean and maintain chase drains, including replacing broken covers, to ensure proper drainage and to ensure the sidewalk is free from gaps and trip hazards. Download the [Chase Drain Standards (PDF)](/DocumentCenter/View/907).\n\nFor additional information on permits or licensing, please contact the City of Arvada Public Works Department.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

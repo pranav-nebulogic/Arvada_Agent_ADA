@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "description",
+      "property",
+      "notice",
+      "transferees",
+      "etc",
+      "shall",
+      "sufficient"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-118"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-118. - Description of property; notice to transferees, etc.",
+    "summary": "(a)\nIt shall be sufficient in any case to describe the tract as the same is platted or\n               recorded or described in any official record, although the same belongs to several\n               persons.\n(b)\nAny purchaser, lienholder, assignee or transferor of any tract subject to assessment\n  …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-118. - Description of property; notice to transferees, etc.",
+        "a": "(a)\nIt shall be sufficient in any case to describe the tract as the same is platted or\n               recorded or described in any official record, although the same belongs to several\n               persons.\n(b)\nAny purchaser, lienholder, assignee or transferor of any tract subject to assessment\n               as herein provided in any district herein provided for, after the first publication\n               of the notice of the provisional order to create such district, shall be held to notice\n               thereof and of all proceedings with reference thereto the same as the owners of such\n               tract at the time of such notice or proceedings.\n(Code 1981, § 27-118; Ord. No. 551, § 59, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-118"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

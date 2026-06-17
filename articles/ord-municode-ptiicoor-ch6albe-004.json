@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "public",
+      "property",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "possess"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-4"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-4. - On public property.",
+    "summary": "(a)\nIt shall be unlawful for any person to possess alcoholic beverages in any open container\n               upon any public property or to consume alcoholic beverages upon any public property\n               except upon the premises of an establishment licensed or permitted to sell or serve\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-4. - On public property.",
+        "a": "(a)\nIt shall be unlawful for any person to possess alcoholic beverages in any open container\n               upon any public property or to consume alcoholic beverages upon any public property\n               except upon the premises of an establishment licensed or permitted to sell or serve\n               such alcoholic beverages by the drink, or except where permitted under the authority\n               as provided in this chapter, or where a written permission permit is granted by the\n               city manager. The city manager may, as a condition of granting such permission, impose\n               conditions upon the use of the public property, including the deposit of funds sufficient\n               to cover the cost of cleanup in the event the applicant fails to do so.\n(b)\nIt shall be unlawful for any person to possess alcoholic beverages in, or to consume\n               alcoholic beverages from, any open container, upon any private property that is outdoors\n               and open to the general public; or to possess alcoholic beverages in, or consume alcoholic\n               beverages from, any open container inside a motor vehicle, camper, trailer, or vehicle\n               shell while upon any private property that is outdoors and open to the general public,\n               unless such private property is licensed or permitted as provided by this chapter\n               or as the owner, agent, or lessee of such private property may authorize or approve.\n(c)\nFor the purpose of this section, \"alcoholic beverages\" shall include any malt, vinous\n               or spirituous liquor or fermented malt beverages as those terms are defined by state\n               law.\n(\nOrd. No. 4670\n, § 1, 12-17-2018)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "short-term rental",
+      "Airbnb",
+      "VRBO",
+      "rental compliance",
+      "Main"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/259/Short-Term-Rentals"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/ma-004",
+    "spreadsheet_id": "MA-004",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Operating A Short-Term Rentals",
+    "summary": "To operate a short-term rental (STR) in Arvada, a permit and business license are required, with specific regulations including a maximum of one permit per lot, limits on occupancy, and a cap of 240 rental days per year. Property owners must maintain the property according to city codes, ensure proper parking, and address neighbor concerns promptly through a compliance system. Additionally, all applicable taxes must be paid, and renters must be provided with a Good Neighbor Guide to promote community standards.",
+    "body": "A short-term rental (STR) is a unit rented for a period of less than 30 nights, with a minimum of 2 nights. Often, STRs are rented as vacation homes through websites such as AirBnB or VRBO.\n\nThe City of Arvada requires both a short-term rental permit and a business license to operate an STR within the City. In 2026, the City also updated an ordinance to strengthen enforcement measures, adjust the number of STR permits an individual can have at one time, and clarify the rules around who can hold an STR permit.\n\nThinking of applying for a short-term rental permit? Head to the [**Short-term rental application information page**](https://www.arvadaco.gov/1509/Application-Info).\n\nThe City of Arvada requires both a short-term rental permit and a business license to operate an STR within the City. Below is information about applying for a permit, associated fees, and other requirements. For full details, refer to the [City of Arvada Land Development Code](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH3USRE_ART3-1PRLAUSRE_DIV3-1-5BUUSHO_3-1-5-3SHTERE) or the [FAQ page](https://www.arvadaco.gov/m/faq?cat=21).\n\n## Operating requirements\n\n**Property to be rented** may be the entire permitted property or a bedroom, lock-off or other portion of the permitted property.\n\n**Parking required.** Any property that is being rented as an STR must have an additional on-site parking space. \n\n- **Exception.** If the entire premise is being used or rented as STR, no additional on-site parking space is required.\n\n**Property Maintenance Requirements.** The permittee must maintain weekly rubbish and garbage removal services for the STR and otherwise comply with all provisions of the International Property Maintenance Code (IPMC) as adopted by Arvada. This includes but is not limited to complying with lawn mowing, weed removal, and snow and ice requirements.\n\n**Nuisances not allowed.** A Permittee may not allow or permit the STR to create a nuisance as that term is defined in Chapter 38 of the City Code.\n\n**Only one short-term rental permit is allowed per lot.** For example, you can permit the primary residence or a secondary residence, such an accessory dwelling unit (ADU) but you cannot have both permitted.\n\n**All taxes must be paid.** The permittee must ensure that all lodging, sales, and other taxes due as a result of the use of the property as an STR are submitted to the City in a timely manner.\n\n**Limits on overnight occupancy.** STRs are limited to a total overnight occupancy of two occupants per bedroom plus two additional occupants. Studios are limited to three occupants.\n\n**Maximum nights of operation is 240 days** in any 365-day period.\n\n## Responding to neighbor concerns\n\nThe City of Arvada is committed to supporting responsible short-term rental operations while also helping maintain positive relationships within our neighborhoods. To support this goal, the City has implemented compliance software for short-term rentals. \n\nThis system provides a 24/7 customer hotline for neighbors to report concerns related to short-term rentals. When a concern is submitted, the owner receives a text message and automated phone call so it can be addressed quickly and directly. The expectation is that you will contact your short term renter and resolve the situation. \n\nIf a reported issue is not responded to within the 24-hour timeframe, the City’s Code Enforcement team will follow up to ensure the concern is addressed. Noise complaints must be responded to within one hour of complaint. Failure to resolve the issue may result in police response. \n\n### Good Neighbor Guide\n\nEach rental must make the Good Neighbor Guide available to all renters. The guide outlines applicable city and state laws and rules. It is intended to assist renters in supporting neighborhood and community character. \n\n## Enforcement\n\nIn certain situations, a summons and complaint without a prior warning or notice may be issued. This means a Peace Officer can take immediate enforcement action when specific violations occur, due to their impact on public safety and neighborhood well-being. These situations can include:\n\n- Operating an STR **without a valid permit**.\n- STR permit is **not clearly posted inside the property** as required.\n- STR permit is found to be **falsified, altered, or defaced** in any way.\n- Operating an STR **without the required business license**.\n- Your property **exceeds the approved overnight occupancy limits** outlined in your STR permit.\n- **Allow or host a large social gathering** at a property being used as a short-term rental.\n- The property **does not have working safety equipment**, such as smoke detectors, carbon monoxide detectors, or a fire extinguisher.\n- Completing construction **without first obtaining the necessary building or related permits**.\n- A **Red Tag placard is removed unlawfully** from a property.\n- **Enter or occupy a property that has been posted with a Red Tag placard**, indicating it is not safe or approved for use.\n- Failure to **pay required lodging, sales, or other applicable taxes** related to STR operations.\n\nPlease review the approved Ordinance for a complete understanding of enforcement actions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

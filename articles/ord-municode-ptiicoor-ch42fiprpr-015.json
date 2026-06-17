@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "required",
+      "hereby",
+      "amended",
+      "read",
+      "follows",
+      "fire"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 42-54"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — Sec. 42-54. - I.F.C. Section 503.1, Where required.",
+    "summary": "Section 503.1. Where required,\nis hereby amended to read as follows:\n\"\n503.1. Where required.\nFire apparatus access roads shall be provided and maintained in accordance with Sections\n                  503.1.1 through 503.1.3 and Appendix D.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 42-54. - I.F.C. Section 503.1, Where required.",
+        "a": "Section 503.1. Where required,\nis hereby amended to read as follows:\n\"\n503.1. Where required.\nFire apparatus access roads shall be provided and maintained in accordance with Sections\n                  503.1.1 through 503.1.3 and Appendix D.\"\n(Ord. No.\n4739\n, § 3, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 42-54"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

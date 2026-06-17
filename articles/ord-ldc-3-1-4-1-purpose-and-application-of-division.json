@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "purpose",
+      "application",
+      "division",
+      "standards",
+      "temporary",
+      "land",
+      "order",
+      "ensure",
+      "location",
+      "operation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-4-1"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-4. TEMPORARY USES"
+  },
+  "content": {
+    "title": "3-1-4-1. Purpose and application of division.",
+    "summary": "A.\tPurpose of Division.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-4-1. Purpose and application of division.",
+        "a": "A.\tPurpose of Division. The purpose of this Division is to set out standards for the temporary use of land in order to ensure that the location and operation of temporary uses does not negatively impact permanent uses, environmental resources, or the safe and efficient operation of transportation networks.\nB.\tApplication of Division. Section 3-1-4-2, Temporary Uses by Zoning District, sets out the zoning districts in which various temporary uses are allowed. If a temporary use is allowed in a particular zoning district, the standards and permit requirements that apply to the use are set out in its corresponding section in this Division. See Section 3-1-4-3, Contractor Offices and Temporary Construction Uses, to Section 3-1-4-13, Other Temporary Uses, inclusive.\nC.\tTemporary Use Permits. Some temporary uses require a temporary use permit. Temporary use permits are issued as provided in Chapter 8, Development Review Process."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

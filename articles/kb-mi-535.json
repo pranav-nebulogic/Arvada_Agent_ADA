@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "submit",
+      "crime",
+      "information",
+      "please",
+      "anonym",
+      "anonymous",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/585/Submit-a-Crime-Tip"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-535",
+    "spreadsheet_id": "MI-535",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Submit a Crime Tip",
+    "summary": "Individuals with information about a crime can submit anonymous tips to assist investigators without revealing their identity. For emergencies, it is advised to call 911, and for jurisdiction inquiries, contact 303-980-7300. Tips can be submitted through a designated online platform, ensuring confidentiality for the informant.",
+    "body": "If you require immediate attention for an emergency, **please dial 911**. If you are not certain of jurisdiction, please call 303-980-7300 before completing this report.\n\nPeople with vital information about a crime usually won't contact police because they fear retaliation or because they do not want to end up in court as a witness. Crime tips are very valuable to investigators and can be used without exposing the source of information if the person wishes to remain anonymous.\n\n[Submit an anonymous tip](https://www.metrodenvercrimestoppers.com/submit-a-tip). Your comments and personal information, if submitted, will remain confidential.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

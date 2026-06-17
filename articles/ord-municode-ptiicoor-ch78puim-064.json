@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "interim",
+      "warrants",
+      "purpose",
+      "paying",
+      "any",
+      "contractor",
+      "otherwise"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-65"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-65. - Interim warrants.",
+    "summary": "(a)\nFor the purpose of paying any contractor of or otherwise defraying any costs of the\n               project as the same become due from time-to-time until moneys are available therefor\n               from the levy and collection of assessments and from any issuance of bonds, the council\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-65. - Interim warrants.",
+        "a": "(a)\nFor the purpose of paying any contractor of or otherwise defraying any costs of the\n               project as the same become due from time-to-time until moneys are available therefor\n               from the levy and collection of assessments and from any issuance of bonds, the council\n               may issue interim warrants.\n(b)\nAny interim warrants issued for any construction work shall be issued only upon estimates\n               of the engineer.\n(c)\nAny interim warrants shall bear such date, shall mature in such denomination at such\n               time or at any time upon call, shall bear interest at a rate not exceeding ten per\n               centum per annum and shall be payable in such medium of payment at such place within\n               and without the state, including, but not limited to the finance director, as the\n               council may determine.\n(d)\nAny interim warrants may be issued with privileges for registration for payment as\n               to only principal or as to both principal and interest, may be negotiable or nonnegotiable,\n               shall be special obligations payable from designated special assessments, any bond\n               proceeds and any other moneys designated to be available for the redemption of such\n               interim warrants and generally shall be issued in such manner, in such form, with\n               such recitals, terms, covenants and conditions, and with such other details, as may\n               be provided by the council by ordinance.\n(Code 1981, § 27-66; Ord. No. 551, § 24, 5-14-1964; Ord. No. 1643, § 3, 2-18-1980)\nState Law reference—\nInterim warrants, C.R.S. § 31-25-541."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-65"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

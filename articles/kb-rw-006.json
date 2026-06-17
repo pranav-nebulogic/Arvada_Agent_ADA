@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "utility",
+      "reference",
+      "sheet",
+      "crossings",
+      "infrastructure",
+      "hours",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1450/Dry-Utility-Reference-Sheet"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-006",
+    "spreadsheet_id": "RW-006",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Dry Utility Reference Sheet",
+    "summary": "The Dry Utility Reference Sheet outlines essential specifications for utility work near City of Austin (COA) infrastructure, including minimum separation distances, inspection requirements, and restoration timelines. Contractors must notify the Municipal Inspector prior to crossings, ensure all work is properly marked and documented, and maintain clear communication throughout the project. Failure to adhere to these guidelines may result in a stop work notice and potential penalties.",
+    "body": "## Specifications\n\n- 18” minimum vertical separation from all COA infrastructure.\n- 24” minimum horizontal separation from all COA fiber; 10’ from all other  infrastructure.\n- All bore paths must be pre-marked for locating purposes.\n- Municipal Inspector needs to be notified 24 hours prior to utility crossings; 48 hours prior to critical crossings.\n- All crossings of COA infrastructure will require a standby by Municipal Inspector or COA representative.\n- Restoration must be completed within seven days of completed work unless otherwise instructed by Municipal Inspector or COA representative.\n- All work trucks must have a company logo.\n- A minimum of 5’ clearance of fire hydrant, water meters, etc...is mandatory.\n- All bore paths must be painted in white paint to show bore paths.\n- All approved plans must be on site at all times.\n- All potholes must be initialed by the contractor.\n- All inspections must be scheduled online by 6am on the desired day of inspection.\n- Any COA infrastructure paralleling a bore path must be potholed every 25’.\n- No pneumatic boring equipment (missile) permitted in Right of Way.\n\n## COA Field Staff\n\nAll field communication should go through the Municipal Inspector.\n\n## Permitting\n\nAll permitting questions should be routed through the permit desk. They can be reached at 720-898-7640 or [[email protected]](/cdn-cgi/l/email-protection#23464d444a4d4646514a4d445346514e4a5750634251554247420d4c5144)\n\n## Damage\n\nIn case of damage to any COA infrastructure, all work on site must be stopped. Contact the Municipal Inspector immediately.\n\n## Damage Prevention\n\nAll utilities must be located and potholed prior to any directional boring. If it is found that a utility is crossed without supervision, a stop work notice may be issued. If assistance is needed for an unfound utility, contact the Municipal inspector.\n\n## Stop Work Notice\n\nA stop work notice can be issued at any time throughout the job if the contractor does not follow COA requirements.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

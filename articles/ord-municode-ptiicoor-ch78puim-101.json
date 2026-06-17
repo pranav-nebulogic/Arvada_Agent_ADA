@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "levy",
+      "assessments",
+      "after",
+      "assessment",
+      "roll",
+      "final",
+      "form"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-102"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-102. - Levy of assessments.",
+    "summary": "(a)\nAfter the assessment roll is in final form and is confirmed by resolution as provided\n               in the preceding section, the city by ordinance shall by reference to such assessment\n               roll as so modified, if modified, and as confirmed by such resolution levy the assessments\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-102. - Levy of assessments.",
+        "a": "(a)\nAfter the assessment roll is in final form and is confirmed by resolution as provided\n               in the preceding section, the city by ordinance shall by reference to such assessment\n               roll as so modified, if modified, and as confirmed by such resolution levy the assessments\n               in said roll.\n(b)\nNo assessment shall be levied for any project located or to be located on any land\n               until the council by the adoption of said ordinance or otherwise shall determine that\n               the city has the right to possession of such land or an interest therein for the purpose\n               of acquiring or improving, or acquiring and improving, the project.\n(c)\nSuch decision, resolution and ordinance shall be a final determination of the regularity,\n               validity and correctness of the proceedings, of the assessment plat, of said assessment\n               roll, of each assessment contained therein and of the amount thereof levied on each\n               tract.\n(d)\nSuch determination by the council shall be conclusive upon the owners of the property\n               assessed.\n(e)\nThe roll shall be prima facie evidence in all courts and tribunals of the regularity\n               of all proceedings preliminary to the making thereof and the validity of the assessments\n               and the assessment roll.\n(Code 1981, § 27-103; Ord. No. 551, § 43, 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-102"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

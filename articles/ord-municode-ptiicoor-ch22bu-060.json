@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "bond",
+      "required",
+      "before",
+      "any",
+      "license",
+      "shall",
+      "issued"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-207"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-207. - Bond required.",
+    "summary": "Before any license shall be issued to an applicant pursuant to this chapter, each\n               applicant shall file with the city clerk a cash bond, certified funds payable to the\n               city, or a surety bond running to the city in the sum of $50,000.00. If a surety bond\n               is…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-207. - Bond required.",
+        "a": "Before any license shall be issued to an applicant pursuant to this chapter, each\n               applicant shall file with the city clerk a cash bond, certified funds payable to the\n               city, or a surety bond running to the city in the sum of $50,000.00. If a surety bond\n               is provided, it shall be executed by the applicant as principal and at least one surety\n               upon which service of process may be made in the state. The bond shall be conditioned\n               such that the applicant shall comply fully with all the provisions of the laws of\n               the city and the statutes of the state regulating and covering the applicant's business,\n               and will pay all judgments rendered against the applicant for any violation of said\n               laws or statutes together with all judgments and costs that may be recovered against\n               him by any person for damage arising out of any such business with the applicant.\n               Action on the bond may be brought in the name of the city to the use of the aggrieved\n               person. Such bond must be approved by the city attorney, both as to form and as to\n               the responsibility of the surety.\n(Code 1981, § 23-7; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-207"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

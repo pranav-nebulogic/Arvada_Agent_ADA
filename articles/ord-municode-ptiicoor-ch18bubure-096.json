@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "intent",
+      "hereby",
+      "amended",
+      "adding",
+      "new",
+      "second"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-288"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-288. - I.E.B.C. Section 101.3, Intent.",
+    "summary": "Section 101.3. Intent,\nis hereby amended by adding a new second paragraph to read as follows:\n\"\n101.3. Intent.\nAdditions or alterations shall not be made to an existing building or structure when\n                  such existing building or structure is not in full compliance with the provisions\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-288. - I.E.B.C. Section 101.3, Intent.",
+        "a": "Section 101.3. Intent,\nis hereby amended by adding a new second paragraph to read as follows:\n\"\n101.3. Intent.\nAdditions or alterations shall not be made to an existing building or structure when\n                  such existing building or structure is not in full compliance with the provisions\n                  of this code except when such addition or alteration will result in the existing building\n                  or structure being no more hazardous based on life safety, fire safety, and sanitation,\n                  than before such additions or alterations are undertaken.\"\n(Ord. No.\n4738\n, § 8, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-288"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

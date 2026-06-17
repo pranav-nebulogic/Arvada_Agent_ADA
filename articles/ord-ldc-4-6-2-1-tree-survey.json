@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "tree",
+      "survey",
+      "generally",
+      "determination",
+      "existing",
+      "trees",
+      "preserved",
+      "replaced",
+      "relocated",
+      "pursuant"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-2-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-2. TREE PRESERVATION AND REPLACEMENT"
+  },
+  "content": {
+    "title": "4-6-2-1. Tree survey.",
+    "summary": "A.\tGenerally. The determination that existing trees are to be preserved, replaced, or relocated pursuant to this Division shall be made by the Director based on professional tree analysis provided by the Applicant.\nB.\tContents of Tree Survey.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-2-1. Tree survey.",
+        "a": "A.\tGenerally. The determination that existing trees are to be preserved, replaced, or relocated pursuant to this Division shall be made by the Director based on professional tree analysis provided by the Applicant.\nB.\tContents of Tree Survey. The tree survey shall be prepared by a professional forester, arborist, or a registered landscape architect, and shall include an analysis of existing trees with two-inch or greater calipers, including:\n  1.\tA site plan locating each tree and recommending trees intended for preservation in place, transplanting on site, or replacement;\n  2.\tSpecies and size of each tree (caliper/height);\n  3.\tCondition, indicating overall health of each tree with an evaluation of structure, pests, disease, or other factors affecting each tree; and\n  4.\tRecommendation for removal of all trees that are in a condition hazardous to the proposed development.\nC.\tModification of Tree Survey Requirements. The Director shall establish the level of detail required for the tree analysis based on site conditions (e.g., for large sites with large stands of trees, the Director may allow delineation of tree canopy and estimates of the number of trees in each size category based on sampling, rather than comprehensive counts).\nD.\tTree Removal Prior to Application Submittal. Applicants/owners are not permitted to remove trees two inches or larger, within six months prior to submittal of a development application, unless prior written approval of the Director has been obtained. Any development application for a site where such removal has occurred without permission shall be required to install 200 percent of the number of trees and shrubs otherwise required for the site."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-2-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

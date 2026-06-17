@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "required",
+      "accessible",
+      "parking",
+      "spaces",
+      "generally",
+      "places",
+      "public",
+      "accommodation",
+      "defined",
+      "americans"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-2-3"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-2. PARKING AND LOADING CALCULATIONS"
+  },
+  "content": {
+    "title": "4-5-2-3. Required accessible parking spaces.",
+    "summary": "A.\tGenerally. All \"places of public accommodation,\" as defined in the Americans with Disabilities Act (42 U.S.C. 12101 et. seq) (ADA), must comply with the requirements of the ADA.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-2-3. Required accessible parking spaces.",
+        "a": "A.\tGenerally. All \"places of public accommodation,\" as defined in the Americans with Disabilities Act (42 U.S.C. 12101 et. seq) (ADA), must comply with the requirements of the ADA. Parking spaces that are accessible to disabled persons (\"accessible parking spaces\") shall be provided as set out in this Section. Accessible parking spaces shall be counted toward the total number of parking spaces that are provided for compliance with Section 4-5-2-2, Parking Requirements Tables, after applicable reductions pursuant to Section 4-5-2-4, Shared Parking, and Section 4-5-2-5, Parking Credits and Reductions.\nB.\tNumber of Required Spaces. Accessible parking spaces shall be provided as set out in Table 4-5-2-3, Number of Accessible Parking Spaces, or as indicated in C. below, whichever requires more parking spaces and more van accessible parking spaces for disabled persons.\nC.\tUse-Specific Standards. In addition to the requirements of Table 4-5-2-3, Number of Accessible Parking Spaces, office uses, hospital outpatient facilities, rehabilitation facilities or outpatient physical therapy facilities, and residential uses are subject to additional requirements as indicated by the ADA Standards for Accessible Design, ADAAG Section 208, as amended."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-2-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

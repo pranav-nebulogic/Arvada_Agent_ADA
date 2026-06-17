@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "nonconforming",
+      "residential",
+      "density",
+      "generally",
+      "section",
+      "applies",
+      "lots",
+      "legally",
+      "developed",
+      "buildings"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-5-2"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-5. NONCONFORMING LOTS OR RESIDENTIAL DENSITY"
+  },
+  "content": {
+    "title": "9-1-5-2. Nonconforming residential density.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-5-2. Nonconforming residential density.",
+        "a": "A.\tGenerally. This Section applies to nonconforming residential density on lots that are legally developed with buildings that include three or more dwelling units, where the housing type is allowed in the zoning district, but the number of units exceeds the number of units that are allowed in the zoning district based on the lot area. Nonconforming density may be continued, subject to the provisions of this Section.\nB.\tRepairs and Alterations to Residential Buildings. If a lot contains more dwelling units that are legally established than are allowed by the zoning district in which the lot is located, then the building or buildings in which the additional dwelling units are located may be maintained and repaired, and may be altered, expanded, or extended as may be otherwise allowed by this LDC. No new bedrooms shall be created unless parking for the lot conforms to the requirements of Article 4-5, Parking and Loading.\nC.\tReconstruction. Buildings on a lot that contains more dwelling units than are allowed by the zoning district in which the lot is located may be reconstructed after casualty loss, or redeveloped to the nonconforming density, provided that such reconstruction or redevelopment is completed within 36 months after the casualty loss or approval of the redevelopment."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-5-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

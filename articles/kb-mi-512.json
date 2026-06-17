@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "special",
+      "fuels",
+      "gasoline",
+      "energy",
+      "usage",
+      "fuel",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/376/Special-Fuels-Gasoline-Energy-Usage"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-512",
+    "spreadsheet_id": "MI-512",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Special Fuels, Gasoline & Energy Usage",
+    "summary": "Arvada's Municipal Code exempts motor fuel from sales and use tax if it has already been taxed under the gasoline or special fuel tax, but imposes a tax on all gasoline and special fuels used within the state. Gasoline is defined as a flammable liquid for motor vehicles, while special fuels include diesel, propane, and natural gas that are not used for motor vehicles on public highways. Additionally, all energy sources, including natural gas and electricity, used for residential or industrial purposes in Arvada are subject to sales or use tax, with no exemptions provided.",
+    "body": "## Gasoline & Special Fuels\n\nThe [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) provides an exemption from sales and uses tax for motor fuel upon which there has been accrued or paid either the gasoline tax or special fuel tax, required by Article 27 of Title 39, C.R.S., and which is not subject to refund. This article imposes a tax upon \"all gasoline or special fuel acquired, sold, offered for sale, or used in this state for any purpose whatsoever, but only one tax shall be paid upon the same gasoline or special fuel in this state.\"\n\n## Definitions\n\n\"Gasoline\" is any flammable liquid used primarily as a fuel for the propulsion of motor vehicles, motorboats, or aircraft.\n\n\"Special Fuel\" is fuel other than gasoline - such as diesel engine fuel or kerosene (sometimes referred to as fuel oil), liquefied petroleum gas (propane), or natural gas - used to propel a motor vehicle on Colorado Highways.\n\nSpecial fuels such as diesel engine fuel, kerosene, liquefied petroleum gas (propane), and natural gas that are not used to propel motor vehicles upon public highways are subject to Arvada sales and use tax. Fuels in this form will often have an indelible dye added to identify their exemption from the gasoline and special fuel excise tax.\n\n## Example\n\n- Joe decides to host a barbecue. In preparation, he purchases 20 gallons of propane for his barbeque grill and one gallon of unleaded gasoline for his lawn mower from a licensed Arvada retailer. Joe must pay Arvada sales tax on the propane because it will not be used in a motor vehicle. Although the gasoline will not be used in a motor vehicle, it is not subject to Arvada sales tax because it is \"gasoline\" and not a special fuel as defined by State statute and is subject to the gasoline and fuel excise tax.\n- ABC Construction, a construction contractor with a yard in unincorporated Jefferson County, is building a structure in Arvada and using construction equipment. ABC uses 100 gallons of dyed diesel fuel in its construction equipment. This fuel is subject to Arvada use tax because it is exempt from the gasoline and special fuel excise tax. Because their yard is in unincorporated Jefferson County, ABC has not previously paid a municipal sales or use tax on this fuel.\n\n## Energy Usage\n\nNatural gas, electricity, steam, coal, fuel oil, and other energy sources (firewood, pellets, butane, and propane) sold for residential use or industrial use (manufacturing, construction, or retail food establishments) and not for resale are subject to sales or use tax by the City of Arvada. Even though some taxing jurisdictions provide exemptions for energy or fuels such as natural gas for domestic or commercial consumption, **Arvada provides no such exemption**.\n\n## Example\n\nThe Corner Buffet is a fast-food restaurant chain located in Arvada. The restaurant consumes $10,000 in electricity. The State of Colorado will allow a credit for the tax paid on the electricity used to prepare meals; however, the electricity used to light the restaurant is taxable. Arvada provides no such credit or exemption for energy-producing fuels, electricity, etc.; thus, this transaction is fully subject to Arvada tax.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

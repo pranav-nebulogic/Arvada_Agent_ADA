@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "powers",
+      "duties",
+      "generally",
+      "planning",
+      "commission",
+      "shall",
+      "all"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-61"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-61. - Powers and duties generally.",
+    "summary": "The planning commission shall have all of the powers and perform each and all of the\n               duties specified by subsection\n8-1-2-2\nof the city Land Development Code and, to the extent not inconsistent therewith,\n               C.R.S. title 31, art. 23, pts. 2 and 3, together with any other d…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-61. - Powers and duties generally.",
+        "a": "The planning commission shall have all of the powers and perform each and all of the\n               duties specified by subsection\n8-1-2-2\nof the city Land Development Code and, to the extent not inconsistent therewith,\n               C.R.S. title 31, art. 23, pts. 2 and 3, together with any other duties or authority\n               which may hereafter be conferred upon them by the laws of the state. The performance\n               of such duties and the exercise of such authority is to be subject to each and all\n               the limitations expressed in such legislative enactments.\n(Code 1960, § 2-23; Code 1981, § 25-31; Ord. No. 3639, § 8(a), 8-28-2000; Ord. No.\n4728\n, § 19, 5-18-2020)\nState Law reference—\nPlanning commission, C.R.S. § 31-23-201 et seq.; zoning, C.R.S. § 31-23-301 et seq."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

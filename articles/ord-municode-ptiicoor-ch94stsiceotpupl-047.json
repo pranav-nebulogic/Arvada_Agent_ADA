@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "location",
+      "generally",
+      "access",
+      "points",
+      "shall",
+      "follows",
+      "parkway"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-156"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-156. - Location—Generally.",
+    "summary": "The location of access points shall be as follows:\nParkway Streets\nCollector Streets\nLocal/Minor Streets\n35 mph\nSpeed\n40 mph\nSpeed\n45 mph\nSpeed\n1-2\nUnit\nResidential\nUses\nAll Other Uses\n1-2\nUnit\nResidential\nUses\nAll\nOther\nUses\nMinimum distance from access point to property line(s), except shared acce…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-156. - Location—Generally.",
+        "a": "The location of access points shall be as follows:\nParkway Streets\nCollector Streets\nLocal/Minor Streets\n35 mph\nSpeed\n40 mph\nSpeed\n45 mph\nSpeed\n1-2\nUnit\nResidential\nUses\nAll Other Uses\n1-2\nUnit\nResidential\nUses\nAll\nOther\nUses\nMinimum distance from access point to property line(s), except shared access points:\n10 ft.\n10 ft.\n10 ft.\n0 ft.\n10 ft.\n0 ft.\n5 ft.\nMinimum distance from access point to intersection:\n150 ft.\n185 ft.\n230 ft.\n50 ft.\n100 ft.\n25 ft.\n50 ft.\nMinimum distance between access points:\n150 ft.\n185 ft.\n230 ft.\n25 ft.\n50 ft.\n10 ft.\n25 ft.\n(Code 1981, § 30-141; Ord. No. 1544, § 4, 3-19-1979)\n_____"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-156"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

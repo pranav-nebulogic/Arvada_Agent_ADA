@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "units",
+      "resolution",
+      "described",
+      "preceding",
+      "section",
+      "separate"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-40"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-40. - Construction units.",
+    "summary": "The resolution described in the preceding section, a separate resolution or the ordinance\n               creating the improvement district may combine or may divide the proposed project appertaining\n               to the district and any other facilities into suitable construction units for the\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-40. - Construction units.",
+        "a": "The resolution described in the preceding section, a separate resolution or the ordinance\n               creating the improvement district may combine or may divide the proposed project appertaining\n               to the district and any other facilities into suitable construction units for the\n               purpose of letting separate and independent contracts, regardless of the extent of\n               any project constituting an assessment unit and regardless of whether a portion or\n               none of the cost of any project is to be defrayed other than by the levy of special\n               assessments.\n(Code 1981, § 27-41; Ord. No. 551, § 16(C), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-40"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

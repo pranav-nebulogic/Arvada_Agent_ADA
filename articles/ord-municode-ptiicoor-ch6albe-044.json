@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "effective",
+      "date",
+      "vested",
+      "rights",
+      "article",
+      "shall",
+      "five"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-172"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-172. - Effective date; no vested rights.",
+    "summary": "(a)\nEffective date.\nThis article shall be effective five days after publication following final passage\n               by city council, and the requirements of this article shall apply to all applications\n               submitted on or after that date.\n(b)\nInvalid license.\nAny common consumption are…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-172. - Effective date; no vested rights.",
+        "a": "(a)\nEffective date.\nThis article shall be effective five days after publication following final passage\n               by city council, and the requirements of this article shall apply to all applications\n               submitted on or after that date.\n(b)\nInvalid license.\nAny common consumption area license issued for an area that is not within a city\n               council approved entertainment district has no effect and is invalid.\n(c)\nNo entitlement or vested right to licensing.\nNo person shall be deemed to have any entitlement or vested right to licensing under\n               this article by virtue of having received any prior license or permit from the city\n               including, by way of example, but not limited to, any zoning permit, any building\n               permit, or any sales tax license.\n(\nOrd. No. 4804\n, § 1, 6-6-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-172"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

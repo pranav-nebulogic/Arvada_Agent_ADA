@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "technical",
+      "adviser",
+      "board",
+      "shall",
+      "designate",
+      "actuary",
+      "matters"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-74"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-74. - Technical adviser.",
+    "summary": "The board shall designate an actuary who shall be technical adviser to the board on\n               matters regarding the operation of the retirement system on an actuarial basis and\n               who shall perform such other duties as are required in connection therewith. The pension\n              …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-74. - Technical adviser.",
+        "a": "The board shall designate an actuary who shall be technical adviser to the board on\n               matters regarding the operation of the retirement system on an actuarial basis and\n               who shall perform such other duties as are required in connection therewith. The pension\n               fund shall be responsible for payment of any costs incurred therein.\n(Code 1960, § 19-2(H); Code 1981, § 26-30)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-74"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

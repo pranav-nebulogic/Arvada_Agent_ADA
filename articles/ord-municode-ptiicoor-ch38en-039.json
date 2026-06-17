@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "following",
+      "words",
+      "terms",
+      "phrases",
+      "used",
+      "article"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-241"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-241. - Definitions.",
+    "summary": "The following words, terms, and phrases, when used in the article, have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning:\nCity\nmeans the City of Arvada.\nCity manager\nor\nmanager\nmeans the manager of the city or…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-241. - Definitions.",
+        "a": "The following words, terms, and phrases, when used in the article, have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning:\nCity\nmeans the City of Arvada.\nCity manager\nor\nmanager\nmeans the manager of the city or designee thereof.\nCity property\nmeans and includes all real property owned by, leased to, or under the control of\n               the city, including, but not limited to, all public rights-of-way, streets, alleys,\n               thoroughfares, parks, squares, open spaces, trails, non-publicly accessible buildings,\n               and non-publicly accessible spaces.\nLandscaping\nmeans trees, shrubs, vines, plants, hedges, flowers, flowerbeds or other similar\n               vegetation.\nMaintain\nor\nmaintenance\nmeans any and all work performed on landscaping including, but not limited to, planting,\n               watering, pruning, removing, stump grinding, treating for insects or diseases, protecting\n               and enhancing soils, or preserving and protecting during construction.\nPersonal property\nmeans swings, swing-sets, game areas, bike ramps, paths, irrigation systems, sandboxes,\n               fire pits, or other similar items.\nPrivate property\nmeans all land and improvements, including fixtures and appurtenances, located within\n               the property lines of a property that is not owned by the city or another governmental\n               entity.\nProperty owner\nor\nowner\nmeans any person or entity having a legal or equitable interest in privately-owned\n               real property and its fixtures and appurtenances, including the interests of a tenant\n               or lessee.\nRight-of-way\nmeans the entire area between the curb, or street where no curb exists, and the property\n               line of a property, and between the centerline of the alley and the property line\n               of a property.\n(Ord. No.\n4760\n, § 1, 4-19-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-241"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

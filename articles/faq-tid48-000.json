@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-48-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "project",
+      "necessary",
+      "main",
+      "goals",
+      "lake",
+      "arbor",
+      "shore",
+      "stabilization",
+      "Public Improvement Projects - Lake Arbor Restoration"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=48"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/why-is-this-project-necessary",
+    "faq_category_name": "Public Improvement Projects - Lake Arbor Restoration"
+  },
+  "content": {
+    "title": "Why is this project necessary?",
+    "summary": "The main goals of the Lake Arbor Shore Stabilization Project are to 1) repair the eroded shorelines to improve public safety near the trails and 2) remove large sediment deposits within the western pond. In addition, algae and unpleasant odors have been a consistent problem around the lake, especial…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Why is this project necessary?",
+        "a": "The main goals of the Lake Arbor Shore Stabilization Project are to 1) repair the eroded shorelines to improve public safety near the trails and 2) remove large sediment deposits within the western pond. In addition, algae and unpleasant odors have been a consistent problem around the lake, especially during the hot, summer months. In order to mitigate these issues, the project will install features to improve water quality. These include: A stable rock and vegetated shoreline to reduce erosion along the lake's edge Wetland plants and grasses around the lake perimeter More aerators that help elevate oxygen levels to break down algae in the lake"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

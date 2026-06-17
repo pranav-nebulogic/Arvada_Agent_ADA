@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "pay",
+      "rates",
+      "temporary",
+      "acting",
+      "assignments",
+      "employee",
+      "temporarily"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-61"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-61. - Pay rates for temporary acting assignments.",
+    "summary": "(a)\nAn employee may be temporarily assigned in an acting or interim capacity to a position\n               in a higher pay grade than the position the employee normally occupies. If the employee\n               assumes all authority and responsibility for the new position and the assignment exceeds\n  …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-61. - Pay rates for temporary acting assignments.",
+        "a": "(a)\nAn employee may be temporarily assigned in an acting or interim capacity to a position\n               in a higher pay grade than the position the employee normally occupies. If the employee\n               assumes all authority and responsibility for the new position and the assignment exceeds\n               three calendar weeks, the employee will be granted a temporary increase to the step\n               in the new grade based on an assessment of the employee's qualifications, including\n               relevant education, training, experience, and seniority as compared to others in similar\n               positions. This increase cannot be less than the minimum or greater than the maximum\n               rate of the pay grade of the position the employee is filling. Temporary assignment\n               pay will be paid for the full period of the temporary assignment, retroactive to the\n               first day.\n(b)\nIf an employee is serving in a temporary assignment and the employee is due to be\n               considered for a pay increase based on their performance in the position they normally\n               occupy, the employee may be considered for a pay increase upon their return to the\n               normal position and the pay increase will be issued retroactive to the date it was\n               originally due.\n(c)\nIf a temporary acting assignment exceeds a period of 12 months, the employee may be\n               considered for a pay increase upon completion of 12 months in the temporary acting\n               assignment, or at a time designated by the city manager as the annual salary review\n               date.\n(d)\nNotification of acting status and requests for pay increases during a temporary assignment\n               must be made by memorandum from the appointing authority to the director of human\n               resources.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

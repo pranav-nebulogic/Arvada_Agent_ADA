@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "design",
+      "review",
+      "advisory",
+      "committee",
+      "generally",
+      "city",
+      "council",
+      "appoint",
+      "consisting",
+      "seven"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-1-2-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-1. DEVELOPMENT REVIEW BODIES",
+    "division": "DIVISION 8-1-2. ELECTED AND APPOINTED OFFICIALS"
+  },
+  "content": {
+    "title": "8-1-2-4. Design review advisory committee.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-1-2-4. Design review advisory committee.",
+        "a": "A.\tGenerally. City Council shall appoint a Design Review Advisory Committee ('DRC\") consisting of seven members appointed by City Council, to review applications that may be delegated to it of land-use activities and plans that are subject to the Design Guidelines for Olde Town Arvada, for compliance therewith.\nB.\tDuties. Based upon its review, the DRC shall make recommendations to the Director including, but not limited to, recommendations concerning compliance with the Design Guidelines, conditions of approval, or whether or not a waiver from Design Guidelines would be in accordance with the provisions of the Design Guidelines. The DRC is an informal, advisory and consultative body whose determinations, including recommendations, are not binding upon the Director."
+      }
+    ],
+    "ordinance_refs": [
+      "8-1-2-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

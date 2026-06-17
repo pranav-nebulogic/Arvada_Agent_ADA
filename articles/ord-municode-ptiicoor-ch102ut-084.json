@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "use",
+      "water",
+      "usage",
+      "charges",
+      "parks",
+      "street",
+      "median"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-183"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-183. - Use of water usage charges for parks and street median irrigation systems.",
+    "summary": "(a)\n$0.03 per 1,000 gallons for all water sold shall be allocated for the purpose of replacing\n               or improving park irrigation systems.\n(b)\nThe fees paid and collected by virtue of this section shall not be used for general\n               or other governmental propriety purposes of the c…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-183. - Use of water usage charges for parks and street median irrigation systems.",
+        "a": "(a)\n$0.03 per 1,000 gallons for all water sold shall be allocated for the purpose of replacing\n               or improving park irrigation systems.\n(b)\nThe fees paid and collected by virtue of this section shall not be used for general\n               or other governmental propriety purposes of the city and shall be used solely to pay\n               for the replacement or improvement of existing parks and street medians.\n(\nOrd. No. 4569, § 11, eff.1-1-2017\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-183"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

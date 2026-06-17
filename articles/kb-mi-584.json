@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "visit",
+      "park",
+      "trail",
+      "trails",
+      "abas",
+      "accessibility",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1266/Visit"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-584",
+    "spreadsheet_id": "MI-584",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Visit",
+    "summary": "The park spans 80 acres and features nearly 2 miles of accessible nature trails, including a popular paved Interpretive Trail and a mulch trail to Oberon Lake overlook, ideal for sunset views. The 3,000-square-foot Nature Center offers interactive exhibits and educational programs for all ages, while the 25,000-square-foot demonstration garden showcases native plants and sustainable gardening practices.",
+    "body": "## Explore the Park\n\nSpanning 80-acres, the park offers nearly 2 miles of nature trails winding through wetland and prairie ecosystems. The most popular trail is the paved Interpretive Trail, along with the mulch trail leading to the Oberon Lake overlook. The park’s trails meet ABAS accessibility standards and are also stroller friendly. Tip: stay for sunset and enjoy the gorgeous westward mountain views. [Download the printable map](/DocumentCenter/View/5507/Park-Map-suitable-for-printing).\n\n## Drop in to the Nature Center\n\nOur 3,000-square-foot facility features hands-on displays, wildlife exhibits, a kids’ activity area, classrooms and meeting spaces. From our augmented reality sandbox to a beaver lodge, there’s something for everyone to discover.  [Get Directions](/1255)\n\n## Register for a Public Program\n\nWe offer a variety programs designed to connect everyone – from toddlers to adults – with the wonder of nature. From nature storytime to practical gardening workshops to nature art classes, you can find something for the whole family to enjoy. [Register Now](https://secure.rec1.com/CO/arvada-co/catalog)\n\n## Visit the Demonstration Garden\n\nWander through 25,000 square feet of a beautiful water-conserving demonstration garden where visitors can discover native and regionally suited plants and wildlife. In collaboration with City’s park maintenance and Master Gardeners, we provide information on invasive species, [plant recommendations](https://www.arvadaco.gov/DocumentCenter/View/195/City-of-Arvada-Plant-List-PDF), habitat-friendly options, and best practices to ensure a sustainable and beautiful garden.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

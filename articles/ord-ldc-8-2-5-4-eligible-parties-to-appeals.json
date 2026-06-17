@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "eligible",
+      "parties",
+      "appeals",
+      "generally",
+      "administrative",
+      "decisions",
+      "under",
+      "code",
+      "brought",
+      "only"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-5-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-5. ADMINISTRATIVE APPEALS"
+  },
+  "content": {
+    "title": "8-2-5-4. Eligible parties to appeals.",
+    "summary": "A.\tGenerally. Administrative appeals of decisions under this Code may be brought only by eligible parties.\nB.\tAutomatic Eligibility.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-5-4. Eligible parties to appeals.",
+        "a": "A.\tGenerally. Administrative appeals of decisions under this Code may be brought only by eligible parties.\nB.\tAutomatic Eligibility. A person or entity is an \"eligible party\" if the person or entity submits credible evidence to the City that such entity is:\n  1.\tThe Applicant, or the owner of the subject property (if different);\n  2.\tAny contiguous property owner;\n  3.\tAny owner of property that is located directly across a street or alley from the subject property, unless the street right-of-way is 76 feet or greater in width;\n  4.\tAny property owner who received mailed notice of an application for which a neighborhood meeting was required, and 1) attended the neighborhood meeting; 2) provided written comments to the Director before the Director's decision; or 3) received mailed notice of public hearing and either participated in the public hearing or provided written comments to the Director at or before the public hearing.\nC.\tDiscretionary Eligibility. The Director may determine that any other person or entity is an \"eligible party\" if, after consultation with the City Attorney, the Director finds that sufficient credible information has been presented to the City that the person or entity would be more likely than not to have standing to bring an action under C.R.C.P. 106 with respect to the decision of the Appellate Body."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-5-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

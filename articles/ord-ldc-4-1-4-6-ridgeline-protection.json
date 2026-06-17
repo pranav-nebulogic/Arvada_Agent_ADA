@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "ridgeline",
+      "protection",
+      "residential",
+      "dwellings",
+      "ridgelines",
+      "identified",
+      "through",
+      "development",
+      "review",
+      "process"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-4-6"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-4. NATURAL HAZARDS AND ENVIRONMENTALLY-SENSITIVE AREAS"
+  },
+  "content": {
+    "title": "4-1-4-6. Ridgeline protection.",
+    "summary": "Residential dwellings on ridgelines identified through the development review process shall be sited and the buildings designed so as to not be prominent above any such ridgeline.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-4-6. Ridgeline protection.",
+        "a": "Residential dwellings on ridgelines identified through the development review process shall be sited and the buildings designed so as to not be prominent above any such ridgeline. A reduction in bulk or massing of the dwelling may be required, including limiting the height to one story and other suitable methods. Maintaining existing on-lot vegetation to provide a continuous screen or backdrop for the dwelling is also a suitable method.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-4-6"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

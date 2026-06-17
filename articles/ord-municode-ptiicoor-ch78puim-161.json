@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "insurance",
+      "before",
+      "municipal",
+      "general",
+      "contractor",
+      "license",
+      "granted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-186"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-186. - Insurance.",
+    "summary": "Before a municipal general contractor's license is granted, the applicant shall file\n               certificates of insurance and additional insured endorsements with the city in accordance\n               with standards established by the risk management division and in accordance with\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-186. - Insurance.",
+        "a": "Before a municipal general contractor's license is granted, the applicant shall file\n               certificates of insurance and additional insured endorsements with the city in accordance\n               with standards established by the risk management division and in accordance with\n               the following insurance requirements:\n(1)\nAll coverage must be written with carriers holding a minimum A.M. Best rating of A-:VII,\n                  and authorized to do business in Colorado.\n(2)\nCoverage shall be primary, and any insurance held by the City of Arvada is excess\n                  and non-contributory.\n(3)\nThe policy limits shall be as follows:\na.\nThe limit for each occurrence shall be not less than $1,000,000.00. Costs of defense\n                  shall not be included within such limits or, if they are so included, the minimum\n                  limits shall be $1,000,000.00 combined single limits.\nb.\nThe general aggregate limit on amounts payable pursuant to the policy shall be unlimited,\n                  or at least $2,000,000.00.\n(4)\nThe policy shall include the city as an additional insured. The city relies on and\n                  does not waive, or intend to waive by this requirement, the monetary limitations or\n                  any other rights, immunities, and protections provided by the Colorado Governmental\n                  Immunity Act, C.R.S § 24-10-101 et seq., as from time-to-time amended, or otherwise\n                  available to the city.\n(5)\nThe insurer shall give the city notification of any cancellation or termination by\n                  refusal to renew the policy or of any change in coverage of the policy in the manner\n                  provided by law. If no such notification is provided by law, the insurer shall give\n                  the city at least 30 days' prior written notification of any cancellation or termination\n                  by refusal to renew the policy or of any change in coverage of the policy, unless\n                  cancellation or termination is for nonpayment of premium, in which case the industry\n                  standard of ten days prior written notification shall apply.\n(6)\nThe municipal general contractor shall be solely responsible for any deductible losses\n                  under the policy.\n(7)\nIf the policy is a claims-made policy, the policy shall provide the municipal general\n                  contractor the right to purchase, upon cancellation or termination by refusal to renew\n                  the policy, an extended reporting period of not less than two years. The municipal\n                  general contractor agrees to purchase such an extended reporting period.\n(8)\nIf the policy is a claims-made policy, the policy shall give the city the right to\n                  purchase the extended period described in subsection (6) of this section if the municipal\n                  general contractor fails to purchase such an extended reporting period as required\n                  by this contract. The city's exercise of such right shall not relieve the municipal\n                  general contractor of any liability for its failure to purchase such as extended reporting\n                  period as required by this subsection.\n(9)\nIf the policy is a claims-made policy, the retroactive date of any such renewal of\n                  such policy shall not later than the date this contract is signed by the parties thereto.\n(10)\nIf the municipal general contractor purchases a subsequent claims-made policy in place\n                  of any prior policy, the retroactive date of such subsequent policy shall be no later\n                  than the date of issuance of a municipal general contractor's license.\n(11)\nBefore a municipal general contractor's license is granted, the applicant shall file\n                  certificates of insurance with the city from a company licensed to do business in\n                  the state evidencing coverage for statutory workmen's compensation. The insurer shall\n                  give the city notification of a cancellation or termination by refusal to renew the\n                  policy or of any change in coverage of the policy in the manner provided by law. If\n                  no notification is provided by law, the insurer shall give the city at least 30 days'\n                  prior written notification of any cancellation or termination by refusal to renew\n                  the policy or of any change on coverage of the policy.\n(Ord. No.\n4749\n, § 1, 1-25-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-186"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

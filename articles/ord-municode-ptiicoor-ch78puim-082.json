@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "negotiability",
+      "bonds",
+      "etc",
+      "subject",
+      "payment",
+      "provisions",
+      "herein"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-83"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-83. - Negotiability of bonds, etc.",
+    "summary": "Subject to the payment provisions herein expressly provided, the bonds, any interest\n               coupons thereto attached and any temporary bonds shall be fully negotiable within\n               the meaning of and for all the purposes of the Uniform Commercial Code—Investment\n               Securi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-83. - Negotiability of bonds, etc.",
+        "a": "Subject to the payment provisions herein expressly provided, the bonds, any interest\n               coupons thereto attached and any temporary bonds shall be fully negotiable within\n               the meaning of and for all the purposes of the Uniform Commercial Code—Investment\n               Securities.\n(Code 1981, § 27-84; Ord. No. 551, § 29(F), 5-14-1964; Ord. No. 636, § 3, 9-6-1966)\nState Law reference—\nUniform Commercial Code, Investment Securities, C.R.S. § 4-8-101 et seq.; bonds negotiable,\n               C.R.S. § 31-25-535."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-83"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

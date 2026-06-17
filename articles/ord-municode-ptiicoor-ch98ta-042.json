@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "violations",
+      "summons",
+      "complaint",
+      "civil",
+      "recourse",
+      "penalty",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-93"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-93. - Violations; summons and complaint; civil recourse; penalty.",
+    "summary": "(a)\nIt shall be a violation of this chapter to fail to perform any applicable affirmative\n               duty specified in this chapter including, but not limited to the:\n(1)\nFailure of any person engaged in business in the city to obtain a license;\n(2)\nFailure of any taxpayer to file a timely retur…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-93. - Violations; summons and complaint; civil recourse; penalty.",
+        "a": "(a)\nIt shall be a violation of this chapter to fail to perform any applicable affirmative\n               duty specified in this chapter including, but not limited to the:\n(1)\nFailure of any person engaged in business in the city to obtain a license;\n(2)\nFailure of any taxpayer to file a timely return or to make timely payment of any total\n               tax liability;\n(3)\nFailure of any resident individual or business to comply with the registration requirements\n               for automotive vehicles;\n(4)\nMaking of any false or fraudulent statement by any person in any return, claim for\n               refund, or hearing; or\n(5)\nEvasion of collection of any tax by any person or the aiding or abetting of any other\n               person in an attempt to evade the timely payment of tax due.\n(b)\nThe finance director may direct the issuance of a complaint and summons to appear\n               before the municipal court of the city to any person who may be in violation of this\n               chapter or of the rules and regulations promulgated by the finance director.\n(c)\nNothing in this chapter shall limit the ability of the city to collect taxes in a\n               civil suit.\n(d)\nViolations of this chapter shall be punishable by a fine or imprisonment or both pursuant\n               to the limits established in\nsection 1-5\n. Each and every 24 hour continuation of any violation shall constitute a distinct\n               and separate offense.\n(Code 1981, § 31-63.2; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-93"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

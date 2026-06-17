@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "assault",
+      "harassment",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "commit"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-32"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-32. - Assault and harassment.",
+    "summary": "(a)\nAssault.\nIt shall be unlawful for any person to commit assault. A person commits assault if\n               he knowingly or recklessly causes bodily injury to another. This section shall not\n               apply where serious bodily injury results, a deadly weapon is used, or the assault\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-32. - Assault and harassment.",
+        "a": "(a)\nAssault.\nIt shall be unlawful for any person to commit assault. A person commits assault if\n               he knowingly or recklessly causes bodily injury to another. This section shall not\n               apply where serious bodily injury results, a deadly weapon is used, or the assault\n               is otherwise felonious.\n(b)\nHarassment.\nIt shall be unlawful for any person to commit harassment. A person commits harassment\n               if, with intent to harass, annoy, or alarm another person, he or she:\n(1)\nStrikes, shoves, kicks, or otherwise touches a person or subjects him to physical\n               contact; or\n(2)\nIn a public place directs obscene language or makes an obscene gesture to or at another\n               person; or\n(3)\nFollows a person in or about a public place; or\n(4)\nDirectly or indirectly initiates communication with a person or directs language toward\n               another person, anonymously or otherwise, by telephone, telephone network, data network,\n               text message, instant message, computer, computer network, computer system, or other\n               interactive electronic medium in a manner that threatens bodily injury or property\n               damage, or makes any comment, request, suggestion, or proposal by telephone, computer,\n               computer network, computer system, or other interactive electronic medium that is\n               obscene; or\n(5)\nMakes a telephone call or causes a telephone to ring repeatedly, whether or not a\n               conversation ensues, with no purpose of legitimate conversation; or\n(6)\nMakes repeated communications at inconvenient hours that invade the privacy of another\n               and interfere in the use and enjoyment of another's home or private residence or other\n               private property; or\n(7)\nRepeatedly insults, taunts, challenges, or makes communications in offensively coarse\n               language to another in a manner likely to provoke a violent or disorderly response.\n(c)\nAs used in subsection (a), \"bodily injury\" shall mean physical pain of any degree\n               or duration; illness; or any impairment of physical or mental condition.\n(d)\nAs used in subsection (b), unless the context requires otherwise, \"obscene\" has the\n               meaning set forth in C.R.S. 18-9-111(1.5), as may be from time to time amended.\n(Code 1960, § 17-8; Code 1981, § 21-1; Ord. No. 2939, § 1, 12-7-1992; Ord. No. 3377,\n               § 1, 7-7-1997;\nOrd. No. 4046, § 1, 1-8-2007\n; Ord. No. 4251, § 1, 2-7-2011;\nOrd. No. 4820\n, § 1, 10-17-2022)\nState Law reference—\nAssaults, C.R.S. § 18-3-201 et seq.; harassment, C.R.S. § 18-9-111."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-32"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "olde",
+      "town",
+      "transit",
+      "parking",
+      "street",
+      "vance",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/571/Olde-Town-Transit-Hub"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-374",
+    "spreadsheet_id": "MI-374",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Olde Town Transit Hub",
+    "summary": "The Olde Town Transit Hub, located at 5575 Vance Street, offers 600 parking spaces for RTD passengers and visitors, with free parking currently available while a utilization study is conducted. Users must register their vehicle license plate numbers to park in the Hub, with specific zone numbers and time limits depending on the purpose of parking, such as visiting Olde Town or using public transit. Registration can be done via a mobile app or kiosks located within the Hub.",
+    "body": "The Olde Town Hub is located at 5575 Vance Street. The Hub has a total of 600 parking spaces shared between RTD passengers and visitors to Olde Town. You can enter the Hub from Vance Street and from Olde Wadsworth Boulevard.\n\nIf you are visiting Olde Town, there are two options for parking:\n\n- Street/lot parking in Olde Town\n- Olde Town Hub for longer term parking\n\nIf you are an RTD passenger, you should only utilize parking in the Hub.\n\n## Parking in the Hub\n\nUsers can park in any open, unrestricted parking space in the Hub. All vehicles parking in the Hub require registration. **Parking in the Hub is FREE while a utilization study is being completed to determine future services and pay rates.**\n\n![Parking Garage Specific Map](/ImageRepository/Document?documentID=727 \"Parking Garage Specific Map\")\n\n## I Am Parking in the Hub to:\n\n| Visit Olde Town | Ride the bus / train | Ride the train to DIA |\n| --- | --- | --- |\n| **Zone Number 1001:** use this number when registering your vehicle | **Zone Number 1002**: use this number when registering your vehicle | **Zone Number 1003**: use this number when registering your vehicle |\n| **Levels**: Any level | **Levels**: Any level | **Levels**: Any level |\n| **Time Limit**: 4 hours | **Time Limit**: Initial session is up to 12 hours, additional time may be added as necessary | **Time Limit**: Up to 30 days |\n\nPlease note: Parking garage is monitored at all times. All vehicle license plate numbers must be registered. Unauthorized parking and parking beyond designated purpose and time limits will be cited and may be impounded. For more information and to see alternative options to the Olde Town Transit Hub that do not require daily registration, please see a list of park-and-rides on the RTD website.\n\n## Registering Your Vehicle\n\n**Parking in the Hub is FREE for now**; however, you will need to register your vehicle license plate number to park there. There are **two**ways to register your vehicle:\n\n1. Use the **free**mobile app: Sign up at [passportparking.com](https://www.passportparking.com/). Download the app and follow the instructions.\n2. Use a kiosk in the Hub: Register your license plate number and follow instructions. Kiosks are located on:\n   - First Floor: middle of first ramp\n   - Third floor: east end\n   - Fourth floor: west end",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

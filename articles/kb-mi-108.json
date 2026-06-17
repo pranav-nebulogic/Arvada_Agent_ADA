@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "budget",
+      "year",
+      "current",
+      "funds",
+      "major",
+      "operating",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/235/Budget"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-108",
+    "spreadsheet_id": "MI-108",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Budget",
+    "summary": "The City of Arvada employs long-range planning for its major operating funds, preparing a two-year budget alongside a ten-year financial plan to ensure fiscal soundness. The City Council adopted the 2025-2026 Revised Biennial Operating and Capital Budget in October 2025, with a total budget of $382,736,177 for 2024. Minimum fund balances are maintained in each major operating fund to support future financial stability.",
+    "body": "The City of Arvada utilizes long-range planning for each of the City's major operating funds. Specifically, the City prepares a two-year budget and a ten-year financial plan. This method of budgeting is used to determine if future impacts of the current proposed budget are fiscally sound. City Council's adopted budget and fiscal policies require minimum fund balances in each of the major operating funds be maintained. Using the ten-year models, the City is able to test the effects of current financial decisions on future years' financial conditions when approving funding requests throughout the organization.\n\nThe Arvada City Council adopted the 2025-2026 Revised Biennial Operating and Capital Budget in October of 2025. The approved budget for all funds for 2024 is $382,736,177.\n\n## 2025-2026 Biennial Operating and Capital Budget\n\n- [2025-2026 Revised Biennial Operating and Capital Budget (PDF)](/DocumentCenter/View/6875/2025-2026-Revised-Biennial-Operating-and-Capital-Budget-PDF)\n\n## 2023-2024  Biennial Operating and Capital Budget\n\n- [City of Arvada 2023-2024 (Adopted) Revised Biennial Operating and Capital Budget (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=6866c32c7ce3b)\n- [The 2023 Line Item Budget (PDF)](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=687686e9d638d)\n\n## Past Budget Documents\n\nView [current and past Budget Documents](https://library.municode.com/co/arvada/munidocs/munidocs?nodeId=budgets).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "protection",
+      "orders",
+      "municipal",
+      "court",
+      "hereby",
+      "authorized",
+      "issue"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-14"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-14. - Protection orders.",
+    "summary": "The municipal court is hereby authorized to issue a temporary or permanent civil protection\n               order against an adult or against a juvenile who is ten years of age or older to prevent\n               assaults and threatened bodily harm, or to prevent domestic abuse, in any proceeding\n    …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-14. - Protection orders.",
+        "a": "The municipal court is hereby authorized to issue a temporary or permanent civil protection\n               order against an adult or against a juvenile who is ten years of age or older to prevent\n               assaults and threatened bodily harm, or to prevent domestic abuse, in any proceeding\n               pending before the municipal court, and in accordance with C.R.S. §§ 13-14-101 and\n               13-14-102.\n(Code 1981, § 18-18; Ord. No. 2846, § 1, 9-3-1991; Ord. No. 3873, § 1, 5-3-2004)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-14"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

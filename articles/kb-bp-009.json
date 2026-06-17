@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "casaletto",
+      "variance",
+      "project",
+      "belle",
+      "clara",
+      "drive",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1320/Casaletto-ADU-Variance"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-009",
+    "spreadsheet_id": "BP-009",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Casaletto ADU Variance",
+    "summary": "Harrison Wilterdink and Rayna Oliker are seeking a variance to build a detached accessory dwelling unit (ADU) at 8430 Clara Belle Drive in Arvada, CO, to accommodate their 73-year-old mother. The proposed ADU will encroach 5 feet into the required 10-foot rear setback due to constraints such as the small lot size and unique shape, with a public hearing scheduled for April 1, 2026. The project aims to optimize the ADU's location and design while preserving existing landscaping and minimizing construction costs.",
+    "body": "![Map showing location of Casaletto ADU project, 8430 Clara Belle Drive](/ImageRepository/Document?documentId=7269)\n\n## DA2026-0014\n\n### **Project Name:** Casaletto ADU variance\n\n- **Project Information:**Variance for ADU placement\n- **Address/Location:**8430 Clara Belle Drive\n- **Planner:** Rob Smetana\n- **Acres:** .146\n- **Use:**Residential\n- **Board of Adjustment Public Hearing:**April 1, 2026\n\nProject Narrative from the Applicant: We, Harrison Wilterdink and Rayna Oliker, the property owners of 8430 Clara Belle Drive in Arvada, CO, are seeking to build a detached (Type A) accessory dwelling unit (ADU) in our backyard pursuant to §5-1-5-2 of Arvada’s Land Development Code (LDC). The ADU’s purpose will be to provide a full-time living space for our mother/mother-in-law, age 73\n\nWe are requesting a variance or major modification wherein the ADU will encroach 5 feet into the 10 foot rear setback of our RN-6 zone. We request this accommodation in order to optimize the ADU location, size, and layout with the following constraints.\n\n1. Constraint: Small lot size.\n2. Constraint: Unique (non-rectangular) lot shape that narrows at the rear.\n3. Constraint: Fire separation distances per building code requirements.\n4. Objective: Make the ADU floor plan large enough to provide all basic functions of a home (bedroom, kitchen, bathroom, laundry, etc.).\n5. Objective: Position and orient the ADU such that we:\n   1. Maximize the amount of private living space in both the ADU and primary residence; for example, by avoiding direct lines of sight between doors and windows, and providing the ADU with its own distinct access point.\n   2. Preserve the lot’s existing backyard shade tree to the greatest extent possible, or preserve space where a successor tree could grow in its place.\n   3. Minimize total ADU build cost, for example, by minimizing the complexity of new utility runs from  existing service lines.\n\n[Learn more about the project.]([NEW PORTAL URL])",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

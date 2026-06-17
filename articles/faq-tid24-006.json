@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-24-007",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "building_permit",
+    "category": "building_permits",
+    "tags": [
+      "get",
+      "copy",
+      "permit",
+      "records",
+      "all",
+      "available",
+      "online",
+      "arvada",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=24"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-can-i-get-a-copy-of-my-permit-records",
+    "faq_category_name": "Building Permits"
+  },
+  "content": {
+    "title": "How can I get a copy of my permit records?",
+    "summary": "All permit records are available online at Arvada Permits Site. You will be able to find all information by searching for the permit by address or by permit number. If the records are not available online you will have to submit an Open Records request, additional fees may apply.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How can I get a copy of my permit records?",
+        "a": "All permit records are available online at Arvada Permits Site. You will be able to find all information by searching for the permit by address or by permit number. If the records are not available online you will have to submit an Open Records request, additional fees may apply."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

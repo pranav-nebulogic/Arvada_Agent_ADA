@@ -1,0 +1,622 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "fee_schedule",
+    "permit_type": "building_permit",
+    "category": "building",
+    "source_urls": [
+      "https://www.arvadaco.gov/DocumentCenter/View/6885"
+    ],
+    "scraped_at": "2026-06-10T12:14:37.098228+00:00",
+    "content_hash": "2d9cbaca25fbdbe6cf3a946ba2899b606a328262de655b598f3d82095bd33fef",
+    "effective_date": "2026-01-01",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "2026 Building Permit Fee Schedule — City of Arvada, CO",
+    "summary": "Administrative fee schedule effective January 1, 2026 for all Building Services permits. Most permit fees are based on project valuation (Table 18-1). Flat-rate fees apply to common residential work (Table 18-5). Contractor license fees are in Table 18-8.",
+    "eligibility": "Anyone applying for a building, mechanical, electrical, plumbing, or specialty permit in Arvada. Tax-exempt organizations (religious, charitable, governmental) may obtain a Colorado '89' exemption certificate to waive use tax.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Determine valuation",
+        "text": "Use the higher of: (a) actual contract value, or (b) the Building Valuation Table 18-2 (91.1% of August 2025 ICC / RS Means 83rd edition 2025). Valuation must include all construction work and permanent equipment — finish work, fixtures, HVAC, elevators, fire systems.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Look up permit fee in Table 18-1",
+        "text": "Apply the tiered fee formula from Table 18-1 to your project valuation. Flat-rate permits (Table 18-5) use a fixed fee instead.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Add plan review fee (if required)",
+        "text": "Residential plan review = 65% of permit fee. Single-family modification = $40 flat. Electrical/plumbing/mechanical not on combination permit = 50% of total permit fee. Commercial = 65% of permit fee.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Apply for permit and pay",
+        "text": "Submit online at arvadapermits.org (SMART License & Permits), by email to Building Permits Division, or in person at City Hall. Pay online, in-person, or by phone. Accepted: cash, check, Visa, MasterCard, Discover, American Express.",
+        "portal_url": "https://aca-prod.accela.com/ARVADA"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Project valuation documentation",
+        "description": "Actual contract value or ICC/RS Means building valuation data including all work and permanent equipment.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "State of Colorado '89' Exemption Certificate (if tax-exempt)",
+        "description": "Required for tax-exempt organizations before pulling permit. One certificate per contract; general contractor obtains and issues to subs.",
+        "where_to_get": "https://tax.colorado.gov/certificates-of-exemption",
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "project_valuation",
+        "label": "Project Valuation",
+        "description": "Total value of construction including all work and permanent equipment. Must be the higher of actual contract value or Table 18-2 valuation.",
+        "example_value": "$25,000",
+        "why_needed": "Used to calculate permit fee from Table 18-1."
+      },
+      {
+        "field_name": "business_license_number",
+        "label": "Arvada Business License Number",
+        "description": "If you are an Arvada Business license holder who pays taxes quarterly, provide this to apply appropriate tax treatment.",
+        "example_value": null,
+        "why_needed": "Determines use tax billing method."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Table 18-1: Permit fee — $1.00 to $500.00",
+        "amount": "$34.00",
+        "rate": null,
+        "config_key": "fees.building.permit.tier1",
+        "notes": "Flat fee for projects up to $500 valuation."
+      },
+      {
+        "name": "Table 18-1: Permit fee — $501 to $2,000",
+        "amount": "$34.00 for first $500 + $3.05 per additional $100",
+        "rate": null,
+        "config_key": "fees.building.permit.tier2",
+        "notes": null
+      },
+      {
+        "name": "Table 18-1: Permit fee — $2,001 to $25,000",
+        "amount": "$79.75 for first $2,000 + $14.00 per additional $1,000",
+        "rate": null,
+        "config_key": "fees.building.permit.tier3",
+        "notes": null
+      },
+      {
+        "name": "Table 18-1: Permit fee — $25,001 to $50,000",
+        "amount": "$401.75 for first $25,000 + $10.10 per additional $1,000",
+        "rate": null,
+        "config_key": "fees.building.permit.tier4",
+        "notes": null
+      },
+      {
+        "name": "Table 18-1: Permit fee — $50,001 to $100,000",
+        "amount": "$654.25 for first $50,000 + $7.00 per additional $1,000",
+        "rate": null,
+        "config_key": "fees.building.permit.tier5",
+        "notes": null
+      },
+      {
+        "name": "Table 18-1: Permit fee — $100,001 to $500,000",
+        "amount": "$1,004.25 for first $100,000 + $5.60 per additional $1,000",
+        "rate": null,
+        "config_key": "fees.building.permit.tier6",
+        "notes": null
+      },
+      {
+        "name": "Table 18-1: Permit fee — $500,001 to $1,000,000",
+        "amount": "$3,244.25 for first $500,000 + $4.85 per additional $1,000",
+        "rate": null,
+        "config_key": "fees.building.permit.tier7",
+        "notes": null
+      },
+      {
+        "name": "Table 18-1: Permit fee — over $1,000,000",
+        "amount": "$5,669.25 for first $1,000,000 + $3.45 per additional $1,000",
+        "rate": null,
+        "config_key": "fees.building.permit.tier8",
+        "notes": null
+      },
+      {
+        "name": "Use Tax",
+        "amount": null,
+        "rate": "3.46% on 58% of project valuation (materials portion)",
+        "config_key": "fees.use_tax",
+        "notes": "Collected per Arvada City Code §98-84 on every permit. Materials/labor split: 58%/42% per RS Means 2025 Denver area index. Present permit to vendor to avoid paying sales tax at point of purchase."
+      },
+      {
+        "name": "Table 18-3: Temporary Electric / Construction Power",
+        "amount": "$60.00",
+        "rate": null,
+        "config_key": "fees.building.misc.temp_electric",
+        "notes": null
+      },
+      {
+        "name": "Table 18-3: Sign — Attached",
+        "amount": "$30.00",
+        "rate": null,
+        "config_key": "fees.building.misc.sign_attached",
+        "notes": null
+      },
+      {
+        "name": "Table 18-3: Sign — Detached",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.misc.sign_detached",
+        "notes": null
+      },
+      {
+        "name": "Table 18-3: Sign — with electrical",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.misc.sign_electrical",
+        "notes": "Excludes disconnect/reconnect."
+      },
+      {
+        "name": "Table 18-3: Commercial Demolition — Minor Interior",
+        "amount": "$67.00",
+        "rate": null,
+        "config_key": "fees.building.misc.demo_commercial_minor",
+        "notes": null
+      },
+      {
+        "name": "Table 18-3: Commercial Demolition — Major Building",
+        "amount": "$136.00",
+        "rate": null,
+        "config_key": "fees.building.misc.demo_commercial_major",
+        "notes": null
+      },
+      {
+        "name": "Table 18-3: Temporary Construction / Sales Trailer",
+        "amount": "$220.00",
+        "rate": null,
+        "config_key": "fees.building.misc.temp_trailer",
+        "notes": null
+      },
+      {
+        "name": "Table 18-3: Temporary membrane structures, tents, canopies",
+        "amount": "$80.00 per installation/event",
+        "rate": null,
+        "config_key": "fees.building.misc.tent",
+        "notes": null
+      },
+      {
+        "name": "Table 18-3: Inspections outside normal business hours",
+        "amount": "$80.00 per hour (2-hour minimum)",
+        "rate": null,
+        "config_key": "fees.building.misc.inspection_after_hours",
+        "notes": "Or total hourly cost to city if higher, including supervision, overhead, equipment, wages, and benefits."
+      },
+      {
+        "name": "Table 18-3: Reinspection fee",
+        "amount": "$125.00",
+        "rate": null,
+        "config_key": "fees.building.misc.reinspection",
+        "notes": "Per Chapter 18 of the Arvada City Code."
+      },
+      {
+        "name": "Table 18-3: Additional plan review (changes/revisions)",
+        "amount": "$80.00 per hour (1-hour minimum)",
+        "rate": null,
+        "config_key": "fees.building.misc.plan_review_additional",
+        "notes": "For changes, additions, revisions, or deferred submittals."
+      },
+      {
+        "name": "Table 18-3: New permit after suspension/abandonment",
+        "amount": "50% of original permit fee",
+        "rate": null,
+        "config_key": "fees.building.misc.permit_reissue",
+        "notes": null
+      },
+      {
+        "name": "Table 18-3: Contractor change on existing permit",
+        "amount": "$100.00 per hour",
+        "rate": null,
+        "config_key": "fees.building.misc.contractor_change",
+        "notes": null
+      },
+      {
+        "name": "Table 18-3: Permit Reactivation Fee",
+        "amount": "$100.00",
+        "rate": null,
+        "config_key": "fees.building.misc.reactivation",
+        "notes": "Must meet criteria in §18-42(F)(Exception 1)."
+      },
+      {
+        "name": "Table 18-3: Temporary Certificate of Occupancy (TCO)",
+        "amount": "$500.00",
+        "rate": null,
+        "config_key": "fees.building.misc.tco",
+        "notes": "$150 refunded if CO issued before TCO expiration. Extensions charged at same rate."
+      },
+      {
+        "name": "Table 18-4: Foundation Only — One- and two-family",
+        "amount": "$285.00",
+        "rate": null,
+        "config_key": "fees.building.foundation.single_family",
+        "notes": null
+      },
+      {
+        "name": "Table 18-4: Foundation Only — Multifamily",
+        "amount": "$425.00",
+        "rate": null,
+        "config_key": "fees.building.foundation.multifamily",
+        "notes": null
+      },
+      {
+        "name": "Table 18-4: Foundation Only — Commercial",
+        "amount": "$710.00",
+        "rate": null,
+        "config_key": "fees.building.foundation.commercial",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Air Conditioners",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.ac",
+        "notes": "Minor electric wiring included; service change/upgrade not included."
+      },
+      {
+        "name": "Table 18-5: Awnings",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.awnings",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Backflow Preventer",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.backflow",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Residential Demolition — Minor Interior",
+        "amount": "$67.00",
+        "rate": null,
+        "config_key": "fees.building.flat.demo_res_minor",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Residential Demolition — Major Building",
+        "amount": "$135.50",
+        "rate": null,
+        "config_key": "fees.building.flat.demo_res_major",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Evaporative Coolers",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.evap_cooler",
+        "notes": "Minor electric wiring included."
+      },
+      {
+        "name": "Table 18-5: Furnace Replacement",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.furnace",
+        "notes": "Minor electric wiring included."
+      },
+      {
+        "name": "Table 18-5: Gas Logs / Inserts",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.gas_logs",
+        "notes": "Minor electric wiring included."
+      },
+      {
+        "name": "Table 18-5: Generator",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.generator",
+        "notes": "Minor electric wiring included."
+      },
+      {
+        "name": "Table 18-5: Heat Pumps / Mini-Split",
+        "amount": "$81.00",
+        "rate": null,
+        "config_key": "fees.building.flat.heat_pump",
+        "notes": "Minor electric wiring included."
+      },
+      {
+        "name": "Table 18-5: Hot Tubs & Above-Ground Pools",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.hot_tub",
+        "notes": "In-ground pools use Table 18-1."
+      },
+      {
+        "name": "Table 18-5: House Moving",
+        "amount": "$226.00",
+        "rate": null,
+        "config_key": "fees.building.flat.house_moving",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Replacement Windows (no structural alterations)",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.windows",
+        "notes": "If structural alterations required, use Table 18-1."
+      },
+      {
+        "name": "Table 18-5: Residential Electrical Service Change",
+        "amount": "$60.00",
+        "rate": null,
+        "config_key": "fees.building.flat.electrical_service",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Residential Elevator or Dumbwaiter/Chairlift",
+        "amount": "$135.50",
+        "rate": null,
+        "config_key": "fees.building.flat.elevator",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Residential Energy Storage System (ESS)",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.ess",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Residential EV Charger",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.ev_charger",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Siding",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.siding",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Solar Hot Water",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.solar_hot_water",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Solar Photovoltaic Panels",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.solar_pv",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Water Heaters",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.water_heater",
+        "notes": "Minor electric wiring included."
+      },
+      {
+        "name": "Table 18-5: Wood Burning Stoves",
+        "amount": "$55.00",
+        "rate": null,
+        "config_key": "fees.building.flat.wood_stove",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: More than one appliance installed",
+        "amount": "$82.50",
+        "rate": null,
+        "config_key": "fees.building.flat.multi_appliance",
+        "notes": "Minor electric wiring included for each."
+      },
+      {
+        "name": "Table 18-5: Change of Use Permit",
+        "amount": "$150.00",
+        "rate": null,
+        "config_key": "fees.building.flat.change_of_use",
+        "notes": null
+      },
+      {
+        "name": "Table 18-5: Manufactured / Modular Homes",
+        "amount": "$285.00",
+        "rate": null,
+        "config_key": "fees.building.flat.manufactured_home",
+        "notes": null
+      },
+      {
+        "name": "Table 18-7: Plan review fee — Residential",
+        "amount": "65% of building permit fee (Tables 18-1 and 18-3)",
+        "rate": null,
+        "config_key": "fees.building.plan_review.residential",
+        "notes": null
+      },
+      {
+        "name": "Table 18-7: Plan review fee — Single-family modification",
+        "amount": "$40.00",
+        "rate": null,
+        "config_key": "fees.building.plan_review.sfr_modification",
+        "notes": null
+      },
+      {
+        "name": "Table 18-7: Plan review — Electrical/plumbing/mechanical (not combination)",
+        "amount": "50% of total permit fee (Tables 18-1 and 18-3)",
+        "rate": null,
+        "config_key": "fees.building.plan_review.mep",
+        "notes": null
+      },
+      {
+        "name": "Table 18-7: Plan review fee — Commercial",
+        "amount": "65% of building permit fee (Tables 18-1 and 18-3)",
+        "rate": null,
+        "config_key": "fees.building.plan_review.commercial",
+        "notes": null
+      },
+      {
+        "name": "Table 18-7: Mastered Permit Plan Review — One- and two-family",
+        "amount": "$211.00",
+        "rate": null,
+        "config_key": "fees.building.plan_review.mastered_sfr",
+        "notes": null
+      },
+      {
+        "name": "Table 18-7: Mastered Permit Plan Review — Multifamily",
+        "amount": "$245.00",
+        "rate": null,
+        "config_key": "fees.building.plan_review.mastered_multifamily",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class A General Contractor License",
+        "amount": "$150.00",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_a",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class B General Contractor License",
+        "amount": "$200.00",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_b",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class C General Contractor License",
+        "amount": "$100.00",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_c",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class D Builder's Subcontractor License",
+        "amount": "$75.00",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_d",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class H Homeowner's 'Limited' Building License",
+        "amount": "$75.00",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_h",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class P Plumbing License (CO State Licensed)",
+        "amount": "No Fee",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_p",
+        "notes": "Registration of CO State Licensed Plumbing Contractors."
+      },
+      {
+        "name": "Table 18-8: Class M Mechanical License",
+        "amount": "$75.00",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_m",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class D Building Moving License",
+        "amount": "$75.00",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_d_moving",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class R Builders Roofing License",
+        "amount": "$75.00",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_r",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class L Limited License",
+        "amount": "50% of regular license fee",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_l",
+        "notes": null
+      },
+      {
+        "name": "Table 18-8: Class E Electrical License (CO State Licensed)",
+        "amount": "No Fee",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_e",
+        "notes": "Registration of CO State Licensed Electrical Contractors."
+      },
+      {
+        "name": "Table 18-8: Class RM Radon Mitigation Professional License",
+        "amount": "No Fee",
+        "rate": null,
+        "config_key": "fees.license.contractor.class_rm",
+        "notes": "Registration of CO State Radon Mitigation Professionals."
+      }
+    ],
+    "timelines": {
+      "review": "Simple permits (roofing, residential plumbing, electrical, mechanical): issued within 1 business day of complete application. Major projects (new single-family, commercial): 4 to 6 weeks for first plan review.",
+      "inspection": "Schedule by 6 am of desired inspection date. Inspections Mon–Fri 8am–4pm. Schedule at arvadapermits.org or call 720-898-7630 (automated line). Someone 18+ must be present.",
+      "total": null
+    },
+    "contact": {
+      "dept": "Building Services",
+      "phone": "720-898-7620",
+      "address": "8101 Ralston Road, Arvada, CO 80002",
+      "config_key": "contact.building_services"
+    },
+    "faqs": [
+      {
+        "q": "How is the permit fee calculated for a $25,000 renovation?",
+        "a": "Using Table 18-1: $401.75 for the first $25,000."
+      },
+      {
+        "q": "How much does a solar permit cost?",
+        "a": "Solar Photovoltaic Panels: $55.00 flat rate (Table 18-5)."
+      },
+      {
+        "q": "How much does an EV charger permit cost?",
+        "a": "Residential EV Charger: $55.00 flat rate (Table 18-5)."
+      },
+      {
+        "q": "How much does a heat pump permit cost?",
+        "a": "Heat Pumps / Mini-Split: $81.00 flat rate (Table 18-5)."
+      },
+      {
+        "q": "What is use tax and how is it calculated?",
+        "a": "Use tax is 3.46% of the materials portion of the project valuation (58% of total). Collected per §98-84. Present your permit to vendors at purchase to avoid paying sales tax at the counter."
+      },
+      {
+        "q": "Can I get a refund if I cancel my permit?",
+        "a": "Yes. If no plan review has started: 100% of plan review fees refunded. If permit issued but no work started: 80% of permit fee, 100% of use tax refunded. Requests must be submitted within 6 months of payment date."
+      }
+    ],
+    "ordinance_refs": [
+      "Chapter 18",
+      "§18-42",
+      "§98-84"
+    ],
+    "related_permit_types": [
+      "electrical_permit",
+      "plumbing_permit",
+      "mechanical_permit",
+      "contractor_license"
+    ]
+  },
+  "transform_model": "direct-from-pdf-tables",
+  "transform_tokens": 0
+}

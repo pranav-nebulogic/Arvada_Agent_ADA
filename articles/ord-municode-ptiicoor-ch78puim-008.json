@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "provisional",
+      "order",
+      "method",
+      "contents",
+      "resolution",
+      "generally",
+      "whenever"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-9"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-9. - Provisional order method; contents of resolution generally.",
+    "summary": "Whenever the council shall be of the opinion that the interest of the city requires\n               any project, the council, by resolution, shall direct the engineer to prepare:\n(1)\nPreliminary plans showing:\na.\nA typical section of the contemplated project; and\nb.\nThe type of material, approximate …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-9. - Provisional order method; contents of resolution generally.",
+        "a": "Whenever the council shall be of the opinion that the interest of the city requires\n               any project, the council, by resolution, shall direct the engineer to prepare:\n(1)\nPreliminary plans showing:\na.\nA typical section of the contemplated project; and\nb.\nThe type of material, approximate thickness and width;\n(2)\nA preliminary estimate of the cost of the project, including incidental costs; and\n(3)\nAn assessment plat showing the:\na.\nArea to be assessed; and\nb.\nAmount of maximum benefits estimated to be assessed against each tract in said assessment\n                  area.\n(Code 1981, § 27-10; Ord. No. 551, § 8(A), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

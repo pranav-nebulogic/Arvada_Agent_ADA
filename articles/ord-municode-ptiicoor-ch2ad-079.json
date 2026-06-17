@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "contents",
+      "disclosure",
+      "provided",
+      "section",
+      "shall",
+      "include",
+      "source"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-412"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-412. - Contents.",
+    "summary": "The disclosure provided for in\nsection 2-411\nshall include the:\n(1)\nSource of any income, including capital gains, whether or not taxable, of the person\n                  making disclosure and of such person's spouse.\n(2)\nLegal description of any interest in real property within the city, or within …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-412. - Contents.",
+        "a": "The disclosure provided for in\nsection 2-411\nshall include the:\n(1)\nSource of any income, including capital gains, whether or not taxable, of the person\n                  making disclosure and of such person's spouse.\n(2)\nLegal description of any interest in real property within the city, or within three\n                  miles of the perimeter of the city limits of the city, held by the person making disclosure\n                  or by such person's spouse.\n(Code 1960, § 2-3.4(b); Code 1981, § 2-4)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-412"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

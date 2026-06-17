@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "approved",
+      "plant",
+      "lists",
+      "generally",
+      "only",
+      "those",
+      "plants",
+      "city",
+      "list",
+      "used"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-4-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-4. CALCULATION OF LANDSCAPE REQUIREMENTS"
+  },
+  "content": {
+    "title": "4-6-4-1. Approved plant lists.",
+    "summary": "A.\tGenerally. Only those plants on the approved City's plant list may be used to meet the standards of this Article. Plants that are listed on the City's prohibited plant list shall not be installed, and the City may require their removal as a condition of development approval.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-4-1. Approved plant lists.",
+        "a": "A.\tGenerally. Only those plants on the approved City's plant list may be used to meet the standards of this Article. Plants that are listed on the City's prohibited plant list shall not be installed, and the City may require their removal as a condition of development approval. Applicants may request that plants that are not listed be included on the approved plant list, and the Director may add them according to the standards in Subsection B.3., below.\nB.\tApproved Plant List.\n  1.\tThe Director shall maintain a list of approved plants by type and water demand.\n  2.\tThe Director may approve proposed plantings that are not on the approved plant list for use in a specific development, based upon evidence presented that the alternative plantings:\n    a.\tMeet the intent and purpose of the proposed landscaping; and\n    b.\tAre suitable to the local climate.\nSuch plantings will be counted as \"approved plants\" for the purposes of the proposed developments compliance with the standards of this Division."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-4-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

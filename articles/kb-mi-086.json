@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "automated",
+      "license",
+      "plate",
+      "reader",
+      "cameras",
+      "alpr",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1451/Automated-License-Plate-Reader-Cameras"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-086",
+    "spreadsheet_id": "MI-086",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Automated License Plate Reader Cameras",
+    "summary": "The Arvada Police Department employs automated license plate reader (ALPR) cameras from various vendors, including Flock Safety, to enhance crime prevention and investigation efforts. These cameras capture essential vehicle information while adhering to strict privacy policies, ensuring data is only used for legitimate law enforcement purposes and is deleted after 30 days unless retained as evidence. The technology aims to improve public safety without infringing on individual rights, as it does not capture personal identifiers or images of individuals.",
+    "body": "The Arvada Police Department uses automated license plate reader (ALPR) cameras from multiple vendors, including Flock Safety, to help prevent, detect, and solve crime in our community. These cameras capture license plates and key vehicle characteristics, such as make, color, and distinguishing features, which allows officers to identify vehicles connected to criminal activity even when plates are missing, altered, or swapped.\n\nALPR technology is an effective investigative tool that enhances public safety while respecting individual rights. The Arvada Police Department’s policies ensure that ALPRs are used responsibly, constitutionally, and with a strong focus on privacy, transparency, and accountability. In addition the below information, see [Flock Safety's Privacy and Ethics web page](https://www.flocksafety.com/privacy-ethics).\n\n---\n\n# **Why We Use ALPR Cameras**\n\nFlock ALPR cameras provide real-time alerts and investigative leads that help officers:\n\n- Locate stolen vehicles\n- Identify suspect vehicles in criminal investigations\n- Find vehicles involved in violent crimes\n- Support investigations of missing or abducted people\n- Reduce the need for high-risk traffic stops or escalating encounters\n\nLicense plates are public information displayed on public roadways. ALPR technology simply automates what an officer could observe manually, while doing so more efficiently and accurately.\n\n---\n\n# **How ALPR Cameras Work**\n\nFlock cameras are placed in fixed locations throughout the city. They capture still images of passing vehicles, including:\n\n- License plate number\n- Vehicle make and color\n- Distinguishing details (e.g., bumper stickers, roof racks, damage, unique modifications)\n\nImages are transmitted securely via encrypted cellular connection and stored in a secure Flock Safety cloud environment.\n\nThe cameras do not capture:\n\n- People/faces\n- Gender\n- Race/ethnicity\n- Video footage\n\nAdditionally, officers cannot search Flock data for the above criteria that the cameras do not capture.\n\n---\n\n# **Our Commitment to Privacy and Civil Rights**\n\nThe Arvada Police Department respects the rights of all community members. Our use of ALPR cameras is governed by strict policies that ensure constitutional use and protect against misuse.\n\nKey privacy protections include:\n\n- Data may only be accessed for legitimate law enforcement purposes.\n- All usage is logged and auditable.\n- Data is automatically deleted after 30 days, unless it becomes evidence in a criminal investigation.\n- ALPR technology does not track individuals or capture personal identifiers.\n\nOur full ALPR policy (Policy Manual 460) is publicly available on the [City of Arvada website](https://public.powerdms.com/APD10/documents/819542).\n\n---\n\n## **Common Questions**\n\n### **What data does Flock capture?**\n\nFlock ALPRs capture still images of passing vehicles including:\n\n- License plate number\n- Vehicle make and color\n- Unique features (stickers, damage, cargo racks, etc.)\n- The date, time, and location of the image\n\nThey do **not** capture the identity of occupants.\n\n### **What is Flock data used for?**\n\nALPR data supports:\n\n- Criminal investigations\n- Locating missing or endangered persons\n- Real-time alerts for vehicles involved in crime (e.g. National Crime Information Center, Colorado Crime Information Center, Colorado Bureau of Investigation alerts, etc.)\n- Locating stolen vehicles\n- Safety and crime-prevention efforts\n\nData **cannot** be used for immigration enforcement, traffic enforcement based solely on ALPR hits, or any non-law enforcement purpose.\n\n### **How long is ALPR data stored?**\n\nAll data is automatically deleted after 30 days, unless it is specifically retained as evidence in an ongoing criminal investigation. This short retention period balances public safety needs with strong privacy protections.\n\n### **Who owns and stores the data?**\n\nAll ALPR data is owned by the Arvada Police Department. Flock Safety stores the data securely on behalf of the department, but never sells or shares data with third parties.\n\n### **Who can access the data?**\n\nAccess is strictly limited to authorized personnel who have completed required training. Every search is logged and subject to supervisory review.\n\nOther law enforcement agencies may request access only if:\n\n- They are a participating Flock partner agency\n- The request is connected to an active criminal investigation\n- Their use complies with all legal and policy requirements\n\n### **What safeguards prevent misuse?**\n\nThe Arvada Police Department has multiple layers of oversight:\n\n- Mandatory training for all users\n- Routine audits system access and searches\n- Restricted permissions based on job function\n- Automatic data deletion after 30 days, if not evidence in a criminal investigation\n- Strict policy compliance required for all personnel\n\nAny misuse is investigated and subject to disciplinary action.\n\n---\n\n## **Transparency and Accountability**\n\nTo maintain trust and provide visibility into how ALPR technology is used in Arvada, the department maintains a public [Flock Transparency Portal](https://transparency.flocksafety.com/arvada-co-pd). The portal includes:\n\n- The number of cameras in use\n- Organizations that can access Arvada Flock data\n- Data on system searches\n- Statistics on the volume of vehicles photographed\n- Policy information\n- Additional FAQs and real examples of its use\n\nThe Flock Transparency Portal is automatically updated on a daily basis.\n\n---\n\n# **Questions?**\n\nIf you have additional questions about ALPR technology or Arvada PD policies, please contact the Arvada PD Public Information Office at (720) 898-6668, or email [[email protected]](/cdn-cgi/l/email-protection#b9d8cbcfd8ddd8c9d6d5d0dadcc9d0d6f9d8cbcfd8ddd897d6cbde).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "warrants",
+      "court",
+      "bench",
+      "failure",
+      "issued",
+      "municipal",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/409/Warrants"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-591",
+    "spreadsheet_id": "MI-591",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Warrants",
+    "summary": "The Municipal Court issues bench warrants for individuals who fail to appear in court or comply with court orders, requiring them to post bail for release. To clear a warrant, individuals must visit the Municipal Court during designated hours or turn themselves in at a police department after hours, where they can post the required bond. Minors must be accompanied by a parent or guardian, and some warrants may only be addressed at police departments within Jefferson County.",
+    "body": "As a courtesy, the Municipal Court sends notification letters to people for whom judges have issued bench warrants. Bench warrants are court orders to the police to arrest someone and place them in custody until the Court reconvenes. Municipal Court warrants are issued for one's failure to appear in court at a scheduled court date as promised in writing, or for their failure to comply with other orders of the Court. The judge issuing the warrant will set a dollar amount of bail. People must post a bond in the amount of the bail to secure their release from custody.\n\n## Service\n\nTo clear a warrant, please report to the Municipal Court at 8101 Ralston Road and check in with a court clerk. Warrant clearance hours are Tuesday, Wednesday or Thursday at 9 am.\n\nIf you are under the age of 18 years old, you must be accompanied by a parent or legal guardian to clear a warrant.\n\n## After-Hours Warrant Clearing\n\nIf you are arrested or want to clear a warrant after hours, you will need to turn yourself in at any police department and you will be required to post a bond in the amount ordered on the warrant. Please note, some warrants are only valid in Jefferson County, and you may only be able to take care of them at a police department in that county. For example, if the bond is ordered at $500, it may be posted in the following ways:\n\n- Pay the full amount in cash, either by the defendant or another person (which will be returned in full if all subsequent court appearances and obligations are met).\n- Through the services of a Surety Bail Bonding Agency. In this method, the bondsman secures the release of a person from custody and pledges to assure their future appearance before the Court. In return, a non-refundable premium is paid to the bail bondsman. The contract between an individual and their bail bondsman is a private matter and not subject to the control of the Court.\n\n## Default Judgments\n\nFor information on Default Judgments, see [Municode 54-44](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR_ARTIIMOTRCO_S54-44DEJU).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

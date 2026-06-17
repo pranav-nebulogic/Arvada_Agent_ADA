@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "municipal",
+      "lien",
+      "exclusive",
+      "method",
+      "collection",
+      "procedure",
+      "contained"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH59MULI"
+    ],
+    "scraped_at": "2026-06-10T12:02:54.566113+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 59-5"
+    ],
+    "chapter": "Chapter 59 - MUNICIPAL LIENS"
+  },
+  "content": {
+    "title": "Chapter 59 - MUNICIPAL LIENS — Sec. 59-5. - Municipal lien not exclusive method of collection.",
+    "summary": "The procedure contained in this chapter is not intended to establish an exclusive\n               method for collection of amounts owed to the city, and nothing contained herein shall\n               preclude the city from pursuing other methods of collection, including but not limited\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 59-5. - Municipal lien not exclusive method of collection.",
+        "a": "The procedure contained in this chapter is not intended to establish an exclusive\n               method for collection of amounts owed to the city, and nothing contained herein shall\n               preclude the city from pursuing other methods of collection, including but not limited\n               to judicial foreclosure of municipal liens. Such liens may be foreclosed upon by the\n               city at any time in the same manner as provided by the laws of the state for judicial\n               foreclosure of municipal liens.\n(\nOrd. No. 4042, § 1, 12-11-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 59-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

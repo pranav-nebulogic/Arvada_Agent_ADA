@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "article",
+      "iii",
+      "fire",
+      "restrictions",
+      "bans",
+      "footnotes",
+      "editor",
+      "note"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH42FIPRPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:36.491905+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 42-100"
+    ],
+    "chapter": "Chapter 42 - FIRE PREVENTION AND PROTECTION"
+  },
+  "content": {
+    "title": "Chapter 42 - FIRE PREVENTION AND PROTECTION — ARTICLE III. - FIRE RESTRICTIONS OR BANS",
+    "summary": "Footnotes:\n--- (\n2\n) ---\nEditor's note—\nOrd. No.\n4739\n, § 4, adopted Sept. 14, 2020, repealed former art. III, §§ 42-100—42-107, and enacted\n               a new art. III as set out herein. Former art. III pertained to similar subject matter\n               and derived from Ord. No.\n4602\n, § 4, adopt…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "ARTICLE III. - FIRE RESTRICTIONS OR BANS",
+        "a": "Footnotes:\n--- (\n2\n) ---\nEditor's note—\nOrd. No.\n4739\n, § 4, adopted Sept. 14, 2020, repealed former art. III, §§ 42-100—42-107, and enacted\n               a new art. III as set out herein. Former art. III pertained to similar subject matter\n               and derived from Ord. No.\n4602\n, § 4, adopted August 21, 2017."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 42-100"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

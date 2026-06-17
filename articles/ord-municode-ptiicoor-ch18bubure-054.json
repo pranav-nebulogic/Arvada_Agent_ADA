@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "exposure",
+      "category",
+      "hereby",
+      "amended",
+      "adding",
+      "second"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-182"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-182. - I.R.C. Section R301.2.1.4, Exposure category.",
+    "summary": "Section R301.2.1.4. Exposure category,\nis hereby amended by adding a second paragraph to read as follows:\n\"\nR301.2.1.4. Exposure category.\nThe building official may accept an exposure category from a qualified engineer,\n                  licensed with the state, provided a detailed analysis of site …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-182. - I.R.C. Section R301.2.1.4, Exposure category.",
+        "a": "Section R301.2.1.4. Exposure category,\nis hereby amended by adding a second paragraph to read as follows:\n\"\nR301.2.1.4. Exposure category.\nThe building official may accept an exposure category from a qualified engineer,\n                  licensed with the state, provided a detailed analysis of site conditions adjacent\n                  to the proposed project or structure is provided to support the engineer's recommendation.\n                  If an engineer's analysis is not provided, an exposure category of \"C\" shall be used.\"\n(Ord. No.\n4738\n, § 6, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-182"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

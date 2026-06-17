@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "persons",
+      "prohibited",
+      "licensees",
+      "license",
+      "provided",
+      "article",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-177"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-177. - Persons prohibited as licensees.",
+    "summary": "No license provided by this article shall be issued to or held by any:\n(1)\nCorporation, any of whose officers, directors, or stockholders holding ten percent\n                  or more of the stock thereof, are not of good moral character;\n(2)\nPartnership, association, or limited liability company, a…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-177. - Persons prohibited as licensees.",
+        "a": "No license provided by this article shall be issued to or held by any:\n(1)\nCorporation, any of whose officers, directors, or stockholders holding ten percent\n                  or more of the stock thereof, are not of good moral character;\n(2)\nPartnership, association, or limited liability company, and of whose officers, or\n                  any of whose members holding ten percent or more interest therein, are not of good\n                  character and reputation satisfactory to the licensing authority;\n(3)\nPerson employing, assisted by, or financed in whole or in part by any person who is\n                  not of good moral character and reputation satisfactory to the licensing authority;\n(4)\nSheriff, deputy sheriff, police officer, or prosecuting officer or any of the licensing\n                  authority's inspectors or employees; or\n(5)\nPerson unless he is, with respect to his moral character, record, and reputation,\n                  satisfactory to the licensing authority.\n(Code 1981, § 16-17; Ord. No. 3292, § 1, 10-21-1996)\nState Law reference—\nSimilar provisions, C.R.S. § 12-48.5-108."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-177"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

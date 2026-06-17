@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "terrace",
+      "park",
+      "playground",
+      "renovation",
+      "gravel",
+      "play",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1396/Terrace-Park-Playground-Renovation"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-549",
+    "spreadsheet_id": "MI-549",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Terrace Park Playground Renovation",
+    "summary": "The Terrace Park playground in south Arvada will undergo renovation in 2026 as part of the City's Taking Lasting Care (TLC) program. Community feedback was gathered through a survey open until October 31, 2025, and the project timeline includes design review in winter 2025-26, with construction expected to begin in spring/summer 2026 and completion by summer 2026.",
+    "body": "![playground with a small play structure and pea gravel for the surface](/ImageRepository/Document?documentID=6472 \"playground with a small play structure and pea gravel for the surface\")\n\nAs part of the City's Taking Lasting Care (TLC) program, the playground at Terrace Park is getting renovated in 2026! Terrace Park is located at [8625 W 53rd Ave.](https://maps.app.goo.gl/GHQghDxjW6nBQwT4A) in south Arvada.\n\nThe first step in the project was gathering feedback from community members about what they would like to see included in the new playground.\n\nThe Terrace Park playground survey was open through Oct. 31, 2025. Thank you to everyone who participated in the survey! [Sign up for the project email list](https://signup.e2ma.net/signup/2019204/1717219/) to receive updates.\n\n### [Project Email List](https://signup.e2ma.net/signup/2019204/1717219/ \"Terrace Park Email Signup\")\n\n## Playground replacement timeline\n\n- Fall 2025: Survey open for community members to provide feedback\n- Winter 2025-26: The City's Parks and Urban Design team will review the results of the survey and incorporate that feedback in to a Request for Proposal (RFP). After the solicitation closes, the City will review the proposals and select the best consultant based on their proposed design\n- Spring 2026: The City will share the final playground design with the community\n- Spring/Summer 2026: Construction will begin by demolishing the old playground and building the new one\n- Summer 2026: Construction completed and new playground is open to the public\n\nAll dates are approximate and subject to change..",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

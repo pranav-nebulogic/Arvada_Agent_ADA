@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "licensing",
+      "business",
+      "licenses",
+      "contact",
+      "questions",
+      "required",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/251/Licensing"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-299",
+    "spreadsheet_id": "MI-299",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Licensing",
+    "summary": "The City of Arvada requires various licenses and permits for businesses, including a free business license for all businesses operating within the city, which does not expire except for food trucks and short-term rentals. Additional permits are necessary for contractors, commercial developments, food trucks, liquor sales, residential projects, and special events. For specific inquiries, residents can contact the Revenue or Planning departments at designated phone numbers.",
+    "body": "Various licenses and permits are required for doing business in the City of Arvada. Find links to information and resources for the main city permitting and licensing areas on this page. If you have questions specific to business licenses, contact Revenue at 720-898-7100. If you have questions specific to building or development, contact Planning at 720-898-7435.\n\n## [Business License](https://www.arvadaco.gov/253/Business-Licenses)\n\nBusiness licenses are required for all businesses that sell into or are located in Arvada,, including all home based businesses. Business licenses are free and do not expire (except food trucks and short term rentals, which expire annually). Learn more at [Business License](/253/Business-Licenses).\n\n## [Contractor License](/263)\n\nIf you are a contractor who wants to obtain a building permit or city right-of-way permit, you will need to obtain a [contractor's license](/263/Contractor-Licenses).\n\n## [Commercial and Developer Permits](https://www.arvadaco.gov/355/Develop-in-Arvada)\n\nFor more information on permits related to commercial or development endeavors, visit our [Planning and Development page](/1369/Planning-and-Development).\n\n## [Food Trucks](/402)\n\nIf you would like to operate a food truck in Arvada, you are required to hold a business license **and** a food truck permit. Learn more at [Food Trucks](https://www.arvadaco.gov/402/Food-Trucks).\n\n## [Liquor License](/285)\n\nA liquor license is required for special events, bars, restaurants, and other businesses that serve alcohol. Learn more at [Liquor Licenses](https://www.arvadaco.gov/285/Liquor-Licenses).\n\n## [Residential Permits](https://www.arvadaco.gov/782/Residential-Building-Permits)\n\nPermits are required for both interior and exterior residential building projects within the City of Arvada. Learn more at[Residential Building Permits](https://www.arvadaco.gov/782/Residential-Building-Permits).\n\n## [Right-of-Way Permit](https://www.arvadaco.gov/650/Right-of-Way)\n\nGeneral public improvements constructed on public right-of-way, easements and other public property, and utility services on private property between the property line and the building, require a permit. Learn about [permit issuance, licensing requirements and inspections](https://www.arvadaco.gov/650/Right-of-Way).\n\n## [Short Term Rentals](/259)\n\nIf you are proposing to operate a short term rental in your home, in a room or rooms in your home, or in an accessory dwelling unit, you are required to hold a business license**and** a short term rental license. Learn more at [Short Term Rentals](https://www.arvadaco.gov/259/Short-Term-Rentals).\n\n## [Special Event Permit](/663)\n\nIf you are planning to host an event in the city, you will need a special event permit if one or more of the following apply: Event is to be held on public property; event is open to the general public (free or ticketed); event anticipates more than 100 people attending/participating. Learn more at [Special Event Permits](https://www.arvadaco.gov/663/Special-Event-Permits).\n\n## Other Licenses\n\nCertain types of businesses require licensing and permitting through the [City Clerk's Office](/184/City-Clerk). These businesses include: adult-only businesses, kennel licenses, massage parlors, trash hauler licenses, etc.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

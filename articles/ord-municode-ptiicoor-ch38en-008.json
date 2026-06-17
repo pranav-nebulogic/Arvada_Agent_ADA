@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "emergencies",
+      "weather",
+      "related",
+      "events",
+      "noise",
+      "caused",
+      "performance"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-63"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-63. - Emergencies and weather related events.",
+    "summary": "Noise caused in the performance of emergency work for the immediate safety, health,\n               or welfare of the community or individuals of the community, or to restore property\n               to a safe condition in response to hazards involving public safety concerns shall\n               not b…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-63. - Emergencies and weather related events.",
+        "a": "Noise caused in the performance of emergency work for the immediate safety, health,\n               or welfare of the community or individuals of the community, or to restore property\n               to a safe condition in response to hazards involving public safety concerns shall\n               not be subject to the provisions of this chapter. Nothing in this section shall be\n               construed to permit law enforcement, ambulance, fire, snow plows, or other emergency\n               personnel to make excessive noise in the performance of their duties when such noise\n               is clearly unnecessary. Snow removal and other cleanup after weather related events\n               necessary to remedy a safety hazard in compliance with Arvada City Code shall be exempt\n               from the provisions of this chapter.\n(Code 1981, § 19-13; Ord. No. 2208, § 1, 9-16-1985; Ord. No.\n4789\n, § 2, 12-6-2021)\nEditor's note—\nOrd. No.\n4789\n, § 2, adopted Dec. 6, 2021, changed the title of § 38-63 from \"Emergencies\" to read\n               as set out herein."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-63"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

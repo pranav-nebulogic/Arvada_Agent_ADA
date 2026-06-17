@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "intent",
+      "city",
+      "council",
+      "finds",
+      "determines",
+      "declares"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-302"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-302. - Legislative intent.",
+    "summary": "The city council finds, determines, and declares that the smoking of tobacco or of\n               any other plant or weed in certain areas is a form of air pollution that threatens\n               the health, safety, and welfare of the public. The city council has also determined\n               that …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-302. - Legislative intent.",
+        "a": "The city council finds, determines, and declares that the smoking of tobacco or of\n               any other plant or weed in certain areas is a form of air pollution that threatens\n               the health, safety, and welfare of the public. The city council has also determined\n               that secondhand smoke is a cause of disease, including lung cancer, heart disease,\n               respiratory infection, and decreased respiratory function and as such there is no\n               safe level of exposure to secondhand smoke. Furthermore, the city council has determined\n               that according to the National Institutes of Health (\"NIH\"), the use of electronic\n               smoking devices is on the rise. These devices contain and emit a variety of complex\n               chemical substances. The NIH has stated that the vapor from some electronic smoking\n               devices has been found to contain known carcinogens and toxic chemicals. The city\n               council has also determined that there is currently no way of knowing the exact health\n               effects of repeated exposure to electronic smoking device gases, particles, and vapors\n               upon those in close proximity to electronic smoking device users. The city council\n               deems it necessary to prohibit smoking of traditional nicotine products and electronic\n               smoking devices in common areas, public places, and work places except as otherwise\n               permitted by this division. The provisions of this division shall not apply to a residential\n               dwelling unit. This division is intended to enact and adopt smoking regulations that\n               are to be enforced in the Arvada Municipal Court that generally cover the same subject\n               matter as the various provisions of the Colorado Clean Indoor Air Act (HB 06-1175,\n               Part 2 of Article 14, Title 25, C.R.S.), as well as regulating electronic smoking\n               devices.\n(\nOrd. No. 4003, § 1, 6-5-2006\n;\nOrd. No. 4501, § 1, 5-4-2015\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-302"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

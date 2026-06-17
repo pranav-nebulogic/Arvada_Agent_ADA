@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "review",
+      "hearing",
+      "officer",
+      "later",
+      "than",
+      "five",
+      "calendar"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-186"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-186. - Review by hearing officer.",
+    "summary": "Not later than five calendar days after the issuance of a decision under this article,\n               any party may submit to the hearing officer a written request for supplementation,\n               clarification or reconsideration of any issue considered, stating the grounds therefor.\n            …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-186. - Review by hearing officer.",
+        "a": "Not later than five calendar days after the issuance of a decision under this article,\n               any party may submit to the hearing officer a written request for supplementation,\n               clarification or reconsideration of any issue considered, stating the grounds therefor.\n               In the event that such a request is filed, the date of final agency action for purposes\n               of appeal shall be the date of issuance of the supplementation, clarification, reconsidered\n               decision or a notice of refusal to do so. The time limit for issuance by the hearing\n               officer of a supplementation, clarification, reconsideration, or refusal shall be\n               15 calendar days.\n(Code 1981, § 2-151; Ord. No. 3608, §§ 1, 2, 4-3-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-186"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

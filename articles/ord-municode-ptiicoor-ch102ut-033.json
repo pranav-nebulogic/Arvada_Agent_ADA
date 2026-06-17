@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "tank",
+      "load",
+      "water",
+      "supplied",
+      "only",
+      "city",
+      "operated"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-72"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-72. - Tank load water.",
+    "summary": "Tank load water is supplied only from city operated fill stands. Tank load water is\n               a special service the city provides to customers to meet temporary water needs and\n               unusual circumstances. Water supplied is metered automatically at the fill stand to\n               each…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-72. - Tank load water.",
+        "a": "Tank load water is supplied only from city operated fill stands. Tank load water is\n               a special service the city provides to customers to meet temporary water needs and\n               unusual circumstances. Water supplied is metered automatically at the fill stand to\n               each customer. Filling hoses are to be provided by each customer. Tank load water\n               rates are set forth in\nsection 102-175\n.\n(Code 1981, § 33-43.2; Ord. No. 2574, § 1, 11-21-1988;\nOrd. No. 4184, § 1, 10-19-2009\n;\nOrd. No. 4305, § 6, 11-14-2011, eff. 1-1-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-72"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

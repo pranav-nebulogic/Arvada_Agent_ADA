@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "access permit",
+      "traffic control",
+      "right-of-way",
+      "landscape contractor",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/657/ROW-Access-Only"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-001",
+    "spreadsheet_id": "RW-001",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Access Only Permits",
+    "summary": "Permits are required for contractors performing work that necessitates traffic control but does not disturb the right-of-way in Arvada. Only contractors with a valid General Municipal Contractor's license can apply, and they must submit a traffic control plan along with their application through the online Permit Portal. Fees vary based on the work type, and inspections are conducted Monday through Friday, requiring scheduling in advance.",
+    "body": "These permits are required for contractors doing landscape, tree trimming, fencing, guard rail, etc. that need traffic control set up in the City of Arvada street but are not physically disturbing the right-of-way.\n\n## Required licensing\nFor work in the right of way, permits will only be issued to contractors that have a valid active [General Municipal Contractor](https://www.arvadaco.gov/283/Municipal-General-Contractor) ’s license with the City of Arvada. The listed permittee is responsible for all subcontractors and anything that occurs onsite.\n\n## Submitting your application\nContractor applications are completed online through [Permit Portal]([NEW PORTAL URL]). You will be required to upload your submittal documents to apply.\n\n### Required documents\n\nA traffic control plan must be submitted for review. See [traffic control typicals](https://www.arvadaco.gov/DocumentCenter/View/484/Traffic-Control-Guide-PDF) for work on residential streets only. Work performed on a street classified as an arterial or collector will require a site specific traffic control plan.\n\n### Fees\nPermit fees vary for the type of work being completed. Fees will be applied to the permit once the permit has been reviewed, please reference the [adopted fee schedule](https://www.arvadaco.gov/DocumentCenter/View/294/) for a complete list of right-of-way permitting fees.\n\n### Sales & Use Tax\n\nAll sales and use tax will be paid at permit issuance. Please provide the complete job value at the time of application. Once the permit is issued, please use the permit when purchasing goods and materials for your project. If you are an Arvada Business License holder you can submit your license number for quarterly reporting. If the project is tax exempt, you will need to include your project specific tax exempt form.\n\n### Review timelines\nComplete application submittals for water/sewer service permits can take 1-2 business days for full review and processing for approval.\n\n## Permit issuance\nOnce the permit has been reviewed and approved, an email confirmation will be sent to the applicant for payment. Payments can be made by credit card through [Permit Portal]([NEW PORTAL URL]). You can also send checks or money orders to Arvada City Hall attention Engineering, 8101 Ralston Road Arvada, CO 80002.\n\n## Inspections\nInspections are completed on a daily basis Monday through Friday between 8 am and 3 pm, and must be scheduled online by 6 am of the desired day of inspection. To schedule inspections, please visit [Permit Portal]([NEW PORTAL URL]) and login with your Arvada Contractor license number (AECXXXXX) and password.\n\nPre construction meetings are required prior to permit approval for cranes set on a street in moratorium. Once the permit application is received, a municipal inspector will reach out to the applicant to schedule this meeting. The permit will then be approved or denied pending the outcome of the pre construction meeting.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

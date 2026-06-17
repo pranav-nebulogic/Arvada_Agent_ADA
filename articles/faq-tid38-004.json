@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-38-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "arvada",
+      "doing",
+      "prevent",
+      "end",
+      "homelessness",
+      "city",
+      "working",
+      "take",
+      "Homelessness in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=38"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-is-arvada-doing-to-prevent-and-end-homelessness",
+    "faq_category_name": "Homelessness in Arvada"
+  },
+  "content": {
+    "title": "What is Arvada doing to prevent and end homelessness?",
+    "summary": "The City is working to take strategic action to support programs and services that are proven to help individuals and families who are at risk of losing housing stay in housing and/or transition from homelessness to permanent housing. Read more about the City's approach on the Addressing Homelessnes…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What is Arvada doing to prevent and end homelessness?",
+        "a": "The City is working to take strategic action to support programs and services that are proven to help individuals and families who are at risk of losing housing stay in housing and/or transition from homelessness to permanent housing. Read more about the City's approach on the Addressing Homelessness in Arvada page."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

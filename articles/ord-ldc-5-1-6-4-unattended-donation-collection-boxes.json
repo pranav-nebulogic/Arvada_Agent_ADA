@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "unattended",
+      "donation",
+      "collection",
+      "boxes",
+      "minimum",
+      "each",
+      "display",
+      "name",
+      "address",
+      "telephone"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "5-1-6-4"
+    ],
+    "chapter": "Chapter 5 BUILDING DESIGN",
+    "article": "ARTICLE 5-1. BUILDING DESIGN",
+    "division": "DIVISION 5-1-6. SUPPLEMENT STANDARDS FOR NONRESIDENTIAL AND MULTIFAMILY LAND USE"
+  },
+  "content": {
+    "title": "5-1-6-4. Unattended donation collection boxes.",
+    "summary": "A.\tAt a minimum, each bin shall display the name, address and telephone number for the person, business, or organization responsible for placing and maintaining the bin.\nB.\tOnly one bin is permitted per lot, and each bin shall not exceed a footprint of 25 square feet or be taller than six feet in he…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "5-1-6-4. Unattended donation collection boxes.",
+        "a": "A.\tAt a minimum, each bin shall display the name, address and telephone number for the person, business, or organization responsible for placing and maintaining the bin.\nB.\tOnly one bin is permitted per lot, and each bin shall not exceed a footprint of 25 square feet or be taller than six feet in height. Bins shall be made of metal, steel, or similar durable product.\nC.\tNo donation collection bin shall be located on property zoned for residential use, except for places of assembly and public or private elementary, vocational or secondary schools.\nD.\tEach bin shall be located on an improved durable, drainable surface. If placed in a parking area, the bin shall not reduce the number of available parking spaces below the minimum number required for the lot.\nE.\tNo bin shall be placed in the following locations:\n  1.\tWithin a required building setback;\n  2.\tWithin a site visibility triangle;\n  3.\tWithin an access easement;\n  4.\tIn a driveway, sidewalk, or other pedestrian circulation area;\n  5.\tWithin five feet of any fire hydrant;\n  6.\tWithin any fire lane;\n  7.\tWithin required landscaped areas;\n  8.\tIn whole or in part upon any portion of a public-right-of-way or projecting onto or over any part of a public right-of-way; or\n  9.\tOn an undeveloped parcel of land.\nF.\tEach donation collection bin shall be serviced and emptied as needed or within 24 hours of a request by the property owner or City.\nG.\tEach bin shall be enclosed by use of a one-way receiving door and locked so that the contents of the bin may not be accessed by anyone other than those responsible for the retrieval of the contents.\nH.\tEach bin shall clearly display a sign indicating that no donated items, garbage or other debris is to be left outside of the bin.\nI.\tAt the time the bin is removed, the site shall be cleaned, all evidence of its use removed, and left in a condition that minimizes adverse impacts to the site itself and to surrounding properties."
+      }
+    ],
+    "ordinance_refs": [
+      "5-1-6-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "unethical",
+      "acts",
+      "generally",
+      "prohibited",
+      "contingent",
+      "fees",
+      "shall"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 82-24"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS — Sec. 82-24. - Unethical acts generally—prohibited.",
+    "summary": "(a)\nContingent fees.\nIt shall be unethical for any person to be retained, or to retain a person, to solicit\n               or secure a city contract upon an agreement of understanding for a commission, percentage,\n               brokerage, or contingent fee, except for the retention of a bona fide c…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 82-24. - Unethical acts generally—prohibited.",
+        "a": "(a)\nContingent fees.\nIt shall be unethical for any person to be retained, or to retain a person, to solicit\n               or secure a city contract upon an agreement of understanding for a commission, percentage,\n               brokerage, or contingent fee, except for the retention of a bona fide city employee\n               or a bona fide commercial selling agency established for the purpose of securing business.\n(b)\nGifts, gratuities, or kickbacks.\nIt shall be unethical for any person to offer, give, or agree to give any city employee\n               or former city employee a gift, gratuity, or kickback in connection with any procurement\n               process action, advice, decision, or recommendation by that employee or former employee.\n(c)\nInducements.\nIt shall be unethical for any person to make, permit, or allow to be made to a prime\n               or higher-tier contractor or a person associated with a prime or higher-tier contractor\n               a gift, gratuity, or kickback as an inducement for the award of a subcontract or order\n               in connection with a city solicitation, bid, or contract. It shall be unethical for\n               a prime or higher tier contractor to solicit or accept a gift, gratuity, or kickback\n               from a prospective subcontractor in connection with a city solicitation, bid, or contract.\n(d)\nNegotiating employment.\nIt shall be unethical for any bidder or person representing a bidder in a city solicitation\n               to negotiate with or offer employment to a city employee who is participating in that\n               solicitation. It shall be unethical for a contractor to hire or employ a city employee\n               or former employee whom the contractor knows or should know participated in the solicitation\n               that resulted in the work awarded to that contractor within six months of the date\n               of the award contract to that contractor.\n(Ord. No.\n4774\n, § 1, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 82-24"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

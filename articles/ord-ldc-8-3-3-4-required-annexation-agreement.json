@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "required",
+      "annexation",
+      "agreement",
+      "generally",
+      "except",
+      "unilateral",
+      "upon",
+      "election",
+      "requirements",
+      "section"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-3-4"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-3. ANNEXATION AND DISCONNECTION"
+  },
+  "content": {
+    "title": "8-3-3-4. Required annexation agreement.",
+    "summary": "A.\tGenerally.\n  1.\tExcept as to a unilateral annexation or annexation upon election, the requirements of this Section and any additional requirements determined by the City Council shall be contained in a written annexation agreement among the landowner, developer (if applicable), and the City, to b…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-3-4. Required annexation agreement.",
+        "a": "A.\tGenerally.\n  1.\tExcept as to a unilateral annexation or annexation upon election, the requirements of this Section and any additional requirements determined by the City Council shall be contained in a written annexation agreement among the landowner, developer (if applicable), and the City, to be approved by the City and executed by the landowner and developer (if applicable) prior to the final hearing on annexation, and to be executed by the Mayor and attested by the City Clerk promptly after the annexation is effectuated.\n  2.\tAny requirement of this Section as to the contents of an annexation agreement may be waived by the City Council during negotiation of the agreement if the City Council finds that extraordinary circumstances justify the waiver.\nB.\tDedication of Floodplain. Upon annexation, any portion of the area to be annexed situated within the 100-year floodplain for Leyden Creek, Ralston Creek, Van Bibber Creek, Little Dry Creek, Big Dry Creek, or Clear Creek, shall be dedicated to the City.\nC.\tPurchase and Sale of Water Rights; Generally.\n  1.\tPast Annexations. With respect to all property annexed to the City prior to the effective date of this Code, which has or has had at any time after August, 1970, tributary water rights appurtenant thereto, no such property shall be permitted to be connected to public water or sewer service unless and until all such water rights have been conveyed to the City at their current market value, provided; however, that this prohibition shall not apply with respect to any water rights to which the City was given a right of first refusal prior to the effective date of this Section, which it declined to exercise.\n  2.\tAnnexations upon Petition or Election. With respect to all property hereafter annexed to the City upon petition or election, the Annexation Agreement shall contain:\n    a.\tA description of the water rights appurtenant to said property, warranting merchantable title, and an agreement to convey such water rights to the City immediately upon annexation for a stated price, which price shall represent the agreed present market value of such water. Upon the approval of both parties, such agreement may also provide for the lease-back of such water for a stated annual rental until the property is developed; or\n    b.\tAn agreed statement that the property has had tributary water rights appurtenant after June 1, 1974, but that they were sold without offering the City a right of first refusal and that the property is not eligible to receive City water service; or\n    c.\tAn agreed statement that no tributary water rights have been appurtenant since June 1, 1974, to which the City has not been offered a right of first refusal and the property is, therefore, eligible for public water service.\n  3.\tUnilateral Annexations. With respect to all property hereafter annexed to the City by unilateral annexation, no new water taps shall be given to such property until all tributary water rights appurtenant to such land at any time after June 1, 1974 have been conveyed to the City at their current market value; provided, however, this prohibition shall not apply to any water rights sold prior to the effective date of this Section as to which the City was given a right of first refusal that it declined to exercise.\n  4.\tDetermination of Value. The current market value of the water rights to be conveyed to the City pursuant to this Subsection C. shall be as agreed between the property owner and the City; however, in the event that they are unable to agree, they shall jointly designate a qualified and disinterested third-party whose determination shall be final.\n  5.\tWaivers.\n    a.\tIn cases of extreme hardship that have not been self-imposed by the property owner, the City Council may allow water and sewer service connections to property where water rights have previously been sold without honoring the City's rights of first refusal.\n    b.\tIn the event that the City determines it would not be in the best interest of the City to purchase water rights, but it would be in the best interest of the City to annex a subject property anyway, the City may waive the requirement to convey water rights to the City.\nD.\tConveyance of Groundwater Rights. With respect to all property annexed to the City after January 1, 1985, the Annexation Agreement shall contain:\n  1.\tA description of all water rights and well rights associated with or used on said property which diverts water out of the Denver, Arapahoe, and Laramie-Fox Hills aquifers.\n  2.\tAn agreement to convey to the City immediately upon annexation, at no cost to the City, all water rights associated with or used on the property, including but not limited to rights represented by a well permit, well registration, or judicial decree for the diversion of water out of the Denver, Arapahoe and Laramie-Fox Hills aquifers, and all well rights and all rights to other structures associated with the diversion of water out of the Denver, Arapahoe and Laramie-Fox Hills aquifers underlying the property.\n  3.\tAn agreement that immediately upon annexation, the owners of land within the annexed property shall, at no cost to the City, convey to the City, the landowners' consent to the withdrawal by the City of all groundwater in the Denver, Arapahoe, and Laramie-Fox Hills aquifers underlying said property."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-3-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

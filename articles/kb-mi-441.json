@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "residential",
+      "district",
+      "allowed",
+      "development",
+      "acre",
+      "acronyms",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/226/R13-Residential-13-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-441",
+    "spreadsheet_id": "MI-441",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "R13 (Residential 13) District",
+    "summary": "The R13 (Residential 13) District is designated for new residential developments with a density of up to thirteen units per acre, allowing various housing types such as single-family homes, duplexes, and multifamily units. The district includes specific use classifications with allowances for residential, commercial, community, and utility uses, each categorized as allowed by-right, limited, or conditional, with additional regulations outlined in the Land Development Code.",
+    "body": "Intended to allow for new residential development of a variety of housing products up to a density of thirteen (13) units per acre.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#tab2fcf745a-c75f-4f3d-b7a0-3dbc05bd2278_0)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Single-Family Detached | A | N/A |\n| Duplex | L | 3-1-3-2 |\n| Townhome | L | 3-1-3-2 |\n| Multiplex | A | N/A |\n| Multifamily | A | N/A |\n| Cottages, Micro-Homes, or Co-Housing | A | N/A |\n| Boarding, Lodging, or Rooming House | L | 3-1-3-3 |\n| Group Home, FFHA | L | 3-1-3-3 |\n| Group Home for Juvenile Offenders | C | 3-1-3-3 |\n| Group Home, Not Specified Above | C | 3-1-3-3 |\n| Live-Work Unit | L | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#tab2fcf745a-c75f-4f3d-b7a0-3dbc05bd2278_1)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Recreation and Amusement, Indoor | A | N/A |\n| Recreation, Outdoor (other) | A | N/A |\n\n1. [Commercial Uses](#tab2fcf745a-c75f-4f3d-b7a0-3dbc05bd2278_2)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Continuing Care Facility | A | N/A |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#tab2fcf745a-c75f-4f3d-b7a0-3dbc05bd2278_3)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Day Care Center, Adult or Child | C | 3-1-3-6 |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | L | 3-1-3-6 |\n| Private School, Kindergarten, Elementary, Middle, or High | A | N/A |\n\n1. [Industrial, Processing, Recycling, Storage & Disposal Uses](#tab2fcf745a-c75f-4f3d-b7a0-3dbc05bd2278_4)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Resource Extraction (Minerals) | C | 3-1-3-7 |\n\n1. [Utility & Communications Uses](#tab2fcf745a-c75f-4f3d-b7a0-3dbc05bd2278_5)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Major | C | 3-1-3-9 |\n| Utilities, Minor | L | 3-1-3-9 |\n| Overhead Power Lines (110 kV+) | C | 3-1-3-9 |\n| Freestanding Towers | C | Chapter 7 |\n| Other Wireless Communications Facilities | L | Chapter 7 |\n| Solar Garden | L | 3-1-3-9 |\n\n1. [Agriculture Uses](#tab2fcf745a-c75f-4f3d-b7a0-3dbc05bd2278_6)\n\n| Use Classification | Use Allowance | Additional Regulations Found in the Land Development Code |\n| --- | --- | --- |\n| Agriculture, community | L | 3-1-3-10 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

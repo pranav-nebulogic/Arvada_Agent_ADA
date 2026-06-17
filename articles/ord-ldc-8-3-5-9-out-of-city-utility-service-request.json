@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "city",
+      "utility",
+      "service",
+      "request",
+      "generally",
+      "property",
+      "located",
+      "outside",
+      "eligible",
+      "annexation"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-5-9"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-5. SITE DEVELOPMENT AND TEMPORARY USES"
+  },
+  "content": {
+    "title": "8-3-5-9. Out-of-city utility service request.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-5-9. Out-of-city utility service request.",
+        "a": "A.\tGenerally. No property located outside of the City that is eligible for annexation to the City shall be served either water or sewer service by the City until such property is annexed to the City, except that property located in the old Oberon Water District may have one tap per legal parcel in effect as of 1962.\nB.\tApplicability. It is the general policy of the City not to provide water or sewer service to property outside of the City that is not eligible for annexation, except as may be allowed by the procedures set forth in this Section.\nC.\tExceptions. Exceptions to Subsections A. and B. above may be granted where prior agreements with areas or previous districts allow utility service.\nD.\tRequest Filing. A Request for Out-of-City Utility Service shall be submitted to the Director.\nE.\tDirector Review and Recommendation. The Director shall review the Request in light of the Approval Criteria of I., below, and shall distribute the application to the Public Works Director and, as appropriate, to other reviewers in accordance with Section 8-2-3-10, Review by Director. Based on the results of those reviews, the Director shall provide a report to the Planning Commission.\nF.\tPlanning Commission Review and Recommendation. The Planning Commission shall review the Request and make a recommendation to the City Council based on the Approval Criteria of I., below.\nG.\tPayment of Fees Required. All water and sewer fees shall be paid in cash or certified funds prior to the City Council consideration of the Request for Out-of-City Utility Service. If the City Council denies the Request, the City will refund the fees to the property owner.\nH.\tCity Council Review and Decision. After receiving the recommendation of the Planning Commission, the City Council shall consider the Request based on the Approval Criteria of I., below, and shall act to approve, approve with conditions, or deny the Request.\nI.\tApproval Criteria. The City Council may approve a Request for Out-of-City Utility Service if it complies with the following criteria:\n  1.\tIt is in the best interests of the City to provide such service;\n  2.\tAll fees required by subsection G. above have been paid; and\n  3.\tThe property owner agrees to enter into an agreement to annex to the City as provided below.\nJ.\tEffect of Approval—Agreement to Annex. As provided in C.R.S. § 31-12-121, any property owner provided water or sewer service outside of the City shall enter into an agreement to annex to the City which shall include a legal description of the property provided water or sewer service and shall bind the property owner's legal representatives, successors, heirs, and assigns. The agreement to annex shall also include, but not be limited, to the following binding commitments by the property owner:\n  1.\tTo comply with all applicable ordinances of the City relating to water or sewer services;\n  2.\tThat all water or sewer service lines and all other facilities required to extend the service to the owner's property will be built to City specifications and will be conveyed to the City, and that the owner shall bear the full cost, including cost of inspections, of extending all such water or sewer service lines and facilities;\n  3.\tNot to develop the land without first submitting applicable development applications to the City for approval;\n  4.\tNot to build any streets, or other public improvement facilities or buildings, except in accordance with City building, plumbing, electrical, and fire prevention codes, subdivision regulations, and engineering standards and specifications that would be applicable to similar improvements in the City, and to pay the cost of all inspections required by the City;\n  5.\tTo execute the necessary documents to petition and initiate at the property owner's expense an action to annex to the City;\n  6.\tTo consent to annexation if initiated by the City;\n  7.\tTo dedicate all necessary rights-of-way for streets, alleys, highways, and utility easements at no cost to the City at the earlier of the following occurrences: upon annexation, whether initiated by the owner or by the City or at any time upon request of the City to enable the City to proceed with construction of said improvements;\n  8.\tTo comply with the provisions of this Code and of the Arvada City Code relating to annexations and development as provisions are in effect at the time of annexation;\n  9.\tTo comply with the provisions of this Code requiring the dedication of open space prior to the time water or sewer services are connected;\n  10.\tTo include a description of the tributary water rights, if any, appurtenant to the property to be served, warranting merchantable title, and to convey such water rights to the City immediately upon connection to City water or sewer services, for a stated price, which price shall represent the agreed present market value of such water. Upon the approval of both parties, such agreement may also provide for the lease-back of such water at a stated annual rental until the property is developed;\n  11.\tIn the case of water, to comply with the City regulations or request to prevent waste or conserve water or both;\n  12.\tThat the City shall have the right to curtail or eliminate service to the area if such is necessary to provide adequate service to customers within the City limits;\n  13.\tTo not use either property or buildings in any manner that is determined by the City to be detrimental to the health, safety, or welfare of the City;\n  14.\tTo not participate in the formation of another City or participate in the formation of any special service district, without the consent of the City;\n  15.\tTo comply with City regulations relative to discharging certain materials and infiltration into the City sewer system;\n  16.\tTo indemnify and hold the City harmless from any and all damages or liability arising either directly or indirectly from providing water or sewer services to the owner by the City;\n  17.\tTo convey groundwater rights to the City at the time water or sewer services is provided to the property; and\n  18.\tTo pay the City all costs, attorney's fees, and related expenses incurred by the City in the event that the property owner breaches any provision of the agreement or if the City is required to enforce an action in specific performance as provided in C.R.S. § 31-12-121."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-5-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

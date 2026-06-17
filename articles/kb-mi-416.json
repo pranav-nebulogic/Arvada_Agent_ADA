@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "police",
+      "technology",
+      "accountability",
+      "compliant",
+      "decisions",
+      "depart",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1530/Police-Technology"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-416",
+    "spreadsheet_id": "MI-416",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Police Technology",
+    "summary": "The Arvada Police Department employs various modern technologies to enhance public safety and improve policing efficiency, including the Arvada Real Time Information Center, drones for aerial support, Automated License Plate Readers, facial recognition technology, Axon Draft One for report writing, and body-worn cameras. These tools are used in compliance with state and federal laws, ensuring privacy and accountability while supporting effective law enforcement. The department is committed to responsible technology use, balancing public safety with individual rights through strict policies and oversight.",
+    "body": "The Arvada Police Department uses a variety of modern technologies to enhance public safety, improve efficiency, and support effective policing. These tools help officers respond more quickly, investigate more thoroughly, and make informed decisions in real time.\n\nWe recognize that the use of technology in law enforcement also raises important questions about privacy, transparency, and accountability. That is why every tool we use is compliant with state and federal law, as well as strict Department policies that define how the technology can, and cannot, be used.\n\nPublic safety and individual rights are not mutually exclusive. By combining technology with clear policies, strong oversight, and ongoing transparency, the Arvada Police Department is committed to using these tools responsibly to serve the community.\n\nVisit the sections below to learn more about each technology, how it is used, and the safeguards in place.\n\n## Arvada Real Time Information Center (ARTIC)\n\nThe Arvada Real Time Information Center integrates data from various sources including cameras, drones, and other systems, to provide timely, actionable information during incidents. The ARTIC supports other City Departments and partners such as Arvada Fire, Emergency Management, Infrastructure, and Parks. Visit the [ARTIC page](https://www.arvadaco.gov/1532/Arvada-Real-Time-Information-Center-ARTI).\n\n## Drone First Responder (DFR)\n\nThe Drone First Responder program deploys drones to certain calls for service to provide real-time aerial information to responding officers. This enhances situational awareness, improves safety for both officers and the public, and can reduce the need for higher-risk responses. Visit our [Drone First Responder page](https://www.arvadaco.gov/1533/Drone-First-Responder-DFR).\n\n## Automated License Plate Readers (ALPRs)\n\nALPR cameras capture images of vehicles and license plates visible on public roadways to assist in locating stolen vehicles, identifying suspect vehicles, and supporting criminal investigations. These systems are designed to capture vehicle information, not people, and are governed by strict data access, retention, and auditing policies. Visit our [Automated License Plate Readers (ALPRs) page](https://www.arvadaco.gov/1451/Automated-License-Plate-Reader-Cameras).\n\n## Facial Recognition Technology\n\nFacial recognition technology is used as an investigative tool to help identify unknown individuals in investigations. It is used in a limited and controlled manner, consistent with state law and Department policy, and is never used as the sole basis for enforcement action. Visit our [Facial Recognition Technology page](https://www.arvadaco.gov/917/Facial-Recognition-Technology).\n\n## Axon Draft One\n\nAxon Draft One is a report-writing tool that assists officers in documenting incidents more efficiently by generating initial report narratives. Officers review, edit, and approve all reports to ensure accuracy. This technology helps reduce administrative time and allows officers to spend more time in the community. Visit our [Axon Draft One page](https://www.arvadaco.gov/1531/Axon-Draft-One).\n\n## Body-Worn Cameras\n\nBody-worn cameras provide an objective record of police interactions, increasing transparency and accountability. These recordings support investigations, prosecutions, and training, while also helping to build trust within the community. Visit our [Body-Worn Cameras page](https://www.arvadaco.gov/542/Body-Worn-Cameras).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "administrative",
+      "fees",
+      "shall",
+      "set",
+      "forth",
+      "accordance",
+      "provisions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-54"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-54. - Administrative fees.",
+    "summary": "(a)\nFees shall be as set forth and in accordance with the provisions of division 2, article\n               VII of chapter 2 of the Code. Fees shall be non-refundable and will not be pro-rated\n               for partial years.\n(b)\nAll fees collected pursuant to this chapter shall be applied to the co…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-54. - Administrative fees.",
+        "a": "(a)\nFees shall be as set forth and in accordance with the provisions of division 2, article\n               VII of chapter 2 of the Code. Fees shall be non-refundable and will not be pro-rated\n               for partial years.\n(b)\nAll fees collected pursuant to this chapter shall be applied to the cost of administering\n               this chapter.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-54"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

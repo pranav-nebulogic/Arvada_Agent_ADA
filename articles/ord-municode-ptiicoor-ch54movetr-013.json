@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mtc",
+      "appendices",
+      "definitions",
+      "amended",
+      "model",
+      "traffic",
+      "code"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-43"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-43. - MTC \"Appendices: Definitions\" amended.",
+    "summary": "The Model Traffic Code is hereby amended by adding certain definitions to the \"Appendices:\n               Definitions\" section to read as follows:\n(7.5) \"Barricade\" means a portable or fixed barrier having object markings used to\n                  close all or a portion of the right-of-way to vehicu…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-43. - MTC \"Appendices: Definitions\" amended.",
+        "a": "The Model Traffic Code is hereby amended by adding certain definitions to the \"Appendices:\n               Definitions\" section to read as follows:\n(7.5) \"Barricade\" means a portable or fixed barrier having object markings used to\n                  close all or a portion of the right-of-way to vehicular traffic.\n(13.6) \"City\" or \"municipality\" means the City of Arvada.\n(28.5) \"Electrical assisted bicycle\" means a vehicle having two or three wheels, fully\n                  operable pedals, and an electric motor not exceeding seven hundred fifty watts of\n                  power. Electrical assisted bicycles are further required to conform to one of three\n                  classes as follows:\n(a)\n\"Class 1 electrical assisted bicycle\" means an electrical assisted bicycle equipped\n                     with a motor that provides assistance only when the rider is pedaling and that ceases\n                     to provide assistance when the bicycle reaches a speed of twenty miles per hour.\n(b)\n\"Class 2 electrical assisted bicycle\" means an electrical assisted bicycle equipped\n                     with a motor that provides assistance regardless of whether the rider is pedaling\n                     but ceases to provide assistance when the bicycle reaches a speed of twenty miles\n                     per hour.\n(c)\n\"Class 3 electrical assisted bicycle\" means an electrical assisted bicycle equipped\n                     with a motor that provides assistance only when the rider is pedaling and that ceases\n                     to provide assistance when the bicycle reaches a speed of twenty-eight miles per hour.\n(28.7) \"Electric personal assistive mobility device\" or \"EPAMD\" means a self-balancing,\n                  nontandem two-wheeled device, designed to transport only one person, that is powered\n                  solely by an electric propulsion system producing an average power output of no more\n                  than seven hundred fifty watts.\n(28.8) \"Electric scooter\" means a device weighing less than one hundred pounds with\n                  handlebars that is powered by an electric motor and that has a maximum speed of twenty\n                  miles per hour on a paved level surface when powered solely by the electric motor.\n                  An electric scooter does not include an electrical assisted bicycle, EPAMD, motorcycle,\n                  or low-power scooter.\n(42.5) \"Holiday\" means Sundays, New Year's Day, Martin Luther King, Jr. Day, Memorial\n                  Day, Independence Day, Labor Day, Thanksgiving Day, the day after Thanksgiving, Christmas\n                  Day, or any such additional statutory holidays as the city may adopt by ordinance.\n(47.5) \"Lane-use control signal\" means a traffic-control signal which is erected to\n                  control the direction of vehicular traffic movement in an individual lane.\n(69.5) \"Passenger loading zone\" means a designated space reserved for the exclusive\n                  use of vehicles during the loading or unloading of passengers or their property.\n(74.5) \"Prima facie speed limit\" means a speed limit above which the driver is presumed\n                  to be driving unlawfully but, if charged with exceeding it, a driver may show cause\n                  to prove that his speed was safe for conditions and therefore, that he was not guilty\n                  of a speed violation.\n(111) \"Toy vehicle\" means any vehicle, whether or not home-built by the user, that\n                  has wheels with an outside diameter of not more than fourteen inches and is not designed,\n                  approved, or intended for use on public roadways or highways. \"Toy vehicle\" includes,\n                  but is not limited to, gas-powered or electric-powered vehicles commonly known as\n                  mini bikes, \"pocket\" bikes, kamikaze boards, go-peds, and stand-up scooters except\n                  for electric scooters as defined in subsection 28.8 of this section.\n(112.5) \"Traffic-control signal\" means any device, whether manually, electrically,\n                  electronically, or mechanically operated, by which traffic is alternately directed\n                  to sop and permitted to proceed.\n(\nOrd. No. 4384, § 2, 4-15-2013\n; Ord. No.\n4772\n, § 4, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-43"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

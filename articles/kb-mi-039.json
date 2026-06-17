@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "agricultural",
+      "producers",
+      "equipment",
+      "farm",
+      "qualifying",
+      "code",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/275/Agricultural-Producers"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-039",
+    "spreadsheet_id": "MI-039",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Agricultural Producers",
+    "summary": "Certain agricultural items, including qualifying farm equipment, livestock, and agricultural compounds, are exempt from sales and use taxes in Arvada. Exempt farm equipment must be used in for-profit operations producing agricultural products, while livestock includes various animals raised for food or fiber. Additionally, fertilizers and specific agricultural chemicals are tax-exempt when used in production, but exemptions do not apply to products used for non-agricultural purposes.",
+    "body": "Certain items used for agriculture are exempt from Arvada sales and use taxes. [View the Arvada Municipal Code Chapter 98 - Taxation](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA).\n\n## Farm Equipment\n\nQualifying farm machinery and parts are exempt from Arvada sales and use taxes. The exemption for qualifying farm equipment applies.\n\n### Qualifying Farm Equipment\n\nQualifyingFarm Equipment includes:\n\n- Baling materials\n- Dairy equipment\n- Farm tractors and implements of husbandry\n- Irrigation equipment\n- Shipping materials purchased by a farm operation\n\nQualifying equipment is **exempt**when used in a for-profit farm operation that produces:\n\n- Agricultural, winegrowing, fruit, and vegetable products\n- Honey\n- Livestock\n- Milk\n- Poultry and eggs\n\n### Non-Qualifying Equipment\n\nThe following equipment does not qualify for the exemption:\n\n- Lawn and garden tillers\n- Mowers and renovators\n- Trucks of one-ton manufactured rated capacity or less\n\n### Required Documentation\n\nThe lessor or seller of exempt farm equipment must obtain and retain a complete signed form [DR 0511, Affidavit for Colorado Sales Tax Exemption for Farm Equipment (PDF)](https://tax.colorado.gov/sites/tax/files/DR0511_2013.pdf), in which the lessee, renter, or purchaser affirms that the equipment will be stored, used, or consumed primarily and directly in a farm operation.\n\n## Livestock & Related Exemptions\n\nLivestock is exempt from Arvada sales and uses taxes, as are certain items related to such animals.\n\n### Livestock\n\nFor Arvada sales and use tax purposes, livestock includes the following animals, regardless of use:\n\n- Alpaca\n- Burros\n- Cattle\n- Goats\n- Horses\n- Lambs\n- Llama\n- Mules\n- Ostrich\n- Poultry\n- Sheep\n- Swine\n\nTax-exempt livestock also includes:\n\n- Any other animal raised primarily for food, fiber, or hide production\n- Domesticated elk or deer raised on a farm or ranch licensed as an alternative livestock farm by the Board of Stock Inspection Commissioners (Brand Board)\n\nHousehold pets are not considered livestock for sale and use tax purposes.\n\n### Other Exemptions Related to Livestock\n\nThe following items are also exempt from Arvada sales and use taxes:\n\n- Feed for livestock\n\n## Agricultural Compounds\n\nCompounds used in caring for livestock are exempt from Arvada sales and use taxes.\n\nThe exemption applies specifically to:\n\n- Animal pharmaceuticals approved by the Food and Drug Administration\n- Drugs used to prevent or treat disease or injury in livestock\n- Enhancing compounds\n- Fungicides\n- Growth-regulating chemicals\n- Hormones\n- Insecticides\n- Vaccines\n\n### Fertilizer & Spray Adjuvants\n\nFertilizers and sprays are exempt from taxes when used in agricultural production. They are not exempt when used after harvest or after they are ready for market.\n\nExemptions are allowed for products in their natural state or as processed. This includes, but is not limited to:\n\n- Any other feed grain\n- Barley\n- Bees and honey\n- Corn\n- Hay\n- Hops\n- Malting barley\n- Milk and milk products\n- Millet\n- Milo\n- Oats\n- Poultry and poultry products\n- Rice\n- Sugar beets\n- Timber and timber products\n- Wheat\n\nThe exemptions are not allowed when used to produce marijuana products.\n\n### Fertilizer\n\nFertilizers with chemical or organic forms of the following are eligible for the exemption:\n\n- Boron (B)\n- Calcium (Ca)\n- Copper (Cu)\n- Iron (Fe)\n- Magnesium (Mg)\n- Manganese (Mn)\n- Molybdenum (Mo)\n- Nitrogen (N)\n- Other secondary and micronutrients\n- Phosphorus (P2O5)\n- Potassium (K2O)\n- Sulfur (S)\n- Zinc (Zn)\n\nThe sales tax exemption for fertilizer does not apply to:\n\n- Any other product not labeled as a fertilizer under the requirements established by the Colorado Commissioner of Agriculture\n- Specialty fertilizer distributed for nonfarm use (home gardens, lawns, flowers, etc.)\n\nFor more information about fertilizer product classifications, [visit the Colorado Department of Agriculture website](https://ag.colorado.gov/ics/fertilizer).\n\n### Spray Adjuvants\n\nExempt spray adjuvants are products used to increase the effectiveness of a pesticide used for livestock or farming.\n\n**Pesticides**are not exempt from Arvada sales and use tax.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

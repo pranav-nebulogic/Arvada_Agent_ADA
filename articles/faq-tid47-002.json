@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-47-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "city",
+      "decide",
+      "add",
+      "bike",
+      "lanes",
+      "must",
+      "comply",
+      "manual",
+      "Bicycling in Arvada"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=47"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-does-the-city-decide-where-to-add-bike-lanes",
+    "faq_category_name": "Bicycling in Arvada"
+  },
+  "content": {
+    "title": "How does the City decide where to add bike lanes?",
+    "summary": "The City must comply with the Manual on Uniform Traffic Control Devices (MUTCD) standards for all bike facilities. Additionally, the City maintains a Bicycle Master Plan and is completing a Transportation System Plan, both of which help identify areas of opportunity and help inform planning for impr…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How does the City decide where to add bike lanes?",
+        "a": "The City must comply with the Manual on Uniform Traffic Control Devices (MUTCD) standards for all bike facilities. Additionally, the City maintains a Bicycle Master Plan and is completing a Transportation System Plan, both of which help identify areas of opportunity and help inform planning for improvements related to cycling infrastructure in Arvada."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

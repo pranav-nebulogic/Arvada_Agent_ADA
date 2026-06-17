@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "voting",
+      "districts",
+      "precincts",
+      "boundaries",
+      "city",
+      "arvada",
+      "hereby"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-4"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-4. - Voting districts and precincts.",
+    "summary": "(a)\nThe boundaries of the districts of the City of Arvada are hereby changed so that each\n               of the districts of the city shall consist of and contain the general election precincts\n               listed below the number of each district of the city on exhibit \"A\" attached hereto\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-4. - Voting districts and precincts.",
+        "a": "(a)\nThe boundaries of the districts of the City of Arvada are hereby changed so that each\n               of the districts of the city shall consist of and contain the general election precincts\n               listed below the number of each district of the city on exhibit \"A\" attached hereto\n               and made a part hereof by this reference; provided, however, that no portion of any\n               general election precinct lying outside of the boundaries of the City of Arvada shall\n               constitute a part of any district of the city. The official legal boundaries of the\n               districts are set forth in a detailed map which is on file in the city clerk's office\n               and is available for public inspection during regular office hours. The official map\n               is marked exhibit \"B\" and made a part hereof by this reference.\n(b)\nThe city council hereby finds and determines that the districts consist of the general\n               precincts as provided for herein are as compact and as equal in population as is practicable,\n               taking into consideration the boundaries, nature, and characteristics of the City\n               of Arvada.\n(Code 1981, § 11-4; Ord. No. 3511, § 2, 2-1-1999; Ord. No. 3527, § 1, 4-19-1999; Ord.\n               No. 4377, §§ 1, 2, 3-4-2013; Ord. No.\n4681\n, §§ 1, 2, 3-18-2019; Ord. No.\n4834\n, § 1, 1-23-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

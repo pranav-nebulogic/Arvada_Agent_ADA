@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "wireless",
+      "communications",
+      "facilities",
+      "specific",
+      "review",
+      "procedures",
+      "base",
+      "stations",
+      "including",
+      "alternative"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-3-6-2"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-3. SPECIFIC REVIEW PROVISIONS",
+    "division": "DIVISION 8-3-6. WIRELESS COMMUNICATION FACILITIES"
+  },
+  "content": {
+    "title": "8-3-6-2. Wireless communications facilities specific review procedures.",
+    "summary": "A.\tReview Procedures for Base Stations including Alternative Tower Structures and Small Cell Facilities Not in the Right-of-Way.\n  1.\tIt is the intent of the City to provide for approval of WCFs administratively in cases where visual impacts are minimized, view corridors are protected, WCFs utilize …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-3-6-2. Wireless communications facilities specific review procedures.",
+        "a": "A.\tReview Procedures for Base Stations including Alternative Tower Structures and Small Cell Facilities Not in the Right-of-Way.\n  1.\tIt is the intent of the City to provide for approval of WCFs administratively in cases where visual impacts are minimized, view corridors are protected, WCFs utilize appropriate camouflage/concealment design techniques to avoid adverse impacts on the surrounding area, and WCFs are designed, maintained, and operated at all times to comply with the provisions of this Section and all applicable law. Applications for base stations, including Alternative Tower Structures, shall be reviewed by the Director for conformance with this Code following the procedures set forth in Section 8-3-5-3 Site Plan.\n  2.\tShould the Director consider the proposed WCF to have a significant visual impact(e.g. proximity to historic or aesthetically significant structures, view, and/or community features) or otherwise be incompatible with the structure or surrounding area, or not meet the intent of these provisions, the Director may refer the application to City Council for approval after a recommendation by Planning Commission.\nB.\tReview Procedures for Small Cell Facilities in the Right-of-Way. Small Cell facilities are permitted within the right-of-way, subject to approval of a Master License Agreement executed by the City Council, approval of any other legal right or approval to use such structure by its owner, and adherence to the following standards in this Code, and the Small Cell Facilities Design Guidelines.\n  1.\tSmall Cell Facilities shall be a permitted use by right in City rights-of-way subject to review and approval from the Director.\n  2.\tNo new Small Cell Facility shall be constructed in the right-of-way except after a written request from an Applicant is reviewed and approved by the Director in accordance with this Code following the procedures set forth in Section 8-3-5-3.\n  3.\tNew Small Cell Facilities shall be contained in a structure that is architecturally compatible with the surrounding area through application of camouflage and concealment design techniques.\nC.\tReview Procedures for Towers.\n  1.\tAll applications for towers shall demonstrate that other alternative design options, such as using base stations or alternative tower structures, are not viable options as determined by the City.\n  2.\tIn all zoning districts, applications for towers shall be reviewed by the City for conformance with this Code using the procedures set forth in Section 8-3-5-1 Conditional Use.\nD.\tReview Procedures for Eligible Facilities Request. This section applies to any eligible facilities requests for collocation on, or modification to an existing base station or tower that does not substantially change the physical dimensions of such facility.\n  1.\tReview Required for Eligible Facilities. No collocation or modification to any existing base station or tower may occur except after a written request from an Applicant is reviewed and approved by the Director.\n  2.\tEligibility Verification. Upon receipt of an application for an Eligible Facilities Request pursuant to this Section, Director shall review such application to determine whether the application so qualifies.\n  3.\tReview Time. Subject to the tolling provisions of subparagraph a. below, within 60 days of the date on which an Applicant submits an application seeking approval under this Section, the City shall approve the application unless it determines that the application is not covered by this Section or otherwise in non-conformance with applicable codes.\n    a.\tTolling of the Timeframe for Review. The 60-day review period begins to run when the application is filed, and may be tolled only by mutual agreement of the Director and the Applicant, or in cases where the Director determines that the application is incomplete.\n    b.\tTolling of the Timeframe for Incompleteness. The Director must provide written notice to the Applicant within 30 days of receipt of the application, specifically delineating all missing documents or information required in the application.\n    c.\tResuming Review. The timeframe for review begins running again when the Applicant makes a supplemental written submission in response to the Director's notice of incompleteness.\n    d.\tResubmittal Review. Following a supplemental submission, the Director will notify the Applicant within ten days that the supplemental submission did not provide the information identified in the original notice delineating missing information. The timeframe is tolled in the case of second or subsequent notices pursuant to the procedures identified in subparagraph b. above. In the case of a second or subsequent notice of incompleteness, the Director may not specify missing documents or information that were not delineated in the original notice of incompleteness.\n    e.\tFailure to Act. In the event the Director fails to act on a request seeking approval for an Eligible Facilities Request under this Section within the timeframe for review (accounting for any tolling), the request shall be deemed granted. The request becomes effective when the Applicant notifies the Director in writing after the review period has expired (accounting for any tolling) that the application has been deemed granted.\n    f.\tNon-Eligible Reviews. Interaction with Telecommunications Act Section 332(c)(7). If the City determines that the Applicant's request is not an Eligible Facilities Request as delineated in this Chapter, the presumptively reasonable timeframe under Section 332(c)(7), as prescribed by the FCC's Shot Clock order, will begin to run from the issuance of the City's decision that the application is not a covered request. To the extent such information is necessary, the City may request additional information from the Applicant to evaluate the application under Section 332(c)(7) reviews."
+      }
+    ],
+    "ordinance_refs": [
+      "8-3-6-2"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

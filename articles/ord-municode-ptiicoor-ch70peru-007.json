@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "interviewing",
+      "testing",
+      "selecting",
+      "employees",
+      "all",
+      "appointments",
+      "positions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-35"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-35. - Interviewing, testing, and selecting employees.",
+    "summary": "(a)\nAll appointments to positions will be made according to individual merit to be ascertained,\n               in so far as is practical, by open, competitive examination. The selection process\n               will fairly evaluate the capacity and fitness of the applicant to perform the duties\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-35. - Interviewing, testing, and selecting employees.",
+        "a": "(a)\nAll appointments to positions will be made according to individual merit to be ascertained,\n               in so far as is practical, by open, competitive examination. The selection process\n               will fairly evaluate the capacity and fitness of the applicant to perform the duties\n               and responsibilities of the position. A range of testing options may be used, including,\n               but not limited to, written, oral, physical, polygraph, and psychological tests. Consideration\n               may be given to past performance reviews, reference checking, background checking,\n               or any combination thereof. An applicant may be required to verify any statement contained\n               in their application for employment. Applicants competing for the same position will\n               be subject to the same selection process.\n(b)\nAn applicant who takes part in the selection process will be notified of the applicant's\n               status.\n(c)\nAny applicant for city employment may be tested by the city for controlled substances\n               at the expense of the city and at a laboratory selected by the city upon an offer\n               of employment and prior to appointment.\n(1)\nAny applicant who refuses to submit to the controlled substances test or participate\n               in any employment test will be disqualified from consideration for employment by the\n               city.\n(2)\nShould an applicant's test reveal a positive illegal controlled substances result,\n               the applicant will not be eligible for employment by the city.\n(d)\nIt is the responsibility of the applicant to notify the human resources department\n               of any change in the applicant's availability or the applicant's contact information.\n(e)\nAfter completion of the selection process, the appointing authority will select the\n               applicant deemed most qualified for the position through the examination process.\n               The human resources department must validate the appointment and perform the appropriate\n               background checks. If the applicant accepts the appointment following the appropriate\n               background checking, and reports for duty at the time the appointing authority designates,\n               the applicant is deemed to have been appointed. While the city will select the most\n               qualified applicant for a position, city employees will be given significant consideration\n               when qualifications are deemed substantially equal.\n(f)\nHealth plan eligible, variable hour, or seasonal appointments will be made by the\n               hiring supervisor after interviews, references, or other job-related tests have been\n               conducted.\n(g)\nWhen an employee is granted a military leave of absence, the position may be temporarily\n               filled for the length of time the employee is on military leave in accordance with\n               the policy regarding military leave established by the city manager.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-35"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

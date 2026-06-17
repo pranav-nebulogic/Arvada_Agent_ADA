@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "SMART License & Permits",
+      "help",
+      "arvadapermits",
+      "permits",
+      "permit",
+      "project",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://aca-prod.accela.com/ARVADA"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-616",
+    "spreadsheet_id": "MI-616",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "SMART License & Permits Help",
+    "summary": "The Arvada Permits Site provides 24/7 access to permit and project records, allowing contractors and homeowners to apply for permits, schedule inspections, and view plan review comments in real time. While most content is accessible without a login, users must create an account to apply for permits or schedule inspections. Various online applications are available, including building and right-of-way permits, with updates added regularly to the site.",
+    "body": "Using the [Arvada Permits Site](http://arvadapermits.org) gives access to permit and project records 24/7, contractors and homeowners are able to apply and pay for permits and projects, view and respond to plan review comments, schedule and see inspection results all in real time. Permit records for Building and Right-of-Way projects and project files for Community Development are all available through arvadapermits.org.\n\n[Launch Arvada Permits Site](https://aca-prod.accela.com/ARVADA).\n\n## Uses of Arvada Permits\n\n1. Scheduling Inspections\n2. Reviewing Inspection Results\n3. Reviewing Staff Comments\n4. Researching permit records\n5. Applying and paying for permits and projects (see note)\n6. Address verification\n\n**Note**: Not all permit applications are available for online application.\n\n## Who Can Use Arvada Permits\n\nArvadapermits.org is open to all users. Most of the content is available without a login, but to schedule inspections or apply for a permit, a login is required. If you are a contractor that is registered with the City of Arvada, you must sign in using your Arvada License number and password. For all other users that are not contractors (i.e. homeowners, realtors or insurance agents) a user account can be created online to begin an online application or to schedule an inspection.\n\n## Available Online Applications\n\nAs of September 19, 2022:\n\n### [Building Permits](https://www.arvadaco.gov/332/Building-Permits)\n\n- [Accessory Dwelling Units](/338/Accessory-Dwelling-Units-ADU)\n- [Development Application](/355/Develop-in-Arvada)\n- [Electrical](/344/Electrical)\n- EV Chargers\n- [Fence](/346/Fences)\n- [New Commercial Buildings, Commercial Additions and Multi-family](/406/New-Commercial-Buildings-Commercial-Addi)\n- [Pre-Application meeting](/374/Step-1-Your-Pre-Application)\n- [Radio Amplification](/416/Radio-Amplification)\n- [Re-Roofs](/417/Re-Roofing)\n- [Residential Mechanical and Plumbing](/434/Residential-Mechanical-Plumbing)\n- [Residential Exterior](/419/Residential-Exterior)\n- [Residential Interior](/423/Residential-Interior)\n- [Retaining Walls](/436/Retaining-Wall)\n- [Signs](/437/Signs)\n- [Solar](/522/Solar)\n- [Windows and Siding](/525/Windows-Siding-Installation)\n- [New Single Family](/412/New-Single-Family)\n\n### [Right-of-Way Permits](/650)\n\n- [Development (DEV)](/651)\n- [Dry Utility](/653)\n- [Flatwork Repair](/656/Flatwork-Replacement)\n- Floodplain (under additional information on [ROW page](/650))\n- [ROW Access Only](/657)\n- [Sewer and Water Installations, Repairs, and Disconnects](/660/Sewer-Water-Service-Installations-Repair) (ROWYARD)\n- [Site Disturbance](/367)\n\n### Other permits online\n\n- [Block Parties](/484/Neighborhood-Block-Party-Permit)\n- [Special Events](/663/Special-Event-Permits)\n\nApplication processes are added to this tool regularly, if you do not see the application available for online submittal, make sure to check back often. Users can still monitor process of permits and projects through the [Arvada Permits Site](http://arvadapermits.org/) even if the application was not created online.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

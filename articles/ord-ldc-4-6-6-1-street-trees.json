@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "street",
+      "trees",
+      "generally",
+      "deciduous",
+      "must",
+      "installed",
+      "between",
+      "curb",
+      "detached",
+      "sidewalk"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-6-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-6 REQUIREMENTS BY LANDSCAPE AREA"
+  },
+  "content": {
+    "title": "4-6-6-1. Street trees.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-6-1. Street trees.",
+        "a": "A.\tGenerally. Deciduous street trees must be installed between the curb and detached sidewalk in street rights-of-way in locations approved by the Director or within ten feet of street rights-of-way with approval by the Director in cases where the Director determines that it is impractical to plant the street trees within the right-of-way. Street trees shall be located and spaced in accordance with the standards of this Section.\nB.\tInstallation Requirements.\n  1.\tStreet Trees. All development shall provide at least one street tree for each 40 feet of street frontage unless the Director determines that a different number of trees is warranted because of existing conditions.\n  2.\tPlanting Locations.\n    a.\tGenerally, street trees shall be installed in a streetscape area with a minimum width of eight feet between back of curb and sidewalk.\n    b.\tAs an alternative to a streetscape area, tree grates or cutouts in sidewalks may be allowed in the MX, and OT zoning districts. Tree cutouts in sidewalks shall be of sufficient size to support healthy tree growth as determined by the Director.\n    c.\tAlternative locations are allowed by approval of the Director according to the standards set out in Subsection A., above.\nC.\tSetbacks.\n  1.\tThe trunks of street trees shall be set back from driveways and alleys outside of the sight triangle.\n  2.\tStreet trees shall be planted so that:\n    a.\tTheir eventual growth can be reasonably controlled so as to avert interference with or obstruction of any improvements installed for public benefit; and\n    b.\tNearby overhead and underground utilities such as water, wastewater, gas, communications, and electrical, will not be disrupted or materially affected by branches or roots.\n  3.\tNo street trees that are more than 25 feet in height at maturity shall be planted under or within ten feet (measured horizontally) of any overhead power line, except street light or service lines.\nD.\tMaintenance. Maintenance of street trees shall be the responsibility of the adjacent property owner, unless the Applicant has provided for an alternative perpetual maintenance arrangement that is acceptable to the Director (e.g., via a property owners' association or special district)."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-6-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

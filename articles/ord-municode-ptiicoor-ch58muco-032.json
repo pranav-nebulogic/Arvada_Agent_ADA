@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "personnel",
+      "records",
+      "presiding",
+      "judge",
+      "shall",
+      "coordinate",
+      "department"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-78"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-78. - Personnel records.",
+    "summary": "The presiding judge shall coordinate with the personnel department to establish and\n               maintain such regular personnel records as may be necessary for each municipal judge\n               appointed by the city council. The personnel records shall be retained and updated\n               fro…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-78. - Personnel records.",
+        "a": "The presiding judge shall coordinate with the personnel department to establish and\n               maintain such regular personnel records as may be necessary for each municipal judge\n               appointed by the city council. The personnel records shall be retained and updated\n               from time-to-time by the director of personnel or designee. Nothing herein shall be\n               construed to establish any municipal judge as employee subject to the provisions of\nchapter 70\n.\n(Code 1981, § 18-47; Ord. No. 3676, § 1, 1-22-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-78"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

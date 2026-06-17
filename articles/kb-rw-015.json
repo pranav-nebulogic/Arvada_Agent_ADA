@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "special",
+      "water",
+      "sewer",
+      "districts",
+      "district",
+      "documentcenter",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/443/Special-Water-Sewer-Districts"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-015",
+    "spreadsheet_id": "RW-015",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Special Water & Sewer Districts",
+    "summary": "Most residents and businesses in Arvada receive water and sewer services from the City of Arvada, but some areas are served by other districts. Notable districts include Ralston Valley Water and Sanitation District, Clear Creek Sanitation District, and Denver Water, each with specific addresses and contact numbers provided for residents needing assistance.",
+    "body": "Most residents and businesses located within Arvada receive water and sewer service from the City of Arvada. However, there are a few areas within the City boundaries that are served by other water and sewer districts.\n\n- [Sewer District Map (PDF)](/DocumentCenter/View/473)\n- [Water District Map (PDF)](/DocumentCenter/View/472)\n\n## Special (Other) Water Districts\n\n| District | Address | City | Phone |\n| --- | --- | --- | --- |\n| Ralston Valley Water and Sanitation District | 15912 W 79th Place | Arvada, CO 80007 | 303-424-9526 |\n| Valley Water | 12101 W 52nd Avenue | Wheat Ridge, CO 80033 | 303-424-9661 |\n| Clear Creek Sanitation District | 5420 Harlan Street | Arvada, CO 80002 | 303-424-4194 |  |\n| North Table Mountain Water | 14806 W 52nd Avenue | Golden, CO 80403 | 303-279-2854 |  |\n| [Consolidated Mutual Water Company](http://www.cmwc.net/) | 12700 W 27th Avenue | Lakewood, CO 80215 | 303-238-0451 |\n| Denver Water | 1600 W 12th Avenue | Denver, CO 80204 | 303-628-6000 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

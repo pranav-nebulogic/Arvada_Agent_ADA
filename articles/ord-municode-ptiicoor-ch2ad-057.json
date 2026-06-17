@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "distribution",
+      "surplus",
+      "project",
+      "funds",
+      "sales",
+      "tax",
+      "revenues"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-296"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-296. - Distribution of surplus.",
+    "summary": "Project funds from sales tax revenues remaining unexpended and unencumbered, if any,\n               will not be considered as surplus so long as there exists a general obligation debt\n               for a project performed or performable by the capital improvements fund. Fund surpluses\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-296. - Distribution of surplus.",
+        "a": "Project funds from sales tax revenues remaining unexpended and unencumbered, if any,\n               will not be considered as surplus so long as there exists a general obligation debt\n               for a project performed or performable by the capital improvements fund. Fund surpluses\n               may remain within the fund or may be transferred by city council authorization to\n               any other fund; provided, however, that any surplus of moneys from any enterprise\n               funds or any other funds shall be returned to the fund from which such moneys were\n               transferred.\n(Code 1981, § 2-71; Ord. No. 2547, § 1, 8-15-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-296"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

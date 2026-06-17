@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "definitions",
+      "purposes",
+      "article",
+      "following",
+      "words",
+      "phrases",
+      "meaning"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-301"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-301. - Definitions.",
+    "summary": "For purposes of this article, the following words and phrases have the following meaning,\n               unless otherwise indicated:\nCity\nmeans the City of Arvada.\nDevices\nmeans bicycles, scooters, electrical assisted bicycles, electric scooters, and other\n               small, wheeled vehicles desi…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-301. - Definitions.",
+        "a": "For purposes of this article, the following words and phrases have the following meaning,\n               unless otherwise indicated:\nCity\nmeans the City of Arvada.\nDevices\nmeans bicycles, scooters, electrical assisted bicycles, electric scooters, and other\n               small, wheeled vehicles designed specifically for shared-use and deployed by micromobility\n               operators.\nDirector\nmeans the director of public works or his or her designee.\nMicromobility\nmeans a network or system of devices, placed in the public right-of-way and for rent\n               in short time increments, that provides increased mobility options over short distances\n               in urban areas.\nMobility\nas a service permit program or program means a program allowing for the implementation\n               and operation of micromobility within the city for a prescribed period of time.\nOperator\nmeans a person or entity who offers devices to be used for micromobility.\nPermit\nmeans a document issued by the director to an operator that allows the operator to\n               offer micomobility devices and services in the city.\n(Ord. No.\n4772\n, § 8, 8-16-2021)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-301"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "removal",
+      "hearing",
+      "officer",
+      "all",
+      "officers",
+      "shall",
+      "serve"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-64"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-64. - Removal of a hearing officer.",
+    "summary": "All hearing officers shall serve at the pleasure of city council and may be prohibited\n               from serving as a hearing officer of the authority, with or without cause, by majority\n               vote of city council.\n(\nOrd. No. 4872\n, § 2, 4-15-2024)\nEditor's note—\nOrd. No. 4872\n, § 2, adop…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-64. - Removal of a hearing officer.",
+        "a": "All hearing officers shall serve at the pleasure of city council and may be prohibited\n               from serving as a hearing officer of the authority, with or without cause, by majority\n               vote of city council.\n(\nOrd. No. 4872\n, § 2, 4-15-2024)\nEditor's note—\nOrd. No. 4872\n, § 2, adopted April 15, 2024, repealed the former § 6-64, and enacted a new § 6-64\n               as set out herein. The former § 6-64, pertained to chair; quorum; voting; appeals,\n               and derived from\nOrd. No. 4670\n, § 1, 12-17-2018."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-64"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

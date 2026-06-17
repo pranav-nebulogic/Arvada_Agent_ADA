@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "debt",
+      "debts",
+      "sales",
+      "code",
+      "collected",
+      "gross",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/294/Bad-Debt"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-093",
+    "spreadsheet_id": "MI-093",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Bad Debt",
+    "summary": "Retailers in Arvada can deduct bad debts from gross sales if they meet specific criteria, including having charged off the debt for Federal Income Tax purposes and documented collection attempts. Deductions must be supported by adequate records, and if a bad debt is later collected, the associated tax must be reported in the next sales tax return. Notably, expenses incurred in collecting debts are not deductible, and only amounts on which tax was previously paid can be claimed as bad debt deductions.",
+    "body": "The Arvada Sales and Use Tax Return allows a retailer a deduction for Bad Debts Charge Off as well as an addition to Gross Sales for Bad Debts Collected. ([View the Arvada Municipal Code for more information](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA))\n\nBad debts that are found to be worthless may be deducted from gross sales by the retailer who collected and remitted the tax. The following rules apply:\n\n- Debts were charged off for Federal Income Tax purposes\n- Transactions were included in gross sales on the current or prior return\n- The statute of limitations has not expired from when the original taxes were paid to the City of Arvada\n\nIn establishing worthlessness, the retailer has the burden of proof. Evidence that the usual remedies available in collecting the debt have been exhausted must show:\n\n- Collection attempts must be adequately documented\n- Documentation that the sale was included on a current or previous return\n- The debt has been charged off for Federal income tax purposes\n\nIf the retailer is not required to file income tax returns then the debt is to be charged off using accepted accounting principles. A retailer may claim a bad debt deduction on (line 3D) if the sales tax was actually paid to the City. If the debt is collected later, the sale price and related tax must be reported on the next periodic City sales/use tax return.\n\n## Amount Subject to Deductions\n\n### Taxable Receipts\n\nIf the bad debt contains nontaxable receipts, a bad debt deduction may be claimed only using the unpaid amount on which tax has been paid. All payments and credits to the account apply proportionally to the amount the purchaser contracted to pay.\n\n### Expenses of Collection\n\nNo deduction is allowable for expenses paid to enforce the collection of any account receivable. Debt recovered that is paid to a third party as compensation for services for collection is not deductible.\n\n### Worthless Account Later Collected\n\nIf any bad debt is later collected, in whole or in part, the tax is collected. It must be included in the first return filed after collection and tax must be paid on the amount with the return. The amount claimed as an allowable bad debt deduction or refund will determine the taxable percentage of the recovery.\n\n### Records\n\nDeductions or claims for refund for bad debts must have adequate and complete records showing:\n\n- Date of the original sale\n- Name and address of the purchaser\n- Amount purchaser contracted to pay\n- Amount on which retailer paid tax\n- The jurisdiction(s) receiving the taxes\n- All payments or other credits applied to the account of the purchaser\n- Evidence that the uncollectible amount has been legally charged off as a bad debt\n- The taxable amount charged off as a bad debt is consistent with the amount reported and taxed\n\n## Example\n\nMax's Sporting Goods sells uniforms to public and charitable high school sports teams. The schools provide their exemption certificate and are not charged sales tax. The sales are deducted on the return as Governmental / Charitable Sales. At the end of the year, Max's Sporting Goods discovered that one of the charitable schools did not pay for an order of $150 after many attempts to collect. The $150 is not deductible as a bad debt because taxes were never paid on the original sales.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

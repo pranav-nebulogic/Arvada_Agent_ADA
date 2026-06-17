@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "television",
+      "services",
+      "charge",
+      "code",
+      "sales",
+      "artiiisausta",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/358/Pay-Television"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-400",
+    "spreadsheet_id": "MI-400",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Pay Television",
+    "summary": "The Arvada Municipal Code imposes a sales/use tax on pay television services, including cable and internet-based video content, which must be collected by retailers and hotels providing such services. However, television services delivered via direct broadcast satellite are exempt from this tax due to federal law. The article provides examples of how tax applies to different pay television scenarios in hotels.",
+    "body": "The [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes a sales/use tax upon the purchase price paid for pay television services. These services include but are not limited to, cable, microwave, or other television services for which a charge is imposed. Retailers selling such services in the City must obtain a license and collect and remit Arvada sales tax. Hotels that charge for pay television services, such as pay‐per‐view movies, must collect and remit Arvada sales tax on these charges.\n\n## Video Transmitted Via the Internet\n\nThe definition of \"pay television\" includes \"other television service for which a charge is imposed\". This broad category encompasses all charges for the transmission of visual images with accompanying sound including, but not limited to, charges for video content transmitted via the Internet. Charges for video transmitted via the Internet are taxable whether billed on a pay‐per‐view or a periodic subscription basis. The tax applies regardless of whether the content is viewed on a television set or using a computer, tablet computer, smartphone, or other internet-connected devices. The tax applies to both downloaded and streaming content.\n\n## Direct Broadcast Satellite\n\nTelevision services delivered via direct broadcast satellite meet the definition of taxable pay television services under the Arvada Municipal Code; however, Section 602 of the Telecommunications Act of 1996 precludes the City from taxing such services. Therefore, such services Sec.98-66 Property and service taxed (1) g. On The amount charged for pay television services is presently exempt from tax as the City is prohibited from taxing under the laws of the United States\n\n## Example\n\n- AA Motel subscribes to a basic service from a provider for use by its guests at no charge. This service includes local TV channels, ESPN, CNN, and HBO, received via cable. Since these services are provided through cable and not satellite they are taxable to the motel and are paid directly to the television service provider.\n- ZZ Motel contracts with an Arvada-licensed pay-per-view company to provide movies to its guests on a pay-per-view basis. The motel's guests select from a list of movies and are charged $6.95 per movie. A charge will appear on the guest's bill for the $6.95 plus tax. The motel acts as a collection agent for the pay-per-view company, which in turn remits the tax to the City of Arvada.\n- A motel provides in-house movies to its guests for a charge. The motel is the provider of the service and is responsible to collect and remit the tax to the City of Arvada.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

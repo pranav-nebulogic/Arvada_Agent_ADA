@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "methods",
+      "reducing",
+      "flood",
+      "losses",
+      "order",
+      "accomplish",
+      "purposes",
+      "division",
+      "includes",
+      "provisions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-2-4"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-2. FLOODPLAIN REGULATIONS"
+  },
+  "content": {
+    "title": "4-1-2-4. Methods of reducing flood losses.",
+    "summary": "A.\tIn order to accomplish its purposes, this Division includes methods and provisions for:\n  1.\tRequiring all construction of permitted buildings to be in compliance with the City of Arvada Building Code;\n  2.\tRestricting or prohibiting land uses that are: a) dangerous to public life, health, safety…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-2-4. Methods of reducing flood losses.",
+        "a": "A.\tIn order to accomplish its purposes, this Division includes methods and provisions for:\n  1.\tRequiring all construction of permitted buildings to be in compliance with the City of Arvada Building Code;\n  2.\tRestricting or prohibiting land uses that are: a) dangerous to public life, health, safety, and property in times of flooding, or b) result in damaging increases in erosion, flood heights, or velocities;\n  3.\tRequiring land uses vulnerable to floods, including facilities that serve such uses, be protected against floods at the time of initial construction or substantial improvements;\n  4.\tRegulating the manner in which a structure or building may be constructed in Special Flood Hazard areas;\n  5.\tRegulating the method of construction of water supply and sanitation systems so as to reduce disease, contamination, and unsanitary conditions;\n  6.\tDelineating and describing areas that could be inundated by floods;\n  7.\tRegulating the method of construction and pattern of development within all uses in the regulatory floodplain;\n  8.\tRegulating the alteration of natural floodplains, stream channels, and natural protective barriers, that help accommodate or channel flood waters;\n  9.\tRegulating or prohibiting filling, grading, development, dredging, and unnecessary encroachments that may increase flood damage;\n  10.\tEncouraging uses such as greenbelt, open space, agricultural, recreation facilities, and riding trails in floodplain areas;\n  11.\tPreventing or regulating the construction of flood barriers that will unnaturally divert flood waters or that may increase flood hazards in other areas; and\n  12.\tProhibiting makeshift structures, enclosures, or other shelters used for human habitation in floodplain areas, except in locations expressly permitted by the City and having adequate sanitation facilities and approved flood evacuation plans.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-2-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

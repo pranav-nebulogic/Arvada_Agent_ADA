@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-17-009",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "sales_tax",
+    "tags": [
+      "pay",
+      "accept",
+      "all",
+      "payment",
+      "types",
+      "including",
+      "check",
+      "credit",
+      "Sales Tax"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=17"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/how-do-i-pay",
+    "faq_category_name": "Sales Tax"
+  },
+  "content": {
+    "title": "How do I pay?",
+    "summary": "We accept all payment types including e-check, credit card, and ACH credit payments. If you need electronic payment details, please reference the FAQs from your MUNIRevs Business Center and submit the form for access.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "How do I pay?",
+        "a": "We accept all payment types including e-check, credit card, and ACH credit payments. If you need electronic payment details, please reference the FAQs from your MUNIRevs Business Center and submit the form for access."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

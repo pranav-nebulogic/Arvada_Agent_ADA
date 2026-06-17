@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "limitations",
+      "site",
+      "disturbance",
+      "generally",
+      "permit",
+      "must",
+      "obtained",
+      "accordance",
+      "chapter",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-1-3-4"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-1. ENVIRONMENTAL QUALITY",
+    "division": "DIVISION 4-1-3. STORMWATER AND DRAINAGE CONTROL"
+  },
+  "content": {
+    "title": "4-1-3-4. Limitations on site disturbance.",
+    "summary": "A.\tGenerally. A site disturbance permit must be obtained in accordance with Chapter 50 of the City Code.\nB.\tExemptions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-1-3-4. Limitations on site disturbance.",
+        "a": "A.\tGenerally. A site disturbance permit must be obtained in accordance with Chapter 50 of the City Code.\nB.\tExemptions. This Section does not apply to agriculture and irrigation ditch or reservoir maintenance activities and is limited to only routine maintenance activities that are excluded from being an \"applicable construction site\" under the City's Municipal Separate Storm Sewer System (MS4) Permit.\nC.\tLimitation on Disturbed Area. Cuts, fills, grading, excavation, vegetation removal, and building construction shall be confined to the footprint of the proposed building, plus a working area of not more than 30 feet around each such footprint, plus any site disturbance necessary for installation and maintenance of utilities, access ways, trails, irrigation ditches, and fences, and for landscaping, agriculture, and similar activities.\nD.\tErosion Control Plans and State Permits.\n  1.\tAll erosion control plans shall comply with applicable standards adopted by the Urban Drainage and Flood Control District, the City of Arvada Engineering Code of Standards and Specifications, and City Code Article IV, Sections 50-70 through 50-79 as may be amended from time to time.\n  2.\tA Stormwater Management Plan is required in accordance with Chapter 50 of the Arvada City Code. A permit from the Colorado Discharge Permit System-Stormwater may be required from the Colorado Department of Public Health and Environment, Water Quality Control Division, prior to start of construction.\n(Ord. No. 4867, § 2, 2-12-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "4-1-3-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

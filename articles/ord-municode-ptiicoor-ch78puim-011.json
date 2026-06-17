@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "recommendations",
+      "resolution",
+      "under",
+      "provisional",
+      "order",
+      "method",
+      "request"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-12"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-12. - Recommendations.",
+    "summary": "The resolution under the provisional order method may request recommendations as to:\n(1)\nWhat part or portion of the expense thereof is of special benefit, and therefore,\n                  shall be paid by assessments;\n(2)\nWhat part, if any, has been or is proposed to be defrayed with moneys derived…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-12. - Recommendations.",
+        "a": "The resolution under the provisional order method may request recommendations as to:\n(1)\nWhat part or portion of the expense thereof is of special benefit, and therefore,\n                  shall be paid by assessments;\n(2)\nWhat part, if any, has been or is proposed to be defrayed with moneys derived from\n                  other than the levy of assessments; and\n(3)\nThe basis by which the cost will be apportioned and assessments will be levied.\n(Code 1981, § 27-13; Ord. No. 551, § 8(D), 5-14-1964; Ord. No. 766, § 3, 6-16-1969)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-12"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-25-001",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "development_permit",
+    "category": "development",
+    "tags": [
+      "submit",
+      "documents",
+      "multiple",
+      "departments",
+      "people",
+      "one",
+      "primary",
+      "point",
+      "Development Review Resources"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=25"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/do-i-have-to-submit-documents-to-multiple-departments-or-peo",
+    "faq_category_name": "Development Review Resources"
+  },
+  "content": {
+    "title": "Do I have to submit documents to multiple departments or people?",
+    "summary": "No! You will have one primary point of contact (your designated planner) and will submit everything online through SMART License & Permits. You will be guided through the process.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Do I have to submit documents to multiple departments or people?",
+        "a": "No! You will have one primary point of contact (your designated planner) and will submit everything online through SMART License & Permits. You will be guided through the process."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

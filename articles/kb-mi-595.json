@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "water",
+      "activities",
+      "state",
+      "fishing",
+      "https",
+      "aspx",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/652/Water-Activities"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-595",
+    "spreadsheet_id": "MI-595",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Water Activities",
+    "summary": "Boating is allowed at the Arvada Reservoir and Lake Arbor, with adherence to Colorado's regulations. Fishing is permitted at most lakes and ponds in Arvada, and the annual Arvada Kids Fishing Contest takes place in June at the Arvada-Blunn Reservoir. Swimming is prohibited in local lakes, ponds, and creeks, but residents can access swimming pools through the APEX Aquatics program.",
+    "body": "**Important**: For sporting activities, including boating and fishing, all **State of Colorado rules and regulations** must be followed. [Visit the Colorado Parks and Wildlife website](https://cpw.state.co.us/) for information on [fishing licenses](https://cpw.state.co.us/buyapply/Pages/Fishing.aspx), [boating rules](https://cpw.state.co.us/thingstodo/Pages/boat.aspx), and more.\n\n## Boat Usage on Lakes in Arvada\n\nCurrently, boats are permitted at the [Arvada Reservoir](/658/Arvada-Reservoir) and Lake Arbor. For detailed information on boating in the City, [visit Boat Usage on Lakes in Arvada](/672/Boat-Usage-on-Lakes-in-Arvada).\n\n## Fishing in Arvada\n\nThere are many places to [fish in Arvada](/654/Fishing). Fishing is permitted at most Arvada lakes or ponds unless otherwise posted.\n\n## Arvada Kids Fishing Contest\n\nThe annual Arvada Kids Fishing Contest is held in June at the Arvada-Blunn Reservoir. [Visit the event webpage](/856) for more information.\n\n## Ralston Central Park Splash Pad\n\nThe Ralston Central Park Splash Pad operates from Memorial Day weekend through Labor Day weekend. [Visit the Ralston Central Splash Pad page for more information](/675/Ralston-Central-Park-Splash-Pad).\n\n## Olde Town Water Fountain\n\nIn 2023, the Olde Town Water Fountain operates from May 27 to September 30. [Visit the Olde Town Water Fountain page for more information](/673/Olde-Town-Water-Fountain).\n\n## Swimming\n\nSwimming is not allowed in lakes, ponds, or creeks in Arvada. If you are looking for a swimming pool in Arvada, check out the [APEX Aquatics program](https://apexprd.org/activities/aquatics/) for information on indoor and outdoor locations.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

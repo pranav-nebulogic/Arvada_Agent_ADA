@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-28-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "other",
+      "colorado",
+      "cities",
+      "doing",
+      "regards",
+      "providing",
+      "ffth",
+      "since",
+      "Broadband & Internet Services"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=28"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-are-other-colorado-cities-doing-in-regards-to-providing",
+    "faq_category_name": "Broadband & Internet Services"
+  },
+  "content": {
+    "title": "What are other Colorado cities doing in regards to providing FFTH?",
+    "summary": "Since 2008, 129 Colorado local communities have voted to opt out of SB-152. Out of these Longmont is the only city that is directly providing FFTH. Fort Collins, Grand Junction and Estes Park are exploring the idea, and Rio Blanco County is considering an open access public private model.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What are other Colorado cities doing in regards to providing FFTH?",
+        "a": "Since 2008, 129 Colorado local communities have voted to opt out of SB-152. Out of these Longmont is the only city that is directly providing FFTH. Fort Collins, Grand Junction and Estes Park are exploring the idea, and Rio Blanco County is considering an open access public private model."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

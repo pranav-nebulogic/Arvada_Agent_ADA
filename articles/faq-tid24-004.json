@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-24-005",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "building_permit",
+    "category": "building_permits",
+    "tags": [
+      "permits",
+      "cost",
+      "fees",
+      "variable",
+      "permit",
+      "vary",
+      "project",
+      "type",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=24"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-do-permits-cost",
+    "faq_category_name": "Building Permits"
+  },
+  "content": {
+    "title": "What do permits cost?",
+    "summary": "Fees are variable. Permit fees vary by project type. Typically, you can expect to pay: A Permit Fee Use Tax A Plan Review Fee if Required Permit fees can be estimated using our online calculator. Use Tax Use tax is a tax that is assessed in lieu of sales tax. The Arvada use tax rate is the same as t…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What do permits cost?",
+        "a": "Fees are variable. Permit fees vary by project type. Typically, you can expect to pay: A Permit Fee Use Tax A Plan Review Fee if Required Permit fees can be estimated using our online calculator. Use Tax Use tax is a tax that is assessed in lieu of sales tax. The Arvada use tax rate is the same as the sales tax rate, 3.46%. Building use tax is assessed on construction materials that are used in Arvada. The revenues from building use tax are utilized to fund additional city services related to construction growth. The tax is computed on the total value of the project. The construction project valuation is based on statistical data relating to costs of similar projects or the actual contract price of a project. Although an individual may conduct the construction work themselves and may obtain materials at a discount or no cost, this still results in increased value to the improvements. Consequently, use tax is calculated on the greater of the calculated or contract values. New: You can now use the Fee Calculator to get an estimation of the cost of permit."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

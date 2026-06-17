@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "commercial",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "retail",
+      "office",
+      "development",
+      "zoning",
+      "district"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-3-3-1"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-3. SITE DESIGN",
+    "division": "DIVISION 4-3-3. STANDARDS FOR SPECIFIC DEVELOPMENT TYPES"
+  },
+  "content": {
+    "title": "4-3-3-1. Commercial.",
+    "summary": "A.\tGenerally. The standards of this Section shall apply to retail and office development in the CG zoning district that contains retail buildings with at least 50,000 square feet of cumulative gross leasable area.\nB.\tPedestrian Plaza.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-3-3-1. Commercial.",
+        "a": "A.\tGenerally. The standards of this Section shall apply to retail and office development in the CG zoning district that contains retail buildings with at least 50,000 square feet of cumulative gross leasable area.\nB.\tPedestrian Plaza. Each such development shall include at least one pedestrian plaza at least 5,000 square feet in area as a visual and functional focal point of the development.\nC.\tPedestrian Connections. For all uses, sidewalks or walkways serving the site shall be designed so that:\n  1.\tEach point at which the system of sidewalks must cross a parking lot or internal street or driveway to make a required connection shall be clearly marked in accordance with the standards from the Manual on Uniform Traffic Control Devices (MUTCD), through the use of change in paving materials height, or distinctive colors; and\n  2.\tWhere sidewalks required above are providing pedestrian travel along private streets or drives, those sidewalks shall be detached from such private streets or drives for at least 50 percent of the linear distance of those adjacent sidewalks by a tree lawn at least eight feet in width. Sidewalks adjacent to parking spaces shall not be required to be detached; and\n  3.\tAll sidewalks shall be a minimum of five feet wide, or seven feet where there is adjacent perpendicular head-in parking."
+      }
+    ],
+    "ordinance_refs": [
+      "4-3-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

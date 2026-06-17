@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "alkire",
+      "street",
+      "trail",
+      "pedestrian",
+      "traffic",
+      "access",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/628/Alkire-Street-Trail"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-040",
+    "spreadsheet_id": "MI-040",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Alkire Street Trail",
+    "summary": "The Alkire Street Trail project aims to enhance bike and pedestrian safety by constructing an 8-foot detached trail and a new pedestrian bridge, with construction expected to last 6 to 9 months starting from October 27, 2025. During construction, single lane closures will occur with flaggers directing traffic, while pedestrian access will be maintained on the east side of Alkire Street. The project is funded by an 80% grant from the Colorado Department of Transportation and will also improve the local stormwater drainage system.",
+    "body": "## Current updates\n\nUpdate 3/26/26\n\n- **Single lane closures with flaggers**will be in place for alternating north-south traffic during construction.\n  - Travel delays are possible, alternative routes are advised.\n  - Two-way traffic will reopen outside of work hours.\n- **Pedestrian access**will be maintained on the **east side of Alkire St. only.**\n\n## Overview\n\nThe Alkire Street Trail project will enhance bike and pedestrian safety along the corridor. Improvements include:\n\n- 8-foot detached trail on the west side of Alkire Street from W 78th Avenue to W 80th Avenue\n- New pedestrian bridge over the northern canal\n- Improved crosswalk with a push-to-cross Rectangular Rapid Flashing Beacon (RRFB) at 78th Avenue across Alkire\n\n## Project area\n\n![Map showing new Alkire Street Trail which will run north from west 78th ave to w 80th ave with a pedestrian footbridge that crosses over farmers high line canal. There is also an upgraded pedestrian crossing over Akire at west 78th ave](/ImageRepository/Document?documentId=812)\n\n## Timeline\n\nConstruction began October 27, 2025 and is anticipated to take **6 to 9 months to complete.**\n\n- 2023 - 2024: project design and planning in coordination with CDOT\n- Spring 2025: design plans approved by CDOT\n- Fall 2025: construction to begin in October\n- Summer 2026: anticipated project completion\n\n## What to expect\n\n- **Working hours**will be 7 am to 7 pm, Monday through Friday\n  - Efforts will be put in place to pause work during school drop off and let out times to avoid congestion\n- **Single lane closures**can be expected throughout the project\n  - Accommodations will be made for pedestrians through the construction zone\n  - Flaggers will direct one-way traffic while the road is open during construction\n- **Planned water outages**will be necessary\n  - Affected residents will be notified\n- **Construction noise** may be present during working hours\n\nPlease submit questions or concerns through [Ask Arvada](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map) and a member of the project team will be in touch.\n\n## Project background\n\nIn 2020, the City applied for and was awarded a Transportation Alternative Program (TAP) Grant through the Colorado Department of Transportation (CDOT). This grant provides 80% funding for the project and the City will provide 20% of the funding.\n\nThis project will also help to improve the stormwater drainage system through the area. The City has a separate project working to finish connecting the trail from W 78th Avenue to 600’ south where the current Alkire Street trail ends. This portion of the project must be funded and completed separately due to newly uncovered stormwater system design challenges through this area.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

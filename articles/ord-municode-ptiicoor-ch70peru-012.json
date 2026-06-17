@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "personnel",
+      "file",
+      "human",
+      "resources",
+      "department",
+      "establish",
+      "maintain"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-40"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-40. - Personnel file.",
+    "summary": "(a)\nThe human resources department will establish and maintain a personnel file for each\n               employee which will contain all official records pertaining to the employee. This\n               file is the employee's official file. The director of human resources or a designee\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-40. - Personnel file.",
+        "a": "(a)\nThe human resources department will establish and maintain a personnel file for each\n               employee which will contain all official records pertaining to the employee. This\n               file is the employee's official file. The director of human resources or a designee\n               thereof will allow or deny inspection of personnel files in accordance with the provisions\n               relating to the inspection of public records.\n(b)\nEmployees may review their personnel file under the supervision of a human resources\n               staff member. Employees may request a copy of their entire file or particular sections.\n(c)\nEmployees may not review tests, references, or other materials associated with their\n               approval or denial of a position with the city.\n(d)\nSupervisors should keep a working file on each employee that consists of any performance\n               notes, verbal and written reprimands, leave requests, and contact information. Any\n               original written reprimands issued to the employee must be placed in the personnel\n               file located in the human resources department. A copy may also be placed in the supervisor's\n               file.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-40"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

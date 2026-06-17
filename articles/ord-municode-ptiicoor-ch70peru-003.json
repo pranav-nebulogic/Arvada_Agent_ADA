@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "equal",
+      "employment",
+      "opportunity",
+      "continue",
+      "fundamental",
+      "principle",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-31"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-31. - Equal employment opportunity.",
+    "summary": "Equal Employment Opportunity has been, and will continue to be, a fundamental principle\n               at the City of Arvada, where employment is based upon personal capabilities and qualifications\n               without discrimination because of race, religion, color, sex, sexual orientation,\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-31. - Equal employment opportunity.",
+        "a": "Equal Employment Opportunity has been, and will continue to be, a fundamental principle\n               at the City of Arvada, where employment is based upon personal capabilities and qualifications\n               without discrimination because of race, religion, color, sex, sexual orientation,\n               gender identity, gender expression, national origin, ancestry, citizenship status,\n               marital status, pregnancy, age, medical condition, handicap, or disability or any\n               other protected characteristic as established by law. The city will comply with all\n               applicable federal and state laws and city policy in providing equal employment opportunities.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-31"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

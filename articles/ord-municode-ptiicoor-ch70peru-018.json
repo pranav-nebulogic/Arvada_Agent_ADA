@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "paydays",
+      "regular",
+      "city",
+      "employees",
+      "every",
+      "other",
+      "friday"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-51"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-51. - Paydays.",
+    "summary": "Regular paydays for city employees are every other Friday. When the regular payday\n               falls on a holiday for which city offices are closed, payroll will inform employees\n               of the alternate payday. A pay statement will be delivered, either electronically\n               or in …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-51. - Paydays.",
+        "a": "Regular paydays for city employees are every other Friday. When the regular payday\n               falls on a holiday for which city offices are closed, payroll will inform employees\n               of the alternate payday. A pay statement will be delivered, either electronically\n               or in paper format, whichever is in the city's best interest. On each payday, the\n               pay statement will show gross pay, deductions, and net pay. Direct deposit to an institution\n               of the employee's choosing is required for a city employee to receive their bi-weekly\n               pay. Automatic deductions authorized by the city, such as additional tax withholding,\n               contributions to city-sponsored voluntary benefit plans, and individual savings plans,\n               may also be arranged through the human resources and finance departments. Annual or\n               monthly pay rates are recalculated to correspond to the city's bi-weekly payment schedule.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-51"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

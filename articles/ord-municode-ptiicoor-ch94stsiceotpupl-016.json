@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notice",
+      "owner",
+      "repair",
+      "curb",
+      "gutter",
+      "sidewalks",
+      "service"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-33"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-33. - Notice to owner to repair curb, gutter and sidewalks; service.",
+    "summary": "When any curb, gutter and sidewalk in the front, side or rear of any premises in the\n               city shall be in need of repair or reconstruction, the city manager, or his designee,\n               shall cause notice in writing to be served upon the owner of such premises or the\n               ag…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-33. - Notice to owner to repair curb, gutter and sidewalks; service.",
+        "a": "When any curb, gutter and sidewalk in the front, side or rear of any premises in the\n               city shall be in need of repair or reconstruction, the city manager, or his designee,\n               shall cause notice in writing to be served upon the owner of such premises or the\n               agent of the owner to repair or reconstruct the same within 30 days or an extended\n               period at the discretion of the city manager or his designee. Service of notice may\n               be completed by registered or certified United States mail, or personal delivery of\n               the notice.\n(\nOrd. No. 4365, § 1, 11-19-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

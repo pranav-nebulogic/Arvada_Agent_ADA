@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "qualified",
+      "supervisors",
+      "required",
+      "respective",
+      "licensees",
+      "whether",
+      "individuals"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-76"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-76. - Qualified supervisors.",
+    "summary": "(a)\nWhen required.\nThe respective licensees, whether individuals, firms or corporations, shall not be\n               required to possess those skills and qualifying experience records required for the\n               work they are permitted to do under the terms and provisions of their respective lic…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-76. - Qualified supervisors.",
+        "a": "(a)\nWhen required.\nThe respective licensees, whether individuals, firms or corporations, shall not be\n               required to possess those skills and qualifying experience records required for the\n               work they are permitted to do under the terms and provisions of their respective licenses,\n               provided that they retain in their business a supervisor whose skills and qualifying\n               experience records are such that he would be qualified to supervise all work in his\n               principal's license category. The respective licensees' rights to do business shall\n               be dependent upon the continued retention of the designated supervisors in active,\n               full-time capacity.\n(b)\nTermination of supervisor.\nWhenever a designated supervisor terminates his association with a licensee or otherwise\n               becomes inactive, the licensee shall immediately notify the building inspection division.\n               In such event, the license shall be deemed to be suspended and there shall be a 30\n               calendar day grace period from the date of termination of the supervisor in order\n               to acquire a proper supervisor before complete termination of the license. Should\n               the supervisor be replaced, such fact shall be made known to the building inspection\n               division. If the proposed replacement is found to meet the required qualifications,\n               the license shall again be deemed in full force and effect without imposition of an\n               additional license fee for the license period.\n(c)\nQualifications of supervisor.\nEach individual who is to act as a supervisor shall work proposed to be done. Each\n               individual who is to act as a supervisor shall be designated as such in each application\n               for a license. Each supervisor shall be required to take a license examination in\n               accordance with\nsection 18-71\n(b) or provide information as requested to demonstrate knowledge and proficiency to\n               perform work in accordance with the regulations of this chapter.\n(Ord. No.\n4738\n, § 4, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-76"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

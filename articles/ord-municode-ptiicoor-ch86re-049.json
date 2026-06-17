@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rights",
+      "nonvoluntary",
+      "separation",
+      "after",
+      "years",
+      "service",
+      "member"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-157"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-157. - Rights of nonvoluntary separation after 20 years service.",
+    "summary": "A member who has 20 years of credited service, but who has not attained the age of\n               55 years and who becomes physically or mentally incapacitated from continuing in active\n               service for any reason not connected with the performance of duties or by reason of\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-157. - Rights of nonvoluntary separation after 20 years service.",
+        "a": "A member who has 20 years of credited service, but who has not attained the age of\n               55 years and who becomes physically or mentally incapacitated from continuing in active\n               service for any reason not connected with the performance of duties or by reason of\n               service, may apply for pension. The board shall have full discretion for granting\n               or rejecting such application. It is the policy of this section to provide a pension\n               for those members who have 20 years or more of credited service and who have not attained\n               the age of 55 years, but who are prevented, through no fault of their own, from continuing\n               in active service.\n(Code 1960, § 19-11(E); Code 1981, § 26-81)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-157"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

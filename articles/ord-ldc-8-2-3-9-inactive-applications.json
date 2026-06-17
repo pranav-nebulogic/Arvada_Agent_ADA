@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "inactive",
+      "applications",
+      "generally",
+      "development",
+      "approval",
+      "diligently",
+      "pursued",
+      "applicant",
+      "section",
+      "intended"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "8-2-3-9"
+    ],
+    "chapter": "Chapter 8 DEVELOPMENT REVIEW PROCESS",
+    "article": "ARTICLE 8-2. GENERAL REVIEW PROCEDURES",
+    "division": "DIVISION 8-2-3. STANDARDIZED DECISION-MAKING PROCEDURES"
+  },
+  "content": {
+    "title": "8-2-3-9. Inactive applications.",
+    "summary": "A.\tGenerally. Applications for development approval shall be diligently pursued by the Applicant. This section is intended to delete applications that become inactive due to inaction by the Applicant.\nB.\tExpiration of Inactive Applications.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "8-2-3-9. Inactive applications.",
+        "a": "A.\tGenerally. Applications for development approval shall be diligently pursued by the Applicant. This section is intended to delete applications that become inactive due to inaction by the Applicant.\nB.\tExpiration of Inactive Applications. When an action by the Applicant is required for further processing of an application the application shall become void 180 days after the date that the action is requested if the Applicant either fails to take action or fails to request an extension of time pursuant to Subsection C., below.\nC.\tExtension of Time. The Director may extend the time for expiration of an application by up to 180 additional days upon written request of the Applicant before the end of the period set out in Subsection B., above."
+      }
+    ],
+    "ordinance_refs": [
+      "8-2-3-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

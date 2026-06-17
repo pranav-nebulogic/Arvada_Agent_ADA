@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "rules",
+      "regulations",
+      "board",
+      "shall",
+      "make",
+      "all",
+      "necessary"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-77"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-77. - Rules and regulations.",
+    "summary": "The board shall make all necessary rules and regulations for managing and discharging\n               its duties (not inconsistent with statute or with the provisions of this chapter),\n               which it may deem necessary or advisable to carry out the provisions thereof; shall\n               he…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-77. - Rules and regulations.",
+        "a": "The board shall make all necessary rules and regulations for managing and discharging\n               its duties (not inconsistent with statute or with the provisions of this chapter),\n               which it may deem necessary or advisable to carry out the provisions thereof; shall\n               hear and decide all applications for relief or pensions under the provisions of this\n               chapter, and its action upon such applications shall be final and conclusive; except\n               that when, in its opinion, justice demands that said actions should be reconsidered,\n               the same may be reversed by the board. A record of said action and all other matters\n               coming properly before the board shall be kept and preserved.\n(Code 1960, § 19-2(B); Code 1981, § 26-33)\nState Law reference—\nRules and regulations under statutory system, C.R.S. § 31-30-605."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-77"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

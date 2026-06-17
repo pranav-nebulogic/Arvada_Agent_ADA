@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "utility",
+      "communications",
+      "standards",
+      "utilities",
+      "major",
+      "located",
+      "within",
+      "feet",
+      "boundary",
+      "residential"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-3-9"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-3. USE-SPECIFIC STANDARDS FOR PRIMARY LAND USE"
+  },
+  "content": {
+    "title": "3-1-3-9. Utility and communications standards.",
+    "summary": "A.\tUtilities, Major.\n  1.\tThe use shall not be located within 300 feet of the boundary of a residential use, unless it can be demonstrated that no other location is viable.\nB.\tUtilities, Minor.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-3-9. Utility and communications standards.",
+        "a": "A.\tUtilities, Major.\n  1.\tThe use shall not be located within 300 feet of the boundary of a residential use, unless it can be demonstrated that no other location is viable.\nB.\tUtilities, Minor. In the zoning districts where identified as a limited use:\n  1.\tAn existing use may continue to operate as a conforming use, except that if above-ground utilities are modified or relocated, they shall be relocated underground unless such relocation is physically not feasible or would damage historic buildings.\nC.\tData Center.\n  1.\tThe use shall not be located within 300 feet of the boundary of a residential zoning district.\nD.\tOverhead Power Lines.\n  1.\tNew transmission lines that are not located within existing utility easements shall be routed 300 feet away from arterial streets and existing or approved noise-sensitive uses to the maximum extent practicable.\n  2.\tTo the extent practicable, new transmission lines shall be located within existing transmission easements or routed outside of the City.\nE.\tRadio or Television Transmission Tower.\n  1.\tThe tower shall, to the extent possible, be designed using camouflage or concealment design techniques (e.g., materials, colors, textures, screening, undergrounding, landscaping, or other design options that will blend the tower to the surrounding natural setting and built environment).\n  2.\tLighting of towers is not allowed, except as may be required by FAA regulations.\nF.\tSolar Garden.\n  1.\tSolar Garden shall meet the required height and setback within the respective zoning district.\n  2.\tAll solar collector systems shall be in compliance with the Building Code.\n  3.\tSolar collector systems that use concentrator technologies shall incorporate anti-glare measures into the system or shall be placed in areas so that the concentrated solar glare shall not be directed to adjacent residential uses or roadways.\nG.\tUtility-Scale Wind Energy Conversion System.\n  1.\tThe minimum acreage for a utility-scale wind system shall be established based on the setbacks of the turbine(s) and the height of the turbine(s) per Section 5-1-4-4, Renewable Energy Systems.\n  2.\tAll turbines located within the same utility-scale wind system shall be of similar tower design, including the type, number of blades, and the direction of blade rotations.\n  3.\tUtility-scale wind systems shall be set back at least one and one-half times the height of the turbine and rotor diameter from the property line and any above ground electrical and telephone lines, and other uninhabitable structures."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-3-9"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

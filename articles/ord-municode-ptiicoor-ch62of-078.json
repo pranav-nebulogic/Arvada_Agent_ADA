@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legislative",
+      "declaration",
+      "city",
+      "council",
+      "hereby",
+      "finds",
+      "declares"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-201"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-201. - Legislative declaration.",
+    "summary": "The city council hereby finds and declares as a matter of legislative determination\n               that the unauthorized use of motor vehicles in Arvada has risen substantially and\n               that such unauthorized use often contributes to or makes possible other criminal activity.\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-201. - Legislative declaration.",
+        "a": "The city council hereby finds and declares as a matter of legislative determination\n               that the unauthorized use of motor vehicles in Arvada has risen substantially and\n               that such unauthorized use often contributes to or makes possible other criminal activity.\n               In addition, city council finds and declares that many crimes involving the unauthorized\n               use of a motor vehicle begin with a vehicle that is taken in Arvada and later located\n               in Arvada. It is the intent of city council, and council finds it necessary, to exercise\n               to the fullest extent possible its authority to provide for the regulation and control\n               of the unauthorized use of motor vehicles.\n(Ord. No. 4006, § 2, 6-26-2006)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-201"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

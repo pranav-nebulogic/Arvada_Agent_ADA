@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "notification",
+      "abatement",
+      "proceedings",
+      "owner",
+      "property",
+      "defaced",
+      "graffiti"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH38EN"
+    ],
+    "scraped_at": "2026-06-10T12:02:35.049143+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 38-193"
+    ],
+    "chapter": "Chapter 38 - ENVIRONMENT"
+  },
+  "content": {
+    "title": "Chapter 38 - ENVIRONMENT — Sec. 38-193. - Notification of abatement proceedings.",
+    "summary": "The owner of the property defaced by graffiti vandalism, which is located within the\n               city, shall be notified of such graffiti vandalism by the city prior to abatement\n               procedures. Service of the notice may be by first class mail properly addressed to\n               the d…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 38-193. - Notification of abatement proceedings.",
+        "a": "The owner of the property defaced by graffiti vandalism, which is located within the\n               city, shall be notified of such graffiti vandalism by the city prior to abatement\n               procedures. Service of the notice may be by first class mail properly addressed to\n               the dwelling or building located on the lot or tract of land upon which the graffiti\n               vandalism occurs, by a conspicuous posting of the written notice upon the dwelling\n               or building located on the lot or tract of land upon which the graffiti vandalism\n               occurs, or by personal service upon a natural person ever the age of 18 years who\n               occupies a dwelling or building or tract of land upon which graffiti vandalism occurs.\n               If a notice of graffiti vandalism cannot be served in any of the aforementioned ways,\n               the notice shall be sent by first class mail to the owner of record of such lot or\n               tract of land as shown in the records of the county. The notice shall be in written\n               form and shall contain a:\n(1)\nDescription of the property upon which the graffiti vandalism occurred and a description\n                  of the nature of the vandalism.\n(2)\nDemand that the owner remove or eradicate the graffiti vandalism from the property\n                  within ten days from the date of such notice.\n(3)\nStatement that the owner may voluntarily agree to immediate removal or eradication\n                  of the graffiti vandalism by the city, with the costs assessed against the property\n                  owner.\n(4)\nStatement that warns that the owner's failure or refusal to remove or eradicate the\n                  graffiti vandalism may result in commencement of abatement procedures by the city,\n                  and if all costs of such abatement, including administrative costs, attorney's fees,\n                  and court or hearing costs, is not paid to the city within 30 days after a notice\n                  of assessment is mailed to the property owner, such costs will be recorded as a statement\n                  of lien with the appropriate county clerk and recorder and may be assessed as a lien\n                  against the property pursuant to the provisions of\nchapter 59\nentitled \"municipal liens.\"\n(5)\nStatement that the owner may make written demand to the code enforcement department\n                  for a hearing before abatement procedures are commenced. The hearing shall be conducted\n                  by the city manager, or his designee, provided the written demand for such hearing\n                  is made within ten days from the date of the notice of nuisance, and provided the\n                  written demand for a hearing contains the owner's current address and a telephone\n                  number where such owner can be reached between the hours of 8:00 a.m. and 5:00 p.m.,\n                  Monday through Friday. Written demand for a hearing shall be sent to the Code Enforcement\n                  Supervisor, City of Arvada, 8101 Ralston Road, Arvada, Colorado 80002.\n(Code 1981, § 20-52; Ord. No. 3455, § 3, 7-6-1998;\nOrd. No. 4042, § 3, 12-11-2006\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 38-193"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

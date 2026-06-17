@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedure",
+      "upon",
+      "resultant",
+      "vacancy",
+      "event",
+      "officer",
+      "recalled"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-68"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-68. - Procedure upon resultant vacancy.",
+    "summary": "In the event that an officer is recalled by a majority vote of those voting on the\n               question, the office shall be deemed vacant and shall be filled as provided in\nsection 4.6\nof the Charter.\n(Code 1981, § 11-39; Ord. No. 3511, § 2, 2-1-1999)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-68. - Procedure upon resultant vacancy.",
+        "a": "In the event that an officer is recalled by a majority vote of those voting on the\n               question, the office shall be deemed vacant and shall be filled as provided in\nsection 4.6\nof the Charter.\n(Code 1981, § 11-39; Ord. No. 3511, § 2, 2-1-1999)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-68"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

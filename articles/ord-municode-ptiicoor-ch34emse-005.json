@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "charge",
+      "levied",
+      "shall",
+      "except",
+      "hereafter",
+      "provided",
+      "imposed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH34EMSE"
+    ],
+    "scraped_at": "2026-06-10T12:02:33.665000+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 34-72"
+    ],
+    "chapter": "Chapter 34 - EMERGENCY SERVICES"
+  },
+  "content": {
+    "title": "Chapter 34 - EMERGENCY SERVICES — Sec. 34-72. - Charge levied.",
+    "summary": "There shall be, except as hereafter provided, imposed on the alarm user of an alarm\n               system for every false alarm to which the police department responds, an administrative\n               charge at a rate established by the chief of police, approved by the city manager,\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 34-72. - Charge levied.",
+        "a": "There shall be, except as hereafter provided, imposed on the alarm user of an alarm\n               system for every false alarm to which the police department responds, an administrative\n               charge at a rate established by the chief of police, approved by the city manager,\n               and as set forth in the administrative fee schedule. A charge shall not be levied\n               on the alarm user where it has been defined by the chief of police that such alarm;\n(1)\nWas valid; or\n(2)\nWas activated by weather conditions and such alarm could not have been prevented by\n                  reasonable precautions; or\n(3)\nWas intentionally activated with a reasonable belief that criminal activity was occurring\n                  or was about to occur; or\n(4)\nIs installed on residential premises or a public facility on which there have been\n                  fewer than four false alarms during the current calendar year. For purposes of this\n                  subsection, the \"current calendar year\" shall begin on the first date subsequent to\n                  the effective date of this amendment (August 9, 1983) that the police department responds\n                  to a false alarm on said premises or public facility.\n(Code 1981, § 2-191(b); Ord. No. 1745, §§ 2—6, 5-18-1981; Ord. No. 1959, § 1, 8-1-1983;\n               Ord. No. 3237, § 2, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 34-72"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

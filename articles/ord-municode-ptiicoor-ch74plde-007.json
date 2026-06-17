@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "procedures",
+      "commission",
+      "adopt",
+      "plan",
+      "whole",
+      "single",
+      "resolution"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH74PLDE"
+    ],
+    "scraped_at": "2026-06-10T12:03:10.754536+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 74-65"
+    ],
+    "chapter": "Chapter 74 - PLANNING AND DEVELOPMENT"
+  },
+  "content": {
+    "title": "Chapter 74 - PLANNING AND DEVELOPMENT — Sec. 74-65. - Procedures.",
+    "summary": "The commission may adopt the plan as a whole by a single resolution or may by successive\n               resolutions adopt successive parts of the plan and may adopt any amendment or extension\n               thereof or addition thereto. Before the adoption of the plan or any such part, amendment,\n   …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 74-65. - Procedures.",
+        "a": "The commission may adopt the plan as a whole by a single resolution or may by successive\n               resolutions adopt successive parts of the plan and may adopt any amendment or extension\n               thereof or addition thereto. Before the adoption of the plan or any such part, amendment,\n               extension, or addition, the commission shall hold at least one public hearing thereon,\n               notice of the time and place of which shall be given by one publication in a newspaper\n               of general circulation in the municipality. The adoption of the plan, any part, amendment,\n               extension, or addition shall be by resolution of the commission carried by the affirmative\n               votes of not less than two-thirds of the entire membership of the commission. The\n               resolution shall refer expressly to the maps and descriptive and other matter intended\n               by the commission to form the whole or part of the plan, and the action taken shall\n               be recorded on the map and descriptive matter by the identifying signature of the\n               chairperson or secretary of the commission. An attested copy of the plan or part thereof\n               shall be certified to each governmental body of the territory affected. After the\n               approval of the plan, the plan shall be filed with the city clerk.\n(Code 1981, § 25-35; Ord. No. 2498, § 2, 3-7-1988)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 74-65"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

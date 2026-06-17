@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "established",
+      "hereby",
+      "local",
+      "licensing",
+      "authority",
+      "shall",
+      "vested"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-61"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-61. - Established.",
+    "summary": "There is hereby established a local licensing authority, which shall have and is vested\n               with the authority to grant or refuse licenses for the sale at retail of malt, vinous\n               or spirituous liquors and fermented malt beverages, as provided by law; to conduct\n             …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-61. - Established.",
+        "a": "There is hereby established a local licensing authority, which shall have and is vested\n               with the authority to grant or refuse licenses for the sale at retail of malt, vinous\n               or spirituous liquors and fermented malt beverages, as provided by law; to conduct\n               investigations as are required by law; and to suspend or revoke such licenses for\n               cause in the manner provided by law. Such authority shall have all the powers of the\n               local licensing authority as set forth in C.R.S. title 44, art. 3, 4, or 5.\n(\nOrd. No. 4670\n, § 1, 12-17-2018;\nOrd. No. 4872\n, § 2, 4-15-2024)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-61"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

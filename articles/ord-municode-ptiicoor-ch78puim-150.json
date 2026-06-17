@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "correction",
+      "errors",
+      "proceedings",
+      "waiver",
+      "procedures",
+      "shall",
+      "duty"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-151"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-151. - Correction of errors in proceedings; waiver of procedures.",
+    "summary": "(a)\nIt shall be the duty of the council, and it shall have the power by any subsequent\n               proceedings, to correct any mistakes, errors or irregularities in any of the proceedings\n               mentioned herein.\n(b)\nAny of the provisions of this article may be waived in writing by the ow…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-151. - Correction of errors in proceedings; waiver of procedures.",
+        "a": "(a)\nIt shall be the duty of the council, and it shall have the power by any subsequent\n               proceedings, to correct any mistakes, errors or irregularities in any of the proceedings\n               mentioned herein.\n(b)\nAny of the provisions of this article may be waived in writing by the owners of all\n               property in the district which is to be assessed, and by the mayor if the city is\n               to bear any of the costs of the improvements. Such a waiver must state the requirements\n               of this article which are being waived. No person shall be permitted to withdraw a\n               written waiver once it has been submitted to the council for consideration. The authorization\n               for such a waiver shall be contained within the ordinance establishing the district.\n(Code 1981, § 27-151; Ord. No. 551, § 92, 5-14-1964; Ord. No. 2294, § 7, 7-7-1986)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-151"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

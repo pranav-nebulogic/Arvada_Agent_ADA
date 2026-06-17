@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "motor",
+      "vehicles",
+      "hereby",
+      "amended",
+      "entirety",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-494"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-494. - I.P.M.C. Section 302.8, Motor vehicles.",
+    "summary": "Section 302.8. Motor vehicles,\nis hereby amended in its entirety to read as follows:\n\"\n302.8. Motor vehicles.\nExcept as provided for in other regulations, no inoperable motor vehicle shall be\n                  parked, kept, or stored on any premises, and no vehicle shall at any time be in a\n        …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-494. - I.P.M.C. Section 302.8, Motor vehicles.",
+        "a": "Section 302.8. Motor vehicles,\nis hereby amended in its entirety to read as follows:\n\"\n302.8. Motor vehicles.\nExcept as provided for in other regulations, no inoperable motor vehicle shall be\n                  parked, kept, or stored on any premises, and no vehicle shall at any time be in a\n                  state of major disassembly, disrepair, or in the process of being stripped or dismantled.\n                  Painting of vehicles is prohibited unless conducted inside an approved spray booth.\nException:\n1.\nA vehicle of any type is permitted to undergo major overhaul, including body work,\n                  provided that such work is performed inside a structure or similarly enclosed area\n                  designed and approved for such purposes. This exception shall not be construed to\n                  allow or justify a violation of rules relating to home occupations or other provisions\n                  of the zoning or city code.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-494"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "city",
+      "residential",
+      "waste",
+      "recyclable",
+      "materials",
+      "collection",
+      "services"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH90SOWA"
+    ],
+    "scraped_at": "2026-06-10T12:04:45.192907+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 90-33"
+    ],
+    "chapter": "Chapter 90 - SOLID WASTE"
+  },
+  "content": {
+    "title": "Chapter 90 - SOLID WASTE — Sec. 90-33. - City residential waste and recyclable materials collection services.",
+    "summary": "(a)\nThe city's designated residential waste collection service provider shall furnish\n               residential waste collection services as provided in this chapter for all residents\n               within the city, except those specifically excluded in\nsection 90-37\nbelow.\n(b)\nWaste and recycling …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 90-33. - City residential waste and recyclable materials collection services.",
+        "a": "(a)\nThe city's designated residential waste collection service provider shall furnish\n               residential waste collection services as provided in this chapter for all residents\n               within the city, except those specifically excluded in\nsection 90-37\nbelow.\n(b)\nWaste and recycling containers shall be provided by the city, or the city's designated\n               residential waste collection service provider.\n(c)\nAll waste and recyclable materials shall be placed in waste and recyclable containers\n               by the owner, tenant, or occupant of each residence. Containers shall be placed in\n               the street or alley adjacent to each residence on a schedule as established by the\n               city. If there is no adjacent alley, containers shall be placed on the street in front\n               of the residence.\n(d)\nBulky items, as defined by the city, shall be removed by private arrangement with\n               the city's residential waste collection services provider or another licensed provider\n               authorized to haul waste within the city, or by the resident. Neither the city, nor\n               its designated residential waste collection service provider, or licensed operators,\n               shall have any obligation to collect or transport any waste or recyclables not in\n               a proper container, nor any containers not properly placed for collection unless special\n               arrangements have been made with the hauler.\n(e)\nIt shall be unlawful for any person to set out or allow to be set out, deposited,\n               or stored for collection, any waste or recyclable materials other than that which\n               has accumulated from the regular residential use of the premises upon which such waste\n               or recyclables are set out, deposited, or stored for collection.\n(Ord. No.\n4733\n, § 1, 6-15-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 90-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

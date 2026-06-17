@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "businesses",
+      "august",
+      "address",
+      "allie",
+      "anchor",
+      "ankle",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1423/New-Businesses-August-2025"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-342",
+    "spreadsheet_id": "MI-342",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "New Businesses August 2025",
+    "summary": "In August 2025, several new businesses opened in Arvada, Colorado, including Allie Don Sing LPCC LLC, Anchor Remodeling, and Mission BBQ, among others. These businesses span various industries such as healthcare, home improvement, and food services, contributing to the local economy. Each business has provided contact information for inquiries.",
+    "body": "| Business Name | Address | Phone |\n| --- | --- | --- |\nNew Businesses August 2025\n\n| Allie Don Sing LPCC LLC | 7375 W 52ND AVE 320 ARVADA CO 80002 | 970-458-5438 |\n| Anchor Remodeling | ARVADA CO 80005 | 774-573-2432 |\n| Arvada Foot and Ankle | 5730 WARD RD 202 ARVADA CO 80002 | 720-390-5299 |\n| Body Works Custom Painting LLC | 5611 KENDALL CT 7 ARVADA CO 80002 | 303-525-2661 |\n| Chazs Bookkeeping Made Simple | ARVADA CO 80403 | 303-981-9291 |\n| Electric Ink Tattoo And Piercing | 6530 WADSWORTH BLVD 240 ARVADA CO 80003 | 720-878-3382 |\n| Go Ahead Dog Training LLC | ARVADA CO 80003 | 303-951-5302 |\n| Mane Weaver | 7207 GRANDVIEW AVE 101 ARVADA CO 80002 | 970-404-1452 |\n| Marcum Commercial Advisors | 12420 W 54TH DR 1 ARVADA CO 80002 | 303-403-1333 |\n| Mission BBQ | 5525 WADSWORTH BYP ARVADA CO 80002 | 833-217-8680 |\n| Phenix Salon Suites | 7841 WADSWORTH BLVD ARVADA CO 80003 | 970-409-1118 |\n| SCOTT BAZZ AGENCY INC | 6390 GARDENIA ST 210 ARVADA CO 80004 | 303-233-4428 |\n| Still Point Counseling Center | 7375 W 52ND AVE 320 ARVADA CO 80002 | 720-457-3342 |\n| The Physics Coach LLC | ARVADA CO 80002 | 720-230-6939 |\n| Travel The World 2Day | ARVADA CO 80005 | 719-232-1495 |\n| Walker Psychological Services LLC | 7375 W 52ND AVE 320 ARVADA CO 80002 | 970-231-6950 |\n| Wild Roots Chiropractic | 13825 W 85TH DR 230 ARVADA CO 80005 | 720-439-9390 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

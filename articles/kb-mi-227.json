@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "fishing",
+      "colorado",
+      "https",
+      "parks",
+      "state",
+      "wildlife",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/654/Fishing"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-227",
+    "spreadsheet_id": "MI-227",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Fishing",
+    "summary": "Fishing is allowed at most lakes and ponds in Arvada, with the annual Arvada Kids Fishing Contest taking place in June at the Arvada-Blunn Reservoir. Fishing licenses can be obtained online, via a mobile app, by phone, or at various retailers, and only worms are permitted as live bait. For more information on fishing locations and regulations, the Colorado Fishing Atlas and Colorado Parks and Wildlife resources are available.",
+    "body": "Fishing is permitted at most Arvada lakes or ponds unless otherwise posted.\n\nThe [Arvada Kids Fishing Contest](/856) is held in June each year at the [Arvada-Blunn Reservoir](/658).\n\nVisit the [Colorado Parks and Wildlife Fishing page](https://cpw.state.co.us/activities/fishing/learn-fish) for information on fishing license requirements, stocking reports, and more.\n\nFishing licenses can be purchased online, through the [Colorado Parks and Wildlife mobile app](https://cpw.state.co.us/cpw-apps), by phone, or at many retailers throughout the state.\n\nPlease note, other than worms, live aquatic bait is not allowed for fishing.\n\nThe [Colorado Fishing Atlas](https://ndismaps.nrel.colostate.edu/index.html?app=FishingAtlas&prj=102100&extent=-11726128,4820774,-11668838,4853565&layer=streets%7CFishing%20Info%7C0.9%7C11-12-17-18-46-51-52) makes it easy to find fishing locations throughout the state, locate a licensed agent, find family-friendly or accessible fishing areas, and much more! Explore the Atlas to get information on more than 1,300 fishing locations in Colorado.\n\n[Colorado Division of Parks and Outdoor Recreation regulations](https://cpw.state.co.us/rules-and-regulations) apply at all locations. Some locations, including the [Arvada-Blunn Reservoir](/658), have usage fees.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

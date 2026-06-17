@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "zero",
+      "line",
+      "building",
+      "standards",
+      "homes",
+      "table",
+      "home",
+      "subdivision",
+      "block",
+      "layout"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-8-5"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-8. HOUSING PALETTE"
+  },
+  "content": {
+    "title": "2-1-8-5. Zero lot line.",
+    "summary": "A.\tLot and Building Standards. The lot and building standards for zero lot-line homes are set out in Table 2-1-8-5, Zero Lot-Line Home Lot and Building Standards.\nB.\tSubdivision Block Layout.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-8-5. Zero lot line.",
+        "a": "A.\tLot and Building Standards. The lot and building standards for zero lot-line homes are set out in Table 2-1-8-5, Zero Lot-Line Home Lot and Building Standards.\nB.\tSubdivision Block Layout. In addition to any other applicable standards from Chapter 4, Environmental and Site Design, the following standards apply to blocks that include zero lot line homes:\n  1.\tLots that are designated for lot-line homes must be configured such that the zero setback (the \"zero lot line\") is on one side only, and on the same side of the lot for all of the lots on each street face. Street side setbacks are required where the side lot line borders a public right-of-way or for a lot or tract that is not approved for use as a zero lot-line home. See Figure 2-1-8-5, Arrangement of Zero Lot-Line Setbacks.\n  2.\tAppropriate access and maintenance easements shall be provided to ensure that each lot owner is able to access and maintain the side of the building that is constructed upon the lot line. Easements for overhanging eaves may also be required, as appropriate to the design of the buildings.\nC.\tBuilding Design Standards. In addition to any other applicable residential building design standards, the following building design standards apply to all zero lot line homes:\n  1.\tIn order to provide a reasonable level of privacy in the adjoining side yard, no window, glass door, or door that includes windows shall be permitted on the zero lot-line side of the house unless:\n    a.\tIt opens into an enclosed courtyard; or\n    b.\tIt is composed of glass block, privacy glass, or similar treatment (except removable films), and is inoperable.\n  2.\tThe lot shall include a usable combined side and rear yard on the opposite of the zero-lot line.\n(Ord. No. 4793, § 1, 3-21-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-8-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

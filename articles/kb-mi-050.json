@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "archived",
+      "digital",
+      "accessibility",
+      "plan",
+      "standards",
+      "technology",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1456/Archived-Digital-Accessibility-Plan-20"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-050",
+    "spreadsheet_id": "MI-050",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Archived Digital Accessibility Plan 2.0",
+    "summary": "The City of Arvada has implemented a Digital Accessibility Plan 2.0, which outlines its commitment to improving technology accessibility in compliance with established standards such as WCAG 2.1 and Section 508 of the U.S. Rehabilitation Act. As of 2025, the city has progressed through various stages of accessibility maturity, including initial awareness and planning, with ongoing efforts to audit and remediate information and communication technology (ICT), promote awareness, and provide training. Future initiatives will focus on finalizing a comprehensive roadmap, updating procurement processes, and enhancing employee training on digital accessibility.",
+    "body": "## Publication Information\n\n**Version:**2.0\n\n**Last Updated and Posted:** June 30, 2025\n\n## Accessibility Standards\n\nThe City of Arvada’s ongoing technology accessibility efforts rely on the technical standards provided by:\n\n- [8 CCR 1501-11 Rules Establishing Technology Accessibility Standards](https://www.coloradosos.gov/CCR/DisplayRule.do?action=ruleinfo&ruleId=3447&deptID=6&agencyID=168&deptName=Office%20of%20the%20Governor&agencyName=Governor%27s%20Office%20of%20Information%20Technology&seriesNum=8%20CCR%201501-11), published by the Office of Information Technology in 2025\n- World Wide Web Consortium (W3C) [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) Level AA or higher\n- [Section 508 of the U.S. Rehabilitation Act of 1973, Chapter 4](https://www.access-board.gov/ict/#chapter-4-hardware)\n\n## Accessibility Maturity\n\nThe table below reflects the status of the City’s accessibility maturity, which refers to the phases in which and to what extent the City is improving the accessibility of its information and communication technology (ICT). This table is a high-level self-assessment tool that is updated annually.\n\n| Date | Stage | Criteria |\n| --- | --- | --- |\nHigh-level Self-assessment of Accessibility Maturity\n\n| 2023 | Initial Review | Evaluating awareness and recognition of need. |\n| 2024 | Launch | Recognized City-wide need. Planning initiated but activities not well organized. |\n| 2025 | Integrate | Roadmap including timeline is in place; overall organizational approach defined and well organized; substantial number of ICT have been audited and remediated if necessary. |\n| Future | Optimize | Incorporated into the whole City organization, consistently evaluated and actions taken on assessment outcomes. |\n\n## Progress Update\n\nThe City published its last Quarterly Report pertaining to digital accessibility under HB 24-1454 in April 2025. Since that time, Arvada has made great progress in its ongoing efforts to improve digital accessibility. Such progress includes:\n\n- Engaging with a contractor to inventory, audit, and remediate public and internal ICT in active use,\n- Continuing to evaluate and remediate less critical ICT in active use,\n- Promoting City-wide digital accessibility awareness through departmental and leadership meetings,\n- Updating the City’s Technology Statement and reviewing reporting processes following the Office of Information Technology’s publishing of the 2025 Adopted Rules Establishing Technology Accessibility Standards,\n- Organizing and beginning critical staff training,\n- Finalizing this Accessibility Plan version 2.0, and\n- Evaluating existing policies and procedures.\n\n## How the City is Implementing Digital Accessibility\n\nThe City is committed to advancing the technology accessibility of the City’s ICT. In support of this commitment, the City is making good faith progress on its Digital Accessibility Transition Plan. Some future measures the City is taking as part of its ongoing efforts to improve digital accessibility include:\n\n- Finalizing and following a comprehensive digital accessibility roadmap developed by the City’s digital accessibility contractor,\n- Evaluating and updating the City’s procurement processes to incorporate digital accessibility,\n- Implementing digital accessibility training for all new and existing employees interacting with ICT,\n- If feasible, retain a digital accessibility contractor to provide expert guidance,\n- Regularly review an inventory of ICT and develop a system to prioritize, test, and address accessibility issues based on community impact in light of legal requirements, user impact, usage metrics, and importance of the program, service, or activity, and\n- Continuing to offer multiple methods to suggest improvements to the City’s ICT accessibility, request reasonable accommodations and modifications, and ensure reasonable accommodations and modifications remain available.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "inactivation",
+      "termination",
+      "water",
+      "sewer",
+      "services",
+      "service",
+      "inactivated"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-67"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-67. - Inactivation and termination of water and sewer services.",
+    "summary": "(a)\nWater service may be inactivated by the city upon the request of the owner, providing\n               the property is not occupied and the turn-off fee is paid.\n(b)\nConnected water or sewer service may be inactive for a period not exceeding 15 consecutive\n               years. During the inactive…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-67. - Inactivation and termination of water and sewer services.",
+        "a": "(a)\nWater service may be inactivated by the city upon the request of the owner, providing\n               the property is not occupied and the turn-off fee is paid.\n(b)\nConnected water or sewer service may be inactive for a period not exceeding 15 consecutive\n               years. During the inactive period, the meter will be removed from the water service\n               connection and there will be no water flow to the property for any purpose, nor any\n               discharge to the sewer. However, the user will continue to pay the service charge,\n               as amended from time-to-time, through the first five consecutive years of no water\n               usage, with the exception in\nsection 102-37\n(d).\n(c)\nDuring the fifth consecutive year of an inactive connected water or sewer service,\n               the city will notify the property owner by certified mail, return receipt requested,\n               that the value of the water or sewer tap will depreciate beginning the first month\n               of the sixth consecutive year of no water usage and will continue to depreciate monthly\n               thereafter at the rate of\n               1/120\n               of the then current system development charge for each additional month of consecutive\n               no water usage through the next 120 months or ten years. The property owner will also\n               be notified in the same letter about the administrative hearing regarding the status\n               of the water or sewer tap as described in subsection (g) of this section.\n(d)\nDuring the fifth consecutive year of no water usage, the city shall also file and\n               record with the county clerk and recorder, a service lien which describes that the\n               water or sewer service connection to the property is inactive and payment of reactivation\n               charges are due to the city prior to water turn-on and that the city's department\n               of utilities must be consulted.\n(e)\nDuring the 16th year of an inactive connected water or sewer service and based on\n               the administrative hearing officer's determination that the water or sewer tap is\n               abandoned, the water or sewer tap will be terminated. A new water or sewer permit\n               will be required to provide connected water or sewer service to the property in the\n               future.\n(f)\nAn inactive connected water or sewer service may be reactivated by the city at the\n               user's request provided the following payments are made to the city in cash or by\n               cashier's check.\n(1)\nAll water and sewer charges due against the property including delinquent user charges\n               and service charges accumulated during only the first five years the connected water\n               or sewer service was inactive, and disconnection costs, if incurred;\n(2)\nOther costs for reactivation of the connected water or sewer service, if incurred;\n(3)\nA pro-rated city water or sewer system development charge, based on the number of\n               months of no water usage, not to exceed 180 months or 15 years. To calculate the prorated\n               water or sewer system development charge, the total number of months of no water usage\n               beginning with the 61st month shall be divided by 120, and the resulting fraction\n               shall be multiplied by the water or sewer system development charge in effect on the\n               date of reactivation. No pro-rated system development charge will be assessed for\n               an inactive period less than 60 consecutive months or five years. No service charges\n               will be assessed for a connected water or sewer service after the fifth consecutive\n               year of no water usage. For a connected service which has not been used for 15 years\n               or more, the full water or sewer system development charge in effect on the date of\n               reactivation, shall be paid; and\n(4)\nThe applicable metro water recovery sewer connection charge in effect at the time\n               of the sewer tap reactivation.\n(g)\nPrior to a determination that a water or sewer tap was inactive for a period of five\n               consecutive years or more on or before January 1, 1996, and thereafter, pursuant to\n               subsections (c) and (d) of this section or pursuant to any other section of the Code,\n               the property owner shall be provided an administrative hearing held in accordance\n               with\nsection 2-171\net seq. The hearing officer may determine, based upon the evidence presented at such\n               administrative hearing, that a water or sewer tap should not be terminated upon the\n               payment by the property owner of any fee, charge, or cost identified in subsections\n               (f)(1)—(4) of this section.\n(Code 1981, § 33-40; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 3052, § 1, 3-7-1994;\n               Ord. No. 3197, § 1, 6-26-1995; Ord. No. 3223, § 6, 10-23-1995; Ord. No. 3403, § 10,\n               10-20-1997; Ord. No. 4819, § 14, 10-17-2022, eff. 7-1-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-67"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

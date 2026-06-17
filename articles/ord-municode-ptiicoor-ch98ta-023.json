@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "disputes",
+      "refunds",
+      "dispute",
+      "arise",
+      "between",
+      "seller",
+      "purchaser"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA"
+    ],
+    "scraped_at": "2026-06-10T12:04:52.799989+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 98-74"
+    ],
+    "chapter": "Chapter 98 - TAXATION"
+  },
+  "content": {
+    "title": "Chapter 98 - TAXATION — Sec. 98-74. - Disputes; refunds.",
+    "summary": "Should a dispute arise between the seller and the purchaser as to whether or not any\n               sale, service or commodity is exempt under this article, nevertheless the seller shall\n               collect and the purchaser shall pay such tax, and the seller shall thereupon issue\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 98-74. - Disputes; refunds.",
+        "a": "Should a dispute arise between the seller and the purchaser as to whether or not any\n               sale, service or commodity is exempt under this article, nevertheless the seller shall\n               collect and the purchaser shall pay such tax, and the seller shall thereupon issue\n               to the purchaser an appropriate receipt showing the details of the transaction. The\n               purchaser thereafter may apply to the finance director for a refund in the manner\n               prescribed in this section for refunds. Refunds may be applied for by submittal to\n               the finance director on forms prescribed and furnished by the enforcement officer\n               within 60 days of the date of purchase in instances of dispute, unintentional payment\n               of tax on exempt purchases or an overpayment of taxes reported and paid by any taxpayer\n               to the finance director. The finance director shall forthwith, after receipt of the\n               application for refund, submit same to the enforcement officer for a determination\n               of applicability. The finance director shall disburse to the applicant a refund when,\n               such has been approved by the enforcement officer, or notify the applicant in instances\n               of disapproval by the enforcement officer.\n(Code 1981, § 31-49; Ord. No. 3783, § 2, 12-16-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 98-74"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

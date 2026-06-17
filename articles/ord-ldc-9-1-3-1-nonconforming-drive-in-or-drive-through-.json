@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "nonconforming",
+      "drive",
+      "through",
+      "facilities",
+      "design",
+      "configuration",
+      "facility",
+      "because",
+      "compliance",
+      "provisions"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "9-1-3-1"
+    ],
+    "chapter": "Chapter 9 NONCONFORMITIES",
+    "article": "ARTICLE 9-1. NONCONFORMITIES",
+    "division": "DIVISION 9-1-3. NONCONFORMING BUILDINGS AND STRUCTURES"
+  },
+  "content": {
+    "title": "9-1-3-1. Nonconforming drive-in or drive-through facilities.",
+    "summary": "A.\tNonconforming Due to Design or Configuration.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "9-1-3-1. Nonconforming drive-in or drive-through facilities.",
+        "a": "A.\tNonconforming Due to Design or Configuration. If a drive-in or drive-through facility is nonconforming because it is not in compliance with the provisions of Section 5-1-6-2, Drive-In and Drive-Through Facilities, then:\n  1.\tIf the nonconformity involves the location of the drive-in or drive-through facility adjacent to any RA or RN zoning districts or within the OT zoning district, then the use of the drive-in or drive-through facility shall not be resumed if it is discontinued for a period of six consecutive months unless the drive-in or drive-through element of the facility shall be modified to become less nonconforming, as determined by the Director; or\n  2.\tFor any other nonconformity, the use of the drive-in or drive-through facility may be continued, or resumed after interruption, and the drive-in or drive-through facility is subject to Section 9-1-3-2, Modifications to a Nonconforming Building or Structure, and Section 9-1-3-3, Damage to a Nonconforming Building or Structure."
+      }
+    ],
+    "ordinance_refs": [
+      "9-1-3-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

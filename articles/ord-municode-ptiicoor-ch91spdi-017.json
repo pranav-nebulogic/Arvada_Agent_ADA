@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "review",
+      "certain",
+      "actions",
+      "title",
+      "districts",
+      "issuance",
+      "debt"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-41"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-41. - Review of certain actions of title 32 districts.",
+    "summary": "(a)\nIssuance of debt.\nAny title 32 district with a service plan approved by the city must not issue any\n               debt without providing certified notices and submissions to the city attorney, finance\n               director, city clerk, and department as follows:\n(1)\nAt least 63 days prior to …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-41. - Review of certain actions of title 32 districts.",
+        "a": "(a)\nIssuance of debt.\nAny title 32 district with a service plan approved by the city must not issue any\n               debt without providing certified notices and submissions to the city attorney, finance\n               director, city clerk, and department as follows:\n(1)\nAt least 63 days prior to issuing any debt, the issuing title 32 district must provide\n               notice of its intent to issue debt;\n(2)\nAt least 35 days prior to issuing any debt, the issuing title 32 district must submit\n               all relevant details of such issuance; and\n(3)\nOn or before the date of issuance of any debt, the issuing title 32 district must\n               provide a letter dated the day of issuance of such debt prepared by the issuing title\n               32 district's counsel to the effect that the issuance of the debt complies with the\n               provisions of the title 32 district's service plan, as well as applicable City Code\n               and state law.\n(b)\nRequired notation.\nAny instrument representing and constituting debt issued by a title 32 district with\n               a service plan approved by the city, and any offering document used in connection\n               therewith, shall bear a clear and conspicuous notation stating in substance that \"by\n               acceptance of this bond, the owner of this bond agrees and consents to all of the\n               limitations in respect of the payment of the principal and interest on this bond contained\n               herein, in the resolution of the district authorizing the issuance of this bond and\n               in the service plan for creation of the district.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-41"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

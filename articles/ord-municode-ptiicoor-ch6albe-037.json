@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "transfer",
+      "ownership",
+      "promotional",
+      "association",
+      "structure",
+      "change",
+      "general"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+    ],
+    "scraped_at": "2026-06-10T12:02:16.003381+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 6-165"
+    ],
+    "chapter": "Chapter 6 - ALCOHOLIC BEVERAGES"
+  },
+  "content": {
+    "title": "Chapter 6 - ALCOHOLIC BEVERAGES — Sec. 6-165. - Transfer of ownership; promotional association structure change.",
+    "summary": "(a)\nIn general.\nApplications to change the composition of the board of directors of a certified promotional\n               association shall be made upon forms provided by the city clerk. The certified promotional\n               association shall submit the name and address of each director to the c…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 6-165. - Transfer of ownership; promotional association structure change.",
+        "a": "(a)\nIn general.\nApplications to change the composition of the board of directors of a certified promotional\n               association shall be made upon forms provided by the city clerk. The certified promotional\n               association shall submit the name and address of each director to the city clerk within\n               28 days of such a change. The city clerk may refuse to authorize a change in the certified\n               promotional association membership for any of the reasons listed in\nsections 6-169\nand\n6-171\n. The city clerk may bring a change in composition application to a public hearing\n               in front of the authority at the city clerk's discretion. A public hearing shall be\n               held in accordance with\nsection 6-164\n.\n(b)\nNew attachment.\nIf the attachment of a new liquor licensed establishment to a previously approved\n               promotional association changes, alters, or modifies the common consumption area,\nsection 6-166\nmust be followed. The city clerk may approve the attachment of a new liquor licensed\n               establishment to a previously certified promotional association and approved common\n               consumption area without a public hearing provided that:\n(1)\nThe common consumption area is not changed, modified, or altered;\n(2)\nThe new member obtains permission to attach to the common consumption area from the\n               promotional association; and\n(3)\nThe new member has received a valid liquor license from the authority and the state.\n(c)\nNontransferable.\nNo license granted pursuant to this article shall be transferable from one person\n               or entity to another.\n(\nOrd. No. 4804\n, § 1, 6-6-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 6-165"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

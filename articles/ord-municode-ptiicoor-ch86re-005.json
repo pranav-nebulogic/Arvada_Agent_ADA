@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "system",
+      "substituted",
+      "state",
+      "legislated",
+      "police",
+      "retirement",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-33",
+      "§ 31-30"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-33. - System substituted for state-legislated police retirement system.",
+    "summary": "The city is hereby exempted from all provisions of C.R.S. § 31-30-601 et seq., and\n               the city police retirement system as set forth in this chapter is hereby continued\n               and declared to be the alternative police pension benefit program for the city.\n(Code 1981, § 26-3; Ord.…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-33. - System substituted for state-legislated police retirement system.",
+        "a": "The city is hereby exempted from all provisions of C.R.S. § 31-30-601 et seq., and\n               the city police retirement system as set forth in this chapter is hereby continued\n               and declared to be the alternative police pension benefit program for the city.\n(Code 1981, § 26-3; Ord. No. 1508, § 2, 11-20-1978)\nState Law reference—\nAuthority of municipal police pension fund to be excluded from state-legislated police\n               pension fund, C.R.S. § 31-30-621."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-33",
+      "§ 31-30"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

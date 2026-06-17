@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "securities",
+      "board",
+      "shall",
+      "trustee",
+      "pension",
+      "fund",
+      "full"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH86RE"
+    ],
+    "scraped_at": "2026-06-10T12:04:43.808813+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 86-82"
+    ],
+    "chapter": "Chapter 86 - RETIREMENT"
+  },
+  "content": {
+    "title": "Chapter 86 - RETIREMENT — Sec. 86-82. - Securities.",
+    "summary": "(a)\nThe board shall be the trustee of the pension fund and shall have full and unrestricted\n               discretionary power and authority to invest and reinvest such portions of the pension\n               fund as in its judgment may not be immediately required for the payment of refunds\n         …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 86-82. - Securities.",
+        "a": "(a)\nThe board shall be the trustee of the pension fund and shall have full and unrestricted\n               discretionary power and authority to invest and reinvest such portions of the pension\n               fund as in its judgment may not be immediately required for the payment of refunds\n               or benefits. In exercising its discretionary authority with respect to the acquisition\n               or disposition of any investments, the board shall be governed by the standard for\n               investments prescribed in C.R.S. § 15-1-304. Investments may be made in obligations\n               of the United States government and in obligations fully guaranteed as to the principal\n               and interest by the United States government, in state and municipal bonds, in corporate\n               notes, bonds or debentures, convertible or otherwise, in railroad equipment trust\n               certificates, in real property and in loans secured by first mortgages or deeds of\n               trust in real property, in participation guarantee agreements with life insurance\n               companies and in other types of investment, agreements, and the foregoing investments\n               may be made without limitation as to the percentage of the book value of the assets\n               of the retirement fund so invested.\n(b)\nInvestments may also be made in either common or preferred corporate stocks, but the\n               aggregate amount of moneys invested in corporate stocks or corporate bonds, notes\n               or debentures which are convertible into corporate stocks, or in investment trust\n               shares, shall not exceed 30 percent of the then book value of the assets of the pension\n               fund and in no event shall any investment be made in the common or preferred stock,\n               or both, of any single corporation in an amount in excess of five percent of the then\n               book value of the assets of the pension fund, nor shall more than seven percent of\n               the outstanding stock or bonds of any single corporation be acquired for the pension\n               fund.\n(Code 1960, § 19-19(B); Code 1981, § 26-38)\nState Law reference—\nInvestments under pension fund statute, C.R.S. § 31-30-603."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 86-82"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

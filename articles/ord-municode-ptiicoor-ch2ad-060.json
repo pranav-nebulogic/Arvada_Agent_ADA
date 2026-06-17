@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "adoption",
+      "contracts",
+      "whenever",
+      "council",
+      "shall",
+      "deem",
+      "necessary"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-321"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-321. - Adoption of contracts.",
+    "summary": "Whenever the council shall deem it necessary to enter into any contract by ordinance,\n               it shall follow the procedure now set forth in this Code or in the Charter for the\n               passage of ordinances not of an emergency nature or making a general codification\n               of o…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-321. - Adoption of contracts.",
+        "a": "Whenever the council shall deem it necessary to enter into any contract by ordinance,\n               it shall follow the procedure now set forth in this Code or in the Charter for the\n               passage of ordinances not of an emergency nature or making a general codification\n               of ordinances or ordinances adopting standard codes.\n(Code 1960, § 2-3.3(a); Code 1981, § 2-35)\nCharter reference—\nAdoption by ordinance, §§ 5-7, 5-8.\nState Law reference—\nPower of city to enter into contracts, C.R.S. § 31-15-101."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-321"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

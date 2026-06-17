@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "building_permits",
+    "tags": [
+      "exemption",
+      "burden",
+      "proof",
+      "exempt",
+      "code",
+      "sale",
+      "Building Permits"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/334/Exemption---Burden-of-Proof"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/building-permits/bp-015",
+    "spreadsheet_id": "BP-015",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Exemption - Burden of Proof",
+    "summary": "Sales or use tax applies to the retail sale or purchase of tangible personal property unless specifically exempt under the Arvada Municipal Code. Vendors must provide evidence to prove a transaction's tax-exempt status, which may include resale certificates, building permits, or exemption certificates from the Colorado Department of Revenue. The burden of proof lies with the vendor, who must understand their customer's business to determine eligibility for exemptions.",
+    "body": "The retail sale or purchase of articles of tangible personal property not otherwise exempt is subject to sales or use tax. Exemptions in the [Arvada Municipal Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) are clearly defined and very specific. The list of exempt commodities cannot be increased by implication or similarity. In all cases, the burden of proof is upon the vendor to establish that a sale is tax-exempt.\n\nThe vendor is required to provide evidence to support the exempt status of a transaction. Such evidence may include:\n\n- A copy of the customer's current resale certificate or the vendor's own file of valid customer resale numbers (Colorado Tax Account Number), providing the purchaser is substantially engaged in reselling like products as those being purchased\n- A copy of the purchaser's or general contractor's building permit showing use tax was properly paid to another municipality\n- Delivery receipts, bills of lading, or other evidence the sale was made to a non-resident and delivery was made by the vendor, common carrier, or by mail to a location out of Arvada\n- A certificate of exemption issued by the Colorado Department of Revenue indicating that the contractor's or subcontractor's purchases of construction building materials used in the building, erection, alteration, or repair of structures, highways, roads, streets, or other public works owned and used by the United States government, the State of Colorado, its departments and institutions, and the political subdivisions thereof in their governmental capacities only; by charitable organizations in the conduct of their regular charitable functions and activities; or Schools, other than schools held or conducted for private or corporate profit.\n\nThe above represents some of the types of evidence that may be accepted as indicators of an exempt transaction. However, the exempt status of each transaction must be determined on its own merits with the ultimate responsibility for the burden of proving the exemption upon the vendor. Therefore, the vendor should know the nature of his/her customer's business before allowing any form of exemption.\n\n## Examples\n\n- John Doe Construction has pulled a building permit to perform some work in the City of Westminster. The permit shows proper use tax was paid to Westminster on the materials portion of the contract. John Doe is purchasing his material from an Arvada vendor. This transaction and any subsequent purchases, for this job only, are not subject to Arvada tax, provided the vendor maintains a copy of the permit indicating use tax was paid to another municipality.\n- ABC Distributors is currently being audited. ABC has deductions from gross sales for resale and sales to charitable organizations. Evidence must be provided supporting the validity of these deductions. \"Resale\" sales should be documented by providing valid sales tax account numbers and the customer must be reselling the products purchased. Sales to exempt/charitable groups should be supported with a letter of exemption or exempt number. The purchase must be used in the regular charitable activities of the exempt entity and payment for the items or services must be made with funds of the organization.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

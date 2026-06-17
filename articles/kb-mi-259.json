@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "history",
+      "acknowledged",
+      "anniversary",
+      "articles",
+      "collect",
+      "community",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/574/History"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-259",
+    "spreadsheet_id": "MI-259",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "History",
+    "summary": "Arvada was officially recognized as a town on December 1, 1870, with a population of 100, although its Articles of Incorporation were established later in 1904. The Arvada Historical Society plays a vital role in preserving the community's heritage by collecting and making available historic materials to the public at the McIlvoy House.",
+    "body": "While the City of Arvada's most widely acknowledged anniversary is that of its Articles of Incorporation, which occurred in 1904, Arvada was platted and named decades prior. The formal notice of the new town, population 100, was posted on December 1, 1870.\n\nWe are proud of our past and the rich heritage of our community! Read about specific topics under History.\n\nWe are fortunate to have a dedicated group of volunteers at the Arvada Historical Society who painstakingly collect and preserve historic photographs, documents, books, and newspapers and make them available to the public. You may visit them at the McIlvoy House at 7307 Grandview Avenue!\n\nFor more information visit the [Historical Society website](http://historyarvada.org/).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

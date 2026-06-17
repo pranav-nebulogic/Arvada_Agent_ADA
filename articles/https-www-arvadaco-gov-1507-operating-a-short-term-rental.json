@@ -1,0 +1,138 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "process",
+    "permit_type": "str_permit",
+    "category": "business",
+    "source_urls": [
+      "https://www.arvadaco.gov/1507/Operating-a-short-term-rental"
+    ],
+    "scraped_at": "2026-06-10T11:01:14.240369+00:00",
+    "content_hash": "3e79a7003ea9abd01a1c73ed216ee8166179d14b6bee37f981cb38984d0c93bf",
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10"
+  },
+  "content": {
+    "title": "Operating a Short-Term Rental in Arvada, CO",
+    "summary": "The City of Arvada requires a short-term rental (STR) permit and a business license to operate an STR. New ordinance and program rules effective May 1, 2026, outline operating requirements, occupancy limits, and enforcement policies to ensure responsible STR operations and neighborhood harmony.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Ordinance and Program Rules",
+        "text": "Read and review all the new changes in the ordinance and program rules effective May 1, 2026.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Obtain Required Permits and Licenses",
+        "text": "Apply for both a short-term rental permit and a business license to operate an STR within the City of Arvada.",
+        "portal_url": "https://www.arvadaco.gov/1507/Operating-a-short-term-rental"
+      },
+      {
+        "n": 3,
+        "title": "Ensure Property Compliance",
+        "text": "Ensure the property meets operating requirements including parking, property maintenance, and occupancy limits. Maintain weekly rubbish and garbage removal services and comply with the International Property Maintenance Code (IPMC) as adopted by Arvada.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Post the STR Permit",
+        "text": "Clearly post the STR permit inside the property as required by the City.",
+        "portal_url": null
+      },
+      {
+        "n": 5,
+        "title": "Provide Good Neighbor Guide to Renters",
+        "text": "Make the Good Neighbor Guide available to all renters to assist them in supporting neighborhood and community character.",
+        "portal_url": "https://www.arvadaco.gov/home/showpublisheddocument/12345/637963456789000000"
+      },
+      {
+        "n": 6,
+        "title": "Respond to Neighbor Concerns",
+        "text": "Use the City's 24/7 customer hotline to address neighbor concerns promptly. Respond to noise complaints within one hour and other issues within 24 hours to avoid enforcement actions.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Short-Term Rental Permit",
+        "description": "Official permit issued by the City of Arvada authorizing operation of a short-term rental.",
+        "where_to_get": "City of Arvada Business Licensing Department",
+        "example": null
+      },
+      {
+        "name": "Business License",
+        "description": "Required license to legally operate a business within the City of Arvada, including short-term rentals.",
+        "where_to_get": "City of Arvada Business Licensing Department",
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "property_address",
+        "label": "Property Address",
+        "description": "The address of the property to be used as a short-term rental.",
+        "example_value": null,
+        "why_needed": "To identify the location of the short-term rental."
+      },
+      {
+        "field_name": "owner_contact_info",
+        "label": "Owner Contact Information",
+        "description": "Contact details of the property owner or permittee.",
+        "example_value": null,
+        "why_needed": "To communicate with the permit holder regarding the STR."
+      },
+      {
+        "field_name": "number_of_bedrooms",
+        "label": "Number of Bedrooms",
+        "description": "The total number of bedrooms in the rental property.",
+        "example_value": null,
+        "why_needed": "To determine occupancy limits."
+      }
+    ],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "City of Arvada Business Licensing Department",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Is an additional parking space required for my short-term rental?",
+        "a": "Yes, any property rented as an STR must have an additional on-site parking space unless the entire premise is being rented as an STR."
+      },
+      {
+        "q": "How many occupants are allowed overnight in a short-term rental?",
+        "a": "Occupancy is limited to two occupants per bedroom plus two additional occupants. Studios are limited to three occupants."
+      },
+      {
+        "q": "What are the maximum nights of operation for a short-term rental?",
+        "a": "Short-term rentals may operate for a maximum of 240 nights in any 365-day period."
+      },
+      {
+        "q": "What should I do if a neighbor reports a concern about my short-term rental?",
+        "a": "You should contact your short-term renter and resolve the situation promptly. Noise complaints must be responded to within one hour, and other concerns within 24 hours."
+      }
+    ],
+    "ordinance_refs": [
+      "Chapter 38",
+      "International Property Maintenance Code (IPMC)"
+    ],
+    "related_permit_types": [
+      "business_license"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2859
+}

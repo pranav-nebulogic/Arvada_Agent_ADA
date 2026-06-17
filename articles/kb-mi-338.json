@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "neighborhood",
+      "programs",
+      "document",
+      "documentid",
+      "imagerepository",
+      "neighbors",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/482/Neighborhood-Programs"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-338",
+    "spreadsheet_id": "MI-338",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Neighborhood Programs",
+    "summary": "The Neighbors Connected Program in Arvada aims to foster community engagement by providing resources and training for residents to collaborate on projects and activities. Key initiatives include the Snow Buddies Program, which connects volunteers with residents needing snow removal assistance, the Neighborhood Grant Program for funding community activities, a Neighborhood Leader Network for representation at city meetings, and access to a Block Party Trailer for neighborhood gatherings. Residents interested in these programs must belong to neighborhoods enrolled in the Neighbors Connected Program.",
+    "body": "![Two smiling ladies sitting together at a table at the entrance of a neightborhood block party](/ImageRepository/Document?documentId=4396)\n\n![](/ImageRepository/Document?documentId=4397)\n\nThe Neighbors Connected Program empowers residents to become active partners in making Arvada a vibrant and resilient community. The City supports this mission by providing resources and training opportunities to residents who would like to bring neighbors together through collaborative projects and activities. It includes four main programs:\n\n- Snow Buddies Volunteers\n- Neighborhood Grants\n- Neighborhood Leader Network\n- Block Party Trailer Equipment.\n\n![](/ImageRepository/Document?documentId=4382)\n\n## [Snow Buddies Volunteers](https://www.arvadaco.gov/486/Snow-Buddies-Program)\n\nThe Snow Buddies Program matches Arvada residents who are physically unable to remove snow with caring volunteers to support them.\n\n![](/ImageRepository/Document?documentId=4383)\n\n## [Neighborhood Grants](https://www.arvadaco.gov/485/Neighborhood-Grant-Program)\n\nThe Neighborhood Grant Program offers grant funding with the goal of promoting positive neighboring activities and community involvement.\n\n![](/ImageRepository/Document?documentId=4384)\n\n## [**Neighborhood Leader Network**](https://www.arvadaco.gov/1096/Neighborhood-Leader-Network)\n\nThe Neighborhood Leader Network is a group of dedicated volunteers who represent their neighborhood at quarterly meetings in collaboration with the City of Arvada.\n\n![](/ImageRepository/Document?documentId=4385)\n\n## [Block Party Trailer](https://www.arvadaco.gov/483/Block-Party-Trailer-Movie-Equipment-Rent)\n\nBlock parties are a great way to connect with your neighbors. The City of Arvada offers free Block Party Trailer use to help make your gathering successful.\n\n**Arvada residents interested in applying for Neighborhood Grants, reserving the Block Party Trailer or becoming a Neighborhood Leader must live in neighborhoods enrolled in the Neighbors Connected Program.**\n\n## How to enroll your neighborhood\n\n1. Locate your neighborhood using the [Neighborhood Search Tool](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=a3bd7b65d1104b80949b91e86d249b37).\n2. Gather a group of interested neighbors and complete the [Neighbors Connected Enrollment Form](https://docs.google.com/forms/d/1my0nsGbNABghwO0EQ1UptKBm0RhXvdoLsl02oEd3uSI/viewform?edit_requested=true).\n3. Attend a quarterly [Neighborhood Leader Network](https://www.arvadaco.gov/1096/Neighborhood-Leader-Network) meeting.\n\n## Additional Neighborhood Resources\n\n### [**Neighbor Conflict Resolution**](https://www.arvadaco.gov/1003/Neighbor-Conflict-Resolution)\n\nEven in the most peaceful communities, conflicts can arise. Resolving conflicts productively can be achieved when a few conflict resolution practices are applied.\n\n### [**Neighborhood Preparedness**](https://www.arvadaco.gov/1097/Neighborhood-Preparedness)\n\nNeighbors who are connected are better prepared to help each other during a disaster.\n\n### [**Neighborhood Walks (Pilot Program)**](https://www.arvadaco.gov/1042/Neighborhood-Walks)\n\nNeighborhood Walks provides an opportunity to get outside, learn about Arvada and connect with people in the community.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

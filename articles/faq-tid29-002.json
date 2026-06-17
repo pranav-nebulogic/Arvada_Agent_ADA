@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-29-003",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "sober",
+      "living",
+      "facility",
+      "sometimes",
+      "referred",
+      "home",
+      "recovery",
+      "residence",
+      "Group Homes"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=29"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/what-is-a-sober-living-facility",
+    "faq_category_name": "Group Homes"
+  },
+  "content": {
+    "title": "What is a sober living facility?",
+    "summary": "A Sober Living Facility (sometimes referred to as a \"sober home\" or \"recovery residence\") is a housing facility that helps those recovering from drug and/or alcohol addiction (diagnosed as \"substance use disorders\") transition back into the community after undergoing intensive inpatient treatment se…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "What is a sober living facility?",
+        "a": "A Sober Living Facility (sometimes referred to as a \"sober home\" or \"recovery residence\") is a housing facility that helps those recovering from drug and/or alcohol addiction (diagnosed as \"substance use disorders\") transition back into the community after undergoing intensive inpatient treatment services. These homes promote independent living, the development of life skills and provide structured activities and recovery support services to those recovering from substance use disorders. These homes are free from alcohol and nonprescription or illicit drugs. Residents are required to go through rehabilitation prior to living in the home and continue to undergo treatment as a condition of living in the home. The number of residents living in each home varies, as do additional in-house rules."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

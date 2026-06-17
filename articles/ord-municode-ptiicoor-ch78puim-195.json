@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "construction",
+      "restoration",
+      "standards",
+      "newly",
+      "constructed",
+      "overlayed",
+      "streets"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-308"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-308. - Construction and restoration standards for newly constructed or overlayed streets.",
+    "summary": "No person shall cause an open trench excavation or potholing of utilities in the pavement\n               of any public right-of-way for a period of three years from the completion of construction\n               or resurfacing, except in compliance with the provisions of this section.\n(1)\nApplication…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-308. - Construction and restoration standards for newly constructed or overlayed streets.",
+        "a": "No person shall cause an open trench excavation or potholing of utilities in the pavement\n               of any public right-of-way for a period of three years from the completion of construction\n               or resurfacing, except in compliance with the provisions of this section.\n(1)\nApplication.\nAny application for a permit to excavate in a public right-of-way, subject to the\n                  requirements of this section, shall contain the following information:\na.\nA detailed and dimensional engineering plan that identifies and accurately represents\n                  the city rights-of-way or property that will be impacted by the proposed excavation,\n                  as well as adjacent streets, and the method of construction;\nb.\nThe street width or alley width, including curb and gutter, over the total length\n                  of each city block that will be impacted by the proposed excavation;\nc.\nThe location, width, length, and depth of the proposed excavation;\nd.\nThe total area of existing street or alley pavement in each individual city block\n                  that will be impacted by the proposed excavation; and\ne.\nA written statement addressing the criteria for approval.\n(2)\nCriteria for approval.\nNo permit for excavation in the right-of-way of new streets shall be approved unless\n                  the director finds that all of the following criteria have been met:\na.\nBoring or jacking without disturbing the pavement is not practical due to physical\n                  characteristics of the street or alley or other utility conflicts;\nb.\nAlternative utility alignments that do not involve excavating the street or alley\n                  are found to be impracticable; and\nc.\nThe proposed excavation cannot reasonably be delayed until after the three-year deferment\n                  period has lapsed.\n(3)\nExemptions for emergency operations.\nEmergency maintenance operations shall be limited to circumstances involving the\n                  preservation of life, property, or the restoration of customer service. Persons with\n                  prior authorization from the city to perform emergency maintenance operations within\n                  the public rights-of-way shall be exempted from this section. Any person commencing\n                  emergency maintenance operations shall submit detailed engineering plans, construction\n                  methods, and remediation plans no later than the next working day after initiating\n                  the emergency maintenance operation. All emergency work shall require prior telephone\n                  notification to the city police department and the appropriate fire protection agency.\n(4)\nConstruction and restoration standards for newly constructed or overlayed streets\n                     and alleys.\nThe streets shall be restored and repaired in accordance with design and construction\n                  standards adopted by the city in accordance with the provisions of article IV of this\n                  chapter (Engineering Code of Standards and Specifications), as amended.\n(Code 1981, § 27-217; Ord. No. 3717, § 1, 8-27-2001)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-308"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

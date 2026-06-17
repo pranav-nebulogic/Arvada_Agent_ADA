@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "modifications",
+      "council",
+      "desires",
+      "proceed",
+      "any",
+      "modification",
+      "motion"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-39"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-39. - Modifications.",
+    "summary": "If the council desires to proceed and desires any modification, by motion or by resolution\n               it shall direct the engineer to prepare and to present to the council:\n(1)\nA revised and detailed estimate of the total cost, including, without limiting the\n                  generality of the …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-39. - Modifications.",
+        "a": "If the council desires to proceed and desires any modification, by motion or by resolution\n               it shall direct the engineer to prepare and to present to the council:\n(1)\nA revised and detailed estimate of the total cost, including, without limiting the\n                  generality of the foregoing, the cost of acquiring or improving, or acquiring and\n                  improving, each proposed project and of each of the incidental costs, which revised\n                  estimate shall not constitute a limitation for any purpose, except as herein otherwise\n                  provided;\n(2)\nFull and detailed plans and specifications for each proposed project designed to permit\n                  and to encourage competition among the bidders if any project is to be acquired by\n                  construction contract; and\n(3)\nA revised map and assessment plat showing, respectively, the location of each project\n                  and the tracts to be assessed therefor, not including any area or project not before\n                  the council at a provisional order hearing.\n(Code 1981, § 27-40; Ord. No. 551, § 16(B), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-39"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

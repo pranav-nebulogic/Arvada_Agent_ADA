@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "order",
+      "proposed",
+      "assessment",
+      "roll",
+      "form",
+      "upon",
+      "receipt"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-96"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-96. - Order for proposed assessment roll; form.",
+    "summary": "(a)\nUpon receipt of the engineer's statement of cost, or if assessments are to be levied\n               on estimates, at any time after:\n(1)\nThe award of the construction contract, pursuant to\nsections 78-49\n—\n78-63\n; or\n(2)\nThe determination of cost made by the engineer if pursuant to\nsections 78-4…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-96. - Order for proposed assessment roll; form.",
+        "a": "(a)\nUpon receipt of the engineer's statement of cost, or if assessments are to be levied\n               on estimates, at any time after:\n(1)\nThe award of the construction contract, pursuant to\nsections 78-49\n—\n78-63\n; or\n(2)\nThe determination of cost made by the engineer if pursuant to\nsections 78-46\n—\n78-48\nhereof there is to be no construction contract, the council by resolution shall:\na.\nDetermine the cost of the project to be paid by the assessable property in the improvement\n               district;\nb.\nOrder the engineer to make out an assessment roll containing, among other things:\n1.\nThe name of each last-known owner of each tract to be assessed, or if not known, that\n               the name is \"unknown\"; and\n2.\nA description of each tract to be assessed and the amount of the proposed assessment\n               thereon, apportioned upon the basis for assessments stated in the provisional order\n               for the hearing on the project; and\nc.\nCause a copy of the resolution to be furnished by the city clerk to the engineer.\n(b)\nIn fixing the amount or the sum of money that may be required to pay the costs of\n               the project, the council need not necessarily be governed by the estimates of the\n               costs of such project provided for herein, but the council may fix such other sum\n               within the limits prescribed as it may deem necessary to cover the cost of the project.\n(c)\nIf by mistake or otherwise any person is improperly designated in the assessment roll\n               as the owner of any tract or if the same is assessed without the name of the owner\n               or in the name of a person other than the owner, such assessment shall not for that\n               reason be vitiated, but it shall in all respects be as valid upon and against such\n               tract as though assessed in the name of the owner thereof; and when the assessment\n               roll has been confirmed, such assessment shall become a lien on such tract and shall\n               be collected as provided by law.\n(Code 1981, § 27-97; Ord. No. 551, § 37, 5-14-1964; Ord. No. 1643, § 6, 2-18-1980)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-96"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

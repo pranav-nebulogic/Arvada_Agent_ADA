@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-20-002",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": "food_truck_permit",
+    "category": "food_trucks",
+    "tags": [
+      "operate",
+      "food",
+      "truck",
+      "arvada",
+      "without",
+      "permit",
+      "less",
+      "than",
+      "Food Trucks"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=20"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/can-i-operate-a-food-truck-in-arvada-without-a-permit",
+    "faq_category_name": "Food Trucks"
+  },
+  "content": {
+    "title": "Can I operate a food truck in Arvada without a permit?",
+    "summary": "You can operate a food truck in Arvada without a permit when: If you operate for less than 15 consecutive minutes at any specific site (such as an ice cream truck) If you are operating as part of an approved Special Event in coordination with the event planner",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Can I operate a food truck in Arvada without a permit?",
+        "a": "You can operate a food truck in Arvada without a permit when: If you operate for less than 15 consecutive minutes at any specific site (such as an ice cream truck) If you are operating as part of an approved Special Event in coordination with the event planner"
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

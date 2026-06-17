@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "report",
+      "road",
+      "issue",
+      "state",
+      "debris",
+      "highways",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/502/Report-a-Road-Issue"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-467",
+    "spreadsheet_id": "MI-467",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Report a Road Issue",
+    "summary": "Residents of Arvada can report road issues such as potholes, snow, ice, or debris through the Ask Arvada platform. For hazards on state highways, which are maintained by the Colorado Department of Transportation, concerns should be directed to CDOT. In emergencies involving road hazards, individuals are advised to call 911.",
+    "body": "Report a road issue (pothole, snow/ice, debris in right-of-way) in the City of Arvada. See the map for state highways. Please note: If you wish to report debris in the road that is causing a road hazard, **call 911**.\n\n## Is It an Arvada Road?\n\nSubmit a request through [Ask Arvada](https://seeclickfix.com/web_portal/m96AzqbgQ9RW9z5CcqFqEwP8/issues/map).\n\n## Is it a State Highway?\n\nSome of the main roads in Arvada are State Highways and are maintained by the Colorado Department of Transportation (CDOT). Please view the map below. Roads highlighted in purple are State Highways. If the road issue you wish to report is on a State Highway, please [submit your concern / request to Colorado Department of Transportation](https://www.codot.gov/topcontent/contact-cdot).\n\n![Map of the greater Arvada area with state highways 36, 70, 72, 76, 93, 95, and 121 highlighted in bold purple.](/ImageRepository/Document?documentId=594)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "produce",
+      "stands",
+      "generally",
+      "standards",
+      "section",
+      "apply",
+      "temporary",
+      "permit",
+      "required",
+      "stand"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-4-7"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-4. TEMPORARY USES"
+  },
+  "content": {
+    "title": "3-1-4-7. Produce stands.",
+    "summary": "A.\tGenerally. The standards of this Section apply to produce stands. No temporary use permit is required for a produce stand.\nB.\tWhere Allowed.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-4-7. Produce stands.",
+        "a": "A.\tGenerally. The standards of this Section apply to produce stands. No temporary use permit is required for a produce stand.\nB.\tWhere Allowed. Produce stands are allowed as provided in Section 3-1-4-2, Temporary Uses by Zoning District.\nC.\tStandards.\n  1.\tProduce stands may operate for up to a maximum of six months per year. When not in use, temporary produce stand structures must be removed.\n  2.\tHours of operation are limited to the period from dawn to dusk.\n  3.\tPermanent structures are not permitted.\n  4.\tA produce stand may not exceed 50 square feet in size.\n  5.\tA produce stand may not encroach into a public right-of-way or obstruct pedestrian access.\n  6.\tThe produce stand shall maintain general practices to keep the stand clean and maintain produce quality."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-4-7"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "land",
+      "uses",
+      "listed",
+      "generally",
+      "proposed",
+      "zoning",
+      "district",
+      "table",
+      "then",
+      "director"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "3-1-2-12"
+    ],
+    "chapter": "Chapter 3 USE REGULATIONS",
+    "article": "ARTICLE 3-1. PRIMARY LAND USE REGULATIONS",
+    "division": "DIVISION 3-1-2. LAND USE BY ZONING DISTRICT"
+  },
+  "content": {
+    "title": "3-1-2-12. Land uses that are not listed.",
+    "summary": "A.\tGenerally.\n  1.\tIf a proposed land use is not listed in any Land Use by Zoning District table, then the Director shall determine whether the proposed use is functionally comparable to a use that is listed in the tables.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "3-1-2-12. Land uses that are not listed.",
+        "a": "A.\tGenerally.\n  1.\tIf a proposed land use is not listed in any Land Use by Zoning District table, then the Director shall determine whether the proposed use is functionally comparable to a use that is listed in the tables. A proposed use is functionally comparable to a use that is allowed if it is reasonably comparable to the use, and with regard to each of the decision criteria enumerated in Subsection B., below, the proposed use has no greater impacts than the use with which it is functionally comparable.\n  2.\tThis Section shall not be used to allow land uses that are prohibited by Section 3-1-2-11, Land Uses That Are Not Allowed in Any Zoning District.\nB.\tDecision Criteria. The following decision criteria shall be evaluated when the Director determines whether a proposed use is functionally comparable to an allowed use:\n  1.\tWhether the proposed use is similar in terms of hours of operation, traffic impacts, environmental impacts, and the potential for adverse impacts on surrounding properties;\n  2.\tWhether the proposed use is typically housed in buildings or structures similar and compatible to those used to house allowed uses in the zoning district; and\n  3.\tWhether the proposed use is consistent with the purpose and intent of the particular zoning district.\nC.\tEffect of Determination.\n  1.\tIf the Director approves an application for a decision pursuant to this Section, then the use is permitted, subject to the same standards and procedures as the use to which it was compared for the purposes of the favorable decision.\n  2.\tIf the Director determines that a proposed use is not functionally comparable to a use that is permissible in the table in the zoning district that applies to the subject property, then the proposed use is a prohibited use in that zoning district."
+      }
+    ],
+    "ordinance_refs": [
+      "3-1-2-12"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

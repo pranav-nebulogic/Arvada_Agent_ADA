@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "camouflage",
+      "concealment",
+      "generally",
+      "wcfs",
+      "related",
+      "accessory",
+      "equipment",
+      "including",
+      "transmission",
+      "greatest"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "7-1-3-3"
+    ],
+    "chapter": "Chapter 7 WIRELESS COMMUNICATIONS FACILITIES",
+    "article": "ARTICLE 7-1. WIRELESS COMMUNICATIONS FACILITIES",
+    "division": "DIVISION 7-1-3. GENERALLY APPLICABLE DESIGN STANDARDS"
+  },
+  "content": {
+    "title": "7-1-3-3. Camouflage or concealment.",
+    "summary": "A.\tGenerally.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "7-1-3-3. Camouflage or concealment.",
+        "a": "A.\tGenerally. All WCFs and any Related Accessory Equipment (including Transmission Equipment) shall, to the greatest extent technically feasible, use camouflage/concealment design techniques including, but not limited to the use of materials, colors, textures, screening, undergrounding, landscaping, equipment location (e.g. RRUs/RRHs located on rooftops below and behind parapet walls), or other design options that will blend the WCF to the surrounding natural setting and built environment. Design, materials and colors of WCFs shall be compatible with the surrounding environment. Designs shall be compatible with structures and vegetation on sites located on the same parcel and on adjacent parcels.\nB.\tPriority Locations. Camouflage/concealment design may be of heightened importance where findings of particular sensitivity are made (e.g., proximity to historic or aesthetically significant structures, views, and/or community features). In such instances where WCFs are located in areas of high visibility, they shall (where possible) be designed (e.g., placed underground, depressed, or located behind earth berms) to minimize their profile.\nC.\tAlternative Tower Structures. The camouflage design may include the use of Alternative Tower Structures should the Director determine that such design meets the intent of this Article, and the community is better served thereby.\nD.\tNon-Reflective Materials. All WCFs, such as antennas, vaults, equipment rooms, equipment enclosures, and tower structures shall be constructed out of non-reflective materials (visible exterior surfaces only)."
+      }
+    ],
+    "ordinance_refs": [
+      "7-1-3-3"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "row",
+    "tags": [
+      "flatwork",
+      "curb and gutter",
+      "sidewalk repair",
+      "right-of-way",
+      "ROW"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/656/Flatwork-Replacement"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/row/rw-007",
+    "spreadsheet_id": "RW-007",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Flatwork Repair Permit",
+    "summary": "Contractors in Arvada must obtain permits for flatwork replacement in the right-of-way, which includes various types of curb and sidewalk work. Before applying, contractors should check if their project is in a street cut moratorium area and ensure they have a valid General Municipal Contractor's license. Applications must include a site plan, traffic control plan, and utility locate confirmation, with review timelines of 2-5 business days, and inspections scheduled online.",
+    "body": "These permits are required for contractors doing flatwork replacement in the right-of-way for single family or commercial properties in the City of Arvada. This type of work includes combination curb and gutter, detached walk, vertical curb and gutter, crosspans, ADA ramps and sidewalk chase drains.\n\n## Before you apply\nPlease review the Street Cut Moratorium maps to determine if your project falls in a moratorium area.\n\n- [City Street Cut Moratorium](https://arvada.maps.arcgis.com/apps/instant/sidebar/index.html?appid=a80fd7bd06ae40fb8393961eb264333f) (map)\n\t- If proposed work affects streets highlighted on this map, a permit is subject to approval and may require special asphalt restoration requirements.\n\t\t- Visit the [Street Cut Moratorium page](https://www.arvadaco.gov/1007) for more information about work on a street in moratorium.\n\n## Required licensing\nPermits will only be issued to contractors that have a valid active [General Municipal Contractor](https://www.arvadaco.gov/283) ’s license with the City of Arvada. The listed permittee is responsible for all subcontractors and anything that occurs onsite.\n\n## Submitting your application\nApplications are completed online through [Permit Portal]([NEW PORTAL URL]). You must upload submittal documents to apply.\n\n### Required documents\nA site plan and traffic control plan must be submitted for review. See [traffic control typicals](https://www.google.com/url?q=https://www.arvadaco.gov/DocumentCenter/View/484/Traffic-Control-Guide-PDF&sa=D&source=docs&ust=1731694306274288&usg=AOvVaw2-cFeJIlMlppnnOvvdWyln) for work on residential streets only. Documents must be attached to the permit application. If the required documents are not attached the application will not be accepted.\n\n### Utility locate confirmation\n[Colorado 811](http://colorado811.org/) locates are the contractor's responsibility to obtain prior to work starting. Request an 811 Engineering Locate for plan design. A flatwork permit will not be approved without a locate confirmation number.\n\n### Fees\nPermit fees vary for the type of work being completed. Fees will be applied to the permit once the permit has been reviewed, please reference the [adopted fee schedule](https://www.arvadaco.gov/DocumentCenter/View/294/) for a complete list of right-of-way permitting fees.\n\n### Sales & Use Tax\nAll sales and use tax will be paid at permit issuance. Please provide the complete job value at the time of application. Once the permit is issued, please use the permit when purchasing goods and materials for your project. If you are an Arvada Business License holder you can submit your license number for quarterly reporting. If the project is tax exempt, you will need to include your project specific tax exempt form.\n\n### Review timelines\nComplete application submittals for flatwork repair require a minimum of 2 business days for initial review. Full review and processing can take up to 3-5 business days for approval.\n\n## Permit issuance\nOnce the permit has been reviewed and approved, an email confirmation will be sent to the applicant for payment. Payments can be made by credit card through [Permit Portal]([NEW PORTAL URL]). You can also send checks or money orders to Arvada City Hall, attention Engineering, 8101 Ralston Road Arvada, CO 80002.\n\n## Inspections\nInspections are completed on a daily basis Monday through Friday between 8 am and 3 pm, and must be scheduled online by 6 am of the desired day of inspection. To schedule inspections, please visit [Permit Portal]([NEW PORTAL URL]) and login with your Arvada Contractor license number (AECXXXXX) and password.\n\nPre construction meetings are required prior to permit approval for curb cuts, chase drains, and/or streets in moratorium. Once the flatwork permit application is received, a municipal inspector will reach out to the applicant to schedule this meeting. The permit will then be approved or denied pending the outcome of the pre construction meeting.\n\n## Closing the permit\nThe permit will be closed once the final inspection has been approved. Please indicate final inspection when scheduling. Log in to [Permit Portal]([NEW PORTAL URL]) for updates. Permits with asphalt and/or concrete replacement will be subject to a two year warranty. At final inspection, if repairs are needed the contractor will be required to complete the repair within 14 days of notice.\n\n## Warranty\nA final warranty inspection will be completed for asphalt and concrete restoration if applicable within 1 year and 10 months of closing the permit. The general contractor will be notified by the City of Arvada Engineering Division if repairs must be made prior to final acceptance of work.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

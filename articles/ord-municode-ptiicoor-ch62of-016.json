@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "resisting",
+      "arrest",
+      "shall",
+      "unlawful",
+      "any",
+      "person",
+      "use"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH62OF"
+    ],
+    "scraped_at": "2026-06-10T12:03:02.086761+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 62-46"
+    ],
+    "chapter": "Chapter 62 - OFFENSES"
+  },
+  "content": {
+    "title": "Chapter 62 - OFFENSES — Sec. 62-46. - Resisting arrest.",
+    "summary": "(a)\nIt shall be unlawful for any person, by use of force, violence, threat thereof or\n               any other means creating a substantial risk of injury, intentionally to prevent or\n               attempt to prevent any police officer, acting under color of his official authority,\n               f…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 62-46. - Resisting arrest.",
+        "a": "(a)\nIt shall be unlawful for any person, by use of force, violence, threat thereof or\n               any other means creating a substantial risk of injury, intentionally to prevent or\n               attempt to prevent any police officer, acting under color of his official authority,\n               from effecting an arrest of the actor or another.\n(b)\nIt is no defense to a prosecution under this section that a police officer was attempting\n               to make an arrest which was in fact unlawful if he was acting under color of his official\n               authority and in making the arrest he did not resort to such excessive force as to\n               give rise to a right of self-defense under state law.\n(Code 1960, § 17-18; Code 1981, § 21-15)\nState Law reference—\nSimilar provisions, C.R.S. § 18-8-103."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 62-46"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

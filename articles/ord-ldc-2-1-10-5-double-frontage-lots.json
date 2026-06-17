@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "double",
+      "frontage",
+      "lots",
+      "generally",
+      "building",
+      "standards",
+      "section",
+      "apply",
+      "development",
+      "residential"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "2-1-10-5"
+    ],
+    "chapter": "Chapter 2 ZONING DISTRICTS",
+    "article": "ARTICLE 2-1. ZONING DISTRICTS AND LOT AND BUILDING STANDARDS",
+    "division": "DIVISION 2-1-10. EXCEPTIONS AND ADJUSTMENTS TO LOT AND BUILDING STANDARDS"
+  },
+  "content": {
+    "title": "2-1-10-5. Double-frontage lots.",
+    "summary": "A.\tGenerally. The lot and building standards of this Section apply to the development of double-frontage lots for residential purposes in all zoning districts except the Olde Town zoning district and MX zoning districts.\nB.\tMinimum Lot Depth.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "2-1-10-5. Double-frontage lots.",
+        "a": "A.\tGenerally. The lot and building standards of this Section apply to the development of double-frontage lots for residential purposes in all zoning districts except the Olde Town zoning district and MX zoning districts.\nB.\tMinimum Lot Depth. Double-frontage lots shall have a minimum lot depth of at least 130 feet (including any landscaped tree lawn).\nC.\tMinimum Rear Setbacks. Primary buildings and structures on double-frontage lots shall be set back from rear lot lines as provided in Table 2-1-10-5, Rear Setbacks for Double-Frontage Lots. The setbacks may be applied as a single setback for the entire primary building or structure, or as stepped setbacks that are applicable to portions of the primary building or structure that are above the stated heights.\n(Ord. No. 4905, §§ 15, 16, 8-19-2025)"
+      }
+    ],
+    "ordinance_refs": [
+      "2-1-10-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

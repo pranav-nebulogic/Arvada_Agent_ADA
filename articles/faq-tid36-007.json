@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-36-008",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "allowed",
+      "rent",
+      "relative",
+      "federal",
+      "regulations",
+      "prohibit",
+      "aha",
+      "allowing",
+      "Housing Choice Voucher Program Landlord Guide"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=36"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/am-i-allowed-to-rent-to-a-relative",
+    "faq_category_name": "Housing Choice Voucher Program Landlord Guide"
+  },
+  "content": {
+    "title": "Am I allowed to rent to a relative?",
+    "summary": "Federal regulations prohibit the AHA from allowing a participant's family to rent a unit from a relative unless the AHA determines that approving the rental unit provides a reasonable accommodation for a participant's family member who is a person with disabilities. The AHA handles such requests on …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Am I allowed to rent to a relative?",
+        "a": "Federal regulations prohibit the AHA from allowing a participant's family to rent a unit from a relative unless the AHA determines that approving the rental unit provides a reasonable accommodation for a participant's family member who is a person with disabilities. The AHA handles such requests on a case-by-case basis. § 982.306 PHA disapproval of owner. (d) The PHA must not approve a unit if the owner is the parent, child, grandparent, grandchild, sister, or brother of any member of the family, unless the PHA determines that approving the unit would provide reasonable accommodation for a family member who is a person with disabilities. This restriction against PHA approval of a unit only applies at the time a family initially receives tenant-based assistance for occupancy of a particular unit, but does not apply to PHA approval of a new tenancy with continued tenant-based assistance in the same unit."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "payments",
+      "SMART License & Permits",
+      "permits",
+      "blue",
+      "once",
+      "permit",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://aca-prod.accela.com/ARVADA"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-403",
+    "spreadsheet_id": "MI-403",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Payments in SMART License & Permits",
+    "summary": "Payments for approved permits or projects can be made online through the Arvada Permits Site using Visa or Mastercard. Applicants will receive an email notification when their permit is ready for payment, and the process involves logging in, selecting the fees, adding them to a shopping cart, and completing the payment on a secure screen. A confirmation of the payment will be emailed to the applicant after processing.",
+    "body": "Once a permit / project has been approved, payments can be made online through the [Arvada Permits Site](http://arvadapermits.org) using a Visa or Mastercard. An email notification to the applicant will be sent when the permit is ready for payment.\n\n1. **Login at the Arvada Permits site:**  \n   Once logged in, you will select the fee that you want to pay. Permits that are available to be paid, will display the fee due in blue. Select the fee in blue to add it to the shopping cart.\n2. **Load items to shopping cart:**  \n   Review the total amount that you are paying. To add more permits, select \"Back to Dashboard\" and repeat step one in this process. Once you are satisfied with the contents of your shopping cart, select \"Proceed to Checkout\".  \n   **Note:** Unpaid items will remain in the shopping cart until they are removed or paid.\n3. **Review payments:**Once you have added all of the payments to your shopping cart, select \"Proceed to Payment.\"\n4. **Complete payment:**You will be redirected to a secure payment screen to complete your credit card payment using a Visa or Mastercard. Once the payment has processed, you will be redirected back to SMART License & Permits via the Arvada Permits Site to review your permits. A copy of the payments will be sent via email.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

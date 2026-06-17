@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "legal",
+      "qualifications",
+      "media",
+      "cross",
+      "ownership",
+      "section",
+      "cable"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH23CAFRAPPR"
+    ],
+    "scraped_at": "2026-06-10T12:02:29.502011+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 23-33"
+    ],
+    "chapter": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS"
+  },
+  "content": {
+    "title": "Chapter 23 - CABLE FRANCHISE APPLICATION AND PROCESS — Sec. 23-33. - Legal qualifications.",
+    "summary": "(a)\nMedia cross-ownership.\n(1)\nSection 613 of the Cable Communications Policy Act of 1984, 47 U.S.C. section 533(a)\n               and applicable FCC rules prohibit certain forms of media cross-ownership. An applicant\n               shall state whether it or an affiliate directly or indirectly owns,…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 23-33. - Legal qualifications.",
+        "a": "(a)\nMedia cross-ownership.\n(1)\nSection 613 of the Cable Communications Policy Act of 1984, 47 U.S.C. section 533(a)\n               and applicable FCC rules prohibit certain forms of media cross-ownership. An applicant\n               shall state whether it or an affiliate directly or indirectly owns, operates, controls\n               or has an interest in any of the following, or whether the applicant holds or operates\n               any company or business operating jointly with any of the following:\na.\nA national broadcast television network (such as ABC, CBS or NBC, etc.).\nb.\nA television broadcast station whose predicted Grade B contour, computed in accordance\n               with Section 73.684 of the FCC's rules, overlaps in whole or in part Arvada's service\n               area, or an application for license to operate such a station.\nc.\nA telecommunications or telephone company whose service area includes any portion\n               of Arvada's service area.\n(2)\nIf the response to any of subsections (a)—(c) above is affirmative, the applicant\n               shall state the name of the applicant or affiliate, the nature and percentage of ownership\n               or interest and the company that is owned or in which the interest is held.\n(b)\nFranchise violations.\nAn applicant shall state whether it or any affiliate been found in violation by a\n               regulatory authority or franchising authority of any franchise ordinance or agreement,\n               contract or regulation governing a cable system. If so, the applicant shall identify\n               the judicial or administrative proceeding, giving the date, name of tribunal and result\n               or disposition of that proceeding.\n(c)\nOther violations.\nAn applicant shall state whether it has been found in violation by a regulatory authority\n               of any other type (e.g. utility) of franchise, ordinance, agreement, permit, contract\n               or regulation. If so, the applicant shall identify the judicial or administrative\n               proceeding, giving the date, name of tribunal and result or disposition of that proceeding.\n(\nOrd. No. 4078, § 1, 7-16-07\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 23-33"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

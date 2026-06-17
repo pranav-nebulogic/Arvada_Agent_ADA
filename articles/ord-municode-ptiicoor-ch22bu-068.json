@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "unlawful",
+      "acts",
+      "generally",
+      "shall",
+      "any",
+      "business",
+      "security"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-233"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-233. - Unlawful acts generally.",
+    "summary": "It shall be unlawful:\n(1)\nFor any business or security guard to fail immediately to turn over to the city police\n                  department or other law enforcement agency any person arrested by such guard pursuant\n                  to the laws of the state. Nothing contained in this article shall…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-233. - Unlawful acts generally.",
+        "a": "It shall be unlawful:\n(1)\nFor any business or security guard to fail immediately to turn over to the city police\n                  department or other law enforcement agency any person arrested by such guard pursuant\n                  to the laws of the state. Nothing contained in this article shall be construed as\n                  authorizing any individual to make an arrest of any person, except as provided by\n                  the laws of the state.\n(2)\nFor any business or security guard who discharges a firearm within the city to fail\n                  immediately to report such incident to the city police department. Nothing contained\n                  in this article shall be construed as authorizing any individual to carry a concealed\n                  weapon, except as provided by the laws of the state.\n(3)\nFor any business or security guard, or any contract security agency to hinder or interfere\n                  with any investigation under the jurisdiction of the city police department.\n(4)\nFor any business or security guard, or any contract security agency to fail immediately\n                  to report to the city police department any city ordinance violation, or to report\n                  to the city police department or other appropriate law enforcement agency any violation\n                  of state or federal law.\n(Code 1981, § 21-93; Ord. No. 3739, § 2, 3-4-2002)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-233"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

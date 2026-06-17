@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "police",
+      "honor",
+      "garden",
+      "memorial",
+      "across",
+      "appreciation",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1500/Arvada-Police-Honor-Garden"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-070",
+    "spreadsheet_id": "MI-070",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Arvada Police Honor Garden",
+    "summary": "The Arvada Police Honor Garden, located in Memorial Park, is a memorial dedicated to police officers who have died in the line of duty, honoring four fallen officers: Dillon Vakoff, Gordon Beesley, W. Michael Northey, and Robert Beghtol. Constructed by the Arvada Police Foundation in collaboration with the City of Arvada, the garden was dedicated on May 28, 2026, during the annual memorial ceremony.",
+    "body": "The Arvada Police Honor Garden is a memorial on the west side of Memorial Park ([8001 W. 59th Ave.](https://maps.app.goo.gl/nCKbU7TFfy2Bxp4q9)), across the street from City Hall and Arvada Police Headquarters. The garden serves as a permanent tribute to Arvada police officers who have died in the line of duty, and as a symbol of the community's appreciation for those who serve.\n\nThe project was constructed by the Arvada Police Foundation, an independent 501(c)(3) non-profit, in cooperation with the City of Arvada's Parks and Urban Design team.\n\n### Honoring Our Fallen Officers\n\nThe Honor Garden memorializes four officers who gave their lives serving the Arvada community:\n\n- Dillon Vakoff (2022)\n- Gordon Beesley (2021)\n- W. Michael Northey (1979)\n- Robert Beghtol (1961)\n\n### Timeline\n\nConstruction on the Honor Garden began on March 6, 2026. The Honor Garden was [dedicated on May 28, 2026](https://www.youtube.com/watch?v=7yvWCTpMp8I), at the Arvada Police Department's annual fallen officer memorial ceremony.\n\n### Learn More\n\nFor more information about the Arvada Police Honor Garden and other Foundation initiatives, visit the [Arvada Police Foundation website](https://www.arvadapolicefoundation.org/honorgarden).\n\n### Honor Garden - overview\n\n![an aerial overview of the Honor Garden](/ImageRepository/Document?documentID=7658 \"an aerial overview of the Honor Garden\")",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

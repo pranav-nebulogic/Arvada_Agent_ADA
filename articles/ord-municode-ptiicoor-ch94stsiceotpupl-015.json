@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "official",
+      "grade",
+      "all",
+      "curbs",
+      "gutters",
+      "sidewalks",
+      "constructed"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH94STSICEOTPUPL"
+    ],
+    "scraped_at": "2026-06-10T12:04:47.963764+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 94-32"
+    ],
+    "chapter": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES"
+  },
+  "content": {
+    "title": "Chapter 94 - STREETS, SIDEWALKS AND CERTAIN OTHER PUBLIC PLACES — Sec. 94-32. - Official grade.",
+    "summary": "(a)\nAll curbs, gutters and sidewalks constructed, reconstructed or repaired within the\n               city, except as otherwise provided, shall be located and built upon the official grade\n               of the city at the place where the same is to be constructed, reconstructed or repaired,\n       …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 94-32. - Official grade.",
+        "a": "(a)\nAll curbs, gutters and sidewalks constructed, reconstructed or repaired within the\n               city, except as otherwise provided, shall be located and built upon the official grade\n               of the city at the place where the same is to be constructed, reconstructed or repaired,\n               as such grade is fixed or determined by the city engineer. If any curb, gutter and\n               sidewalk constructed, reconstructed or repaired within the city is not to be laid\n               and built upon the official grade, as then established, it shall be the duty of the\n               person laying or building the same or causing the same to be laid and built, upon\n               notice from the city engineer, to alter and reconstruct such sidewalk, curb or gutter\n               so as to conform to the official grade within five days of such notice.\n(b)\nWhere, in the opinion of the city engineer, it would not be practical or just and\n               would not make for uniformity to have such curb, sidewalk and gutter reconstructed\n               or repaired upon or according to the official grade, as then established, the city\n               engineer may order or permit such sidewalk, curb and gutter to be reconstructed or\n               repaired upon or according to the grade upon which such sidewalk or curb and gutter\n               was formerly constructed and built.\n(\nOrd. No. 4365, § 1, 11-19-2012\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 94-32"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

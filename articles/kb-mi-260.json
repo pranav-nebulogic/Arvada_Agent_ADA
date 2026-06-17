@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "homelessness",
+      "community",
+      "conversations",
+      "engage",
+      "approach",
+      "approaches",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/1522/Homelessness-community-conversations"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-260",
+    "spreadsheet_id": "MI-260",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Homelessness community conversations",
+    "summary": "In 2025, the City held Community Conversations to address rising concerns about homelessness, allowing residents to discuss various approaches such as expanding housing, strengthening enforcement, and focusing on prevention. Key themes included support for balanced solutions, the need for tailored responses to different demographics, a preference for outreach over punitive measures, and a desire for greater transparency regarding funding and decision-making. The City plans to enhance transparency through a reporting dashboard based on participant feedback.",
+    "body": "In response to rising concerns about homelessness, the City facilitated a series of Community Conversations in 2025, creating space for residents to engage in thoughtful, inclusive dialogue about the challenges of homelessness and potential policy responses.\n\nThe Community Conversations followed a deliberative forum approach. Community members volunteered their time to engage in a structured conversation about the benefits and drawbacks of three different approaches, **expanding housing and sheltering, strengthening enforcement and public order, and prevention and partnerships**. The goal was not to gain consensus, but to listen and find better understanding of different perspectives. Some themes that emerged from the conversation included:\n\n**Support for balanced solutions:** Most participants favored a both/and approach, combining housing, services, and prevention with fair expectations and accountability.\n\n**Segmentation matters:** Residents emphasized that solutions should reflect the differing needs of families, situationally unhoused individuals, and those with complex behavioral health issues.\n\n**Outreach over punishment:** Public order matters, but enforcement-only approaches were widely seen as ineffective or even harmful.\n\n**Desire for transparency:** Participants want more communication about results, funding, and the rationale behind siting decisions.\n\n**Prevention resonates:** The most widely supported approach focused on long-term prevention and stronger regional partnerships.\n\n## What happens next\n\nCommunity Conversations are one venue for resident feedback. As a result of what we heard from participants, the City is already taking steps to increase transparency through a reporting dashboard that tracks success metrics.\n\n## Learn more\n\n- Read the [full report](/DocumentCenter/View/7447/Community-Conversations-on-Homelessness-Report-Full) about the Community Conversations process\n- Reach out to Director of Communications and Engagement Rachael Kuroiwa at [[email protected]](/cdn-cgi/l/email-protection#64160f11160b0d1305240516120500054a0b1603) if you're interested in hosting your own Community Conversation!\n\n## Stay informed\n\nStay up to date with progress on the City’s response to homelessness, including opportunities to attend community meetings, provide feedback, and volunteer, by signing up for the [Homelessness Response email list](https://www.arvadaco.gov/list.aspx?ListID=282).",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

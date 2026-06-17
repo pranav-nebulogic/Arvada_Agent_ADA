@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "limitations",
+      "contributions",
+      "kind",
+      "person",
+      "entity",
+      "shall",
+      "make"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH30EL"
+    ],
+    "scraped_at": "2026-06-10T12:02:32.329082+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 30-7",
+      "§ 1-45"
+    ],
+    "chapter": "Chapter 30 - ELECTIONS"
+  },
+  "content": {
+    "title": "Chapter 30 - ELECTIONS — Sec. 30-7. - Limitations on contributions and contributions in kind.",
+    "summary": "(a)\nNo person or entity shall make contributions or contributions in kind as those terms\n               are defined in C.R.S. § 1-45-103(4), as amended, to a candidate (mayor, at large,\n               or district) or candidate committee which, in the aggregate, exceed $750.00 for mayoral\n           …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 30-7. - Limitations on contributions and contributions in kind.",
+        "a": "(a)\nNo person or entity shall make contributions or contributions in kind as those terms\n               are defined in C.R.S. § 1-45-103(4), as amended, to a candidate (mayor, at large,\n               or district) or candidate committee which, in the aggregate, exceed $750.00 for mayoral\n               and at large or $500.00 for district in amount or value.\n(b)\nThe limitation imposed by subsection (a) of this section shall not apply to:\n(1)\nContributions of a candidate's personal funds, the funds of the candidate's immediate\n               family, or a business entity in which the candidate owns at least five percent to\n               the candidate's own campaign; or\n(2)\nAny loan which is personally guaranteed in writing by the candidate, the candidate's\n               immediate family, or a business entity in which the candidate owns at least five percent;\n               or\n(3)\nAny loan which is secured by real or personal property owned by the candidate, the\n               candidate's immediate family, or a business entity in which the candidate owns at\n               least five percent.\nFor purpose of this section, the term \"immediate family\" shall include spouse, child,\n               parent, or sibling whether by blood, adoption, marriage, or common-law marriage.\n(c)\nThe limitation imposed by subsection (a) of this section shall apply only to regular\n               municipal and special elections.\n(d)\nThe limitation imposed by subsection (a) of this section shall apply only to contributions\n               or contributions in kind made directly to the candidate or candidate committee in\n               a municipal election.\n(e)\nThere shall be no violation of this article in the event that a:\n(1)\nMonetary contribution, in excess of the amount set forth in\nsection 30-7\n, is returned to the contributor as set forth in\nsection 30-8\n.\n(2)\nCandidate uses good faith in attempting to place a reasonable estimate of fair market\n               value on a contribution in kind in excess of the amount set forth in\nsection 30-7\n, and the value of such excess contribution in kind or the actual excess contribution\n               in kind is returned to the contributor as set forth in\nsection 30-8\n.\n(Code 1981, § 11-7; Ord. No. 3511, § 2, 2-1-1999)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 30-7",
+      "§ 1-45"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "boat",
+      "usage",
+      "lakes",
+      "reservoir",
+      "fishing",
+      "lake",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/672/Boat-Usage-on-Lakes-in-Arvada"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-106",
+    "spreadsheet_id": "MI-106",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Boat Usage on Lakes in Arvada",
+    "summary": "Boating in Arvada is permitted at specific locations: small fishing boats with electric motors are allowed at Arvada Blunn Reservoir, while only non-motorized boats like kayaks are permitted at Lake Arbor, where body contact with the water is prohibited. All boating activities must adhere to Colorado state regulations, and inquiries can be directed to Parks Maintenance at 720-898-7410.",
+    "body": "![Person on Boat Fishing on a Lake](/ImageRepository/Document?documentID=940 \"Person on Boat Fishing on a Lake\")\n\n## Boating Locations in Arvada\n\n### [Arvada Blunn Reservoir](/658/Arvada-Reservoir)\n\nSmall fishing boats with electric motors are allowed. Daily and annual passes are available. The Reservoir is located near W 64th Parkway and Highway 93. For hours and information, or to purchase a pass, [visit the Arvada Reservoir page](/658/Arvada-Reservoir).\n\n### Lake Arbor\n\nOnly non-motorized boats such as kayaks and small paddle boats are permitted at Lake Arbor. Body contact with the water is not permitted. Lake Arbor is located at 6450 Pomona Drive. Parking is available on the northeast side of the lake off Pomona Drive and Harlan Court.\n\nFor water sporting activities in Arvada, including boating and fishing, all State of Colorado rules and regulations must be followed. Visit the Colorado Division of Parks and Outdoor Recreation for information on [fishing license requirements](https://cpw.state.co.us/buyapply/Pages/Fishing.aspx), [boating in Colorado](https://cpw.state.co.us/activities/boating), and more.\n\n## The Law\n\nSec. 66-28. - Lakes, ponds, and streams. In any lake, stream, or pond in any public park within the city, **no person shall swim, wade, boat, raft, or ice skate unless signs are posted expressly permitting such activity**. (Code 1960, § 17-30; Code 1981, § 22-9)\n\n## Questions\n\nIf you have questions about boating in Arvada, please contact Parks Maintenance at 720-898-7410.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

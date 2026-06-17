@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "license",
+      "denial",
+      "suspension",
+      "cancellation",
+      "revocation",
+      "denied",
+      "canceled"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH22BU"
+    ],
+    "scraped_at": "2026-06-10T12:02:28.021362+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 22-206"
+    ],
+    "chapter": "Chapter 22 - BUSINESSES"
+  },
+  "content": {
+    "title": "Chapter 22 - BUSINESSES — Sec. 22-206. - License denial, suspension, cancellation or revocation.",
+    "summary": "(a)\nA license may be denied, canceled, suspended or revoked by the city clerk for any\n               reason set forth in this article.\n(b)\nAn applicant may appeal a denial or a licensee may appeal a cancellation, suspension\n               or revocation of a license as provided in\nsection 2-171\net se…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 22-206. - License denial, suspension, cancellation or revocation.",
+        "a": "(a)\nA license may be denied, canceled, suspended or revoked by the city clerk for any\n               reason set forth in this article.\n(b)\nAn applicant may appeal a denial or a licensee may appeal a cancellation, suspension\n               or revocation of a license as provided in\nsection 2-171\net seq.\n(Code 1981, § 23-6; Ord. No. 3238, § 1, 12-18-1995)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 22-206"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

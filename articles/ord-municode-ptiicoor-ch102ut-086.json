@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "sewer",
+      "system",
+      "development",
+      "charges",
+      "residential",
+      "facilities",
+      "within"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH102UT"
+    ],
+    "scraped_at": "2026-06-10T12:05:03.261774+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 102-202"
+    ],
+    "chapter": "Chapter 102 - UTILITIES"
+  },
+  "content": {
+    "title": "Chapter 102 - UTILITIES — Sec. 102-202. - Sewer system development charges—Residential facilities within city.",
+    "summary": "Sewer system development charges for serving residential facilities within the corporate\n               limits of the city are as follows:\n(1)\nAn inspection fee of $25.00.\n(2)\nSewer system development charges determined from the following schedule:\nType of Residence\nAmount\nSingle-family\n$6,240.00\nDu…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 102-202. - Sewer system development charges—Residential facilities within city.",
+        "a": "Sewer system development charges for serving residential facilities within the corporate\n               limits of the city are as follows:\n(1)\nAn inspection fee of $25.00.\n(2)\nSewer system development charges determined from the following schedule:\nType of Residence\nAmount\nSingle-family\n$6,240.00\nDuplex\n$4,370.00\nMultifamily\n$4,370.00\n(3)\nPlus, the Metro Water Recovery (formerly known as Metro Wastewater Reclamation District)\n                  connector charge. The city acts as the agent for Metro Water Recovery in collection\n                  of a connector charge in accordance with the fee schedule established by Metro Water\n                  Recovery.\n(4)\nThe sewer tap size required will be determined in accordance with the Uniform Plumbing\n                  Code (UPC), as amended and adopted by the city.\n(Code 1981, § 33-106; Ord. No. 2574, § 1, 11-21-1988; Ord. No. 2671, §§ 32, 33, 10-16-1989;\n               Ord. No. 2763, §§ 15, 16, 18, 11-5-1990; Ord. No. 2931, § 22, 10-19-1992; Ord. No.\n               3127, § 21, 10-24-1994; Ord. No. 3202, § 10, 8-7-1995; Ord. No. 3355, § 1, 5-5-1997;\n               Ord. No. 3403, § 28, 10-20-1997; Ord. No. 3489, § 7, 10-26-1998; Ord. No. 3560, §\n               17, 10-11-1999; Ord. No. 3650, § 15, 10-23-2000; Ord. No. 3722, § 15, 10-8-2001;\nOrd. No. 4185, § 1, 10-19-2009, eff. 1-1-2010\n;\nOrd. No. 4194, § 1, 1-11-2010\n; Ord. No. 4819, § 27, 10-17-2022, eff. 7-1-2023; Ord. No.\n4854\n, § 11, 9-11-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 102-202"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

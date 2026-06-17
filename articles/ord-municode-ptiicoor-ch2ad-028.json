@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "attorneys",
+      "any",
+      "party",
+      "hearing",
+      "under",
+      "article",
+      "represented"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-176"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-176. - Attorneys.",
+    "summary": "Any party to a hearing under this article may be represented by an attorney. The party\n               requesting the hearing shall notify the hearing officer and the city of such representation\n               and the attorney shall enter an appearance. Upon receipt of notice of representation,\n     …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-176. - Attorneys.",
+        "a": "Any party to a hearing under this article may be represented by an attorney. The party\n               requesting the hearing shall notify the hearing officer and the city of such representation\n               and the attorney shall enter an appearance. Upon receipt of notice of representation,\n               further communications by the city regarding the hearing or by the hearing officer\n               shall be directed to the party's representative. Notice of representation shall be\n               made promptly, but in any event not less than five business days prior to the hearing.\n(Code 1981, § 2-141; Ord. No. 3608, §§ 1, 2, 4-3-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-176"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

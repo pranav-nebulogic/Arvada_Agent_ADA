@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "notice",
+      "person",
+      "responsible",
+      "hereby",
+      "amended",
+      "entirety"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-472"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-472. - I.P.M.C. Section 107.1, Notice to person responsible.",
+    "summary": "Section 107.1. Notice to person responsible,\nis hereby amended in its entirety to read as follows:\n\"\n107.1. Notice to person responsible.\nInitiation of prosecution for a violation of this code shall be in accordance with\nsection 18-39\n(d) of this chapter. Initiation of nuisance proceedings shall be …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-472. - I.P.M.C. Section 107.1, Notice to person responsible.",
+        "a": "Section 107.1. Notice to person responsible,\nis hereby amended in its entirety to read as follows:\n\"\n107.1. Notice to person responsible.\nInitiation of prosecution for a violation of this code shall be in accordance with\nsection 18-39\n(d) of this chapter. Initiation of nuisance proceedings shall be as follows:\n1.\nIn any proceeding to determine, abate, or remove a nuisance or a nuisance property,\n                  notice shall be given as set forth in article III of\nchapter 38\n, Environment, and all proceedings conducted in accordance with that article.\n2.\nIn any proceeding to determine, abate, or remove a snow, ice, or slush nuisance, notice\n                  shall be given as set forth in article I of\nchapter 94\n, Streets, Sidewalks, and Certain Other Public Areas, and all proceedings conducted\n                  in accordance with that article.\n3.\nIn any proceeding to determine, abate, or remove a weeds or noxious weeds, notice\n                  shall be given as set forth in article V of\nchapter 38\n, Environment, and all proceedings conducted in accordance with this article.\n4.\nIn any proceeding to determine, abate, or remove graffiti, notice shall be given as\n                  set forth in article IV of\nchapter 38\n, Environment, and all proceedings conducted in accordance with this article.\n5.\nIn any proceeding to determine, abate, or remove rubbish or garbage, notice shall\n                  be given as set forth in article III of\nchapter 90\n, Solid Waste, and all proceedings conducted in accordance with this article.\n6.\nIn any proceeding to determine, abate, or remove an unsafe structure or condition,\n                  or unsafe building equipment, notice shall be given as set forth in section 108.6\n                  or 7, as is applicable, and all proceedings conducted in accordance with these sections.\"\n(Ord. No.\n4738\n, § 12, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-472"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

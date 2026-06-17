@@ -1,0 +1,54 @@
+{
+  "article_id": null,
+  "faq_article_id": "ARVADA-FAQ-32-010",
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "faq",
+    "permit_type": null,
+    "category": "faq",
+    "tags": [
+      "arvada",
+      "outdoor",
+      "watering",
+      "restrictions",
+      "city",
+      "receives",
+      "majority",
+      "water",
+      "Water & Sewer Billing"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/Faq.aspx?TID=32"
+    ],
+    "scraped_at": "2026-06-10",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "slug_hint": "arvada-co/faq/does-arvada-have-outdoor-watering-restrictions",
+    "faq_category_name": "Water & Sewer Billing"
+  },
+  "content": {
+    "title": "Does Arvada have outdoor watering restrictions?",
+    "summary": "The City receives the majority of its water supply from Denver Water. We are contractually required to follow drought related water restrictions in line with Denver Water. Visit the water restrictions webpage for more information, including any current restrictions. Small landscaping and habit chang…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Does Arvada have outdoor watering restrictions?",
+        "a": "The City receives the majority of its water supply from Denver Water. We are contractually required to follow drought related water restrictions in line with Denver Water. Visit the water restrictions webpage for more information, including any current restrictions. Small landscaping and habit changes can save water which reduces demand and can save money. Visit the Outdoor Watering Tips page for helpful information."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

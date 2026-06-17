@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "power",
+      "mortgage",
+      "connection",
+      "any",
+      "project",
+      "financed",
+      "whole"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH46HO"
+    ],
+    "scraped_at": "2026-06-10T12:02:37.897964+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 46-64"
+    ],
+    "chapter": "Chapter 46 - HOUSING"
+  },
+  "content": {
+    "title": "Chapter 46 - HOUSING — Sec. 46-64. - Power to mortgage, when.",
+    "summary": "In connection with any project financed in whole or in part by a government, the authority\n               also has the power to mortgage all or any part of its property, real or personal,\n               then owned or thereafter acquired, and thereby to vest in:\n(1)\nA government the right, upon the h…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 46-64. - Power to mortgage, when.",
+        "a": "In connection with any project financed in whole or in part by a government, the authority\n               also has the power to mortgage all or any part of its property, real or personal,\n               then owned or thereafter acquired, and thereby to vest in:\n(1)\nA government the right, upon the happening of an event of default as defined in such\n                  mortgage, to foreclose such mortgage through judicial proceedings or through the exercise\n                  of a power of sale without judicial proceedings so long as a government is the holder\n                  of any of the bonds secured by such mortgage;\n(2)\nA trustee the right, upon the happening of an event of default as defined in such\n                  mortgage, to foreclose such mortgage through judicial proceedings or through the exercise\n                  of a power of sale without judicial proceedings, but only with the consent of the\n                  government, if any, which aided in financing the project involved;\n(3)\nOther obligees the right, but only with the consent of such government, if any, which\n                  aided in financing the project involved, to foreclose such mortgage by judicial proceedings;\n(4)\nAn obligee, including a government, the right in foreclosing any mortgage as aforesaid\n                  to foreclose such mortgage as to all or such part of the property covered thereby\n                  as such obligee, in its absolute discretion, shall elect; such institution, prosecution\n                  and conclusion of any such foreclosure proceedings or the sale of any such parts of\n                  the mortgaged property shall not affect in any manner or to any extent the lien of\n                  the mortgage on the parts of the mortgaged property not included in such proceedings\n                  or not sold.\n(Code 1981, § 14-33; Ord. No. 1248, § 15, 6-16-1975)\nState Law reference—\nSimilar provisions, C.R.S. § 29-4-217."
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 46-64"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "filing",
+      "proposed",
+      "service",
+      "plan",
+      "model",
+      "adopted",
+      "city"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-20"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-20. - Filing of proposed service plan.",
+    "summary": "(a)\nModel service plan.\nThe model service plan adopted by the city council shall be available on the city's\n               website. The model service plan may be amended from time to time by the city council.\n(b)\nFiling of proposed service plan.\nPetitioner shall file a proposed service plan and any …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-20. - Filing of proposed service plan.",
+        "a": "(a)\nModel service plan.\nThe model service plan adopted by the city council shall be available on the city's\n               website. The model service plan may be amended from time to time by the city council.\n(b)\nFiling of proposed service plan.\nPetitioner shall file a proposed service plan and any relevant materials with the\n               department. Copies of the proposed service plan and relevant materials must be submitted\n               in a quantity and format acceptable to the department.\n(c)\nCompliance with model service plan.\nThe proposed service plan shall substantially comply with the form and content of\n               the model service plan. Petitioner shall identify any deviation(s) from the model\n               service plan contained within the proposed service plan and submit a filing contemporaneous\n               with the proposed service plan to the department. Such filing shall provide a detailed\n               explanation regarding the rationale and justification related to the requested deviation.\n(d)\nCouncil determination.\nAny material deviations must be approved by the city council prior to the approval\n               of the service plan. The city council shall have the sole discretion to determine\n               whether the proposed service plan, given the circumstances, substantially complies\n               with the form and content of the model service plan and whether the proposed plan\n               meets the requirements for approval.\n(e)\nApplication fee.\nPetitioners shall pay to the city a nonrefundable application fee at the time the\n               proposed service plan is filed. Such fee shall be in accordance with\nsection 74-31\n, land-use fees, of this Code.\n(f)\nOutside review and additional costs.\nIn addition to the application fee, petitioner shall pay all costs that the city\n               may reasonably incur in retaining outside counsel or consultants for the purpose of\n               reviewing any proposed service plan and any relevant materials, as well as any additional\n               reasonable costs incurred by the city, which are directly related to review of the\n               petitioner's proposed service plan or associated materials.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-20"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

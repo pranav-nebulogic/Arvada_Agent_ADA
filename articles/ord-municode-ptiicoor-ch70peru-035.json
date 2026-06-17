@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "shift",
+      "differential",
+      "pay",
+      "non",
+      "exempt",
+      "regular",
+      "probationary"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH70PERU"
+    ],
+    "scraped_at": "2026-06-10T12:03:09.368222+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 70-67"
+    ],
+    "chapter": "Chapter 70 - PERSONNEL RULES"
+  },
+  "content": {
+    "title": "Chapter 70 - PERSONNEL RULES — Sec. 70-67. - Shift differential pay.",
+    "summary": "Non-exempt regular and probationary employees who are scheduled on an ongoing basis\n               to work shifts that are other than that which is generally considered as the day shift\n               shall be compensated at a rate of one percent of pay for second shift/swing shift\n               an…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 70-67. - Shift differential pay.",
+        "a": "Non-exempt regular and probationary employees who are scheduled on an ongoing basis\n               to work shifts that are other than that which is generally considered as the day shift\n               shall be compensated at a rate of one percent of pay for second shift/swing shift\n               and two percent for third shift/graveyard shift. Shift differential pay will be calculated\n               on the employee's base plus overtime pay or compensatory time pay.\n(\nOrd. No. 4862\n, § 1, 10-16-2023)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 70-67"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

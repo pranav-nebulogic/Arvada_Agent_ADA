@@ -1,0 +1,58 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "ordinance",
+      "order",
+      "work",
+      "done",
+      "creating",
+      "district",
+      "amended"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH78PUIM"
+    ],
+    "scraped_at": "2026-06-10T12:04:41.007136+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 78-45",
+      "§ 27-46"
+    ],
+    "chapter": "Chapter 78 - PUBLIC IMPROVEMENTS"
+  },
+  "content": {
+    "title": "Chapter 78 - PUBLIC IMPROVEMENTS — Sec. 78-45. - Ordinance to order work done.",
+    "summary": "The ordinance creating a district, as amended, if amended, shall order the work to\n               be done as provided in this article.\n(Code 1981, § 27-46; Ord. No. 551, § 17(D), 5-14-1964)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 78-45. - Ordinance to order work done.",
+        "a": "The ordinance creating a district, as amended, if amended, shall order the work to\n               be done as provided in this article.\n(Code 1981, § 27-46; Ord. No. 551, § 17(D), 5-14-1964)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 78-45",
+      "§ 27-46"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

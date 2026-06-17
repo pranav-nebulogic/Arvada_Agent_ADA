@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "foundation",
+      "plantings",
+      "generally",
+      "planting",
+      "area",
+      "ground",
+      "extends",
+      "feet",
+      "outward",
+      "street"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-6-6-4"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-6. LANDSCAPING AND BUFFERING",
+    "division": "DIVISION 4-6-6 REQUIREMENTS BY LANDSCAPE AREA"
+  },
+  "content": {
+    "title": "4-6-6-4. Foundation plantings.",
+    "summary": "A.\tGenerally. The foundation planting area is the area of ground that extends ten feet outward from street-facing principal building elevations, and wrapping five feet around the corners of street-facing principal building elevations.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-6-6-4. Foundation plantings.",
+        "a": "A.\tGenerally. The foundation planting area is the area of ground that extends ten feet outward from street-facing principal building elevations, and wrapping five feet around the corners of street-facing principal building elevations. The foundation planting area does not extend into adjacent rights-of-way. Foundation plantings are required for all principal buildings as provided in this Section, except as provided in Subsection B., below.\nB.\tExceptions. Foundation plantings are not required:\n  1.\tFor principal buildings used for:\n    a.\tMulti-tenant nonresidential buildings that are designed with an adjacent sidewalk that provides principal public access to the individual tenant entrances;\n    b.\tLand uses set out in Section 3-1-2-10, Agricultural Land Use by Zoning District.\n  2.\tOn lots that are developed with single-family, duplex, multiplex, clustered small housing types, and manufactured homes.\n  3.\tFor principal buildings located less than five feet from the property line.\nC.\tPlanting Requirements.\n  1.\tFoundation planting areas shall be planted with one shrub per five linear feet of building façade.\n  2.\tFoundation plantings shall be used to accent the principal public entry to the building. Foundation plantings may be clustered for this purpose, and to provide interest and accent to other parts of the building, or to provide a foreground object to mitigate the appearance of building mass.\n  3.\tFoundation planting areas may include areas with impervious surfaces; however, the area within the foundation planting area that is used for the installation of required landscape materials shall be large enough to support the healthy growth of the plant material."
+      }
+    ],
+    "ordinance_refs": [
+      "4-6-6-4"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

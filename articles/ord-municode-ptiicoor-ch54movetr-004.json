@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "mtc",
+      "part",
+      "signals",
+      "signs",
+      "markings",
+      "amended",
+      "model"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-34"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-34. - MTC Part 6 \"Signals - Signs - Markings\" amended.",
+    "summary": "The Model Traffic Code is hereby amended by amending subsection (1) of section 614\n               of Part 6 in its entirety to read as follows:\n614. Designation of highway maintenance, repair, or construction zones - signs - increase\n                  in penalties for speeding violations.\n(1)\nIf mai…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-34. - MTC Part 6 \"Signals - Signs - Markings\" amended.",
+        "a": "The Model Traffic Code is hereby amended by amending subsection (1) of section 614\n               of Part 6 in its entirety to read as follows:\n614. Designation of highway maintenance, repair, or construction zones - signs - increase\n                  in penalties for speeding violations.\n(1)\nIf maintenance, repair, or construction activities are occurring or will be occurring\n                  within four hours on a local street or state highway, local authorities within their\n                  jurisdiction, may designate such portion of the street or highway as a highway maintenance,\n                  repair, or construction zone. Any person who commits a speeding violation in maintenance,\n                  repair, or construction zone in subject to the increased fines imposed by subsection\n                  1705(4).\n(\nOrd. No. 4384, § 2, 4-15-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-34"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

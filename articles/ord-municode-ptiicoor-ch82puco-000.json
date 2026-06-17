@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "chapter",
+      "purchasing",
+      "contracts",
+      "footnotes",
+      "editor",
+      "note",
+      "ord",
+      "adopted"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH82PUCO"
+    ],
+    "scraped_at": "2026-06-10T12:04:42.374923+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "§ 82-1"
+    ],
+    "chapter": "Chapter 82 - PURCHASING AND CONTRACTS"
+  },
+  "content": {
+    "title": "Chapter 82 - PURCHASING AND CONTRACTS",
+    "summary": "Footnotes:\n--- (\n1\n) ---\nEditor's note—\nOrd. No. 4774, § 1, adopted Aug. 16, 2021, repealed the former Ch. 82, §§ 82-1—82-9,\n               82-31—82-34, 82-71—82-74, 82-101—82-104, 82-121—82-124, and 82-142—82-146, and enacted\n               a new Ch. 82 as set out herein. The former Ch. 82 pertaine…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Chapter 82 - PURCHASING AND CONTRACTS",
+        "a": "Footnotes:\n--- (\n1\n) ---\nEditor's note—\nOrd. No. 4774, § 1, adopted Aug. 16, 2021, repealed the former Ch. 82, §§ 82-1—82-9,\n               82-31—82-34, 82-71—82-74, 82-101—82-104, 82-121—82-124, and 82-142—82-146, and enacted\n               a new Ch. 82 as set out herein. The former Ch. 82 pertained to similar subject matter.\n               Please see the Code Comparative Table for a complete derivation."
+      }
+    ],
+    "ordinance_refs": [
+      "§ 82-1"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

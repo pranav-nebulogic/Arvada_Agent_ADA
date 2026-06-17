@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "motions",
+      "defense",
+      "objections",
+      "based",
+      "defects",
+      "prosecution",
+      "form"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH58MUCO"
+    ],
+    "scraped_at": "2026-06-10T12:02:53.160881+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 58-10"
+    ],
+    "chapter": "Chapter 58 - MUNICIPAL COURT"
+  },
+  "content": {
+    "title": "Chapter 58 - MUNICIPAL COURT — Sec. 58-10. - Motions of defense or objections based on defects in prosecution or form of summonses or complaints.",
+    "summary": "(a)\nDefenses and objections based on defects in the institution of the prosecution or\n               the form of the summons or complaint or both other than failure to show jurisdiction\n               in the court or to charge an offense may be raised only by motion. The motion shall\n               …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 58-10. - Motions of defense or objections based on defects in prosecution or form of summonses or complaints.",
+        "a": "(a)\nDefenses and objections based on defects in the institution of the prosecution or\n               the form of the summons or complaint or both other than failure to show jurisdiction\n               in the court or to charge an offense may be raised only by motion. The motion shall\n               include all such defenses and objections then available to the defendant. Failure\n               thus to present any such defense or objection constitutes a waiver of it, but the\n               court for cause shown may grant relief from the waiver.\n(b)\nSuch motion shall be made before the plea is entered, but the court may permit it\n               to be made within a reasonable time thereafter. Motions under this section shall be\n               determined before trial unless the court orders that it be deferred for determination\n               at the trial of the general issue.\n(c)\nIf a motion is determined adversely to the defendant, he shall be permitted to plead\n               if he has not previously pleaded. A plea previously entered shall stand.\n(Code 1960, § 1-25; Code 1981, § 18-14)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 58-10"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "access",
+      "tabor",
+      "funds",
+      "event",
+      "declared",
+      "civil",
+      "emergency"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH26CIEMEMLODI"
+    ],
+    "scraped_at": "2026-06-10T12:02:30.954449+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 26-44"
+    ],
+    "chapter": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER"
+  },
+  "content": {
+    "title": "Chapter 26 - CIVIL EMERGENCY, EMERGENCY, OR LOCAL DISASTER — Sec. 26-44. - Access to TABOR funds.",
+    "summary": "In the event of a declared civil emergency, emergency, or disaster, the city manager\n               shall have access to the city emergency funds mandated by the Taxpayer's Bill of Rights\n               (TABOR) as set forth in Article X, Section 20, Subsection (5) entitled Emergency Reserves,\n      …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 26-44. - Access to TABOR funds.",
+        "a": "In the event of a declared civil emergency, emergency, or disaster, the city manager\n               shall have access to the city emergency funds mandated by the Taxpayer's Bill of Rights\n               (TABOR) as set forth in Article X, Section 20, Subsection (5) entitled Emergency Reserves,\n               of the Colorado Constitution. Funds utilized pursuant to this chapter shall be replenished\n               no later than the conclusion of the following fiscal year.\n(\nOrd. No. 4827\n, § 2, 12-5-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 26-44"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "tandem",
+      "parking",
+      "generally",
+      "spaces",
+      "counted",
+      "towards",
+      "required",
+      "only",
+      "they",
+      "meet"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/land_development_code"
+    ],
+    "scraped_at": "2026-06-11T00:00:00+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-11",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-11",
+    "ordinance_refs": [
+      "4-5-3-5"
+    ],
+    "chapter": "Chapter 4 ENVIRONMENTAL AND SITE DESIGN",
+    "article": "ARTICLE 4-5. PARKING AND LOADING",
+    "division": "DIVISION 4-5-3. PARKING AND LOADING DESIGN"
+  },
+  "content": {
+    "title": "4-5-3-5. Tandem parking.",
+    "summary": "A.\tGenerally. Tandem parking spaces are counted towards required parking only if they meet the standards of this Section.\nB.\tResidential Uses.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "4-5-3-5. Tandem parking.",
+        "a": "A.\tGenerally. Tandem parking spaces are counted towards required parking only if they meet the standards of this Section.\nB.\tResidential Uses. For single-family detached, duplex, townhome, multiplex and multi-family uses, tandem parking spaces are counted, provided that they are located on the same lot as the dwelling unit that they serve (or in the case of condominium or comparable ownership, are located on land adjacent to the unit and under exclusive control of the unit owner) and no more than half of the required parking spaces for each unit (rounded down) are tandem spaces.\nC.\tBed and Breakfast. Off-street guest parking for bed and breakfast uses may be tandem.\nD.\tMotor Vehicle Repairs and Service, Light. For light motor vehicle repairs and service uses, on-site tandem parking spaces are counted, provided that no more than 30 percent of the required parking spaces are tandem spaces.\nE.\tValet Parking. Valet parking spaces may be configured as tandem spaces."
+      }
+    ],
+    "ordinance_refs": [
+      "4-5-3-5"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct-from-docx",
+  "transform_tokens": 0
+}

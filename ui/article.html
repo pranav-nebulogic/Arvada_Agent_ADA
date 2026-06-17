@@ -1,0 +1,1400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Knowledge Article · Arvada</title>
+<script>
+  /* Set theme before paint to avoid a flash. */
+  (function () {
+    const saved = localStorage.getItem("arvada-theme");
+    const initial = saved || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    document.documentElement.dataset.theme = initial;
+  })();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  /* Design tokens — ported from the 311 design system (311-lovable-app/src/styles.css). */
+  :root {
+    --bg: oklch(0.985 0.005 250); --surface: oklch(1 0 0); --surface-2: oklch(0.965 0.012 250);
+    --line: oklch(0.92 0.012 250); --line-strong: oklch(0.88 0.015 250);
+    --text: oklch(0.18 0.04 260); --text-2: oklch(0.5 0.025 255); --text-3: oklch(0.62 0.02 255);
+    --heading: oklch(0.2 0.05 260); --navy: oklch(0.18 0.045 260);
+    --accent: oklch(0.45 0.16 258); --accent-soft: oklch(0.955 0.025 255); --accent-text: oklch(0.45 0.16 258);
+    --brand-blue: oklch(0.45 0.16 258); --brand-blue-soft: oklch(0.955 0.025 255);
+    --gold: oklch(0.82 0.17 82); --gold-soft: oklch(0.93 0.08 90);
+    --good: oklch(0.65 0.16 155); --good-soft: oklch(0.93 0.06 155);
+    --shadow-sm: 0 1px 2px 0 rgb(15 23 42 / .04);
+    --shadow-card: 0 1px 2px 0 rgb(15 23 42 / .04), 0 8px 24px -12px rgb(15 23 42 / .08);
+    --shadow-md: 0 2px 4px 0 rgb(15 23 42 / .05), 0 16px 32px -12px rgb(15 23 42 / .16);
+    --radius: 20px;
+    --radius-sm: 12px;
+    --maxw: 720px;
+    --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --serif: "Plus Jakarta Sans", "Inter", system-ui, sans-serif;
+  }
+  html[data-theme="dark"] {
+    --bg: oklch(0.195 0.038 258); --surface: oklch(0.255 0.042 258); --surface-2: oklch(0.3 0.04 258);
+    --line: oklch(0.35 0.03 258); --line-strong: oklch(0.41 0.03 258);
+    --text: oklch(0.96 0.014 255); --text-2: oklch(0.75 0.02 255); --text-3: oklch(0.62 0.02 255);
+    --heading: oklch(0.96 0.014 255); --navy: oklch(0.16 0.04 258);
+    --accent: oklch(0.72 0.14 258); --accent-soft: oklch(0.72 0.14 258 / .14); --accent-text: oklch(0.78 0.12 258);
+    --brand-blue: oklch(0.72 0.14 258); --brand-blue-soft: oklch(0.72 0.14 258 / .12);
+    --good: oklch(0.72 0.15 155); --good-soft: oklch(0.72 0.15 155 / .14);
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, .3);
+    --shadow-card: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px -12px rgba(0,0,0,.5);
+    --shadow-md: 0 8px 28px rgba(0, 0, 0, .45);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: var(--sans);
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    transition: background .3s ease, color .3s ease;
+  }
+  a { color: var(--accent-text); }
+
+  /* Reading progress */
+  .progress {
+    position: fixed; top: 0; left: 0; height: 3px; width: 0%;
+    background: var(--accent); z-index: 60; transition: width .1s linear;
+  }
+
+  /* Top bar */
+  .topbar {
+    position: sticky; top: 0; z-index: 50;
+    display: flex; align-items: center; gap: 12px;
+    padding: 14px max(24px, env(safe-area-inset-left));
+    background: color-mix(in srgb, var(--bg) 82%, transparent);
+    backdrop-filter: saturate(140%) blur(12px);
+    border-bottom: 1px solid var(--line);
+  }
+  .nav-btn {
+    display: inline-flex; align-items: center; gap: 7px;
+    color: var(--text); text-decoration: none; font-size: 13.5px; font-weight: 600;
+    padding: 8px 14px; border-radius: 999px;
+    border: 1px solid var(--line-strong); background: var(--surface);
+    transition: border-color .18s, transform .18s, background .18s;
+  }
+  .nav-btn:hover { border-color: var(--accent); transform: translateY(-1px); }
+  .nav-btn.ghost { border-color: transparent; background: transparent; color: var(--text-2); padding: 8px 10px; }
+  .nav-btn.ghost:hover { color: var(--text); transform: none; }
+  .nav-btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .nav-btn.primary:hover { filter: brightness(1.06); border-color: var(--accent); }
+
+  /* Floating "ask about this" CTA */
+  .ask-fab {
+    position: fixed; right: 22px; bottom: 22px; z-index: 55;
+    display: inline-flex; align-items: center; gap: 9px;
+    padding: 13px 18px; border-radius: 999px; text-decoration: none;
+    background: var(--accent); color: #fff; font-weight: 700; font-size: 14px;
+    box-shadow: 0 8px 24px rgba(59, 91, 219, .35); border: 0;
+    transition: transform .18s ease, box-shadow .18s ease, opacity .25s ease;
+  }
+  .ask-fab:hover { transform: translateY(-2px); box-shadow: 0 12px 30px rgba(59, 91, 219, .45); }
+  .ask-fab .fi { font-size: 16px; }
+  @media (max-width: 560px) { .ask-fab .ft { display: none; } .ask-fab { padding: 14px; } }
+  .spacer { margin-left: auto; }
+  .brand { display: flex; align-items: center; gap: 9px; color: var(--text-2); font-size: 13px; font-weight: 600; }
+  .brand .mark { width: 26px; height: 26px; border-radius: 8px; background: var(--accent); color: #fff;
+    display: grid; place-items: center; font-size: 14px; box-shadow: var(--shadow-sm); }
+  .icon-btn {
+    width: 38px; height: 38px; border-radius: 999px; display: grid; place-items: center; cursor: pointer;
+    font-size: 15px; color: var(--text); border: 1px solid var(--line-strong); background: var(--surface);
+    transition: border-color .18s, transform .18s;
+  }
+  .icon-btn:hover { border-color: var(--accent); transform: translateY(-1px); }
+
+  /* Page layout: left article-nav · reading column · right action rail.
+     Full-bleed — the three columns span the viewport (just gutter padding). */
+  .page {
+    max-width: none; margin: 0; padding: 8px 24px 120px;
+    display: grid; grid-template-columns: 1fr; gap: 0;
+  }
+  @media (min-width: 1040px) {
+    .page { grid-template-columns: minmax(0, 1fr) 300px; gap: 44px; padding: 28px 40px 120px; }
+  }
+  @media (min-width: 1280px) {
+    .page { grid-template-columns: 280px minmax(0, 1fr) 300px; gap: 48px; padding: 28px 48px 120px; }
+  }
+
+  /* Left article-nav rail (grouped by department) — wide screens only */
+  .nav-rail { display: none; }
+  @media (min-width: 1280px) {
+    .nav-rail { display: block; position: sticky; top: 84px; align-self: start; max-height: calc(100vh - 104px); overflow: auto; padding-right: 4px; }
+  }
+  .nav-rail .nav-back { display: inline-flex; align-items: center; gap: 7px; color: var(--text-2);
+    text-decoration: none; font-weight: 700; font-size: 13px; margin-bottom: 16px; }
+  .nav-rail .nav-back:hover { color: var(--brand-blue); }
+  .nav-rail .nav-back svg { width: 15px; height: 15px; }
+  .nav-group { margin-bottom: 2px; }
+  .nav-group > summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 8px; padding: 8px 6px;
+    font-size: 11px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--text-3); }
+  .nav-group > summary::-webkit-details-marker { display: none; }
+  .nav-group > summary .gc { margin-left: auto; transition: transform .18s; display: inline-flex; }
+  .nav-group > summary .gc svg { width: 15px; height: 15px; }
+  .nav-group[open] > summary .gc { transform: rotate(180deg); }
+  .nav-group .nav-link { display: block; padding: 7px 10px 7px 14px; margin: 1px 0; border-left: 2px solid transparent;
+    color: var(--text-2); text-decoration: none; font-size: 13px; line-height: 1.4; border-radius: 0 8px 8px 0; transition: all .15s; }
+  .nav-group .nav-link:hover { color: var(--text); background: var(--surface-2); }
+  .nav-group .nav-link.cur { color: var(--brand-blue); border-left-color: var(--brand-blue); font-weight: 700; background: var(--brand-blue-soft); }
+
+  /* Right action rail — visible from 1040px; flows below the article on mobile */
+  .side-rail { display: block; margin-top: 44px; }
+  @media (min-width: 1040px) {
+    .side-rail { margin-top: 0; position: sticky; top: 84px; align-self: start; max-height: calc(100vh - 104px); overflow: auto; }
+  }
+  /* On-this-page TOC inside the right rail */
+  .toc-box { margin-bottom: 16px; }
+  @media (max-width: 1039px) { .toc-box { display: none; } }
+  .toc-box .toc-label { font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--text-3); margin-bottom: 10px; padding-left: 13px; }
+  .toc-box a { display: block; padding: 6px 13px; margin: 1px 0; border-left: 2px solid transparent;
+    color: var(--text-3); text-decoration: none; font-size: 13px; line-height: 1.4; transition: color .18s, border-color .18s; }
+  .toc-box a:hover { color: var(--text); }
+  .toc-box a.active { color: var(--brand-blue); border-left-color: var(--brand-blue); font-weight: 600; }
+
+  /* Breadcrumb + prev/next */
+  .crumb { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--text-3); margin-bottom: 18px; flex-wrap: wrap; }
+  .crumb a { color: var(--text-3); text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 5px; }
+  .crumb a:hover { color: var(--brand-blue); }
+  .crumb .cur { color: var(--brand-blue); font-weight: 700; }
+  .crumb svg { width: 14px; height: 14px; }
+  .prevnext { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 40px; }
+  @media (max-width: 560px) { .prevnext { grid-template-columns: 1fr; } }
+  .pn { display: flex; flex-direction: column; gap: 4px; padding: 16px 18px; border-radius: var(--radius-sm);
+    background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow-sm); text-decoration: none; transition: border-color .18s, transform .18s; }
+  .pn:hover { border-color: color-mix(in srgb, var(--brand-blue) 40%, transparent); transform: translateY(-1px); }
+  .pn.next { text-align: right; }
+  .pn .pn-k { font-size: 11px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; color: var(--text-3); }
+  .pn .pn-t { font-size: 14.5px; font-weight: 700; color: var(--heading); line-height: 1.3;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .pn:hover .pn-t { color: var(--brand-blue); }
+  /* Ask-AI button in the right rail */
+  .ask-rail { display: flex; align-items: center; justify-content: center; gap: 9px; margin-top: 14px; width: 100%;
+    padding: 13px 16px; border-radius: var(--radius-sm); text-decoration: none; font-weight: 700; font-size: 14px;
+    color: var(--brand-blue); background: var(--brand-blue-soft); border: 1px solid color-mix(in srgb, var(--brand-blue) 28%, transparent); transition: filter .15s; }
+  .ask-rail:hover { filter: brightness(.98); }
+  .ask-rail svg { width: 17px; height: 17px; }
+  .side-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-sm); padding: 14px; }
+  .side-card + .side-card { margin-top: 14px; }
+  /* Divider between right-rail sections (e.g. Actions ↔ On this page). */
+  .rail-sep { height: 1px; background: var(--line); border: 0; margin: 16px 0; }
+  .side-card .sk-label { font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--text-3); padding: 2px 4px 8px; }
+  /* Quick-action toolbar */
+  .sk-toolbar { display: flex; flex-direction: column; gap: 6px; }
+  .sk-act { display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; cursor: pointer;
+    border: 1px solid var(--line); background: var(--bg); color: var(--text); border-radius: 10px;
+    padding: 9px 11px; font-size: 13.5px; font-weight: 600; font-family: var(--sans); transition: all .15s; }
+  .sk-act:hover { border-color: color-mix(in srgb, var(--brand-blue) 40%, transparent);
+    background: var(--brand-blue-soft); color: var(--brand-blue); }
+  .sk-act[aria-pressed="true"] { border-color: color-mix(in srgb, var(--brand-blue) 50%, transparent);
+    background: var(--brand-blue-soft); color: var(--brand-blue); }
+  .sk-act .ti { width: 28px; height: 28px; flex: 0 0 auto; border-radius: 8px; display: grid; place-items: center;
+    background: color-mix(in srgb, var(--surface-2) 70%, transparent); }
+  .sk-act .ti svg { width: 15px; height: 15px; }
+  .side-card .sk-meta { font-size: 13px; color: var(--text-2); line-height: 1.5; }
+  .side-card .sk-meta .mono { font-variant-numeric: tabular-nums; word-break: break-word; }
+
+  /* "Still have questions?" + Related articles (also rendered inline on narrow screens) */
+  .ask-card { margin-top: 56px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+    justify-content: space-between; padding: 22px 24px; border-radius: var(--radius);
+    background: var(--brand-blue-soft); border: 1px solid color-mix(in srgb, var(--brand-blue) 22%, transparent); }
+  .ask-card .qt { font-family: var(--serif); font-size: 18px; font-weight: 700; color: var(--heading); }
+  .ask-card .qs { font-size: 14px; color: var(--text-2); margin-top: 3px; }
+  .ask-card .qa { display: inline-flex; align-items: center; gap: 8px; padding: 11px 18px; border-radius: 999px;
+    background: var(--brand-blue); color: #fff; font-weight: 700; font-size: 14px; text-decoration: none;
+    border: 0; box-shadow: var(--shadow-sm); transition: filter .15s, transform .15s; }
+  .ask-card .qa:hover { filter: brightness(1.06); transform: translateY(-1px); }
+  .ask-card .qa svg { width: 16px; height: 16px; }
+
+  .related { margin-top: 52px; border-top: 1px solid var(--line); padding-top: 30px; }
+  .related-head { display: flex; align-items: center; gap: 9px; margin-bottom: 16px; }
+  .related-head svg { width: 17px; height: 17px; color: var(--brand-blue); }
+  .related-head h2 { font-family: var(--serif); font-size: 19px; font-weight: 700; color: var(--heading); }
+  .related-grid { display: grid; gap: 12px; grid-template-columns: 1fr; }
+  @media (min-width: 620px) { .related-grid { grid-template-columns: 1fr 1fr; } }
+  .rel { display: flex; align-items: flex-start; gap: 12px; padding: 15px 16px; border-radius: var(--radius-sm);
+    background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow-sm); text-decoration: none;
+    color: inherit; transition: transform .2s, border-color .2s, box-shadow .2s; }
+  .rel:hover { transform: translateY(-2px); border-color: color-mix(in srgb, var(--brand-blue) 40%, transparent); box-shadow: var(--shadow-md); }
+  .rel:hover h3 { color: var(--brand-blue); }
+  .rel .ri { width: 36px; height: 36px; flex: 0 0 auto; border-radius: 10px; display: grid; place-items: center;
+    background: var(--brand-blue-soft); color: var(--brand-blue); }
+  .rel .ri svg { width: 17px; height: 17px; }
+  .rel .rc { min-width: 0; flex: 1; }
+  .rel .rk { font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: var(--tc, var(--brand-blue)); }
+  .rel h3 { font-size: 14px; font-weight: 700; color: var(--heading); line-height: 1.35; margin-top: 3px;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; transition: color .2s; }
+  .rel .rarr { color: var(--text-3); margin-left: auto; flex: 0 0 auto; }
+  .rel .rarr svg { width: 16px; height: 16px; }
+
+  /* Feedback widget */
+  .feedback { margin-top: 48px; padding: 22px 24px; border-radius: var(--radius);
+    background: var(--surface-2); border: 1px solid var(--line); }
+  .feedback .fb-q { font-family: var(--serif); font-size: 16px; font-weight: 700; color: var(--heading); }
+  .fb-actions { display: flex; gap: 10px; margin-top: 12px; }
+  .fb-btn { display: inline-flex; align-items: center; gap: 8px; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line-strong); background: var(--surface); color: var(--text); font-weight: 600; font-size: 13.5px;
+    font-family: var(--sans); transition: all .15s; }
+  .fb-btn svg { width: 16px; height: 16px; }
+  .fb-btn:hover { border-color: var(--brand-blue); color: var(--brand-blue); }
+  .fb-btn.up.sel { background: var(--good-soft); border-color: var(--good); color: var(--good); }
+  .fb-btn.down.sel { background: color-mix(in srgb, #ef4444 14%, transparent); border-color: #ef4444; color: #ef4444; }
+  .fb-form { margin-top: 14px; }
+  .fb-form textarea { width: 100%; min-height: 84px; resize: vertical; font: inherit; font-size: 14px; color: var(--text);
+    background: var(--surface); border: 1px solid var(--line-strong); border-radius: var(--radius-sm); padding: 11px 13px; }
+  .fb-form textarea:focus { outline: none; border-color: var(--brand-blue); }
+  .fb-form .fb-submit { margin-top: 10px; display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; border-radius: 999px;
+    border: 0; cursor: pointer; background: var(--brand-blue); color: #fff; font-weight: 700; font-size: 14px; }
+  .fb-form .fb-submit:hover { filter: brightness(1.06); }
+  /* Inline reason panel — revealed under the buttons when "No" is clicked. */
+  .fb-reasonbox { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--line); }
+  .fb-reasonbox[hidden] { display: none; }
+  .fb-rb-label { font-size: 11px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; color: var(--text-3); margin-bottom: 9px; }
+  .fb-rb-foot { display: flex; align-items: center; gap: 14px; margin-top: 10px; }
+  .fb-rb-foot .fb-submit { margin-top: 0; white-space: nowrap; }
+  /* Constrain the sparkle icon so it doesn't blow up the button / wrap the label. */
+  .fb-form .fb-submit svg { width: 16px; height: 16px; flex: 0 0 auto; }
+  .fb-cancel { background: none; border: none; color: var(--text-2); font-weight: 600; font-size: 14px; cursor: pointer; }
+  .fb-cancel:hover { color: var(--text); }
+  .fb-done { margin-top: 12px; display: flex; align-items: center; gap: 8px; color: var(--text-2); font-size: 13.5px; font-weight: 600; }
+  .fb-done[hidden] { display: none; }   /* author display: flex would otherwise beat [hidden] */
+  .fb-done svg { width: 16px; height: 16px; color: var(--good); flex: 0 0 auto; }
+  .fb-done .sr { font-weight: 800; color: var(--heading); }
+
+  /* Feedback reason modal */
+  .fb-scrim { position: fixed; inset: 0; background: rgba(15,23,42,.45); backdrop-filter: blur(2px); z-index: 90;
+    opacity: 0; pointer-events: none; transition: opacity .2s; }
+  .fb-scrim.show { opacity: 1; pointer-events: auto; }
+  .fb-modal { position: fixed; left: 50%; top: 50%; transform: translate(-50%, -46%); z-index: 91; width: min(94vw, 500px);
+    background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-md);
+    opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; }
+  .fb-modal.show { opacity: 1; pointer-events: auto; transform: translate(-50%, -50%); }
+  .fb-modal .m-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; padding: 22px 24px 4px; }
+  .fb-modal .m-head h3 { font-family: var(--serif); font-size: 18px; font-weight: 700; color: var(--heading); }
+  .fb-modal .m-head p { font-size: 13.5px; color: var(--text-2); margin-top: 4px; }
+  .fb-modal .m-x { width: 32px; height: 32px; border: none; background: var(--surface-2); color: var(--text-2); border-radius: 999px;
+    cursor: pointer; display: grid; place-items: center; flex: 0 0 auto; }
+  .fb-modal .m-x svg { width: 15px; height: 15px; }
+  .fb-modal .m-body { padding: 14px 24px 4px; }
+  .fb-modal .m-label { font-size: 11px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; color: var(--text-3); margin-bottom: 9px; }
+  .fb-reasons { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+  .fb-reason { font-size: 13px; font-weight: 600; padding: 7px 13px; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line-strong); background: var(--surface); color: var(--text-2); transition: all .15s; }
+  .fb-reason:hover { border-color: var(--brand-blue); color: var(--text); }
+  .fb-reason.sel { background: var(--brand-blue); border-color: transparent; color: #fff; }
+  .fb-modal textarea { width: 100%; min-height: 96px; resize: vertical; font: inherit; font-size: 14px; color: var(--text);
+    background: var(--surface); border: 1px solid var(--line-strong); border-radius: var(--radius-sm); padding: 11px 13px; }
+  .fb-modal textarea:focus { outline: none; border-color: var(--brand-blue); }
+  .fb-modal .m-foot { display: flex; align-items: center; justify-content: flex-end; gap: 14px; padding: 18px 24px 22px; }
+  .fb-modal .m-cancel { background: none; border: none; color: var(--text-2); font-weight: 600; font-size: 14px; cursor: pointer; }
+  .fb-modal .m-cancel:hover { color: var(--text); }
+  .fb-modal .m-submit { display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; border: 0; border-radius: 999px;
+    background: var(--brand-blue); color: #fff; font-weight: 700; font-size: 14px; cursor: pointer; }
+  .fb-modal .m-submit svg { width: 16px; height: 16px; }
+  .fb-modal .m-submit:disabled { opacity: .6; cursor: not-allowed; }
+
+  /* Edit mode */
+  .edit-banner { display: flex; align-items: center; gap: 9px; padding: 12px 16px; border-radius: var(--radius-sm);
+    background: var(--gold-soft); border: 1px solid color-mix(in srgb, var(--gold) 45%, transparent); color: var(--heading);
+    font-weight: 700; font-size: 14px; margin-bottom: 22px; }
+  .edit-field { margin-bottom: 18px; }
+  .edit-field label { display: block; font-size: 12px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase;
+    color: var(--text-3); margin-bottom: 7px; }
+  .edit-field input, .edit-field textarea { width: 100%; font: inherit; color: var(--text); background: var(--surface);
+    border: 1px solid var(--line-strong); border-radius: var(--radius-sm); padding: 11px 13px; }
+  .edit-field input:focus, .edit-field textarea:focus { outline: none; border-color: var(--brand-blue); }
+  .edit-field input { font-size: 17px; font-weight: 700; font-family: var(--serif); }
+  .edit-field textarea { resize: vertical; }
+  .edit-field textarea.json { min-height: 320px; font-family: ui-monospace, "Cascadia Code", Consolas, monospace; font-size: 12.5px; line-height: 1.5; }
+  .edit-field .hint2 { margin-top: 6px; font-size: 12px; color: var(--text-3); }
+  .edit-actions { display: flex; align-items: center; gap: 12px; margin-top: 8px; }
+  .edit-actions .save { display: inline-flex; align-items: center; gap: 8px; padding: 11px 20px; border: 0; border-radius: 999px;
+    background: var(--brand-blue); color: #fff; font-weight: 700; font-size: 14px; cursor: pointer; }
+  .edit-actions .save:hover { filter: brightness(1.06); }
+  .edit-actions .cancel { color: var(--text-2); text-decoration: none; font-weight: 600; font-size: 14px; }
+  .edit-actions .cancel:hover { color: var(--text); }
+  .edit-err { color: #ef4444; font-size: 13px; font-weight: 600; margin-left: auto; }
+
+  /* Toast */
+  .toast { position: fixed; left: 50%; bottom: 26px; transform: translate(-50%, 16px); z-index: 80;
+    background: var(--navy); color: #fff; font-size: 13.5px; font-weight: 600; padding: 11px 18px;
+    border-radius: 12px; box-shadow: var(--shadow-md); opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; }
+  .toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+  /* TOC rail */
+  .toc-rail { display: none; }
+  @media (min-width: 1040px) {
+    .toc-rail { display: block; position: sticky; top: 96px; align-self: start; max-height: calc(100vh - 120px); overflow: auto; }
+  }
+  .toc-rail .toc-label { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 12px; padding-left: 13px; }
+  .toc-rail a {
+    display: block; padding: 7px 13px; margin: 1px 0; border-left: 2px solid transparent;
+    color: var(--text-3); text-decoration: none; font-size: 13.5px; line-height: 1.4;
+    transition: color .18s, border-color .18s;
+  }
+  .toc-rail a:hover { color: var(--text); }
+  .toc-rail a.active { color: var(--accent-text); border-left-color: var(--accent); font-weight: 600; }
+
+  /* Mobile TOC chips */
+  .toc-chips { display: flex; gap: 8px; overflow-x: auto; padding: 4px 0 18px; -webkit-overflow-scrolling: touch; }
+  @media (min-width: 1040px) { .toc-chips { display: none; } }
+  .toc-chips a { flex: 0 0 auto; font-size: 13px; font-weight: 600; color: var(--text-2); text-decoration: none;
+    padding: 7px 13px; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); white-space: nowrap; }
+
+  /* Column fills the available width; long-form text stays readable via its own cap. */
+  .col { min-width: 0; max-width: 100%; }
+  .col .lede, .col .prose, .col .doc .ct, .col .step .body { max-width: 78ch; }
+
+  /* Hero */
+  .eyebrow { display: inline-flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 700;
+    letter-spacing: .08em; text-transform: uppercase; color: var(--accent-text); margin-bottom: 16px; }
+  .eyebrow .sep { color: var(--text-3); font-weight: 500; letter-spacing: 0; }
+  h1 {
+    font-family: var(--serif);
+    font-size: clamp(30px, 5vw, 44px); line-height: 1.12; letter-spacing: -.012em; font-weight: 600;
+    color: var(--text);
+  }
+  .lede { margin-top: 18px; font-size: 18px; line-height: 1.6; color: var(--text-2); max-width: 64ch; }
+
+  /* Key facts strip */
+  .facts { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 28px; }
+  .fact { flex: 1 1 150px; min-width: 140px; padding: 16px 18px; border-radius: var(--radius-sm);
+    background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow-sm); }
+  .fact .k { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--text-3); }
+  .fact .v { margin-top: 6px; font-size: 19px; font-weight: 700; color: var(--text); line-height: 1.25; font-variant-numeric: tabular-nums; }
+
+  .divider { height: 1px; background: var(--line); margin: 40px 0; border: 0; }
+
+  /* Sections */
+  section { margin-top: 44px; scroll-margin-top: 92px; }
+  .sec-head { display: flex; align-items: center; gap: 11px; margin-bottom: 18px; }
+  .sec-head .ico { width: 30px; height: 30px; flex: 0 0 auto; border-radius: 8px; display: grid; place-items: center;
+    background: var(--accent-soft); color: var(--accent-text); font-size: 15px; }
+  .sec-head h2 { font-size: 21px; font-weight: 700; letter-spacing: -.01em; }
+
+  .prose { color: var(--text); font-size: 16.5px; line-height: 1.72; }
+  .prose p + p { margin-top: 14px; }
+  /* Markdown body (spreadsheet-imported KB articles) */
+  .prose.md > :first-child { margin-top: 0; }
+  .prose.md h1, .prose.md h2, .prose.md h3, .prose.md h4 {
+    color: var(--heading); font-family: var(--serif); line-height: 1.25; margin: 26px 0 10px; }
+  .prose.md h1 { font-size: 24px; }
+  .prose.md h2 { font-size: 20px; }
+  .prose.md h3 { font-size: 17px; }
+  .prose.md h4 { font-size: 15px; }
+  .prose.md p { margin: 12px 0; }
+  .prose.md ul, .prose.md ol { margin: 12px 0; padding-left: 24px; }
+  .prose.md li { margin: 6px 0; }
+  .prose.md li::marker { color: var(--brand-blue); }
+  .prose.md strong { color: var(--heading); font-weight: 700; }
+  .prose.md a { color: var(--brand-blue); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--brand-blue) 35%, transparent); }
+  .prose.md a:hover { border-bottom-color: var(--brand-blue); }
+  .prose.md code { background: var(--surface-2); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; font-size: 14px; }
+  .prose.md pre { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; overflow-x: auto; }
+  .prose.md pre code { background: none; border: none; padding: 0; }
+  .prose.md blockquote { margin: 14px 0; padding: 4px 16px; border-left: 3px solid var(--brand-blue); color: var(--text-2); }
+  .prose.md table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 15px; }
+  .prose.md th, .prose.md td { border: 1px solid var(--line); padding: 8px 12px; text-align: left; }
+  .prose.md th { background: var(--surface-2); font-weight: 700; color: var(--heading); }
+  .prose.md hr { border: none; border-top: 1px solid var(--line); margin: 22px 0; }
+
+  /* Steps -> process timeline */
+  .timeline { position: relative; padding-left: 8px; }
+  .timeline .rail { position: absolute; left: 22px; top: 14px; bottom: 14px; width: 2px; background: var(--line-strong); transform-origin: top; }
+  .step { display: flex; gap: 18px; padding-bottom: 26px; position: relative; }
+  .step:last-child { padding-bottom: 0; }
+  .step .num { width: 30px; height: 30px; flex: 0 0 auto; border-radius: 50%; z-index: 1;
+    background: var(--surface); color: var(--accent-text); border: 2px solid var(--accent);
+    font-weight: 700; display: grid; place-items: center; font-size: 13px; box-shadow: 0 0 0 4px var(--bg); transition: background .25s, color .25s; }
+  .step.lit .num { background: var(--accent); color: #fff; }
+  .step .body h3 { font-size: 16.5px; font-weight: 700; margin-bottom: 5px; }
+  .step .body p { color: var(--text-2); font-size: 15.5px; }
+  .step .body a.portal { color: var(--accent-text); text-decoration: none; font-size: 14px; font-weight: 600; display: inline-flex; gap: 5px; margin-top: 8px; }
+  .step .body a.portal:hover { text-decoration: underline; }
+
+  /* Checklist (required docs) */
+  .checklist { display: flex; flex-direction: column; gap: 10px; }
+  .check { display: flex; gap: 14px; padding: 15px 16px; border-radius: var(--radius-sm);
+    background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow-sm); transition: border-color .18s; }
+  .check:hover { border-color: var(--line-strong); }
+  .check .box { width: 22px; height: 22px; flex: 0 0 auto; border-radius: 6px; border: 2px solid var(--line-strong);
+    display: grid; place-items: center; color: transparent; font-size: 13px; margin-top: 1px; transition: all .18s; }
+  .check:hover .box { border-color: var(--good); background: var(--good-soft); color: var(--good); }
+  .check .ct h3 { font-size: 15.5px; font-weight: 650; }
+  .check .ct p { font-size: 14.5px; color: var(--text-2); margin-top: 3px; }
+  .check .ct .where { margin-top: 7px; font-size: 13px; color: var(--accent-text); font-weight: 600; }
+
+  /* Form-field cards */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
+  .tile { padding: 16px 18px; border-radius: var(--radius-sm); background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow-sm); }
+  .tile h3 { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
+  .tile p { color: var(--text-2); font-size: 14px; }
+  .tile .hint { margin-top: 8px; font-size: 13px; color: var(--accent-text); font-weight: 600; }
+  .tile .why { margin-top: 8px; font-size: 13px; color: var(--text-3); font-style: italic; }
+
+  /* Fees table */
+  .table-wrap { border-radius: var(--radius-sm); border: 1px solid var(--line); overflow: hidden; box-shadow: var(--shadow-sm); background: var(--surface); }
+  table { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+  th, td { text-align: left; padding: 13px 18px; border-bottom: 1px solid var(--line); }
+  th { font-size: 11px; letter-spacing: .05em; text-transform: uppercase; color: var(--text-3); font-weight: 700; background: var(--surface-2); }
+  tr:last-child td { border-bottom: none; }
+  td.amt { font-weight: 700; color: var(--text); white-space: nowrap; font-variant-numeric: tabular-nums; text-align: right; }
+
+  /* Contact action row */
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; }
+  .action { display: inline-flex; align-items: center; gap: 10px; padding: 13px 18px; border-radius: var(--radius-sm);
+    background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow-sm); text-decoration: none; color: var(--text);
+    transition: border-color .18s, transform .18s; }
+  .action:hover { border-color: var(--accent); transform: translateY(-1px); }
+  .action .ai { font-size: 17px; }
+  .action .at { display: flex; flex-direction: column; line-height: 1.3; }
+  .action .at .k { font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: var(--text-3); font-weight: 700; }
+  .action .at .v { font-size: 14.5px; font-weight: 600; }
+
+  /* Ordinance / code body */
+  .doc { padding: 24px 26px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line);
+    box-shadow: var(--shadow-sm); }
+  .doc .clause + .clause { margin-top: 22px; padding-top: 22px; border-top: 1px solid var(--line); }
+  .doc .clause h3 { font-size: 16px; font-weight: 700; margin-bottom: 10px; }
+  .doc .clause .ct { color: var(--text-2); font-size: 15.5px; line-height: 1.74; }
+
+  /* Structured legal outline (A. / B. / 1. / a.) with hanging markers */
+  .cl { display: grid; grid-template-columns: minmax(1.5em, auto) 1fr; column-gap: 12px; padding: 3px 0; }
+  .cl + .cl { margin-top: 2px; }
+  .cl .mk { font-weight: 700; color: var(--text); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .cl .tx { color: var(--text-2); }
+  .cl.plain { display: block; }
+  .cl.plain + .cl.plain { margin-top: 10px; }
+  .cl.lvl1 { margin-left: 1.4em; }
+  .cl.lvl2 { margin-left: 2.9em; }
+  .cl.lvl3 { margin-left: 4.4em; }
+  .cl.lvl4 { margin-left: 5.9em; }
+
+  /* Inline tables parsed out of article text */
+  .table-wrap.inline-tbl { margin: 14px 0 4px; }
+  .table-wrap.inline-tbl table { font-size: 14px; }
+  .table-wrap.inline-tbl th { background: var(--surface-2); }
+  .table-wrap.inline-tbl td, .table-wrap.inline-tbl th { padding: 10px 14px; vertical-align: top; }
+  .table-wrap.inline-tbl tr:nth-child(even) td { background: color-mix(in srgb, var(--surface-2) 55%, transparent); }
+
+  /* Footer band (extras) */
+  .footer-band { margin-top: 64px; padding: 28px; border-radius: var(--radius); background: var(--surface-2); border: 1px solid var(--line); }
+  .footer-band .fb-row + .fb-row { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--line); }
+  .footer-band .fb-k { font-size: 11px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--text-3); margin-bottom: 10px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { font-size: 13px; padding: 6px 13px; border-radius: 999px; background: var(--surface); border: 1px solid var(--line-strong); color: var(--text-2); text-decoration: none; }
+  a.chip:hover { border-color: var(--accent); color: var(--accent-text); }
+  .src a { color: var(--accent-text); text-decoration: none; word-break: break-all; font-size: 13.5px; }
+  .src a:hover { text-decoration: underline; }
+
+  /* States */
+  .state { text-align: center; padding: 110px 20px; color: var(--text-2); grid-column: 1 / -1; }
+  .spinner { width: 28px; height: 28px; border-radius: 50%; margin: 0 auto 18px; border: 3px solid var(--line); border-top-color: var(--accent); animation: spin .8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  @media (max-width: 560px) { .page { padding: 8px 16px 90px; } h1 { font-size: 28px; } .lede { font-size: 16.5px; } }
+
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+  /* Print — clean reading copy. Scoped to the article page via body.sk-article-print. */
+  @media print {
+    body.sk-article-print { background: #fff; color: #000; }
+    body.sk-article-print .topbar,
+    body.sk-article-print .progress,
+    body.sk-article-print .ask-fab,
+    body.sk-article-print .nav-rail,
+    body.sk-article-print .toc-box,
+    body.sk-article-print .toc-chips,
+    body.sk-article-print .side-rail,
+    body.sk-article-print .crumb,
+    body.sk-article-print .prevnext,
+    body.sk-article-print .related,
+    body.sk-article-print [data-sk-no-print] { display: none !important; }
+    body.sk-article-print .page { display: block; max-width: 100%; padding: 0; }
+    body.sk-article-print .col { max-width: 100%; }
+    body.sk-article-print section, body.sk-article-print .step,
+    body.sk-article-print .check, body.sk-article-print .tile { break-inside: avoid; }
+    body.sk-article-print .fact, body.sk-article-print .check, body.sk-article-print .tile,
+    body.sk-article-print .doc, body.sk-article-print .table-wrap { box-shadow: none; }
+  }
+</style>
+</head>
+<body>
+<div class="progress" id="progress"></div>
+
+<div class="topbar">
+  <a class="nav-btn ghost" href="#" id="back" style="display:none">← Back</a>
+  <a class="nav-btn primary" href="/" id="assistant">✦ Ask ADA</a>
+  <a class="nav-btn ghost" href="/articles">Browse all</a>
+  <span class="spacer"></span>
+  <div class="brand"><span class="mark">A</span> Arvada Knowledge Base</div>
+  <button class="icon-btn" id="themeToggle" title="Toggle theme">☀️</button>
+</div>
+
+<div class="page" id="page">
+  <div class="state"><div class="spinner"></div>Loading article…</div>
+</div>
+
+<a class="ask-fab" href="/" id="askFab" aria-label="Ask ADA"><span class="fi">✦</span><span class="ft">Ask ADA</span></a>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<!-- Markdown rendering + sanitization for spreadsheet-imported KB article bodies -->
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.5/dist/purify.min.js"></script>
+<script>
+const TOKEN = "local-dev-token-change-in-prod"; // dev only; prod fetches via the authenticated proxy
+const ARTICLE_ID = decodeURIComponent(location.pathname.split("/article/")[1] || "").split(/[?#]/)[0];
+
+/* Where the visitor arrived from — "ada" (the chat at /) or "browse" (the KB hub
+   at /articles). Carried as ?from= on in-app article links and read from the
+   referrer as a fallback, so the breadcrumb can route back to the right page. */
+const FROM = (() => {
+  const q = new URLSearchParams(location.search).get("from");
+  if (q === "ada" || q === "browse") return q;
+  try {
+    const r = document.referrer ? new URL(document.referrer) : null;
+    if (r && r.host === location.host) {
+      if (r.pathname === "/") return "ada";
+      if (r.pathname.startsWith("/articles")) return "browse";
+    }
+  } catch { /* malformed referrer */ }
+  return null;
+})();
+/* Append the origin to an in-app article link so it survives navigation. */
+const withFrom = (href) => FROM ? href + (href.includes("?") ? "&" : "?") + "from=" + FROM : href;
+const REDUCED = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+const hasGSAP = typeof gsap !== "undefined";
+if (hasGSAP && typeof ScrollTrigger !== "undefined") gsap.registerPlugin(ScrollTrigger);
+
+/* ── Theme toggle ─────────────────────────────────────────────────────── */
+const tbtn = document.getElementById("themeToggle");
+function syncThemeBtn() {
+  const dark = document.documentElement.dataset.theme === "dark";
+  tbtn.textContent = dark ? "☀️" : "🌙";
+  tbtn.title = dark ? "Switch to light mode" : "Switch to dark mode";
+}
+tbtn.addEventListener("click", () => {
+  const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  localStorage.setItem("arvada-theme", next);
+  syncThemeBtn();
+});
+syncThemeBtn();
+
+/* "Ask ADA" always lands on the chat. Show a separate "Back"
+   affordance only when the visitor arrived from another in-app page. */
+if (document.referrer && document.referrer.includes(location.host) && history.length > 1) {
+  const back = document.getElementById("back");
+  back.style.display = "";
+  back.addEventListener("click", e => { e.preventDefault(); history.back(); });
+}
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const has = v => v !== null && v !== undefined && v !== "" &&
+  !(Array.isArray(v) && v.length === 0) &&
+  !(typeof v === "object" && !Array.isArray(v) && Object.keys(v).length === 0);
+const titleCase = s => String(s || "").replace(/[_-]/g, " ").replace(/\b\w/g, m => m.toUpperCase());
+const norm = s => String(s ?? "").trim().replace(/\s+/g, " ").toLowerCase();
+
+/* Inline icons (Lucide paths) — keeps the no-build setup, no icon CDN. */
+const ICONS = {
+  link:     `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>`,
+  printer:  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8" rx="1"/></svg>`,
+  download: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>`,
+  volume:   `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4.7 6.3 9H2v6h4.3l4.7 4.3z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a9 9 0 0 1 0 14"/></svg>`,
+  volumeX:  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4.7 6.3 9H2v6h4.3l4.7 4.3z"/><path d="m22 9-6 6"/><path d="m16 9 6 6"/></svg>`,
+  file:     `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7z"/><path d="M14 2v5h5"/></svg>`,
+  arrow:    `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg>`,
+  spark:    `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.94 14.06 4 16l5.94 1.94L12 24l2.06-6.06L20 16l-5.94-1.94L12 8z"/><path d="M19 3l.7 2.3L22 6l-2.3.7L19 9l-.7-2.3L16 6l2.3-.7z"/></svg>`,
+  mail:     `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>`,
+  arrowLeft:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="m12 19-7-7 7-7"/></svg>`,
+  chevron:  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>`,
+  home:     `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="M9 22V12h6v10"/></svg>`,
+  caret:    `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>`,
+  x:        `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>`,
+  up:       `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10v12"/><path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2a3.13 3.13 0 0 1 3 3.88Z"/></svg>`,
+  down:     `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 14V2"/><path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22a3.13 3.13 0 0 1-3-3.88Z"/></svg>`,
+  star:     `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>`,
+  starFill: `<svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>`,
+};
+
+/* Favorites + recently-viewed — shared localStorage keys with the hub (articles.html).
+   Swap getFavs/setFavs to a user-scoped API once the agent is behind auth. */
+const FAV_KEY = "arvada-kb-favs", RECENT_KEY = "arvada-kb-recent";
+function getFavs() { try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || "[]")); } catch { return new Set(); } }
+function isFav(id) { return getFavs().has(id); }
+function toggleFav(id) { const s = getFavs(); s.has(id) ? s.delete(id) : s.add(id); localStorage.setItem(FAV_KEY, JSON.stringify([...s])); return s.has(id); }
+function pushRecent(a) {
+  try {
+    let list = JSON.parse(localStorage.getItem(RECENT_KEY) || "[]").filter(x => (x.id || x) !== a.id);
+    list.unshift({ id: a.id, title: a.title, article_type: a.article_type, category: a.category });
+    localStorage.setItem(RECENT_KEY, JSON.stringify(list.slice(0, 12)));
+  } catch { /* storage disabled */ }
+}
+function recordView() {
+  if (!ARTICLE_ID) return;
+  try { fetch(`/api/article/${encodeURIComponent(ARTICLE_ID)}/view`, { method: "POST", headers: { "X-Internal-Token": TOKEN }, keepalive: true }).catch(() => {}); }
+  catch { /* offline */ }
+}
+
+/* Hand off the current topic to Ada (the chat assistant). */
+const adaHref = q => "/" + (q ? "?ask=" + encodeURIComponent(q) : "");
+
+/* Tiny toast. */
+let toastT;
+function toast(msg) {
+  let el = document.getElementById("toast");
+  if (!el) { el = document.createElement("div"); el.id = "toast"; el.className = "toast"; document.body.appendChild(el); }
+  el.textContent = msg;
+  el.classList.add("show");
+  clearTimeout(toastT);
+  toastT = setTimeout(() => el.classList.remove("show"), 2600);
+}
+
+/* Read-aloud via the Web Speech API. */
+let reading = false;
+function readAloud(btn) {
+  const synth = window.speechSynthesis;
+  if (!synth) { toast("Read aloud isn't supported in this browser."); return; }
+  if (reading) { synth.cancel(); return; }   // 'end' handler resets the button
+  const main = document.querySelector("main.col");
+  const text = main ? main.innerText.replace(/\s+/g, " ").trim() : "";
+  if (!text) return;
+  const u = new SpeechSynthesisUtterance(text.slice(0, 30000));
+  u.rate = 0.97;
+  const reset = () => { reading = false; setReadBtn(btn, false); };
+  u.onend = reset; u.onerror = reset;
+  synth.cancel();
+  synth.speak(u);
+  reading = true; setReadBtn(btn, true);
+}
+function setReadBtn(btn, on) {
+  if (!btn) return;
+  btn.setAttribute("aria-pressed", on ? "true" : "false");
+  btn.querySelector(".ti").innerHTML = on ? ICONS.volumeX : ICONS.volume;
+  btn.querySelector(".lbl").textContent = on ? "Stop reading" : "Read aloud";
+}
+window.addEventListener("beforeunload", () => { try { window.speechSynthesis.cancel(); } catch {} });
+
+/* Build an HTML table from a block of pipe-delimited lines. */
+function pipeTable(lines) {
+  const isSep = cells => cells.length && cells.every(x => /^:?-{2,}:?$/.test(x.replace(/\s/g, "")) || x === "");
+  const rows = lines.map(r => r.replace(/^\s*\|/, "").replace(/\|\s*$/, "").split("|").map(c => c.trim()));
+  let head = null, body = rows;
+  if (rows.length >= 2 && isSep(rows[1])) { head = rows[0]; body = rows.slice(2); }
+  const thead = head ? `<thead><tr>${head.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead>` : "";
+  const cols = head ? head.length : Math.max(...rows.map(r => r.length));
+  const tb = body.filter(r => !isSep(r)).map(r => {
+    const cells = [...r]; while (cells.length < cols) cells.push("");
+    return `<tr>${cells.map(c => `<td>${esc(c)}</td>`).join("")}</tr>`;
+  }).join("");
+  return `<div class="table-wrap inline-tbl"><table>${thead}<tbody>${tb}</tbody></table></div>`;
+}
+
+/* Render legal / outline text: detects pipe tables, and lays out
+   lettered/numbered clauses (A. B. 1. a.) with hanging markers + indentation. */
+function legalHtml(raw) {
+  const lines = String(raw ?? "").replace(/\r/g, "").split("\n");
+  const out = [];
+  let tbl = [];
+  const flush = () => { if (tbl.length) { out.push(pipeTable(tbl)); tbl = []; } };
+  for (const line of lines) {
+    if (line.trim() && /\|/.test(line)) { tbl.push(line); continue; }
+    flush();
+    if (!line.trim()) continue;
+    const lead = (line.match(/^[ \t]*/) || [""])[0];
+    const spaces = lead.replace(/\t/g, "  ").length;
+    const lvl = Math.min(Math.floor(spaces / 2), 4);
+    const body = line.slice(lead.length);
+    const mk = body.match(/^((?:[A-Za-z]|\d{1,3}|[ivxlcdm]+)[.)])(?=[ \t])/);
+    if (mk) {
+      const rest = body.slice(mk[0].length).replace(/^[ \t]+/, "");
+      out.push(`<div class="cl lvl${lvl}"><span class="mk">${esc(mk[1])}</span><span class="tx">${esc(rest)}</span></div>`);
+    } else {
+      out.push(`<div class="cl plain lvl${lvl}"><span class="tx">${esc(body.trim())}</span></div>`);
+    }
+  }
+  flush();
+  return out.join("");
+}
+
+/* Render free-form markdown (KB article bodies imported from the spreadsheet).
+   Falls back to escaped, paragraph-split text if marked/DOMPurify aren't loaded. */
+function mdHtml(raw) {
+  const text = String(raw ?? "");
+  try {
+    if (window.marked && window.DOMPurify) {
+      const html = window.DOMPurify.sanitize(window.marked.parse(text, { breaks: true, gfm: true }));
+      const div = document.createElement("div");
+      div.innerHTML = html;
+      div.querySelectorAll("a[href]").forEach(a => {
+        if (/^https?:\/\//i.test(a.getAttribute("href") || "")) { a.target = "_blank"; a.rel = "noopener noreferrer"; }
+      });
+      return div.innerHTML;
+    }
+  } catch { /* fall through */ }
+  return text.split(/\n{2,}/).map(p => `<p>${esc(p).replace(/\n/g, "<br>")}</p>`).join("");
+}
+
+let SEC = 0;
+function section(icon, title, inner) {
+  const id = "sec-" + (++SEC);
+  return { id, title, html: `<section id="${id}" data-toc="${esc(title)}"><div class="sec-head"><div class="ico">${icon}</div><h2>${esc(title)}</h2></div>${inner}</section>` };
+}
+
+/* Find the first numeric dollar amount in a string. */
+function money(s) {
+  const m = String(s ?? "").match(/\$?\s*([\d,]+(?:\.\d+)?)/);
+  return m ? parseFloat(m[1].replace(/,/g, "")) : null;
+}
+function fmtMoney(n) { return "$" + Math.round(n).toLocaleString(); }
+
+function keyFacts(a, c) {
+  const facts = [];
+  // Fee range from the fee table.
+  if (has(c.fees)) {
+    const nums = c.fees.map(f => money(f.amount ?? f.rate)).filter(n => n != null && n > 0);
+    if (nums.length) {
+      const lo = Math.min(...nums), hi = Math.max(...nums);
+      const label = lo === hi ? "Fee" : "Fees from";
+      facts.push({ k: label, v: fmtMoney(lo), count: lo });
+    } else {
+      facts.push({ k: "Fees", v: "See schedule" });
+    }
+  }
+  // Review / processing time from timelines.
+  if (has(c.timelines)) {
+    const entry = Object.entries(c.timelines).find(([k, v]) =>
+      has(v) && /review|process|issue|turnaround|approval/i.test(k));
+    const any = entry || Object.entries(c.timelines).find(([, v]) => has(v));
+    if (any) facts.push({ k: titleCase(any[0]), v: String(any[1]) });
+  }
+  // Department.
+  if (has(c.contact) && has(c.contact.dept)) facts.push({ k: "Department", v: c.contact.dept });
+  return facts;
+}
+
+function countUp(el, target) {
+  if (REDUCED || !hasGSAP) { el.textContent = fmtMoney(target); return; }
+  const obj = { n: 0 };
+  gsap.to(obj, {
+    n: target, duration: 1.1, ease: "power2.out",
+    scrollTrigger: { trigger: el, start: "top 90%" },
+    onUpdate: () => { el.textContent = fmtMoney(obj.n); },
+  });
+}
+
+/* Type colour/label maps (mirror the hub) for related-article cards. */
+const TYPE_COLOR = { permit: "#3b82f6", license: "#8b5cf6", process: "#14b8a6", faq: "#f59e0b", ordinance: "#64748b", tax: "#10b981", fee_schedule: "#10b981", kb: "#0ea5e9" };
+const TYPE_LABEL = { permit: "Permit", license: "License", process: "Process", faq: "FAQ", ordinance: "Ordinance", tax: "Tax", fee_schedule: "Fees", kb: "Knowledge Base" };
+const typeColor = t => TYPE_COLOR[t] || "var(--brand-blue)";
+
+/* Department label for the breadcrumb / cards / left-nav grouping. */
+const CAT_LABEL = {
+  building: "Building Permits", building_permits: "Building Permits", development: "Planning & Development",
+  row: "Right-of-Way", short_term_rentals: "Short-Term Rentals", business: "Business Licensing",
+  licensing: "Business Licensing", contractor_licenses: "Contractor Licensing", food_trucks: "Food Trucks",
+  events: "Special Events", sales_tax: "Tax & Fees", tax: "Tax & Fees", faq: "FAQs", ordinance: "City Code",
+  stormwater: "Stormwater", general: "City Information",
+};
+function deptOf(a) {
+  const c = (a.content && a.content.contact && a.content.contact.dept);
+  return c || CAT_LABEL[a.category] || titleCase(a.category || a.article_type || "Smart Knowledge");
+}
+
+/* Right action rail: actions + On-this-page TOC + department + reference + Ask AI. */
+function buildSideRail(a, c, secs) {
+  const fav = isFav(a.id);
+  const toc = (secs && secs.length > 1)
+    ? `<div class="toc-box"><div class="toc-label">On this page</div>${secs.map(s => `<a href="#${s.id}" data-target="${s.id}">${esc(s.title)}</a>`).join("")}</div>`
+    : "";
+  const actions = `<div class="side-card">
+    <div class="sk-label">Actions</div>
+    <div class="sk-toolbar" role="toolbar" aria-label="Article actions">
+      <button class="sk-act" data-act="fav" aria-pressed="${fav}"><span class="ti">${fav ? ICONS.starFill : ICONS.star}</span><span class="lbl">${fav ? "Favorited" : "Add to favorites"}</span></button>
+      <button class="sk-act" data-act="share"><span class="ti">${ICONS.link}</span><span class="lbl">Share</span></button>
+      <button class="sk-act" data-act="email"><span class="ti">${ICONS.mail}</span><span class="lbl">Email</span></button>
+      <button class="sk-act" data-act="print"><span class="ti">${ICONS.printer}</span><span class="lbl">Print</span></button>
+      <button class="sk-act" data-act="download"><span class="ti">${ICONS.download}</span><span class="lbl">Download PDF</span></button>
+      <button class="sk-act" data-act="read" aria-pressed="false"><span class="ti">${ICONS.volume}</span><span class="lbl">Read aloud</span></button>
+    </div></div>`;
+  const ct = c.contact || {};
+  const dept = deptOf(a);
+  const phone = has(ct.phone) ? `<div style="margin-top:6px"><a href="tel:${esc(ct.phone)}" style="color:var(--accent-text);text-decoration:none">${esc(ct.phone)}</a></div>` : "";
+  const deptCard = `<div class="side-card"><div class="sk-label">Department</div><div class="sk-meta" style="font-weight:700;color:var(--heading)">${esc(dept)}${phone}</div></div>`;
+  const refId = (has(a.ordinance_refs) ? a.ordinance_refs.join(", ") : "") || (a.slug ? String(a.slug).toUpperCase() : "");
+  const refCard = refId ? `<div class="side-card"><div class="sk-label">Reference</div><div class="sk-meta"><span class="mono" style="font-weight:700;color:var(--heading)">${esc(refId)}</span></div></div>` : "";
+  const ask = `<a class="ask-rail" href="${adaHref(a.title || "")}">${ICONS.spark} Ask ADA a follow-up</a>`;
+  const sep = `<hr class="rail-sep" aria-hidden="true">`;
+  const parts = [actions, toc, deptCard, refCard, ask].filter(Boolean);
+  return `<aside class="side-rail">${parts.join(sep)}</aside>`;
+}
+
+/* ── Feedback widget (thumbs up/down; "No" reveals inline reason options) ── */
+const FB_REASONS = ["Out of date", "Incorrect", "Confusing", "Missing information", "Broken link", "Other"];
+function feedbackHTML() {
+  return `<div class="feedback" id="feedback" data-sk-no-print>
+    <div class="fb-q">Was this article helpful?</div>
+    <div class="fb-actions">
+      <button class="fb-btn up" data-fb="good">${ICONS.up} Yes</button>
+      <button class="fb-btn down" data-fb="bad">${ICONS.down} No</button>
+    </div>
+    <div class="fb-reasonbox" id="fbReasonBox" hidden>
+      <div class="fb-rb-label">What was wrong?</div>
+      <div class="fb-reasons">${FB_REASONS.map(r => `<button type="button" class="fb-reason" data-r="${esc(r)}">${esc(r)}</button>`).join("")}</div>
+      <div class="fb-form">
+        <textarea class="fb-comment" placeholder="Add details (optional) — e.g. which fee, step, or link is wrong."></textarea>
+        <div class="fb-rb-foot">
+          <button type="button" class="fb-submit" id="fbReasonSubmit">${ICONS.spark} Submit feedback</button>
+          <button type="button" class="fb-cancel" id="fbReasonCancel">Cancel</button>
+        </div>
+      </div>
+    </div>
+    <div class="fb-done" id="fbDone" hidden></div>
+  </div>`;
+}
+async function postFeedback(rating, reason, comment) {
+  try {
+    const res = await fetch(`/api/article/${encodeURIComponent(ARTICLE_ID)}/feedback`, {
+      method: "POST", headers: { "X-Internal-Token": TOKEN, "Content-Type": "application/json" },
+      body: JSON.stringify({ rating, reason: reason || null, comment: comment || null }),
+    });
+    return res.ok ? res.json() : null;
+  } catch { return null; }
+}
+function wireFeedback(a) {
+  const root = document.getElementById("feedback");
+  if (!root) return;
+  const done = root.querySelector("#fbDone");
+  const box = root.querySelector("#fbReasonBox");
+  const ta = root.querySelector(".fb-comment");
+  const submit = root.querySelector("#fbReasonSubmit");
+  const cancel = root.querySelector("#fbReasonCancel");
+  const selected = new Set();
+
+  // Reason chips toggle (inline, under the buttons — no popup).
+  box.querySelectorAll(".fb-reason").forEach(c => {
+    c.addEventListener("click", () => {
+      c.classList.toggle("sel");
+      c.classList.contains("sel") ? selected.add(c.dataset.r) : selected.delete(c.dataset.r);
+    });
+  });
+
+  function resetReasons() {
+    selected.clear();
+    box.querySelectorAll(".fb-reason.sel").forEach(c => c.classList.remove("sel"));
+    if (ta) ta.value = "";
+    submit.disabled = false; submit.innerHTML = `${ICONS.spark} Submit feedback`;
+  }
+  function hideBox() { box.hidden = true; }
+
+  cancel.addEventListener("click", () => {
+    hideBox();
+    resetReasons();
+    root.querySelectorAll(".fb-btn").forEach(b => b.classList.remove("sel"));
+  });
+
+  submit.addEventListener("click", async () => {
+    submit.disabled = true; submit.textContent = "Submitting…";
+    const r = await postFeedback("bad", [...selected].join(", "), ta ? ta.value.trim() : "");
+    hideBox();
+    done.hidden = false;
+    done.innerHTML = r && r.sr_number
+      ? `${ICONS.spark}<div>Thanks — we've logged this as <span class="sr">${esc(r.sr_number)}</span>. The city team will review and improve this article.</div>`
+      : `${ICONS.spark}<div>Thanks — your feedback has been recorded.</div>`;
+  });
+
+  root.querySelectorAll("[data-fb]").forEach(btn => btn.addEventListener("click", async () => {
+    if (btn.dataset.fb === "good") {
+      root.querySelectorAll(".fb-btn").forEach(b => b.classList.toggle("sel", b === btn));
+      hideBox();
+      resetReasons();
+      done.hidden = false;
+      done.innerHTML = `${ICONS.up}<div>Thanks for the feedback — glad it helped!</div>`;
+      await postFeedback("good", null, null);
+    } else {
+      // "No" reveals the reason options inline, right under the buttons.
+      root.querySelectorAll(".fb-btn").forEach(b => b.classList.toggle("sel", b === btn));
+      done.hidden = true;
+      resetReasons();
+      box.hidden = false;
+      if (ta) setTimeout(() => ta.focus(), 40);
+    }
+  }));
+}
+
+/* Breadcrumb back to where the visitor came from:
+   from Ada:   Home › Ask ADA › Smart Knowledge › Department
+   otherwise:  Home › Smart Knowledge › Department
+   (Smart Knowledge → /articles is always present, since that's where articles live.) */
+function breadcrumbHTML(a) {
+  const crumbs = [`<a href="/">${ICONS.home} Home</a>`];
+  if (FROM === "ada") crumbs.push(`<a href="/">Ask ADA</a>`);
+  crumbs.push(`<a href="/articles">Smart Knowledge</a>`);
+  crumbs.push(`<span class="cur">${esc(deptOf(a))}</span>`);
+  return `<nav class="crumb">${crumbs.join(ICONS.chevron)}</nav>`;
+}
+
+/* ── Left article-nav rail (grouped by department, current highlighted) ──── */
+let INDEX = null;
+const NAV_ORDER = ["Building Permits", "Inspections & Fees", "Contractor Licensing", "Right-of-Way",
+  "Planning & Development", "Stormwater", "Short-Term Rentals", "Special Events", "Business Licensing",
+  "Food Trucks", "Tax & Fees", "City Information", "FAQs"];
+
+/* Memoized, cached nav fetch — lightweight /api/nav (~230 rows), cached for the
+   tab session so navigating between articles is instant. */
+let _navPromise = null;
+function ensureNav() {
+  if (_navPromise) return _navPromise;
+  _navPromise = (async () => {
+    try {
+      const cached = sessionStorage.getItem("arvada-kb-nav");
+      if (cached) return (INDEX = JSON.parse(cached));
+    } catch { /* ignore */ }
+    try {
+      let res = await fetch("/api/nav", { headers: { "X-Internal-Token": TOKEN } });
+      if (res.ok) {
+        INDEX = (await res.json()).articles || [];
+      } else {
+        // Fallback for servers without /api/nav yet: use the full index, drop ordinances.
+        res = await fetch("/api/articles", { headers: { "X-Internal-Token": TOKEN } });
+        if (!res.ok) return (INDEX = []);
+        INDEX = ((await res.json()).articles || []).filter(a => a.article_type !== "ordinance");
+      }
+      try { sessionStorage.setItem("arvada-kb-nav", JSON.stringify(INDEX)); } catch { /* quota */ }
+      return INDEX;
+    } catch { return (INDEX = []); }
+  })();
+  return _navPromise;
+}
+async function loadNav(current) {
+  await ensureNav();
+  if (!INDEX || !INDEX.length) return;
+  buildNavRail(current);
+  buildPrevNext(current);
+}
+function buildNavRail(current) {
+  const host = document.getElementById("navRail");
+  if (!host || !INDEX) return;
+  // Real articles only (ordinances are code sections, not nav items).
+  const arts = INDEX.filter(a => a.article_type !== "ordinance");
+  const groups = new Map();
+  arts.forEach(a => {
+    const g = CAT_LABEL[a.category] || titleCase(a.category || a.article_type || "Other");
+    if (!groups.has(g)) groups.set(g, []);
+    groups.get(g).push(a);
+  });
+  const names = [...groups.keys()].sort((x, y) => {
+    const ix = NAV_ORDER.indexOf(x), iy = NAV_ORDER.indexOf(y);
+    return (ix < 0 ? 99 : ix) - (iy < 0 ? 99 : iy) || x.localeCompare(y);
+  });
+  const curGroup = CAT_LABEL[(current.category)] || titleCase(current.category || "");
+  const html = names.map(name => {
+    const items = groups.get(name).sort((a, b) => (a.title || "").localeCompare(b.title || ""));
+    const open = name === curGroup ? " open" : "";
+    const links = items.map(a => `<a class="nav-link ${a.id === current.id ? "cur" : ""}" href="${withFrom('/article/' + esc(a.id))}">${esc(a.title)}</a>`).join("");
+    return `<details class="nav-group"${open}><summary>${esc(name)}<span class="gc">${ICONS.caret}</span></summary>${links}</details>`;
+  }).join("");
+  host.innerHTML = `<a class="nav-back" href="/articles">${ICONS.arrowLeft} Smart Knowledge</a>${html}`;
+}
+function buildPrevNext(current) {
+  const host = document.getElementById("prevnext");
+  if (!host || !INDEX) return;
+  // Sequence within the current department (alphabetical), excluding ordinances.
+  const group = INDEX.filter(a => a.article_type !== "ordinance"
+    && (CAT_LABEL[a.category] || titleCase(a.category || "")) === (CAT_LABEL[current.category] || titleCase(current.category || "")))
+    .sort((a, b) => (a.title || "").localeCompare(b.title || ""));
+  const i = group.findIndex(a => a.id === current.id);
+  if (i < 0) return;
+  const prev = group[i - 1], next = group[i + 1];
+  const cell = (a, kind) => a
+    ? `<a class="pn ${kind}" href="${withFrom('/article/' + esc(a.id))}"><span class="pn-k">${kind === "prev" ? "← Previous" : "Next →"}</span><span class="pn-t">${esc(a.title)}</span></a>`
+    : `<span></span>`;
+  if (!prev && !next) return;
+  host.innerHTML = cell(prev, "prev") + cell(next, "next");
+  host.style.display = "grid";
+}
+
+/* Wire the quick-action toolbar buttons (after the page is rendered). */
+function wireToolbar() {
+  document.querySelectorAll(".sk-act").forEach(btn => {
+    const act = btn.dataset.act;
+    btn.addEventListener("click", () => {
+      if (act === "fav") {
+        const on = toggleFav(ARTICLE_ID);
+        btn.setAttribute("aria-pressed", on ? "true" : "false");
+        btn.querySelector(".ti").innerHTML = on ? ICONS.starFill : ICONS.star;
+        btn.querySelector(".lbl").textContent = on ? "Favorited" : "Add to favorites";
+        toast(on ? "Added to favorites" : "Removed from favorites");
+      } else if (act === "share") {
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText(location.href)
+            .then(() => toast("Link copied to clipboard"))
+            .catch(() => toast("Couldn't copy link"));
+        } else { toast("Clipboard not available"); }
+      } else if (act === "email") {
+        const subj = document.title.replace(/ · Arvada$/, "");
+        const body = `${subj}\n\n${location.href}`;
+        location.href = `mailto:?subject=${encodeURIComponent(subj)}&body=${encodeURIComponent(body)}`;
+      } else if (act === "print") {
+        window.print();
+      } else if (act === "download") {
+        toast('Choose "Save as PDF" in the print dialog');
+        setTimeout(() => window.print(), 350);
+      } else if (act === "read") {
+        readAloud(btn);
+      }
+    });
+  });
+}
+
+/* A related-article card (same shape as the hub's index records). */
+function relHTML(a) {
+  const kind = TYPE_LABEL[a.article_type] || titleCase(a.article_type || "Article");
+  return `<a class="rel" style="--tc:${typeColor(a.article_type)}" href="${withFrom('/article/' + esc(a.id))}">
+    <span class="ri">${ICONS.file}</span>
+    <span class="rc"><span class="rk">${esc(kind)}</span><h3>${esc(a.title || "Untitled")}</h3></span>
+    <span class="rarr">${ICONS.arrow}</span></a>`;
+}
+
+/* Fetch + render semantically-related articles (vector neighbours). */
+async function loadRelated() {
+  const host = document.getElementById("related");
+  if (!host || !ARTICLE_ID) return;
+  try {
+    const res = await fetch(`/api/article/${encodeURIComponent(ARTICLE_ID)}/related?k=4`, { headers: { "X-Internal-Token": TOKEN } });
+    if (!res.ok) return;
+    const data = await res.json();
+    const items = (data.articles || []).filter(x => x && x.id);
+    if (!items.length) return;
+    host.innerHTML = `<div class="related-head">${ICONS.file}<h2>Related articles</h2></div>
+      <div class="related-grid">${items.map(relHTML).join("")}</div>`;
+    host.hidden = false;
+    if (hasGSAP && !REDUCED) gsap.from(host.querySelectorAll(".rel"), { y: 12, opacity: 0, duration: .4, ease: "power2.out", stagger: .06 });
+  } catch { /* leave the section hidden on any failure */ }
+}
+
+const EDIT_MODE = new URLSearchParams(location.search).get("edit") === "1";
+
+/* Admin edit view: fix title / summary / structured content, then publish. */
+function renderEditor(a) {
+  const page = document.getElementById("page");
+  document.title = `Editing · ${a.title || "Article"}`;
+  page.innerHTML = `
+    <aside class="nav-rail" id="navRail"></aside>
+    <main class="col">
+      ${breadcrumbHTML(a)}
+      <div class="edit-banner">✎ Editing this article — saving publishes it live</div>
+      <div class="edit-field"><label>Title</label><input id="edTitle" value="${esc(a.title || "")}" /></div>
+      <div class="edit-field"><label>Summary</label><textarea id="edSummary" rows="3">${esc((a.content && a.content.summary) || "")}</textarea></div>
+      <div class="edit-field"><label>Content (structured JSON)</label>
+        <textarea id="edContent" class="json" spellcheck="false">${esc(JSON.stringify(a.content || {}, null, 2))}</textarea>
+        <div class="hint2">Advanced: edit any structured field (steps, fees, FAQs…). Must stay valid JSON. Title & Summary above are applied on top.</div>
+      </div>
+      <div class="edit-actions">
+        <button class="save" id="edSave">${ICONS.spark} Save &amp; Publish</button>
+        <a class="cancel" href="${withFrom('/article/' + esc(a.id))}">Cancel</a>
+        <span class="edit-err" id="edErr"></span>
+      </div>
+    </main>
+    <aside class="side-rail"></aside>`;
+  document.body.classList.add("sk-article-print");
+  loadNav(a);
+  const err = document.getElementById("edErr");
+  document.getElementById("edSave").addEventListener("click", async () => {
+    err.textContent = "";
+    let content;
+    try { content = JSON.parse(document.getElementById("edContent").value); }
+    catch (e) { err.textContent = "Content is not valid JSON."; return; }
+    const title = document.getElementById("edTitle").value.trim();
+    const summary = document.getElementById("edSummary").value;
+    const btn = document.getElementById("edSave");
+    btn.disabled = true; btn.textContent = "Publishing…";
+    try {
+      const res = await fetch(`/api/article/${encodeURIComponent(a.id)}`, {
+        method: "PUT", headers: { "X-Internal-Token": TOKEN, "Content-Type": "application/json" },
+        body: JSON.stringify({ title, summary, content, publish: true }),
+      });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      location.href = `/article/${encodeURIComponent(a.id)}`;   // show the published result
+    } catch (e) {
+      err.textContent = "Couldn't publish (" + e.message + ").";
+      btn.disabled = false; btn.innerHTML = `${ICONS.spark} Save &amp; Publish`;
+    }
+  });
+}
+
+function render(a) {
+  if (EDIT_MODE) { renderEditor(a); return; }
+  const c = a.content || {};
+  const page = document.getElementById("page");
+  document.title = `${a.title || "Article"} · Arvada`;
+  const askUrl = adaHref(a.title || "");
+  const asgn = (id) => { const el = document.getElementById(id); if (el) el.href = askUrl; };
+  asgn("assistant"); asgn("askFab");
+  SEC = 0;
+
+  const secs = [];          // collected sections for TOC
+  const heroParts = [];
+
+  /* Hero */
+  const eyebrow = [a.article_type, a.category].filter(has).map(v => TYPE_LABEL[v] || titleCase(v));
+  heroParts.push(`<div class="eyebrow">${eyebrow.map((e, i) =>
+    (i ? `<span class="sep">/</span>` : "") + esc(e)).join(" ") || "City Service"}</div>`);
+  heroParts.push(`<h1>${esc(a.title || c.title || "Untitled Article")}</h1>`);
+  if (has(c.summary)) heroParts.push(`<p class="lede">${esc(c.summary)}</p>`);
+
+  const facts = keyFacts(a, c);
+  if (facts.length) {
+    heroParts.push(`<div class="facts">${facts.map(f =>
+      `<div class="fact"><div class="k">${esc(f.k)}</div><div class="v"${f.count ? ` data-count="${f.count}"` : ""}>${esc(f.v)}</div></div>`
+    ).join("")}</div>`);
+  }
+
+  /* Body sections */
+  if (has(c.body)) {
+    secs.push(section("≡", "Overview", `<div class="prose md">${mdHtml(c.body)}</div>`));
+  }
+
+  if (has(c.eligibility)) {
+    const body = Array.isArray(c.eligibility)
+      ? `<div class="prose">${c.eligibility.map(x => `<p>${esc(x)}</p>`).join("")}</div>`
+      : `<div class="prose"><p>${esc(c.eligibility).replace(/\n+/g, "</p><p>")}</p></div>`;
+    secs.push(section("✓", "Who's eligible", body));
+  }
+
+  if (has(c.steps)) {
+    const steps = c.steps.map((s, i) => `
+      <div class="step">
+        <div class="num">${esc(s.n ?? i + 1)}</div>
+        <div class="body">
+          <h3>${esc(s.title || "Step " + (i + 1))}</h3>
+          ${has(s.text) ? `<p>${esc(s.text)}</p>` : ""}
+          ${has(s.portal_url) ? `<a class="portal" href="${esc(s.portal_url)}" target="_blank" rel="noopener">Open portal →</a>` : ""}
+        </div>
+      </div>`).join("");
+    secs.push(section("→", "How to apply", `<div class="timeline"><div class="rail"></div>${steps}</div>`));
+  }
+
+  if (has(c.required_documents)) {
+    const rows = c.required_documents.map(d => `
+      <div class="check">
+        <div class="box">✓</div>
+        <div class="ct">
+          <h3>${esc(d.name || "Document")}</h3>
+          ${has(d.description) ? `<p>${esc(d.description)}</p>` : ""}
+          ${has(d.where_to_get) ? `<div class="where">Where to get it · ${esc(d.where_to_get)}</div>` : ""}
+        </div>
+      </div>`).join("");
+    secs.push(section("☑", "What you'll need", `<div class="checklist">${rows}</div>`));
+  }
+
+  if (has(c.form_fields)) {
+    const tiles = c.form_fields.map(f => `
+      <div class="tile">
+        <h3>${esc(f.label || f.field_name || "Field")}</h3>
+        ${has(f.description) ? `<p>${esc(f.description)}</p>` : ""}
+        ${has(f.example_value) ? `<div class="hint">e.g. ${esc(f.example_value)}</div>` : ""}
+        ${has(f.why_needed) ? `<div class="why">${esc(f.why_needed)}</div>` : ""}
+      </div>`).join("");
+    secs.push(section("⌨", "Filling the form", `<div class="grid">${tiles}</div>`));
+  }
+
+  if (has(c.fees)) {
+    const rows = c.fees.map(f => `
+      <tr>
+        <td>${esc(f.name || "Fee")}</td>
+        <td class="amt">${esc(f.amount || f.rate || "See schedule")}</td>
+        <td>${esc(f.notes || "")}</td>
+      </tr>`).join("");
+    secs.push(section("$", "Fees", `<div class="table-wrap"><table>
+      <thead><tr><th>Item</th><th style="text-align:right">Amount</th><th>Notes</th></tr></thead>
+      <tbody>${rows}</tbody></table></div>`));
+  }
+
+  if (has(c.timelines)) {
+    const rows = Object.entries(c.timelines).filter(([, v]) => has(v))
+      .map(([k, v]) => `<tr><td>${esc(titleCase(k))}</td><td class="amt">${esc(v)}</td></tr>`).join("");
+    if (rows) secs.push(section("◷", "Timeline", `<div class="table-wrap"><table><tbody>${rows}</tbody></table></div>`));
+  }
+
+  if (has(c.contact)) {
+    const ct = c.contact, acts = [];
+    if (has(ct.phone))   acts.push(`<a class="action" href="tel:${esc(ct.phone)}"><span class="ai">📞</span><span class="at"><span class="k">Call</span><span class="v">${esc(ct.phone)}</span></span></a>`);
+    if (has(ct.dept))    acts.push(`<div class="action"><span class="ai">🏛️</span><span class="at"><span class="k">Department</span><span class="v">${esc(ct.dept)}</span></span></div>`);
+    if (has(ct.address)) acts.push(`<div class="action"><span class="ai">📍</span><span class="at"><span class="k">Visit</span><span class="v">${esc(ct.address).replace(/\n/g, ", ")}</span></span></div>`);
+    if (has(ct.email))   acts.push(`<a class="action" href="mailto:${esc(ct.email)}"><span class="ai">✉️</span><span class="at"><span class="k">Email</span><span class="v">${esc(ct.email)}</span></span></a>`);
+    if (acts.length) secs.push(section("☎", "Get in touch", `<div class="actions">${acts.join("")}</div>`));
+  }
+
+  if (has(c.faqs)) {
+    const isOrd = a.article_type === "ordinance";
+    if (isOrd) {
+      const clauses = c.faqs.map(f => `
+        <div class="clause">
+          ${has(f.q) ? `<h3>${esc(f.q)}</h3>` : ""}
+          <div class="ct">${legalHtml(f.a || "")}</div>
+        </div>`).join("");
+      secs.push(section("§", "Code text", `<div class="doc">${clauses}</div>`));
+    } else {
+      // Drop FAQ entries that just repeat the hero (title + summary already shown
+      // above) — common for single-question FAQ articles where title=question and
+      // summary=answer. Keeps genuinely additional questions (and cases where the
+      // full answer differs from the truncated summary).
+      const tnorm = norm(a.title || c.title), snorm = norm(c.summary);
+      const faqs = c.faqs.filter(f => !(norm(f.q) === tnorm && norm(f.a) === snorm));
+      if (faqs.length) {
+        const items = faqs.map(f => `
+          <div class="clause">
+            <h3>${esc(f.q || "Details")}</h3>
+            <div class="ct">${legalHtml(f.a || "")}</div>
+          </div>`).join("");
+        secs.push(section("?", "Common questions", `<div class="doc">${items}</div>`));
+      }
+    }
+  }
+
+  /* Footer band — extras */
+  const fb = [];
+  if (has(c.related_permit_types)) {
+    fb.push(`<div class="fb-row"><div class="fb-k">Related services</div><div class="chips">${
+      c.related_permit_types.map(p => `<span class="chip">${esc(titleCase(p))}</span>`).join("")}</div></div>`);
+  }
+  if (has(a.tags)) {
+    fb.push(`<div class="fb-row"><div class="fb-k">Tags</div><div class="chips">${
+      a.tags.map(t => `<span class="chip">#${esc(t)}</span>`).join("")}</div></div>`);
+  }
+  const refMeta = [];
+  if (has(a.updated_at))     refMeta.push(`Last updated ${esc(String(a.updated_at).slice(0, 10))}`);
+  if (has(a.effective_date)) refMeta.push(`Effective ${esc(a.effective_date)}`);
+  if (has(a.last_verified))  refMeta.push(`Verified ${esc(a.last_verified)}`);
+  if (has(a.ordinance_refs)) refMeta.push(`Code ${esc(a.ordinance_refs.join(", "))}`);
+  if (refMeta.length) fb.push(`<div class="fb-row"><div class="fb-k">Reference</div><div style="color:var(--text-2);font-size:14px">${refMeta.join(" · ")}</div></div>`);
+  if (has(a.source_urls)) {
+    fb.push(`<div class="fb-row src"><div class="fb-k">Official source</div>${
+      a.source_urls.map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`).join(" · ")}</div>`);
+  }
+
+  /* Mobile-only inline TOC chips (desktop TOC lives in the right rail) */
+  const tocChips = secs.length > 1
+    ? `<div class="toc-chips">${secs.map(s => `<a href="#${s.id}" data-target="${s.id}">${esc(s.title)}</a>`).join("")}</div>`
+    : "";
+
+  page.innerHTML = `
+    <aside class="nav-rail" id="navRail"></aside>
+    <main class="col">
+      ${breadcrumbHTML(a)}
+      <header class="hero">${heroParts.join("")}</header>
+      ${tocChips}
+      <hr class="divider" />
+      ${secs.map(s => s.html).join("")}
+      ${fb.length ? `<div class="footer-band">${fb.join("")}</div>` : ""}
+      ${feedbackHTML()}
+      <div class="related" id="related" hidden></div>
+      <div class="prevnext" id="prevnext" style="display:none"></div>
+    </main>
+    ${buildSideRail(a, c, secs)}`;
+
+  document.body.classList.add("sk-article-print");
+  wireToolbar();
+  wireFeedback(a);
+  loadRelated();
+  loadNav(a);      // left article-nav + prev/next (fetches the index once)
+  enhance(secs);
+  pushRecent(a);   // recently-viewed (localStorage, read by the hub)
+  recordView();    // fire-and-forget view count (powers Trending)
+}
+
+/* ── Motion + interactivity after render ──────────────────────────────── */
+function enhance(secs) {
+  // Count-up on fee facts.
+  document.querySelectorAll("[data-count]").forEach(el => countUp(el, parseFloat(el.dataset.count)));
+
+  // Reading progress.
+  const prog = document.getElementById("progress");
+  const onScroll = () => {
+    const h = document.documentElement;
+    const max = h.scrollHeight - h.clientHeight;
+    prog.style.width = (max > 0 ? (h.scrollTop / max) * 100 : 0) + "%";
+  };
+  window.addEventListener("scroll", onScroll, { passive: true });
+  onScroll();
+
+  // Scroll-spy for TOC.
+  const links = [...document.querySelectorAll(".toc-box a, .toc-chips a")];
+  if (links.length) {
+    const byId = {};
+    links.forEach(l => (byId[l.dataset.target] = byId[l.dataset.target] || []).push(l));
+    const spy = new IntersectionObserver(entries => {
+      entries.forEach(e => {
+        if (e.isIntersecting) {
+          links.forEach(l => l.classList.remove("active"));
+          (byId[e.target.id] || []).forEach(l => l.classList.add("active"));
+        }
+      });
+    }, { rootMargin: "-20% 0px -70% 0px" });
+    secs.forEach(s => { const el = document.getElementById(s.id); if (el) spy.observe(el); });
+  }
+
+  if (REDUCED || !hasGSAP) return;
+
+  // Hero stagger.
+  const heroBits = document.querySelectorAll(".hero > *");
+  gsap.from(heroBits, { y: 18, opacity: 0, duration: .6, ease: "power2.out", stagger: .08 });
+
+  // Sections rise in on scroll.
+  gsap.utils.toArray("section").forEach(sec => {
+    gsap.from(sec, {
+      y: 16, opacity: 0, duration: .55, ease: "power2.out",
+      scrollTrigger: { trigger: sec, start: "top 88%" },
+    });
+  });
+
+  // Timeline rail draws in; steps light up while in view.
+  document.querySelectorAll(".timeline").forEach(tl => {
+    const rail = tl.querySelector(".rail");
+    if (rail) gsap.from(rail, { scaleY: 0, duration: 1, ease: "none",
+      scrollTrigger: { trigger: tl, start: "top 80%", end: "bottom 60%", scrub: true } });
+    tl.querySelectorAll(".step").forEach(st => {
+      ScrollTrigger.create({ trigger: st, start: "top 70%", end: "bottom 60%",
+        onToggle: self => st.classList.toggle("lit", self.isActive) });
+    });
+  });
+}
+
+async function load() {
+  if (!ARTICLE_ID) { fail("No article specified."); return; }
+  ensureNav();   // prefetch the left-nav list in parallel with the article fetch
+  try {
+    const res = await fetch(`/api/article/${encodeURIComponent(ARTICLE_ID)}`, {
+      headers: { "X-Internal-Token": TOKEN },
+    });
+    if (res.status === 404) { fail("This article could not be found in the knowledge base."); return; }
+    if (!res.ok) { fail("Could not load this article (HTTP " + res.status + ")."); return; }
+    render(await res.json());
+  } catch (e) {
+    fail("Could not reach the knowledge base. Is the agent running?");
+  }
+}
+
+function fail(msg) {
+  document.getElementById("page").innerHTML =
+    `<div class="state">⚠️ ${esc(msg)}<br><br><a class="nav-btn" href="/">← Back to Ask ADA</a></div>`;
+}
+
+load();
+</script>
+</body>
+</html>

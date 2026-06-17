@@ -1,0 +1,47 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "stormwater",
+      "water quality",
+      "flood control",
+      "drainage",
+      "Main"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/444/Stormwater"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/ma-009",
+    "spreadsheet_id": "MA-009",
+    "spreadsheet_sheet": "KB Articles"
+  },
+  "content": {
+    "title": "Stormwater (Waterways)",
+    "summary": "Stormwater collects pollutants from impervious surfaces before entering local waterways, with facilities like ditches and ponds designed to manage this flow and improve water quality. Homeowners Associations and management companies are generally responsible for maintaining these stormwater facilities, while the City inspects them and can assist in determining maintenance responsibilities. The City holds a permit from the State of Colorado mandating the development of programs to protect waterways, detailed in the publicly available Stormwater Management Plan.",
+    "body": "## Stormwater\n\nStormwater flows across paved (impervious) surface, picking up materials like trash, metals, oil, soil and chemicals before discharging into creeks and rivers. Ditches, ponds and lakes are used as stormwater facilities to slow the water down, reduce the potential for flooding and settle out contaminants so that mostly clean water flows downstream.\n\nRalston Creek, Van Bibber Creek, Leyden Creek, Little Dry Creek and the many ponds and lakes within the City's boundaries can be affected.\n\n## Stormwater Facility Maintenance\n\nThese structures channel, divert, and capture stormwater flows to control flooding of downstream properties and improve the water quality of runoff before it gets to creeks and rivers. Examples of stormwater facilities are swales or ditches, detention ponds, and outlet structures.\n\n### Maintenance\n\nIn general, Home Owners Associations (HOAs) and management companies are responsible for maintaining stormwater facilities.\n\nThe City can help determine who is responsible for maintaining these facilities. The City also inspects both municipal and private stormwater facilities and will explain what maintenance needs to be done.\n\n## Stormwater Permit\n\nThe City was issued a permit from the State of Colorado that requires programs to be developed to protect area waterways. This permit includes programs such as public education, responding to spills, controlling construction pollutants and keeping City facilities and activities protective of waterways.\n\nRequired programs are listed in the City's Stormwater Management Plan in the Program Description Document (PDD). The PDD is publicly available for review and comment. Please [contact the Stormwater Division](https://www.arvadaco.gov/Directory.aspx?DID=57) to request the document.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

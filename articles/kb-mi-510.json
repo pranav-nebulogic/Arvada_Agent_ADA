@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "software",
+      "programs",
+      "hardware",
+      "devices",
+      "code",
+      "purchase",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/375/Software-Programs-Hardware-Devices"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-510",
+    "spreadsheet_id": "MI-510",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Software Programs & Hardware Devices",
+    "summary": "The Arvada Tax Code imposes sales and use tax on the sale or purchase of pre-written software programs and hardware devices, including computers and smartphones. Pre-written software is generally taxable, while custom software designed for specific users is non-taxable. Maintenance agreements for software may also be taxable depending on their nature, with mandatory agreements included in the taxable selling price, while optional agreements may be taxable or exempt based on the services provided.",
+    "body": "The [Arvada Tax Code](http://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) imposes sales or uses a tax on the sale or purchase of pre-written software programs and hardware devices.\n\n## Hardware Devices\n\nHardware devices (computers, tablets, smartphones), peripheral equipment, parts, and accessories are taxable tangible personal property and are subject to sales and use tax.\n\n## Software Programs\n\nThe sale or purchase of software programs may be taxable or exempt as circumstances indicate. Software programs may be broadly classified into two categories.\n\n**Pre-written software program** - This category includes \"canned\", \"shrink-wrapped\", \"off-the-shelf\" or any other software that is developed by a software company for sale or license to multiple users. Pre-written software may also include software modules or components that are designed to be integrated into a larger software program package. A software program that is in existence before that software is sold or licensed to the user is taxable on its retail sale. Software programs that are already loaded on a device when the device is sold are taxable.\n\nCharges for software as a service for pre-written software programs that are rented, leased, or subscribed to from a provider and used at the consumer's location, including but not limited to applications, systems, or programs are taxable.\n\nPre-written software that is accessed by a user via modem or other telecommunications means (Internet) is taxable if the provider is selling a right to use through purchase, lease, rental, or grant of a license. If there are significant modifications to prewritten software to customize it to a specific user, charges for the labor which are included in the modification are not taxable if they are separately stated on the invoice.\n\n**Custom software program** - This category of software is a non-taxable service. This software is written or designed to meet the needs of a specific user, and its value lies in the creation or development of the program.\n\nFactors indicating a taxable transaction for the sale or purchase of software include the presence of a buyer and seller of the program and a transfer (by sales, lease, rental, or a grant of license) of ownership or a right to use the program. A sale of personal service is indicated when the service provider does not own the work in progress. Subsequent sales of customer software will be treated as prewritten (canned) software and taxed accordingly.\n\n## Software Maintenance Agreements\n\nSoftware programs are sometimes sold or licensed for use with a maintenance agreement. The agreement may either be mandatory or optional.\n\nA **mandatory maintenance agreement** that accompanies the license or sale of taxable software is part of the selling price of the software and is also taxable.\n\nAn **optional maintenance agreement** to maintain software programs may be taxable or exempt depending on what the maintenance agreement provides. If an optional agreement entitles the customer to program enhancements, improvements, modifications, revisions, discounts on additional software purchases, etc., the agreement is taxable. If the agreement also includes technical support, fixes, or other services, the service portion of the agreement is not taxable provided that it is stated separately from the taxable portion.\n\nAn agreement that provides only technical support, fixes or other service is not taxable. Any tangible personal property that changes hands as an incidental part of the service such as disks and/or CDs is taxable to the vendor/service provider.\n\n## Computer Services\n\nCharges for manipulation of client-owned data, such as payroll services, computer accounting services, etc., are data processing services and are not taxable.\n\n## Example\n\n- ABC Co is expanding its Arvada operation and purchased 25 personal computers and 25 software program packages. In addition, ABC purchased 25 maintenance agreements that entitle the company to all future revisions and technical support. The personal computers, the software program packages, and the maintenance agreements are all taxable if the technical support portion of the maintenance contract is not separately stated.\n- ABC Co contracts to have Bob's Programming Services provide and install a prewritten program to network the 25 personal computers. John will also provide technical support and troubleshooting on an \"as-needed\" basis. The prewritten networking program is taxable, but John's service labor is non-taxable if separately stated.\n- EEZY Manufacturing has outgrown its current accounting and payroll package, and it needed to purchase a whole new software system. They signed a contract with Computer Consultants to design and install a new system. Computer Consultants purchases a database and applications modules, but a substantial portion of the contract is for the services of Computer Consultants to implement the new system. The service labor would not be taxable, if it is separately stated in the software contract, however, the purchase of the prewritten software components to install in EEZY Manufacturing's system are taxable.\n\n**Note**: This information is a summary in layman's terms of the relevant Arvada tax law for this subject, industry, or business segment. It is not intended for legal purposes to be substituted for the full text of the Arvada tax code. However, the tax guide shall be used in conjunction with the [Arvada tax code (chapter 98)](https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH98TA_ARTIIISAUSTA) in determining tax liability.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

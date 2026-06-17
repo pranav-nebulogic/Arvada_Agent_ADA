@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "resolution",
+      "transportation",
+      "issues",
+      "traffic",
+      "engineer",
+      "neighborhood",
+      "residents"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-272"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-272. - Resolution of transportation issues.",
+    "summary": "The traffic engineer and neighborhood residents shall work together to cooperatively\n               resolve transportation issues or neighborhood traffic problems in a manner that is\n               consistent with accepted traffic engineering standards, principles and criteria, law\n               en…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-272. - Resolution of transportation issues.",
+        "a": "The traffic engineer and neighborhood residents shall work together to cooperatively\n               resolve transportation issues or neighborhood traffic problems in a manner that is\n               consistent with accepted traffic engineering standards, principles and criteria, law\n               enforcement objectives and public education.\n(Code 1981, § 17-137; Ord. No. 2923, § 1, 11-19-1992; Ord. No. 3081, § 3, 6-6-1994;\nOrd. No. 4561, § 2, 8-29-2016\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-272"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

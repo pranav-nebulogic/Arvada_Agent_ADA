@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "scope",
+      "unless",
+      "otherwise",
+      "provided",
+      "law",
+      "all",
+      "administrative"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD"
+    ],
+    "scraped_at": "2026-06-10T12:02:14.553739+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 2-172"
+    ],
+    "chapter": "Chapter 2 - ADMINISTRATION"
+  },
+  "content": {
+    "title": "Chapter 2 - ADMINISTRATION — Sec. 2-172. - Scope.",
+    "summary": "Unless otherwise provided by law, all administrative hearings conducted by any officer\n               or agency of the city wherein a determination of the rights or responsibilities of\n               any person is made, shall be conducted in accordance with the procedure set forth\n               in …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 2-172. - Scope.",
+        "a": "Unless otherwise provided by law, all administrative hearings conducted by any officer\n               or agency of the city wherein a determination of the rights or responsibilities of\n               any person is made, shall be conducted in accordance with the procedure set forth\n               in this article. Provided, however, this procedure shall not apply to any hearing\n               before the planning commission, the liquor authority, the board of adjustment, or\n               the city council pertaining to the consideration or adoption of an ordinance nor to\n               any hearing arising from a municipal special improvement district or annexation.\n(Code 1981, § 2-137; Ord. No. 3608, §§ 1, 2, 4-3-2003)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 2-172"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

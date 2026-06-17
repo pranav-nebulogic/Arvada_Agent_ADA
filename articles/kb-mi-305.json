@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "mixed",
+      "neighborhood",
+      "district",
+      "residential",
+      "intended",
+      "neighborhoods",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/178/MX-N-Mixed-Use-Neighborhood-District"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-305",
+    "spreadsheet_id": "MI-305",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "MX-N (Mixed-Use, Neighborhood) District",
+    "summary": "The MX-N (Mixed-Use, Neighborhood) District is designed to facilitate the adaptive reuse of residential buildings in areas with challenging traffic patterns, while promoting new commercial and residential developments that align with the scale of existing neighborhoods. It allows for a variety of residential, commercial, and community uses, with specific classifications indicating whether a use is allowed by-right, limited, or conditional, as detailed in the Land Development Code.",
+    "body": "Intended to allow for and promote adaptive re-use of residential buildings on collector or arterial streets that are not necessarily desirable residential locations due to traffic patterns or volumes or other contextual factors. Also intended to provide for new commercial and residential uses on blocks or corners in neighborhoods where such uses are desired and consistent in scale and height with the adjacent neighborhoods. And to accommodate a mix of low and medium-density residential neighborhoods.\n\nAcronyms:\n\n- Allowed Use By-Right (A)\n- Limited Use (L)\n- Conditional Use (C)\n\n**Note**: If a use is not listed in the table then it is not allowed in the zoning district\n\n1. [Residential Uses](#tab0eeb84ee-00d8-401b-abf9-c3c91849bc8b_0)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Single-Family Detached | L | 3-1-3-2 |\n| Duplex | L | 3-1-3-2 |\n| Townhome | L | 3-1-3-2 |\n| Multiplex | A | N/A |\n| Multifamily | A | N/A |\n| Cottages, Micro-Homes, or Co-Housing | A | N/A |\n| Boarding, Lodging, or Rooming House | A | N/A |\n| Group Home, FFHA | L | 3-1-3-3 |\n| Group Home for Juvenile Offenders | C | 3-1-3-3 |\n| Group Home, Not Specified Above | C | 3-1-3-3 |\n| Live-Work Unit | L | 3-1-3-3 |\n\n1. [Hospitality, Recreation & Entertainment Uses](#tab0eeb84ee-00d8-401b-abf9-c3c91849bc8b_1)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Bar / Tavern / Nightclub | L | 3-1-3-4 |\n| Bed and Breakfast | L | 3-1-3-4 |\n| Brew Pub / Distillery Pub / Limited Winery | L | 3-1-3-4 |\n| Recreation and Amusement, Indoor | A | N/A |\n| Recreation, Outdoor (other) | A | N/A |\n| Restaurant | A | 3-1-3-4 |\n| Restaurant, Fast Food | L | 3-1-3-4 |\n| Theater | A | N/A |\n\n1. [Commercial Uses](#tab0eeb84ee-00d8-401b-abf9-c3c91849bc8b_2)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Animal Day Care / Training | L | 3-1-3-5 |\n| Art Studio / Makerspace | A | 3-1-3-5 |\n| Continuing Care Facility | A | N/A |\n| Office, General or Professional | A | N/A |\n| Retail Sales and Services Type 1 | L | 3-1-3-5 |\n| Veterinary Offices or Clinics | L | 3-1-3-5 |\n| Workshop | A | 3-1-3-5 |\n\n1. [Community, Civic, Educational, Health Care & Institutional Uses](#tab0eeb84ee-00d8-401b-abf9-c3c91849bc8b_3)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Day Care Center, Adult or Child | L | 3-1-3-6 |\n| Funeral Home / Mortuary | L | 3-1-3-6 |\n| Medical Office | A | N/A |\n| Public Lands, Parks, Schools or Buildings | A | N/A |\n| Place of Assembly | L | 3-1-3-6 |\n| Private School, Kindergarten, Elementary, Middle, or High | A | N/A |\n| Private School, Vocational, Trade, College, or University | A | N/A |\n\n1. [Industrial, Processing, Recycling, Storage & Disposal Uses](#tab0eeb84ee-00d8-401b-abf9-c3c91849bc8b_4)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Light Industry | C | 3-1-3-7 |\n| Resource Extraction (Minerals) | C | 3-1-3-7 |\n\n1. [Motor Vehicle Uses](#tab0eeb84ee-00d8-401b-abf9-c3c91849bc8b_5)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Motor Vehicle Repairs and Service, Light | C | 3-1-3-8 |\n\n1. [Utility & Communications Uses](#tab0eeb84ee-00d8-401b-abf9-c3c91849bc8b_6)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Utilities, Major | C | 3-1-3-9 |\n| Utilities, Minor | L | 3-1-3-9 |\n| Overhead Power Lines (110 kV+) | C | 3-1-3-9 |\n| Other Wireless Communications Facilities | L | Chapter 7 |\n| Solar Garden | L | 3-1-3-9 |\n\n1. [Agriculture Uses](#tab0eeb84ee-00d8-401b-abf9-c3c91849bc8b_7)\n\n| Use Classification | Use Allowance | Additional Regulations found in the Land Development Code |\n| --- | --- | --- |\n| Agriculture, Community | A | 3-1-3-10 |\n| Greenhouses/nurseries with retail sales | C | 3-1-3-10 |",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "faq_article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "kb",
+    "permit_type": null,
+    "category": "general",
+    "tags": [
+      "resident",
+      "rebate",
+      "program",
+      "income",
+      "qualified",
+      "residents",
+      "Misc"
+    ],
+    "source_urls": [
+      "https://www.arvadaco.gov/420/Resident-Rebate"
+    ],
+    "scraped_at": "2026-06-17",
+    "content_hash": null,
+    "effective_date": "2026-06-17",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-17",
+    "slug_hint": "arvada-co/general/mi-474",
+    "spreadsheet_id": "MI-474",
+    "spreadsheet_sheet": "Misc"
+  },
+  "content": {
+    "title": "Resident Rebate",
+    "summary": "The City of Arvada's Resident Rebate Program is open until August 31, 2026, offering income-qualified residents rebates of $100 for the first person and $65 for additional household members. Applicants must submit an annual application with proof of income and residency, and eligibility is based on household income limits set by the Department of Housing and Urban Development. For assistance, residents can call the rebate hotline or access the online application form.",
+    "body": "**The Resident Rebate Program is now open and is available until Aug. 31,  2026.**\n\n## About the Resident Rebate\n\nThe City of Arvada offers a rebate to income qualified residents through the Resident Rebate Program. The Program runs from **May through August**. Rebate amounts are $100 for the first person and $65 for additional persons. Partial residency rebates are offered on a pro-rated basis.\n\n**All qualified residents must fill out an application each year and provide proof of income.**\n\n[Fill out the online application form (preferred)](https://arvada-forms.app.transform.civicplus.com/forms/64839)\n\nOR\n\n[Call us](tel:7208987114) to request a paper application be mailed to you.\n\n### **New Applicant****s**\n\nIf this is the **first time**you are applying:\n\n- **S****ubmit proof of residency by providing one of the following**:\n  - ID with address\n  - Lease agreement\n  - Water bill\n- **Submit proof of income** for everyone in the household\n- Every person over 18 is required to **submit a valid photo ID and a completed affidavit**(included on the form)\n\n### **Existing Applicants**\n\nIf you have **applied for the rebate in the past,** a rebate form will be mailed to your home or you can use the online application form while the program is open:\n\n- Fill out the rebate application\n- If anyone turned 18 during the application year, an affidavit and photo ID are required\n- Submit proof of income for everyone in the household\n- If you moved, submit proof of residency (otherwise not required for existing applicants)\n\n## Eligibility\n\nYou may be qualified for the Resident Tax Rebate Program if you **lived within Arvada City limits** during the program year **AND** the gross income for the entire household from all sources, **including Social Security**, is equal to or less than the annual income limit set yearly by the Department of Housing and Urban Development.\n\n| Number in Household (Exemptions) | Maximum Household Income |\n| --- | --- |\n| 1 | $49,050 |\n| 2 | $56,050 |\n| 3 | $63,050 |\n| 4 | $70,050 |\n| 5 | $75,700 |\n| 6 | $81,300 |\n| 7 | $86,900 |\n\nRebates **cannot**be processed until we receive the completed application, affidavit/ID/proof of residency (if necessary), and all income documents.\n\n## Contact Information\n\nYou may call the Resident Rebate hotline at 720-898-7114 to request an application or call 720-898-7100 with additional questions.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "excel-import",
+  "transform_tokens": 0
+}

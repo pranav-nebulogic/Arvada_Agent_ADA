@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "section",
+      "single",
+      "bathroom",
+      "groups",
+      "hereby",
+      "added",
+      "read"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH18BUBURE"
+    ],
+    "scraped_at": "2026-06-10T12:02:26.620343+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 18-428"
+    ],
+    "chapter": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS"
+  },
+  "content": {
+    "title": "Chapter 18 - BUILDINGS AND BUILDING REGULATIONS — Sec. 18-428. - I.P.C. Section 911.4, Single bathroom groups.",
+    "summary": "Section 911.4. Single bathroom groups,\nis hereby added to read as follows:\n\"\n9114. Single bathroom groups.\nA single bathroom group of fixtures may be installed with the drain from an individually\n                  vented lavatory or lavatories serving as a wet vent for a bathtub, shower compartment,…",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 18-428. - I.P.C. Section 911.4, Single bathroom groups.",
+        "a": "Section 911.4. Single bathroom groups,\nis hereby added to read as follows:\n\"\n9114. Single bathroom groups.\nA single bathroom group of fixtures may be installed with the drain from an individually\n                  vented lavatory or lavatories serving as a wet vent for a bathtub, shower compartment,\n                  or floor drain and for a water closet provided all the requirements listed below are\n                  met:\n1.\nNot more than four fixture units drain into a minimum two inch (50.8 mm) diameter\n                  wet vent. Kitchen sinks, dishwashers, or automatic clothes washer's connections are\n                  not permitted.\n2.\nThe horizontal branch drain connects to the stack at the same level as the water closet\n                  drain. In the alternative, the horizontal branch drain may connect to the upper half\n                  of the horizontal portion of the water closet bend at an angle not greater than 45\n                  degrees from the direction of flow.\n3.\nTrap arm sizes and lengths must conform to the requirements of the Colorado Plumbing\n                  Code.\"\n(Ord. No.\n4738\n, § 11, 9-14-2020)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 18-428"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

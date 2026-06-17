@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "continuing",
+      "jurisdiction",
+      "over",
+      "material",
+      "modifications",
+      "manner",
+      "extent"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH91SPDI"
+    ],
+    "scraped_at": "2026-06-10T12:04:46.596999+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 91-34"
+    ],
+    "chapter": "Chapter 91 - SPECIAL DISTRICTS"
+  },
+  "content": {
+    "title": "Chapter 91 - SPECIAL DISTRICTS — Sec. 91-34. - Continuing jurisdiction over material modifications.",
+    "summary": "In the manner and to the extent provided in this chapter, the city council shall maintain\n               continuing jurisdiction over the operations and affairs of the title 32 district and\n               shall exercise its rights in relation thereto.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 91-34. - Continuing jurisdiction over material modifications.",
+        "a": "In the manner and to the extent provided in this chapter, the city council shall maintain\n               continuing jurisdiction over the operations and affairs of the title 32 district and\n               shall exercise its rights in relation thereto.\n(\nOrd. No. 4815\n, § 1, 10-3-2022)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 91-34"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "arvada-co",
+    "city_name": "City of Arvada, CO",
+    "article_type": "ordinance",
+    "permit_type": null,
+    "category": "ordinance",
+    "tags": [
+      "sec",
+      "deletions",
+      "following",
+      "parts",
+      "sections",
+      "subsections",
+      "appendices",
+      "model"
+    ],
+    "source_urls": [
+      "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=PTIICOOR_CH54MOVETR"
+    ],
+    "scraped_at": "2026-06-10T12:02:51.765789+00:00",
+    "content_hash": null,
+    "effective_date": "2026-06-10",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-06-10",
+    "ordinance_refs": [
+      "Sec. 54-32"
+    ],
+    "chapter": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC"
+  },
+  "content": {
+    "title": "Chapter 54 - MOTOR VEHICLES AND TRAFFIC — Sec. 54-32. - Deletions.",
+    "summary": "The following parts, sections, subsections, or appendices of the Model Traffic Code\n               are inapplicable to this city and are therefore expressly deleted:\n(a)\nPart 1, TRAFFIC REGULATION - GENERALLY, Sections 101, 102, 104, 110.5, 111, 113, and\n                  115;\n(b)\nPart 3, EMISSIONS …",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "faqs": [
+      {
+        "q": "Sec. 54-32. - Deletions.",
+        "a": "The following parts, sections, subsections, or appendices of the Model Traffic Code\n               are inapplicable to this city and are therefore expressly deleted:\n(a)\nPart 1, TRAFFIC REGULATION - GENERALLY, Sections 101, 102, 104, 110.5, 111, 113, and\n                  115;\n(b)\nPart 3, EMISSIONS INSPECTION, in its entirety;\n(c)\nPart 4, DIESEL INSPECTION PROGRAM, in its entirety;\n(d)\nPart 5, SIZE-WEIGHT-LOAD, Section 511.2;\n(e)\nPart 8, PEDESTRIANS, Section 804;\n(f)\nPart 12, PARKING, Section 1210;\n(g)\nPart 13, ALCOHOL AND DRUG OFFENSES, in its entirety;\n(h)\nPart 14, OTHER OFFENSES, Subsection (9) of section 1409;\n(i)\nPart 16, ACCIDENTS AND ACCIDENT REPORTS, in its entirety;\n(j)\nPart 17, PENALTIES AND PROCEDURES, Preface, sections 1701, 1702, 1703, 1704, 1706,\n                  1707, 1708, 1709, 1710, 1711, 1712, 1713, 1714, 1715, 1716, and 1717;\n(k)\nPart 18, VEHICLES ABANDONED ON PUBLIC PROPERTY, in its entirety;\n(l)\nPart 19, SCHOOL BUS REQUIREMENTS, Sections 1901, 1902, and 1904;\n(m)\nAll sections or subsections of the 2010 edition of the Model Traffic Code that categorize\n                  violations into classes of traffic infractions, traffic offenses, or misdemeanors,\n                  or which set forth a specific penalty for a violation, whether monetary or otherwise;\n(n)\nAppendix, Part A, Instructions for adopting the Model Traffic Code by reference;\n(o)\nAppendix, Part B, Specimen ordinance for adopting the Model Traffic Code by reference;\n(p)\nAppendix, Part C, Specimen notice of hearing;\n(q)\nAppendix, Part D, Specimen Certification - Posting of ordinance;\n(r)\nAppendix, Part E, Instructions for amending Model Traffic Code previously adopted\n                  by reference;\n(s)\nAppendix, Part F, Listing of amendments for updating previous edition of Model Traffic\n                  Code adopted by reference; and\n(t)\nAppendix, Part G, Specimen certification of Model Traffic Code.\n(\nOrd. No. 4384, § 2, 4-15-2013\n)"
+      }
+    ],
+    "ordinance_refs": [
+      "Sec. 54-32"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "direct",
+  "transform_tokens": 0
+}
