@@ -29,13 +29,34 @@ from pydantic import BaseModel, Field
 import db
 from brand import scrub
 from config import settings
-from agent import llm
+from agent import llm, request_types
 from agent.obs import log
 from agent.graph import get_graph, run_prep
 from agent.nodes.cache import write_cache
 from agent.nodes.judge import judge
 from agent.nodes.generate import astream_answer, citations_for
 from agent.state import AgentState
+
+def _apply_payload(prepped: AgentState) -> dict | None:
+    """Deep-link CTA when the message maps to a known request type.
+
+    Ada *guides* the citizen to the citizen-portal apply page; it never creates
+    the application (the AI stays out of the write/decision path)."""
+    info = (prepped.meta or {}).get("apply")
+    if info:
+        return info
+    t = request_types.get((prepped.entities or {}).get("request_type"))
+    if not t:
+        return None
+    surface = request_types.surface_for(prepped.user_type)
+    return {
+        "code": t.key,
+        "label": t.label,
+        "module": t.module,
+        "surface": surface,
+        "url": request_types.apply_url(t.key, surface, settings.portal_base_url),
+    }
+
 
 app = FastAPI(title="Arvada RAG Agent", version="0.2.0")
 
@@ -412,6 +433,9 @@ async def chat_stream(req: ChatRequest, request: Request):
                         "contact": prepped.meta.get("escalation_contact"),
                     }
                 )
+                apply = _apply_payload(prepped)
+                if apply:
+                    yield _sse({"type": "apply", **apply})
                 for piece in _chunk_text(scrub(prepped.answer or "")):
                     yield _sse({"type": "token", "content": piece})
                 yield _sse(
@@ -421,6 +445,7 @@ async def chat_stream(req: ChatRequest, request: Request):
                         "intent": "ESCALATE",
                         "answer": scrub(prepped.answer or ""),
                         "escalation_ticket_id": prepped.escalation_ticket_id,
+                        "apply": apply,
                         "timing": _timing(prepped),
                     }
                 )
@@ -449,6 +474,10 @@ async def chat_stream(req: ChatRequest, request: Request):
             if citations:
                 yield _sse({"type": "citation", "citations": citations})
 
+            apply = _apply_payload(prepped)
+            if apply:
+                yield _sse({"type": "apply", **apply})
+
             # ── Grounding check (RAG answers only) -> optional warning event ────
             full_answer = "".join(answer_parts)
             # Cache the RAW cards (formatted at the edge), keeping cache/API consistent.
@@ -465,6 +494,7 @@ async def chat_stream(req: ChatRequest, request: Request):
                     "intent": prepped.intent or "kb",
                     "answer": full_answer,
                     "warning": final_state.warning,
+                    "apply": apply,
                     "timing": _timing(prepped),
                 }
             )

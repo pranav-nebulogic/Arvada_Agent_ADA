@@ -66,6 +66,16 @@ class Settings(BaseSettings):
     internal_service_token: str = "local-dev-token-change-in-prod"
     default_city_id: str = "arvada-co"
 
+    # ── Portal (request-type deep-links) ─────────────────────────────────────
+    # Tenant hostname that serves BOTH surfaces, routed by path (ADR-0035): the
+    # citizen apply flow at the root (/permits/apply/<code>) and the agent
+    # workbench at /agent/*. When a message maps to a known request type, Ada
+    # deep-links to the surface the requester belongs to — citizen vs staff (see
+    # request_types.surface_for). Empty -> emit a relative path for the UI to
+    # resolve. Ada guides; it never creates the application (AI out of the write
+    # path). e.g. https://arvada.smartlp-pilot.nebulogic.com
+    portal_base_url: str = ""
+
     # ── Engine integration (STATUS_LOOKUP) ──────────────────────────────────
     # Empty until the Spring proxy + s2s auth is wired (Phase 3); the
     # status_lookup tool gracefully falls back to the portal/phone when unset.

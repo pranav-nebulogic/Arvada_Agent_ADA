@@ -92,6 +92,7 @@ Return ONLY a JSON object:
   "entities": {
      "permit_type": <canonical key or null>,
      "permit_types": <array of canonical keys when the user names SEVERAL projects, else null>,
+     "request_type": <short phrase or null — see below>,
      "fee_valuation": <number or null>,
      "reference_number": <permit/case number string or null>,
      "form_field_name": <string or null>
@@ -119,6 +120,10 @@ needing careful reasoning across several requirements.
 
 permit_type must be one of (or null): building_permit, building_permit_solar, building_permit_windows_siding,
 food_truck_permit, str_permit, special_event_permit, retaining_wall.
+request_type: the SPECIFIC permit, license, or planning application the resident wants to apply for / start, \
+named in their own plain words (e.g. "fence", "right of way", "block party", "plumbing license", "variance", \
+"new single family home", "solar"). This is broader than permit_type — capture it whenever the resident names \
+a concrete thing they want to do or apply for, even if you can't price it. Null only if no specific request is named.
 fee_valuation: extract the project dollar value as a plain number (e.g. "$25,000" -> 25000). Null if absent."""
 
 

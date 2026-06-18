@@ -103,8 +103,10 @@ async def test_judge_flags_ungrounded(monkeypatch):
     monkeypatch.setattr(llm, "complete_json", fake_json)
     chunks = [{"content_text": "t", "section_type": "fees", "article_title": "A", "source_url": "u"}]
     out = await judge(_state(answer="It costs $999", reranked_chunks=chunks))
+    # Grounding miss is recorded (judge_passed False) but NOT surfaced to the user
+    # as a disclaimer (product decision 2026-06-18) — no `warning` field.
     assert out["judge_passed"] is False
-    assert out["warning"]
+    assert "warning" not in out
 
 
 async def test_judge_passes_when_grounded(monkeypatch):

@@ -5,8 +5,9 @@ Post-generation grounding check (small/fast model). Only judges GROUNDED answers
 (RAG path) — deterministic fee answers, status fallbacks, escalations, and the
 honest "I don't know" path are trusted by construction and skipped.
 
-On a failed check it sets `judge_passed=False` + a `warning`, which api.py emits
-as a `warning` SSE event so the client can flag the answer.
+On a failed check it sets `judge_passed=False` and logs the unsupported claims for
+telemetry. It deliberately does NOT surface a user-facing disclaimer (product
+decision 2026-06-18): the grounding signal stays in logs/metrics, not in the UI.
 """
 from __future__ import annotations
 
@@ -15,11 +16,6 @@ from agent import llm, prompts
 from agent.nodes.generate import group_sources
 from agent.obs import log
 from agent.state import AgentState
-
-WARNING_TEXT = (
-    "Parts of this answer could not be fully verified against the city's records. "
-    "Please confirm important details with the City of Arvada."
-)
 
 
 def _should_judge(state: AgentState) -> bool:
@@ -49,7 +45,14 @@ async def judge(state: AgentState) -> dict:
         grounded = bool(verdict.get("grounded", True))
         if grounded:
             return {"judge_passed": True}
-        return {"judge_passed": False, "warning": WARNING_TEXT}
+        # Record the grounding miss for telemetry, but do NOT show a user-facing
+        # disclaimer (product decision 2026-06-18).
+        log.warning(
+            "judge_grounding_failed",
+            reason=str(verdict.get("reason", ""))[:300],
+            unsupported=verdict.get("unsupported"),
+        )
+        return {"judge_passed": False}
     except Exception as exc:
         # Never block an answer on judge failure — but log it: a silently disabled
         # grounding check means hallucinations ship unflagged.

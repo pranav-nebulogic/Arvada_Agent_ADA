@@ -337,6 +337,10 @@
   .notice.escalate { background: rgba(52,211,153,.08); border: 1px solid rgba(52,211,153,.35); color: #a7f3d0; }
   .notice .ticket { font-family: ui-monospace, monospace; font-weight: 700; letter-spacing: 1px; }
 
+  /* "Services" card (request-type deep-links) reuses the .sources / .src-list
+     styling, so the links read exactly like the Sources links — just under a
+     "Services" heading. Ada guides the citizen to the apply page; never creates it. */
+
   /* Typing dots */
   .typing { display: inline-flex; gap: 5px; padding: 6px 2px; }
   .typing i { width: 7px; height: 7px; border-radius: 50%; background: var(--cyan); opacity: .4; animation: bounceDot 1.2s ease-in-out infinite; }
@@ -887,6 +891,7 @@ function restoreThread() {
       const next = thread[i + 1];
       if (next && next.role === "assistant") {
         addBotMsg(next.content, turn);
+        addApplyCta(next.apply, turn);
         addCitations(next.citations, turn);
         addMsgTools(turn, next.content);
         i++;
@@ -894,6 +899,7 @@ function restoreThread() {
     } else {
       const turn = newTurn();
       addBotMsg(m.content, turn);
+      addApplyCta(m.apply, turn);
       addCitations(m.citations, turn);
       addMsgTools(turn, m.content);
     }
@@ -965,6 +971,7 @@ function addToolPill(name, container = chat) {
 const SRC_ICON = {
   file:  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7z"/><path d="M14 2v5h5"/></svg>`,
   arrow: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg>`,
+  service: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>`,
 };
 
 /* Sources section — rendered at the end of the assistant message (under a
@@ -1090,6 +1097,51 @@ function addNotice(kind, html, container = chat) {
   container.appendChild(n);
 }
 
+/* Services section — request-type deep-links, rendered under a "Services" heading
+   (mirrors the Sources card) above the Sources list. Built from the `apply` SSE
+   event(s). Ada guides the citizen to the apply page but never creates the request.
+   Accepts one apply object or an array, so multiple services can list together. */
+function addApplyCta(apply, container = chat) {
+  const items = (Array.isArray(apply) ? apply : [apply]).filter(a => a && a.url && a.label);
+  if (!items.length) return;
+
+  const wrap = document.createElement("div");
+  wrap.className = "sources services";
+
+  const head = document.createElement("div");
+  head.className = "src-h";
+  head.innerHTML = SRC_ICON.service;
+  head.appendChild(document.createTextNode("Services"));
+  wrap.appendChild(head);
+
+  const ul = document.createElement("ul");
+  ul.className = "src-list";
+  items.forEach(it => {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = it.url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.title = `Start your ${it.label} application`;
+    const span = document.createElement("span");
+    span.appendChild(document.createTextNode("Start your "));
+    const strong = document.createElement("strong");
+    strong.textContent = it.label;
+    span.appendChild(strong);
+    span.appendChild(document.createTextNode(" application"));
+    a.appendChild(span);
+    const arr = document.createElement("span");
+    arr.className = "lk-arr";
+    arr.setAttribute("aria-hidden", "true");
+    arr.innerHTML = LINK_ARROW;
+    a.appendChild(arr);
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+  wrap.appendChild(ul);
+  container.appendChild(wrap);
+}
+
 /* Keep the spacer sized to the viewport when the window resizes. */
 window.addEventListener("resize", () => syncBottomSpacer(currentTurn));
 
@@ -1115,6 +1167,7 @@ async function sendMessage() {
 
   let answer = "";
   let citations = null;
+  let applyCta = null;
   let firstToken = true;
   let toolPill = null;
 
@@ -1169,6 +1222,9 @@ async function sendMessage() {
             break;
           case "citation":
             break; // rendered from the done payload
+          case "apply":
+            applyCta = ev; // rendered after the answer (in the done handler)
+            break;
           case "warning":
             addNotice("warning", "⚠️ " + (ev.message || "Please verify this answer with the city."), turn);
             break;
@@ -1181,7 +1237,9 @@ async function sendMessage() {
           case "done":
             answer = ev.answer || answer;
             citations = ev.citations || null;
+            applyCta = ev.apply || applyCta;
             bubble.innerHTML = renderMd(answer);
+            addApplyCta(applyCta, turn);
             addCitations(citations, turn);
             addMsgTools(turn, answer);
             syncBottomSpacer(turn);
@@ -1197,7 +1255,7 @@ async function sendMessage() {
 
     bubble.querySelector(".caret")?.remove();
     if (!answer) bubble.innerHTML = renderMd("_…no answer received. Is the agent running?_");
-    thread.push({ role: "assistant", content: answer, citations });
+    thread.push({ role: "assistant", content: answer, citations, apply: applyCta });
     saveThread();
     salute(miniBot);  // mission complete 🫡
   } catch (e) {

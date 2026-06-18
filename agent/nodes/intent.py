@@ -10,7 +10,7 @@ from __future__ import annotations
 import re
 
 from config import settings
-from agent import llm
+from agent import llm, request_types
 from agent.fee_tables import normalize_permit_type
 from agent.obs import log
 from agent.prompts import INTENT_SYSTEM, intent_user
@@ -56,9 +56,16 @@ async def intent(state: AgentState) -> dict:
             seen: set = set()
             permit_types = [t for t in norm if t and not (t in seen or seen.add(t))]
             permit_types = permit_types or None
+        # Canonical Arvada request type (smart-lp code) for deep-link + routing.
+        # Match the free-text phrase first; fall back to the fee permit_type word.
+        request_type = (
+            request_types.normalize(ents.get("request_type"))
+            or request_types.normalize(ents.get("permit_type"))
+        )
         entities = {
             "permit_type": normalize_permit_type(ents.get("permit_type")) or state.permit_type,
             "permit_types": permit_types,
+            "request_type": request_type,
             "fee_valuation": _coerce_valuation(ents.get("fee_valuation")),
             "reference_number": ents.get("reference_number"),
             "form_field_name": ents.get("form_field_name") or state.form_field,

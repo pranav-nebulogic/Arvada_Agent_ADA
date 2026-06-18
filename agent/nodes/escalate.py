@@ -11,7 +11,7 @@ from __future__ import annotations
 
 import db
 from config import settings
-from agent import prompts
+from agent import prompts, request_types
 from agent.obs import log
 from agent.state import AgentState
 
@@ -32,6 +32,12 @@ _BUILDING_PERMITS = {
 
 
 def _route_department(state: AgentState) -> str:
+    # Prefer the canonical request type when we have one — it carries the owning
+    # department, mapped to a contact bucket with a verified phone number.
+    rt = (state.entities or {}).get("request_type")
+    if rt:
+        return request_types.contact_bucket(rt)
+
     pt = (state.entities or {}).get("permit_type") or state.permit_type
     text = f"{state.query} {state.standalone_query or ''}".lower()
 
@@ -84,10 +90,24 @@ async def escalate(state: AgentState) -> dict:
         f"including appeals, complaints, or anything that needs a person to review."
     )
 
+    # If we recognized a specific request type, offer a deep-link to start it.
+    # Ada guides the citizen to the apply page — it does not create the record.
+    meta = {**state.meta, "escalation_dept": dept_key, "escalation_contact": dept}
+    rt = (state.entities or {}).get("request_type")
+    info = request_types.get(rt)
+    if info:
+        surface = request_types.surface_for(state.user_type)
+        url = request_types.apply_url(info.key, surface, settings.portal_base_url)
+        answer += (
+            f"\n\nWhen you're ready, you can start the **{info.label}** "
+            f"application here: {url}"
+        )
+        meta["apply"] = {"code": info.key, "label": info.label, "module": info.module, "url": url}
+
     return {
         "intent": "ESCALATE",
         "answer": answer,
         "escalation_ticket_id": ticket_id,
         "citations": [],
-        "meta": {**state.meta, "escalation_dept": dept_key, "escalation_contact": dept},
+        "meta": meta,
     }
