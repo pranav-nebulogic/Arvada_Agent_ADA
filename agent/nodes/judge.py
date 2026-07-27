@@ -21,7 +21,13 @@ from agent.state import AgentState
 def _should_judge(state: AgentState) -> bool:
     if not state.answer:
         return False
-    if state.fee_result or state.status_result or state.changes_result or state.project_plan:
+    # A DETERMINISTIC fee result is trusted by construction -- the engine computed it,
+    # not the model. But `no_schedule` means the opposite: there was no fee row, so
+    # graph.py routed the question into retrieval and the LLM wrote the answer from
+    # fee-schedule article text. Those are the answers most likely to misquote a
+    # dollar figure, and skipping them left them as the ONLY unjudged RAG answers.
+    deterministic_fee = bool(state.fee_result) and not state.fee_result.get("no_schedule")
+    if deterministic_fee or state.status_result or state.changes_result or state.project_plan:
         return False
     if state.intent == "ESCALATE":
         return False
@@ -38,7 +44,10 @@ async def judge(state: AgentState) -> dict:
     try:
         verdict = await llm.complete_json(
             model=settings.judge_model,
-            system=prompts.JUDGE_SYSTEM,
+            # Per-city: the judge whitelists THIS city's phone/website as approved
+            # boilerplate, so the deployment default would flag another city's own
+            # contact details as an unsupported claim.
+            system=prompts.judge_system(state.city_id),
             user=prompts.judge_user(state.answer or "", context),
             reasoning_effort=settings.small_model_reasoning_effort,
         )

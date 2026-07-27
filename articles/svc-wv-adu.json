@@ -1,0 +1,55 @@
+{
+  "article_id": "svc-wv-adu",
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "service_guide",
+    "permit_type": null,
+    "category": "permits",
+    "tags": [
+      "adu",
+      "accessory dwelling unit",
+      "housing"
+    ],
+    "source_urls": [
+      "https://www.codepublishing.com/WA/Woodinville/"
+    ],
+    "scraped_at": "2026-07-27T14:32:25.174449+00:00",
+    "content_hash": "1dca555ba52ae0ad8a1901d9e553bc40c365dc52c699f9fcc7f23acd81d79a9c",
+    "effective_date": null,
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-27",
+    "provenance": "Derived from Woodinville Municipal Code sections; interim content pending city-supplied descriptions."
+  },
+  "content": {
+    "title": "Accessory Dwelling Units (ADUs) in Woodinville",
+    "summary": "An accessory dwelling unit is a second, smaller dwelling on a lot with a house. Explains how this works in the City of Woodinville, WA, based on the Woodinville Municipal Code (WMC 21.41). Includes what the code requires and where fees come from.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "body": "# Accessory Dwelling Units (ADUs) in Woodinville\n\nAn accessory dwelling unit is a second, smaller dwelling on a lot with a house.\n\n## What the Woodinville Municipal Code says\n\n**WMC 21.41.010 - General provisions**\n(1) This chapter establishes special development standards that apply to specific accessory uses identified in Chapter 21.21 WMC. (2) The special development standards prescribed by this chapter shall be applied in combination with other development regulations applicable to the property. (3) Whe...\n\n**WMC 21.41.020 - Accessory dwelling unit**\nThis section applies to accessory dwelling units. (1) Where Table 21.21.050 allows accessory dwelling units, a maximum of two accessory dwelling units per parent lot (see definition of \"parent lot\" in WMC 21.11A.170) may be allowed. (2) Accessory dwelling units are included in the determination o...\n\n**WMC 21.41.030 - Level 1 home business**\n(1) This section applies to uses meeting the definition of \"home business level 1\" as defined in WMC 21.11B.090.\n\n**WMC 21.41.040 - Bed and breakfast inns**\nWhere bed and breakfast inns are allowed as an accessory use pursuant to the use tables in Chapter 21.21 WMC, the following apply: (1) The operators of the bed and breakfast inn must occupy the building as their principal residence; (2) In addition to those required for the dwelling unit, one off...\n\n**WMC 21.41.050 - Indoor recreation and sports facilities in a residential zone**\nWhere indoor recreation and sports facilities are allowed as an accessory use pursuant to the use tables in Chapter 21.21 WMC, the indoor recreation and sports facility shall be allowed only as an accessory to a residential development and be limited to use by residents and the residents' guests ...\n\n**WMC 21.41.060 - Outdoor recreation and sports facilities**\nWhere outdoor recreation and sports facilities are allowed as an accessory use pursuant to the use tables in Chapter 21.21 WMC, the following conditions apply: (1) Except in the Public/Institutional zone, outdoor recreation and sports facilities shall be allowed only as an accessory to a resident...\n\n**WMC 21.41.070 - Wholesale trade establishments**\nWhere wholesale trade establishments are allowed as an accessory use pursuant to the use tables in Chapter 21.21 WMC, the wholesale trade must be accessory to a permitted primary use and cannot occupy more than 49 percent of the gross floor area of the combined wholesale trade and primary use on ...\n\n**WMC 21.41.080 - Helipads**\nWhere helipads are allowed as an accessory use pursuant to the use tables in Chapter 21.21 WMC, the helipad shall be accessory to a law-enforcement, fire department, or hospital use. (Ord. 737 2 (Att. A), 2022)\n\n**WMC 21.41.090 - Long-term care facilities, ambulatory/outpatient clinics**\nWhere long-term care facilities are allowed as an accessory use pursuant to the use tables in Chapter 21.21 WMC, the long-term care facility shall be accessory to a hospital use. (Ord. 737 2 (Att. A), 2022)\n\n**WMC 21.41.100 - Daycare facilities in residential zones**\nWhere daycare facilities are allowed as an accessory use in a residential zone pursuant to the use tables in Chapter 21.21 WMC, the daycare facilities must satisfy the following: (1) If located within a dwelling unit, the daycare must not occupy more than 49 percent of the gross floor area of the...\n\n**WMC 21.41.110 - Educational facilities in residential zones**\nWhere educational facilities are allowed as an accessory use in a residential zone pursuant to the use tables in Chapter 21.21 WMC, the educational facility must be accessory to a dwelling unit and satisfy the following: (1) No more than 12 students are allowed on site at any one time with a maxi...\n\n**WMC 21.41.120 - Local collection recycle facilities**\nWhere local collection recycle facilities are allowed as an accessory use pursuant to the use tables in Chapter 21.21 WMC, the facility must be accessory to a permitted use; and (1) Facilities are limited to drop boxes only unless collection operations are contained wholly within an enclosed buil...\n\n## Fees\n\nPermit fees are set by the City's adopted fee schedule (2026 Fee Schedule, Resolution No. 668). Building permit fees are calculated from the project's construction valuation, not from square footage.\n\n## Where this came from\n\nDerived from the Woodinville Municipal Code, sections: WMC 21.41.010, WMC 21.41.020, WMC 21.41.030, WMC 21.41.040, WMC 21.41.050, WMC 21.41.060, WMC 21.41.070, WMC 21.41.080, WMC 21.41.090, WMC 21.41.100, WMC 21.41.110, WMC 21.41.120.\n",
+    "faqs": [],
+    "ordinance_refs": [
+      "WMC 21.41.010",
+      "WMC 21.41.020",
+      "WMC 21.41.030",
+      "WMC 21.41.040",
+      "WMC 21.41.050",
+      "WMC 21.41.060",
+      "WMC 21.41.070",
+      "WMC 21.41.080",
+      "WMC 21.41.090",
+      "WMC 21.41.100",
+      "WMC 21.41.110",
+      "WMC 21.41.120"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "wmc-derived-explainer",
+  "transform_tokens": 0
+}

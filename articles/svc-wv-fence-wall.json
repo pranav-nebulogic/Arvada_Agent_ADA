@@ -1,0 +1,50 @@
+{
+  "article_id": "svc-wv-fence-wall",
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "service_guide",
+    "permit_type": null,
+    "category": "permits",
+    "tags": [
+      "fence",
+      "retaining wall",
+      "rockery"
+    ],
+    "source_urls": [
+      "https://www.codepublishing.com/WA/Woodinville/"
+    ],
+    "scraped_at": "2026-07-27T14:32:25.175954+00:00",
+    "content_hash": "fc1cb0404145accafcd1b7e8b3ac74750effecb49e9fd54c430b7ba7d3b83b6f",
+    "effective_date": null,
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-27",
+    "provenance": "Derived from Woodinville Municipal Code sections; interim content pending city-supplied descriptions."
+  },
+  "content": {
+    "title": "Fences and Retaining Walls in Woodinville",
+    "summary": "Fences, rockeries, and retaining walls are regulated by height, location, and material. Explains how this works in the City of Woodinville, WA, based on the Woodinville Municipal Code (WMC 21.40). Includes what the code requires and where fees come from.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "body": "# Fences and Retaining Walls in Woodinville\n\nFences, rockeries, and retaining walls are regulated by height, location, and material.\n\n## What the Woodinville Municipal Code says\n\n**WMC 21.40.010 - Fences and retaining walls**\n(1) General Provisions. (a) Fences, rockeries, and retaining walls are permitted in all zones subject to the provisions in this section. (b) The construction of fences, rockeries, and retaining walls require a building permit unless exempt pursuant to Chapter 21.62 WMC, Building Codes. (c) Fences...\n\n**WMC 21.40.020 - Storage area for the collection of recyclables and solid waste**\n(1) Applicability.\n\n**WMC 21.40.030 - Animal keeping**\n(1) Purpose and Applicability. The purpose of this section is to support the raising and keeping of animals in the City by setting animal densities and by implementing applicable best management practices for land used to accommodate animals in ways which reduce the impact on the environment.\n\n**WMC 21.40.040 - Site lighting**\nThe following requirements shall apply to exterior lighting: (1) Light sources, both direct and nondirect, shall be selected and placed so that glare produced by any light source does not extend beyond the property lines, except onto adjoining sidewalks to the property. (2) Illumination levels sh...\n\n**WMC 21.40.050 - Drive-through standards**\n(1) The standards of this section regulate the installation of drive-through facilities to ensure their design, operation, and associated impacts can effectively be mitigated.\n\n**WMC 21.40.060 - Sight distance requirements**\n(1) No new development, redevelopment, and maintenance of existing conditions (e.g., parking vegetation growth, or other obstructions) shall result in obstruction of sight distance to motor vehicle operators as determined by the Public Works Director.\n\n**WMC 21.40.070 - Adaptive reuse of nonresidential buildings**\n(1) The intent of these provisions is to provide opportunities for reusing nonresidential buildings in residential zones that are structurally sound, but have lost their nonconforming use rights, with new uses to extend their economic life.\n\n## Fees\n\nPermit fees are set by the City's adopted fee schedule (2026 Fee Schedule, Resolution No. 668). Building permit fees are calculated from the project's construction valuation, not from square footage.\n\n## Where this came from\n\nDerived from the Woodinville Municipal Code, sections: WMC 21.40.010, WMC 21.40.020, WMC 21.40.030, WMC 21.40.040, WMC 21.40.050, WMC 21.40.060, WMC 21.40.070.\n",
+    "faqs": [],
+    "ordinance_refs": [
+      "WMC 21.40.010",
+      "WMC 21.40.020",
+      "WMC 21.40.030",
+      "WMC 21.40.040",
+      "WMC 21.40.050",
+      "WMC 21.40.060",
+      "WMC 21.40.070"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "wmc-derived-explainer",
+  "transform_tokens": 0
+}

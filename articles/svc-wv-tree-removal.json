@@ -1,0 +1,58 @@
+{
+  "article_id": "svc-wv-tree-removal",
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "service_guide",
+    "permit_type": null,
+    "category": "permits",
+    "tags": [
+      "tree",
+      "tree removal",
+      "arborist"
+    ],
+    "source_urls": [
+      "https://www.codepublishing.com/WA/Woodinville/"
+    ],
+    "scraped_at": "2026-07-27T14:32:25.186512+00:00",
+    "content_hash": "1d5fd88495da1677c8aabc7dd6177645ffe9d2344a76152fb9b1e667958bc37b",
+    "effective_date": null,
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-27",
+    "provenance": "Derived from Woodinville Municipal Code sections; interim content pending city-supplied descriptions."
+  },
+  "content": {
+    "title": "Tree Removal and Retention in Woodinville",
+    "summary": "Trees are protected by the City's tree regulations. Explains how this works in the City of Woodinville, WA, based on the Woodinville Municipal Code (WMC 21.50). Includes what the code requires and where fees come from.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {},
+    "contact": {},
+    "body": "# Tree Removal and Retention in Woodinville\n\nTrees are protected by the City's tree regulations.\n\n## What the Woodinville Municipal Code says\n\n**WMC 21.50.010 - Purpose and intent**\n(1) Introduction. Trees are integral to Woodinville's community character and protect public health, safety, and general welfare. Protecting, enhancing, and maintaining healthy trees, groves of trees and vegetation are key community values.\n\n**WMC 21.50.020 - Applicability**\n(1) General. Tree removal, trimming, or vegetation clearing within the City limits shall be conducted in accordance to this chapter regardless of whether a permit is required. (2) Permit Required.\n\n**WMC 21.50.030 - Exemptions**\n(1) Exemptions. The following activities are exempt from the provisions of this chapter: (a) Any tree that poses a high or extreme risk according to ISA tree risk assessment to life or property, due to a storm event such as a wind storm or ice storm, may be removed without first obtaining a permit.\n\n**WMC 21.50.040 - City Tree Fund established**\n(1) Fund Established. A City Tree Fund is established for the collection of any funds used for the purpose and intent set forth by this chapter. (2) Funding Sources.\n\n**WMC 21.50.050 - Tree permit**\n(1) When Required. Unless otherwise exempted in WMC 21.50.030, a development project requiring a construction permit or any proposal to remove trees subject to this chapter shall obtain a tree permit. (2) Submittal Materials. The following materials are required to obtain a tree permit.\n\n**WMC 21.50.060 - Minimum tree density**\n(1) Minimum Tree Density Required.\n\n**WMC 21.50.070 - and include supplemental trees equal to the number of tree credits illegally removed**\n(a) In the event the violators cannot restore the unlawfully removed or damaged trees due to site conditions as determined by the Director, the violators shall make payment to the City Tree Fund.\n\n**WMC 21.50.070 - Tree removal on single-family sites with no construction**\n(1) Sites with No Construction.\n\n**WMC 21.50.080 - Tree removal for subdivisions or short subdivisions**\n(1) Subdivisions and Short Subdivisions. This section applies to tree removal associated with applications for subdivision or short subdivision. (2) Performance Requirements.\n\n**WMC 21.50.090 - Tree removal in critical areas**\n(1) Tree Removal in Critical Areas. Within critical areas or critical area buffers, only hazard, nuisance, or dead trees may be removed or trimmed.\n\n**WMC 21.50.100 - Supplemental tree planting requirements**\n(1) Supplemental Trees. Sites and activities requiring supplemental trees shall be planted to achieve the required minimum tree density. Tree density credits for supplemental trees shall be calculated pursuant to WMC 21.50.060. (2) Tree Species.\n\n**WMC 21.50.110 - Alternative compliance**\n(1) Additional Density Credits.\n\n**WMC 21.50.120 - Tree protection during construction**\n(1) Tree protection measures shall be installed prior to development activity or initiating tree removal on the site. These standards must be adhered to and included on grading and building plans as necessary.\n\n**WMC 21.50.130 - Tree maintenance requirements**\n(1) The following maintenance requirements apply to all trees planted or preserved consistent with this chapter: (a) Responsibility for Regular Maintenance. The applicant, landowner, or successors in interest shall be responsible for the regular maintenance of the trees.\n\n**WMC 21.50.140 - Additional enforcement**\nIn addition to the enforcement provisions set forth in Chapters 1.06 and 21.12 WMC, the following shall apply to enforcement of the tree code: (1) Tree Restoration.\n\n## Fees\n\nPermit fees are set by the City's adopted fee schedule (2026 Fee Schedule, Resolution No. 668). Building permit fees are calculated from the project's construction valuation, not from square footage.\n\n## Where this came from\n\nDerived from the Woodinville Municipal Code, sections: WMC 21.50.010, WMC 21.50.020, WMC 21.50.030, WMC 21.50.040, WMC 21.50.050, WMC 21.50.060, WMC 21.50.070, WMC 21.50.070, WMC 21.50.080, WMC 21.50.090, WMC 21.50.100, WMC 21.50.110, WMC 21.50.120, WMC 21.50.130, WMC 21.50.140.\n",
+    "faqs": [],
+    "ordinance_refs": [
+      "WMC 21.50.010",
+      "WMC 21.50.020",
+      "WMC 21.50.030",
+      "WMC 21.50.040",
+      "WMC 21.50.050",
+      "WMC 21.50.060",
+      "WMC 21.50.070",
+      "WMC 21.50.070",
+      "WMC 21.50.080",
+      "WMC 21.50.090",
+      "WMC 21.50.100",
+      "WMC 21.50.110",
+      "WMC 21.50.120",
+      "WMC 21.50.130",
+      "WMC 21.50.140"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "wmc-derived-explainer",
+  "transform_tokens": 0
+}
