@@ -63,6 +63,41 @@ class Settings(BaseSettings):
     rerank_skip_enabled: bool = True
     rerank_skip_score_gap: float = 0.35
 
+    # Run an UNFILTERED hybrid search concurrently with intent classification,
+    # instead of waiting for intent and then searching. Measured: intent ~1.3s
+    # and retrieve ~1.5s run back-to-back today, and only 3 of 12 sample queries
+    # produce a permit_type at all.
+    #
+    # Speculative, never lossy: the prefetch is USED only when intent reports no
+    # permit_type. When it does report one we discard the prefetch and run the
+    # same filtered query as today, because the filter is not a subset of the
+    # unfiltered ranking -- measured, the filtered top-10 for "what permits do I
+    # need for a deck" shares 0 of 10 chunks with the unfiltered top-100, so
+    # over-fetching cannot substitute for it.
+    #
+    # Net: ~75% of queries save an LLM call's worth of wall clock; ~25% pay one
+    # wasted (concurrent) DB query.
+    #
+    # DEFAULT OFF: correct, but not worth it in production.
+    #
+    # Correctness is settled -- with the intent output held FIXED, 12/12 queries
+    # returned byte-identical chunk sets and the prefetch was reused on 8 of 12.
+    # (Holding intent fixed matters: a first attempt let the classifier re-run
+    # per path, and its own run-to-run variance looked like a regression.)
+    #
+    # But an A/B on the deployed container showed NO win: median TTFT 9.37s with
+    # this on vs 8.55s with it off, over 4 queries x 3 runs. The reason is that
+    # the per-node numbers that motivated it were measured from a developer
+    # laptop, where every DB round trip crosses a continent -- retrieve looked
+    # like ~1.5s. In-datacenter the app and Postgres are in the same region, so
+    # retrieve is a small fraction of that and overlapping it with a ~1.3s
+    # classifier saves almost nothing, while still costing a speculative query.
+    #
+    # Kept because it is tested and lossless: flip to true (or set
+    # PARALLEL_INTENT_RETRIEVE=true) if in-container timing ever shows retrieve
+    # is actually expensive. Do not enable on laptop measurements again.
+    parallel_intent_retrieve: bool = False
+
     # ── Cache / memory ──────────────────────────────────────────────────────
     semantic_cache_threshold: float = 0.92
     semantic_cache_ttl_seconds: int = 86400
