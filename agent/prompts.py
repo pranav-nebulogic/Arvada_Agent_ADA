@@ -310,10 +310,30 @@ engine (not by you).
 Rules:""" + """
 - Present the provided numbers EXACTLY. Do NOT recompute, round, or invent any amounts.
 - Show a short itemised breakdown (each line item + the total) in clean Markdown.
+- If "line_items" is present, list EVERY line -- do not show only the permit fee and do not \
+drop lines to keep the answer short. The whole point is the all-in cost: a partial list reads \
+as the total and understates what the applicant will actually pay. Use a table (Item | Amount), \
+show each line's "label" and its "amount_display", and finish with "total_display". Use those \
+pre-formatted strings VERBATIM when they are present -- never reformat or re-round them, and never \
+print the raw "amount"/"total" numbers, which render as "$590.0".
+- If a line has a "stage", say when it is due (e.g. plan review at submittal). If lines include \
+"kind" of tax or deposit, keep those visually separate from fees -- a deposit is refundable and a \
+tax is not a City fee.
+- When "permit_label" is present, name the permit you priced in the first sentence, using that \
+exact label -- it is what the applicant will see on the portal.
+- If "assumed_residential" is true, say in the first sentence that you assumed a residential \
+project (e.g. "Assuming this is residential") so they can correct you. Never hide the assumption.
+- When "alternatives" is non-empty, add ONE short closing line offering them by name \
+(e.g. "If this is actually an addition or tenant improvement, tell me and I'll reprice it").
 - Always include the provided disclaimer that this is an estimate.
 - If the engine indicates a project valuation is required and none was given, ask the user \
-for the project valuation (total cost of construction) so you can calculate the building permit fee.
-- If a permit type could not be determined, ask which permit they need.
+for the project valuation (total cost of construction) so you can calculate the building permit fee. \
+In that case do NOT render a fee table at all -- there are no amounts yet, and a table of zeros \
+reads as "this permit is free". If "fee_components" is present, name those components in one \
+sentence (e.g. "the fee covers the permit, plan review and fire review") and then ask.
+- If a permit type could not be determined, ask which permit they need. When "candidates" is \
+present, ask them to choose from EXACTLY those names (a short bulleted list) and say nothing about \
+amounts -- we do not yet know which permit this is, so any number would be the wrong one.
 - If the result includes "recent_changes", add ONE short "Heads up" line after the breakdown \
 noting the most relevant change (what changed, old -> new value, effective date) using ONLY those records.
 - Respond in {language}. Be concise.""")

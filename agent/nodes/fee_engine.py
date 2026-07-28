@@ -9,7 +9,7 @@ numbers into a user-facing answer with the estimate disclaimer.
 from __future__ import annotations
 
 import db
-from agent import fee_tables
+from agent import engine_fees, fee_tables
 from agent.obs import log
 from agent.state import AgentState
 
@@ -65,17 +65,87 @@ def _extract_valuation(state: AgentState) -> float | None:
     return None
 
 
+async def _try_engine(state: AgentState, valuation: float | None) -> dict | None:
+    """Price from the ENGINE's tenant-configured schedule when we can.
+
+    The local `fee_schedules` table only ever held the headline permit fee --
+    Woodinville has ONE row -- so it under-quoted a real project by ~40% versus
+    the portal (plan review, fire review and surcharges were simply missing).
+    The engine returns the same itemised, all-in estimate the citizen sees.
+
+    Returns None on ANY miss so the caller falls back to the local table rather
+    than losing the answer entirely.
+    """
+    text = " ".join(filter(None, [
+        state.standalone_query or state.query,
+        (state.entities or {}).get("permit_type") or state.permit_type or "",
+    ]))
+    rows = await engine_fees.fetch_catalog(state.city_id)
+    if not rows:
+        return None
+    matches = engine_fees.match_types(text, rows)
+    if not matches:
+        return None
+    # Residential-vs-commercial is an assumption, not a question worth asking on
+    # a citizen portal; only the work type is worth clarifying.
+    matches, assumed_residential = engine_fees.narrow_by_audience(text, matches)
+
+    # Genuinely ambiguous phrasing ("building permit" -- residential? commercial?)
+    # scores several types alike. Pricing one anyway would quote the wrong permit
+    # with total confidence, so return the candidates and let the answer ask.
+    if engine_fees.is_ambiguous(matches):
+        return {
+            "source": "engine",
+            "needs_permit_type": True,
+            "candidates": [engine_fees.label_for(m) for m in matches],
+            "disclaimer": fee_tables.disclaimer(state.city_id),
+        }
+
+    best = matches[0]
+    data = await engine_fees.fee_estimate(state.city_id, best.get("code"), valuation)
+    if not data:
+        return None
+    result = engine_fees.to_fee_result(data, alternatives=matches[1:])
+    result["assumed_residential"] = assumed_residential
+    # A valuation-driven type priced at zero means the user never gave a
+    # valuation -- ask for it rather than quoting $0.00 as if it were the answer.
+    if valuation is None and not result.get("total"):
+        result["needs_valuation"] = True
+        # Drop the all-zero amounts: rendered as a table they read as "this permit
+        # costs nothing". Keep the component NAMES so we can still say what the
+        # fee is made of while asking for the valuation.
+        result["fee_components"] = [
+            li["label"] for li in (result.get("line_items") or []) if li.get("label")
+        ]
+        for k in ("line_items", "fee_subtotal", "taxes", "deposits", "total"):
+            result.pop(k, None)
+    result["disclaimer"] = fee_tables.disclaimer(state.city_id)
+    log.info("fee_from_engine", city=state.city_id, code=best.get("code"),
+             lines=len(result.get("line_items") or []), total=result.get("total"))
+    return result
+
+
 async def fee_engine(state: AgentState) -> dict:
     raw_pt = (state.entities or {}).get("permit_type") or state.permit_type
     permit_type = fee_tables.normalize_permit_type(raw_pt)
     valuation = _extract_valuation(state)
+
+    engine_result = await _try_engine(state, valuation)
+    if engine_result:
+        engine_result["sources"] = await _fee_sources(
+            state, permit_type or engine_result.get("permit_type") or "")
+        return {
+            "fee_result": engine_result,
+            "entities": {**(state.entities or {}),
+                         "permit_type": permit_type or raw_pt},
+        }
 
     if not permit_type:
         return {
             "fee_result": {
                 "permit_type": None,
                 "needs_permit_type": True,
-                "disclaimer": fee_tables.DISCLAIMER,
+                "disclaimer": fee_tables.disclaimer(state.city_id),
             }
         }
 
@@ -84,7 +154,7 @@ async def fee_engine(state: AgentState) -> dict:
         # No deterministic schedule -> let retrieval/generation answer from KB.
         return {"fee_result": {"permit_type": permit_type, "no_schedule": True}}
 
-    result = fee_tables.compute_fees(permit_type, fee_rows, valuation=valuation)
+    result = fee_tables.compute_fees(permit_type, fee_rows, valuation=valuation, city_id=state.city_id)
     result["sources"] = await _fee_sources(state, permit_type)
     # Proactive "what changed" enrichment: if this permit's fees changed recently,
     # the fee answer can flag it instead of quoting a number with no context.
