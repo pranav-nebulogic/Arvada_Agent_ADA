@@ -1,0 +1,93 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "building_permit",
+    "category": "building",
+    "source_urls": [
+      "https://www.woodinville.gov/364/Commercial-Residential-Construction-Perm"
+    ],
+    "scraped_at": "2026-07-28T06:50:57.550984+00:00",
+    "content_hash": "801166f76a1de6235776d55488f5743ba7ed39002395b79d7d1785186567bbb7",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Commercial and Residential Construction Permits",
+    "summary": "A Combined Building Permit is required for commercial and residential construction projects in the City of Woodinville. The permit process involves submitting plans, plan review, permit issuance, inspections, and final certification.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Gather Documents",
+        "text": "Gather all of your documents per the submittal requirements for your project.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Submit Plans",
+        "text": "Once you have reviewed all submittal requirements and gathered your documents, submit PDFs of all plans and project documents using the online permit portal. Pay a portion of your permit fees. We will invoice you through the permit portal.",
+        "portal_url": "https://www.woodinville.gov/364/Commercial-Residential-Construction-Perm"
+      },
+      {
+        "n": 3,
+        "title": "Plan Review",
+        "text": "We review your plans and project documents to ensure that your project is aligned to our codes. We may ask for additional information or revisions to your plans if we determine they are not aligned to code. You may check the status of your plan reviews on your Online Permit Portal account.",
+        "portal_url": "https://www.woodinville.gov/364/Commercial-Residential-Construction-Perm"
+      },
+      {
+        "n": 4,
+        "title": "Submitting Revisions",
+        "text": "If you change the scope or design of your project or receive notification from us that your plans need to be revised, then you will submit revisions to us the same way you applied. Upload your revised plans and project documents through your Permit Portal plan review dashboard.",
+        "portal_url": "https://www.woodinville.gov/364/Commercial-Residential-Construction-Perm"
+      },
+      {
+        "n": 5,
+        "title": "Issue Permits",
+        "text": "Once we determine your plans and project documents are aligned with the codes, we will issue you a permit and copy of the approved plans. You will need to provide your contractor\u2019s Washington State contractor license and Woodinville business license prior to issuance. Your permit will be issued to you online through the Permit Portal. We will send you an invoice via email and ask that you pay online through the permit portal. (Note: You may also pay in person at City Hall or via mail, but your permit will be issued electronically online). Once we receive your payment, we will upload a PDF of your permit and approved plans to your permit portal account.",
+        "portal_url": "https://www.woodinville.gov/364/Commercial-Residential-Construction-Perm"
+      },
+      {
+        "n": 6,
+        "title": "Inspections",
+        "text": "Inspections are the next step in ensuring that your project is constructed to life and safety standards and codes. See our Inspections page for scheduling and inspection requirements.",
+        "portal_url": "https://www.woodinville.gov/364/Commercial-Residential-Construction-Perm"
+      },
+      {
+        "n": 7,
+        "title": "Field Changes",
+        "text": "If the scope or design of your project changes during construction, submit your revised plans to us for review. We will review the changes to ensure they are aligned to codes and then issue those changed plans to you. Be sure to submit your revised plans online through the Permit Portal.",
+        "portal_url": "https://www.woodinville.gov/364/Commercial-Residential-Construction-Perm"
+      },
+      {
+        "n": 8,
+        "title": "Certificate",
+        "text": "Construction projects that require a Certificate of Occupancy may be requested via email, phone, or in person at the Permit Center.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2416
+}

@@ -49,6 +49,19 @@ class Settings(BaseSettings):
     # Minimum rerank relevance (0-10 scale) for a chunk to count as "relevant".
     rerank_min_score: float = 3.0
     # If no chunk clears this bar, the confidence gate routes to "I don't know".
+    # Skip the LLM rerank when hybrid search already separated the winners: the
+    # call is an extra round trip in front of the FIRST TOKEN on every grounded
+    # answer (measured TTFT 4-8s). Fires when (top - first_dropped) >= gap * top,
+    # i.e. the best candidate beats the best REJECTED one by this fraction.
+    # Raise it to rerank more often (safer, slower); 0 disables the skip.
+    #
+    # Tuned against production retrieval, not guessed. RRF scores are inherently
+    # bunched (~0.0164 == 1/61, i.e. rank 1 in ONE list; ~0.032 == rank 1 in
+    # BOTH the FTS and vector lists). At 0.35 the skip fired on 3 of 8 sample
+    # queries -- and precisely the ones where both retrievers agreed, which is
+    # the signal we actually want. Anything less certain still pays for the LLM.
+    rerank_skip_enabled: bool = True
+    rerank_skip_score_gap: float = 0.35
 
     # ── Cache / memory ──────────────────────────────────────────────────────
     semantic_cache_threshold: float = 0.92

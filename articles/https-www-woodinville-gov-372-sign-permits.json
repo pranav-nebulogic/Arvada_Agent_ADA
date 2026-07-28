@@ -1,0 +1,134 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "sign_permit",
+    "category": "building",
+    "source_urls": [
+      "https://www.woodinville.gov/372/Sign-Permits"
+    ],
+    "scraped_at": "2026-07-28T06:51:57.110494+00:00",
+    "content_hash": "81145977a8504ba7daa591947f070b300a4972d09d82d2f17b3d783fca59a078",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Sign Permits",
+    "summary": "A sign permit is required for any new sign proposed in the City of Woodinville. Signs are regulated by Chapter 21.35 of the Woodinville Municipal Code and include permanent, temporary, and prohibited sign types with specific regulations for each.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Sign Regulations",
+        "text": "Review the sign regulations in Chapter 21.35 of the Woodinville Municipal Code to understand the requirements and restrictions for your sign type.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Prepare Application and Plans",
+        "text": "Prepare a completed sign permit application along with related plans, including fa\u00e7ade area calculations for building signs and landscaping plans for freestanding signs.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Submit Application",
+        "text": "Submit your permit application request through the City's online Permit Portal or by submitting a PDF application form.",
+        "portal_url": "https://www.woodinville.gov/372/Sign-Permits"
+      },
+      {
+        "n": 4,
+        "title": "Complete Application Requirements",
+        "text": "Ensure your application is complete with all required plans, supporting documents, and fees before submission.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Sign Permit Application",
+        "description": "Completed application form specific to the type of sign (Memorial, Permanent, or Temporary).",
+        "where_to_get": "Available as PDF on the City of Woodinville website or via the online Permit Portal.",
+        "example": null
+      },
+      {
+        "name": "Fa\u00e7ade Area Calculations",
+        "description": "Calculations showing the fa\u00e7ade area for building signs.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Landscaping Plans",
+        "description": "Landscaping plans required for freestanding signs.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "sign_type",
+        "label": "Type of Sign",
+        "description": "Specify whether the sign is permanent, temporary, or memorial.",
+        "example_value": null,
+        "why_needed": "To determine applicable regulations and permit requirements."
+      },
+      {
+        "field_name": "fa\u00e7ade_area",
+        "label": "Fa\u00e7ade Area Calculations",
+        "description": "Provide calculations of the building fa\u00e7ade area for building-mounted signs.",
+        "example_value": null,
+        "why_needed": "To ensure sign size complies with code limits."
+      },
+      {
+        "field_name": "landscaping_plan",
+        "label": "Landscaping Plan",
+        "description": "Submit landscaping plans for freestanding signs.",
+        "example_value": null,
+        "why_needed": "To verify compliance with landscaping requirements for freestanding signs."
+      }
+    ],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "What types of signs are prohibited in Woodinville?",
+        "a": "Prohibited signs include portable signs (except as allowed), signs on utility poles (except utility or government signs), signs that resemble traffic control devices, signs in the public right-of-way (except as permitted), carnival-type displays, billboards for off-site businesses, signs that interfere with visibility, animated signs, highly reflective frames, signs for closed businesses, off-premises signs (except as permitted), signs on or above roofs, and human-held signs."
+      },
+      {
+        "q": "How many building signs are allowed per tenant?",
+        "a": "Tenants are permitted one building sign per fa\u00e7ade, up to two signs per tenant."
+      },
+      {
+        "q": "What are the size limits for permanent building signs?",
+        "a": "The maximum size is eight percent of the building fa\u00e7ade area, which can increase to twelve percent if specific criteria are met."
+      },
+      {
+        "q": "What are the restrictions for portable A-frame signs?",
+        "a": "Portable A-frame signs are limited to six square feet per face with no more than two faces, a maximum height of three feet, one sign per business in commercial zones and two in industrial zones, and may only be displayed during business hours. They must be placed on-premises or adjacent to the property line and not block pedestrian, bicycle, or vehicle traffic."
+      }
+    ],
+    "ordinance_refs": [
+      "Chapter 21.35",
+      "WMC 21.35.130",
+      "WMC 21.22.190"
+    ],
+    "related_permit_types": [
+      "building_permit",
+      "temporary_use_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2855
+}

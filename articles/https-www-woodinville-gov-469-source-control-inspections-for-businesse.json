@@ -1,0 +1,106 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "stormwater",
+    "source_urls": [
+      "https://www.woodinville.gov/469/Source-Control-Inspections-for-Businesse"
+    ],
+    "scraped_at": "2026-07-28T06:53:03.967511+00:00",
+    "content_hash": "09c2ce7d3d3103824aced8578fdf63892f2d0066a125a20c254fa555a5772bc8",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Source Control Inspections for Businesses",
+    "summary": "The City of Woodinville implements a Source Control Inspection program to prevent and reduce pollutants in stormwater runoff from existing businesses. This program is required under the Western Washington Phase II Municipal Stormwater Permit and focuses on identifying and addressing potential pollution sources before they impact local water quality.",
+    "eligibility": "Businesses located within Woodinville city limits that are associated with activities such as manufacturing, auto services, materials supply dealers, food and beverage-related, pet-related, health care services, and maintenance services.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Schedule the Inspection",
+        "text": "Contact Maria Pazandak, City of Woodinville Surface Water Specialist, at [email\u00a0protected] to schedule the inspection.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Prepare for the Inspection",
+        "text": "Review the Best Management Practices (BMPs) for your specific business by visiting the King County Pollution Prevention Manual webpage and the Commercial Best Management Practice activity sheets - King County, Washington.",
+        "portal_url": "https://your.kingcounty.gov/solidwaste/stormwater/manual.asp"
+      },
+      {
+        "n": 3,
+        "title": "Undergo the Inspection",
+        "text": "A Woodinville Surface Water Staff member will conduct an exterior walk-through of your business with a business owner or employee. The inspection focuses on operational activities such as fueling, material storage, waste disposal, and equipment cleaning, as well as pollution prevention measures like covered and contained storage, clean dumpster areas, and spill kits. Some interior inspection may be required to review material storage.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Receive Inspection Results",
+        "text": "If your business does not pass the inspection, you will receive a Notice of Non-Compliance detailing required corrective actions and deadlines. Your business may be re-inspected or may need to provide an email update with photos as indicated.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": "10-30 minutes",
+      "total": null
+    },
+    "contact": {
+      "dept": "Surface Water Management",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Why Did My Business Receive a Source Control Business Inspection Notice from the City of Woodinville?",
+        "a": "Your business received the notice because it is located within Woodinville city limits and is identified as a type of business required to be included in the Source Control Inspection Program under the Western Washington Phase II Municipal Stormwater Permit."
+      },
+      {
+        "q": "How Do I Schedule the Inspection?",
+        "a": "Contact Maria Pazandak, City of Woodinville Surface Water Specialist, at [email\u00a0protected] to schedule the inspection."
+      },
+      {
+        "q": "What Days and Hours are the Inspections Conducted?",
+        "a": "Inspections are conducted Monday through Thursday from 8am to 4:30pm and may be scheduled at a convenient time or conducted impromptu during business hours."
+      },
+      {
+        "q": "How Long Will the Inspection Take?",
+        "a": "Inspections typically take 10-30 minutes to complete."
+      },
+      {
+        "q": "What Does the Inspection Involve?",
+        "a": "The inspection involves an exterior walk-through focusing on operational activities and pollution prevention measures, with possible interior review of material storage."
+      },
+      {
+        "q": "How Often Do Businesses Need to Be Inspected?",
+        "a": "Businesses are inspected on a 5-year cycle, with some higher-risk businesses inspected more frequently."
+      },
+      {
+        "q": "What Part of the Woodinville Municipal Code Requires Business Inspections?",
+        "a": "Woodinville Municipal Code Chapter 13.04 - Illicit Discharge and/or Dumping Detection and Elimination lists authority for stormwater inspections."
+      },
+      {
+        "q": "What Happens if Your Business Does Not Pass Inspection?",
+        "a": "You will receive a Notice of Non-Compliance with required corrective actions and deadlines. Re-inspection or email updates with photos may be required."
+      }
+    ],
+    "ordinance_refs": [
+      "Chapter 13.04"
+    ],
+    "related_permit_types": [
+      "Stormwater Management Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2770
+}

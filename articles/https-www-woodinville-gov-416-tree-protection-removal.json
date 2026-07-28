@@ -1,0 +1,125 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "tree_permit",
+    "category": "development",
+    "source_urls": [
+      "https://www.woodinville.gov/416/Tree-Protection-Removal"
+    ],
+    "scraped_at": "2026-07-28T06:51:16.213893+00:00",
+    "content_hash": "65c81bb5c9dcff47dd556131d8b489f4993f22b0086eddfd398dffcc79867444",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Tree Removal Permit",
+    "summary": "The City of Woodinville requires a tree removal permit for the removal of significant trees to protect and maintain the city's tree canopy. Applications must include a site plan and supporting documents such as replanting plans or an arborist report.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Complete Tree Removal Application",
+        "text": "Complete a Tree Removal Application including a site plan and necessary supporting documents such as replanting plans and/or an arborist report.",
+        "portal_url": "https://www.woodinville.gov/416/Tree-Protection-Removal"
+      },
+      {
+        "n": 2,
+        "title": "Submit Application",
+        "text": "Submit your completed application through the City's online Permit Portal or print and submit the Tree Removal Application Form (PDF).",
+        "portal_url": "https://www.woodinville.gov/416/Tree-Protection-Removal"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Site Plan",
+        "description": "A detailed plan of the site where tree removal is proposed.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Replanting Plans",
+        "description": "Plans showing how trees will be replanted or replaced after removal.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Arborist Report",
+        "description": "A professional report assessing the condition and necessity of tree removal.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "site_plan",
+        "label": "Site Plan",
+        "description": "A detailed map or drawing of the property showing the location of trees to be removed.",
+        "example_value": null,
+        "why_needed": "To assess the impact of tree removal on the property and surrounding area."
+      },
+      {
+        "field_name": "replanting_plans",
+        "label": "Replanting Plans",
+        "description": "Documentation showing plans for replanting or replacing removed trees.",
+        "example_value": null,
+        "why_needed": "To ensure replacement of removed trees and maintain tree canopy."
+      },
+      {
+        "field_name": "arborist_report",
+        "label": "Arborist Report",
+        "description": "A report from a certified arborist evaluating the trees proposed for removal.",
+        "example_value": null,
+        "why_needed": "To provide expert assessment supporting the need for tree removal."
+      }
+    ],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services Department",
+      "phone": "425-489-2754",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Is a permit required for all tree removals?",
+        "a": "A tree removal permit is required for any proposal to remove significant trees, unless otherwise exempt in WMC 21.50.030."
+      },
+      {
+        "q": "How do I submit a tree removal application?",
+        "a": "You can submit an application through the City's online Permit Portal or print and submit the Tree Removal Application Form (PDF)."
+      },
+      {
+        "q": "Who do I contact for public tree maintenance or removal?",
+        "a": "For public and private non-emergency tree issues, contact the Development Services Department at 425-489-2754."
+      },
+      {
+        "q": "What should I do in case of an emergency tree issue in the right-of-way?",
+        "a": "During regular business hours, call the Public Works Department at 425-489-2700. After hours, dial 911."
+      },
+      {
+        "q": "Who handles tree issues near power lines?",
+        "a": "Puget Sound Energy handles tree issues within 12 feet of power lines and can be reached at 1-888-225-5773."
+      }
+    ],
+    "ordinance_refs": [
+      "Chapter 21.50",
+      "WMC 21.50.030"
+    ],
+    "related_permit_types": [
+      "public_tree_removal_permit",
+      "public_tree_pruning_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2348
+}

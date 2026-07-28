@@ -1,0 +1,92 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "stormwater",
+    "source_urls": [
+      "https://www.woodinville.gov/394/Stormwater-Utility"
+    ],
+    "scraped_at": "2026-07-28T06:53:00.102066+00:00",
+    "content_hash": "ef6cf928414ffa3a8ff69b0379686ccbae829335d79b9160c679dbdb6008d0a2",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Stormwater Utility in Woodinville",
+    "summary": "The City of Woodinville operates a surface water utility that manages and treats stormwater runoff to protect water quality and public health. Property owners are charged a Surface Water Management fee included in their property tax statement to cover utility costs.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Understand the Utility Service",
+        "text": "The City of Woodinville owns and operates a surface water utility that collects, carries, and treats surface water, primarily rain and snow runoff from streets, before discharging it into waterways. This service manages surface water flows and protects water quality and public health.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Know the Fee Structure",
+        "text": "The City has established a Surface Water Management fee charged to all property owners to cover operation, maintenance, and capital utility service needs. This fee is included in your property tax statement.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Check for Discounts or Exemptions",
+        "text": "The City provides an exemption to low-income seniors and a discount for new or remodeled commercial buildings that use a permissive rainwater harvesting system. For assistance with discount eligibility, contact the King County Assessor's Office or visit the King County Department of Natural Resources & Parks Surface Water Management Fee webpage.",
+        "portal_url": "https://www.kingcounty.gov/depts/dnrp/water-and-land/stormwater/utility-fee.aspx"
+      },
+      {
+        "n": 4,
+        "title": "Understand How Your Rate is Calculated",
+        "text": "Residential parcels and parcels with 10% or less impervious surface coverage are charged a flat rate. Fees for other non-residential parcels are calculated based on the percentage of impervious area and total parcel acreage. The annual fee is due in two installments on April 30th and October 31st with your King County property tax statements.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "Surface Water Management fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.stormwater.utility",
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Public Works - Surface Water Management",
+      "phone": "206-296-3920",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Are there any discounts available for the Stormwater Utility fee?",
+        "a": "Yes, the City provides an exemption to low-income seniors and a discount for new or remodeled commercial buildings that utilize a permissive rainwater harvesting system."
+      },
+      {
+        "q": "How is my Stormwater Utility rate calculated?",
+        "a": "Residential parcels and parcels with 10% or less impervious surface coverage are charged a flat rate. Other non-residential parcels are charged based on the percentage of impervious area and total parcel acreage."
+      },
+      {
+        "q": "When is the Stormwater Utility fee due?",
+        "a": "The annual fee is due in two installments on April 30th and October 31st with your King County property tax statements."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "stormwater management permits"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1899
+}

@@ -1,0 +1,57 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "development",
+    "source_urls": [
+      "https://www.woodinville.gov/199/Development-Services"
+    ],
+    "scraped_at": "2026-07-28T06:50:53.767384+00:00",
+    "content_hash": "2318c3360ab7d1516af6650e86441ef3f2a5d442030f13308c371f32c65f401d",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Development Services in Woodinville",
+    "summary": "The Development Services Department in Woodinville oversees programs that ensure the city remains a great place to live, work, and grow. Services include pre-development, permitting, permit review, inspections, fire review, long-range planning, sign code regulations, special event permitting, code enforcement, and environmental protection.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Access Permit Portal",
+        "text": "Permit applications and payments can be applied for online by visiting the online Permit Portal.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Contact Permit Center",
+        "text": "If you have questions about a permit, please call or email the permit center at permitcenter@woodinvillewa.gov.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services Department",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1425
+}

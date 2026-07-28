@@ -1,0 +1,70 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "row_permit",
+    "category": "row",
+    "source_urls": [
+      "https://www.woodinville.gov/373/Right-of-Way-Permits"
+    ],
+    "scraped_at": "2026-07-28T06:51:08.684559+00:00",
+    "content_hash": "8900cd580a788e8405e886b80109c3d1e9d3820cf5082afaf318fc91ce0f1843",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Right-of-Way Permit",
+    "summary": "A Right-of-Way Permit is required for any land disturbing activities within public rights-of-way in the City of Woodinville, including trenching, boring, potholing, landscaping, and driveway modifications. Applications must include a completed form, related plans, and a traffic control plan.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Prepare Application",
+        "text": "Complete the Right-of-Way Permit application form and prepare related plans, including a traffic control plan.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Submit Application",
+        "text": "Submit the complete permit application, including required plans, supporting documents, and fees, through the City's online Permit Portal.",
+        "portal_url": "https://www.woodinville.gov/373/Right-of-Way-Permits"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Right-of-Way Permit Application Form",
+        "description": "Completed application form for the Right-of-Way Permit.",
+        "where_to_get": "City of Woodinville Permit Portal",
+        "example": null
+      },
+      {
+        "name": "Traffic Control Plan",
+        "description": "Plan detailing traffic control measures during the work in the right-of-way.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1478
+}

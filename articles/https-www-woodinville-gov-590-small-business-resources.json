@@ -1,0 +1,63 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "licensing",
+    "source_urls": [
+      "https://www.woodinville.gov/590/Small-Business-Resources"
+    ],
+    "scraped_at": "2026-07-28T06:52:45.794300+00:00",
+    "content_hash": "aa51ea39151bb3ace59c5cf180ce9a628491b9a451bca2e44af27aaf5c871c36",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Small Business Resources in Woodinville",
+    "summary": "Woodinville offers a variety of resources to support small businesses, including business advising, training, financing, and specialized assistance for minority- and women-owned businesses. These resources connect business owners with mentorship, funding, and support programs to help them grow and thrive.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Explore Business Advising and Training Resources",
+        "text": "Access resources such as Evergreen BizLink, OneEastside SPARK, BUSINESS.WA.GOV, King County Library System Small Business Resources, Small Business Resiliency Network (SBRN), Startup 425, Business Impact NW, Food & Farm Business Services, Veterans Business Outreach Center, Communities Rise, El Centro de la Raza Business Opportunity Center, Small Business Development Center, U.S Small Business Administration, Greater Seattle SCORE, University of Washington Consulting and Business Development Center, Ventures, Impact Washington, and Startup Washington to receive guidance and training.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Explore Financing and Lending Options",
+        "text": "Review financing programs including Washington State Small Business Credit Initiative (SSBCI), Small Business Flex Fund, Business Impact NW, Craft3, Evergreen Business Capital, and Ventures to find funding opportunities for your business.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Access Minority and Women-Owned Business Assistance",
+        "text": "Utilize specialized support from Washington Office of Minority and Women's Business Enterprises, Washington Center for Women in Business, Washington Women\u2019s Business Center, and Small Business Resiliency Network (SBRN) to help minority- and women-owned businesses succeed.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": null,
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1717
+}

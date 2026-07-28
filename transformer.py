@@ -10,9 +10,13 @@ import json
 import re
 from pathlib import Path
 from datetime import date
+from urllib.parse import urlsplit
 
 from openai import AsyncOpenAI
 import structlog
+
+from city_config import CITY
+from sources import get_sources
 
 log = structlog.get_logger()
 RAW_DATA_DIR = Path("raw_data")
@@ -67,6 +71,9 @@ _STOPWORDS = {
     "provision", "provisions", "subsection", "paragraph", "herein", "thereof",
     "pursuant", "applicable", "general", "other", "including", "include",
 }
+# Drop the active city's own name/state as tag noise (city-agnostic; Arvada's
+# literals above are harmless legacy entries).
+_STOPWORDS |= {CITY.city_short.lower(), CITY.state.lower()}
 
 
 def _load_raw(path: Path) -> dict:
@@ -146,8 +153,8 @@ def build_ordinance_articles(raw_data: dict) -> list[dict]:
         articles.append({
             "article_id": None,
             "metadata": {
-                "city_id": source_meta.get("city_id", "arvada-co"),
-                "city_name": "City of Arvada, CO",
+                "city_id": source_meta.get("city_id", CITY.city_id),
+                "city_name": source_meta.get("city_name", CITY.scraper_city_name),
                 "article_type": "ordinance",
                 "permit_type": source_meta.get("permit_type"),
                 "category": "ordinance",
@@ -225,14 +232,14 @@ def build_faq_article(faq_item: dict, source_meta: dict, index: int) -> dict | N
     }
 
     slug_base = _slugify(question)
-    article_id_str = f"ARVADA-FAQ-{index + 1:03d}"
+    article_id_str = f"{CITY.city_short.upper()}-FAQ-{index + 1:03d}"
 
     return {
         "article_id": None,  # assigned at ingest time
         "faq_article_id": article_id_str,  # human-readable ID for Smart Knowledge UI
         "metadata": {
-            "city_id": source_meta.get("city_id", "arvada-co"),
-            "city_name": "City of Arvada, CO",
+            "city_id": source_meta.get("city_id", CITY.city_id),
+            "city_name": source_meta.get("city_name", CITY.scraper_city_name),
             "article_type": "faq",
             "permit_type": permit_type,
             "category": source_meta.get("category", "faq"),
@@ -244,7 +251,7 @@ def build_faq_article(faq_item: dict, source_meta: dict, index: int) -> dict | N
             "version": 1,
             "status": "published",  # FAQs are pre-verified — publish immediately
             "last_verified": today,
-            "slug_hint": f"arvada-co/faq/{slug_base}",
+            "slug_hint": f"{source_meta.get('city_id', CITY.city_id)}/faq/{slug_base}",
         },
         "content": content,
         "transform_model": "direct",  # no LLM used
@@ -547,7 +554,7 @@ SOURCE URL: {source.get('url', 'unknown')}
 PERMIT TYPE: {source.get('permit_type', 'general')}
 CATEGORY: {source.get('category', 'general')}
 ARTICLE TYPE: {source.get('article_type', 'permit')}
-CITY: City of Arvada, CO
+CITY: {source.get('city_name', CITY.scraper_city_name)}
 SCRAPED DATE: {raw_data.get('scraped_at', date.today().isoformat())}
 
 RAW CONTENT:
@@ -584,8 +591,8 @@ Remember: copy fees, phone numbers, and addresses VERBATIM. Do not invent anythi
         article = {
             "article_id": None,  # assigned at ingest time
             "metadata": {
-                "city_id": source.get("city_id", "arvada-co"),
-                "city_name": "City of Arvada, CO",
+                "city_id": source.get("city_id", CITY.city_id),
+                "city_name": source.get("city_name", CITY.scraper_city_name),
                 "article_type": source.get("article_type", "permit"),
                 "permit_type": source.get("permit_type"),
                 "category": source.get("category"),
@@ -612,6 +619,36 @@ Remember: copy fees, phone numbers, and addresses VERBATIM. Do not invent anythi
         return None
 
 
+def filter_raw_files_for_city(raw_files: list[Path]) -> list[Path]:
+    """Keep only raw files scraped from the ACTIVE city's website.
+
+    raw_data/ accumulates every city ever scraped. The scraper is city-scoped
+    (get_sources() keys off DEFAULT_CITY_ID); transform was not, so
+    `DEFAULT_CITY_ID=woodinville-wa python run_transform.py` re-ran the LLM over
+    Arvada's pages AND stamped the output `city_id: woodinville-wa`, because the
+    article builder falls back to CITY.city_id when the raw source carries none.
+    Had that reached ingest, Arvada's content would have entered Woodinville's
+    KB -- cross-tenant contamination, the one thing that must never happen.
+
+    Filters on the URL HOST rather than source["city_id"]: no raw file carries a
+    city_id (verified for both cities), so a city_id filter matches everything
+    and silently reintroduces the bug.
+    """
+    host = urlsplit(get_sources().get("base_url", "")).netloc.lower()
+    if not host:
+        return raw_files                    # no base_url configured -> cannot filter
+
+    kept = []
+    for f in raw_files:
+        try:
+            url = _load_raw(f).get("source", {}).get("url") or ""
+        except Exception:
+            continue                        # unreadable -> don't transform blind
+        if urlsplit(url).netloc.lower() == host:
+            kept.append(f)
+    return kept
+
+
 async def transform_all() -> dict:
     """
     Transform all raw_data/ files into articles/.
@@ -623,7 +660,22 @@ async def transform_all() -> dict:
     raw_files = list(RAW_DATA_DIR.glob("*.json"))
     # Skip the manifest file written by run_scraper.py
     raw_files = [f for f in raw_files if f.name != "manifest.json"]
-    log.info("transforming_all", count=len(raw_files))
+
+    # Only THIS city's raw files. raw_data/ accumulates every city ever scraped,
+    # and the scraper is city-scoped (get_sources() keys off DEFAULT_CITY_ID) but
+    # this was not -- so `DEFAULT_CITY_ID=woodinville-wa python run_transform.py`
+    # re-ran the LLM over Arvada's pages AND stamped the results
+    # `city_id: woodinville-wa`, because line ~592 falls back to CITY.city_id
+    # when the raw source carries none. That is cross-tenant contamination: had
+    # it reached ingest, Arvada's content would have landed in Woodinville's KB.
+    #
+    # Filter on the URL HOST, not on source["city_id"] -- no raw file carries a
+    # city_id (verified for both cities), so a city_id-based filter silently
+    # matches everything and reintroduces the bug.
+    before = len(raw_files)
+    raw_files = filter_raw_files_for_city(raw_files)
+    log.info("transforming_all", count=len(raw_files), city=CITY.city_id,
+             other_cities_skipped=before - len(raw_files))
 
     results = {"transformed": 0, "faq_articles": 0, "failed": 0, "skipped": 0}
 

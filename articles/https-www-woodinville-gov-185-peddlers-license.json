@@ -1,0 +1,108 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "license",
+    "permit_type": "peddlers_license",
+    "category": "licensing",
+    "source_urls": [
+      "https://www.woodinville.gov/185/Peddlers-License"
+    ],
+    "scraped_at": "2026-07-28T06:52:07.865007+00:00",
+    "content_hash": "fc45975280fcb567a2b8b846be8b2fed72eca31cd4dc50016ccf12232730a26b",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Peddler's License in the City of Woodinville, WA",
+    "summary": "To conduct door-to-door peddling, soliciting, or canvassing within Woodinville city limits, individuals and businesses must obtain the appropriate licenses and permits. This includes a City Business License, a Master Peddler License for businesses, and a Peddler's Permit for individuals engaging in door-to-door activities.",
+    "eligibility": "Businesses and individuals conducting door-to-door peddling, soliciting, or canvassing within the City of Woodinville.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Obtain City Business License",
+        "text": "Businesses must apply for a City endorsement through the Washington State Department of Revenue (DOR) Business Licensing Service. Both City and DOR fees apply.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Apply for Master Peddler License",
+        "text": "Businesses must complete the Master Peddler License Application (PDF) and submit it to the City. A City licensing fee applies.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Submit Peddler's Permit Application for Individuals",
+        "text": "Businesses must provide a Peddler's Permit Application (PDF) for each individual who will be going door-to-door within Woodinville city limits. Individuals cannot conduct door-to-door activities until they have been issued the permit and identification by the City. No additional fees are required for the permit.",
+        "portal_url": null
+      },
+      {
+        "n": 4,
+        "title": "Submit Applications and Pay Fees",
+        "text": "Send completed Master Peddler License and Peddler Permit applications via email, fax, or mail. Fees can be paid via check or over the phone via credit card.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Master Peddler License Application",
+        "description": "Application form for businesses to obtain a Master Peddler License.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Peddler's Permit Application",
+        "description": "Application form for individuals who will be conducting door-to-door activities within Woodinville city limits.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "City Business License Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.business.license",
+        "notes": null
+      },
+      {
+        "name": "Master Peddler License Fee",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.peddler.master_license",
+        "notes": "A City licensing fee applies."
+      },
+      {
+        "name": "Peddler's Permit Fee",
+        "amount": "No additional fees required",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Administrative Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [
+      "Woodinville Municipal Code 5.04"
+    ],
+    "related_permit_types": [
+      "City Business License"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1832
+}

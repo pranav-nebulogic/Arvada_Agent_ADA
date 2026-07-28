@@ -1,0 +1,135 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "building",
+    "source_urls": [
+      "https://www.woodinville.gov/200/Permitting"
+    ],
+    "scraped_at": "2026-07-28T06:50:50.040669+00:00",
+    "content_hash": "0fce488b9f6dc55f295e5ac4aa31a0d4f8ca15a4116343b2e29f5953e4b66c16",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Permitting Process in the City of Woodinville, WA",
+    "summary": "The City of Woodinville provides a Permit Portal for submitting land use, building, and other permit applications online. Most permits require inspections by various city officials, and applicants can find relevant forms and information on the city's website.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Create a Website Account",
+        "text": "Create a website account to manage notification subscriptions, save form progress, and more.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Access Permit Application Forms",
+        "text": "Access permit application forms for signs, SEPA checklists, conditional use permits, and others through the Permit Portal or download printable forms.",
+        "portal_url": "https://www.woodinville.gov/200/Permitting"
+      },
+      {
+        "n": 3,
+        "title": "Submit Permit Application",
+        "text": "Submit land use, building, and other permit application forms online using the Permit Portal.",
+        "portal_url": "https://www.woodinville.gov/200/Permitting"
+      },
+      {
+        "n": 4,
+        "title": "Schedule Required Inspections",
+        "text": "Most permits require an inspection by a Building Inspector, Civil Engineer, Fire Inspector, or Planner. Find how and who to contact for different types of permits by visiting the Permit Portal.",
+        "portal_url": "https://www.woodinville.gov/200/Permitting"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Is my property within the City of Woodinville?",
+        "a": "Check the city boundaries to confirm if your property is within the City of Woodinville."
+      },
+      {
+        "q": "Why should I get a permit?",
+        "a": "Permits ensure that construction and land use comply with city codes and safety standards."
+      },
+      {
+        "q": "When is a building permit required?",
+        "a": "A building permit is required for most construction, alteration, or demolition work."
+      },
+      {
+        "q": "How do I obtain a permit?",
+        "a": "Permits can be obtained by submitting applications through the Permit Portal or using printable forms."
+      },
+      {
+        "q": "How long does it take to get a permit?",
+        "a": "Processing times vary depending on the permit type and application completeness."
+      },
+      {
+        "q": "How much does a permit cost?",
+        "a": "Permit costs vary; check the Permit Portal or contact Development Services for details."
+      },
+      {
+        "q": "What should be included in the plan sets, and how should they be prepared?",
+        "a": "Plan sets should include all required details as specified by city guidelines."
+      },
+      {
+        "q": "Do I need an architect or engineer to prepare my plans?",
+        "a": "Requirements depend on the project scope; consult city guidelines or staff."
+      },
+      {
+        "q": "Do I need to hire a contractor if I can do the work myself?",
+        "a": "Some projects may allow owner-performed work; verify with city regulations."
+      },
+      {
+        "q": "Does the City inspect the work?",
+        "a": "Yes, inspections are required for most permits to ensure compliance."
+      },
+      {
+        "q": "What happens if I start work without a building permit?",
+        "a": "Starting work without a permit may result in penalties and required corrective actions."
+      },
+      {
+        "q": "Do I need a permit to remove a tree?",
+        "a": "Tree removal may require a permit; check city regulations."
+      },
+      {
+        "q": "How do I obtain electrical permits?",
+        "a": "Electrical permits are obtained through the Permit Portal or city offices."
+      },
+      {
+        "q": "How do I obtain water, sewer, and/or septic removal?",
+        "a": "Contact the city for permits related to water, sewer, and septic system work."
+      },
+      {
+        "q": "What should be done with construction and demolition waste?",
+        "a": "Follow city guidelines for proper disposal and recycling of construction waste."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Sign Permit",
+      "Conditional Use Permit",
+      "Electrical Permit",
+      "Land Use Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2071
+}

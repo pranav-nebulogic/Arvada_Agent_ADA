@@ -1,0 +1,176 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "special_event_permit",
+    "category": "events",
+    "source_urls": [
+      "https://www.woodinville.gov/379/Special-Events"
+    ],
+    "scraped_at": "2026-07-28T06:51:12.458362+00:00",
+    "content_hash": "210bf31d24b99e47ac58714ee18750b3a8713709726774ac3da2e6292750dec4",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Special Event Permit",
+    "summary": "A Special Event Permit is required for events in the City of Woodinville involving more than 30 people in public parks, private parties exceeding building occupancy, or events impacting public facilities or requiring city services. The permit process includes application submission, review, payment, and permit issuance.",
+    "eligibility": "Events hosted within the City of Woodinville that include private parties exceeding building occupancy, gatherings of more than 30 people in City parks, sale or trading of merchandise or services on City park land, or events on Woodinville Sports Fields involving large tents or additional facilities.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Complete and submit your Special Event Permit Application",
+        "text": "Complete the Special Event Application form in full, including a proposed site map showing placement of tents, food trucks, stage, etc., a proposed route map with turn-by-turn details, a Certificate of Liability, a proposed parking plan, and a proposed signage plan. Submit the application using the online Permit Portal or by completing a paper form.",
+        "portal_url": "https://www.woodinville.gov/379/Special-Events"
+      },
+      {
+        "n": 2,
+        "title": "Application Review",
+        "text": "Your completed application will be routed for review to the Permit Center technicians.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Payment and Permit Issuance",
+        "text": "Once the permit receives final approval, you will be contacted to log in to your online Permit Portal account, pay the associated invoice, and print the permit and approved stamped plans. The permit and approved plans must be available onsite the day of the event.",
+        "portal_url": "https://www.woodinville.gov/379/Special-Events"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Special Event Application form",
+        "description": "Completed application form including event details and plans.",
+        "where_to_get": "Available online via the Permit Portal or as a paper form.",
+        "example": null
+      },
+      {
+        "name": "Proposed Site Map",
+        "description": "Map showing placement of tents, food trucks, stage, etc.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Proposed Route Map",
+        "description": "Map showing the event route with written turn-by-turn details.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Certificate of Liability",
+        "description": "Proof of liability insurance for the event.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Proposed Parking Plan",
+        "description": "Plan showing parking arrangements for the event.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Proposed Signage Plan",
+        "description": "Plan showing signage for the event.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "event_type",
+        "label": "Event Type",
+        "description": "Type of event being held (e.g., private party, public gathering).",
+        "example_value": null,
+        "why_needed": "To determine if a permit is required and what regulations apply."
+      },
+      {
+        "field_name": "number_of_attendees",
+        "label": "Number of Attendees",
+        "description": "Expected number of people attending the event.",
+        "example_value": "50",
+        "why_needed": "To assess permit requirements and resource needs."
+      },
+      {
+        "field_name": "site_map",
+        "label": "Proposed Site Map",
+        "description": "Map showing placement of tents, food trucks, stage, etc.",
+        "example_value": null,
+        "why_needed": "To evaluate event layout and impact on public spaces."
+      },
+      {
+        "field_name": "route_map",
+        "label": "Proposed Route Map",
+        "description": "Map and written details of the event route.",
+        "example_value": null,
+        "why_needed": "To review event route for safety and logistics."
+      },
+      {
+        "field_name": "certificate_of_liability",
+        "label": "Certificate of Liability",
+        "description": "Proof of liability insurance coverage for the event.",
+        "example_value": null,
+        "why_needed": "To ensure event liability coverage."
+      },
+      {
+        "field_name": "parking_plan",
+        "label": "Proposed Parking Plan",
+        "description": "Plan for parking arrangements during the event.",
+        "example_value": null,
+        "why_needed": "To manage parking and traffic flow."
+      },
+      {
+        "field_name": "signage_plan",
+        "label": "Proposed Signage Plan",
+        "description": "Plan for event signage.",
+        "example_value": null,
+        "why_needed": "To ensure proper signage for event navigation and safety."
+      }
+    ],
+    "fees": [
+      {
+        "name": "Permit Review and City Services",
+        "amount": null,
+        "rate": null,
+        "config_key": "fees.development_services.review",
+        "notes": "Fees for permit review and city services such as traffic and crowd control, street sweeping, or use of equipment will be assessed prior to the event."
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services - Permitting",
+      "phone": "425-489-2754",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "When is a Special Event Permit required?",
+        "a": "A Special Event Permit is required for events with more than 30 people in City parks, private parties exceeding building occupancy, events impacting public facilities, or events requiring city services."
+      },
+      {
+        "q": "How do I apply for a Special Event Permit?",
+        "a": "You can apply online through the Permit Portal or submit a paper form. The application must be complete with all required documents and plans."
+      },
+      {
+        "q": "Who can I contact for help with my application?",
+        "a": "Permit Technicians can be reached by emailing permits@woodinvillewa.gov or by calling 425-489-2754."
+      }
+    ],
+    "ordinance_refs": [
+      "Woodinville Municipal Code Chapter 8.12"
+    ],
+    "related_permit_types": [
+      "fireworks_permit",
+      "temporary_use_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2783
+}

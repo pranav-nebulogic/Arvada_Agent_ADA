@@ -1,0 +1,44 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "licensing",
+    "source_urls": [
+      "https://www.woodinville.gov/588/For-Businesses"
+    ],
+    "scraped_at": "2026-07-28T06:52:19.114044+00:00",
+    "content_hash": "1a29ff2ffb5bd5704d4c9eb83db71e74db30daf81fb2924aa36fe08fddca7670",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "For Businesses in Woodinville",
+    "summary": "This page provides contact information and resources for businesses in the City of Woodinville. It includes a subscription option for the Woodinville Economic Development Newsletter to stay informed about business-related updates and opportunities.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Management Analyst",
+      "phone": "425-877-2298",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1186
+}

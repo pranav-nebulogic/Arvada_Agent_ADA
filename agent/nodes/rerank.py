@@ -16,10 +16,38 @@ from agent.prompts import RERANK_SYSTEM, rerank_user
 from agent.state import AgentState
 
 
+def _retrieval_is_decisive(chunks: list[dict]) -> bool:
+    """True when hybrid search already separated the winners clearly.
+
+    The LLM rerank is an extra round trip on the critical path for EVERY grounded
+    answer -- measured TTFT was 4-8s. When the top candidate's RRF score stands
+    well clear of the one just past the cut, reordering changes nothing and the
+    call is pure latency.
+
+    Compares the best score against the first chunk that would be DROPPED
+    (index rerank_top_k). If there is nothing to drop, ordering is moot.
+    """
+    k = settings.rerank_top_k
+    if len(chunks) <= k:
+        return True
+    scores = [float(c.get("rrf_score") or 0.0) for c in chunks]
+    top = max(scores)
+    if top <= 0:
+        return False                      # no usable signal -> let the LLM decide
+    first_dropped = scores[k] if k < len(scores) else 0.0
+    return (top - first_dropped) >= settings.rerank_skip_score_gap * top
+
+
 async def rerank(state: AgentState) -> dict:
     chunks = state.retrieved_chunks
     if not chunks:
         return {"reranked_chunks": [], "low_confidence": True}
+
+    # Fast path: skip the LLM entirely when retrieval already decided.
+    if settings.rerank_skip_enabled and _retrieval_is_decisive(chunks):
+        top = chunks[: settings.rerank_top_k]
+        log.info("rerank_skipped", candidates=len(chunks), kept=len(top))
+        return {"reranked_chunks": top, "low_confidence": len(top) == 0}
 
     query = state.standalone_query or state.query
     scored = await _llm_scores(query, chunks)

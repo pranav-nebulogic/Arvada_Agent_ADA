@@ -1,0 +1,86 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "license",
+    "permit_type": "business_license",
+    "category": "licensing",
+    "source_urls": [
+      "https://www.woodinville.gov/184/Business-License"
+    ],
+    "scraped_at": "2026-07-28T06:51:27.379097+00:00",
+    "content_hash": "3cc3f8575822b78db6f8d4c6e2f7532581f4adb1a575982b41d0ed4f00407f85",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Business License in the City of Woodinville, WA",
+    "summary": "The City of Woodinville requires all businesses located or doing business within city limits to obtain a business license. This license helps the city maintain accurate business records and allows quicker emergency contact by the Police Department. The license must be renewed annually through the Washington State Department of Revenue.",
+    "eligibility": "All businesses maintaining a place of business within City limits, including schools, churches, political groups, and organizations. Also, businesses with annual sales or income over $2,000 in the City without a physical location must obtain a license. Certain exemptions apply as detailed in Woodinville Municipal Code 5.02.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Apply for Business License",
+        "text": "Apply online through the Washington State Department of Revenue (DOR) business licensing application process. Once approved, the City Endorsement will be displayed on your DOR State Business License.",
+        "portal_url": "https://dor.wa.gov/manage-business/apply-business-license"
+      },
+      {
+        "n": 2,
+        "title": "Renew License Annually",
+        "text": "Renew your City Endorsement annually through the Washington State Department of Revenue to maintain your business license in the City of Woodinville.",
+        "portal_url": "https://dor.wa.gov/manage-business/apply-business-license"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "Annual Business License Fee",
+        "amount": "$39",
+        "rate": null,
+        "config_key": null,
+        "notes": "Fee is waived for government functions, schools (education endeavors only), churches, political groups, and organizations exempt from taxation under 26 USC 501(c)(3) and (4), but they must still apply."
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Washington State Department of Revenue and City of Woodinville",
+      "phone": "(800) 451-7985 for DOR, 425-489-2700 for City",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Do I need a City of Woodinville business license?",
+        "a": "Yes, all businesses maintaining a place of business within City limits or with annual sales or income over $2,000 in the City must obtain a license, including schools, churches, political groups, and organizations. Some exemptions apply."
+      },
+      {
+        "q": "Is there a fee for the business license?",
+        "a": "The annual fee is $39, but it is waived for government functions, schools (education endeavors only), churches, political groups, and organizations exempt from taxation under 26 USC 501(c)(3) and (4)."
+      },
+      {
+        "q": "Do home-based businesses need a license?",
+        "a": "Yes, home-based businesses require a City business license and an additional home business permit. Review the Home Business Permit Application for regulations and apply through the Development Services Department."
+      }
+    ],
+    "ordinance_refs": [
+      "WMC 5.02",
+      "WMC 5.02.025",
+      "WMC 5.02.030",
+      "WMC 5.02.040",
+      "WMC 5.02.050"
+    ],
+    "related_permit_types": [
+      "Home Business Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2237
+}
