@@ -11,17 +11,25 @@ from __future__ import annotations
 
 import db
 from config import settings
-from agent import prompts, request_types
+from city_config import get_city
+from agent import engine_fees, prompts, request_types
 from agent.obs import log
 from agent.state import AgentState
 
-# Department contacts — phone numbers verified present in the scraped KB.
-DEPT_CONTACTS = {
-    "building": {"name": "Building Services / Permits", "phone": "720-898-7620"},
-    "planning": {"name": "Planning & Development (Right-of-Way)", "phone": "720-898-7640"},
-    "city_clerk": {"name": "City Clerk's Office", "phone": "720-898-7544"},
-    "general": {"name": "City of Arvada", "phone": prompts.CITY_PHONE},
-}
+def dept_contact(dept_key: str | None, city_id: str | None = None) -> dict[str, str]:
+    """
+    Escalation contact for a department, in the caller's city.
+
+    Falls back to the city's main line when that city has no verified direct
+    number for the department. That fallback is deliberate: these numbers used to
+    be a module-level Arvada dict, so any other city's residents would have been
+    told to phone Arvada. A vaguer-but-correct number beats a precise wrong one.
+    """
+    city = get_city(city_id)
+    dept = city.departments.get(dept_key or "")
+    if dept:
+        return dept
+    return {"name": city.city_name, "phone": city.phone}
 
 _BUILDING_PERMITS = {
     "building_permit",
@@ -54,7 +62,7 @@ def _route_department(state: AgentState) -> str:
 
 async def escalate(state: AgentState) -> dict:
     dept_key = _route_department(state)
-    dept = DEPT_CONTACTS.get(dept_key, DEPT_CONTACTS["general"])
+    dept = dept_contact(dept_key, state.city_id)
 
     history = (state.messages or [])[-settings.conversation_history_turns * 2:]
 
@@ -86,23 +94,31 @@ async def escalate(state: AgentState) -> dict:
     answer = (
         f"I've routed your request to **{dept['name']}**.{ref}\n\n"
         f"For direct help, you can contact them at **{dept['phone']}** or visit "
-        f"{prompts.CITY_WEBSITE}. A staff member can assist you with this matter, "
+        f"{get_city(state.city_id).website}. A staff member can assist you with this matter, "
         f"including appeals, complaints, or anything that needs a person to review."
     )
 
     # If we recognized a specific request type, offer a deep-link to start it.
     # Ada guides the citizen to the apply page — it does not create the record.
     meta = {**state.meta, "escalation_dept": dept_key, "escalation_contact": dept}
-    rt = (state.entities or {}).get("request_type")
-    info = request_types.get(rt)
-    if info:
-        surface = request_types.surface_for(state.user_type)
-        url = request_types.apply_url(info.key, surface, settings.portal_base_url)
-        answer += (
-            f"\n\nWhen you're ready, you can start the **{info.label}** "
-            f"application here: {url}"
-        )
-        meta["apply"] = {"code": info.key, "label": info.label, "module": info.module, "url": url}
+    # Resolve against THIS city's catalog, not the static Arvada registry: a
+    # Woodinville user was being offered "Residential Interior", a type that city
+    # does not have. No match -> no button, rather than a wrong one.
+    surface = request_types.surface_for(state.user_type)
+    text = " ".join(filter(None, [
+        state.standalone_query or state.query,
+        (state.entities or {}).get("request_type") or "",
+        (state.entities or {}).get("permit_type") or state.permit_type or "",
+    ]))
+    applied = await engine_fees.resolve_apply(state.city_id, text, surface)
+    if applied:
+        # Point at the action, don't repeat its URL. `meta["apply"]` below is
+        # already rendered by the UI as a proper button under "Manage a Service
+        # Request"; pasting the same link into the prose showed it TWICE — once
+        # as a real button and once as unclickable text.
+        answer += (f"\n\nWhen you're ready, you can start the "
+                   f"**{applied['label']}** application below.")
+        meta["apply"] = applied
 
     return {
         "intent": "ESCALATE",

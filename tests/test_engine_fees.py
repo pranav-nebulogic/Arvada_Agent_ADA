@@ -7,6 +7,8 @@ citizenLabel, citizenDescription, module, sortOrder).
 """
 from __future__ import annotations
 
+import pytest
+
 from agent import engine_fees as ef
 
 CATALOG = [
@@ -170,3 +172,116 @@ class TestMoneyFormatting:
     def test_display_and_numeric_agree(self):
         r = ef.to_fee_result(TestPayloadConversion.PAYLOAD)
         assert r["total_display"] == f"${r['total']:,.2f}"
+
+
+class TestUnresolvedPermitTypeGrounding:
+    """Regression: "How much does a Tesla Cybertruck permit cost?" got a confident
+    menu of plausible permits instead of a decline.
+
+    With no permit_type from the classifier AND no tenant-catalog match, there is
+    no evidence the query names a real permit. The old code returned
+    needs_permit_type, which graph._route_fee sent straight to `generate` --
+    bypassing retrieval and therefore the grounding rules. It must route to
+    retrieval instead so the answer has to be grounded, and can say it isn't there.
+    """
+
+    @pytest.mark.asyncio
+    async def test_no_evidence_routes_to_retrieval(self, monkeypatch):
+        from agent.nodes import fee_engine as fe
+        from agent.state import AgentState
+
+        async def no_catalog(_state, _valuation):
+            return None                      # engine/catalog produced nothing
+
+        monkeypatch.setattr(fe, "_try_engine", no_catalog)
+        st = AgentState(query="How much does a Tesla Cybertruck permit cost?",
+                        city_id="arvada-co", session_id="t", entities={})
+        out = await fe.fee_engine(st)
+        fr = out["fee_result"]
+        assert fr.get("no_schedule") is True, "must fall through to grounded retrieval"
+        assert fr.get("unresolved_permit_type") is True
+        assert not fr.get("needs_permit_type"), \
+            "asking 'which permit type?' legitimises a permit that does not exist"
+
+    def test_route_fee_sends_it_to_retrieve(self):
+        from agent.graph import _route_fee
+        from agent.state import AgentState
+        st = AgentState(query="q", city_id="arvada-co", session_id="t")
+        st.fee_result = {"no_schedule": True, "unresolved_permit_type": True}
+        assert _route_fee(st) == "retrieve"
+
+
+class TestResolveApply:
+    """Regression: a Woodinville user asking to remodel a kitchen was offered
+    "Residential Interior" -- an ARVADA type. Woodinville calls it
+    "Residential Remodel / Tenant Improvement (TI)", so the CTA pointed at
+    /permits/apply/residential_interior, which does not exist there.
+    """
+
+    WV = [
+        {"code": "wv_bld_res_remodel_ti", "name": "Residential Remodel / TI",
+         "citizenLabel": "Residential Remodel / Tenant Improvement (TI)",
+         "module": "permit", "sortOrder": 30,
+         "citizenDescription": "Remodel an existing home: kitchen, bathroom, interior work."},
+        {"code": "wv_bld_com_ti", "name": "Commercial Tenant Improvement",
+         "citizenLabel": "Commercial Tenant Improvement (TI)",
+         "module": "permit", "sortOrder": 70,
+         "citizenDescription": "Remodel a commercial space."},
+    ]
+
+    @pytest.mark.asyncio
+    async def test_uses_this_citys_label_and_code(self, monkeypatch):
+        async def catalog(_c):
+            return self.WV
+        monkeypatch.setattr(ef, "fetch_catalog", catalog)
+        monkeypatch.setattr(ef, "get_city",
+                            lambda c: type("C", (), {"portal_base_url": "https://woodinville.example"})())
+        got = await ef.resolve_apply("woodinville-wa", "i want to remodel my kitchen")
+        assert got["label"] == "Residential Remodel / Tenant Improvement (TI)"
+        assert got["code"] == "wv_bld_res_remodel_ti"
+        assert got["url"] == "https://woodinville.example/permits/apply/wv_bld_res_remodel_ti"
+        assert "residential_interior" not in got["url"], "the Arvada code must not appear"
+
+    @pytest.mark.asyncio
+    async def test_no_catalog_means_no_button(self, monkeypatch):
+        async def empty(_c):
+            return []
+        monkeypatch.setattr(ef, "fetch_catalog", empty)
+        # Falling back to the static Arvada registry is what caused the bug.
+        assert await ef.resolve_apply("woodinville-wa", "remodel my kitchen") is None
+
+    @pytest.mark.asyncio
+    async def test_ambiguous_variants_still_get_a_button(self, monkeypatch):
+        """Combo vs non-Combo is a near-tie, but they are the same work and the
+        UI offers "Choose a different service type" right next to the button.
+        No button at all was the over-correction after the Arvada-label bug."""
+        async def catalog(_c):
+            return [*self.WV,
+                    {"code": "wv_bld_res_remodel_ti_combo",
+                     "name": "Residential Remodel / TI - Combo",
+                     "citizenLabel": "Residential Remodel / TI (Combo)",
+                     "module": "permit", "sortOrder": 31,
+                     "citizenDescription": "Remodel an existing home with mechanical and plumbing."}]
+        monkeypatch.setattr(ef, "fetch_catalog", catalog)
+        monkeypatch.setattr(ef, "get_city",
+                            lambda c: type("C", (), {"portal_base_url": ""})())
+        got = await ef.resolve_apply("woodinville-wa", "i want to remodel my kitchen")
+        assert got is not None, "an ambiguous variant pair must still offer a CTA"
+        assert got["code"].startswith("wv_bld_res_remodel_ti")
+
+    @pytest.mark.asyncio
+    async def test_no_match_means_no_button(self, monkeypatch):
+        async def catalog(_c):
+            return self.WV
+        monkeypatch.setattr(ef, "fetch_catalog", catalog)
+        assert await ef.resolve_apply("woodinville-wa", "how do I adopt a dog") is None
+
+    @pytest.mark.asyncio
+    async def test_staff_go_to_agent_intake(self, monkeypatch):
+        async def catalog(_c):
+            return self.WV
+        monkeypatch.setattr(ef, "fetch_catalog", catalog)
+        monkeypatch.setattr(ef, "get_city",
+                            lambda c: type("C", (), {"portal_base_url": "https://woodinville.example"})())
+        got = await ef.resolve_apply("woodinville-wa", "remodel a kitchen", surface="agent")
+        assert got["url"].endswith("/agent/intake")

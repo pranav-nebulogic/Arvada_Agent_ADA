@@ -62,6 +62,13 @@ class Settings(BaseSettings):
     # the signal we actually want. Anything less certain still pays for the LLM.
     rerank_skip_enabled: bool = True
     rerank_skip_score_gap: float = 0.35
+    # Minimum top RRF score to skip the LLM at all. Skipping also skips the
+    # rerank_min_score relevance check that drives `low_confidence` and the
+    # "I don't know" route, so a weak-but-lopsided match must NOT take the fast
+    # path. With RRF k=60: ~0.0164 == rank 1 in one list only; ~0.032 == rank 1
+    # in both the FTS and vector lists. 0.025 sits between, so the skip requires
+    # agreement from both retrievers.
+    rerank_skip_min_top_score: float = 0.025
 
     # Run an UNFILTERED hybrid search concurrently with intent classification,
     # instead of waiting for intent and then searching. Measured: intent ~1.3s
@@ -99,6 +106,11 @@ class Settings(BaseSettings):
     parallel_intent_retrieve: bool = False
 
     # ── Cache / memory ──────────────────────────────────────────────────────
+    # Hard ceiling on any single Redis call. The cache is the FIRST node in the
+    # graph, so an unresponsive Redis (socket accepted, no reply) used to hang
+    # every turn forever -- a refused connection was always handled, a wedged one
+    # was not. Applied both as client socket timeouts and as an asyncio.wait_for.
+    redis_timeout_seconds: float = 2.0
     semantic_cache_threshold: float = 0.92
     semantic_cache_ttl_seconds: int = 86400
     conversation_history_turns: int = 6

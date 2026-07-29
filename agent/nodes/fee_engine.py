@@ -141,13 +141,18 @@ async def fee_engine(state: AgentState) -> dict:
         }
 
     if not permit_type:
-        return {
-            "fee_result": {
-                "permit_type": None,
-                "needs_permit_type": True,
-                "disclaimer": fee_tables.disclaimer(state.city_id),
-            }
-        }
+        # No permit type from the classifier AND no tenant-catalog match above
+        # (_try_engine returned None) means we have NO evidence this names a real
+        # permit. Asking "which permit type?" here legitimises the premise: it
+        # routed straight to generate, skipping retrieval and therefore the
+        # grounding rules, so "How much does a Tesla Cybertruck permit cost?"
+        # came back with a confident menu of plausible permits instead of saying
+        # no such thing exists. Route to retrieval so the answer has to be
+        # grounded in the KB -- and can honestly say it isn't there.
+        log.info("fee_no_permit_type_evidence", city=state.city_id,
+                 query=(state.standalone_query or state.query)[:120])
+        return {"fee_result": {"permit_type": None, "no_schedule": True,
+                               "unresolved_permit_type": True}}
 
     fee_rows = await db.fetch_fee_schedule(state.city_id, permit_type)
     if not fee_rows:

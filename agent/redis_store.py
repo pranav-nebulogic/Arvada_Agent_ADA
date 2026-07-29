@@ -44,6 +44,16 @@ def _get_cache() -> SemanticCache:
             distance_threshold=round(1.0 - settings.semantic_cache_threshold, 4),
             ttl=settings.semantic_cache_ttl_seconds,
             vectorizer=vectorizer,
+            # Without these a Redis that ACCEPTS the socket and then never
+            # answers hangs the call forever -- and since the cache is the FIRST
+            # node in the graph, every turn hangs with it. A refused connection
+            # already degrades gracefully; an unresponsive one did not. Observed
+            # locally against a half-open listener on 6379: the graph stalled
+            # indefinitely with no log line.
+            connection_kwargs={
+                "socket_connect_timeout": settings.redis_timeout_seconds,
+                "socket_timeout": settings.redis_timeout_seconds,
+            },
             filterable_fields=[
                 {"name": "city_id", "type": "tag"},
                 {"name": "lang", "type": "tag"},
@@ -83,7 +93,17 @@ async def check_cache(
         }
 
     try:
-        return await asyncio.to_thread(_do)
+        # Belt AND braces: socket timeouts should make _do() fail fast, but this
+        # is the FIRST node in the graph -- if the client ever wedges anyway, the
+        # whole turn hangs. wait_for guarantees we move on. The worker thread may
+        # linger; the request does not.
+        return await asyncio.wait_for(
+            asyncio.to_thread(_do), timeout=settings.redis_timeout_seconds
+        )
+    except asyncio.TimeoutError:
+        log.warning("semantic_cache_check_timeout",
+                    timeout=settings.redis_timeout_seconds)
+        return None
     except Exception as exc:
         # Cache must never break the request path — degrade to a miss, but log so a
         # silently-down Redis (every query a miss) is visible.
@@ -114,7 +134,14 @@ async def write_cache(
         )
 
     try:
-        await asyncio.to_thread(_do)
+        # Same guard as check_cache: the write happens after the answer streams,
+        # but a wedged client would still hold the turn open.
+        await asyncio.wait_for(
+            asyncio.to_thread(_do), timeout=settings.redis_timeout_seconds
+        )
+    except asyncio.TimeoutError:
+        log.warning("semantic_cache_write_timeout",
+                    timeout=settings.redis_timeout_seconds)
     except Exception as exc:
         log.warning("semantic_cache_write_failed", error=str(exc))
 

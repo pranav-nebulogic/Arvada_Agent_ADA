@@ -27,13 +27,26 @@ def _retrieval_is_decisive(chunks: list[dict]) -> bool:
     Compares the best score against the first chunk that would be DROPPED
     (index rerank_top_k). If there is nothing to drop, ordering is moot.
     """
-    k = settings.rerank_top_k
-    if len(chunks) <= k:
-        return True
     scores = [float(c.get("rrf_score") or 0.0) for c in chunks]
+    if not scores:
+        return False
     top = max(scores)
     if top <= 0:
         return False                      # no usable signal -> let the LLM decide
+
+    # Absolute strength gate, not just a relative gap. Skipping the LLM also
+    # skips the rerank_min_score relevance check that feeds `low_confidence` and
+    # the "I don't know" route -- so on a weak match we would keep whatever
+    # retrieval returned and answer confidently from it. With RRF at k=60, a top
+    # score near 1/61 (~0.0164) means the chunk was rank 1 in ONE list; ~0.032
+    # means it topped BOTH the FTS and vector lists. Only the latter is strong
+    # enough to trust without a relevance opinion.
+    if top < settings.rerank_skip_min_top_score:
+        return False
+
+    k = settings.rerank_top_k
+    if len(chunks) <= k:
+        return True
     first_dropped = scores[k] if k < len(scores) else 0.0
     return (top - first_dropped) >= settings.rerank_skip_score_gap * top
 
