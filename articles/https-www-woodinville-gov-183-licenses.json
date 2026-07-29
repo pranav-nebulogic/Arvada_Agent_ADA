@@ -1,0 +1,49 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "licensing",
+    "source_urls": [
+      "https://www.woodinville.gov/183/Licenses"
+    ],
+    "scraped_at": "2026-07-28T06:51:23.625212+00:00",
+    "content_hash": "51830b51dd2ea3d7010b89d8868ead8fbf7dc04624f91fd203c433ace58863ca",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Licenses in the City of Woodinville, WA",
+    "summary": "The City of Woodinville processes several types of licenses required for various activities including business operations, door-to-door sales, pet ownership, and carrying a concealed pistol. These licenses ensure compliance with city regulations.",
+    "eligibility": null,
+    "steps": [],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Administrative Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Business License",
+      "Door-to-Door Sales License",
+      "Pet License",
+      "Concealed Pistol License"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1186
+}

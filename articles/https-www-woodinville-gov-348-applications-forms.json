@@ -1,0 +1,245 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "building",
+    "source_urls": [
+      "https://www.woodinville.gov/348/Applications-Forms"
+    ],
+    "scraped_at": "2026-07-28T06:52:00.077482+00:00",
+    "content_hash": "80bf0147d25e46b972d3306e38582f21525f2355c07f9c65fd05ff05789a6d83",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Applications & Forms for Permits in Woodinville",
+    "summary": "The City of Woodinville Development Services Department accepts most permit applications online through their Permit Portal. Applicants can submit applications, pay fees, schedule inspections, and track projects via the portal. PDF versions of various permit applications and forms are also available for download.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Access the Permit Portal",
+        "text": "Visit the City of Woodinville's online Permit Portal to submit permit applications, revisions, pay fees, schedule inspections, and track your project.",
+        "portal_url": "https://www.woodinville.gov/348/Applications-Forms"
+      },
+      {
+        "n": 2,
+        "title": "Download PDF Forms",
+        "text": "If you prefer, download PDF versions of permit applications and forms from the City of Woodinville website for various permit types including Building, Fire, Home Business, Land Use, Signs, Site Development, Special Events, Right-of-Way, Tree Removal, and Bonds/Financial Guarantees.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Building / Mechanical / Plumbing Permit Application",
+        "description": "Application form for building, mechanical, and plumbing permits.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Building Plan Standard Requirements",
+        "description": "Standards required for building plan submissions.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Contractor / Building Owner Information - Asbestos in Construction",
+        "description": "Information form regarding asbestos in construction projects.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Demolition Permit Application",
+        "description": "Application form for demolition permits.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Site Plan Standard Requirements",
+        "description": "Standards required for site plan submissions.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Submittal Checklist - Construction Permits",
+        "description": "Checklist for construction permit submittals.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Fire Construction Permit Application",
+        "description": "Application form for fire construction permits.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Home Business Permit Application",
+        "description": "Application form for home business permits.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Legislative Action Application",
+        "description": "Application form for legislative actions.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Master Land Use Application and Submittal Checklist",
+        "description": "Master application and checklist for land use permits.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "School Safewalk Route Form",
+        "description": "Form for school safewalk route applications.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "State Environmental Policy Act (SEPA) Checklist",
+        "description": "Checklist for SEPA compliance.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Submittal Checklist - Land Use Permits",
+        "description": "Checklist for land use permit submittals.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Owner Authorization Form",
+        "description": "Form authorizing owner consent.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Pre-Application Registration Form",
+        "description": "Form for pre-application registration.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Sign Permit Applications (Memorial, Permanent, Temporary)",
+        "description": "Applications for various types of sign permits.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Civil Plan Standard Requirements",
+        "description": "Standards for civil plan submissions.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Site Development Bond Worksheet",
+        "description": "Worksheet for site development bonds.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Site Development Permit Application",
+        "description": "Application form for site development permits.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Technical Information Report (TIR) Submittal Checklist",
+        "description": "Checklist for TIR submittals.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Transportation Infrastructure Deviation Request Form",
+        "description": "Form to request deviations in transportation infrastructure.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Fireworks - Public Display Application",
+        "description": "Application for public fireworks displays.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Special Event Permit Application",
+        "description": "Application for special event permits.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Right-of-Way Permit Applications (Construction, Mailbox)",
+        "description": "Applications for right-of-way permits related to construction and mailbox installation.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Right-of-Way Use Authorization",
+        "description": "Authorization form for right-of-way use.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Tree Removal Application",
+        "description": "Application form for tree removal permits.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Assignment of Funds Form",
+        "description": "Form for assignment of funds related to bonds or guarantees.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Cash Performance Guarantee",
+        "description": "Form for cash performance guarantees.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      },
+      {
+        "name": "Surety Bond Form",
+        "description": "Form for surety bonds.",
+        "where_to_get": "City of Woodinville website",
+        "example": null
+      }
+    ],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Building Permit",
+      "Mechanical Permit",
+      "Plumbing Permit",
+      "Demolition Permit",
+      "Fire Construction Permit",
+      "Home Business Permit",
+      "Land Use Permit",
+      "Sign Permit",
+      "Site Development Permit",
+      "Special Event Permit",
+      "Right-of-Way Permit",
+      "Tree Removal Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2684
+}

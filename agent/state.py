@@ -54,6 +54,12 @@ class AgentState(BaseModel):
     retrieved_chunks: list[dict] = Field(default_factory=list)
     reranked_chunks: list[dict] = Field(default_factory=list)
     low_confidence: bool = False
+    # Unfiltered candidates fetched CONCURRENTLY with intent classification
+    # (settings.parallel_intent_retrieve). `retrieve` uses these only when intent
+    # produced no permit_type; otherwise it discards them and runs the filtered
+    # query. None = no prefetch happened, which is distinct from "prefetch
+    # returned nothing".
+    prefetched_chunks: list[dict] | None = None
 
     # ── Fee calculation ──────────────────────────────────────────────────────────
     fee_result: dict | None = None

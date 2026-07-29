@@ -29,7 +29,7 @@ from pydantic import BaseModel, Field
 import db
 from brand import scrub
 from config import settings
-from agent import llm, request_types
+from agent import engine_fees, llm, request_types
 from agent.obs import log
 from agent.graph import get_graph, run_prep
 from agent.nodes.cache import write_cache
@@ -37,25 +37,29 @@ from agent.nodes.judge import judge
 from agent.nodes.generate import astream_answer, citations_for
 from agent.state import AgentState
 
-def _apply_payload(prepped: AgentState) -> dict | None:
-    """Deep-link CTA when the message maps to a known request type.
+async def _apply_payload(prepped: AgentState) -> dict | None:
+    """Deep-link CTA when the message maps to a request type THIS city offers.
 
     Ada *guides* the citizen to the citizen-portal apply page; it never creates
-    the application (the AI stays out of the write/decision path)."""
+    the application (the AI stays out of the write/decision path).
+
+    Resolved against the tenant's own catalog. It used to come from
+    request_types.REGISTRY -- a static ARVADA list -- so a Woodinville user
+    asking about a kitchen remodel was offered "Residential Interior", which
+    Woodinville does not have. It also used the GLOBAL settings.portal_base_url
+    rather than the city's, so one process serving several cities could hand out
+    another city's host.
+    """
     info = (prepped.meta or {}).get("apply")
     if info:
         return info
-    t = request_types.get((prepped.entities or {}).get("request_type"))
-    if not t:
-        return None
     surface = request_types.surface_for(prepped.user_type)
-    return {
-        "code": t.key,
-        "label": t.label,
-        "module": t.module,
-        "surface": surface,
-        "url": request_types.apply_url(t.key, surface, settings.portal_base_url),
-    }
+    text = " ".join(filter(None, [
+        prepped.standalone_query or prepped.query,
+        (prepped.entities or {}).get("request_type") or "",
+        (prepped.entities or {}).get("permit_type") or "",
+    ]))
+    return await engine_fees.resolve_apply(prepped.city_id, text, surface)
 
 
 app = FastAPI(title="Arvada RAG Agent", version="0.2.0")
@@ -69,6 +73,7 @@ app.add_middleware(
 )
 
 MAX_BODY_BYTES = 256 * 1024  # 256 KB request cap (abuse guard)
+MAX_SOURCES_SHOWN = 3         # cap the "Sources" list to the top N cards per message
 
 
 @app.on_event("startup")
@@ -138,6 +143,11 @@ class ChatRequest(BaseModel):
     city_id: str | None = None
     session_id: str | None = None
     permit_type: str | None = None
+    # Which portal surface is asking. Drives the apply-CTA deep-link target
+    # (citizen apply flow vs agent intake) via request_types.surface_for. The
+    # trusted Spring proxy sets this per surface; the browser never picks it.
+    # Must be one of AgentState's literals: "homeowner" | "contractor" | "staff".
+    user_type: str | None = None
 
 
 class FeedbackRequest(BaseModel):
@@ -297,12 +307,30 @@ def _build_state(req: ChatRequest, request: Request) -> AgentState:
     rl_key = req.session_id or (request.client.host if request.client else "anon")
     _rate_limit(rl_key)
 
+    # Surface → user_type. Defaults to "homeowner" (citizen surface) when the
+    # caller omits it or sends an unknown value, so the AI never lands a citizen
+    # in the staff apply flow. Only "staff" flips surface_for to the agent intake.
+    user_type = req.user_type if req.user_type in ("homeowner", "contractor", "staff") else "homeowner"
+
+    # City precedence: the trusted X-Tenant-Id header (set server-side by the
+    # engine's AdaSseRelay from the tenant's config, never by the browser), then
+    # an explicit body field, then this deployment's default. Header-first is what
+    # makes one ADA process answer several cities from their own corpora — before
+    # 2026-07-23 the header was honoured for KB endpoints but ignored here, so
+    # every chat turn fell through to the default city.
+    city_id = (
+        request.headers.get("X-Tenant-Id")
+        or req.city_id
+        or settings.default_city_id
+    )
+
     return AgentState(
-        city_id=req.city_id or settings.default_city_id,
+        city_id=city_id,
         session_id=session_id,
         query=last_user.content,
         lang=req.lang or "en",
         permit_type=req.permit_type,
+        user_type=user_type,
         messages=[m.model_dump() for m in messages],
     )
 
@@ -325,26 +353,30 @@ def _chunk_text(text: str, size: int = 24):
         yield buf
 
 
-async def _scrubbed_stream(agen):
+async def _scrubbed_stream(agen, city_id: str | None = None):
     """Wrap a token stream so competitor names are scrubbed as it flows.
 
     Flushes only complete words (up to the last space) so a name can't be split
     across SSE deltas; the trailing partial word is held until the next delta.
+
+    ``city_id`` picks whose incumbent to scrub — each city has its own (see
+    brand.scrub); omitting it would apply the deployment city's patterns to
+    every city's answers.
     """
     buf = ""
     async for delta in agen:
         buf += delta
         idx = buf.rfind(" ")
         if idx >= 0:
-            out = scrub(buf[: idx + 1])
+            out = scrub(buf[: idx + 1], city_id)
             buf = buf[idx + 1 :]
             if out:
                 yield out
     if buf:
-        yield scrub(buf)
+        yield scrub(buf, city_id)
 
 
-def _format_cards(cards: list[dict]) -> list[dict]:
+def _format_cards(cards: list[dict], city_id: str | None = None) -> list[dict]:
     """Shape citation cards for the wire.
 
     `href` points at the in-app knowledge article page (rendered from the content
@@ -352,7 +384,8 @@ def _format_cards(cards: list[dict]) -> list[dict]:
     source URL is still passed as `source` so the article page can link out to it.
     """
     out = []
-    for i, c in enumerate(cards, 1):
+    # Show only the top N sources (cards arrive in rerank/relevance order).
+    for i, c in enumerate(cards[:MAX_SOURCES_SHOWN], 1):
         n = c.get("n") or i
         article_id = c.get("article_id")
         href = f"/article/{article_id}" if article_id else c.get("url")
@@ -361,7 +394,7 @@ def _format_cards(cards: list[dict]) -> list[dict]:
                 "id": str(n),
                 "n": n,
                 "article_id": str(article_id) if article_id else None,
-                "title": scrub(c.get("title")),
+                "title": scrub(c.get("title"), city_id),
                 "href": href,
                 "source": c.get("url"),
                 "effective_date": c.get("effective_date"),
@@ -388,18 +421,22 @@ async def chat_stream(req: ChatRequest, request: Request):
 
             # ── Semantic cache hit: stream the cached answer, skip the LLM ──────
             if prepped.cache_hit and prepped.cached_answer:
-                cached_answer = scrub(prepped.cached_answer)
+                cached_answer = scrub(prepped.cached_answer, state.city_id)
                 for piece in _chunk_text(cached_answer):
                     yield _sse({"type": "token", "content": piece})
-                citations = _format_cards(prepped.citations or [])
+                citations = _format_cards(prepped.citations or [], state.city_id)
                 if citations:
                     yield _sse({"type": "citation", "citations": citations})
+                apply = await _apply_payload(prepped)
+                if apply:
+                    yield _sse({"type": "apply", **apply})
                 yield _sse(
                     {
                         "type": "done",
                         "citations": citations,
                         "intent": prepped.intent or "kb",
                         "answer": cached_answer,
+                        "apply": apply,
                         "cached": True,
                         "timing": _timing(prepped),
                     }
@@ -409,7 +446,7 @@ async def chat_stream(req: ChatRequest, request: Request):
             # ── Conversational turn: persona answer, no retrieval/judge/cache ────
             if prepped.intent == "CONVERSE":
                 answer_parts: list[str] = []
-                async for delta in _scrubbed_stream(astream_answer(prepped)):
+                async for delta in _scrubbed_stream(astream_answer(prepped), state.city_id):
                     answer_parts.append(delta)
                     yield _sse({"type": "token", "content": delta})
                 yield _sse(
@@ -433,17 +470,17 @@ async def chat_stream(req: ChatRequest, request: Request):
                         "contact": prepped.meta.get("escalation_contact"),
                     }
                 )
-                apply = _apply_payload(prepped)
+                apply = await _apply_payload(prepped)
                 if apply:
                     yield _sse({"type": "apply", **apply})
-                for piece in _chunk_text(scrub(prepped.answer or "")):
+                for piece in _chunk_text(scrub(prepped.answer or "", state.city_id)):
                     yield _sse({"type": "token", "content": piece})
                 yield _sse(
                     {
                         "type": "done",
                         "citations": [],
                         "intent": "ESCALATE",
-                        "answer": scrub(prepped.answer or ""),
+                        "answer": scrub(prepped.answer or "", state.city_id),
                         "escalation_ticket_id": prepped.escalation_ticket_id,
                         "apply": apply,
                         "timing": _timing(prepped),
@@ -467,14 +504,14 @@ async def chat_stream(req: ChatRequest, request: Request):
             citations = _format_cards(raw_cards)
 
             answer_parts: list[str] = []
-            async for delta in _scrubbed_stream(astream_answer(prepped)):
+            async for delta in _scrubbed_stream(astream_answer(prepped), state.city_id):
                 answer_parts.append(delta)
                 yield _sse({"type": "token", "content": delta})
 
             if citations:
                 yield _sse({"type": "citation", "citations": citations})
 
-            apply = _apply_payload(prepped)
+            apply = await _apply_payload(prepped)
             if apply:
                 yield _sse({"type": "apply", **apply})
 
@@ -525,8 +562,8 @@ async def chat(req: ChatRequest, request: Request):
     # The generate/idk/cache nodes all populate state.citations with raw cards;
     # we only shape them for the wire here.
     return {
-        "reply": scrub(get("answer") or ""),
-        "citations": _format_cards(get("citations") or []),
+        "reply": scrub(get("answer") or "", state.city_id),
+        "citations": _format_cards(get("citations") or [], state.city_id),
         "intent": get("intent") or "kb",
     }
 
@@ -535,6 +572,9 @@ async def chat(req: ChatRequest, request: Request):
 @app.post("/tts", dependencies=[Depends(verify_token)])
 async def tts(req: TtsRequest):
     """Text-to-speech (OpenAI) for the chat 'Listen' button — streamed audio/mpeg."""
+    # No request state here: /tts re-reads text the client was already served
+    # (scrubbed for its city on the way out), so this is a belt-and-braces pass
+    # with the deployment default.
     text = scrub((req.text or "").strip())[:4000]
     if not text:
         raise HTTPException(status_code=400, detail="empty text")

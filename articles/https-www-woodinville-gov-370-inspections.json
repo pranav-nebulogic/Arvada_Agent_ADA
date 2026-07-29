@@ -1,0 +1,108 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "building",
+    "source_urls": [
+      "https://www.woodinville.gov/370/Inspections"
+    ],
+    "scraped_at": "2026-07-28T06:51:49.706105+00:00",
+    "content_hash": "66c128bb6051279adc316ba86a02b8a56fac55dbf81a0001b8ef7b6768d850e1",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Scheduling and Cancelling Inspections",
+    "summary": "Most permits and right-of-way construction require an inspection by a Building Inspector, Civil Engineer, Fire Inspector, or Planner. Inspections can be scheduled online or by phone, and cancellations can be made online or by phone under certain conditions.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Schedule Inspection Online",
+        "text": "Go to the online Permit Portal. Enter your permit number in the Permit Portal search bar. From the Record Info drop-down list, choose Inspections. Under Upcoming, click the inspection type in the Action drop down list. Click the Schedule button. Select an appointment date and time range by clicking a link on the Calendar. Select AM or PM if you have a morning or afternoon preference. Please note, inspectors attempt to meet as many preferences as possible, but time requests cannot be guaranteed. Enter any special instructions to the inspector in the Message to Inspector column. Click Submit Inspection Request. You must have a current issued permit in order to schedule an inspection.",
+        "portal_url": "https://www.woodinville.gov/370/Inspections"
+      },
+      {
+        "n": 2,
+        "title": "Schedule Inspection by Phone",
+        "text": "To schedule an inspection by phone, you must place a call by 3:00 PM the business day prior to desired inspection date. Dial 425-489-2754 and press \"2\" for inspections. To expedite your appointment request, please provide the following information: Permit number, Project address, Contact phone number of person onsite for the inspection, Type of inspection, Desired date of inspection, Indicate AM or PM preference. Date and times for inspections are subject to availability. For questions about scheduling your inspection, call the Permit Center.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Cancelling a Scheduled Inspection Online",
+        "text": "You may cancel your scheduled inspection(s) online any time before 6:00 am on the day of your scheduled inspection. To cancel online: Follow the instructions for Scheduling an Inspection Online listed above following steps 1 - 5. Click the Cancel button next to the inspection you want to cancel. Inspections not available for cancellation online will list a phone number to call instead.",
+        "portal_url": "https://www.woodinville.gov/370/Inspections"
+      },
+      {
+        "n": 4,
+        "title": "Cancelling a Scheduled Inspection by Phone",
+        "text": "If you need to cancel your inspection after 6:00 am the day of your scheduled inspection, please call 425-489-2754. Failure to cancel your inspection may result in additional charges.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [
+      {
+        "field_name": "permit_number",
+        "label": "Permit Number",
+        "description": "The number of your current issued permit required to schedule an inspection.",
+        "example_value": null,
+        "why_needed": "To identify the permit associated with the inspection request."
+      },
+      {
+        "field_name": "inspection_type",
+        "label": "Inspection Type",
+        "description": "The type of inspection you want to schedule.",
+        "example_value": null,
+        "why_needed": "To specify which inspection is needed."
+      },
+      {
+        "field_name": "appointment_date",
+        "label": "Appointment Date",
+        "description": "The date you want to schedule the inspection for.",
+        "example_value": null,
+        "why_needed": "To select the inspection date."
+      },
+      {
+        "field_name": "time_preference",
+        "label": "Time Preference (AM or PM)",
+        "description": "Your preference for morning or afternoon inspection time.",
+        "example_value": "AM or PM",
+        "why_needed": "To help schedule the inspection at a preferred time."
+      },
+      {
+        "field_name": "message_to_inspector",
+        "label": "Message to Inspector",
+        "description": "Any special instructions for the inspector.",
+        "example_value": null,
+        "why_needed": "To communicate specific details or requests to the inspector."
+      }
+    ],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Permit Center",
+      "phone": "425-489-2754",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "building",
+      "right-of-way construction"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2271
+}

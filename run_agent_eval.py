@@ -26,18 +26,33 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from sources import GOLDEN_QUERIES
+from sources import get_golden_queries, get_multi_turn
+from city_config import get_city
 from config import settings
 from agent.graph import get_graph
 from agent.state import AgentState
 import db
 
-REFUSAL_MARKERS = [
+_REFUSAL_MARKERS = [
     "don't have", "do not have", "couldn't find", "could not find", "unable",
-    "not have that", "contact the city", "arvadaco.gov", "don't currently",
+    "not have that", "contact the city", "don't currently",
     "no information", "isn't something", "not something", "doesn't regulate",
     "does not regulate", "out of", "not able",
 ]
+
+
+def refusal_markers(city_id: str | None = None) -> list[str]:
+    """Refusal phrases, plus THIS city's own website host.
+
+    The host used to be the literal "arvadaco.gov", so a Woodinville refusal
+    pointing at woodinville.gov scored as a hallucination -- the eval was
+    grading every city against Arvada's copy.
+    """
+    host = (get_city(city_id).website or "").replace("https://", "").replace("http://", "").strip("/")
+    return _REFUSAL_MARKERS + ([host.lower()] if host else [])
+
+
+REFUSAL_MARKERS = refusal_markers()
 
 
 def _final(result) -> AgentState | dict:
@@ -91,11 +106,17 @@ async def main():
     parser.add_argument("--limit", type=int, default=0)
     args = parser.parse_args()
 
-    queries = GOLDEN_QUERIES[: args.limit] if args.limit else GOLDEN_QUERIES
+    # Golden set for the CITY UNDER TEST. This used to import Arvada's list
+    # unconditionally while taking city_id from settings, so pointing the eval at
+    # Woodinville graded Arvada's questions against Woodinville's corpus.
+    city = get_city(settings.default_city_id)
+    all_queries = get_golden_queries(settings.default_city_id)
+    queries = all_queries[: args.limit] if args.limit else all_queries
 
-    print("\n  Arvada Agent — End-to-End Answer Eval")
+    print(f"\n  {city.assistant_name} — End-to-End Answer Eval — {city.city_name}")
     print(f"    generation fast={settings.generation_model_fast} deep={settings.generation_model_deep}  small={settings.intent_model}")
-    print(f"    {len(queries)} golden queries\n")
+    print(f"    rerank_skip={settings.rerank_skip_enabled} parallel_retrieve={settings.parallel_intent_retrieve}")
+    print(f"    {len(queries)} golden queries  (city_id={city.city_id})\n")
     print(f"{'#':>2}  {'Query':<48} {'Result'}")
     print("-" * 90)
 
@@ -116,18 +137,20 @@ async def main():
     # Multi-turn follow-up test (pronoun resolution).
     print("-" * 90)
     print("Multi-turn follow-up test:")
-    mt_messages = [
-        {"role": "user", "content": "I want to install rooftop solar panels on my house."},
-        {"role": "assistant", "content": "You'll need a solar (photovoltaic) building permit from the City of Arvada."},
-        {"role": "user", "content": "How much does that permit cost?"},
-    ]
-    mt = await _run_once("How much does that permit cost?", messages=mt_messages)
-    mt_ok = "solar" in (mt["standalone"] or "").lower() or any(
-        s in mt["answer"].lower() for s in ["$45", "45", "solar"]
-    )
-    print(f"    standalone query: {mt['standalone']!r}")
-    print(f"    answer: {mt['answer'][:160]!r}")
-    print(f"    -> {'PASS' if mt_ok else 'FAIL'} (resolved follow-up to solar permit cost)")
+    # Per-city fixture: the setup names a permit that city actually issues.
+    # Woodinville has no solar permit programme, so Arvada's fixture tested nothing.
+    fixture = get_multi_turn(settings.default_city_id)
+    if not fixture:
+        print(f"    SKIPPED — no multi-turn fixture for {city.city_id}")
+        mt_ok = True
+    else:
+        mt_messages = [*fixture["setup"], {"role": "user", "content": fixture["follow_up"]}]
+        mt = await _run_once(fixture["follow_up"], messages=mt_messages)
+        haystack = f"{(mt['standalone'] or '').lower()} {mt['answer'].lower()}"
+        mt_ok = any(s.lower() in haystack for s in fixture["expect_any"])
+        print(f"    standalone query: {mt['standalone']!r}")
+        print(f"    answer: {mt['answer'][:160]!r}")
+        print(f"    -> {'PASS' if mt_ok else 'FAIL'} ({fixture['describe']})")
 
     print("-" * 90)
     score = passed / len(queries) if queries else 0

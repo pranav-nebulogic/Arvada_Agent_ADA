@@ -1,0 +1,65 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "stormwater",
+    "source_urls": [
+      "https://www.woodinville.gov/391/Surface-Water-Management"
+    ],
+    "scraped_at": "2026-07-28T06:52:30.677667+00:00",
+    "content_hash": "041c5f5cc1d08d37e3842afa3415a6191976ee5cb84bb5ea12355f900dcb5f2b",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Surface Water Management in Woodinville",
+    "summary": "The Public Works Department in the City of Woodinville manages surface water and stormwater systems to reduce flooding and protect local waterways. Stormwater runoff from impervious surfaces carries pollutants into creeks, wetlands, and the Sammamish River, impacting water quality.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Understand Stormwater",
+        "text": "Stormwater includes rain and other precipitation such as hail, sleet, and snow. When it falls on impervious surfaces like roads and parking lots, it becomes stormwater runoff because it cannot soak into the ground.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Recognize Pollutant Sources",
+        "text": "Stormwater runoff collects pollutants from various sources including car fluids, road debris, industrial activities, pet waste, dirt, leaves, trash, chemicals, and spills.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Know the Flow Path",
+        "text": "Storm drains collect stormwater runoff and discharge it directly into local creeks, wetlands, and the Sammamish River, which ultimately feed into Lake Washington and Puget Sound.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Public Works Department",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "stormwater"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1528
+}

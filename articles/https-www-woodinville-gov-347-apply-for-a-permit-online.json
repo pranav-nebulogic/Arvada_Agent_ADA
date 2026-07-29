@@ -1,0 +1,134 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "building",
+    "source_urls": [
+      "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+    ],
+    "scraped_at": "2026-07-28T06:51:19.926579+00:00",
+    "content_hash": "f1605dd0b57a9cfee92b8abab8f5d655582045d26add8df92ddb868ffd247749",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "How to Apply for a Permit Online in Woodinville",
+    "summary": "The City of Woodinville allows most permit applications to be submitted online through their Permit Portal. Applicants can create an account, submit applications, pay fees, schedule inspections, and track their projects all in one place.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Create an Account",
+        "text": "To use the online Permit Portal, first sign up by creating a username and password. Once your account is established, you can start applying for permits online.",
+        "portal_url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+      },
+      {
+        "n": 2,
+        "title": "Select Permit Type",
+        "text": "Select \u201cNew\u201d and from the dropdown box select one of the following permit types: Building Permit, Engineering Permit, Fire Permit, Planning Application (Trees & Special Events Permits), or Temporary Sign. Accept the General Disclaimer.",
+        "portal_url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+      },
+      {
+        "n": 3,
+        "title": "Enter Location Information",
+        "text": "In the \u201cStreet No\u201d box, type only the 5-digit house/building number and click on search. Auto fill should happen on the screen, or multiple addresses will appear. Select the correct address.",
+        "portal_url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+      },
+      {
+        "n": 4,
+        "title": "Enter Contact Information",
+        "text": "For Applicant, select from your account. For Licensed Professional, click on \u201cLook Up,\u201d and in the \u201cName of Business\u201d box, type only the first 4 letters of the business name, then click on \u201cLook Up.\u201d If the licensed professional is in the system, information will auto fill or you can select the correct professional if multiple names appear.",
+        "portal_url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+      },
+      {
+        "n": 5,
+        "title": "Complete Application Information",
+        "text": "Provide the required application information. Custom fields marked with (*) must be filled in to proceed.",
+        "portal_url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+      },
+      {
+        "n": 6,
+        "title": "Upload Documents",
+        "text": "Upload application material attachments as required. Note that not all projects require plans or documents to be uploaded.",
+        "portal_url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+      },
+      {
+        "n": 7,
+        "title": "Review Application",
+        "text": "Review and edit any section of your application before submission.",
+        "portal_url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+      },
+      {
+        "n": 8,
+        "title": "Make Payment",
+        "text": "Pay the amount due for your permit application.",
+        "portal_url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+      },
+      {
+        "n": 9,
+        "title": "Record Application",
+        "text": "After payment, your application is recorded and an email notification is sent to the City.",
+        "portal_url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [
+      {
+        "field_name": "Street No",
+        "label": "Street Number",
+        "description": "Enter only the 5-digit house/building number for the permit location.",
+        "example_value": "12345",
+        "why_needed": "To identify the exact location of the permit application."
+      },
+      {
+        "field_name": "Applicant",
+        "label": "Applicant Contact",
+        "description": "Select the applicant contact from your account.",
+        "example_value": null,
+        "why_needed": "To identify who is applying for the permit."
+      },
+      {
+        "field_name": "Licensed Professional",
+        "label": "Licensed Professional Contact",
+        "description": "Look up the licensed professional by typing the first 4 letters of the business name and selecting the correct professional.",
+        "example_value": null,
+        "why_needed": "To identify the licensed professional associated with the permit."
+      },
+      {
+        "field_name": "Custom Fields (*)",
+        "label": "Required Application Fields",
+        "description": "Fields marked with an asterisk (*) must be completed to proceed with the application.",
+        "example_value": null,
+        "why_needed": "To ensure all necessary information is provided for the permit application."
+      }
+    ],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Building Permit",
+      "Engineering Permit",
+      "Fire Permit",
+      "Planning Application",
+      "Temporary Sign"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2334
+}

@@ -1,0 +1,59 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "building_permit_electrical",
+    "category": "building",
+    "source_urls": [
+      "https://www.woodinville.gov/367/Electrical-Permits"
+    ],
+    "scraped_at": "2026-07-28T06:51:42.254970+00:00",
+    "content_hash": "f566fdc2ce11ed94f63db175def7157a808718debd1fdf70c6f4f51c5d3a3d96",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Electrical Permits in Woodinville, WA",
+    "summary": "The City of Woodinville does not issue electrical permits or conduct electrical inspections. Electrical permits are managed by the Washington State Department of Labor and Industries, which reviews, issues, and inspects these permits.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Obtain Electrical Permit",
+        "text": "Electrical permits are reviewed, issued, and inspected by the Washington State Department of Labor and Industries. You can obtain many electrical permits online from the Labor and Industries website.",
+        "portal_url": "https://www.lni.wa.gov/licensing-permits/electrical-permits"
+      },
+      {
+        "n": 2,
+        "title": "Contact Nearest Labor and Industries Office",
+        "text": "If you need assistance or prefer in-person service, visit or contact the nearest Labor and Industries office located in Bellevue.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Washington Labor & Industries",
+      "phone": "425-990-1400",
+      "address": "616 120th Avenue NE\nSuite C201\nBellevue, WA",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "building_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1384
+}

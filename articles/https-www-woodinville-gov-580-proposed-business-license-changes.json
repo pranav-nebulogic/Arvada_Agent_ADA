@@ -1,0 +1,66 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": "business_license",
+    "category": "licensing",
+    "source_urls": [
+      "https://www.woodinville.gov/580/Proposed-Business-License-Changes"
+    ],
+    "scraped_at": "2026-07-28T06:52:41.918655+00:00",
+    "content_hash": "b6ca19031966f65f90090247881cb2a75749d04e51e2fabb5396b80f698f817a",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Proposed Business License Changes in Woodinville",
+    "summary": "The City of Woodinville is considering updates to its business licensing regulations, including Ordinance No. 790 which limits grounds for denying or revoking a business license and establishes an appeal process, and Ordinance No. 791 which introduces new licensing requirements for massage and reflexology businesses. These changes will be discussed at the City Council meeting on August 5 at 7:00 PM.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Proposed Ordinances",
+        "text": "Review Ordinance No. 790 and Ordinance No. 791 to understand the proposed changes to business licensing regulations in Woodinville.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Attend City Council Meeting",
+        "text": "Attend the City Council meeting on August 5 at 7:00 PM where the proposed business license changes will be on the agenda for discussion and consideration.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Finance Department",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [
+      "Ordinance No. 790",
+      "Ordinance No. 791",
+      "Chapter 5.02 of the Woodinville Municipal Code",
+      "Ordinance No. 587",
+      "Chapter 5.05 of the Woodinville Code",
+      "Ordinance Nos. 610 and 685"
+    ],
+    "related_permit_types": [
+      "business_license"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1810
+}

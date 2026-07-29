@@ -1,0 +1,66 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "fire_permit",
+    "category": "building",
+    "source_urls": [
+      "https://www.woodinville.gov/369/Fire-Permits"
+    ],
+    "scraped_at": "2026-07-28T06:51:45.957996+00:00",
+    "content_hash": "ceb555710b28ec025e9abe904601800ea5d4b1f4036be4798db54363af2d6471",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Fire Permits in the City of Woodinville, WA",
+    "summary": "The City of Woodinville, in cooperation with Woodinville Fire & Rescue District, issues fire permits for various types of new construction and temporary tent installations. Annual fire inspections are required for businesses, churches, and schools to ensure compliance with fire safety codes.",
+    "eligibility": "Residents and businesses inside the City of Woodinville",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Apply for Fire Permits for New Construction",
+        "text": "Apply for fire permits such as Fire Alarm System, Fire Sprinkler System, Fire Storage Tank, Fire Suppression System, and Fire Underground through the city's online permit portal.",
+        "portal_url": "https://www.woodinville.gov/369/Fire-Permits"
+      },
+      {
+        "n": 2,
+        "title": "Schedule Annual Fire & Life Safety Inspections",
+        "text": "All businesses, churches, and schools must schedule and pay for an annual fire and life safety inspection to maintain compliance with the Washington State Fire Prevention Code. Visit Woodinville Fire & Rescue's website to schedule or pay for the inspection.",
+        "portal_url": "https://www.woodinvillefire.com/"
+      },
+      {
+        "n": 3,
+        "title": "Obtain Temporary Tent Permits",
+        "text": "Temporary tents that are 400 square feet or larger require a permit and inspection by Woodinville Fire & Rescue. City review may also be required. Visit Woodinville Fire & Rescue's website for more information on obtaining a temporary tent permit and scheduling an inspection.",
+        "portal_url": "https://www.woodinvillefire.com/"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Woodinville Fire & Rescue District",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "building_permit",
+      "special_event_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1677
+}

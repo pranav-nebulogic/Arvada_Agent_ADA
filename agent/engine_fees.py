@@ -220,6 +220,70 @@ def is_ambiguous(matches: list[dict]) -> bool:
     return (top - second) < 1.0
 
 
+# Portal path per catalog module, mirroring request_types._CITIZEN_PREFIX. The
+# engine's catalog uses the same module vocabulary, so the deep link is built the
+# same way -- only the CODE and LABEL now come from the tenant instead of a
+# hardcoded list.
+_CITIZEN_PREFIX = {
+    "permit": "/permits/apply/",
+    "project": "/planning/apply/",
+    "planning": "/planning/apply/",
+    "event": "/events/apply/",
+}
+_AGENT_INTAKE_PATH = "/agent/intake"
+
+
+async def resolve_apply(city_id: str | None, text: str,
+                        surface: str = "citizen") -> dict | None:
+    """The 'start this application' CTA, named and coded by THIS city's catalog.
+
+    Previously the CTA came from request_types.REGISTRY -- a static ARVADA list --
+    so a Woodinville user asking about a kitchen remodel was offered "Residential
+    Interior", a type Woodinville does not have (its catalog calls it
+    "Residential Remodel / Tenant Improvement (TI)"), pointing at
+    /permits/apply/residential_interior which does not exist there.
+
+    Returns None rather than guessing: no catalog, or nothing matching, means no
+    button. A missing CTA is invisible; a broken one is the bug being fixed.
+    """
+    rows = await fetch_catalog(city_id)
+    if not rows:
+        return None
+    matches = match_types(text, rows)
+    if not matches:
+        return None
+    matches, _assumed = narrow_by_audience(text, matches)
+    if not matches:
+        return None
+    # NOTE: deliberately NOT gated on is_ambiguous, unlike fee pricing. A near-tie
+    # here is usually variants of the same work ("Residential Remodel / TI" vs the
+    # same "(Combo)"), and the UI already renders "Choose a different service
+    # type" next to this button -- so a best guess the citizen can change beats no
+    # button. A wrong FEE is a wrong number; a wrong CTA is one click to correct.
+    # match_types has already ordered by score then the catalog's own sortOrder,
+    # so the pick is the city's preferred variant, not arbitrary.
+
+    best = matches[0]
+    code = best.get("code")
+    module = best.get("module") or "permit"
+    if surface == "agent":
+        path = _AGENT_INTAKE_PATH
+    else:
+        prefix = _CITIZEN_PREFIX.get(module)
+        if not prefix or not code:
+            return None
+        path = f"{prefix}{code}"
+
+    base = (get_city(city_id).portal_base_url or "").rstrip("/")
+    return {
+        "code": code,
+        "label": label_for(best),      # the exact name on the portal's Apply screen
+        "module": module,
+        "surface": surface,
+        "url": (base + path) if base else path,
+    }
+
+
 async def fee_estimate(city_id: str | None, code: str,
                        valuation: float | None = None) -> dict[str, Any] | None:
     """Engine-computed, itemised estimate for one type. None on any failure."""

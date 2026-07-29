@@ -1,0 +1,71 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "fees",
+    "source_urls": [
+      "https://www.woodinville.gov/380/Fees"
+    ],
+    "scraped_at": "2026-07-28T06:51:38.540445+00:00",
+    "content_hash": "183159311bbb1ec17f62daae33f09d5eabe3515e63d2c7a07ce097e0576f310e",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Development Services Fees",
+    "summary": "The Woodinville Development Services Department charges various fees to cover the costs of processing development applications, plan reviews, inspections, permit issuance, and other services related to new construction and special events. Payments can be made in person or online with certain payment methods accepted.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review the 2026 Fee Schedule",
+        "text": "Consult the City of Woodinville's 2026 Fee Schedule to understand the applicable fees for your development services needs.",
+        "portal_url": "https://www.woodinville.gov/380/Fees"
+      },
+      {
+        "n": 2,
+        "title": "Make Payment In Person",
+        "text": "Payments can be made in person at the Development Services Department using Visa, Mastercard, Discover, or American Express. Note that a convenience fee of 3% with a $2.00 minimum per transaction is assessed by the credit service provider.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Make Payment Online",
+        "text": "Many fees may be paid electronically through the City\u2019s online Permit Portal. Note that American Express is not accepted for online transactions.",
+        "portal_url": "https://www.woodinville.gov/380/Fees"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "Convenience Fee for In-Person Credit Card Payments",
+        "amount": "3% with a $2.00 minimum per transaction",
+        "rate": "3%",
+        "config_key": null,
+        "notes": "Fee assessed by the credit service provider."
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services Department",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": []
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1486
+}

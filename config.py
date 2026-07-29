@@ -49,8 +49,68 @@ class Settings(BaseSettings):
     # Minimum rerank relevance (0-10 scale) for a chunk to count as "relevant".
     rerank_min_score: float = 3.0
     # If no chunk clears this bar, the confidence gate routes to "I don't know".
+    # Skip the LLM rerank when hybrid search already separated the winners: the
+    # call is an extra round trip in front of the FIRST TOKEN on every grounded
+    # answer (measured TTFT 4-8s). Fires when (top - first_dropped) >= gap * top,
+    # i.e. the best candidate beats the best REJECTED one by this fraction.
+    # Raise it to rerank more often (safer, slower); 0 disables the skip.
+    #
+    # Tuned against production retrieval, not guessed. RRF scores are inherently
+    # bunched (~0.0164 == 1/61, i.e. rank 1 in ONE list; ~0.032 == rank 1 in
+    # BOTH the FTS and vector lists). At 0.35 the skip fired on 3 of 8 sample
+    # queries -- and precisely the ones where both retrievers agreed, which is
+    # the signal we actually want. Anything less certain still pays for the LLM.
+    rerank_skip_enabled: bool = True
+    rerank_skip_score_gap: float = 0.35
+    # Minimum top RRF score to skip the LLM at all. Skipping also skips the
+    # rerank_min_score relevance check that drives `low_confidence` and the
+    # "I don't know" route, so a weak-but-lopsided match must NOT take the fast
+    # path. With RRF k=60: ~0.0164 == rank 1 in one list only; ~0.032 == rank 1
+    # in both the FTS and vector lists. 0.025 sits between, so the skip requires
+    # agreement from both retrievers.
+    rerank_skip_min_top_score: float = 0.025
+
+    # Run an UNFILTERED hybrid search concurrently with intent classification,
+    # instead of waiting for intent and then searching. Measured: intent ~1.3s
+    # and retrieve ~1.5s run back-to-back today, and only 3 of 12 sample queries
+    # produce a permit_type at all.
+    #
+    # Speculative, never lossy: the prefetch is USED only when intent reports no
+    # permit_type. When it does report one we discard the prefetch and run the
+    # same filtered query as today, because the filter is not a subset of the
+    # unfiltered ranking -- measured, the filtered top-10 for "what permits do I
+    # need for a deck" shares 0 of 10 chunks with the unfiltered top-100, so
+    # over-fetching cannot substitute for it.
+    #
+    # Net: ~75% of queries save an LLM call's worth of wall clock; ~25% pay one
+    # wasted (concurrent) DB query.
+    #
+    # DEFAULT OFF: correct, but not worth it in production.
+    #
+    # Correctness is settled -- with the intent output held FIXED, 12/12 queries
+    # returned byte-identical chunk sets and the prefetch was reused on 8 of 12.
+    # (Holding intent fixed matters: a first attempt let the classifier re-run
+    # per path, and its own run-to-run variance looked like a regression.)
+    #
+    # But an A/B on the deployed container showed NO win: median TTFT 9.37s with
+    # this on vs 8.55s with it off, over 4 queries x 3 runs. The reason is that
+    # the per-node numbers that motivated it were measured from a developer
+    # laptop, where every DB round trip crosses a continent -- retrieve looked
+    # like ~1.5s. In-datacenter the app and Postgres are in the same region, so
+    # retrieve is a small fraction of that and overlapping it with a ~1.3s
+    # classifier saves almost nothing, while still costing a speculative query.
+    #
+    # Kept because it is tested and lossless: flip to true (or set
+    # PARALLEL_INTENT_RETRIEVE=true) if in-container timing ever shows retrieve
+    # is actually expensive. Do not enable on laptop measurements again.
+    parallel_intent_retrieve: bool = False
 
     # ── Cache / memory ──────────────────────────────────────────────────────
+    # Hard ceiling on any single Redis call. The cache is the FIRST node in the
+    # graph, so an unresponsive Redis (socket accepted, no reply) used to hang
+    # every turn forever -- a refused connection was always handled, a wedged one
+    # was not. Applied both as client socket timeouts and as an asyncio.wait_for.
+    redis_timeout_seconds: float = 2.0
     semantic_cache_threshold: float = 0.92
     semantic_cache_ttl_seconds: int = 86400
     conversation_history_turns: int = 6

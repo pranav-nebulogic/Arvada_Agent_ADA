@@ -1,0 +1,103 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "license",
+    "permit_type": "pet_license",
+    "category": "licensing",
+    "source_urls": [
+      "https://www.woodinville.gov/186/Pet-License"
+    ],
+    "scraped_at": "2026-07-28T06:52:11.632467+00:00",
+    "content_hash": "f91853d0e60dc0e921e73e0f6b9f892f7113a63291ee2d0ad6114d70268ef9e2",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Pet License in the City of Woodinville, WA",
+    "summary": "All dog and cat owners living within the City of Woodinville must license their pets if they are eight weeks or older. The City coordinates with Regional Animal Services of King County to provide pet licensing services, which can be obtained online or in person.",
+    "eligibility": "All dog and cat owners living within City limits with pets eight weeks and older.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Obtain a Pet License",
+        "text": "You may obtain a license online via Regional Animal Services of King County or in person at Woodinville City Hall, 17301 133rd Avenue NE, 2nd Floor Counter, Woodinville, WA 98072, Monday through Thursday from 7:30 am to 5 pm.",
+        "portal_url": "https://www.kingcounty.gov/services/animals/animal-licensing.aspx"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "Juvenile- Under Six Months of Age",
+        "amount": "$15",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Unaltered- Eligible for Spay/Neuter Voucher",
+        "amount": "$60",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Altered- Proof Pet is Spayed or Neutered Required",
+        "amount": "$30",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Senior Citizen- Owner 65 or Older (Pet Must Be Altered)",
+        "amount": "$15",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Disabled- Proof that Pet is Altered and King County Proof of Disability Application",
+        "amount": "$15",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Service Animal- With Statement That Owner Has a Disability and Service Animal Certification",
+        "amount": "$0",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      },
+      {
+        "name": "Replacement- For Lost, Unexpired Tag",
+        "amount": "$5",
+        "rate": null,
+        "config_key": null,
+        "notes": null
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Regional Animal Services of King County",
+      "phone": "206-296-7387",
+      "address": "Woodinville City Hall\n17301 133rd Avenue NE\n2nd Floor Counter\nWoodinville, WA 98072",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "animal_control_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2018
+}

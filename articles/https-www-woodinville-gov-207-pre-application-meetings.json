@@ -1,0 +1,124 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "development",
+    "source_urls": [
+      "https://www.woodinville.gov/207/Pre-Application-Meetings"
+    ],
+    "scraped_at": "2026-07-28T06:52:03.945221+00:00",
+    "content_hash": "7f7d362e8c7d330d9f9f48b478262e62e91e29591a5af459f9af66e5b1722951",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Pre-Application Meetings",
+    "summary": "Pre-application meetings provide an opportunity for development applicants to discuss proposed projects with City staff, including representatives from Development Services, Fire Marshal's Office, and Public Works. These meetings help applicants understand environmental, land use, and permit requirements to submit a complete application.",
+    "eligibility": "Potential development applicants",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Schedule a Pre-Application Meeting",
+        "text": "Contact the Development Services Department at 425-489-2754 to schedule a pre-application meeting.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Prepare Application Materials",
+        "text": "Provide a draft site plan, grading plan, storm drainage plan, and building elevations if developed to assist in the discussion.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Attend the Meeting",
+        "text": "Meet in-person at Woodinville City Hall or virtually on Wednesdays at 9 and 10 am with City staff and possibly a City consultant to discuss the project, identify fatal flaws, major code requirements, and necessary permits.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Draft Site Plan",
+        "description": "A preliminary layout of the project site.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Grading Plan",
+        "description": "A plan showing proposed grading and earthwork.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Storm Drainage Plan",
+        "description": "A plan detailing stormwater management for the project.",
+        "where_to_get": null,
+        "example": null
+      },
+      {
+        "name": "Building Elevations",
+        "description": "Drawings showing the exterior views of proposed buildings, if developed.",
+        "where_to_get": null,
+        "example": null
+      }
+    ],
+    "form_fields": [
+      {
+        "field_name": "project_description",
+        "label": "Project Description",
+        "description": "A brief description of the proposed development project.",
+        "example_value": null,
+        "why_needed": "To understand the scope and nature of the project."
+      },
+      {
+        "field_name": "contact_information",
+        "label": "Contact Information",
+        "description": "Applicant's contact details for communication purposes.",
+        "example_value": null,
+        "why_needed": "To coordinate meeting scheduling and follow-up."
+      }
+    ],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services Department",
+      "phone": "425-489-2754",
+      "address": "Woodinville City Hall",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Is the pre-application meeting mandatory?",
+        "a": "No, the pre-application meeting is optional but encouraged to assist in submitting a complete application."
+      },
+      {
+        "q": "Who should attend the pre-application meeting?",
+        "a": "The applicant, and optionally an engineer or architect, along with City staff from Development Services, Fire Marshal's Office, and Public Works."
+      },
+      {
+        "q": "When are pre-application meetings held?",
+        "a": "Pre-application meetings are held in-person or virtually on Wednesdays at 9 and 10 am."
+      },
+      {
+        "q": "Can pre-application meetings be used for special event permits?",
+        "a": "Yes, pre-application meetings are also held to review Special Event Permit Applications. Contact the City to determine if your event requires a permit."
+      }
+    ],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Building Permit",
+      "Land Use Permit",
+      "Special Event Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1911
+}

@@ -1,0 +1,65 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "planning",
+    "source_urls": [
+      "https://www.woodinville.gov/210/Long-Range-Planning"
+    ],
+    "scraped_at": "2026-07-28T06:52:49.505338+00:00",
+    "content_hash": "91d13a049ea46504ee2475588576aa000762eadb041e54616588c2db9a54c1dd",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Long Range Planning Program",
+    "summary": "The Long Range Planning Program in Woodinville is responsible for preparing, maintaining, and updating the Comprehensive Plan and other planning documents that guide the city's future development. This includes land use, capital facilities, transportation, housing, and other areas to meet the city's needs for the next 20 years and ensure compliance with the Growth Management Act (GMA).",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Prepare and Update Comprehensive Plan",
+        "text": "Engage in preparation, maintenance, and update of the Woodinville Comprehensive Plan and other planning documents guiding future development.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Annual Updates and Revisions",
+        "text": "Perform annual updates of the Comprehensive Plan map and text, revise the Zoning Map and development regulations to maintain consistency with the Comprehensive Plan.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Provide Resource Assistance",
+        "text": "Provide resource assistance to the City Council, Planning Commission, and other City departments regarding planning matters.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [
+      "Growth Management Act (GMA)"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1541
+}

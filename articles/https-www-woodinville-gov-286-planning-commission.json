@@ -1,0 +1,65 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "planning",
+    "source_urls": [
+      "https://www.woodinville.gov/286/Planning-Commission"
+    ],
+    "scraped_at": "2026-07-28T06:52:52.604554+00:00",
+    "content_hash": "2dbb91cd6a357bb3a95143723e54ff1879a9aaa448b361d0b1aa87b3746e9840",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Woodinville Planning Commission",
+    "summary": "The Planning Commission in Woodinville is a volunteer body of seven residents appointed by the City Council to advise on land use, long-range planning, capital projects, and development agreements. The Commission meets monthly and also designates members to a Design Review Committee for building design recommendations.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Appointment of Members",
+        "text": "Members are interviewed and appointed by the City Council to serve a four-year term.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Attend Regular Meetings",
+        "text": "Regular Planning Commission meetings take place on the 4th Wednesday of every month at 7:00 pm at Woodinville City Hall.",
+        "portal_url": "https://www.woodinville.gov/286/Planning-Commission"
+      },
+      {
+        "n": 3,
+        "title": "Access Meeting Materials",
+        "text": "Current and prior agendas, packets, minutes, and videos can be found in the City's Meetings and Agendas Portal.",
+        "portal_url": "https://www.woodinville.gov/286/Planning-Commission"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Planning Commission",
+      "phone": null,
+      "address": "Woodinville City Hall",
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [
+      "Woodinville Municipal Code Chapter 2.12"
+    ],
+    "related_permit_types": []
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1689
+}

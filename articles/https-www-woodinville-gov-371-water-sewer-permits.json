@@ -1,0 +1,73 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "row_permit",
+    "category": "development",
+    "source_urls": [
+      "https://www.woodinville.gov/371/Water-Sewer-Permits"
+    ],
+    "scraped_at": "2026-07-28T06:51:53.405434+00:00",
+    "content_hash": "bfa0a71d40553ce0779e0e070192b4bd126c50626b3458092f7995900d7fa7c3",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Water and Sewer Permits",
+    "summary": "Applications for new construction in the City of Woodinville require certificates of available water and sewer services from Woodinville Water District before submitting a development permit. Properties without access to sanitary sewers may need to install on-site septic systems, which require approval from the Seattle and King County Public Health Department.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Obtain Certificate of Water and Sewer Availability",
+        "text": "Request a certificate of water and sewer availability from Woodinville Water District prior to submitting a development permit to the City.",
+        "portal_url": "https://www.woodinvillewater.com/"
+      },
+      {
+        "n": 2,
+        "title": "Apply for On-Site Septic System Approval (if applicable)",
+        "text": "If your property is located in an area where sanitary sewers are not available, apply for approval of an on-site septic system from the Seattle and King County Public Health Department. Approval is required for issuance of many building permits.",
+        "portal_url": "https://kingcounty.gov/depts/health/environmental-health/onsite-sewage.aspx"
+      }
+    ],
+    "required_documents": [
+      {
+        "name": "Certificate of Water and Sewer Availability",
+        "description": "Certificate from Woodinville Water District confirming availability of water and sewer services for the property.",
+        "where_to_get": "Woodinville Water District",
+        "example": null
+      },
+      {
+        "name": "On-Site Septic System Approval",
+        "description": "Approval from Seattle and King County Public Health Department for installation of an on-site septic system if sanitary sewers are not available.",
+        "where_to_get": "Seattle and King County Public Health Department",
+        "example": null
+      }
+    ],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "building_permit",
+      "development_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1644
+}

@@ -1,7 +1,7 @@
 # scraper/sources.py
-# Complete list of Arvada sources to scrape.
-# This is the ONLY place source URLs are defined.
-# Add new cities by creating a new SOURCES dict for that city.
+# Per-city source definitions to scrape. This is the ONLY place source URLs live.
+# Add a new city by creating a new <CITY>_SOURCES dict and registering it in
+# SOURCES_BY_CITY below; the scraper/eval select by DEFAULT_CITY_ID (get_sources()).
 
 ARVADA_SOURCES = {
     "city_id": "arvada-co",
@@ -406,3 +406,207 @@ GOLDEN_QUERIES = [
      "expected_section": None,
      "expected_answer_contains": ["food truck permit", "special event", "business license"]},
 ]
+
+
+# ── Woodinville, WA ─────────────────────────────────────────────────────────
+# CivicPlus city site (woodinville.gov), same CMS as Arvada — the StaticCrawler
+# HTML path transfers. The Woodinville Municipal Code and the 2026 Fee Schedule
+# are ingested from local PDFs (wmc_pdf_transformer.py / fee_schedule_transformer.py),
+# NOT scraped (codepublishing.com is bot-blocked). The FAQ is a single-page
+# accordion parsed by woodinville_faq.py. So js_pages/faq_endpoints are empty here;
+# html_pages are the permit/licensing process pages (LLM transform → human review).
+WOODINVILLE_SOURCES = {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "base_url": "https://www.woodinville.gov",
+    "html_pages": [
+        {"url": "https://www.woodinville.gov/200/Permitting",
+         "permit_type": None, "category": "building", "article_type": "process", "priority": 1},
+        {"url": "https://www.woodinville.gov/199/Development-Services",
+         "permit_type": None, "category": "development", "article_type": "process", "priority": 1},
+        {"url": "https://www.woodinville.gov/364/Commercial-Residential-Construction-Perm",
+         "permit_type": "building_permit", "category": "building", "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/366/Mechanical-Plumbing-Permits",
+         "permit_type": "building_permit_mechanical_plumbing", "category": "building", "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/367/Electrical-Permits",
+         "permit_type": "building_permit_electrical", "category": "building", "article_type": "permit", "priority": 2},
+        {"url": "https://www.woodinville.gov/368/Site-Development-Permit",
+         "permit_type": "development_permit", "category": "development", "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/369/Fire-Permits",
+         "permit_type": "fire_permit", "category": "building", "article_type": "permit", "priority": 2},
+        {"url": "https://www.woodinville.gov/370/Inspections",
+         "permit_type": None, "category": "building", "article_type": "process", "priority": 2},
+        {"url": "https://www.woodinville.gov/371/Water-Sewer-Permits",
+         "permit_type": "row_permit", "category": "development", "article_type": "permit", "priority": 2},
+        {"url": "https://www.woodinville.gov/372/Sign-Permits",
+         "permit_type": "sign_permit", "category": "building", "article_type": "permit", "priority": 2},
+        {"url": "https://www.woodinville.gov/463/Portable-Temporary-Signs",
+         "permit_type": "sign_permit", "category": "building", "article_type": "permit", "priority": 3},
+        {"url": "https://www.woodinville.gov/373/Right-of-Way-Permits",
+         "permit_type": "row_permit", "category": "row", "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/379/Special-Events",
+         "permit_type": "special_event_permit", "category": "events", "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/416/Tree-Protection-Removal",
+         "permit_type": "tree_permit", "category": "development", "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/348/Applications-Forms",
+         "permit_type": None, "category": "building", "article_type": "process", "priority": 2},
+        {"url": "https://www.woodinville.gov/347/Apply-for-a-Permit-Online",
+         "permit_type": None, "category": "building", "article_type": "process", "priority": 1},
+        {"url": "https://www.woodinville.gov/207/Pre-Application-Meetings",
+         "permit_type": None, "category": "development", "article_type": "process", "priority": 2},
+
+        # ── Licensing ───────────────────────────────────────────────────────
+        # The whole licensing branch was missing, which is why the agent had
+        # nothing to say about running a business in Woodinville.
+        {"url": "https://www.woodinville.gov/183/Licenses",
+         "permit_type": None, "category": "licensing", "article_type": "process", "priority": 1},
+        {"url": "https://www.woodinville.gov/184/Business-License",
+         "permit_type": "business_license", "category": "licensing", "article_type": "license", "priority": 1},
+        {"url": "https://www.woodinville.gov/592/Business-Licenses",
+         "permit_type": "business_license", "category": "licensing", "article_type": "license", "priority": 1},
+        {"url": "https://www.woodinville.gov/580/Proposed-Business-License-Changes",
+         "permit_type": "business_license", "category": "licensing", "article_type": "process", "priority": 3},
+        {"url": "https://www.woodinville.gov/185/Peddlers-License",
+         "permit_type": "peddlers_license", "category": "licensing", "article_type": "license", "priority": 2},
+        {"url": "https://www.woodinville.gov/186/Pet-License",
+         "permit_type": "pet_license", "category": "licensing", "article_type": "license", "priority": 2},
+
+        # ── Business support ────────────────────────────────────────────────
+        {"url": "https://www.woodinville.gov/587/Doing-Business",
+         "permit_type": None, "category": "licensing", "article_type": "process", "priority": 2},
+        {"url": "https://www.woodinville.gov/588/For-Businesses",
+         "permit_type": None, "category": "licensing", "article_type": "process", "priority": 2},
+        {"url": "https://www.woodinville.gov/590/Small-Business-Resources",
+         "permit_type": None, "category": "licensing", "article_type": "process", "priority": 3},
+
+        # ── Land use & planning ─────────────────────────────────────────────
+        {"url": "https://www.woodinville.gov/374/Land-Use-Zoning",
+         "permit_type": None, "category": "planning", "article_type": "process", "priority": 1},
+        {"url": "https://www.woodinville.gov/210/Long-Range-Planning",
+         "permit_type": None, "category": "planning", "article_type": "process", "priority": 3},
+        {"url": "https://www.woodinville.gov/286/Planning-Commission",
+         "permit_type": None, "category": "planning", "article_type": "process", "priority": 3},
+        {"url": "https://www.woodinville.gov/287/Design-Review-Committee",
+         "permit_type": None, "category": "planning", "article_type": "process", "priority": 3},
+
+        # ── Compliance & code ───────────────────────────────────────────────
+        {"url": "https://www.woodinville.gov/378/Code-Enforcement",
+         "permit_type": None, "category": "compliance", "article_type": "process", "priority": 2},
+        {"url": "https://www.woodinville.gov/165/Codes-Ordinances-Resolutions",
+         "permit_type": None, "category": "compliance", "article_type": "process", "priority": 2},
+
+        # ── Fees ────────────────────────────────────────────────────────────
+        # The fee SCHEDULE itself is ingested from the local PDF
+        # (fee_schedule_transformer.py); this is the city's fees landing page.
+        {"url": "https://www.woodinville.gov/380/Fees",
+         "permit_type": None, "category": "fees", "article_type": "process", "priority": 1},
+
+        # ── Stormwater / surface water ──────────────────────────────────────
+        {"url": "https://www.woodinville.gov/391/Surface-Water-Management",
+         "permit_type": None, "category": "stormwater", "article_type": "process", "priority": 2},
+        {"url": "https://www.woodinville.gov/393/Stormwater-Permit-NPDES",
+         "permit_type": "stormwater_permit", "category": "stormwater", "article_type": "permit", "priority": 2},
+        {"url": "https://www.woodinville.gov/394/Stormwater-Utility",
+         "permit_type": None, "category": "stormwater", "article_type": "process", "priority": 3},
+        {"url": "https://www.woodinville.gov/469/Source-Control-Inspections-for-Businesse",
+         "permit_type": None, "category": "stormwater", "article_type": "process", "priority": 3},
+    ],
+    # WMC comes from local PDFs; no Municode API for Woodinville.
+    "js_pages": [],
+    # DocumentCenter PDFs can be added here as {"url", "name", ...}; the 2026 Fee
+    # Schedule is already ingested from the local copy (fee_schedule_transformer.py).
+    "pdfs": [],
+    # FAQ is a single-page accordion handled by woodinville_faq.py (not TID pages).
+    "faq_endpoints": [],
+}
+
+
+# ── City source registry ────────────────────────────────────────────────────
+SOURCES_BY_CITY = {
+    "arvada-co": ARVADA_SOURCES,
+    "woodinville-wa": WOODINVILLE_SOURCES,
+}
+
+
+def get_sources(city_id: str | None = None) -> dict:
+    """Return the SOURCES dict for the active city (DEFAULT_CITY_ID by default)."""
+    from config import settings
+    cid = (city_id or settings.default_city_id or "arvada-co").strip()
+    if cid not in SOURCES_BY_CITY:
+        raise KeyError(f"No sources defined for city_id {cid!r}; add a <CITY>_SOURCES dict")
+    return SOURCES_BY_CITY[cid]
+
+
+# Woodinville eval set — grounded in the ingested WMC + 2026 Fee Schedule + FAQ.
+WOODINVILLE_GOLDEN_QUERIES = [
+    {"query": "How much is a building permit for a $25,000 project in Woodinville?",
+     "expected_permit_type": "building_permit", "expected_section": "fees",
+     "expected_answer_contains": ["510", "valuation"]},
+    {"query": "What is the building permit fee for a $1,000 project?",
+     "expected_permit_type": "building_permit", "expected_section": "fees",
+     "expected_answer_contains": ["195"]},
+    {"query": "How much does a tree removal permit cost without construction?",
+     "expected_permit_type": None, "expected_section": None,
+     "expected_answer_contains": ["43"]},
+    {"query": "When is a building permit required in Woodinville?",
+     "expected_permit_type": None, "expected_section": "faq",
+     "expected_answer_contains": ["permit is required"]},
+    {"query": "What building codes has Woodinville adopted?",
+     "expected_permit_type": None, "expected_section": None,
+     "expected_answer_contains": ["building code"]},
+    {"query": "How is building permit valuation determined?",
+     "expected_permit_type": "building_permit", "expected_section": None,
+     "expected_answer_contains": ["valuation"]},
+    {"query": "How do I get a garage sale permit?",
+     "expected_permit_type": None, "expected_section": "faq",
+     "expected_answer_contains": []},
+    {"query": "What is the fee for a boundary line adjustment?",
+     "expected_permit_type": None, "expected_section": None,
+     "expected_answer_contains": ["5,387"]},
+]
+
+# Multi-turn follow-up fixture per city: a two-turn exchange whose final message
+# only makes sense once the pronoun is resolved ("that permit"). Used by
+# run_agent_eval.py to test the contextualize node. Per-city because the setup
+# names a permit that city actually issues -- Woodinville has no solar permit
+# programme, so Arvada's fixture would test nothing there.
+MULTI_TURN_BY_CITY = {
+    "arvada-co": {
+        "setup": [
+            {"role": "user", "content": "I want to install rooftop solar panels on my house."},
+            {"role": "assistant",
+             "content": "You'll need a solar (photovoltaic) building permit from the City of Arvada."},
+        ],
+        "follow_up": "How much does that permit cost?",
+        "expect_any": ["solar", "45"],
+        "describe": "resolved follow-up to solar permit cost",
+    },
+    "woodinville-wa": {
+        "setup": [
+            {"role": "user", "content": "I want to build a deck on my house."},
+            {"role": "assistant",
+             "content": "You'll need a Residential Deck building permit from the City of Woodinville."},
+        ],
+        "follow_up": "How much does that permit cost?",
+        "expect_any": ["deck", "valuation"],
+        "describe": "resolved follow-up to deck permit cost",
+    },
+}
+
+
+def get_multi_turn(city_id: str | None = None) -> dict | None:
+    from config import settings
+    cid = (city_id or settings.default_city_id or "arvada-co").strip()
+    return MULTI_TURN_BY_CITY.get(cid)
+
+
+GOLDEN_QUERIES_BY_CITY = {
+    "arvada-co": GOLDEN_QUERIES,
+    "woodinville-wa": WOODINVILLE_GOLDEN_QUERIES,
+}
+
+
+def get_golden_queries(city_id: str | None = None) -> list:
+    from config import settings
+    cid = (city_id or settings.default_city_id or "arvada-co").strip()
+    return GOLDEN_QUERIES_BY_CITY.get(cid, GOLDEN_QUERIES)

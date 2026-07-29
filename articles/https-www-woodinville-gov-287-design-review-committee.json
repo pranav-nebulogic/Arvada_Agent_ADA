@@ -1,0 +1,60 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "process",
+    "permit_type": null,
+    "category": "planning",
+    "source_urls": [
+      "https://www.woodinville.gov/287/Design-Review-Committee"
+    ],
+    "scraped_at": "2026-07-28T06:52:56.344960+00:00",
+    "content_hash": "cb62cc84b90ba58b2c0b6d5b022f48b85cad699ba29115f3b81e54ec8371e715",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Design Review Committee",
+    "summary": "The Design Review Committee reviews and makes recommendations on the design of new buildings based on applicable design standards. The committee meets as needed when projects require review and is composed of three members designated by the Planning Commission.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Committee Meetings",
+        "text": "The Design Review Committee meets when projects need to be reviewed. There is no regularly scheduled meeting.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Review Process",
+        "text": "The committee reviews the design of new buildings and makes recommendations based on applicable design standards.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Planning Commission",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "Building Permit",
+      "Planning Permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1316
+}

@@ -1,0 +1,65 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "stormwater_permit",
+    "category": "stormwater",
+    "source_urls": [
+      "https://www.woodinville.gov/393/Stormwater-Permit-NPDES"
+    ],
+    "scraped_at": "2026-07-28T06:52:34.477782+00:00",
+    "content_hash": "c94be51876c770d28aa17a8292be49e53fde97bd16ba5139d42025ff30dd37cf",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Stormwater Permit (NPDES)",
+    "summary": "The City of Woodinville is required to have a National Pollution Discharge Elimination System (NPDES) Western Washington Phase II Municipal Stormwater Permit. This permit regulates point sources that discharge pollutants to waters of the United States and is issued and enforced by the Washington Department of Ecology.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Review Stormwater Management Program Plan",
+        "text": "The City develops an annual Stormwater Management Program Plan outlining planned stormwater management activities for the upcoming year. Public comment and participation are encouraged to help shape the program and develop the next year's plan.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Submit Feedback",
+        "text": "Provide feedback on the Stormwater Management Program Plan to assist the City in improving stormwater management efforts.",
+        "portal_url": null
+      },
+      {
+        "n": 3,
+        "title": "Annual Reporting",
+        "text": "The City prepares and submits an Annual Report to the Department of Ecology summarizing efforts to comply with permit requirements.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Surface Water Management",
+      "phone": null,
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [],
+    "ordinance_refs": [],
+    "related_permit_types": [
+      "stormwater_management_plan"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 1676
+}

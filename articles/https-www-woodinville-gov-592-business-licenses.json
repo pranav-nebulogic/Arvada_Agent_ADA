@@ -1,0 +1,80 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "license",
+    "permit_type": "business_license",
+    "category": "licensing",
+    "source_urls": [
+      "https://www.woodinville.gov/592/Business-Licenses"
+    ],
+    "scraped_at": "2026-07-28T06:51:31.142887+00:00",
+    "content_hash": "e669fab7e1e4e97f54438dce5e332887d6e66b43667ead763b5e6ab0ad75bdcc",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Business License in the City of Woodinville, WA",
+    "summary": "The City of Woodinville requires all businesses located or doing business within city limits to obtain a business license. This license helps the city maintain accurate business records and allows quicker emergency contact by the Police Department. The license must be renewed annually through the Washington State Department of Revenue.",
+    "eligibility": "All businesses maintaining a place of business within City limits, including schools, churches, political groups, and organizations. Also, businesses with annual sales or income over $2,000 in the City without a physical location must obtain a license. Some exemptions apply as detailed in Woodinville Municipal Code 5.02.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Apply for a Business License",
+        "text": "Apply online through the Washington State Department of Revenue (DOR) business licensing application process. Once approved, the City Endorsement will be displayed on your DOR State Business License.",
+        "portal_url": "https://dor.wa.gov/manage-business/business-licenses-permits"
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [
+      {
+        "name": "Annual Business License Fee",
+        "amount": "$39",
+        "rate": null,
+        "config_key": null,
+        "notes": "Fee is waived for government functions, schools (education endeavors only), churches, political groups, and organizations exempt from taxation under 26 USC 501(c)(3) and (4); however, they must still apply."
+      }
+    ],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Washington State Department of Revenue and City of Woodinville",
+      "phone": "(800) 451-7985 for DOR, 425-489-2700 for City",
+      "address": null,
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "Do I need a City of Woodinville business license?",
+        "a": "Yes, if you maintain a place of business within City limits or have annual sales or income over $2,000 in the City without a physical location, you must obtain a license. Some exemptions apply."
+      },
+      {
+        "q": "Is the business license fee waived for any organizations?",
+        "a": "Yes, the $39 annual fee is waived for government functions, schools (education endeavors only), churches, political groups, and organizations exempt from taxation under 26 USC 501(c)(3) and (4), but they must still apply."
+      },
+      {
+        "q": "Do home-based businesses need a City license?",
+        "a": "Yes, home-based businesses require a City license and an additional permit. You should review the Home Business Permit Application and submit it to the Development Services Department with your UBI number."
+      }
+    ],
+    "ordinance_refs": [
+      "WMC 5.02",
+      "WMC 5.02.025",
+      "WMC 5.02.030",
+      "WMC 5.02.040",
+      "WMC 5.02.050"
+    ],
+    "related_permit_types": [
+      "home_business_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2191
+}

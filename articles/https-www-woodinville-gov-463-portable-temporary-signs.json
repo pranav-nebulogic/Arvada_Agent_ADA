@@ -1,0 +1,87 @@
+{
+  "article_id": null,
+  "metadata": {
+    "city_id": "woodinville-wa",
+    "city_name": "City of Woodinville, WA",
+    "article_type": "permit",
+    "permit_type": "sign_permit",
+    "category": "building",
+    "source_urls": [
+      "https://www.woodinville.gov/463/Portable-Temporary-Signs"
+    ],
+    "scraped_at": "2026-07-28T06:52:38.201941+00:00",
+    "content_hash": "8eaaa4caabf370afb6ce40261b877421ddfc101ff0d60735b7b1987086b4ff48",
+    "effective_date": "2026-07-28",
+    "version": 1,
+    "status": "published",
+    "last_verified": "2026-07-28"
+  },
+  "content": {
+    "title": "Portable & Temporary Sign Permit",
+    "summary": "A sign permit is required for all portable signs in the City of Woodinville. This permit can be issued over the counter or applied for online. Approved permits require an in-person pickup of an \"Approved\" sticker to display on the sign.",
+    "eligibility": null,
+    "steps": [
+      {
+        "n": 1,
+        "title": "Apply for Sign Permit",
+        "text": "Apply for a portable sign permit either over the counter or online through the Development Services Department.",
+        "portal_url": null
+      },
+      {
+        "n": 2,
+        "title": "Pick Up Approved Sticker",
+        "text": "Once your sign permit is approved, come in person to the Development Services Department at Woodinville City Hall to pick up an \"Approved\" sticker to place on your portable sign.",
+        "portal_url": null
+      }
+    ],
+    "required_documents": [],
+    "form_fields": [],
+    "fees": [],
+    "timelines": {
+      "review": null,
+      "inspection": null,
+      "total": null
+    },
+    "contact": {
+      "dept": "Development Services Department",
+      "phone": null,
+      "address": "Woodinville City Hall",
+      "config_key": null
+    },
+    "faqs": [
+      {
+        "q": "What are the size limits for portable signs?",
+        "a": "Portable signs are limited to a maximum of six square feet in size and may not be taller than three feet including any toppers or handles. Signs may have no more than two sides."
+      },
+      {
+        "q": "How many portable signs are allowed per business?",
+        "a": "Tenants in commercial zones are allowed one portable sign per premise. Tenants in the industrial zone are allowed two."
+      },
+      {
+        "q": "Where can portable signs be placed?",
+        "a": "Portable signs may be placed in the public right-of-way but not within travel lanes or blocking sidewalks. They cannot block sight distance for vehicles entering or exiting driveways or streets and may not be affixed to other structures. Commercial zone signs must be on the business premises or within 300 feet in the same zoning district. Industrial zone signs must be within the Industrial zone but have no distance restriction."
+      },
+      {
+        "q": "How long can portable signs be displayed?",
+        "a": "Portable signs may only be displayed during the business hours of operation and must be removed when the establishment is not open to the public."
+      },
+      {
+        "q": "Are illuminated portable signs allowed?",
+        "a": "No, portable signs cannot be illuminated."
+      },
+      {
+        "q": "What happens if a portable sign does not comply with regulations?",
+        "a": "Non-compliant portable signs may be confiscated by the City and are subject to disposal if not claimed within 30 days."
+      }
+    ],
+    "ordinance_refs": [
+      "Chapter 21.35",
+      "WMC 21.35.130 (8) and (9)"
+    ],
+    "related_permit_types": [
+      "sign_permit"
+    ]
+  },
+  "transform_model": "gpt-4.1-mini-2025-04-14",
+  "transform_tokens": 2039
+}
