@@ -26,6 +26,7 @@ import time
 from typing import Any
 
 import httpx
+from urllib.parse import urlencode
 
 from city_config import get_city
 from config import settings
@@ -204,6 +205,16 @@ def narrow_by_audience(text: str, matches: list[dict]) -> tuple[list[dict], bool
             if _audience_of(label_for(m) + " " + (m.get("name") or "")) == target]
     if not kept:
         return matches, False
+
+    # Never let audience narrowing overrule a decisive winner. This exists to
+    # choose among near-equals ("deck" -> Residential Deck vs Commercial Deck),
+    # NOT to promote a weaker match. "tree removal permit" scored Tree Removal
+    # Permit at 8.0 against 3.99 for the next candidate, but Tree Removal carries
+    # no audience word, so narrowing dropped it and priced a $17,371 Residential
+    # New Construction for a tree question. If the top-scoring match is not in
+    # the kept set, the audience is simply not the distinguishing feature here.
+    if matches[0] not in kept:
+        return matches, False
     return kept, stated is None
 
 
@@ -274,47 +285,223 @@ async def resolve_apply(city_id: str | None, text: str,
             return None
         path = f"{prefix}{code}"
 
-    base = (get_city(city_id).portal_base_url or "").rstrip("/")
     return {
         "code": code,
         "label": label_for(best),      # the exact name on the portal's Apply screen
         "module": module,
         "surface": surface,
-        "url": (base + path) if base else path,
+        # RELATIVE, never absolute. adaTypes.ts documents this field as a relative
+        # path and every consumer calls react-router `navigate(apply.url)` -- an
+        # absolute URL is taken as a route, which opened a blank tab titled
+        # "/https:/woodinville.smart-l...". Relative also keeps the citizen on
+        # their own city's host by construction, so no per-city base is needed.
+        "url": path,
     }
 
 
+# ── Fee drivers ──────────────────────────────────────────────────────────────
+# Which answers move the number is TENANT CONFIG, not code. The portal derives it
+# in ApplyPreCheckModal.tsx (feeDrivingCodes): every rule card carrying a pay-fee
+# obligation contributes the fields named in its predicate. We port that exactly,
+# so Arvada and any future city get their own drivers with no change here.
+_type_meta_cache: dict[str, tuple[float, dict]] = {}
+
+_QTY_HINT = re.compile(r"(^qty_)|(_count$)|(fixture)", re.I)
+
+
+def _collect_predicate_fields(pred: Any, out: set[str]) -> None:
+    """Walk a rule-card predicate collecting `check.field` names.
+
+    Mirrors collectPredicateFields in ApplyPreCheckModal.tsx: predicates nest
+    under `inline`/`items`, and field names may carry an `answer.` prefix.
+    """
+    if not isinstance(pred, dict):
+        return
+    inline = pred.get("inline") or pred
+    items = inline.get("items") if isinstance(inline, dict) else None
+    if not isinstance(items, list):
+        return
+    for raw in items:
+        if not isinstance(raw, dict):
+            continue
+        field = (raw.get("check") or {}).get("field")
+        if field:
+            out.add(re.sub(r"^answer\.", "", str(field)))
+        _collect_predicate_fields(raw, out)
+
+
+async def _get_json(url: str) -> Any | None:
+    try:
+        async with httpx.AsyncClient(timeout=settings.engine_timeout_seconds) as client:
+            resp = await client.get(url)
+            resp.raise_for_status()
+            return resp.json()
+    except Exception as exc:  # noqa: BLE001 -- every caller degrades gracefully
+        log.warning("engine_get_failed", url=url.rsplit("/", 2)[-2:], error=str(exc))
+        return None
+
+
+def quantity_fields(data: dict) -> set[str]:
+    """Field codes the ESTIMATE itself says supply a line's quantity.
+
+    The portal reads these off the estimate response (ApplyPreCheckModal.tsx:192)
+    -- they are not in any rule-card predicate, so a single pass misses them.
+    Woodinville's park, school and transportation impact lines all declare
+    `quantityField: new_units`, and without that answer every one of them prices
+    at $0.00 no matter what else is supplied. Discovering them needs a first
+    estimate, hence the two-pass in `_try_engine`.
+    """
+    out: set[str] = set()
+    for line in (data or {}).get("lines") or []:
+        if isinstance(line, dict) and line.get("quantityField"):
+            out.add(str(line["quantityField"]))
+    return out
+
+
+async def fields_for(city_id: str | None, code: str, codes: set[str]) -> list[dict]:
+    """Field definitions for specific codes (used for quantity fields)."""
+    if not codes:
+        return []
+    all_fields = await _all_fields(city_id, code)
+    return [f for f in all_fields if f.get("code") in codes]
+
+
+async def _all_fields(city_id: str | None, code: str) -> list[dict]:
+    city = get_city(city_id)
+    key = f"{city.city_id}/{code}"
+    hit = _type_meta_cache.get(key)
+    if hit and (time.monotonic() - hit[0]) < _CATALOG_TTL_SECONDS and "fields" in hit[1]:
+        return hit[1]["fields"]
+    base = f"{_base()}/api/public/catalog/{city.engine_tenant}/application-types/{code}"
+    fields = await _get_json(f"{base}/fields") or []
+    fields = fields if isinstance(fields, list) else []
+    entry = dict(hit[1]) if hit else {}
+    entry["fields"] = fields
+    _type_meta_cache[key] = (time.monotonic(), entry)
+    return fields
+
+
+async def fee_drivers(city_id: str | None, code: str) -> list[dict]:
+    """The fields whose answers change this type's fee, with their definitions.
+
+    Each entry carries `code`, `label`, `description`, `dataType`, `enumValues`
+    and `defaultValue` -- enough to ask a human-readable question and to validate
+    the reply without guessing.
+    """
+    if not _base() or not code:
+        return []
+    city = get_city(city_id)
+    key = f"{city.city_id}/{code}"
+    hit = _type_meta_cache.get(key)
+    if hit and (time.monotonic() - hit[0]) < _CATALOG_TTL_SECONDS:
+        return hit[1].get("drivers", [])
+
+    base = f"{_base()}/api/public/catalog/{city.engine_tenant}/application-types/{code}"
+    cards = await _get_json(f"{base}/rule-cards") or []
+    fields = await _get_json(f"{base}/fields") or []
+    if not isinstance(fields, list):
+        return []
+
+    driver_codes: set[str] = set()
+    for card in cards if isinstance(cards, list) else []:
+        if not isinstance(card, dict):
+            continue
+        obligations = card.get("obligations") or []
+        if not any((o or {}).get("type") == "pay-fee" for o in obligations):
+            continue
+        _collect_predicate_fields(card.get("predicate"), driver_codes)
+
+    excluded = set(_excluded_estimator_fields(city.city_id, code))
+    drivers = [
+        f for f in fields
+        if isinstance(f, dict)
+        and (f.get("code") in driver_codes or _QTY_HINT.search(str(f.get("code") or "")))
+        and f.get("code") not in excluded
+    ]
+    _type_meta_cache[key] = (time.monotonic(), {"drivers": drivers})
+    log.info("fee_drivers_resolved", city=city.city_id, code=code,
+             drivers=[d.get("code") for d in drivers])
+    return drivers
+
+
+def _excluded_estimator_fields(city_id: str, code: str) -> list[str]:
+    """`attributes.feeEstimatorExclude` for a type, from the cached catalog."""
+    hit = _catalog_cache.get(city_id)
+    if not hit:
+        return []
+    for row in hit[1]:
+        if row.get("code") == code:
+            ex = row.get("feeEstimatorExclude")
+            return list(ex) if isinstance(ex, list) else []
+    return []
+
+
+def pre_estimate_seed(city_id: str | None, code: str) -> dict:
+    """The type's `attributes.preEstimate` -- what the portal's calculator opens with."""
+    hit = _catalog_cache.get(get_city(city_id).city_id)
+    for row in (hit[1] if hit else []):
+        if row.get("code") == code:
+            pe = row.get("preEstimate")
+            if isinstance(pe, dict):
+                return pe
+    return {}
+
+
 async def fee_estimate(city_id: str | None, code: str,
-                       valuation: float | None = None) -> dict[str, Any] | None:
-    """Engine-computed, itemised estimate for one type. None on any failure."""
+                       valuation: float | None = None,
+                       answers: dict | None = None) -> dict[str, Any] | None:
+    """Engine-computed, itemised estimate for one type. None on any failure.
+
+    Uses the POST variant, which evaluates the type's rule cards against
+    `answers`. The GET variant only accepts valuation, so every answer-driven fee
+    -- park, school and transportation impact, fixture counts -- was silently
+    missing: a $500k Woodinville house came back $9,570.76 against the portal's
+    $36,121.31.
+    """
     if not _base() or not code:
         return None
     city = get_city(city_id)
     url = (f"{_base()}/api/public/catalog/{city.engine_tenant}"
            f"/application-types/{code}/fee-estimate")
-    params = {}
+
+    seed = pre_estimate_seed(city_id, code)
+    body: dict[str, Any] = {"answers": {**(seed.get("answers") or {}), **(answers or {})}}
     if valuation is not None:
         # The engine takes CENTS; passing dollars silently under-quotes by 100x.
-        params["valuationCents"] = int(round(float(valuation) * 100))
+        body["valuationCents"] = int(round(float(valuation) * 100))
+    elif seed.get("valuationCents") is not None:
+        body["valuationCents"] = seed["valuationCents"]
+
     try:
         async with httpx.AsyncClient(timeout=settings.engine_timeout_seconds) as client:
-            resp = await client.get(url, params=params or None)
+            resp = await client.post(url, json=body)
             resp.raise_for_status()
             data = resp.json()
     except Exception as exc:  # noqa: BLE001
-        log.warning("engine_fee_estimate_failed", city=city.city_id,
+        # Degrade to the valuation-only GET rather than losing the estimate.
+        log.warning("engine_fee_estimate_post_failed", city=city.city_id,
                     code=code, error=str(exc))
-        return None
+        params = {"valuationCents": body["valuationCents"]} if "valuationCents" in body else None
+        data = await _get_json(url + ("?" + urlencode(params) if params else ""))
     if not isinstance(data, dict):
         return None
     return data
 
 
-def to_fee_result(data: dict, alternatives: list[dict] | None = None) -> dict:
+def to_fee_result(data: dict, alternatives: list[dict] | None = None,
+                  drivers: list[dict] | None = None,
+                  answered: dict | None = None) -> dict:
     """Engine payload -> the shape prompts.fee_user() already renders.
 
     Amounts are converted cents -> dollars here so the model never does math on
     them, and every line keeps its own name/detail so the answer can itemise.
+
+    PENDING LINES: the engine returns impact-fee lines at zero until their
+    drivers are answered -- school impact is $0.00 until it knows the bedroom
+    count, then $17,550.00. Printed literally that reads as "this fee is free",
+    the same trap as the all-zero table fixed earlier. A zero line is marked
+    `pending` whenever fee drivers are still unanswered, so the answer can say
+    what it depends on instead of quoting a number.
     """
     def dollars(cents: Any) -> float:
         try:
@@ -327,18 +514,44 @@ def to_fee_result(data: dict, alternatives: list[dict] | None = None) -> dict:
         left to it, exact floats render as "$590.0" and "$1024.12"."""
         return f"${dollars(cents):,.2f}"
 
+    answered = answered or {}
+    unanswered = [d for d in (drivers or []) if d.get("code") not in answered]
+    unanswered_labels = [d.get("label") or d.get("code") for d in unanswered]
+
     lines = []
     for ln in data.get("lines") or []:
         if not isinstance(ln, dict):
             continue
-        lines.append({
+        amount = dollars(ln.get("amountCents"))
+        item = {
             "label": ln.get("name") or ln.get("code"),
-            "amount": dollars(ln.get("amountCents")),
+            "amount": amount,
             "amount_display": money(ln.get("amountCents")),
             "kind": ln.get("kind"),          # fee | tax | deposit
             "stage": ln.get("stage"),        # when it is due
             "detail": ln.get("detail"),      # cites the schedule/code section
-        })
+        }
+        if amount == 0 and unanswered:
+            item["pending"] = True
+            item.pop("amount_display")       # so it can never be printed as $0.00
+            # Deliberately NOT naming a specific driver per line. The engine does
+            # not tell us which rule card produced which line, and attributing
+            # every pending line to every unanswered field produced nonsense --
+            # "Park impact fee — depends on 50% of school impact fees were paid
+            # at final plat". The unanswered questions are listed once, together,
+            # in `pending_inputs`; a vague-but-true pointer beats a precise lie.
+        lines.append(item)
+
+    # Staging: what is due now vs at permit issuance. The applicant's first
+    # question is almost always "what do I pay to submit?" -- in the demo
+    # scenario that is $4,054.26 of a $36,121.31 total.
+    def stage_total(match) -> int:
+        return sum(int(l.get("amountCents") or 0)
+                   for l in (data.get("lines") or [])
+                   if isinstance(l, dict) and match(l.get("stage")))
+
+    at_submittal = stage_total(lambda s: s == "application")
+    at_issuance = int(data.get("allInCents") or 0) - at_submittal
 
     return {
         "source": "engine",
@@ -352,5 +565,14 @@ def to_fee_result(data: dict, alternatives: list[dict] | None = None) -> dict:
         "deposits": dollars(data.get("depositsCents")),
         "total": dollars(data.get("allInCents")),
         "total_display": money(data.get("allInCents")),
+        "due_at_submittal_display": money(at_submittal),
+        "due_at_issuance_display": money(at_issuance),
+        # Non-empty => the total is PARTIAL and these questions would change it.
+        "pending_inputs": [
+            {"code": d.get("code"), "label": d.get("label"),
+             "description": d.get("description"), "options": d.get("enumValues")}
+            for d in unanswered
+        ],
+        "answers_used": answered,
         "alternatives": [label_for(a) for a in (alternatives or [])],
     }

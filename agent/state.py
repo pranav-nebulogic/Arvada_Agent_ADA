@@ -63,6 +63,15 @@ class AgentState(BaseModel):
 
     # ── Fee calculation ──────────────────────────────────────────────────────────
     fee_result: dict | None = None
+    # Fee-driving answers gathered so far ({field_code: value}), so a follow-up
+    # ("actually 4 bedrooms") REFINES the estimate instead of restarting it.
+    # Keyed by the tenant's own field codes; see agent/fee_answers.py.
+    fee_answers: dict = Field(default_factory=dict)
+    # The valuation the user actually stated, carried across turns. Without this
+    # a follow-up that doesn't restate it fell back to the type's preEstimate
+    # SEED -- silently repricing a $500,000 project at $569,445 and changing
+    # every valuation-derived line under the user's feet.
+    fee_valuation: float | None = None
 
     # ── Status lookup ────────────────────────────────────────────────────────────
     status_result: dict | None = None
