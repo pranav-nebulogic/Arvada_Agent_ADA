@@ -565,6 +565,41 @@ WOODINVILLE_GOLDEN_QUERIES = [
      "expected_answer_contains": ["5,387"]},
 ]
 
+# Multi-turn follow-up fixture per city: a two-turn exchange whose final message
+# only makes sense once the pronoun is resolved ("that permit"). Used by
+# run_agent_eval.py to test the contextualize node. Per-city because the setup
+# names a permit that city actually issues -- Woodinville has no solar permit
+# programme, so Arvada's fixture would test nothing there.
+MULTI_TURN_BY_CITY = {
+    "arvada-co": {
+        "setup": [
+            {"role": "user", "content": "I want to install rooftop solar panels on my house."},
+            {"role": "assistant",
+             "content": "You'll need a solar (photovoltaic) building permit from the City of Arvada."},
+        ],
+        "follow_up": "How much does that permit cost?",
+        "expect_any": ["solar", "45"],
+        "describe": "resolved follow-up to solar permit cost",
+    },
+    "woodinville-wa": {
+        "setup": [
+            {"role": "user", "content": "I want to build a deck on my house."},
+            {"role": "assistant",
+             "content": "You'll need a Residential Deck building permit from the City of Woodinville."},
+        ],
+        "follow_up": "How much does that permit cost?",
+        "expect_any": ["deck", "valuation"],
+        "describe": "resolved follow-up to deck permit cost",
+    },
+}
+
+
+def get_multi_turn(city_id: str | None = None) -> dict | None:
+    from config import settings
+    cid = (city_id or settings.default_city_id or "arvada-co").strip()
+    return MULTI_TURN_BY_CITY.get(cid)
+
+
 GOLDEN_QUERIES_BY_CITY = {
     "arvada-co": GOLDEN_QUERIES,
     "woodinville-wa": WOODINVILLE_GOLDEN_QUERIES,
