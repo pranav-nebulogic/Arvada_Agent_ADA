@@ -9,7 +9,7 @@ numbers into a user-facing answer with the estimate disclaimer.
 from __future__ import annotations
 
 import db
-from agent import engine_fees, fee_tables
+from agent import engine_fees, fee_answers, fee_tables
 from agent.obs import log
 from agent.state import AgentState
 
@@ -54,6 +54,13 @@ async def _fee_sources(state: AgentState, permit_type: str) -> list[dict]:
 
 
 def _extract_valuation(state: AgentState) -> float | None:
+    """This turn's valuation, else the one the user gave on an EARLIER turn.
+
+    A follow-up ("4 bedrooms, detached") rarely restates the dollar figure. When
+    it didn't, we used to hand the engine None, which fell through to the type's
+    preEstimate SEED -- so a $500,000 project quietly repriced at $569,445 and
+    every valuation-derived line moved. A stated valuation outlives the turn.
+    """
     ent = state.entities or {}
     for k in ("fee_valuation", "valuation", "project_valuation"):
         v = ent.get(k)
@@ -62,7 +69,7 @@ def _extract_valuation(state: AgentState) -> float | None:
                 return float(v)
             except (TypeError, ValueError):
                 continue
-    return None
+    return state.fee_valuation
 
 
 async def _try_engine(state: AgentState, valuation: float | None) -> dict | None:
@@ -102,11 +109,53 @@ async def _try_engine(state: AgentState, valuation: float | None) -> dict | None
         }
 
     best = matches[0]
-    data = await engine_fees.fee_estimate(state.city_id, best.get("code"), valuation)
+    code = best.get("code")
+
+    # What moves this type's number is tenant config (rule cards), so ask the
+    # engine rather than hardcoding. Then read back anything the user already
+    # said -- carrying prior turns forward so "actually 4 bedrooms" refines the
+    # estimate instead of starting over.
+    drivers = await engine_fees.fee_drivers(state.city_id, code)
+    answers = dict(state.fee_answers or {})
+    defaulted: list[str] = []
+    if drivers:
+        answers.update(await fee_answers.extract(drivers, text))
+        # Fall back to each field's configured defaultValue, exactly as the
+        # portal's calculator does, and report which ones we defaulted. Without
+        # this, a driver the extractor missed stayed "pending" forever -- the
+        # answer once said "You said school fees were not prepaid at plat" while
+        # still listing that very question as outstanding. Fields with NO
+        # default (e.g. bedrooms per unit) remain genuinely unanswered.
+        answers, defaulted = fee_answers.apply_defaults(drivers, answers)
+
+    data = await engine_fees.fee_estimate(state.city_id, code, valuation, answers)
     if not data:
         return None
-    result = engine_fees.to_fee_result(data, alternatives=matches[1:])
+
+    # SECOND PASS. Some drivers are only discoverable from the estimate itself:
+    # each line may name the field supplying its quantity, and those appear in no
+    # rule-card predicate. Woodinville's park, school and transportation impact
+    # lines all declare `quantityField: new_units` -- miss it and all three price
+    # at $0.00 however much else is answered. The portal recomputes the same way.
+    extra_codes = engine_fees.quantity_fields(data) - {d.get("code") for d in drivers}
+    if extra_codes:
+        extra = await engine_fees.fields_for(state.city_id, code, extra_codes)
+        if extra:
+            drivers = drivers + extra
+            before = dict(answers)
+            answers.update(await fee_answers.extract(extra, text))
+            answers, more_defaulted = fee_answers.apply_defaults(extra, answers)
+            defaulted += more_defaulted
+            if answers != before:
+                data = await engine_fees.fee_estimate(
+                    state.city_id, code, valuation, answers) or data
+
+    result = engine_fees.to_fee_result(
+        data, alternatives=matches[1:], drivers=drivers, answered=answers)
     result["assumed_residential"] = assumed_residential
+    if defaulted:
+        result["defaulted_inputs"] = defaulted   # disclosed in the answer
+    result["_fee_answers"] = answers      # persisted onto state by the caller
     # A valuation-driven type priced at zero means the user never gave a
     # valuation -- ask for it rather than quoting $0.00 as if it were the answer.
     if valuation is None and not result.get("total"):
@@ -134,11 +183,17 @@ async def fee_engine(state: AgentState) -> dict:
     if engine_result:
         engine_result["sources"] = await _fee_sources(
             state, permit_type or engine_result.get("permit_type") or "")
-        return {
+        collected = engine_result.pop("_fee_answers", None)
+        out = {
             "fee_result": engine_result,
             "entities": {**(state.entities or {}),
                          "permit_type": permit_type or raw_pt},
         }
+        if collected is not None:
+            out["fee_answers"] = collected
+        if valuation is not None:
+            out["fee_valuation"] = valuation      # survives into the next turn
+        return out
 
     if not permit_type:
         # No permit type from the classifier AND no tenant-catalog match above
