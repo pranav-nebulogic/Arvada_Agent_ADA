@@ -513,9 +513,137 @@ WOODINVILLE_SOURCES = {
     ],
     # WMC comes from local PDFs; no Municode API for Woodinville.
     "js_pages": [],
-    # DocumentCenter PDFs can be added here as {"url", "name", ...}; the 2026 Fee
-    # Schedule is already ingested from the local copy (fee_schedule_transformer.py).
-    "pdfs": [],
+    # DocumentCenter PDFs. The 2026 Fee Schedule is ingested separately from a
+    # local copy (fee_schedule_transformer.py) and is deliberately absent here.
+    #
+    # These are the City's application forms and submittal checklists, from
+    # /348/Applications-Forms. Before they were configured, asking "what documents
+    # do I need for a new single-family home permit?" got "the specific document
+    # list is not included in the context I have here" -- the DOC_CHECKLIST intent
+    # had no Woodinville content at all.
+    #
+    # The two SUBMITTAL CHECKLISTS carry the most value by far: they are matrices
+    # of requirement x permit type with per-cell copy counts, so inverting them
+    # yields a real checklist for 32 permit types. They need TABLE-aware parsing
+    # (wv_forms_transformer.py) -- plain text extraction returns
+    # "Application Form 1 1 1" with the permit mapping destroyed.
+    #
+    # DELIBERATELY EXCLUDED -- signature and bond instruments (Owner Authorization
+    # /617, Cash Performance Guarantee /2136, Assignment of Funds /564, Surety Bond
+    # /565). They are indemnity boilerplate: nothing a citizen can be told beyond
+    # "this form is required", which the submittal matrix already records, and ~450
+    # words each that would compete with real answers in retrieval. Also excluded:
+    # /613 (DOCX) and /628 (XLSX) need different extractors.
+    "pdfs": [
+        # ── Submittal checklists (matrices -> invert per permit type) ─────────
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/568",
+         "name": "Application Submittal Checklist - Construction Permits",
+         "permit_type": None, "category": "building", "article_type": "checklist",
+         "priority": 1,
+         "note": "MATRIX: 11 permit types x requirements, cells are copy counts. Table parse required."},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/614",
+         "name": "Application Submittal Checklist - Land Use Permits",
+         "permit_type": None, "category": "planning", "article_type": "checklist",
+         "priority": 1,
+         "note": "MATRIX: 21 permit types x requirements. Table parse required."},
+
+        # ── Plan standard requirements (prose) ───────────────────────────────
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/570",
+         "name": "Building Plan Standard Requirements",
+         "permit_type": "building_permit", "category": "building",
+         "article_type": "process", "priority": 1},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/567",
+         "name": "Site Plan Standard Requirements",
+         "permit_type": None, "category": "development", "article_type": "process",
+         "priority": 1},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/627",
+         "name": "Civil Plan Standard Requirements",
+         "permit_type": None, "category": "development", "article_type": "process",
+         "priority": 2},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/2097",
+         "name": "Technical Information Report (TIR) Submittal Checklist",
+         "permit_type": None, "category": "stormwater", "article_type": "checklist",
+         "priority": 2},
+
+        # ── Applications: building & construction ────────────────────────────
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/571",
+         "name": "Building / Mechanical / Plumbing Permit Application",
+         "permit_type": "building_permit", "category": "building",
+         "article_type": "permit", "priority": 1,
+         "note": "Carries the mechanical (~60) and plumbing (~40) fixture vocabularies the fee "
+                 "engine's *_fixture_count drivers ask for, plus the traffic impact fee "
+                 "methodology ($3,760.61, PSRC 2021) behind the trip-factor caveat."},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/566",
+         "name": "Demolition Permit Application",
+         "permit_type": None, "category": "building", "article_type": "permit", "priority": 2},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/588",
+         "name": "Fire Construction Permit Application",
+         "permit_type": "fire_permit", "category": "building", "article_type": "permit",
+         "priority": 2},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/569",
+         "name": "Contractor / Building Owner Information - Asbestos in Construction",
+         "permit_type": None, "category": "building", "article_type": "process", "priority": 3},
+
+        # ── Applications: site development & right-of-way ────────────────────
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/629",
+         "name": "Site Development Permit Application",
+         "permit_type": "development_permit", "category": "development",
+         "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/621",
+         "name": "Right-of-Way Permit Application - Construction",
+         "permit_type": "row_permit", "category": "row", "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/620",
+         "name": "Right-of-Way Use Authorization",
+         "permit_type": "row_permit", "category": "row", "article_type": "permit", "priority": 2},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/619",
+         "name": "Right-of-Way Permit Application - Mailbox",
+         "permit_type": "row_permit", "category": "row", "article_type": "permit", "priority": 3},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/1311",
+         "name": "Transportation Infrastructure Deviation Request Form",
+         "permit_type": None, "category": "row", "article_type": "process", "priority": 3},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/612",
+         "name": "School Safewalk Route Form",
+         "permit_type": None, "category": "development", "article_type": "process", "priority": 3},
+
+        # ── Applications: signs ─────────────────────────────────────────────
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/623",
+         "name": "Sign Permit Application - Permanent Sign",
+         "permit_type": "sign_permit", "category": "building", "article_type": "permit",
+         "priority": 1},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/624",
+         "name": "Sign Permit Application - Temporary Sign",
+         "permit_type": "sign_permit", "category": "building", "article_type": "permit",
+         "priority": 2},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/622",
+         "name": "Sign Permit Application - Memorial Sign",
+         "permit_type": "sign_permit", "category": "building", "article_type": "permit",
+         "priority": 3},
+
+        # ── Applications: land use, events, trees, business ──────────────────
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/611",
+         "name": "Master Land Use Application and Submittal Checklist",
+         "permit_type": None, "category": "planning", "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/618",
+         "name": "Pre-Application Registration Form",
+         "permit_type": None, "category": "planning", "article_type": "process", "priority": 2},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/1301",
+         "name": "Legislative Action Application",
+         "permit_type": None, "category": "planning", "article_type": "permit", "priority": 3},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/632",
+         "name": "Tree Removal Application",
+         "permit_type": "tree_permit", "category": "development", "article_type": "permit",
+         "priority": 1},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/631",
+         "name": "Special Event Permit Application",
+         "permit_type": "special_event_permit", "category": "events",
+         "article_type": "permit", "priority": 1},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/630",
+         "name": "Fireworks - Public Display Application",
+         "permit_type": None, "category": "events", "article_type": "permit", "priority": 3},
+        {"url": "https://www.woodinville.gov/DocumentCenter/View/601",
+         "name": "Home Business Permit Application",
+         "permit_type": None, "category": "licensing", "article_type": "permit", "priority": 1},
+    ],
     # FAQ is a single-page accordion handled by woodinville_faq.py (not TID pages).
     "faq_endpoints": [],
 }

@@ -1,3 +1,8 @@
+-- init_woodinville_agent.sql — GENERATED from init.sql by gen_city_schema.py
+-- City: City of Woodinville (woodinville-wa)  |  schema/database: woodinville_agent
+-- Structure is identical to Arvada's; city-specific fee_schedules / change_log
+-- rows are loaded separately (fee_schedule_transformer.py), not seeded here.
+
 -- init.sql
 -- Run this in DBeaver against your existing Postgres instance.
 --
@@ -5,7 +10,7 @@
 --   city_id values in this schema must match public.tenants.code in the main project.
 --   There is NO cities table here — the main project's public.tenants is the source of truth.
 --   e.g. city_id = 'fortwayne_311' matches tenants.code = 'fortwayne_311'
---   For Arvada (standalone pilot) we use city_id = 'arvada-co'.
+--   For Woodinville we use city_id = 'woodinville-wa'.
 --
 -- How to run:
 --   1. Open DBeaver, connect to your database
@@ -18,13 +23,13 @@ CREATE EXTENSION IF NOT EXISTS "uuid-ossp";   -- uuid_generate_v4()
 -- pg_search (ParadeDB BM25) is NOT required — we use standard tsvector full-text search
 
 -- ── Schema ────────────────────────────────────────────────────────────────
-CREATE SCHEMA IF NOT EXISTS arvada_agent;
+CREATE SCHEMA IF NOT EXISTS woodinville_agent;
 -- Keep public in path so the vector type (installed in public schema) is resolvable
-SET search_path TO arvada_agent, public;
+SET search_path TO woodinville_agent, public;
 
 -- ── Helper: set RLS context ───────────────────────────────────────────────
 -- App must call this before every query:
--- SET LOCAL app.tenant_id = 'arvada-co';
+-- SET LOCAL app.tenant_id = 'woodinville-wa';
 -- city_id must match public.tenants.code in the main project.
 
 
@@ -202,29 +207,6 @@ CREATE TABLE IF NOT EXISTS fee_schedules (
     notes           TEXT
 );
 
--- Seed Arvada building permit fees (Table 18-1, 2026 schedule)
-INSERT INTO fee_schedules (city_id, permit_type, fee_type, calc_method, value, table_data, effective_date) VALUES
-('arvada-co', 'building_permit', 'permit_fee', 'table_18_1', NULL, '[
-    {"min": 1,      "max": 500,       "base": 34.00,    "per_1000_rate": 0},
-    {"min": 501,    "max": 2000,      "base": 34.00,    "per_1000_rate": 30.50},
-    {"min": 2001,   "max": 25000,     "base": 79.75,    "per_1000_rate": 14.00},
-    {"min": 25001,  "max": 50000,     "base": 401.75,   "per_1000_rate": 10.10},
-    {"min": 50001,  "max": 100000,    "base": 654.25,   "per_1000_rate": 7.00},
-    {"min": 100001, "max": 500000,    "base": 1004.25,  "per_1000_rate": 5.60},
-    {"min": 500001, "max": 1000000,   "base": 3244.25,  "per_1000_rate": 4.85},
-    {"min": 1000001,"max": 999999999, "base": 5669.25,  "per_1000_rate": 3.45}
-]', '2026-01-01'),
-('arvada-co', 'building_permit',        'plan_review',  'flat', 32.50, NULL, '2026-01-01'),
-('arvada-co', 'building_permit',        'use_tax',      'percentage_of_valuation', 0.0346, NULL, '2026-01-01'),
-('arvada-co', 'building_permit_solar',  'permit_fee',   'flat', 45.00, NULL, '2026-01-01'),
-('arvada-co', 'building_permit_solar',  'plan_review',  'flat', 32.50, NULL, '2026-01-01'),
-('arvada-co', 'building_permit_windows_siding', 'permit_fee', 'flat', 45.00, NULL, '2026-01-01'),
-('arvada-co', 'food_truck_permit',      'permit_fee',   'flat', 60.00, NULL, '2026-01-01'),
-('arvada-co', 'str_permit',             'permit_fee',   'flat', 150.00, NULL, '2026-01-01'),
-('arvada-co', 'special_event_permit',   'permit_fee',   'flat', 125.00, NULL, '2026-01-01'),
-('arvada-co', 'retaining_wall',         'permit_fee',   'flat', 45.00, NULL, '2026-01-01'),
-('arvada-co', 'retaining_wall',         'plan_review',  'flat', 32.50, NULL, '2026-01-01')
-ON CONFLICT DO NOTHING;
 
 
 -- ── article_sources (freshness monitoring) ────────────────────────────────
@@ -299,7 +281,7 @@ CREATE INDEX IF NOT EXISTS idx_kb_feedback_city_time ON kb_feedback (city_id, cr
 --   2. Inline enrichment      -> a fee/permit answer can proactively note
 --      "heads up: this fee changed effective Jan 1, 2026 (was $X, now $Y)".
 -- Populate at ingest time when a new schedule/article version supersedes an old
--- one; the seed rows below model Arvada's 2025 -> 2026 transition.
+-- one; Woodinville's change rows are loaded separately (not seeded here).
 CREATE TABLE IF NOT EXISTS change_log (
     id                 UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
     city_id            TEXT NOT NULL,   -- matches public.tenants.code (main project)
@@ -329,30 +311,6 @@ CREATE INDEX IF NOT EXISTS idx_change_log_city_eff
 CREATE INDEX IF NOT EXISTS idx_change_log_city_permit
     ON change_log (city_id, permit_type, effective_date DESC);
 
--- Seed Arvada's 2026 schedule changes (mirrors the fee_schedules seed above).
-INSERT INTO change_log
-    (city_id, change_type, permit_type, category, title, summary, old_value, new_value, ordinance_ref, effective_date) VALUES
-('arvada-co', 'fee', 'building_permit', 'building',
-    'Building permit fees updated for 2026',
-    'The Table 18-1 building permit fee schedule was updated under the 2026 schedule. A $25,000 project''s permit fee is now $401.75.',
-    '$385.25', '$401.75', NULL, '2026-01-01'),
-('arvada-co', 'fee', 'building_permit', 'tax',
-    'Construction use tax rate increased',
-    'The construction use tax applied to building permit valuations rose as part of the 2026 schedule.',
-    '3.00%', '3.46%', NULL, '2026-01-01'),
-('arvada-co', 'fee', 'str_permit', 'licensing',
-    'Short-term rental permit fee increased',
-    'The annual short-term rental permit fee was raised for 2026.',
-    '$125.00', '$150.00', NULL, '2026-01-01'),
-('arvada-co', 'fee', 'building_permit_solar', 'building',
-    'Solar permit fee standardized',
-    'Residential rooftop solar permits now carry a standardized flat permit fee for 2026.',
-    '$50.00', '$45.00', NULL, '2026-01-01'),
-('arvada-co', 'process', 'str_permit', 'licensing',
-    'Short-term rental renewals move online',
-    'Short-term rental license renewals are now submitted through the Arvada Permits portal instead of in person.',
-    NULL, NULL, NULL, '2026-01-01')
-ON CONFLICT DO NOTHING;
 
 
 -- ── escalation_queue ──────────────────────────────────────────────────────
