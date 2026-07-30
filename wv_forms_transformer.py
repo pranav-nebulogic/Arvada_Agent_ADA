@@ -64,6 +64,31 @@ NOISE_HEADERS = {"deriuqeR", "dettimbuS", "required", "submitted", ""}
 # Docs whose value is the MATRIX rather than the prose.
 MATRIX_DOCS = {"568", "614"}
 
+# Matrix column name -> the permit_type key already used in the corpus.
+# sources.py sets permit_type=None on 568/614 because each DOCUMENT spans many
+# permit types, but each INVERTED article is about exactly one, so it should
+# carry it. Substring match, first hit wins; anything unmatched stays None, which
+# is correct rather than a fallback -- hybrid_search now includes NULL rows, so
+# NULL no longer means invisible.
+PERMIT_TYPE_BY_COLUMN = (
+    ("mechanical or plumbing", "building_permit_mechanical_plumbing"),
+    ("building permit",        "building_permit"),
+    ("fire permit",            "fire_permit"),
+    ("sign permit",            "sign_permit"),
+    ("site development",       "development_permit"),
+    ("right-of-way",           "row_permit"),
+    ("right of way",           "row_permit"),
+    ("tree removal",           "tree_permit"),
+)
+
+
+def permit_type_for(column: str) -> str | None:
+    low = (column or "").lower()
+    for needle, key in PERMIT_TYPE_BY_COLUMN:
+        if needle in low:
+            return key
+    return None
+
 # "Plan Standards" docs: two columns at the top (notes | contact) and then a
 # full-width YES/NO/N-A checklist of what the plan set must SHOW. Plain text
 # extraction splices the two columns together -- "All drawings should be drawn to
@@ -349,13 +374,16 @@ def main() -> None:
                     for name, copies in g["requirements"]
                 ]
                 aid = f"form-wv-submittal-{slug(permit)}"
+                # Each inverted article covers ONE permit type, so tag it even
+                # though the source document spans many.
+                entry_for_permit = {**entry, "permit_type": permit_type_for(permit)}
                 art = make_article(
                     city, aid,
                     f"Submittal requirements - {permit} (Woodinville)",
                     (f"What to submit for a {permit} in the City of Woodinville, WA, "
                      f"with the number of copies required for each item, per the City's "
                      f"{entry['name']}."),
-                    entry, required_documents=docs,
+                    entry_for_permit, required_documents=docs,
                 )
                 (OUT_DIR / f"{aid}.json").write_text(
                     json.dumps(art, indent=2, ensure_ascii=True), encoding="utf-8")
@@ -392,7 +420,18 @@ def main() -> None:
             (f"{entry['name']} for the City of Woodinville, WA - what the application "
              f"covers, what it asks for, and who to contact."),
             entry, body=body,
-            form_fields=[{"name": f, "description": "", "example": ""} for f in fixtures],
+            # Keys are fixed by ingestor.article_to_chunks, which reads
+            # field_name / label / description / example_value / why_needed --
+            # anything else raises KeyError at ingest rather than degrading.
+            form_fields=[{
+                "field_name": slug(f).replace("-", "_"),
+                "label": f,
+                "description": (f"'{f}' is one of the countable items on the City's "
+                                f"mechanical/plumbing fixture schedule."),
+                "example_value": "1",
+                "why_needed": ("Each listed fixture is counted, and the total drives "
+                               "the mechanical and plumbing permit fees."),
+            } for f in fixtures],
             contact=contact,
         )
         (OUT_DIR / f"{aid}.json").write_text(

@@ -201,3 +201,65 @@ class TestExtractorRouting:
 
     def test_the_three_standards_docs_are_declared(self):
         assert wf.STANDARDS_DOCS == {"567", "570", "627"}
+
+
+class TestSchemaContract:
+    """form_fields keys are fixed by ingestor.article_to_chunks.
+
+    It reads f['field_name'] and f['label'] directly, so a wrong key raises
+    KeyError at ingest time -- which is how this was found, after 2 of 55
+    articles had already been written.
+    """
+
+    REQUIRED = {"field_name", "label"}
+    OPTIONAL = {"description", "example_value", "why_needed"}
+
+    def test_ingestor_still_expects_these_keys(self):
+        src = open("ingestor.py", encoding="utf-8").read()
+        for key in self.REQUIRED:
+            assert f"f['{key}']" in src, f"ingestor no longer reads {key}"
+
+    def test_transformer_emits_them(self):
+        src = open("wv_forms_transformer.py", encoding="utf-8").read()
+        for key in self.REQUIRED | self.OPTIONAL:
+            assert f'"{key}"' in src, f"transformer does not emit {key}"
+
+    def test_required_documents_keys_match_the_ingestor(self):
+        src = open("ingestor.py", encoding="utf-8").read()
+        assert "d['name']" in src
+        for key in ("description", "where_to_get", "example"):
+            assert f"'{key}'" in src or f'"{key}"' in src
+
+
+class TestPermitTypeMapping:
+    """Each inverted article covers ONE permit type and should carry it.
+
+    sources.py sets permit_type=None on 568/614 because each DOCUMENT spans many
+    permit types. Before hybrid_search was fixed to include NULL rows, that made
+    all 32 checklists invisible whenever the classifier named a permit type.
+    """
+
+    def test_known_columns_map_to_corpus_keys(self):
+        cases = {
+            "Building Permit - New Building": "building_permit",
+            "Building Permit - Additions": "building_permit",
+            "Mechanical or Plumbing Permit": "building_permit_mechanical_plumbing",
+            "Fire Permit": "fire_permit",
+            "Sign Permit - Freestanding": "sign_permit",
+            "Site Development Permit": "development_permit",
+            "Right-of-Way Permit": "row_permit",
+            "Tree Removal": "tree_permit",
+        }
+        for column, expected in cases.items():
+            assert wf.permit_type_for(column) == expected, column
+
+    def test_mechanical_wins_over_the_generic_building_match(self):
+        # "Mechanical or Plumbing Permit" contains neither "building permit" nor
+        # anything ambiguous, but ordering matters if a column ever reads
+        # "Building Permit - Mechanical". The specific rule is listed first.
+        assert wf.PERMIT_TYPE_BY_COLUMN[0][0] == "mechanical or plumbing"
+
+    def test_land_use_types_stay_none(self):
+        # No established key for these, and NULL is no longer invisible.
+        for column in ("Short Plat", "Variance", "Design Review", "SEPA/Project Approval"):
+            assert wf.permit_type_for(column) is None, column
